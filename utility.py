@@ -51,7 +51,7 @@ def load_ocr_output(file_path):  # removing stopwords in this step
 def clustering(x_data, y_data, number_of_clusters, link):
     x_y_combined = [[x, y] for x, y in zip(x_data, y_data)]
     clf = AgglomerativeClustering(n_clusters=number_of_clusters, linkage=link).fit(x_y_combined)
-    #clf = KMeans(number_of_clusters).fit(x_y_combined)
+    # clf = KMeans(number_of_clusters).fit(x_y_combined)
     return clf.labels_
 
 
@@ -64,21 +64,39 @@ def ocr_coordinates_pre_processing(data):  # deleting spaces between words
     word_length = [0] + word_length[:-1]
     old_line_id = None
     total_length = 0
-    for line, id in zip(line_id, word_id):  # new line we don't need to subtract
+    for line, w_id in zip(line_id, word_id):  # new line we don't need to subtract
         if old_line_id != line: # new line
-            word_length[word_id.index(id)] = 0
+            word_length[word_id.index(w_id)] = 0
             old_line_id = line
             total_length = 0
         else:
-            prev_length = word_length[word_id.index(id)]
-            word_length[word_id.index(id)] += total_length
+            prev_length = word_length[word_id.index(w_id)]
+            word_length[word_id.index(w_id)] += total_length
             total_length += prev_length
     x_data = [a-b for a,b in zip(x_data, word_length)]
     # x_y_comb = [[x, y] for x, y in zip(x_data, y_data)]
     return x_data, y_data
 
 
-def gap_statistic(data, nrefs=30, maxClusters=10):  # TODO: run for different linkage methods and choose best one
+def estimate_n_clusters(data):
+    # we use different linkage methods, return one with max value of gap
+    # single linkage is fast, and can perform well on non-globular data, but it performs poorly in the presence of noise
+    # average and complete linkage perform well on cleanly separated globular clusters, but have mixed results otherwise
+    # Ward is the most effective method for noisy data
+    linkage_list = ['single', 'average', 'ward']
+    value = -999999
+    k_best = None
+    best_linkage = None
+    for linkage_method in linkage_list:
+        k, max_val, df = gap_statistic(data, linkage_method)
+        if value < max_val:
+            value = max_val
+            k_best = k
+            best_linkage = linkage_method
+    return k_best, best_linkage
+
+
+def gap_statistic(data, linkage_method, nrefs=30, maxClusters=10):
     # calculates optimal number of clausters by usig Gap Statistic from Tibshirani, Walther, Hastie
     # Params:
     #   data: ndarry of shape (n_samples, n_features)
@@ -100,19 +118,20 @@ def gap_statistic(data, nrefs=30, maxClusters=10):  # TODO: run for different li
             randomReference = np.random.random_sample(size=(length_data, 2))
 
             # Fit to it
-            ac = AgglomerativeClustering(k, linkage='single')
+            ac = AgglomerativeClustering(k, linkage=linkage_method)
             # ac = KMeans(k)
             ac.fit(randomReference)
 
             refDisp = dispersion(randomReference, ac.labels_)
-
+            # refDisp = ac.inertia_
             refDisps[i] = refDisp
         # Fit cluster to original data and create dispersion
-        ac = AgglomerativeClustering(k, linkage='single')
-        #ac = KMeans(k)
+        ac = AgglomerativeClustering(k, linkage=linkage_method)
+        # ac = KMeans(k)
         ac.fit(data)
 
         origDisp = dispersion(data, ac.labels_)
+        # origDisp = ac.inertia_
         # Calculate gap statistic
         gap = np.log(np.mean(refDisps)) - np.log(origDisp)
 
@@ -121,22 +140,28 @@ def gap_statistic(data, nrefs=30, maxClusters=10):  # TODO: run for different li
 
         resultsdf = resultsdf.append({'clusterCount': k, 'gap': gap}, ignore_index=True)
 
-    return (gaps.argmax() + 1,
+    return (gaps.argmax() + 1, gaps.max(),
             resultsdf)  # Plus 1 because index of 0 means 1 cluster is optimal, index 2 = 3 clusters are optimal
 
 
-def dispersion(data_points, returned_clusters):  # returns Wk, is the pooled within-cluster sum of squares around the cluster means
-    # calculaing pairwise euclidean distance for all points for each cluster
+def dispersion(data_points, returned_clusters):  # returns Wk, is the pooled within-cluster sum of squares around the
+    #  cluster means calculating pairwise euclidean distance for all points for each cluster
     cluster_dict = {}
     number_of_elem_in_clusters = {}
-    for point, label in zip(data_points, returned_clusters):
+    for point, label in zip(data_points, returned_clusters):  # arranging points by clusters
         if label not in cluster_dict:
             cluster_dict[label] = []
         cluster_dict[label].append(point)
-    for label in cluster_dict:
+    for label in cluster_dict:  # number of point in each cluster
         number_of_elem_in_clusters[label] = len(cluster_dict[label])
     for label in cluster_dict:
-        cluster_dict[label] = euclidean_distances(cluster_dict[label], cluster_dict[label]).sum()
+        # tried to use centroids, but results are worst
+        # x, y = zip(*cluster_dict[label])
+        # l = len(x)
+        # cluster_centroid = [sum(x) / l, sum(y) / l]
+        cluster_dict[label] = euclidean_distances(cluster_dict[label], squared=True).sum()
+        # need to compute
+        # between points  and center of the cluster
     wk = 0
     for r in cluster_dict:
         wk += 1/(2*number_of_elem_in_clusters[r])*cluster_dict[r]
