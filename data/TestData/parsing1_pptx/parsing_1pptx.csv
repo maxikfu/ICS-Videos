@@ -1,0 +1,162 @@
+Sentence,SlideNumber,Id,RegionId,Parent
+Parsing,1,1,0,0
+Recommended  Reading:  Ch.  12-14thJurafsky  &  Martin  2nd  edition ,1,2,1,
+"PI  Disclosure:  This  set  includes  adapted  material  from  RadaMihalcea,  Raymond  Mooney  and  Dan  Jurafsky ",1,3,2,
+Today ,2,4,0,0
+Parsing  with  CFGs ,2,5,1,
+"Bottom-up,  top-down ",2,6,1,5
+Ambiguity  ,2,7,1,5
+CKY  parsing,2,8,1,5
+Early  algorithm ,2,9,1,5
+Parsing  with  CFGs ,3,10,0,0
+Parsing  with  CFGs  refers  to  the  task  of  assigning  proper  trees  to  input  strings  ,3,11,1,
+Proper:  a  tree  that  covers  all  and  only  the  elements  of  the  input  and  has  an  S  at  the  top ,3,12,2,
+It  doesn’t  actually  mean  that  the  system  can  select  the  correct  tree  from  among  all  the  possible  trees ,3,13,3,
+Parsing  with  CFGs ,4,14,0,0
+"As  with  everything  of  interest,  parsing  involves  a  search",4,15,1,
+We’ll  start  with  some  basic  methods: ,4,16,2,
+Top  down  parsing ,4,17,2,16
+Bottom  up  parsing ,4,18,2,16
+Real  algorithms: ,4,19,3,
+Cocke-Kasami-Younger  (CKY)  ,4,20,3,19
+Earley  parser  ,4,21,3,19
+For  Now,5,22,0,0
+Assume...,5,23,1,
+You  have  all  the  words  already  in  some  buffer,5,24,1,23
+The  input  isn’t  POS  tagged,5,25,1,23
+We  won’t  worry  about  morphological  analysis ,5,26,1,23
+All  the  words  are  known,5,27,1,23
+Top-Down  Search ,6,28,0,0
+"Since  we’re  trying  to  find  trees  rooted  with  an  S(Sentences),  why  not  start  with  the  rules  that  give  us  an  S.",6,29,1,
+Then  we  can  work  our  way  down  from  there  to  the  words. ,6,30,2,
+As  an  example  let’s  parse  the  sentence: ,6,31,3,
+Book  that  flight ,6,32,3,31
+Bottom-Up  Parsing ,29,33,0,0
+"Of  course,  we  also  want  trees  that  cover  the  input  words.  So  we  might  also  start  with  trees  that  link  up  with  the  words  in  the  right  way.",29,34,1,
+Then  work  your  way  up  from  there  to  larger  and  larger  trees. ,29,35,2,
+Top-Down  and  Bottom-Up,52,36,0,0
+Top-down ,52,37,1,
+Only  searches  for  trees  that  can  be  answers  (i.e.  S’s),52,38,1,37
+But  also  suggests  trees  that  are  not  consistent  with  any  of  the  words ,52,39,1,37
+Bottom-up,52,40,2,
+Only  forms  trees  consistent  with  the  words  ,52,41,2,40
+But  suggests  trees  that  make  no  sense  globally ,52,42,2,40
+Control  ,53,43,0,0
+"Of  course,  in  both  cases  we  left  out  how  to  keep  track  of  the  search  space  and  how  to  make  choices ",53,44,1,
+Which  node  to  try  to  expand  next  ,53,45,1,44
+Which  grammar  rule  to  use  to  expand  a  node,53,46,1,44
+One  approach  is  called  backtracking ,53,47,2,
+"Make  a  choice,  if  it  works  out  then  fine  ",53,48,2,47
+If  not  then  back  up  and  make  a  different  choice ,53,49,2,47
+Problems ,54,50,0,0
+"Even  with  the  best  filtering,  backtracking  methods  are  doomed  because  of  ambiguity ",54,51,1,
+Attachment  ambiguity,54,52,1,51
+Coordination  ambiguity  ,54,53,1,51
+Dynamic  Programming ,56,54,0,0
+DP  search  methods  fill  tables  with  partial  results  and  thereby ,56,55,1,
+Avoid  doing  avoidable  repeated  work ,56,56,1,55
+Efficiently  store  ambiguous  structures  with  shared  sub-parts. ,56,57,1,55
+We’ll  cover  two  approaches  that  roughly  correspond  to  top-down  and  bottom-up  approaches: ,56,58,2,
+Cocke-Kasami-Younger  (CKY)  ,56,59,2,58
+Earley  parser,56,60,2,58
+CKY  Parsing ,57,61,0,0
+"First  we’ll  limit  our  grammar  to  epsilon-free,  binary  rules  (more  later) ",57,62,1,
+Consider  the  rule  A    BC,57,63,2,
+If  there  is  an  A  somewhere  in  the  input  then  there  must  be  a  B  followed  by  a  C  in  the  input. ,57,64,2,63
+If  the  A  spans  from  i  to  j  in  the  input  then  there  must  be  some  ks.t.  i<k<j ,57,65,2,63
+ie.  the  B  splits  from  the  C  someplace,57,66,2,65
+Problem  ,58,67,0,0
+What  if  your  grammar  isn’t  binary? ,58,68,1,
+As  in  the  case  of  the  TreeBank  grammar? ,58,69,1,68
+Convert  it  to  binary...  any  arbitrary  CFG  can  be  rewritten  into  Chomsky-Normal  Form  automatically. ,58,70,2,
+What  does  this  mean? ,58,71,3,
+Problem  ,59,72,0,0
+"More  specifically,  we  want  our  rules  to  be  of  the  form ",59,73,1,
+"That  is,  rules  can  expand  to  either  2  non-terminals  or  to  a  single  terminal.",59,74,2,
+Binarization  Intuition ,60,75,0,0
+Eliminate  chains  of  unit  productions. ,60,76,1,
+Introduce  new  intermediate  non-terminals  into  the  grammar  that  distribute  rules  with  length  >  2  over  several  rules.    ,60,77,2,
+Where  X  is  a  symbol  that  doesn't  occur  anywhere  else  in  the  the  grammar. ,60,78,3,
+CKY  Parsing:  Intuition  ,63,79,0,0
+Consider  the  rule  D  →  w,63,80,1,
+Terminal  (word)  forms  a  constituent ,63,81,1,80
+Trivial  to  apply ,63,82,1,80
+Consider  the  rule  A  →  B  C ,63,83,2,
+If  there  is  an  A  somewhere  in  the  input  then  there  must  be  a  Bfollowed  by  a  C  in  the  input ,63,84,2,83
+"First,  precisely  define  span  [  i,  j] ",63,85,2,83
+If  A  spans  from  ito  j  in  the  input  then  there  must  be  some  k  such  that  i<k<j ,63,86,2,83
+Easy  to  apply:  we  just  need  to  try  out  different  values  for  k,63,87,2,83
+CKY  Parsing:  Table ,64,88,0,0
+"Any  constituent  can  conceivably  span  [i,  j]  for  all  0≤i<j≤N,  where  N  =  length  of  input  string ",64,89,1,
+We  need  an  NN  table  to  keep  track  of  all  spans...,64,90,1,89
+But  we  only  need  half  of  the  table,64,91,1,89
+"Semantics  of  table:  cell  [i,  j]  contains  A  iff  A  spans  i  to  j  in  the  input  string ",64,92,2,
+"Of  course,  must  be  allowed  by  the  grammar! ",64,93,2,92
+CKY  Parsing:  Table-Filling ,65,94,0,0
+So  let’s  fill  this  table...,65,95,1,
+"And  look  at  the  cell  [  0,  N]:  which  means?  ",65,96,1,95
+But  how? ,65,97,2,
+CKY  Parsing:  Table-Filling ,66,98,0,0
+"In  order  for  A  to  span  [i,  j]:",66,99,1,
+"A    B  C  is  a  rule  in  the  grammar,  and ",66,100,1,99
+"There  must  be  a  B  in  [  i,  k]  and  a  C  in  [  k,  j]  for  some  i<k<j ",66,101,1,99
+Operationally:   ,66,102,2,
+"To  apply  rule  A    B  C,  look  for  a  B  in  [i,  k]  and  a  C  in  [k,  j]",66,103,2,102
+In  the  table:  look  left  in  the  row  and  down  in  the  column,66,104,2,102
+Note ,68,105,0,0
+"We  arranged  the  loops  to  fill  the  table  a  column  at  a  time,  from  left  to  right,  bottom  to  top.   ",68,106,1,
+"This  assures  us  that  whenever  we’re  filling  a  cell,  the  parts  needed  to  fill  it  are  already  in  the  table  (to  the  left  and  below) ",68,107,1,106
+It’s  somewhat  natural  in  that  it  processes  the  input  left  to  right  a  word  at  a  time ,68,108,1,106
+Known  as  online  ,68,109,1,108
+CKY  Notes ,71,110,0,0
+"Since  it’s  bottom  up,  CKY  populates  the  table  with  a  lot  of  phantom  constituents.  ",71,111,1,
+To  avoid  this  we  can  switch  to  a  top-down  control  strategy ,71,112,1,111
+Or  we  can  add  some  kind  of  filtering  that  blocks  constituents  where  they  can  not  happen  in  a  final  analysis. ,71,113,1,111
+Is  there  a  parsing  algorithm  for  arbitrary  CFGs  that  combines  dynamic  programming  and  top-down  control? ,71,114,2,
+Earley  Parsing  ,72,115,0,0
+Allows  arbitrary  CFGs ,72,116,1,
+Top-down  control  ,72,117,2,
+Fills  a  table  in  a  single  sweep  over  the  input ,72,118,3,
+Table  is  length  N+1,72,119,3,118
+Table  entries  represent  a  set  of  states  (si):,72,120,3,118
+A  grammar  rule ,72,121,4,120
+Information  about  progress  made  in  completing  the  sub-tree  represented  by  the  rule  ,72,122,4,120
+Span  of  the  sub-tree  ,72,123,4,120
+Earley,74,124,0,0
+"As  with  most  dynamic  programming  approaches,  the  answer  is  found  by  looking  in  the  table  in  the  right  place. ",74,125,1,
+"In  this  case,  there  should  be  an  S  state  in  the  final  column  that  spans  from  0  to  N  and  is  complete.    That  is, ",74,126,2,
+If  that’s  the  case  you’re  done. ,74,127,3,
+Earley ,75,128,0,0
+So  sweep  through  the  table  from  0  to  N...,75,129,1,
+New  predicted  states  are  created  by  starting  top-down  from  S ,75,130,1,129
+New  incomplete  states  are  created  by  advancing  existing  states  as  new  constituents  are  discovered ,75,131,1,129
+New  complete  states  are  created  in  the  same  way.    ,75,132,1,129
+Earley  ,76,133,0,0
+More  specifically...,76,134,1,
+Predict  all  the  states  you  can  upfront  ,76,135,2,134
+Read  a  word,76,136,2,134
+Extend  states  based  on  matches,76,137,2,136
+Generate  new  predictions ,76,138,2,136
+Go  to  step  2,76,139,2,136
+"When  you’re  out  of  words,  look  at  the  chart  to  see  if  you  have  a  winner ",76,140,3,
+Earley ,77,141,0,0
+"Proceeds  incrementally,  left-to-right ",77,142,1,
+"Before  it  reads  word  5,  it  has  already  built  all  hypotheses  that  are  consistent  with  first  4  words",77,143,2,142
+Reads  word  5  &  attaches  it  to  immediately  preceding  hypotheses.    Might  yield  new  constituents  that  are  then  attached  to  hypotheses  immediately  preceding  them  ...,77,144,2,142
+"E.g.,  attaching  D  to  A    B  C  .  D  E  gives  A    B  C  D  .  E ",77,145,2,142
+Attaching  E  to  that  gives  A    B  C  D  E  ,77,146,2,142
+"Now  we  have  a  complete  A  that  we  can  attach  to  hypotheses  immediately  preceding  the  A,  etc.",77,147,2,142
+Earley,78,148,0,0
+Three  Main  Operators: ,78,149,1,
+Predictor:  If  state  si  has  a  non  terminal  to  the  right  we  add  to  si  all  alternatives  to  generate  the  non  terminal,78,150,2,149
+Scanner:  when  there  is  POS  to  the  right  of  the  dot  in  si  then  scanner  will  try  to  match  it  with  an  input  word  and  if  a  successful  match  is  found  the  new  state  will  be  added  to  si,78,151,2,149
+Completer:  if  the  dot  is  at  the  end  of  the  production  then  the  completer  looks  for  all  states  looking  for  the  non  terminal  that  has  been  found  and  advances  the  position  of  the  dot  for  those  states.  ,78,152,2,149
+Ambiguity ,88,153,0,0
+No...,88,154,1,
+"Both  CKY  and  Earley  will  result  in  multiple  S  structures  for  the  [0,N]table  entry. ",88,155,2,154
+They  both  efficiently  store  the  sub-parts  that  are  shared  between  multiple  parses. ,88,156,2,154
+And  they  obviously  avoid  re-deriving  those  sub-parts.,88,157,2,154
+But  neither  can  tell  us  which  one  is  right.,88,158,2,154
+Ambiguity ,89,159,0,0
+"In  most  cases,  humans  don’t  notice  incidental  ambiguity  (lexical  or  syntactic).  It  is  resolved  on  the  fly  and  never  noticed. ",89,160,1,
+We’ll  try  to  model  that  with  probabilities. ,89,161,1,

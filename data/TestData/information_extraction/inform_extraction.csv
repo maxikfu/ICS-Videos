@@ -1,0 +1,98 @@
+Sentence,SlideNumber,Id,RegionId,Parent
+Information  Extraction ,1,1,0,0
+Chapter  20-20.3  J&M  3rd  edition,1,2,1,
+IP  disclosure:  content  on  these  slides  was  adapted  from  Ray  Mooney  and  Ellen  Riloff    ,1,3,2,
+Today’s Lecture,2,4,0,0
+Information  extraction ,2,5,1,
+Named  Entity  Recognition ,2,6,2,
+Relation  Extraction ,2,7,3,
+Temporal  Expression  Processing  ,2,8,4,
+Information  Extraction    (IE) ,3,9,0,0
+Identify  specific  pieces  of  information  (data)  in  an  unstructured  or  semi-structured  textual  document  or  speech  transcription. ,3,10,1,
+Transform  unstructured  information  in  a  corpus  of  documents  or  web  pages  into  a  structured  database. ,3,11,2,
+Applied  to  different  types  of  text: ,3,12,3,
+Newspaper  articles ,3,13,3,12
+Web  pages ,3,14,3,12
+Scientific  articles  ,3,15,3,12
+Newsgroup  messages ,3,16,3,12
+Classified  ads ,3,17,3,12
+Medical  notes ,3,18,3,12
+MUC,4,19,0,0
+DARPA  funded  significant  efforts  in  IE  in  the  early  to  mid  1990͛s.,4,20,1,
+Message  Understanding  Conference  (MUC)  was  an  annual  event/competition  where  results  were  presented. ,4,21,2,
+Focused  on  extracting  information  from  news  articles:  ,4,22,3,
+Terrorist  events ,4,23,3,22
+Industrial  joint  ventures ,4,24,3,22
+Company  management  changes,4,25,3,22
+"Information  extraction  of  particular  interest  to  the  intelligence  community  (CIA,  NSA).",4,26,4,
+"Established  standard  evaluation  methodology  using  development  (training)  and  test  data  and  metrics:  precision,  recall,  F-measure.",4,27,5,
+Named  Entity  (NE)  Recognition ,5,28,0,0
+"Specific  type  of  information  extraction  in  which  the  goal  is  to  extract  proper  names  of  particular  types  of  entities  such  as  people,  places,  organizations,  etc. ",5,29,1,
+"Usually  a  preprocessing  step  for  subsequent  task-specific  IE,  or  other  tasks  such  as  question  answering. ",5,30,2,
+NEs  are  application  specific  ,5,31,3,
+Other  Applications ,13,32,0,0
+Job  postings  ,13,33,1,
+Job  resumes      ,13,34,2,
+Seminar  announcements  ,13,35,3,
+Company  information  from  the  web,13,36,4,
+Continuing  education  course  info  from  the  web,13,37,5,
+University  information  from  the  web  ,13,38,6,
+Apartment  rental  ads ,13,39,7,
+Molecular  biology  information  from  MEDLINE ,13,40,8,
+IE  as  Sequence  Labeling  ,15,41,0,0
+Can  extract  features  describing  each  token  in  the  text.,15,42,1,
+Can  apply  a  sliding  window  classifier  using  various  classification  algorithms. ,15,43,2,
+Can  apply  probabilistic  sequence  models:,15,44,3,
+HMM ,15,45,3,44
+CRF  (Conditional  Random  Fields) ,15,46,3,44
+Evaluating  IE  Accuracy ,20,47,0,0
+"Always  evaluate  performance  on  independent,  manually-annotated  test  data  not  used  during  system  development. ",20,48,1,
+Measure  for  each  test  document: ,20,49,2,
+Total  number  of  NEs  in  the  solution  template:  N,20,50,2,49
+Total  number  of  NEs  extracted  by  the  system:  E,20,51,2,49
+Number  of  extracted  NEs  that  are  correct  (i.e.  in  the  gold  standard):  C  ,20,52,2,49
+Compute  average  value  of  metrics  adapted  from  IR: ,20,53,3,
+Recall  =  C/N ,20,54,3,53
+Precision  =  C/E ,20,55,3,53
+F-Measure  =  Harmonic  mean  of  recall  and  precision        2  x  Precision  x  Recall  /  (Precision  +  Recall)    ,20,56,3,53
+Relation  Extraction ,21,57,0,0
+Relation  Extraction ,22,58,0,0
+"Once  entities  are  recognized,  identify  specific  relations  between  entities  ",22,59,1,
+Employed-by,22,60,1,59
+Located-at,22,61,1,59
+Part-of,22,62,1,59
+Example:,22,63,2,
+Michael  Dell  is  the  CEO  ofDell  Computer  Corporation  and  lives  inAustin  Texas,22,64,2,63
+Supervised  Learning  for  Relation  Extraction  ,26,65,0,0
+Features  commonly  used  include: ,26,66,1,
+NE  types,26,67,1,66
+Bag  of  words  for  each  argument,26,68,1,66
+Headwords  of  the  arguments ,26,69,1,66
+Bag  of  words  and  bigrams  between  entities ,26,70,1,66
+Stemmed  versions    ,26,71,1,70
+Words  and  stems  in  the  immediate  context ,26,72,1,66
+Presence  of  particular  constructions ,26,73,1,66
+Chunk  based-phrase  paths ,26,74,1,66
+Constituent-tree  paths   ,26,75,1,66
+Lightly  Supervised  Relation  Extraction,31,76,0,0
+We  need  to  address  the  following  problems: ,31,77,1,
+Representation  of  the  search  patterns  ,31,78,1,77
+Assessing  accuracy  and  coverage  of  discovered  patterns ,31,79,1,77
+"(Riloff  and  Jones,  1999)  ",31,80,1,79
+Assessing  reliability  of  discovered  tuples ,31,81,1,77
+Evaluation  of  Relation  Extraction  Systems  ,32,82,0,0
+Can  focus  on: ,32,83,1,
+"Measuring  relation  extraction  (can  use  labeled  or  unlabeled  recall,  precision  and  f-measure) ",32,84,1,83
+"Measuring  how  much  the  system  can  discover  (humans  analyze  the  output  of  the  system  and  compute  accuracy,  no  recall)  ",32,85,1,83
+Use  external  sources  such  as  gazetteers  to  measure  recall  ,32,86,1,83
+Temporal  Expression  Recognition ,37,87,0,0
+Approaches: ,37,88,1,
+Rule-based  systems  ,37,89,1,88
+Sequence  labeling  systems ,37,90,1,88
+Constituent  based  classification  ,37,91,1,88
+Information  Extraction  Issues ,43,92,0,0
+Better  active  learning  methods,43,93,1,
+Integrating  entity  and  relation  extraction ,43,94,2,
+Semi-supervised  IE ,43,95,3,
+Adaptation  and  transfer  to  new  tasks ,43,96,4,
+Mining  extracted  data  to  find  cross-document  regularities. ,43,97,5,
