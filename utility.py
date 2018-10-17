@@ -166,3 +166,43 @@ def dispersion(data_points, returned_clusters):  # returns Wk, is the pooled wit
     for r in cluster_dict:
         wk += 1/(2*number_of_elem_in_clusters[r])*cluster_dict[r]
     return wk
+
+
+def extract_sentences_from_ocr(data):  # extract sentences from txt file related to single frame capture
+    # Parameter: data: data frame format
+    # DF columns in the specific order: word,Fontsize,FontFamily,FontFaceStyle,Left,Top,Right,Bottom,
+    # RecognitionConfidence,Id,RegionId,LineId,imageFile
+    file_dict = {}
+    file_names = set(data['imageFile'])
+    for file_name in file_names:
+        rows = data.loc[data['imageFile'] == file_name]
+        sentence = []
+        region_id = None
+        line_id = None
+        file_dict[file_name] = {}
+        for index, row in data.iterrows():
+            if region_id != row['RegionId']:  # checking if it is in the different slide
+                if sentence:  # writing last sentence from previous file
+                    file_dict[file_name][region_id].append(sentence)
+                    sentence = []
+                region_id = row['RegionId']
+                file_dict[file_name][region_id] = []  # list of sentences
+                line_id = row['LineId']
+            if line_id != row['LineId'] and sentence:  # new line of words (or new sentence I guess)
+                # need to check first letter of new word, if lower maybe sentence continues
+                if row['word'][0].isupper():  # need to create new sentence
+                    file_dict[file_name][region_id].append(sentence)
+                    sentence = [row['word']]
+                else:  # same sentence, just adding to previous one
+                    sentence.append(row['word'])
+                line_id = row['LineId']
+            else:  # same sentence or line
+                if row['word'][0].isupper() and sentence:  # TODO: figure out more sophisticated method
+                    file_dict[file_name][region_id].append(sentence)
+                    sentence = [row['word']]
+                else:
+                    sentence.append(row['word'])
+        if sentence:  # need ability to add last sentence
+            file_dict[file_name][region_id].append(sentence)
+    return file_dict
+
