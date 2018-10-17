@@ -209,7 +209,7 @@ def extract_sentences_from_ocr(data):  # extract sentences from txt file related
     return file_dict
 
 
-def evaluation(predicted_data, actual_data):
+def evaluation(predicted_data, actual_data):  # TODO: How to evaluate 2 dictionarotes, maybe go back to word by word representation
     # Returns accuracy, based on how many words algorithm categorized correctly in one cluster
     # Parameters:
     # predicted_data: dictionary there key - cluster, value - list of words in this cluster
