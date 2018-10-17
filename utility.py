@@ -169,6 +169,7 @@ def dispersion(data_points, returned_clusters):  # returns Wk, is the pooled wit
 
 
 def extract_sentences_from_ocr(data):  # extract sentences from txt file related to single frame capture
+    # Determines new sentence only by Uppercase letter in the beginning of the word
     # Parameter: data: data frame format
     # DF columns in the specific order: word,Fontsize,FontFamily,FontFaceStyle,Left,Top,Right,Bottom,
     # RecognitionConfidence,Id,RegionId,LineId,imageFile
@@ -188,20 +189,21 @@ def extract_sentences_from_ocr(data):  # extract sentences from txt file related
                 region_id = row['RegionId']
                 file_dict[file_name][region_id] = []  # list of sentences
                 line_id = row['LineId']
-            if line_id != row['LineId'] and sentence:  # new line of words (or new sentence I guess)
-                # need to check first letter of new word, if lower maybe sentence continues
-                if row['word'][0].isupper():  # need to create new sentence
-                    file_dict[file_name][region_id].append(sentence)
-                    sentence = [row['word']]
-                else:  # same sentence, just adding to previous one
-                    sentence.append(row['word'])
-                line_id = row['LineId']
-            else:  # same sentence or line
-                if row['word'][0].isupper() and sentence:  # TODO: figure out more sophisticated method
-                    file_dict[file_name][region_id].append(sentence)
-                    sentence = [row['word']]
-                else:
-                    sentence.append(row['word'])
+            # if line_id != row['LineId'] and sentence:  # new line of words (or new sentence I guess)
+            #     # need to check first letter of new word, if lower maybe sentence continues
+            #     if row['word'][0].isupper():  # need to create new sentence
+            #         file_dict[file_name][region_id].append(sentence)
+            #         sentence = [row['word']]
+            #     else:  # same sentence, just adding to previous one
+            #         sentence.append(row['word'])
+            #     line_id = row['LineId']
+            # else:  # same sentence or line
+            #     if row['word'][0].isupper() and sentence:  # TODO: figure out more sophisticated method
+            #         file_dict[file_name][region_id].append(sentence)
+            #         sentence = [row['word']]
+            #     else:
+            #         sentence.append(row['word'])
+            sentence.append(row['word'])
         if sentence:  # need ability to add last sentence
             file_dict[file_name][region_id].append(sentence)
     return file_dict
