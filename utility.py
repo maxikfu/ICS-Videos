@@ -208,3 +208,30 @@ def extract_sentences_from_ocr(data):  # extract sentences from txt file related
             file_dict[file_name][region_id].append(sentence)
     return file_dict
 
+
+def evaluation(predicted_data, actual_data):
+    # Returns accuracy, based on how many words algorithm categorized correctly in one cluster
+    # Parameters:
+    # predicted_data: dictionary there key - cluster, value - list of words in this cluster
+    # actual_data: same format as a predicted_data
+    for file_name, value in actual_data.items():
+        # print(actual_data[file_name])
+        pass
+
+
+def update_ocr_results(data, new_region_id):
+    # Updating ocr output based on the clustering algorithm
+    # Parameters: data - dataframe of ocr, each word in new line
+    # new_region_id - list of labels outputed by clustering algorihtm (need to be reassign label names from 0 to etc.)
+    number_of_clusters = max(new_region_id) + 1
+    prev_cluster = new_region_id[0]
+    new_cluster = 0
+    for i in range(0, len(new_region_id)):
+        if prev_cluster != new_region_id[i]:
+            new_cluster += 1
+            prev_cluster = new_region_id[i]
+        data.at[i, 'RegionId'] = new_cluster
+    return data
+
+
+
