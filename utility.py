@@ -181,7 +181,7 @@ def extract_sentences_from_ocr(data):  # extract sentences from txt file related
         region_id = None
         line_id = None
         file_dict[file_name] = {}
-        for index, row in data.iterrows():
+        for index, row in rows.iterrows():
             if region_id != row['RegionId']:  # checking if it is in the different slide
                 if sentence:  # writing last sentence from previous file
                     file_dict[file_name][region_id].append(sentence)
@@ -233,5 +233,10 @@ def update_ocr_results(data, new_region_id):
         data.at[i, 'RegionId'] = new_cluster
     return data
 
+
+def perfect_ocr(gold, ocr_output):
+    # Parameters: dictionary of gold dataset and predeicted dataset
+    print(gold[1])
+    print(ocr_output['Slide1.jpg'])
 
 
