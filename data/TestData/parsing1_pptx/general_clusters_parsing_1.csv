@@ -1,7 +1,7 @@
 Sentence,SlideNumber,Id,RegionId,Parent
 Parsing,1,1,0,0
 Recommended  Reading:  Ch.  12-14thJurafsky  &  Martin  2nd  edition ,1,2,1,
-"PI  Disclosure:  This  set  includes  adapted  material  from  RadaMihalcea,  Raymond  Mooney  and  Dan  Jurafsky ",1,3,2,
+"PI  Disclosure:  This  set  includes  adapted  material  from  Rada Mihalcea,  Raymond  Mooney  and  Dan  Jurafsky ",1,3,2,
 Today ,2,4,0,0
 Parsing  with  CFGs ,2,5,1,
 "Bottom-up,  top-down ",2,6,1,5

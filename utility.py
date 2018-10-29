@@ -7,6 +7,7 @@ from nltk import word_tokenize
 from nltk.corpus import stopwords
 from sklearn.cluster import AgglomerativeClustering, KMeans
 from sklearn.metrics.pairwise import euclidean_distances
+import matplotlib.pyplot as plt
 
 
 def load_test_data(file_path):  # returns test data in dictionary
@@ -103,6 +104,10 @@ def gap_statistic(data, linkage_method, nrefs=30, maxClusters=10):
     #   nrefs: number of sample reference datasets to create
     #   maxClusters: Maximum number of clusters to test for
     # Returns: (gaps, optimalK)
+
+    # Number of clusters cannot be more then number of samples
+    if len(data) < 10:
+        maxClusters = len(data)
     gaps = np.zeros((len(range(1, maxClusters)),))
     resultsdf = pd.DataFrame({'clusterCount': [], 'gap': []})
     for gap_index, k in enumerate(range(1, maxClusters)):
@@ -209,34 +214,90 @@ def extract_sentences_from_ocr(data):  # extract sentences from txt file related
     return file_dict
 
 
-def evaluation(predicted_data, actual_data):  # TODO: How to evaluate 2 dictionarotes, maybe go back to word by word representation
+def evaluation(predicted_data, actual_data):
     # Returns accuracy, based on how many words algorithm categorized correctly in one cluster
     # Parameters:
     # predicted_data: dictionary there key - cluster, value - list of words in this cluster
     # actual_data: same format as a predicted_data
-    for file_name, value in actual_data.items():
-        # print(actual_data[file_name])
-        pass
+    total_number_of_clusters = 0
+    correct_clusters = 0
+    for slide_name, value in actual_data.items():
+        for cluster in value:
+            total_number_of_clusters += 1
+            gold_word_list = [items for sublist in value[cluster] for items in sublist]
+            # print(gold_word_list)
+            if cluster in predicted_data[slide_name]:
+                pred_word_list = [items for sublist in predicted_data[slide_name][cluster] for items in sublist]
+                # print(pred_word_list)
+                difference = set(gold_word_list)^set(pred_word_list)
+                if not difference:
+                    correct_clusters += 1
+    return correct_clusters, total_number_of_clusters
 
 
-def update_ocr_results(data, new_region_id):
+def update_ocr_results(slice, data, new_region_id):
+    ids = slice.index.values
     # Updating ocr output based on the clustering algorithm
     # Parameters: data - dataframe of ocr, each word in new line
     # new_region_id - list of labels outputed by clustering algorihtm (need to be reassign label names from 0 to etc.)
     number_of_clusters = max(new_region_id) + 1
     prev_cluster = new_region_id[0]
     new_cluster = 0
-    for i in range(0, len(new_region_id)):
+    for i,j in zip(range(0,len(new_region_id)), ids):
         if prev_cluster != new_region_id[i]:
             new_cluster += 1
             prev_cluster = new_region_id[i]
-        data.at[i, 'RegionId'] = new_cluster
+        data.at[j, 'RegionId'] = new_cluster
     return data
 
 
 def perfect_ocr(gold, ocr_output):
     # Parameters: dictionary of gold dataset and predeicted dataset
-    print(gold[1])
-    print(ocr_output['Slide1.jpg'])
+    # Returns name of the slide with perfect match ocr output and gold data
+
+    # Here we filter only slides containing same number of words as in icr output
+    good_result = []
+    for slide in gold:
+        gold_words = []
+        ocr_words = []
+        for clusters in gold[slide]:
+            for s in gold[slide][clusters]:
+                gold_words += s
+        for clusters in ocr_output[slide]:
+            for s in ocr_output[slide][clusters]:
+                ocr_words += s
+        if len(gold_words) == len(ocr_words):
+        #     going to check word spellings
+            difference = [s for s in gold_words if s not in ocr_words]
+            if not difference:  # perfect match
+                good_result.append(slide)
+    return good_result
+
+
+def clusterize_upgrade(data):
+    # Parameters: data - dataframe of original OCR output
+    # Returns: dictionary containnig filename, clusters in file and sentences inside clusters
+    # clusterizing and updating regionId of input data with multiple ocr outputs in one csv file
+    # removing word length between points to bring words closer to each other for better clustering performance MAYBE
+    data_dict ={}
+    file_names = set(data['imageFile'])
+    for file_name in file_names:
+        # print('working on file',file_name)
+        rows = data.loc[data['imageFile'] == file_name]
+        x, y = ocr_coordinates_pre_processing(rows)
+        x_y = [[x1, y1] for x1, y1 in zip(x, y)]
+        # estimating number of cluster with gap statistic
+        k, linkage = estimate_n_clusters(x_y)
+        labels = clustering(x, y, k, linkage)  # clustering for 2D data
+        data = update_ocr_results(rows, data, labels)
+        data_dict.update(extract_sentences_from_ocr(data))
+        # ax = plt.gca()  # get the axis
+        # ax.invert_yaxis()  # invert the axis
+        # plt.scatter(x, y, c=labels, s=200)
+        # plt.show()
+    # plt.scatter(np.zeros(len(x)), y, c=labels_1)
+    # plt.show()
+    return data_dict
+
 
 
