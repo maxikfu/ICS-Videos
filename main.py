@@ -44,15 +44,13 @@ ie_ocr_result_df = ie_ocr_result_df.drop(drop_ids)
 ocr_ie_dict = utility.extract_sentences_from_ocr(ie_ocr_result_df)
 
 
-
-# Parsing
-ocr_parsing_dict = utility.clusterize_upgrade(parsing_ocr_result_df)
-ocr_ie_dict = utility.clusterize_upgrade(ie_ocr_result_df)
+ocr_parsing_dict = utility.cluster_upgrade(parsing_ocr_result_df)
+ocr_ie_dict = utility.cluster_upgrade(ie_ocr_result_df)
 # Algorithm accuracy
 correct, total = utility.evaluation(ocr_ie_dict, perfect_gold_ie)
 correct1, total1 = utility.evaluation(ocr_parsing_dict, perfect_gold_parsing)
-print('Parsing: ',correct1, total1)
-print('IE: ', correct, total)
+# print('Parsing: ', correct1, total1)
+# print('IE: ', correct, total)
 print('Accuracy of algorithm: ', (correct+correct1)/(total+total1))
 
 # # removing word length between points to bring words closer to each other for better clustering performance MAYBE

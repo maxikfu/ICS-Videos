@@ -221,17 +221,22 @@ def evaluation(predicted_data, actual_data):
     # actual_data: same format as a predicted_data
     total_number_of_clusters = 0
     correct_clusters = 0
-    for slide_name, value in actual_data.items():
+    for slide_name, value in actual_data.items():  # choosing slide from gold data (since it is perfect data we don't
+        # need to check existence of this slide in ocr)
+        not_found_clusters = [e for e in predicted_data[slide_name]]
         for cluster in value:
             total_number_of_clusters += 1
             gold_word_list = [items for sublist in value[cluster] for items in sublist]
             # print(gold_word_list)
-            if cluster in predicted_data[slide_name]:
-                pred_word_list = [items for sublist in predicted_data[slide_name][cluster] for items in sublist]
+            # here we need to loop through all clusters since numbers of cluster may not much
+            for pred_cluster in not_found_clusters:
+                pred_word_list = [items for sublist in predicted_data[slide_name][pred_cluster] for items in sublist]
                 # print(pred_word_list)
-                difference = set(gold_word_list)^set(pred_word_list)
+                difference = set(gold_word_list) ^ set(pred_word_list)
                 if not difference:
                     correct_clusters += 1
+                    not_found_clusters.remove(pred_cluster)
+                    break
     return correct_clusters, total_number_of_clusters
 
 
@@ -243,7 +248,7 @@ def update_ocr_results(slice, data, new_region_id):
     number_of_clusters = max(new_region_id) + 1
     prev_cluster = new_region_id[0]
     new_cluster = 0
-    for i,j in zip(range(0,len(new_region_id)), ids):
+    for i,j in zip(range(0, len(new_region_id)), ids):
         if prev_cluster != new_region_id[i]:
             new_cluster += 1
             prev_cluster = new_region_id[i]
@@ -267,17 +272,17 @@ def perfect_ocr(gold, ocr_output):
             for s in ocr_output[slide][clusters]:
                 ocr_words += s
         if len(gold_words) == len(ocr_words):
-        #     going to check word spellings
+        # going to check word spellings
             difference = [s for s in gold_words if s not in ocr_words]
             if not difference:  # perfect match
                 good_result.append(slide)
     return good_result
 
 
-def clusterize_upgrade(data):
+def cluster_upgrade(data):
     # Parameters: data - dataframe of original OCR output
-    # Returns: dictionary containnig filename, clusters in file and sentences inside clusters
-    # clusterizing and updating regionId of input data with multiple ocr outputs in one csv file
+    # Returns: dictionary containing filename, clusters in file and sentences inside clusters
+    # cauterising and updating regionId of input data with multiple ocr outputs in one csv file
     # removing word length between points to bring words closer to each other for better clustering performance MAYBE
     data_dict ={}
     file_names = set(data['imageFile'])
