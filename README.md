@@ -1,7 +1,7 @@
 # VideoPoints
 This project is part of my thesis work. 
 This work contains following:
-* Agglomerative clustering algorithm application to improve OCR sentence/paragraph sequence detection.
+* Agglomerative clustering algorithm application to improve OCR word sequence detection.
 * Implementation of estimating the number of clusters in data set via the gap statistic. 
 * Currently working on question/answer generation part 
 
