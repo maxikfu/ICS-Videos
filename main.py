@@ -41,17 +41,20 @@ origin_ids = ie_ocr_result_df.index.values
 perfect_ids = ie_ocr_result_df.loc[ie_ocr_result_df['imageFile'].isin(perfect_IE_slides)].index.values
 drop_ids = set(origin_ids)-set(perfect_ids)
 ie_ocr_result_df = ie_ocr_result_df.drop(drop_ids)
+ie_ocr_result_df = utility.load_ocr_output('data/i_0088.csv')
 ocr_ie_dict = utility.extract_sentences_from_ocr(ie_ocr_result_df)
 
 
-ocr_parsing_dict = utility.cluster_upgrade(parsing_ocr_result_df)
+#ocr_parsing_dict = utility.cluster_upgrade(parsing_ocr_result_df)
 ocr_ie_dict = utility.cluster_upgrade(ie_ocr_result_df)
+
 # Algorithm accuracy
 correct, total = utility.evaluation(ocr_ie_dict, perfect_gold_ie)
-correct1, total1 = utility.evaluation(ocr_parsing_dict, perfect_gold_parsing)
+#correct1, total1 = utility.evaluation(ocr_parsing_dict, perfect_gold_parsing)
 # print('Parsing: ', correct1, total1)
 # print('IE: ', correct, total)
-print('Accuracy of algorithm: ', (correct+correct1)/(total+total1))
+# print('Accuracy of algorithm: ', (correct+correct1)/(total+total1))
+print('Accuracy of algorithm: ', (correct)/(total))
 
 # # removing word length between points to bring words closer to each other for better clustering performance MAYBE
 # x, y = utility.ocr_coordinates_pre_processing(ie_ocr_result_df)
