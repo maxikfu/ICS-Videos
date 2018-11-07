@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 
+
+
 parsing_gold_dict = utility.load_test_data('data/TestData/parsing1_pptx/precise_clusters_parsing_1.csv')
 ie_gold_dict = utility.load_test_data('data/TestData/information_extraction/precise_clusters_IE.csv')
 
@@ -41,7 +43,7 @@ origin_ids = ie_ocr_result_df.index.values
 perfect_ids = ie_ocr_result_df.loc[ie_ocr_result_df['imageFile'].isin(perfect_IE_slides)].index.values
 drop_ids = set(origin_ids)-set(perfect_ids)
 ie_ocr_result_df = ie_ocr_result_df.drop(drop_ids)
-ie_ocr_result_df = utility.load_ocr_output('data/i_0088.csv')
+#ie_ocr_result_df = utility.load_ocr_output('data/i_0088.csv')
 ocr_ie_dict = utility.extract_sentences_from_ocr(ie_ocr_result_df)
 
 

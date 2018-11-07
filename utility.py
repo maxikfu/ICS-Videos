@@ -69,24 +69,28 @@ def ocr_coordinates_pre_processing(data):  # deleting spaces between words
     gap = 0
     old_line_id = None
     total_length = 0
-    increas_rate = 0
+    increas_rate = 1
     for line, w_id in zip(line_id, word_id):  # new line we don't need to subtract
         if old_line_id != line: # new line
-            if gap != 0 and word_length[word_id.index(w_id)] <= gap:  # we are in the new paragraph
+            if gap != 0 and data.at[w_id, 'Right'] - data.at[w_id, 'Left'] <= gap:
+                # we are in the new paragraph
                 # so increase Y coordinates of all the others words
-                increas_rate += 100
+                y_data = y_data[:word_id.index(w_id)] + list(map(lambda x: x+1000, y_data[word_id.index(w_id):]))
+            # ax = plt.gca()  # get the axis
+            # ax.invert_yaxis()  # invert the axis
+            # plt.scatter(x_data, y_data)
+            # plt.show()
             word_length[word_id.index(w_id)] = 0
             old_line_id = line
             total_length = 0
         else:
-            gap = max_right_point - last_word_right_point
             prev_length = word_length[word_id.index(w_id)]
             word_length[word_id.index(w_id)] += total_length
             total_length += prev_length
-        y_data[word_id.index(w_id)] += increas_rate
-        last_word_right_point = data.at[word_id.index(w_id), 'Right']
+        # y_data[word_id.index(w_id)] *= increas_rate
+        last_word_right_point = data.at[w_id, 'Right']
+        gap = max_right_point - last_word_right_point
     x_data = [a-b for a,b in zip(x_data, word_length)]
-    print(y_data)
     # x_y_comb = [[x, y] for x, y in zip(x_data, y_data)]
     return x_data, y_data
 
