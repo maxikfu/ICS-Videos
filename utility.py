@@ -57,24 +57,36 @@ def clustering(x_data, y_data, number_of_clusters, link):
 
 
 def ocr_coordinates_pre_processing(data):  # deleting spaces between words
+    # Parameters: data - df of the single image!
     x_data = data['Left'].tolist()
     y_data = data['Top'].tolist()
+    max_right_point = max(data['Right'].tolist()) # max right point in the slide
     word_id = data['Id'].tolist()
     line_id = data['LineId'].tolist()
     word_length = [r - l for l, r in zip(x_data, data['Right'].tolist())]
     word_length = [0] + word_length[:-1]
+    last_word_right_point = 0
+    gap = 0
     old_line_id = None
     total_length = 0
+    increas_rate = 0
     for line, w_id in zip(line_id, word_id):  # new line we don't need to subtract
         if old_line_id != line: # new line
+            if gap != 0 and word_length[word_id.index(w_id)] <= gap:  # we are in the new paragraph
+                # so increase Y coordinates of all the others words
+                increas_rate += 100
             word_length[word_id.index(w_id)] = 0
             old_line_id = line
             total_length = 0
         else:
+            gap = max_right_point - last_word_right_point
             prev_length = word_length[word_id.index(w_id)]
             word_length[word_id.index(w_id)] += total_length
             total_length += prev_length
+        y_data[word_id.index(w_id)] += increas_rate
+        last_word_right_point = data.at[word_id.index(w_id), 'Right']
     x_data = [a-b for a,b in zip(x_data, word_length)]
+    print(y_data)
     # x_y_comb = [[x, y] for x, y in zip(x_data, y_data)]
     return x_data, y_data
 
@@ -296,10 +308,10 @@ def cluster_upgrade(data):
         labels = clustering(x, y, k, linkage)  # clustering for 2D data
         data = update_ocr_results(rows, data, labels)
         data_dict.update(extract_sentences_from_ocr(data))
-        # ax = plt.gca()  # get the axis
-        # ax.invert_yaxis()  # invert the axis
-        # plt.scatter(x, y, c=labels, s=200)
-        # plt.show()
+        ax = plt.gca()  # get the axis
+        ax.invert_yaxis()  # invert the axis
+        plt.scatter(x, y, c=labels, s=200)
+        plt.show()
     # plt.scatter(np.zeros(len(x)), y, c=labels_1)
     # plt.show()
     return data_dict
