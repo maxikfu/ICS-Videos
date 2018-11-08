@@ -45,7 +45,7 @@ def rm_apostrophe(phrase):  # removing apostrophe and punct
 def load_ocr_output(file_path):  # removing stopwords in this step
     data = pd.read_csv(file_path)
     stop_words = set(stopwords.words('english'))
-    #data = data[~data.word.isin(stop_words)]
+    # data = data[~data.word.isin(stop_words)]
     return data
 
 
@@ -60,22 +60,26 @@ def ocr_coordinates_pre_processing(data):  # deleting spaces between words
     # Parameters: data - df of the single image!
     x_data = data['Left'].tolist()
     y_data = data['Top'].tolist()
-    max_right_point = max(data['Right'].tolist()) # max right point in the slide
+    max_right_point = max(data['Right'].tolist())  # max right point in the slide
     word_id = data['Id'].tolist()
     line_id = data['LineId'].tolist()
     word_length = [r - l for l, r in zip(x_data, data['Right'].tolist())]
     word_length = [0] + word_length[:-1]
     last_word_right_point = 0
-    gap = 0
+    gap = 1
     old_line_id = None
     total_length = 0
+    n_cluster = 1
+    assign_cluster = []
+    prev_word_position = 0
     begining_of_prev_line = x_data[0]
     for line, w_id in zip(line_id, word_id):  # new line we don't need to subtract
         if old_line_id != line:  # new line
-            if gap != 0 and data.at[w_id, 'Right'] - data.at[w_id, 'Left'] <= gap:
+            if gap != 1 and data.at[w_id, 'Right'] - data.at[w_id, 'Left'] <= gap:
                 # we are in the new paragraph
                 # so increase Y coordinates of all the others words
-                y_data = y_data[:word_id.index(w_id)] + list(map(lambda x: x+10000, y_data[word_id.index(w_id):]))
+                n_cluster += 1
+                y_data = y_data[:word_id.index(w_id)] + list(map(lambda x: x + 1000, y_data[word_id.index(w_id):]))
             # ax = plt.gca()  # get the axis
             # ax.invert_yaxis()  # invert the axis
             # plt.scatter(x_data, y_data)
@@ -83,16 +87,15 @@ def ocr_coordinates_pre_processing(data):  # deleting spaces between words
             word_length[word_id.index(w_id)] = 0
             total_length = 0
             old_line_id = line
-            begining_of_prev_line = x_data[word_id.index(w_id)]
+        assign_cluster.append(n_cluster - 1)
         prev_length = word_length[word_id.index(w_id)]
         word_length[word_id.index(w_id)] += total_length
         total_length += prev_length
-        # y_data[word_id.index(w_id)] *= increas_rate
         last_word_right_point = data.at[w_id, 'Right']
         gap = max_right_point - last_word_right_point
-    x_data = [a-b for a,b in zip(x_data, word_length)]
+    x_data = [a - b for a, b in zip(x_data, word_length)]
     # x_y_comb = [[x, y] for x, y in zip(x_data, y_data)]
-    return x_data, y_data
+    return x_data, y_data, n_cluster, assign_cluster
 
 
 def estimate_n_clusters(data):
@@ -185,7 +188,7 @@ def dispersion(data_points, returned_clusters):  # returns Wk, is the pooled wit
         # between points  and center of the cluster
     wk = 0
     for r in cluster_dict:
-        wk += 1/(2*number_of_elem_in_clusters[r])*cluster_dict[r]
+        wk += 1 / (2 * number_of_elem_in_clusters[r]) * cluster_dict[r]
     return wk
 
 
@@ -243,11 +246,9 @@ def evaluation(predicted_data, actual_data):
         for cluster in value:
             total_number_of_clusters += 1
             gold_word_list = [items for sublist in value[cluster] for items in sublist]
-            # print(gold_word_list)
             # here we need to loop through all clusters since numbers of cluster may not much
             for pred_cluster in not_found_clusters:
                 pred_word_list = [items for sublist in predicted_data[slide_name][pred_cluster] for items in sublist]
-                # print(pred_word_list)
                 difference = set(gold_word_list) ^ set(pred_word_list)
                 if not difference:
                     correct_clusters += 1
@@ -261,10 +262,9 @@ def update_ocr_results(slice, data, new_region_id):
     # Updating ocr output based on the clustering algorithm
     # Parameters: data - dataframe of ocr, each word in new line
     # new_region_id - list of labels outputed by clustering algorihtm (need to be reassign label names from 0 to etc.)
-    number_of_clusters = max(new_region_id) + 1
     prev_cluster = new_region_id[0]
     new_cluster = 0
-    for i,j in zip(range(0, len(new_region_id)), ids):
+    for i, j in zip(range(0, len(new_region_id)), ids):
         if prev_cluster != new_region_id[i]:
             new_cluster += 1
             prev_cluster = new_region_id[i]
@@ -288,7 +288,7 @@ def perfect_ocr(gold, ocr_output):
             for s in ocr_output[slide][clusters]:
                 ocr_words += s
         if len(gold_words) == len(ocr_words):
-        # going to check word spellings
+            # going to check word spellings
             difference = [s for s in gold_words if s not in ocr_words]
             if not difference:  # perfect match
                 good_result.append(slide)
@@ -300,27 +300,21 @@ def cluster_upgrade(data):
     # Returns: dictionary containing filename, clusters in file and sentences inside clusters
     # cauterising and updating regionId of input data with multiple ocr outputs in one csv file
     # removing word length between points to bring words closer to each other for better clustering performance MAYBE
-    data_dict ={}
+    data_dict = {}
     file_names = set(data['imageFile'])
     for file_name in file_names:
-        print('working on file',file_name)
+        # print('working on file', file_name)
         rows = data.loc[data['imageFile'] == file_name]
-        x, y = ocr_coordinates_pre_processing(rows)
+        x, y, c, a = ocr_coordinates_pre_processing(rows)
         x_y = [[x1, y1] for x1, y1 in zip(x, y)]
         # estimating number of cluster with gap statistic
         k, linkage = estimate_n_clusters(x_y)
         labels = clustering(x, y, k, linkage)  # clustering for 2D data
         data = update_ocr_results(rows, data, labels)
         data_dict.update(extract_sentences_from_ocr(data))
-        ax = plt.gca()  # get the axis
-        ax.invert_yaxis()  # invert the axis
-        plt.title(file_name)
-        plt.scatter(x, y, c=labels, s=200)
-        plt.show()
-    # plt.scatter(np.zeros(len(x)), y, c=labels_1)
-    # plt.show()
-    #print(data_dict[43])
+        # ax = plt.gca()  # get the axis
+        # ax.invert_yaxis()  # invert the axis
+        # plt.title(file_name)
+        # plt.scatter(x, y, c=labels, s=200)
+        # plt.show()
     return data_dict
-
-
-
