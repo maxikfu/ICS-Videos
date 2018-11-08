@@ -69,24 +69,24 @@ def ocr_coordinates_pre_processing(data):  # deleting spaces between words
     gap = 0
     old_line_id = None
     total_length = 0
-    increas_rate = 1
+    begining_of_prev_line = x_data[0]
     for line, w_id in zip(line_id, word_id):  # new line we don't need to subtract
-        if old_line_id != line: # new line
+        if old_line_id != line:  # new line
             if gap != 0 and data.at[w_id, 'Right'] - data.at[w_id, 'Left'] <= gap:
                 # we are in the new paragraph
                 # so increase Y coordinates of all the others words
-                y_data = y_data[:word_id.index(w_id)] + list(map(lambda x: x+1000, y_data[word_id.index(w_id):]))
+                y_data = y_data[:word_id.index(w_id)] + list(map(lambda x: x+10000, y_data[word_id.index(w_id):]))
             # ax = plt.gca()  # get the axis
             # ax.invert_yaxis()  # invert the axis
             # plt.scatter(x_data, y_data)
             # plt.show()
             word_length[word_id.index(w_id)] = 0
-            old_line_id = line
             total_length = 0
-        else:
-            prev_length = word_length[word_id.index(w_id)]
-            word_length[word_id.index(w_id)] += total_length
-            total_length += prev_length
+            old_line_id = line
+            begining_of_prev_line = x_data[word_id.index(w_id)]
+        prev_length = word_length[word_id.index(w_id)]
+        word_length[word_id.index(w_id)] += total_length
+        total_length += prev_length
         # y_data[word_id.index(w_id)] *= increas_rate
         last_word_right_point = data.at[w_id, 'Right']
         gap = max_right_point - last_word_right_point
@@ -303,7 +303,7 @@ def cluster_upgrade(data):
     data_dict ={}
     file_names = set(data['imageFile'])
     for file_name in file_names:
-        # print('working on file',file_name)
+        print('working on file',file_name)
         rows = data.loc[data['imageFile'] == file_name]
         x, y = ocr_coordinates_pre_processing(rows)
         x_y = [[x1, y1] for x1, y1 in zip(x, y)]
@@ -314,10 +314,12 @@ def cluster_upgrade(data):
         data_dict.update(extract_sentences_from_ocr(data))
         ax = plt.gca()  # get the axis
         ax.invert_yaxis()  # invert the axis
+        plt.title(file_name)
         plt.scatter(x, y, c=labels, s=200)
         plt.show()
     # plt.scatter(np.zeros(len(x)), y, c=labels_1)
     # plt.show()
+    #print(data_dict[43])
     return data_dict
 
 
