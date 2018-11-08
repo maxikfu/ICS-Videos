@@ -65,14 +65,11 @@ def ocr_coordinates_pre_processing(data):  # deleting spaces between words
     line_id = data['LineId'].tolist()
     word_length = [r - l for l, r in zip(x_data, data['Right'].tolist())]
     word_length = [0] + word_length[:-1]
-    last_word_right_point = 0
     gap = 1
     old_line_id = None
     total_length = 0
     n_cluster = 1
     assign_cluster = []
-    prev_word_position = 0
-    begining_of_prev_line = x_data[0]
     for line, w_id in zip(line_id, word_id):  # new line we don't need to subtract
         if old_line_id != line:  # new line
             if gap != 1 and data.at[w_id, 'Right'] - data.at[w_id, 'Left'] <= gap:
@@ -80,6 +77,8 @@ def ocr_coordinates_pre_processing(data):  # deleting spaces between words
                 # so increase Y coordinates of all the others words
                 n_cluster += 1
                 y_data = y_data[:word_id.index(w_id)] + list(map(lambda x: x + 1000, y_data[word_id.index(w_id):]))
+                # if gap between end of line and max possible ending of the word in the slide less then length of the
+                # word in new line, then most likely new line continues same paragraph
             # ax = plt.gca()  # get the axis
             # ax.invert_yaxis()  # invert the axis
             # plt.scatter(x_data, y_data)
