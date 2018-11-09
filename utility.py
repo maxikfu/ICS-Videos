@@ -316,4 +316,32 @@ def cluster_upgrade(data):
         # plt.title(file_name)
         # plt.scatter(x, y, c=labels, s=200)
         # plt.show()
-    return data_dict
+    return data_dict, data
+
+
+def extract_dependencies(data):  # extracting dependencies between word sequences
+    # Parameter: data - data frame with all files ocr in one csv file
+    # returns: adds column to existing data frame showing sequences dependencies
+    slide_numbers = set(data['imageFile'])
+    dependencies = []
+    begining_of_line = []
+    for slide in slide_numbers:
+        slide_content = data.loc[data['imageFile'] == slide]
+        new_line = None
+        for index, row in slide_content.iterrows():
+            if new_line != row['LineId']:  # in the new line
+                new_line = row['LineId']
+                begining_of_line.append(row['Left'])
+        avg_begining = np.mean(begining_of_line)
+        parent_node = None
+        new_region = None
+        for index, row in slide_content.iterrows():
+            if new_region != row['RegionId']:  # new region begins
+                new_region = row['RegionId']
+                if row['Left'] < avg_begining and parent_node and row['RegionId'] != parent_node:  # we found child may
+                    dependencies.append(parent_node)
+                elif row['Left'] >= avg_begining:
+                    parent_node = row['RegionId']
+                    dependencies.append(None)
+        print(dependencies)
+    return data
