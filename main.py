@@ -53,15 +53,16 @@ ocr_parsing_dict, pars_data_frame = utility.cluster_upgrade(parsing_ocr_result_d
 ocr_ie_dict, ie_data_frame = utility.cluster_upgrade(ie_ocr_result_df)
 
     # Algorithm accuracy
-    # correct, total = utility.evaluation(ocr_ie_dict, perfect_gold_ie)
-    # correct1, total1 = utility.evaluation(ocr_parsing_dict, perfect_gold_parsing)
+# correct, total = utility.evaluation(ocr_ie_dict, perfect_gold_ie)
+# correct1, total1 = utility.evaluation(ocr_parsing_dict, perfect_gold_parsing)
     # print('Parsing: ', correct1, total1)
     # print('IE: ', correct, total)
-#     accuracy = (correct+correct1)/(total+total1)
+# accuracy = (correct+correct1)/(total+total1)
 #     avg_acc.append(accuracy)
-#     print('Accuracy of algorithm on step '+str(i)+': ', accuracy)
+# print('Accuracy of algorithm on step '+str(i)+': ', accuracy)
 # print('Avg acc: ', np.mean(avg_acc))
 
 # extracting word sequence dependencies
-pars_data_frame = utility.extract_dependencies(pars_data_frame)
-
+parsing_dependencies_dict = utility.extract_dependencies(pars_data_frame)
+ie_dependencies_dict = utility.extract_dependencies(ie_data_frame)
+print(parsing_dependencies_dict[56], ocr_parsing_dict[56])

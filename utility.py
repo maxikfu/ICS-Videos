@@ -259,15 +259,26 @@ def evaluation(predicted_data, actual_data):
 def update_ocr_results(slice, data, new_region_id):
     ids = slice.index.values
     # Updating ocr output based on the clustering algorithm
-    # Parameters: data - dataframe of ocr, each word in new line
-    # new_region_id - list of labels outputed by clustering algorihtm (need to be reassign label names from 0 to etc.)
+    # Parameters: data - data frame of ocr, each word in new line
+    # new_region_id - list of labels output by clustering algorithm (need to be reassign label names from 0 to etc.)
     prev_cluster = new_region_id[0]
     new_cluster = 0
     for i, j in zip(range(0, len(new_region_id)), ids):
-        if prev_cluster != new_region_id[i]:
-            new_cluster += 1
+        if prev_cluster != new_region_id[i]:  # new cluster
+            new_cluster += 1  # TODO: something weird happening here
             prev_cluster = new_region_id[i]
         data.at[j, 'RegionId'] = new_cluster
+
+    # words on the same line most likely in the same region
+    lineid = None
+    regionid = None
+    for i in ids:
+        if lineid != data.at[i, 'LineId']:  # new line
+            lineid = data.at[i, 'LineId']
+            regionid = data.at[i, 'RegionId']
+        else:  # still on the same line
+            if regionid != data.at[i, 'RegionId']:  # means words on the same line but related to different region ids
+                data.at[i, 'RegionId'] = regionid
     return data
 
 
@@ -321,14 +332,16 @@ def cluster_upgrade(data):
 
 def extract_dependencies(data):  # extracting dependencies between word sequences
     # Parameter: data - data frame with all files ocr in one csv file
-    # returns: adds column to existing data frame showing sequences dependencies
+    # returns: dictionary of slide, parent region, child regions
     slide_numbers = set(data['imageFile'])
-    dependencies = []
+    dependencies = {}  # dict with following format {slide:{parent_region: [child regions]}}
     begining_of_line = []
     for slide in slide_numbers:
+        dependencies[slide] = {}
         slide_content = data.loc[data['imageFile'] == slide]
-        new_line = None
-        for index, row in slide_content.iterrows():
+        df_indexes = slide_content.index.values
+        new_line = slide_content.loc[df_indexes[0], 'LineId']  # TODO: avoiding first region because it may be Topic
+        for index, row in slide_content.iterrows():  # iterating through rows
             if new_line != row['LineId']:  # in the new line
                 new_line = row['LineId']
                 begining_of_line.append(row['Left'])
@@ -338,10 +351,10 @@ def extract_dependencies(data):  # extracting dependencies between word sequence
         for index, row in slide_content.iterrows():
             if new_region != row['RegionId']:  # new region begins
                 new_region = row['RegionId']
-                if row['Left'] < avg_begining and parent_node and row['RegionId'] != parent_node:  # we found child may
-                    dependencies.append(parent_node)
-                elif row['Left'] >= avg_begining:
+                if row['Left'] >= avg_begining and parent_node and row['RegionId'] != parent_node:  # we found child may
+                    dependencies[slide][parent_node].append(row['RegionId'])
+                elif row['Left'] < avg_begining:  # found probable parent node
                     parent_node = row['RegionId']
-                    dependencies.append(None)
-        print(dependencies)
-    return data
+                    dependencies[slide][parent_node] = []
+    # TODO: update data frame so I can evaluate on gold data set
+    return dependencies
