@@ -76,7 +76,7 @@ def ocr_coordinates_pre_processing(data):  # deleting spaces between words
                 # we are in the new paragraph
                 # so increase Y coordinates of all the others words
                 n_cluster += 1
-                y_data = y_data[:word_id.index(w_id)] + list(map(lambda x: x + 1000, y_data[word_id.index(w_id):]))
+                y_data = y_data[:word_id.index(w_id)] + list(map(lambda x: x + 100, y_data[word_id.index(w_id):]))
                 # if gap between end of line and max possible ending of the word in the slide less then length of the
                 # word in new line, then most likely new line continues same paragraph
             # ax = plt.gca()  # get the axis
@@ -336,7 +336,7 @@ def cluster_upgrade(data):
         # ax = plt.gca()  # get the axis
         # ax.invert_yaxis()  # invert the axis
         # plt.title(file_name)
-        # plt.scatter(x, y, c=labels, s=200)
+        # plt.scatter(x, y, c=a, s=200)
         # plt.show()
     return data_dict, data
 
