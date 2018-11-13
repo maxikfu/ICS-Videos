@@ -47,22 +47,29 @@ ie_ocr_result_df = ie_ocr_result_df.drop(drop_ids)
 ocr_ie_dict = utility.extract_sentences_from_ocr(ie_ocr_result_df)
 
 
-# avg_acc = []
-# for i in range(0, 10):
-ocr_parsing_dict, pars_data_frame = utility.cluster_upgrade(parsing_ocr_result_df)
-ocr_ie_dict, ie_data_frame = utility.cluster_upgrade(ie_ocr_result_df)
+# ocr_parsing_dict, pars_data_frame = utility.cluster_upgrade(parsing_ocr_result_df)
+# ocr_ie_dict, ie_data_frame = utility.cluster_upgrade(ie_ocr_result_df)
+
+# Average accuracy 0.8236
+#Standard deviation of the accuracy: 0.03124
+avg_acc = []
+for i in range(0, 10):
+    ocr_parsing_dict, pars_data_frame = utility.cluster_upgrade(parsing_ocr_result_df)
+    ocr_ie_dict, ie_data_frame = utility.cluster_upgrade(ie_ocr_result_df)
 
     # Algorithm accuracy
-# correct, total = utility.evaluation(ocr_ie_dict, perfect_gold_ie)
-# correct1, total1 = utility.evaluation(ocr_parsing_dict, perfect_gold_parsing)
+    correct, total = utility.evaluation(ocr_ie_dict, perfect_gold_ie)
+    correct1, total1 = utility.evaluation(ocr_parsing_dict, perfect_gold_parsing)
     # print('Parsing: ', correct1, total1)
     # print('IE: ', correct, total)
-# accuracy = (correct+correct1)/(total+total1)
-#     avg_acc.append(accuracy)
-# print('Accuracy of algorithm on step '+str(i)+': ', accuracy)
-# print('Avg acc: ', np.mean(avg_acc))
+    accuracy = (correct+correct1)/(total+total1)
+    avg_acc.append(accuracy)
+    print('Accuracy of algorithm on step '+str(i)+': ', accuracy)
+print('Avg acc: ', np.mean(avg_acc))
+print('Std of acc: ', np.std(avg_acc))
 
 # extracting word sequence dependencies
 parsing_dependencies_dict = utility.extract_dependencies(pars_data_frame)
-ie_dependencies_dict = utility.extract_dependencies(ie_data_frame)
-print(parsing_dependencies_dict[56], ocr_parsing_dict[56])
+#ie_dependencies_dict = utility.extract_dependencies(ie_data_frame)
+print(parsing_dependencies_dict)
+print(ocr_parsing_dict[89])

@@ -279,6 +279,17 @@ def update_ocr_results(slice, data, new_region_id):
         else:  # still on the same line
             if regionid != data.at[i, 'RegionId']:  # means words on the same line but related to different region ids
                 data.at[i, 'RegionId'] = regionid
+    regionid = None
+    update_region = None
+    # if new region starts with lower case it is related to previous region
+    for i in ids:
+        if regionid != data.at[i, 'RegionId'] and data.at[i, 'RegionId'] != update_region:  # new region
+            if data.at[i, 'word'][0].isupper():  # doing nothing
+                regionid = data.at[i, 'RegionId']
+            else:  # lower case, related to the previous region
+                update_region = data.at[i, 'RegionId']
+        if data.at[i, 'RegionId'] == update_region:
+            data.at[i, 'RegionId'] = regionid
     return data
 
 
@@ -335,26 +346,30 @@ def extract_dependencies(data):  # extracting dependencies between word sequence
     # returns: dictionary of slide, parent region, child regions
     slide_numbers = set(data['imageFile'])
     dependencies = {}  # dict with following format {slide:{parent_region: [child regions]}}
-    begining_of_line = []
     for slide in slide_numbers:
-        dependencies[slide] = {}
         slide_content = data.loc[data['imageFile'] == slide]
         df_indexes = slide_content.index.values
         new_line = slide_content.loc[df_indexes[0], 'LineId']  # TODO: avoiding first region because it may be Topic
+        begining_of_line = []
         for index, row in slide_content.iterrows():  # iterating through rows
             if new_line != row['LineId']:  # in the new line
                 new_line = row['LineId']
                 begining_of_line.append(row['Left'])
         avg_begining = np.mean(begining_of_line)
+        std_beginning = np.std(begining_of_line)
         parent_node = None
         new_region = None
-        for index, row in slide_content.iterrows():
-            if new_region != row['RegionId']:  # new region begins
-                new_region = row['RegionId']
-                if row['Left'] >= avg_begining and parent_node and row['RegionId'] != parent_node:  # we found child may
-                    dependencies[slide][parent_node].append(row['RegionId'])
-                elif row['Left'] < avg_begining:  # found probable parent node
-                    parent_node = row['RegionId']
-                    dependencies[slide][parent_node] = []
+        if std_beginning > 2:  # the are not on the same line
+            for index, row in slide_content.iterrows():
+                if new_region != row['RegionId']:  # new region begins
+                    new_region = row['RegionId']
+                    if row['Left'] >= avg_begining and parent_node and row['RegionId'] != parent_node:  # we found child may
+                        if slide not in dependencies:  # init dictionary of dependencies
+                            dependencies[slide] = {}
+                        if parent_node not in dependencies[slide]:
+                            dependencies[slide][parent_node] = []
+                        dependencies[slide][parent_node].append(row['RegionId'])
+                    elif row['Left'] < avg_begining:  # found probable parent node
+                        parent_node = row['RegionId']
     # TODO: update data frame so I can evaluate on gold data set
     return dependencies
