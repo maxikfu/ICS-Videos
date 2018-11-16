@@ -8,6 +8,8 @@ from nltk.corpus import stopwords
 from sklearn.cluster import AgglomerativeClustering, KMeans
 from sklearn.metrics.pairwise import euclidean_distances
 import matplotlib.pyplot as plt
+import codecs
+import os, subprocess
 
 
 def load_test_data(file_path):  # returns test data in dictionary
@@ -373,3 +375,17 @@ def extract_dependencies(data):  # extracting dependencies between word sequence
                         parent_node = row['RegionId']
     # TODO: update data frame so I can evaluate on gold data set
     return dependencies
+
+
+def pdf2text(pdf_file_path):  # converts pdf file to txt file
+    env = dict(os.environ)
+    env['LC_ALL'] = 'en_US.UTF-8'
+    out_fname = os.path.splitext(os.path.basename(pdf_file_path))[0]
+    working_dir = os.path.dirname(os.path.abspath(pdf_file_path))
+    cmd = ['pdftotext', pdf_file_path, os.path.join(working_dir, out_fname+'.txt')]
+    p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE)
+    out, err = p.communicate()
+    with codecs.open(os.path.join(working_dir, out_fname+'.txt'), 'r', encoding='utf-8') as f_in:
+        content = f_in.read()
+    content.replace('\r', '').replace('\x0C', '')
+    return content
