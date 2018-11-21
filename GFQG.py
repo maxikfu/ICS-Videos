@@ -74,6 +74,7 @@ def sentence_selection(data_dict):  # returns selected sentences depending on sc
                 if 'JJS' in pos_tags:
                     f3 = 1
                 features.append(f3)
+                # TODO: this list need to be filled with more examples or figure out something easier
                 if any(discourse in str(span).lower() for discourse in ['the following', 'example', 'so', 'above', 'figure', 'like this one', 'fig.', 'these', 'this', 'that', 'however', 'thus', 'although', 'since']):
                     f4 = 0
                 else:
