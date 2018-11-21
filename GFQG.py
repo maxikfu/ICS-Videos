@@ -155,7 +155,7 @@ def questions_formation(sentences, word_count, topic_words):
     weights = [1, 100, 1]
     chunk_span_dict = {}
     for topic in sentences:
-        for span in sentences[topic]: 
+        for span in sentences[topic]:
             all_noun_chunks = []
             # print(span)
             # Step 1: saving all noun chinks
