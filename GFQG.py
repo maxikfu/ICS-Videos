@@ -137,7 +137,7 @@ def distractor_selection(key, key_sentence, document, word_count):
     for sim_sent in similarity_sentence:
         for noun_chunk in sim_sent.noun_chunks:
             score = key_chunk.similarity(noun_chunk)
-            if 0.6 > score > 0.4:
+            if 0.8 > score > 0.4:
                 chunk_similarity_score.append(score)
                 similar_chunks.append(noun_chunk)
                 # print(score, noun_chunk)
