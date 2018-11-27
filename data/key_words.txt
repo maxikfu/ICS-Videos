@@ -1,1 +1,1 @@
-CFG, Bottom-up, top-down, CKY, attachment ambiguity, coordination ambiguity, syntactic disambiguation, dynamic programming, Unit productions, partial parse, shallow parse, chunking, precision, recall, information extraction, machine learning, part of speech
+CFG, Bottom-up, top-down, CKY, attachment ambiguity, coordination ambiguity, syntactic disambiguation, dynamic programming, Unit productions, partial parse, shallow parse, chunking, precision, recall, information extraction, machine learning, part of speech, PCFG, SCFG

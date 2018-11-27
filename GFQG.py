@@ -73,7 +73,7 @@ def sentence_selection(data_dict, external_key_words):  # returns selected sente
                     f3 = 1
                 features.append(f3)
                 # TODO: this list need to be filled with more examples or figure out something easier
-                if any(discourse in str(span).lower() for discourse in ['here', 'Here’s', 'Ultimately', 'chapter', 'finally', 'described', 'the following', 'example', 'so', 'above', 'figure', 'like this one', 'fig.', 'these', 'this', 'that', 'however', 'thus', 'although', 'since']):
+                if any(discourse in str(span).lower() for discourse in ['then', 'here', 'Here’s', 'Ultimately', 'chapter', 'finally', 'described', 'the following', 'example', 'so', 'above', 'figure', 'like this one', 'fig.', 'these', 'this', 'that', 'however', 'thus', 'although', 'since']):
                     f4 = 0
                 else:
                     f4 = 1
@@ -143,7 +143,7 @@ def distractor_selection(key, key_sentence, document, word_count):
     for sim_sent in similarity_sentence:
         for noun_chunk in sim_sent.noun_chunks:
             score = key_chunk.similarity(noun_chunk)
-            if 0.8 > score > 0.5:
+            if 0.7 > score > 0.5:
                 chunk_similarity_score.append(score)
                 similar_chunks.append(noun_chunk)
                 # print(score, noun_chunk)
@@ -198,7 +198,7 @@ def questions_formation(sentences, word_count, topic_words):
 if __name__ == '__main__':
     # utility.pdf2text('data/syntactic_parsing.pdf')
     # after converting pdf to txt we need to clean up data
-    with open('data/syntactic_parsing_cleaned.txt', 'r') as f:
+    with open('data/12_cleaned.txt', 'r') as f:
         book_text = f.read()
     data, word_dict = data_pre_processing(book_text)
     with open('data/key_words.txt','r') as f:
@@ -214,10 +214,10 @@ if __name__ == '__main__':
             # Printing question and multiple answers to this question:
             gap_question = str(q).replace(str(key_chunk), '______________')
             print('Question: ', gap_question)
-            print('a) ', distractor_list[0])
-            print('b) ', distractor_list[1])
-            print('c) ', distractor_list[2])
-            print('d) ', distractor_list[3])
+            print('a) ', str(distractor_list[0]).lower())
+            print('b) ', str(distractor_list[1]).lower())
+            print('c) ', str(distractor_list[2]).lower())
+            print('d) ', str(distractor_list[3]).lower())
             print('Answer: ', key_chunk)
             print('\n')
     # for i in range(0, len(data['named entity recognition'])):
