@@ -34,7 +34,7 @@ def data_pre_processing(raw_text):  # cleaning text
     return document_content_dict, word_count
 
 
-def sentence_selection(data_dict):  # returns selected sentences depending on score
+def sentence_selection(data_dict, external_key_words):  # returns selected sentences depending on score
     # Here we will calculate all features needed for sentence selection.
     # For each chapter we will select sentences what are good for gap fill questions and most informative
     # Parameters - data_dict - spans of sentences with topic as key  (Span objects of Doc type)
@@ -45,17 +45,19 @@ def sentence_selection(data_dict):  # returns selected sentences depending on sc
     # f5 - number of words in sentence (excluding stop words)
     # f6= number of nouns / length of the sentence
     # f7 - number of pronouns/ length of the sentence
+    # f8 - how big is parsing tree
 
     # lemmatizing and removing stop words from names of all topics
     all_the_topics = ' '.join([t for t in data_dict])
+    all_the_topics = all_the_topics + ' ' + ' '.join(external_key_words)
     topics_doc = nlp(all_the_topics)
-    all_the_topics = set(token.lemma_ for token in topics_doc if not is_stop(token.text) and not token.is_punct)
+    all_the_topics = set(token.lemma_ for token in topics_doc if not is_stop(token.text) and not token.is_punct and not token.is_space)
     weights = [1.5, 0.1, 0.2, 0.5, 0.001, 0.2, 0.1]
     result_sel_sent = {}
     for topic, sentences in data_dict.items():
         result_sel_sent[topic] = []
         # topic = 'named entity recognition'
-        # sentences = data_dict['named entity recognition']
+        # sentences = data_dict['syntactic parsing']
         for span in sentences:
             number_of_words = len(set(token.lemma_ for token in span if not is_stop(token.text) and not token.is_punct))
             score = 0
@@ -71,7 +73,7 @@ def sentence_selection(data_dict):  # returns selected sentences depending on sc
                     f3 = 1
                 features.append(f3)
                 # TODO: this list need to be filled with more examples or figure out something easier
-                if any(discourse in str(span).lower() for discourse in ['the following', 'example', 'so', 'above', 'figure', 'like this one', 'fig.', 'these', 'this', 'that', 'however', 'thus', 'although', 'since']):
+                if any(discourse in str(span).lower() for discourse in ['here', 'Here’s', 'Ultimately', 'chapter', 'finally', 'described', 'the following', 'example', 'so', 'above', 'figure', 'like this one', 'fig.', 'these', 'this', 'that', 'however', 'thus', 'although', 'since']):
                     f4 = 0
                 else:
                     f4 = 1
@@ -82,9 +84,12 @@ def sentence_selection(data_dict):  # returns selected sentences depending on sc
                 features.append(f6)
                 f7 = len([p for p in pos_tags if p in ['NNP', 'NNPS']])/number_of_words
                 features.append(f7)
+                # f8 = token_dep_height([span.root])
+                # features.append(f8)
                 score = np.dot(weights, features)
-                # print(score, features, span)
+                # print(score, span)
             result_sel_sent[topic].append(score)
+        # exit()
         # z = [print(y, x) for y, x in sorted(zip(score, data))]
 
     # in this step we do selection based on the score. At this moment boundary set to 1.1
@@ -138,7 +143,7 @@ def distractor_selection(key, key_sentence, document, word_count):
     for sim_sent in similarity_sentence:
         for noun_chunk in sim_sent.noun_chunks:
             score = key_chunk.similarity(noun_chunk)
-            if 0.8 > score > 0.4:
+            if 0.8 > score > 0.5:
                 chunk_similarity_score.append(score)
                 similar_chunks.append(noun_chunk)
                 # print(score, noun_chunk)
@@ -193,10 +198,13 @@ def questions_formation(sentences, word_count, topic_words):
 if __name__ == '__main__':
     # utility.pdf2text('data/syntactic_parsing.pdf')
     # after converting pdf to txt we need to clean up data
-    with open('data/IE_chapter17_cleaned.txt', 'r') as f:
+    with open('data/syntactic_parsing_cleaned.txt', 'r') as f:
         book_text = f.read()
     data, word_dict = data_pre_processing(book_text)
-    selected_sent, topic_words = sentence_selection(data)
+    with open('data/key_words.txt','r') as f:
+        key_words = f.read()
+    key_words = key_words.lower().split(',')
+    selected_sent, topic_words = sentence_selection(data, key_words)
     questions = questions_formation(selected_sent, word_dict, topic_words)
     for key_chunk, value in questions.items():
         for q in value:
