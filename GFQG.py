@@ -1,6 +1,7 @@
 import spacy
 import numpy as np
 from random import shuffle
+import utility
 
 nlp = spacy.load('en')  # make sure to use larger model!
 
@@ -190,7 +191,7 @@ def questions_formation(sentences, word_count, topic_words):
 
 
 if __name__ == '__main__':
-    # utility.pdf2text('data/IE_chapter17.pdf')
+    # utility.pdf2text('data/syntactic_parsing.pdf')
     # after converting pdf to txt we need to clean up data
     with open('data/IE_chapter17_cleaned.txt', 'r') as f:
         book_text = f.read()
