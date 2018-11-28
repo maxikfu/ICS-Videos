@@ -201,7 +201,7 @@ def questions_formation(sentences, word_count, topic_words):
 if __name__ == '__main__':
     # utility.pdf2text('data/syntactic_parsing.pdf')
     # after converting pdf to txt we need to clean up data
-    with open('data/24_cleaned.txt', 'r') as f:
+    with open('data/IE_chapter17_cleaned.txt', 'r') as f:
         book_text = f.read()
     data, word_dict = data_pre_processing(book_text)
     with open('data/key_words.txt','r') as f:
