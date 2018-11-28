@@ -112,18 +112,17 @@ def token_dep_height(tokens):  # height of the token in syntactic tree
     return depth
 
 
-def distractor_selection(key, key_sentence, document, word_count):
+def distractor_selection(key_sentence, document):
     """
-    Distractor is a concept semantically close to the key which, howerver, cannot serve as the right answer itself
+    Distractor is a concept semantically close to the key which, however, cannot serve as the right answer itself
 
+    :param key_sentence:
     :features:
     f1 - context - measure of contextual similarity
     f2 - dice coefficient score between question sentence and sentence containing distractor
     f3 - difference in term frequencies of distractor and key
 
-    :param key: noun chunk answer for the gap question
     :param document: document itself used to find distractors
-    :param word_count: count of words
     :return: list of distractors at this moment we will set it to 3 distractors
     """
     sent_similarity_score = []
@@ -137,7 +136,8 @@ def distractor_selection(key, key_sentence, document, word_count):
             if score != 1 and score > 0.4:
                 sent_similarity_score.append(score)
                 similarity_sentence.append(span_sentence)
-    three_max_elem = np.array(sent_similarity_score).argsort()[-3:][::-1]  # returns indices of three max elements in  list
+    three_max_elem = np.array(sent_similarity_score).argsort()[-3:][::-1]  # returns indices of three max elements in
+    #  list
 
     # Second step we will look for most similar noun chunks in those sentences
     for sim_sent in similarity_sentence:
@@ -151,6 +151,7 @@ def distractor_selection(key, key_sentence, document, word_count):
     return [similar_chunks[three_max_elem[0]], similar_chunks[three_max_elem[1]], similar_chunks[three_max_elem[2]]]
 
 
+# noinspection PyTypeChecker
 def questions_formation(sentences, word_count, topic_words):
     # creating all possible key lists from selected sentences
     # need to identify noun_chunks
@@ -189,6 +190,7 @@ def questions_formation(sentences, word_count, topic_words):
             # At this moment we choose max score chunk only, even though we can choose couple chunks with score > 100
             gap_chunk_index = np.argmax(score)
             if score:
+                # noinspection PyTypeChecker
                 if all_noun_chunks[gap_chunk_index] not in chunk_span_dict:
                     chunk_span_dict[all_noun_chunks[gap_chunk_index]] = [span]
                 else:
@@ -209,7 +211,7 @@ if __name__ == '__main__':
     questions = questions_formation(selected_sent, word_dict, topic_words)
     for key_chunk, value in questions.items():
         for q in value:
-            distractor_list = distractor_selection(key_chunk, q, data, word_dict)
+            distractor_list = distractor_selection(q, data)
             distractor_list.append(str(key_chunk))
             shuffle(distractor_list)
             # Printing question and multiple answers to this question:
