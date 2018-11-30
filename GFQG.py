@@ -53,7 +53,7 @@ def sentence_selection(data_dict, external_key_words):
     all_the_topics = all_the_topics + ' ' + ' '.join(external_key_words)
     topics_doc = nlp(all_the_topics)
     all_the_topics = set(token.lemma_ for token in topics_doc if not is_stop(token.text) and not token.is_punct and not token.is_space)
-    weights = [1.5, 0.1, 0.2, 0.5, 0.001, 0.2, 0.1]
+    weights = [1.5, 0.1, 0.2, 0.5, 0.01, 0.2, 0.1]
     result_sel_sent = {}
     for topic, sentences in data_dict.items():
         result_sel_sent[topic] = []
@@ -74,7 +74,7 @@ def sentence_selection(data_dict, external_key_words):
                     f3 = 1
                 features.append(f3)
                 # TODO: this list need to be filled with more examples or figure out something easier
-                if any(discourse in str(span).lower() for discourse in ['then', 'here', 'Here’s', 'Ultimately', 'chapter', 'finally', 'described', 'the following', 'example', 'so', 'above', 'figure', 'like this one', 'fig.', 'these', 'this', 'that', 'however', 'thus', 'although', 'since']):
+                if any(discourse in str(span).lower() for discourse in ['because', 'then', 'here', 'Here’s', 'Ultimately', 'chapter', 'finally', 'described', 'the following', 'example', 'so', 'above', 'figure', 'like this one', 'fig.', 'these', 'this', 'that', 'however', 'thus', 'although', 'since']):
                     f4 = 0
                 else:
                     f4 = 1
@@ -96,7 +96,7 @@ def sentence_selection(data_dict, external_key_words):
     # in this step we do selection based on the score. At this moment boundary set to 1.1
     result_sentences = {}
     for topic in data_dict:
-        selection = set(score for score in result_sel_sent[topic] if score > 1.5)
+        selection = set(score for score in result_sel_sent[topic] if score > 1.8)
         if selection:
             result_sentences[topic] = [data_dict[topic][result_sel_sent[topic].index(elem)] for elem in selection]
     return result_sentences, all_the_topics
@@ -165,6 +165,7 @@ def questions_formation(sentences, word_count, topic_words):
     for topic in sentences:
         for span in sentences[topic]:
             all_noun_chunks = []
+
             # print(span)
             # Step 1: saving all noun chinks
             for chunk in span.noun_chunks:
@@ -201,7 +202,7 @@ def questions_formation(sentences, word_count, topic_words):
 if __name__ == '__main__':
     # utility.pdf2text('data/syntactic_parsing.pdf')
     # after converting pdf to txt we need to clean up data
-    with open('data/12_cleaned.txt', 'r') as f:
+    with open('data/IE_chapter17_cleaned.txt', 'r') as f:
         book_text = f.read()
     data, word_dict = data_pre_processing(book_text)
     with open('data/key_words.txt','r') as f:
