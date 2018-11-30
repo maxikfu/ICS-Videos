@@ -34,7 +34,8 @@ def data_pre_processing(raw_text):  # cleaning text
     return document_content_dict, word_count
 
 
-def sentence_selection(data_dict, external_key_words):  # returns selected sentences depending on score
+def sentence_selection(data_dict, external_key_words):
+    # returns selected sentences depending on score
     # Here we will calculate all features needed for sentence selection.
     # For each chapter we will select sentences what are good for gap fill questions and most informative
     # Parameters - data_dict - spans of sentences with topic as key  (Span objects of Doc type)
