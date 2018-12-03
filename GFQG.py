@@ -55,6 +55,8 @@ def sentence_selection(data_dict, external_key_words):
     all_the_topics = set(token.lemma_ for token in topics_doc if not is_stop(token.text) and not token.is_punct and not token.is_space)
     weights = [1.5, 0.1, 0.2, 0.5, 0.01, 0.2, 0.1]
     result_sel_sent = {}
+    with open('data/results/all_sentences.txt', "w"):
+        pass
     for topic, sentences in data_dict.items():
         result_sel_sent[topic] = []
         # topic = 'named entity recognition'
@@ -88,7 +90,8 @@ def sentence_selection(data_dict, external_key_words):
                 # f8 = token_dep_height([span.root])
                 # features.append(f8)
                 score = np.dot(weights, features)
-                # print(score, span)
+                with open('data/results/all_sentences.txt','a') as f:
+                    f.write(str(score)+' '+str(span)+'\n')
             result_sel_sent[topic].append(score)
         # exit()
         # z = [print(y, x) for y, x in sorted(zip(score, data))]
@@ -96,7 +99,7 @@ def sentence_selection(data_dict, external_key_words):
     # in this step we do selection based on the score. At this moment boundary set to 1.1
     result_sentences = {}
     for topic in data_dict:
-        selection = set(score for score in result_sel_sent[topic] if score > 1.8)
+        selection = set(score for score in result_sel_sent[topic] if score > 1.5)
         if selection:
             result_sentences[topic] = [data_dict[topic][result_sel_sent[topic].index(elem)] for elem in selection]
     return result_sentences, all_the_topics
@@ -202,7 +205,7 @@ def questions_formation(sentences, word_count, topic_words):
 if __name__ == '__main__':
     # utility.pdf2text('data/syntactic_parsing.pdf')
     # after converting pdf to txt we need to clean up data
-    with open('data/IE_chapter17_cleaned.txt', 'r') as f:
+    with open('data/astronomy_cleaned.txt', 'r') as f:
         book_text = f.read()
     data, word_dict = data_pre_processing(book_text)
     with open('data/key_words.txt','r') as f:
