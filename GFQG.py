@@ -165,8 +165,12 @@ def questions_formation(sentences, word_count, topic_words):
     # f3 - height in syntactic tree
     weights = [1, 100, 1]
     chunk_span_dict = {}
+    with open('data/results/chunk_selection.txt', "w"):
+        pass
     for topic in sentences:
         for span in sentences[topic]:
+            with open('data/results/chunk_selection.txt', "a") as f:
+                f.write(str(span)+'\n')
             all_noun_chunks = []
 
             # print(span)
@@ -190,6 +194,8 @@ def questions_formation(sentences, word_count, topic_words):
                 features.append(f2)
                 features.append(f3)
                 score.append(np.dot(weights, features))
+                with open('data/results/chunk_selection.txt', "a") as f:
+                    f.write(str(np.dot(weights, features))+' '+str(features)+' '+str(chunk) + '\n')
 
             # At this moment we choose max score chunk only, even though we can choose couple chunks with score > 100
             gap_chunk_index = np.argmax(score)
