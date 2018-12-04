@@ -114,7 +114,7 @@ def sentence_selection(data_dict, external_key_words):
     # in this step we do selection based on the score. At this moment boundary set to 1.1
     result_sentences = {}
     for topic in data_dict:
-        selection = set(score for score in result_sel_sent[topic] if score > 1.5)
+        selection = set(score for score in result_sel_sent[topic] if score > 1.8)
         if selection:
             result_sentences[topic] = [data_dict[topic][result_sel_sent[topic].index(elem)] for elem in selection]
     return result_sentences, all_the_topics
@@ -136,13 +136,14 @@ def token_dep_height(tokens):
     return depth
 
 
-def distractor_selection(key_sentence, document):
+def distractor_selection(key_sentence, document, key_chunk):
     """
     Selecting distractors from all noun chunks from all sentences from document based on their score
     Features:
     f1 - context - measure of contextual similarity
     f2 - dice coefficient score between question sentence and sentence containing distractor
     f3 - difference in term frequencies of distractor and key
+    :param key_chunk: for this chunk we are looking for distractors
     :param key_sentence: gap-fill question
     :param document: all sentences
     :type document: SpaCy object Doc
@@ -232,20 +233,23 @@ def questions_formation(sentences, word_count, topic_words):
     return chunk_span_dict
 
 
-if __name__ == '__main__':
-    # utility.pdf2text('data/syntactic_parsing.pdf')
-    # after converting pdf to txt we need to clean up data
-    with open('data/astronomy_cleaned.txt', 'r') as f:
+def rawtext2Question(path_to_raw_text):
+    """
+    Main function what generates gap-fill questions from text book
+    :param path_to_raw_text: self explanatory
+    :return: at this moment nothing. Prints to stdout questions with multiple answers
+    """
+    with open(path_to_raw_text, 'r') as f:
         book_text = f.read()
     data, word_dict = data_pre_processing(book_text)
-    with open('data/key_words.txt','r') as f:
+    with open('data/key_words.txt', 'r') as f:
         key_words = f.read()
     key_words = key_words.lower().split(',')
     selected_sent, topic_words = sentence_selection(data, key_words)
     questions = questions_formation(selected_sent, word_dict, topic_words)
     for key_chunk, value in questions.items():
         for q in value:
-            distractor_list = distractor_selection(q, data)
+            distractor_list = distractor_selection(q, data, key_chunk)
             distractor_list.append(str(key_chunk))
             shuffle(distractor_list)
             # Printing question and multiple answers to this question:
@@ -257,5 +261,9 @@ if __name__ == '__main__':
             print('d) ', str(distractor_list[3]).lower())
             print('Answer: ', key_chunk)
             print('\n')
-    # for i in range(0, len(data['named entity recognition'])):
-    #     print(score['named entity recognition'][i], data['named entity recognition'][i])
+
+
+if __name__ == '__main__':
+    # utility.pdf2text('data/syntactic_parsing.pdf')
+    # after converting pdf to txt we need to clean up data
+    rawtext2Question('data/IE_chapter17_cleaned.txt')

@@ -39,3 +39,263 @@ A low-energy radio wave has a low frequency as a wave, while a high-energy X-ray
 164 [59, 1, 5] a high-energy X-ray
 135 [32, 1, 3] your dentist’s office
 152 [49, 1, 3] a high-frequency wave
+30 [26, 0, 4] The task
+389 [87, 3, 2] named entity recognition
+114 [13, 1, 1] (NER
+14 [9, 0, 5] each mention
+277 [74, 2, 3] a named entity
+59 [58, 0, 1] the text
+11 [10, 0, 1] its type
+12 [9, 0, 3] The first step
+256 [55, 2, 1] information extraction
+141 [40, 1, 1] the entities
+59 [58, 0, 1] the text
+238 [35, 2, 3] Gazetteer and name features
+122 [19, 1, 3] a binary feature
+107 [6, 1, 1] each name list
+273 [72, 2, 1] named entities
+144 [42, 1, 2] the entity
+15 [14, 0, 1] the word
+120 [18, 1, 2] the unit
+4 [4, 0, 0] response
+121 [15, 1, 6] The earliest and still common algorithm
+287 [86, 2, 1] relation extraction
+241 [36, 2, 5] lexico-syntactic patterns
+3 [2, 0, 1] Hearst
+10 [9, 0, 1] all such sentences
+0 [0, 0, 0] we
+8 [5, 0, 3] the context
+141 [40, 1, 1] the entities
+142 [41, 1, 1] new patterns
+258 [55, 2, 3] feature-based classification
+560 [154, 4, 6] standard supervised relation extraction features
+379 [76, 3, 3] the named entity labels
+16 [15, 0, 1] the two mentions
+20 [17, 0, 3] , the words
+8 [7, 0, 1] dependency paths
+16 [15, 0, 1] the mentions
+20 [19, 0, 1] neighboring words
+228 [27, 2, 1] distance supervision systems
+131 [25, 1, 6] patterns
+143 [38, 1, 5] the hand-built patterns
+158 [55, 1, 3] early relation extractors
+224 [23, 2, 1] distant supervision
+264 [61, 2, 3] extracting relations
+19 [18, 0, 1] a large enough database
+250 [47, 2, 3] pattern-based classifiers
+0 [0, 0, 0] it
+30 [26, 0, 4] use
+128 [25, 1, 3] high-precision evidence
+154 [52, 1, 2] the relation
+140 [40, 1, 0] entities
+169 [68, 1, 1] new relations
+1 [1, 0, 0] datasets
+19 [18, 0, 1] new domains
+125 [22, 1, 3] purely unsupervised methods
+6 [3, 0, 3] The goal
+396 [95, 3, 1] unsupervised relation extraction
+155 [52, 1, 3] relations
+6 [5, 0, 1] the web
+0 [0, 0, 0] we
+160 [57, 1, 3] no labeled training data
+152 [52, 1, 0] relations
+524 [121, 4, 3] Supervised relation extraction systems
+18 [17, 0, 1] test sets
+170 [67, 1, 3] gold-standard relations
+115 [14, 1, 1] computing precision
+113 [11, 1, 2] recall
+8 [7, 0, 1] F-measure
+351 [45, 3, 6] Rule-based approaches
+411 [105, 3, 6] temporal expression recognition use
+1 [1, 0, 0] automata
+125 [25, 1, 0] patterns
+6 [4, 0, 2] increasing levels
+2 [2, 0, 0] complexity
+258 [57, 2, 1] Temporal normalization
+11 [3, 0, 8] the process
+267 [66, 2, 1] a temporal expression
+17 [13, 0, 4] either a specific point
+117 [17, 1, 0] time
+3 [2, 0, 1] a duration
+117 [14, 1, 3] Most current approaches
+258 [57, 2, 1] temporal normalization
+29 [26, 0, 3] The task
+265 [64, 2, 1] event extraction
+19 [15, 0, 4] mentions
+139 [37, 1, 2] events
+13 [13, 0, 0] texts
+3 [3, 0, 0] English
+131 [30, 1, 1] most event
+10 [9, 0, 1] most verbs
+137 [37, 1, 0] events
+265 [64, 2, 1] Event extraction
+233 [32, 2, 1] supervised learning
+137 [37, 1, 0] events
+123 [20, 1, 3] sequence models
+142 [37, 1, 5] event classes
+17 [14, 0, 3] multi-class classifiers
+287 [86, 2, 1] The temporal expressions
+125 [19, 1, 6] the creation time
+8 [4, 0, 4] the article
+126 [25, 1, 1] the document time
+276 [73, 2, 3] a single temporal expression
+59 [58, 0, 1] the text
+25 [23, 0, 2] The usual set
+133 [33, 1, 0] features
+109 [9, 1, 0] speech
+273 [72, 2, 1] Named entities
+473 [67, 4, 6] featured-based or neural sequence labeling techniques
+54 [52, 0, 2] Relations
+140 [40, 1, 0] entities
+350 [47, 3, 3] pattern-based approaches
+145 [44, 1, 1] supervised learning methods
+52 [49, 0, 3] when annotated training data
+145 [42, 1, 3] lightly supervised bootstrapping methods
+8 [4, 0, 4] small numbers
+23 [21, 0, 2] seed tuples
+135 [34, 1, 1] seed patterns
+224 [23, 2, 1] , distant supervision
+9 [7, 0, 2] a database
+152 [52, 1, 0] relations
+136 [30, 1, 6] unsupervised or Open IE methods
+30 [26, 0, 4] The task
+389 [87, 3, 2] named entity recognition
+114 [13, 1, 1] (NER
+14 [9, 0, 5] each mention
+277 [74, 2, 3] a named entity
+59 [58, 0, 1] the text
+11 [10, 0, 1] its type
+12 [9, 0, 3] The first step
+256 [55, 2, 1] information extraction
+141 [40, 1, 1] the entities
+59 [58, 0, 1] the text
+238 [35, 2, 3] Gazetteer and name features
+122 [19, 1, 3] a binary feature
+107 [6, 1, 1] each name list
+273 [72, 2, 1] named entities
+144 [42, 1, 2] the entity
+15 [14, 0, 1] the word
+120 [18, 1, 2] the unit
+4 [4, 0, 0] response
+121 [15, 1, 6] The earliest and still common algorithm
+287 [86, 2, 1] relation extraction
+241 [36, 2, 5] lexico-syntactic patterns
+3 [2, 0, 1] Hearst
+10 [9, 0, 1] all such sentences
+0 [0, 0, 0] we
+8 [5, 0, 3] the context
+141 [40, 1, 1] the entities
+142 [41, 1, 1] new patterns
+258 [55, 2, 3] feature-based classification
+560 [154, 4, 6] standard supervised relation extraction features
+379 [76, 3, 3] the named entity labels
+16 [15, 0, 1] the two mentions
+20 [17, 0, 3] , the words
+8 [7, 0, 1] dependency paths
+16 [15, 0, 1] the mentions
+20 [19, 0, 1] neighboring words
+228 [27, 2, 1] distance supervision systems
+131 [25, 1, 6] patterns
+143 [38, 1, 5] the hand-built patterns
+158 [55, 1, 3] early relation extractors
+224 [23, 2, 1] distant supervision
+264 [61, 2, 3] extracting relations
+19 [18, 0, 1] a large enough database
+250 [47, 2, 3] pattern-based classifiers
+0 [0, 0, 0] it
+30 [26, 0, 4] use
+128 [25, 1, 3] high-precision evidence
+154 [52, 1, 2] the relation
+140 [40, 1, 0] entities
+169 [68, 1, 1] new relations
+1 [1, 0, 0] datasets
+19 [18, 0, 1] new domains
+125 [22, 1, 3] purely unsupervised methods
+6 [3, 0, 3] The goal
+396 [95, 3, 1] unsupervised relation extraction
+155 [52, 1, 3] relations
+6 [5, 0, 1] the web
+0 [0, 0, 0] we
+160 [57, 1, 3] no labeled training data
+152 [52, 1, 0] relations
+524 [121, 4, 3] Supervised relation extraction systems
+18 [17, 0, 1] test sets
+170 [67, 1, 3] gold-standard relations
+115 [14, 1, 1] computing precision
+113 [11, 1, 2] recall
+8 [7, 0, 1] F-measure
+351 [45, 3, 6] Rule-based approaches
+411 [105, 3, 6] temporal expression recognition use
+1 [1, 0, 0] automata
+125 [25, 1, 0] patterns
+6 [4, 0, 2] increasing levels
+2 [2, 0, 0] complexity
+258 [57, 2, 1] Temporal normalization
+11 [3, 0, 8] the process
+267 [66, 2, 1] a temporal expression
+17 [13, 0, 4] either a specific point
+117 [17, 1, 0] time
+3 [2, 0, 1] a duration
+117 [14, 1, 3] Most current approaches
+258 [57, 2, 1] temporal normalization
+29 [26, 0, 3] The task
+265 [64, 2, 1] event extraction
+19 [15, 0, 4] mentions
+139 [37, 1, 2] events
+13 [13, 0, 0] texts
+3 [3, 0, 0] English
+131 [30, 1, 1] most event
+10 [9, 0, 1] most verbs
+137 [37, 1, 0] events
+265 [64, 2, 1] Event extraction
+233 [32, 2, 1] supervised learning
+137 [37, 1, 0] events
+123 [20, 1, 3] sequence models
+142 [37, 1, 5] event classes
+17 [14, 0, 3] multi-class classifiers
+287 [86, 2, 1] The temporal expressions
+125 [19, 1, 6] the creation time
+8 [4, 0, 4] the article
+126 [25, 1, 1] the document time
+276 [73, 2, 3] a single temporal expression
+59 [58, 0, 1] the text
+25 [23, 0, 2] The usual set
+133 [33, 1, 0] features
+109 [9, 1, 0] speech
+273 [72, 2, 1] Named entities
+473 [67, 4, 6] featured-based or neural sequence labeling techniques
+54 [52, 0, 2] Relations
+140 [40, 1, 0] entities
+350 [47, 3, 3] pattern-based approaches
+145 [44, 1, 1] supervised learning methods
+52 [49, 0, 3] when annotated training data
+145 [42, 1, 3] lightly supervised bootstrapping methods
+8 [4, 0, 4] small numbers
+23 [21, 0, 2] seed tuples
+135 [34, 1, 1] seed patterns
+224 [23, 2, 1] , distant supervision
+9 [7, 0, 2] a database
+152 [52, 1, 0] relations
+136 [30, 1, 6] unsupervised or Open IE methods
+30 [26, 0, 4] The task
+389 [87, 3, 2] named entity recognition
+114 [13, 1, 1] (NER
+14 [9, 0, 5] each mention
+277 [74, 2, 3] a named entity
+59 [58, 0, 1] the text
+11 [10, 0, 1] its type
+238 [35, 2, 3] Gazetteer and name features
+122 [19, 1, 3] a binary feature
+107 [6, 1, 1] each name list
+273 [72, 2, 1] named entities
+144 [42, 1, 2] the entity
+15 [14, 0, 1] the word
+120 [18, 1, 2] the unit
+4 [4, 0, 0] response
+6 [3, 0, 3] The goal
+396 [95, 3, 1] unsupervised relation extraction
+155 [52, 1, 3] relations
+6 [5, 0, 1] the web
+0 [0, 0, 0] we
+160 [57, 1, 3] no labeled training data
+152 [52, 1, 0] relations
