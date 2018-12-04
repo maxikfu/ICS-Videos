@@ -5,7 +5,7 @@ import re
 import numpy as np
 from nltk import word_tokenize
 from nltk.corpus import stopwords
-from sklearn.cluster import AgglomerativeClustering, KMeans
+from sklearn.cluster import AgglomerativeClustering
 from sklearn.metrics.pairwise import euclidean_distances
 import matplotlib.pyplot as plt
 import codecs
