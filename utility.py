@@ -12,7 +12,12 @@ import codecs
 import os, subprocess
 
 
-def load_test_data(file_path):  # returns test data in dictionary
+def load_test_data(file_path):
+    """
+    Loading manually created test data set
+    :param file_path:  path to csv file containing sentences
+    :return: dictionary, key - slide name, value - list of sentences in this slide
+    """
     dic = {}
     df = pd.read_csv(file_path)
     for slide, sentence, region in zip(df['SlideNumber'], df['Sentence'], df['RegionId']):  # loading data from csv
@@ -52,14 +57,26 @@ def load_ocr_output(file_path):  # removing stopwords in this step
 
 
 def clustering(x_data, y_data, number_of_clusters, link):
+    """
+    Applying Agglomerative clustering algorithm to data set
+    :param x_data: coordinates of the beginning of words on axis X
+    :param y_data: coordinates of the beginning of words on axis Y
+    :param number_of_clusters: estimated number of clusters provided by GAP statistics
+    :param link: linkage method for Agglomerative clustering algorithm
+    :return: lsit of labels for each data point
+    """
     x_y_combined = [[x, y] for x, y in zip(x_data, y_data)]
     clf = AgglomerativeClustering(n_clusters=number_of_clusters, linkage=link).fit(x_y_combined)
     # clf = KMeans(number_of_clusters).fit(x_y_combined)
     return clf.labels_
 
 
-def ocr_coordinates_pre_processing(data):  # deleting spaces between words
-    # Parameters: data - df of the single image!
+def ocr_coordinates_pre_processing(data):
+    """
+    Deleting spaces between words related to the length of the words in the same line
+    :param data: data frame of the single slide
+    :return: x, y coordinates and rest is for the test purposes
+    """
     x_data = data['Left'].tolist()
     y_data = data['Top'].tolist()
     max_right_point = max(data['Right'].tolist())  # max right point in the slide
@@ -100,10 +117,15 @@ def ocr_coordinates_pre_processing(data):  # deleting spaces between words
 
 
 def estimate_n_clusters(data):
-    # we use different linkage methods, return one with max value of gap
-    # single linkage is fast, and can perform well on non-globular data, but it performs poorly in the presence of noise
-    # average and complete linkage perform well on cleanly separated globular clusters, but have mixed results otherwise
-    # Ward is the most effective method for noisy data
+    """
+    Estimating number of clusters in data set by using GAP statistic
+    I use different linkage methods, return one with max value of gap
+    single linkage is fast, and can perform well on non-globular data, but it performs poorly in the presence of noise
+    average and complete linkage perform well on cleanly separated globular clusters, but have mixed results otherwise
+    Ward is the most effective method for noisy data
+    :param data:  xy coordinates
+    :return: int estimated number of clusters and best linkage method for this data set
+    """
     linkage_list = ['single', 'average', 'ward']
     value = -999999
     k_best = None
@@ -118,13 +140,15 @@ def estimate_n_clusters(data):
 
 
 def gap_statistic(data, linkage_method, nrefs=30, maxClusters=10):
-    # calculates optimal number of clausters by usig Gap Statistic from Tibshirani, Walther, Hastie
-    # Params:
-    #   data: ndarry of shape (n_samples, n_features)
-    #   nrefs: number of sample reference datasets to create
-    #   maxClusters: Maximum number of clusters to test for
-    # Returns: (gaps, optimalK)
-
+    """
+    Read paper to understand how gap statistic works =)
+    https://statweb.stanford.edu/~gwalther/gap
+    :param data: ndarry of shape (n_samples, n_features)
+    :param linkage_method: linkage method for Agglomerative Clustering
+    :param nrefs: number of sample reference data sets to create
+    :param maxClusters: Maximum number of clusters to test for
+    :return: (gaps, optimalK)
+    """
     # Number of clusters cannot be more then number of samples
     if len(data) < 10:
         maxClusters = len(data)
@@ -193,11 +217,14 @@ def dispersion(data_points, returned_clusters):  # returns Wk, is the pooled wit
     return wk
 
 
-def extract_sentences_from_ocr(data):  # extract sentences from txt file related to single frame capture
-    # Determines new sentence only by Uppercase letter in the beginning of the word
-    # Parameter: data: data frame format
-    # DF columns in the specific order: word,Fontsize,FontFamily,FontFaceStyle,Left,Top,Right,Bottom,
-    # RecognitionConfidence,Id,RegionId,LineId,imageFile
+def extract_sentences_from_ocr(data):
+    """
+    Putting words together from OCR output to create sentences
+    Data Frame columns in the specific order: word,Fontsize,FontFamily,FontFaceStyle,Left,Top,Right,Bottom,
+    RecognitionConfidence,Id,RegionId,LineId,imageFile
+    :param data: data frame from csv file of the single slide
+    :return:
+    """
     file_dict = {}
     file_names = set(data['imageFile'])
     for file_name in file_names:
