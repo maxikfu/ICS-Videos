@@ -292,11 +292,13 @@ def update_ocr_results(slice, data, new_region_id):
     # new_region_id - list of labels output by clustering algorithm (need to be reassign label names from 0 to etc.)
     prev_cluster = new_region_id[0]
     new_cluster = 0
+    if len(new_region_id) != len(ids):
+        print("Fudge: ", len(new_region_id), len(ids))
     for i, j in zip(range(0, len(new_region_id)), ids):
         if prev_cluster != new_region_id[i]:  # new cluster
             new_cluster += 1  # TODO: something weird happening here
             prev_cluster = new_region_id[i]
-        data.at[j, 'RegionId'] = new_cluster
+        data.at[j, 'RegionId'] = new_region_id[i]
 
     # words on the same line most likely in the same region
     lineid = None
