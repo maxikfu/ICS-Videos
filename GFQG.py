@@ -233,7 +233,7 @@ def questions_formation(sentences, word_count, topic_words):
     return chunk_span_dict
 
 
-def rawtext2Question(path_to_raw_text):
+def rawtext2question(path_to_raw_text):
     """
     Main function what generates gap-fill questions from text book
     :param path_to_raw_text: self explanatory
@@ -266,4 +266,4 @@ def rawtext2Question(path_to_raw_text):
 if __name__ == '__main__':
     # utility.pdf2text('data/syntactic_parsing.pdf')
     # after converting pdf to txt we need to clean up data
-    rawtext2Question('data/IE_chapter17_cleaned.txt')
+    rawtext2question('data/IE_chapter17_cleaned.txt')
