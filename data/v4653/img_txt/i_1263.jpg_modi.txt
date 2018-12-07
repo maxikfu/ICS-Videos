@@ -1,0 +1,15 @@
+Soe,11,HelveticaCentury,b,283,11,307,21,25,3,0,0; 
+of,11,HelveticaCentury,b,208,46,221,56,165,9,3,3; 
+HoUtcn,11,Helvetica,b,225,47,276,57,39,10,3,3; 
+Type,13,Helvetica,b,87,998,118,1012,197,26,5,5; 
+here,13,Helvetica,b,123,999,150,1009,209,27,5,5; 
+to,13,Helvetica,b,156,999,168,1009,208,28,5,5; 
+search,13,Helvetica,b,174,999,214,1009,196,29,5,5; 
+Synaptic,14,Times,r,736,888,802,905,139,33,8,8; 
+cleft,14,Times,r,736,911,767,923,166,34,8,9; 
+Molor,14,Times,r,872,139,916,152,44,37,9,10; 
+h1,24,HelveticaCentury,b,591,554,610,583,33,41,10,12; 
+Myulin,14,Helvetica,b,984,440,1033,455,24,42,11,13; 
+Neurornuscuki,14,Times,r,304,705,420,718,23,46,14,16; 
+Axon,14,Helvetica,b,533,681,572,694,192,48,15,18; 
+v88des,14,Helvetica,b,736,820,797,832,24,50,16,20; 

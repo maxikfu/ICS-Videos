@@ -1,0 +1,15 @@
+of,11,Helvetica,r,208,46,222,56,47,7,3,3; 
+HOUton,11,Helvetica,r,225,47,276,57,22,8,3,3; 
+jlJSJ,11,Helvetica,r,281,46,306,59,30,9,3,3; 
+JUNCTION,37,HelveticaCentury,b,24,193,258,228,202,13,4,4; 
+fod,14,Helvetica,r,1140,134,1175,149,35,21,6,7; 
+wish,14,Helvetica,r,1183,136,1216,149,33,22,6,7; 
+Type,12,Helvetica,b,87,998,118,1012,202,27,8,10; 
+here,12,Helvetica,b,123,999,150,1009,200,28,8,10; 
+to,12,Helvetica,b,155,999,168,1010,199,29,8,10; 
+search,12,Helvetica,b,174,999,214,1009,196,30,8,10; 
+1219PM,12,Helvetica,b,1172,989,1218,999,91,33,10,12; 
+NEUROMUSCULAR,37,HelveticaCentury,b,56,137,488,172,212,38,12,16; 
+Musce,15,Helvetica,r,613,485,666,498,30,43,16,20; 
+Nbes,15,Helvetica,r,672,485,713,498,33,44,16,20; 
+NeuromusaiIis,15,Times,r,737,819,854,833,26,46,18,22; 

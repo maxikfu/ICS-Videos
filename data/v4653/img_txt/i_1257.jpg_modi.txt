@@ -1,0 +1,14 @@
+SynaptiC,13,Helvetica,r,736,611,802,628,59,0,0,0; 
+Actvo,13,Helvetica,r,736,669,783,682,29,3,0,2; 
+ione,15,Times,b,790,672,825,682,37,4,0,2; 
+cleft,15,Times,r,736,725,767,737,180,6,0,4; 
+of,11,Helvetica,b,208,46,222,56,124,22,1,6; 
+HoUton,11,Helvetica,b,225,47,276,57,39,23,1,6; 
+I1JSJ,13,Helvetica,r,281,46,306,59,26,24,1,6; 
+Nejromueculn,15,Times,r,303,519,421,532,26,32,4,10; 
+Muss,14,Helvetica,b,179,184,219,197,96,37,6,15; 
+Myehn,14,Helvetica,b,984,253,1034,269,40,38,6,16; 
+Pmsynaptic,16,Times,r,257,894,346,911,32,40,6,18; 
+tenmnnIs,15,Helvetica,b,256,916,326,929,32,41,6,19; 
+Typeheretosearch,13,Helvetica,r,87,998,214,1012,52,43,6,20; 
+Rceptors,15,Times,r,736,765,815,781,38,46,7,21; 
