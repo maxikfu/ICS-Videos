@@ -59,8 +59,8 @@ def sentence_selection(data_dict, external_key_words):
     from all topics and external help words
     """
     # lemmatizing and removing stop words from names of all topics
-    all_the_topics = ' '.join([t for t in data_dict])
-    all_the_topics = all_the_topics + ' ' + ' '.join(external_key_words)
+    # all_the_topics = ' '.join([t for t in data_dict])
+    all_the_topics = ' '.join(external_key_words)
     topics_doc = nlp(all_the_topics)
     all_the_topics = set(token.lemma_ for token in topics_doc if not is_stop(token.text) and not token.is_punct and not token.is_space)
     weights = [1.5, 0.1, 0.2, 0.5, 0.01, 0.2, 0.1]
@@ -114,7 +114,7 @@ def sentence_selection(data_dict, external_key_words):
     # in this step we do selection based on the score. At this moment boundary set to 1.1
     result_sentences = {}
     for topic in data_dict:
-        selection = set(score for score in result_sel_sent[topic] if score > 1.8)
+        selection = set(score for score in result_sel_sent[topic] if score > 1.2)
         if selection:
             result_sentences[topic] = [data_dict[topic][result_sel_sent[topic].index(elem)] for elem in selection]
     return result_sentences, all_the_topics
@@ -233,7 +233,7 @@ def questions_formation(sentences, word_count, topic_words):
     return chunk_span_dict
 
 
-def rawtext2question(path_to_raw_text):
+def rawtext2question(path_to_raw_text, important_words):
     """
     Main function what generates gap-fill questions from text book
     :param path_to_raw_text: self explanatory
@@ -242,10 +242,10 @@ def rawtext2question(path_to_raw_text):
     with open(path_to_raw_text, 'r') as f:
         book_text = f.read()
     data, word_dict = data_pre_processing(book_text)
-    with open('data/key_words.txt', 'r') as f:
-        key_words = f.read()
-    key_words = key_words.lower().split(',')
-    selected_sent, topic_words = sentence_selection(data, key_words)
+    # with open('data/key_words.txt', 'r') as f:
+    #     key_words = f.read()
+    # key_words = key_words.lower().split(',')
+    selected_sent, topic_words = sentence_selection(data, important_words)
     questions = questions_formation(selected_sent, word_dict, topic_words)
     for key_chunk, value in questions.items():
         for q in value:
@@ -266,4 +266,5 @@ def rawtext2question(path_to_raw_text):
 if __name__ == '__main__':
     # utility.pdf2text('data/syntactic_parsing.pdf')
     # after converting pdf to txt we need to clean up data
-    rawtext2question('data/IE_chapter17_cleaned.txt')
+    # rawtext2question('data/IE_chapter17_cleaned.txt')
+    pass
