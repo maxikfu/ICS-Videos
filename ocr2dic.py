@@ -2,7 +2,14 @@ import utility
 import pprint
 
 
-def ocr2dict(path_to_ocr_output):
+def ocr2dict(path_to_ocr_output, path_to_segments):
+    """
+    Organizes OCR output by segments and word sequences
+    :param path_to_ocr_output:
+    :param path_to_segments:
+    :return: dictionary: key - segment, value -
+    dictionary {key - slide, value - dictionary {key -# sequence, value - list of words}}
+    """
     ocr_result_df = utility.load_ocr_output(path_to_ocr_output)
     ocr_dict, ocr_data_frame = utility.cluster_upgrade(ocr_result_df)
     return ocr_dict

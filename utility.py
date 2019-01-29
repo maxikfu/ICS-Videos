@@ -348,10 +348,11 @@ def perfect_ocr(gold, ocr_output):
 
 
 def cluster_upgrade(data):
-    # Parameters: data - dataframe of original OCR output
-    # Returns: dictionary containing filename, clusters in file and sentences inside clusters
-    # cauterising and updating regionId of input data with multiple ocr outputs in one csv file
-    # removing word length between points to bring words closer to each other for better clustering performance MAYBE
+    """
+    Main function converts OCR output to dictionary for further question generation tasks
+    :param data: dataframe of original OCR output from csv file
+    :return: dictionary {key-slide number, value-dict{key-cluster, value list of words}}
+    """
     data_dict = {}
     file_names = set(data['imageFile'])
     for file_name in file_names:
@@ -369,7 +370,19 @@ def cluster_upgrade(data):
         # plt.title(file_name)
         # plt.scatter(x, y, c=a, s=200)
         # plt.show()
+        data_dict = segmentation(data_dict)
     return data_dict, data
+
+
+def segmentation(input_dict):
+    # TODO: write function assign each slide to specific segment
+    """
+    After clustering algorithm performs, slides being assigned to specific segment
+    :param input_dict:
+    :return: output_dict dictionary: key - segment, value -
+    dictionary {key - slide, value - dictionary {key -# sequence, value - list of words}}
+    """
+    return input_dict
 
 
 def extract_dependencies(data):  # extracting dependencies between word sequences

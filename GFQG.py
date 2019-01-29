@@ -16,6 +16,7 @@ def is_stop(word):
 
 
 def data_pre_processing(raw_text):  # cleaning text
+    #TODO: Texttilling
     # returns Dictionary of spans with topic as a key and count of the words in the document
     # identifying topic and related content of the topic
     doc = nlp(raw_text)
