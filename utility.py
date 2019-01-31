@@ -364,13 +364,15 @@ def cluster_upgrade(data, path_to_segments):
     for file_name in file_names:
         # print('working on file', file_name)
         rows = data.loc[data['imageFile'] == file_name]
+############################### Uncomment this for clustering algorithm to run ############
         '''x, y, c, a = ocr_coordinates_pre_processing(rows)
         x_y = [[x1, y1] for x1, y1 in zip(x, y)]
         # estimating number of cluster with gap statistic
         k, linkage = estimate_n_clusters(x_y)
         labels = clustering(x, y, k, linkage)  # clustering for 2D data
-        data = update_ocr_results(rows, data, labels)'''
-        #data_dict.update(extract_sentences_from_ocr(data))
+        data = update_ocr_results(rows, data, labels)
+        data_dict.update(extract_sentences_from_ocr(data))'''
+####################################################################################################
         # ax = plt.gca()  # get the axis
         # ax.invert_yaxis()  # invert the axis
         # plt.title(file_name)
@@ -381,18 +383,24 @@ def cluster_upgrade(data, path_to_segments):
 
 
 def segmentation(input_dict, path_to_segments):
-    # TODO: write function assign each slide to specific segment
     """
-    After clustering algorithm performs, slides being assigned to specific segment
+    Every slide assigned to specific segment in the video lecture.
+    Returns new dictionary
     :param path_to_segments:
     :param input_dict:
     :return: output_dict dictionary: key - segment, value -
     dictionary {key - slide, value - dictionary {key -# sequence, value - list of words}}
     """
-    data = pd.read_csv(path_to_segments)
-    pprint.pprint(input_dict)
-    exit()
-    return input_dict
+    segment_df = pd.read_csv(path_to_segments)
+    segment_index = segment_df['belongs_to_index_no']
+    segment_file = segment_df['filename']
+    new_dic = {}
+    for seg_id, filename in zip(segment_index, segment_file):
+        if seg_id not in new_dic:
+            new_dic[seg_id] = {filename: input_dict[filename]}
+        else:
+            new_dic[seg_id][filename] = input_dict[filename]
+    return new_dic
 
 
 def extract_dependencies(data):  # extracting dependencies between word sequences
