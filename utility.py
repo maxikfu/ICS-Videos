@@ -10,6 +10,7 @@ from sklearn.metrics.pairwise import euclidean_distances
 import matplotlib.pyplot as plt
 import codecs
 import os, subprocess
+import pprint
 
 
 def load_test_data(file_path):
@@ -51,6 +52,10 @@ def rm_apostrophe(phrase):  # removing apostrophe and punct
 
 def load_ocr_output(file_path):  # removing stopwords in this step
     data = pd.read_csv(file_path)
+    # removing spaces in file names
+    id = list(data.index.values)
+    for i in id:
+        data.at[i, 'imageFile'] = str(data.at[i, 'imageFile']).strip()
     stop_words = set(stopwords.words('english'))
     # data = data[~data.word.isin(stop_words)]
     return data
@@ -359,19 +364,19 @@ def cluster_upgrade(data, path_to_segments):
     for file_name in file_names:
         # print('working on file', file_name)
         rows = data.loc[data['imageFile'] == file_name]
-        x, y, c, a = ocr_coordinates_pre_processing(rows)
+        '''x, y, c, a = ocr_coordinates_pre_processing(rows)
         x_y = [[x1, y1] for x1, y1 in zip(x, y)]
         # estimating number of cluster with gap statistic
         k, linkage = estimate_n_clusters(x_y)
         labels = clustering(x, y, k, linkage)  # clustering for 2D data
-        data = update_ocr_results(rows, data, labels)
-        data_dict.update(extract_sentences_from_ocr(data))
+        data = update_ocr_results(rows, data, labels)'''
+        #data_dict.update(extract_sentences_from_ocr(data))
         # ax = plt.gca()  # get the axis
         # ax.invert_yaxis()  # invert the axis
         # plt.title(file_name)
         # plt.scatter(x, y, c=a, s=200)
         # plt.show()
-    data_dict = segmentation(data_dict, path_to_segments)
+    data_dict = segmentation(extract_sentences_from_ocr(data), path_to_segments)
     return data_dict, data
 
 
@@ -385,7 +390,7 @@ def segmentation(input_dict, path_to_segments):
     dictionary {key - slide, value - dictionary {key -# sequence, value - list of words}}
     """
     data = pd.read_csv(path_to_segments)
-    print(data)
+    pprint.pprint(input_dict)
     exit()
     return input_dict
 

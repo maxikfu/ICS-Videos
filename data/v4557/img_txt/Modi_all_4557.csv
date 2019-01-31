@@ -1,4 +1,4 @@
-Word, Fontsize, FontFamily, FontFaceStyle, Left, Top, Right, Bottom, RecognitionConfidence, Id, LineId, RegionId, ImageFile 
+Word, Fontsize, FontFamily, FontFaceStyle, Left, Top, Right, Bottom, RecognitionConfidence, Id, RegionId, LineId, imageFile 
 Orientation,47,HelveticaCentury,b,241,73,525,115,212,0,0,0,i_0002.jpg 
 summary,47,HelveticaCentury,b,546,84,779,126,212,1,0,0,i_0002.jpg 
 Go,19,Helvetica,b,433,168,460,184,212,3,0,1,i_0002.jpg 
