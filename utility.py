@@ -383,6 +383,7 @@ def cluster_upgrade(data, path_to_segments):
 
 
 def segmentation(input_dict, path_to_segments):
+    #TODO: remake for txt file BIOL_4557.txt when I will have time
     """
     Every slide assigned to specific segment in the video lecture.
     Returns new dictionary
