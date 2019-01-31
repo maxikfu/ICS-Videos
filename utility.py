@@ -80,7 +80,7 @@ def ocr_coordinates_pre_processing(data):
     x_data = data['Left'].tolist()
     y_data = data['Top'].tolist()
     max_right_point = max(data['Right'].tolist())  # max right point in the slide
-    word_id = data['Id'].tolist()
+    word_id = list(data.index.values)
     line_id = data['LineId'].tolist()
     word_length = [r - l for l, r in zip(x_data, data['Right'].tolist())]
     word_length = [0] + word_length[:-1]
@@ -255,7 +255,7 @@ def extract_sentences_from_ocr(data):
             #         sentence = [row['word']]
             #     else:
             #         sentence.append(row['word'])
-            sentence.append(row['word'])
+            sentence.append(row['Word'])
         if sentence:  # need ability to add last sentence
             file_dict[file_name][region_id].append(sentence)
     return file_dict
@@ -315,7 +315,7 @@ def update_ocr_results(slice, data, new_region_id):
     # if new region starts with lower case it is related to previous region
     for i in ids:
         if regionid != data.at[i, 'RegionId'] and data.at[i, 'RegionId'] != update_region:  # new region
-            if data.at[i, 'word'][0].isupper():  # doing nothing
+            if data.at[i, 'Word'][0].isupper():  # doing nothing
                 regionid = data.at[i, 'RegionId']
             else:  # lower case, related to the previous region
                 update_region = data.at[i, 'RegionId']
@@ -347,9 +347,10 @@ def perfect_ocr(gold, ocr_output):
     return good_result
 
 
-def cluster_upgrade(data):
+def cluster_upgrade(data, path_to_segments):
     """
     Main function converts OCR output to dictionary for further question generation tasks
+    :param path_to_segments:
     :param data: dataframe of original OCR output from csv file
     :return: dictionary {key-slide number, value-dict{key-cluster, value list of words}}
     """
@@ -370,18 +371,22 @@ def cluster_upgrade(data):
         # plt.title(file_name)
         # plt.scatter(x, y, c=a, s=200)
         # plt.show()
-        data_dict = segmentation(data_dict)
+    data_dict = segmentation(data_dict, path_to_segments)
     return data_dict, data
 
 
-def segmentation(input_dict):
+def segmentation(input_dict, path_to_segments):
     # TODO: write function assign each slide to specific segment
     """
     After clustering algorithm performs, slides being assigned to specific segment
+    :param path_to_segments:
     :param input_dict:
     :return: output_dict dictionary: key - segment, value -
     dictionary {key - slide, value - dictionary {key -# sequence, value - list of words}}
     """
+    data = pd.read_csv(path_to_segments)
+    print(data)
+    exit()
     return input_dict
 
 
