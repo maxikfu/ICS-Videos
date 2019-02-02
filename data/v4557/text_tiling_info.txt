@@ -1,3 +1,5 @@
+
+_TT1
 Human Physiology
 
 Wikibooks.org
@@ -76,6 +78,8 @@ The Nervous System
 .
 Glossary . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102
 References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 103
+_TT2
+
 
 The Senses
 4.1
@@ -136,6 +140,8 @@ Diseases of the Blood . . . . . . . . .
 Glossary . . . . . . . . . . . . . . . . .
 6.7
 Review Questions . . . . . . . . . . .
+_TT3
+
 
 
 The Cardiovascular System
@@ -273,11 +279,15 @@ Dialysis and Kidney Transplant .
 12.6 Extrathyroidal iodine . . . . .
 12.7 Glossary . . . . . . . . . . . . .
 12.8 Chapter Review Questions . .
+_TT4
+
 
 Contents
 12.9
 
 References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 349
+_TT5
+
 
 13 The Male Reproductive System
 13.1 Introduction . . . . . . . . . . . .
@@ -343,6 +353,8 @@ References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 16.9 Genetic Regulation of Development and Homeostasis
 16.10 Glossary . . . . . . . . . . . . . . . . . . . . . . . . .
 16.11 Review questions . . . . . . . . . . . . . . . . . . . .
+_TT6
+
 
 17 Human Development
 17.1 Overview . . . . . . . . . . . . . . . . . . . .
@@ -378,6 +390,8 @@ References . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 2
 
 GNU Lesser General Public License . . . . . . . . . . . . . . . . . . . . . . 545
+_TT7
+
 
 1 Homeostasis
 1.1 Overview
@@ -458,6 +472,8 @@ should be adjusted.
 • Their whole organization (internal, structural, and functional) contributes to the maintenance of balance.
 • Physiology is largely a study of processes related to homeostasis. Some of the functions
 you will learn about in this book are not specifically about homeostasis (e.g. how muscles
+_TT8
+
 
 4
 
@@ -504,6 +520,8 @@ requires iron, will result in reduced oxygen-carrying capacity. In mild cases sy
 may be vague (e.g. fatigue), but if the anemia (British English: anaemia) is severe the
 body will try to compensate by increasing cardiac output, leading to palpitations and
 sweatiness, and possibly to heart failure.
+_TT9
+
 
 5
 
@@ -540,6 +558,8 @@ waver in homeostasis. Too much toxicity also causes homeostatic imbalance, resul
 in cellular malfunction. By removing negative health influences, and providing adequate
 positive health influences, your body is better able to self-regulate and self-repair, thus
 maintaining homeostasis.
+_TT10
+
 
 1.3 Homeostasis Throughout the Body
 Each body system contributes to the homeostasis of other systems and of the entire organism.
@@ -578,6 +598,8 @@ two divisions, the sympathetic and parasympathetic systems. In general, the symp
 system brings about those results we associate with emergency situations, often called fight
 or flight reactions, and the parasympathetic system produces those effects necessary to our
 everyday existence.
+_TT11
+
 
 1.3.2 Endocrine System
 The endocrine system consists of glands which secrete hormones into the bloodstream. Each
@@ -612,6 +634,8 @@ further into our bodies. Our skin also helps maintain balance by excretion of wa
 other solutes (i.e.) the keratinized epidermis limits fluid loss through skin. It also provides
 mechanical protection against environmental hazards. We need to remember that our skin
 is integumentary; it is our first line of defense.
+_TT12
+
 
 1.3.4 Skeletal System
 As the structural framework for the human body, the skeletal system consists mainly of
@@ -658,6 +682,8 @@ age, gender, and a family history of heart disease, especially at an early age.
 The cardiovascular system also contains sensors to monitor blood pressure, called baroreceptors, that work by detecting how stretched a blood vessel is. This information is relayed to
 the Medulla Oblongata in the brain where action is taken to raise or lower blood pressure
 via the autonomic nervous system.
+_TT13
+
 
 1.3.7 Lymphatic System
 The lymphatic system has three principal roles. First is the maintenance of blood and tissue
@@ -731,6 +757,8 @@ gifted by nature to living beings.
 The survival of living beings greatly depends on their capability to maintain a stable body
 temperature irrespective of temperature of surrounding environment. This capability of
 maintaining body temperature is called thermoregulation. Cold blooded animals, such as
+_TT14
+
 
 10
 
@@ -770,6 +798,8 @@ this relationship, young children are more likely to drop their temperature rapi
 greater temperature variation in children than in adults. It is increased by thyroid hormone
 and decreased by thyroid hormone lack. Different foods can affect BMR and the Respiratory
 Quotient of foods differ. Carbohydrate 1.0; Protein = 1.0; Fats = 0.7
+_TT15
+
 
 1.4.1 Excretory System
 Excretory System is responsible for removing wastes, excess water and salt in the urine.
@@ -803,6 +833,8 @@ know that cells are inconceivably more complex than this. Therefore, a strong kn
 of the various cellular organelles and their functions is important to any physiologist. If a
 person's cells are healthy, then that person is healthy. All physiological processes, disease,
 growth and development can be described at the cellular level.
+_TT16
+
 
 1.6.2 Specialized Cells of the Human Body
 Although there are specialized cells - both in structure and function - within the body,
@@ -840,6 +872,8 @@ is carried out by simple diffusion.
 marrow and help the body to fight infectious disease and foreign objects in the immune
 system. White cells are found in the circulatory system, lymphatic system, spleen,
 and other body tissues.
+_TT17
+
 
 1.6.3 Cell Size
 Cells are the smallest structural & functional living units within our body, but play a big
@@ -865,6 +899,8 @@ oxygen and nutrients to enter the cell while keeping toxins and waste products o
 plasma membrane is a double phospholipid membrane, or a lipid bilayer, with the nonpolar
 hydrophobic tails pointing toward the inside of the membrane and the polar hydrophilic
 heads forming the inner and outer surfaces of the membrane.
+_TT18
+
 
 13
 
@@ -968,6 +1004,8 @@ closed, the liquid is encircled within a pinocytic vesicle.
 • Receptor-mediated endocytosis occurs when specific molecules in the fluid surrounding the cell bind to specialized receptors in the plasma membrane. As in pinocytosis,
 the plasma membrane folds inward and the formation of a vesicle follows.
 Note: Certain hormones are able to target specific cells by receptor-mediated endocytosis.
+_TT19
+
 
 16
 
@@ -994,6 +1032,8 @@ organelles which are considered the insoluble constituents of the cytoplasm, suc
 mitochondria, lysosomes, peroxysomes, ribosomes, several vacuoles and cytoskeletons, as
 well as complex cell membrane structures such as the endoplasmic reticulum and the Golgi
 apparatus that each have specific functions within the cell.
+_TT20
+
 
 17
 
@@ -1042,6 +1082,8 @@ humans), and these cells are characterized by a nucleus (which houses the chromo
 well as a variety of other organelles. Human cells vary considerably (consider the differences
 between a bone cell, a blood cell, and a nerve cell), but most cells have the features described
 below.
+_TT21
+
 
 Figure 4
 
@@ -1134,6 +1176,8 @@ Endoplasmic Reticulum
 Endoplasmic means "within the plasm" and reticulum means "network".
 A complex three dimensional internal membrane system of flattened sheets, sacs and tubes,
 that play an important role in making proteins and shuttling cellular products; also involved
+_TT22
+
 
 23
 
@@ -1172,6 +1216,8 @@ Peroxisomes
 Organelles in which oxygen is used to oxidize substances, breaking down lipids and detoxifying certain chemicals. Peroxisomes self replicate by enlarging and then dividing. They
 are common in liver and kidney cells that break down potentially harmful substances.
 Peroxisomes can convert hydrogen peroxide, a toxin made of H2 O2 to H2 O.
+_TT23
+
 
 24
 
@@ -1201,6 +1247,8 @@ materials. The mucociliary escalator of the respiratory system consists of mucus
 cells lining the trachea and bronchi, and ciliated epithelial cells that move the mucus everupward. In this manner mold spores, bacteria, and debris are caught in the mucus, removed
 from the trachea, and pushed into the esophagus (to be swallowed into a pit of acid). In the
 oviducts cilia move the ovum from the ovary to the uterus, a journey which takes a few days.
+_TT24
+
 
 25
 
@@ -1280,6 +1328,8 @@ NADP is used in anabolic reactions, such as fat acid and nucleic acid synthesis,
 NADPH as a reducing agent. In chloroplasts, NADP is an oxidising agent important in the
 preliminary reactions of photosynthesis. The NADPH produced by photosynthesis is then
 used as reducing power for the biosynthetic reactions in the Calvin cycle of photosynthesis.
+_TT25
+
 
 28
 
@@ -1327,6 +1377,8 @@ ATP possible with the amount of oxygen available, glycolysis can continue to pro
 additional 2 ATP per glucose molecule without sending the electrons to the mitochondria.
 However, during this anaerobic respiration lactic acid is produced, which may accumulate
 and lead to temporary muscle cramping.
+_TT26
+
 
 1.9.3 Krebs Cycle
 The Krebs cycle was named after Sir Hans Krebs1 (1900-1981), who proposed the key
@@ -1428,6 +1480,8 @@ energy storage, serve as structural components of cell membranes, and constitute
 signaling molecules. Although the term lipid is sometimes used as a synonym for fat, the
 latter is in fact a subgroup of lipids called triglycerides and should not be confused with the
 term fatty acid.
+_TT27
+
 
 1.10.2 Carbohydrates
 Carbohydrate molecules consist of carbon, hydrogen, and oxygen. They have a general
@@ -1481,6 +1535,8 @@ different products without enzymes. Most enzymes are proteins and the word "enzy
 often used to mean a protein enzyme. Some RNA molecules also have a catalytic activity,
 and to differentiate them from protein enzymes, they are referred to as RNA enzymes or
 ribozymes.
+_TT28
+
 
 1.11 Review Questions
 Answers for these questions can be found here3
@@ -1538,6 +1594,8 @@ a. The largest living units within our bodies.
 b. Enzymes that "eat" bacteria
 c. Microscopic fundamental units of all living things.
 d. All of the above.
+_TT29
+
 
 36
 
@@ -1672,6 +1730,8 @@ square inch of skin holds 650 sweat glands, 20 blood vessels, 60,000 melanocytes
 than a thousand nerve endings.
 The use of natural or synthetic cosmetics to treat the appearance of the face and condition
 of the skin (such as pore control and black head cleansing) is common among many cultures.
+_TT30
+
 
 2.2.1 Layers
 The skin has two major layers which are made of different tissues and have very different
@@ -1696,6 +1756,8 @@ spinosum, basale. Cells are formed through mitosis at the innermost layers. They
 up the strata changing shape and composition as they differentiate, inducing expression of
 new types of keratin genes. They eventually reach the corneum and become sloughed off
 (desquamation). This process is called keratinization and takes place within about 30 days.
+_TT31
+
 
 41
 
@@ -1848,6 +1910,8 @@ providing even more sensory input when an object is touched.
 2.4.2 Nail Structure
 The structure we know of as the nail is divided into six specific parts - the root, nail bed,
 nail plate, eponychium (cuticle), perionychium, and hyponychium.
+_TT32
+
 
 45
 
@@ -1918,6 +1982,8 @@ shower floors. Nail fungus isn't the same as athlete's foot, which primarily aff
 of the feet, but at times the two may coexist and can be caused by the same type of fungus.
 An infection with nail fungus may be difficult to treat, and infections may recur. But
 medications are available to help clear up nail fungus permanently.
+_TT33
+
 
 2.4.4 Clinical Application
 Nail inspection can give a great deal of information about the internal working of the body as
@@ -1976,6 +2042,8 @@ gland labeled as "sudoriferous gland" at center right.
 In humans, there are two kinds of sweat glands which differ greatly in both the composition
 of the sweat and its purpose: Also "click" here our body Sweats"12 to see a short movie on
 sweat glands.
+_TT34
+
 
 12
 
@@ -2040,6 +2108,8 @@ Sebum is odorless, but its bacterial breakdown can produce odors. Sebum is the c
 some people experiencing "oily" hair if it is not washed for several days. Earwax is partly
 sebum, as is mucopurulent discharge, the dry substance accumulating in the corners of the
 eye after sleeping.
+_TT35
+
 
 51
 
@@ -2106,6 +2176,8 @@ epithelial migration, aided by jaw movement. Cells formed in the center of the t
 membrane migrate outwards from the umbo (at a rate equivalent to that of fingernail growth)
 to the walls of the ear canal, and accelerate towards the entrance of the ear canal. The
 cerumen in the canal is also carried outwards, taking with it any dirt, dust, and particulate
+_TT36
+
 
 54
 
@@ -2233,6 +2305,8 @@ are related to this location. The skin protects the body against pathogens and c
 minimizes loss or entry of water, and blocks the harmful effects of sunlight. Sensory receptors
 in the skin provide information about the external environment, helping the skin regulate
 body temperature in response to environmental changes and helping the body react to pain
+_TT37
+
 
 58
 
@@ -2269,6 +2343,8 @@ A fibroblast is a cell that makes the structural fibers and ground substance of 
 tissue.
 Hair follicle24
 A hair follicle is part of the skin that grows hair by packing old cells together.
+_TT38
+
 
 20
 21
@@ -2357,6 +2433,8 @@ Graaff, Van De (2002). Human Anatomy, Sixth Edition. New York: McGraw-Hill.
 Mader, Sylvia S. (2004). Human Biology. New York: McGraw-Hill.
 Sorrentino, Sheila A. (2004). Mosby's textbook for Nursing Assistants, 6th Edition. St.
 Louis, Missouri: Mosby.
+_TT39
+
 
 32
 33
@@ -2407,6 +2485,8 @@ nervous system and the somatic nervous system. The autonomic has involuntary con
 of internal organs, blood vessels, smooth and cardiac muscles. The somatic has voluntary
 control of skin, bones, joints, and skeletal muscle. The two systems function together, by
 way of nerves from the PNS entering and becoming part of the CNS, and vice versa.
+_TT40
+
 
 64
 
@@ -2433,6 +2513,8 @@ suggest that motor activity exists well before the maturation of the sensory sys
 senses only influence behavior without dictating it. This has brought the conception of the
 CNS as an autonomous system.
 w:Central nervous system1
+_TT41
+
 
 3.3 Structure and function of neurons
 3.3.1 Structure
@@ -2499,6 +2581,8 @@ The primary inhibitory neurotransmitters are GABA and glycine. Modulatory neuron
 more complex effects termed neuromodulation. These neurons use such neurotransmitters
 as dopamine, acetylcholine, serotonin and others. Each synapses can receive both excitatory
 and inhibitory signals and the outcome is determined by the adding up of summation.
+_TT42
+
 
 67
 
@@ -2550,6 +2634,8 @@ Thin-spike: Action potentials of some neurons are more narrow compared to the ot
 For example, interneurons in prefrontal cortex are thin-spike neurons.
 Classification by neurotransmitter released:
 Some examples are cholinergic, GABAergic, glutamatergic and dopaminergic neurons.
+_TT43
+
 
 3.6.1 Central Nervous System
 The central nervous system is the control center for the body. It regulates organ function,
@@ -2625,6 +2711,8 @@ in 'types of neurons') by jumping from node to node. This is called "saltatory" 
 Damage to the myelin sheath by the disease can cause severe impairment of nerve cell
 function. Some poisons and drugs interfere with nerve impulses by blocking sodium channels
 in nerves. See discussion on drug at the end of this outline.
+_TT44
+
 
 72
 
@@ -2662,6 +2750,8 @@ the frontal in control of specialized motor control, learning, planning and spee
 in control of somatic sensory functions; occipital in control of vision; and temporal lobes
 which consists of hearing centers and some speech. Located deep to the temporal lobe of
 the cerebrum is the insula.
+_TT45
+
 
 3.8.4 Cerebellum
 The cerebellum is the part of the brain that is located posterior to the medulla oblongata and
@@ -2743,6 +2833,8 @@ connections with cortical zones of the prefrontal area and with the hypothalamus
 anterior nuclei connect with the mamillary bodies and through them, via fornix, with the
 hippocampus and the cingulated gyrus, thus taking part in what is known as the Papez's
 circuit.
+_TT46
+
 
 76
 
@@ -2798,6 +2890,8 @@ Sensory Memory
 The sensory memories act as a buffer for stimuli through senses. A sensory memory retains
 an exact copy of what is seen or heard: iconic memory for visual, echoic memory for aural
 and haptic memory for touch. Information is passed from sensory memory into short term
+_TT47
+
 
 78
 
@@ -2840,6 +2934,8 @@ There are two types of long term memory:
 Episodic memory represents our memory of events and experiences in a serial form. It is
 from this memory that we can reconstruct the actual events that took place at a given point
 in our lives. Semantic memory, on the other hand, is a structured record of facts, concepts,
+_TT48
+
 
 79
 
@@ -2887,6 +2983,8 @@ recall events from before the inhibitor was given).
 By enhancing synaptic transmission, LTP improves the ability of two neuron, one presynaptic
 and the other postsynaptic, to communicate with one another across a synapse. The precise
 mechanism for this enhancement isn't known, but it varies based on things like brain region,
+_TT49
+
 
 80
 
@@ -2930,6 +3028,8 @@ These molecules include protein receptors, enzymes, and signaling molecules that
 progression from one phase to the next. In addition to mediators, there are modulator
 molecules that interact with mediators to fine tune the LTP. Modulators are a bit beyond
 the scope of this introductory book, and won't be discussed here.
+_TT50
+
 
 81
 
@@ -2972,6 +3072,8 @@ the presynaptic synthesis of synaptotagmin and an increase in synaptic vesicle n
 suggesting that L-LTP induces protein synthesis not only in postsynaptic cells, but in
 presynaptic cells as well. This is discussed under "retrograde messenger" below.
 Induction
+_TT51
+
 
 82
 
@@ -3015,6 +3117,8 @@ take place in regions of the left hemisphere only. The two regions involved are:
 Broca's area is located just in front of the voice control area of the left motor cortex. This
 region assembles the motor of speech and writing. For example, patients with lesions in this
 area:
+_TT52
+
 
 83
 
@@ -3145,6 +3249,8 @@ The twelve cranial nerves are
 I Olfactory Nerve for smell
 II Optic Nerve for vision
 III Oculomotor for looking around
+_TT53
+
 
 86
 
@@ -3194,6 +3300,8 @@ The posterior cord gives rise to the following nerves:
 of the rotator cuff.
 • The lower subscapular nerve, C5 and C6, to the teres major muscle, or the musculus
 teres major, also of the rotator cuff.
+_TT54
+
 
 88
 
@@ -3286,6 +3394,8 @@ response is also known as sympathetico-adrenal response of the body, as the pre-
 sympathetic fibers that end in the adrenal medulla (but also all other sympathetic fibers)
 secrete acetylcholine, which activates the secretion of adrenaline (epinephrine) and to a lesser
 extent noradrenaline (norepinephrine) from it. Therefore, this response that acts primarily
+_TT55
+
 
 91
 
@@ -3308,6 +3418,8 @@ After high stress situations (ie: fighting for your life) the parasympathetic ne
 has a backlash reaction that balances out the reaction of the sympathetic nervous system.
 For example, the increase in heart rate that comes along with a sympathetic reaction will
 result in an abnormally slow heart rate during a parasympathetic reaction.
+_TT56
+
 
 3.10.2 Organization
 Sympathetic nerves originate inside the vertebral column, toward the middle of the spinal
@@ -3358,6 +3470,8 @@ The parasympathetic nervous system is one of three divisions of the autonomic ne
 system. Sometimes called the rest and digest system, the parasympathetic system conserves
 energy as it slows the heart rate, increases intestinal and gland activity, and relaxes sphincter
 muscles in the gastrointestinal tract.
+_TT57
+
 
 3.10.4 Relationship to sympathetic
 While an oversimplification, it is said that the parasympathetic system acts in a reciprocal
@@ -3458,6 +3572,8 @@ There are different types of MS
 The Nervous System
 Multiple sclerosis is classified according to frequency and severity of neurological symptoms,
 the ability of the CNS to recover, and the accumulation of damage.
+_TT58
+
 
 Figure 39
 
@@ -3504,6 +3620,8 @@ See the alcohol section below to see one way this can work.
 Stimulants work mostly with epinephrine, dopamine or serotonin (or a combination of them).
 Many of them either mimic one, or stop them from leaving the synapse, causing more action
 potentials to be fired. Methamphetamine, discussed below, is a fairly typical stimulant drug.
+_TT59
+
 
 3.13.1 Drug Abuse
 
@@ -3564,6 +3682,8 @@ smoked, snorted, swallowed, or used rectally or sublingually. The latter two bei
 uncommon. After administration, methamphetamine takes from a few seconds (smoked
 or injected IV) to around 30 minutes (oral) for effects to arise, lasting around eight hours
 depending on the route of administration. Effects/side effects include euphoria, anorexia,
+_TT60
+
 
 98
 
@@ -3585,6 +3705,8 @@ Marijuana contains a myriad of chemicals, called cannabinoids, that have psychoa
 medicinal effects when consumed, the major one being tetrahydrocannabinol (THC). THC
 serves to mimic the endogenous neurotransmitter anandamide (also found in chocolate) at
 the CB1 receptors in the brain. Other cannabinoids include Cannabidiol (CBD), cannabinol
+_TT61
+
 
 99
 
@@ -3632,6 +3754,8 @@ A ) (1) neurotransmitter released (2) diffused across the synaptic cleft to a re
 
 http://en.wikibooks.org/wiki/Human_Physiology/Appendix_1:_answers_to_review_
 questions#The_Nervous_System
+_TT62
+
 
 Review Questions
 B ) (1) neurotransmitter released (2) diffused across the synaptic cleft to a receptor protein
@@ -3767,6 +3891,8 @@ The senses of gustation (taste) and olfaction (smell) fall under the category of
 compounds react with the receptors, an impulse is sent to the brain and is registered as a
 certain taste or smell. Gustation and olfaction are chemical senses because the receptors
 they contain are sensitive to the molecules in the food we eat, along with the air we breathe.
+_TT63
+
 
 4.2.1 Gustatory System
 In humans, the sense of taste is transduced by taste buds and is conveyed via three of the
@@ -3811,6 +3937,8 @@ pulled forward.
 Figure 43 Semidiagrammatic view of a portion of the mucous membrane of the tongue.
 Two fungiform papillæ are shown. On some of the filiform papillæ the epithelial
 prolongations stand erect, in one they are spread out, and in three they are folded in.
+_TT64
+
 
 Each taste bud is flask-like in shape, its broad base resting on the corium, and its neck
 opening by an orifice, the gustatory pore, between the cells of the epithelium.
@@ -3866,6 +3994,8 @@ GPCR, it in turn releases gustducin, the G-protein it was coupled to. Gustducin 
 of three subunits. When it is activated by the GPCR, its subunits break apart and activate
 phosphodiesterase, a nearby enzyme. It then converts a precursor within the cell into a
 secondary messenger, which closes potassium ion channels. This secondary messenger can
+_TT65
+
 
 109
 
@@ -3959,6 +4089,8 @@ transduction cell in the olfactory system. Humans have about 40 million olfactor
 neurons. In vertebrates, olfactory receptor neurons reside on the olfactory epithelium in the
 nasal cavity. These cells are bipolar neurons with a dendrite facing the interior space of the
 nasal cavity and an axon that travels along the olfactory nerve to the olfactory bulb.
+_TT66
+
 
 111
 
@@ -4015,6 +4147,8 @@ taste is dependent on our senses of smell. With aging our olfactory function dec
 elderly careful monitoring of appetite is necessary due to the alterations in the olfactory
 function. Nutritionist suggest giving a dual approach of supplementation of the trace
 minerals zinc and iron to enhance the smell and taste senses.
+_TT67
+
 
 113
 
@@ -4059,6 +4193,8 @@ processed in the cerebral cortex of the brain.
 The human eye is a elongated ball about 1-inch (2.5 cm) in diameter and is protected by a
 bony socket in the skull. The eye has three layers or coats that make up the exterior wall of
 the eyeball, which are the sclera, choroid, and retina.
+_TT68
+
 
 114
 
@@ -4138,6 +4274,8 @@ four recti. They insert on the globe at 12, 3, 6, and 9 o'clock, and are called 
 lateral, inferior and medial rectus muscles. (Note that lateral and medial are relative to
 the subject, with lateral toward the side and medial toward the midline, thus the medial
 rectus is the muscle closest to the nose).
+_TT69
+
 
 4.3.2 Eye Movement
 The visual system in the brain is too slow to process that information if the images are
@@ -4169,6 +4307,8 @@ of your fingers remains clear. This demonstrates that the brain can move the eye
 to head motion much better than it can follow, or pursue, a hand movement. When your
 pursuit system fails to keep up with the moving hand, images slip on the retina and you
 see a blurred hand.
+_TT70
+
 
 4.3.3 How we see an object
 • The light rays enter the eye through the cornea (transparent front portion of eye to focus
@@ -4212,6 +4352,8 @@ of the smaller pupil size, older eyes receive much less light at the retina. In 
 younger people, it is as though older persons wear medium-density sunglasses in bright light
 and extremely dark glasses in dim light. Therefore, for any detailed visually guided tasks on
 which performance varies with illumination, older persons require extra lighting.
+_TT71
+
 
 118
 
@@ -4247,6 +4389,8 @@ Also known as Hemeralopia is the inability to see clearly in bright light. The d
 vision gets worse and worse. Nighttime vision remains unchanged due to the use of rods as
 opposed to cones (during the day), which get affected by hemeralopia and in turn degrade
 the daytime optical response.
+_TT72
+
 
 Figure 47 Impression
 of floaters, as seen
@@ -4357,6 +4501,8 @@ causes movement of the second, which causes movement of the third. When this thi
 bone pushes down, it causes movement of fluid within the cochlea (a portion of the inner
 ear). This particular fluid only moves when the stapes footplate is depressed into the inner
 ear. Unlike the open ear canal, however, the air of the middle ear is not in direct contact
+_TT73
+
 
 123
 
@@ -4443,6 +4589,8 @@ or noise. It also interprets words that are heard into an associated thought pat
 understanding. The gnostic area of the cerebrum, (areas 5, 7, 39 and 40) helps to integrate
 all incoming sense patterns so that a common thought can be formed (correlated) using all
 arriving sensory information.
+_TT74
+
 
 4.4.3 Hearing Under Water
 Hearing threshold and the ability to localize sound sources are reduced underwater. in
@@ -4483,6 +4631,8 @@ then the sense from your inner ear conflicts with the information coming from yo
 causing dizziness and disorientation. Most astronauts find that their sense of balance is
 impaired when in orbit, because there is not enough gravity to keep the ear's fluid in balance.
 This causes a form of motion sickness called space sickness.
+_TT75
+
 
 4.4.6 Disorders with the Ear
 Case Study A 45-year-old woman wakes up not feeling well. She believes that she may
@@ -4566,6 +4716,8 @@ Dysacusis
 Dysacusis is a hearing impairment characterized by difficulty in processing details of sound,
 but not primarily a loss of the ability to perceive sound. May also refer to pain or discomfort
 due to sound.
+_TT76
+
 
 4.4.7 Critical Thinking
 The answers for these critical thinking questions can be found here3 .
@@ -4624,6 +4776,8 @@ Layers of the skin, showing the Merkel's Cell.
 4.5.3 Merkel’s Discs
 Merkel’s Discs are Mechanoreceptors, making them sensitive to pressure and vibration. In
 humans, Merkel cells occur in the superficial skin layers, and are found clustered beneath the
+_TT77
+
 
 130
 
@@ -4664,6 +4818,8 @@ probably have these sign or symptoms:
 •
 •
 •
+_TT78
+
 
 Does not like to go barefoot or have feet touched
 Does not enjoy baths, haircuts, nail clipping
@@ -4721,6 +4877,8 @@ a newborn.
 Taste
 Newborns can respond to different tastes, including sweet, sour, bitter, and salty substances,
 with preference toward sweets.
+_TT79
+
 
 132
 
@@ -5003,6 +5161,8 @@ http://en.wikibooks.org/wiki/Human_Physiology/Appendix_1:_answers_to_review_
 questions#Senses
 
 135
+_TT80
+
 
 The Senses
 D) Olfaction, taste and trigeminal receptors together contribute to the flavor of my food
@@ -5038,6 +5198,8 @@ D) Sweet
 E) Umami
 11. What senses fall under the catagory of chemoreception?
 A) Hearing and smell
+_TT81
+
 
 136
 
@@ -5110,6 +5272,8 @@ Stapes: One of the small bones in the tympanum of the ear; the stirrups bone
 Tactition: The sense of pressure perception, generally in the skin
 Tympanic Membrane: The membrane in the ear that vibrates to produce sound
 Umami: Japanese word meaning savory or meaty- type of taste signal
+_TT82
+
 
 4.8 References
 • Hänig, D.P., 1901. Zur Psychophysik des Geschmackssinnes. Philosophische Studien, 17:
@@ -5224,6 +5388,8 @@ and appears red.
 This is the fastest muscle type in humans. It can contract more quickly and with a
 greater amount of force than oxidative muscle, but can sustain only short, anaerobic
 bursts of activity before muscle contraction becomes painful (often attributed to a
+_TT83
+
 
 144
 
@@ -5258,6 +5424,8 @@ Homeostasis
 Protection
 Calcium Metabolism
 Maintaining Body Temperature
+_TT84
+
 
 5.3 Skeletal Muscle Contractions
 Steps of a skeletal muscle contraction:
@@ -5315,6 +5483,8 @@ to make strong muscle movements.
 • Multiple motor unit summation--increasing number of motor units contracting simultaneously.
 • Wave summation--increasing rapidity of contraction of individual motor units.
 • Tetanization--higher frequency successive contractions fuse together and cannot be distinguished from one another.
+_TT85
+
 
 5.4 Sliding Filament theory
 When a muscle contracts, the actin is pulled along myosin toward the center of the sarcomere
@@ -5327,6 +5497,8 @@ shortens. Thus when the muscle is fully contracted, the H zone is no longer visi
 Sliding Filament theory
 bottom diagram, left). Note that the actin and myosin filaments themselves do not change
 length, but instead slide past each other.
+_TT86
+
 
 5.4.1 Cellular Action of Skeletal Muscles
 During cellular respiration the mitochondria, within skeletal muscle cells, convert glucose
@@ -5437,6 +5609,8 @@ in any strenuous exercise or heavy lifting. When you warm up, you increase the b
 circulation to the muscle and prepare it for exercise. When starting any new exercise
 program or sport, it's important to begin gradually so your muscles are conditioned for the
 activity.
+_TT87
+
 
 5.6.1 Steroids
 Anabolic steroids, which are synthetic versions of the primary male sex hormone testosterone,
@@ -5460,6 +5634,8 @@ These effects of steroids can boost confidence and strength leading the user to 
 potential serious long-term damage that these substances can cause.
 Government agencies such as NIDA support research that increases our understanding of
 the impact of steroid use and improves our ability to prevent abuse of these drugs. For
+_TT88
+
 
 149
 
@@ -5541,6 +5717,8 @@ not bound to an actin chain it loses its affinity for actin.
 It should be noted that ATP is still needed for crossbridge cycling, and that there is no
 reserve, such as creatine phosphate, available. Most ATP is created from aerobic metabolism,
 however anaerobic production may take place in times of low oxygen concentrations.
+_TT89
+
 
 5.8 Cardiac Muscle
 Cardiac muscle is found in the heart and lungs of humans
@@ -5566,6 +5744,8 @@ it goes through the Krebs cycle and in anaerobic it goes through the Cori cycle.
 Cori cycle pyruvate is converted to lactate, this forms lactic acid, lactic acid causes muscle
 fatigue. In the aerobic conditions pyruvate goes through the Krebs cycle. For more about
 Krebs cycle refer to chapter 2 Cell Physiology.
+_TT90
+
 
 5.11 Muscle Disorders
 5.11.1 Dermatomyositis and Polymyositis
@@ -5656,6 +5836,8 @@ other involuntary muscles and other organs are affected.
 The most common types of muscular dystrophy appear to be due to a genetic deficiency of
 the muscle protein dystrophin. There's no cure for muscular dystrophy, but medications
 and therapy can slow the course of the disease.
+_TT91
+
 
 153
 
@@ -5699,6 +5881,8 @@ Infant botulism (floppy baby syndrome) the most common form of botulism in the U
 the four forms of botulism.
 If ingested, the toxin is absorbed in the intestine, goes to the blood, and on to the nervous
 system. It acts on the peripheral nervous system by blocking the impulse that is normally
+_TT92
+
 
 154
 
@@ -5754,6 +5938,8 @@ Sprain
 Injuries that involves a stretched or torn ligament.
 Strain
 A injury to the muscle or tendon attachment
+_TT93
+
 
 5.15 References
 • Van De Graaff (2002) Human Anatomy 6th ed. McGraw-Hill Higher Education
@@ -5808,6 +5994,8 @@ the blood becomes more acidic, we involuntarily breathe faster, thus lowering CO
 and stabilizing blood pH. In contrast, a person who is hyperventilating (such as during a
 panic attack) will expire more CO2 than being produced in the body and the blood will
 become too alkaline (alkalosis).
+_TT94
+
 
 6.2 Blood Composition
 Blood is a circulating tissue composed of fluid plasma and cells (red blood cells, white blood
@@ -5840,6 +6028,8 @@ protein that is part of this group is fibrinogen, one of the main components in 
 of blood clots. In response to tissue damage, fibrinogen makes fibrin threads, which serve
 as adhesive in binding platelets, red blood cells, and other molecules together, to stop the
 blood flow. (This will be discussed in more detail later on in the chapter.)
+_TT95
+
 
 159
 
@@ -5897,6 +6087,8 @@ The main function is the transportation of oxygen throughout the body and the ab
 blood to carry out carbon dioxide which is called carbamino – hemoglobin. Maintaining
 the balance of blood is important. The balance can be measured by the acid and base levels
 in the blood. This is called pH. Normal pH of blood ranges between 7.35-7.45; this normal
+_TT96
+
 
 161
 
@@ -5956,6 +6148,8 @@ These special cells help our bodies defend themselves against pathogens. Not onl
 help our immune system but they remove toxins, wastes, and abnormal or damaged cells.
 Thus, we can say that WBCs' main function is being Phagocytic which means to engulf or
 swallow cells.
+_TT97
+
 
 163
 
@@ -5989,6 +6183,8 @@ blood flow to the area. Smooth muscle in the vessel wall goes through spasms or 
 contractions that constrict the vessel. If the vessels are small, spasms compress the inner
 walls together and may be able to stop the bleeding completely. If the vessels are medium
 to large-sized, the spasms slow down immediate outflow of blood, lessening the damage but
+_TT98
+
 
 164
 
@@ -6032,6 +6228,8 @@ tightening the clot and drawing together the vessel walls. Usually, this whole p
 clot formation and tightening takes less than a half hour.
 The use of adsorbent chemicals, such as zeolites, and other hemostatic agents, are also being
 explored for use in sealing severe injuries quickly.
+_TT99
+
 
 165
 
@@ -6055,6 +6253,8 @@ of transfused red blood cells (or other tissue cells) often leading to destructi
 by recruitment of other components of the immune system. Knowledge of a individual's
 blood type is important to identify appropriate blood for transfusion or tissue for organ
 transplantation.
+_TT100
+
 
 6.4.1 Surface Antigens
 Several different RBC surface antigens stemming from one allele (or very closely linked genes)
@@ -6113,6 +6313,8 @@ B
 O, B
 AB
 A, B
+_TT101
+
 
 A
 O,
@@ -6225,6 +6427,8 @@ After birth, treatment depends on the severity of the condition, but could inclu
 stabilization and monitoring, phototherapy, transfusion with compatible packed red blood,
 exchange transfusion with a blood type compatible with both the infant and the mother,
 sodium bicarbonate for correction of acidosis and/or assisted ventilation.
+_TT102
+
 
 169
 
@@ -6267,6 +6471,8 @@ People with type 3 von Willebrand disease usually have no von Willebrand factor 
 low factor VIII. Type 3 is severe and very rare.
 Symptoms of type 3 von Willebrand disease might include any of the symptoms of types 1
 and 2, and also include severe bleeding episodes for no reason, which can be life threatening
+_TT103
+
 
 170
 
@@ -6324,6 +6530,8 @@ hereditary hypercoagulability disorder amongst Eurasians. It is named after the 
 have it are at a slightly higher risk of developing blood clots than those without. Those that
 test positive for factor V should avoid (oral contraceptives, obesity, smoking, and high blood
 pressure.)
+_TT104
+
 
 6.5.5 Anemia
 Anemia (AmE) or anaemia (BrE), from the Greek (Ἀναιμία) meaning "without blood", refers
@@ -6367,6 +6575,8 @@ the defective gene from both father and mother develops the disease; a person wh
 one defective and one healthy allele remains healthy, but can pass on the disease and is
 known as a carrier. If two parents who are carriers have a child, there is a 1-in-4 chance of
 their child developing the illness and a 1-in-2 chance of their child just being a carrier.
+_TT105
+
 
 6.5.7 Polycythemia
 Polycythemia is a condition in which there is a net increase in the total circulating erythrocyte
@@ -6401,6 +6611,8 @@ pheochromocytoma and adrenal adenoma with Cushing's Syndrome, are also secondary
 causes. Athletes and bodybuilders who abuse anabolic steroids or erythropoietin may develop
 secondary polycythemia.
 Relative polycythemia
+_TT106
+
 
 174
 
@@ -6441,6 +6653,8 @@ Hemoglobin (Hb): iron-containing pigment in red blood cells that combines with a
 transports oxygen
 Hemophilia: genetic disorder in which the affected individual may have uncontrollable
 bleeding; blood does not clot
+_TT107
+
 
 175
 
@@ -6485,6 +6699,8 @@ A) If they have a second child Ginger needs to have RhoGam shot
 
 http://en.wikibooks.org/wiki/Human_Physiology/Appendix_1:_answers_to_review_
 questions#Blood_Physiology
+_TT108
+
 
 Review Questions
 B) There is no risk to a second child, unless it has a negative blood type
@@ -6574,6 +6790,8 @@ causing viruses, bacteria, hormones and has other important functions as well. T
 the pump that keeps blood circulating properly. Americans today have many options to
 take care of their heart and circulatory system. Expanding medical technology has made it
 much easier to do so. This chapter is dedicated to the heart and its many parts.
+_TT109
+
 
 7.2 The Heart
 The heart is a hollow, muscular organ about the size of a fist. It is responsible for pumping
@@ -6611,6 +6829,8 @@ decreased quality of life.
 The outer most layer next to the myocardium is known as the Epicardium. This is the outer
 layer after endocardium and myocardium that consists of a thin layer of connective tissue
 and fat.
+_TT110
+
 
 7.2.4 Pericardium
 The pericardium is the thick, membranous sac that surrounds the heart. It protects and
@@ -6650,6 +6870,8 @@ right ventricle. The greater portion of it is thick and muscular and constitutes
 ventricular septum. Its upper and posterior part, which separates the aortic vestibule from
 the lower part of the right atrium and upper part of the right ventricle, is thin and fibrous,
 and is termed the membranous ventricular septum.
+_TT111
+
 
 7.2.7 Valves
 The two atrioventricular (AV) valves are one-way valves that ensure that blood flows from
@@ -6684,6 +6906,8 @@ The most common congenital abnormality of the heart is the bicuspid aortic valve
 condition, instead of three cusps, the aortic valve has two cusps. This condition is often
 undiagnosed until the person develops calcific aortic stenosis. Aortic stenosis occurs in this
 condition usually in patients in their 40s or 50s, an average of 10 years earlier than in people
+_TT112
+
 
 182
 
@@ -6723,6 +6947,8 @@ take it to the left atrium. The left atrium then contracts and forces blood thro
 atrioventricular, bicuspid, or mitral, valve into the left ventricle. The left ventricle contracts
 forcing blood through the aortic semilunar valve into the ascending aorta. It then branches
 to arteries carrying oxygen rich blood to all parts of the body.
+_TT113
+
 
 7.3.1 Blood Flow After the Heart
 Aorta-Arteries-Arterioles-Capillaries-Venules-Veins-Vena Cava
@@ -6760,6 +6986,8 @@ smooth muscular walls. These smooth muscles are able to contract (causing vessel
 striction) and relax (causing vessel dilation). This contracting and relaxing affects blood
 pressure; the higher number of vessels dilated, the lower blood pressure will be. Arterioles
 are just visible to the naked eye.
+_TT114
+
 
 7.4.2 Capillaries
 
@@ -6837,6 +7065,8 @@ alveolae. As a result, blood is oxygenated which is then carried to the heart's 
 the left atrium via pulmonary veins. Oxygen rich blood is prepared for the whole organs
 and tissues of the body. This is important because mitochondria inside the cells should use
 oxygen to produce energy from the organic compounds.
+_TT115
+
 
 7.5.2 The Systemic Circuit
 The systemic circuit supplies oxygenated blood to the organ system. Oxygenated blood from
@@ -6900,6 +7130,8 @@ aortic valve. As discussed below, the left coronary artery originates from the l
 sinus, while the right coronary artery originates from the right aortic sinus. Four percent of
 people have a third, the posterior coronary artery. In rare cases, a patient will have one
 coronary artery that runs around the root of the aorta.
+_TT116
+
 
 7.5.7 Hepatic Veins
 In human anatomy, the hepatic veins are the blood vessels that drain de-oxygenated blood
@@ -6993,6 +7225,8 @@ the left ventricle drops to below the pressure in the left atrium, the mitral va
 the left ventricle fills with blood that was accumulating in the left atrium. Likewise, when
 the pressure in the right ventricle drops below that in the right atrium, the tricuspid valve
 opens and the right ventricle fills with blood that was in the right atrium
+_TT117
+
 
 192
 
@@ -7032,6 +7266,8 @@ muscle or the person incurs an electric shock, the cardiac cycle can become unco
 and chaotic. Some parts of the heart will contract whilst others will relax so that instead
 of contracting and relaxing as a whole, the heart will flutter abnormally. This is called
 fibrillation and can be fatal if not treated within 60 seconds.
+_TT118
+
 
 1
 
@@ -7148,6 +7384,8 @@ controls the beat of the heart. The cells that create these rhythmical impulses 
 pacemaker cells, and they directly control the heart rate. Artificial devices also called
 pacemakers can be used after damage to the body's intrinsic conduction system to produce
 these impulses synthetically.
+_TT119
+
 
 196
 
@@ -7287,6 +7525,8 @@ b
 
 http://en.wikibooks.org/wiki/aorta
 http://en.wikibooks.org/wiki/Autopsy
+_TT120
+
 
 Atherosclerosis is a disease affecting the arterial blood vessel. It is commonly referred to as
 a "hardening" or "furring" of the arteries. It is caused by the formation of multiple plaques
@@ -7331,6 +7571,8 @@ two major categories: ischemic and hemorrhagic. ˜80% of strokes are due to isch
 a blood vessel becomes occluded and the blood supply to part of the brain is totally or
 partially blocked. Ischemic stroke is commonly divided into thrombotic stroke, embolic
 stroke, systemic hypoperfusion (Watershed or Border Zone stroke), or venous thrombosis
+_TT121
+
 
 201
 
@@ -7371,6 +7613,8 @@ Coronary artery bypass surgery, coronary artery bypass graft surgery and heart b
 are surgical procedures performed on patients with coronary artery disease for the relief of
 angina and possible improved heart muscle function. Veins or arteries from elsewhere in the
 patient's body are grafted from the aorta to the coronary arteries, bypassing coronary artery
+_TT122
+
 
 3
 
@@ -7413,6 +7657,8 @@ contains a small folded balloon. When the balloon is hydraulically inflated, it 
 the atheromatous plaque and stretches the artery wall to expand. At the same time, if an
 expandable wire mesh tube (stent) was on the balloon, then the stent will be implanted (left
 behind) to support the new stretched open position of the artery from the inside.
+_TT123
+
 
 203
 
@@ -7519,6 +7765,8 @@ becoming weaker. A weak ventricle is not an efficient pump, and may progress to 
 heart failure. This process may be slow or rapid. The heart valves may become thickened
 by fibrosis, leading to heart murmurs and less efficient pumping. Arrhythmias are also more
 common with age, as the cells of the conduction pathway become less efficient.
+_TT124
+
 
 207
 
@@ -7597,6 +7845,8 @@ In 1955, when I was five years old, I first learned by my family physician that 
 murmur and that it would eventually need attention. By the time I was 15 in 1965, I had
 two cardiac catherizations at Rhode Island Hospital. The tests were inconclusive and I was
 told to go on with my life and wait and see if I had a problem. It wasn't until 1975 that I was
+_TT125
+
 
 210
 
@@ -7718,6 +7968,8 @@ A) One
 B) Two
 C) Three
 D) Four
+_TT126
+
 
 213
 
@@ -7767,6 +8019,8 @@ rate and increase cardiac out put. Fenestrated Capillaries: have openings that a
 larger molecules to diffuse Fibrous Pericardium: a dense connective tissue that protects
 the heart, anchoring it to the surrounding walls, and preventing it from overfilling with
 blood Heart Rate: term used to describe the frequency of the cardiac cycle Hepatic
+_TT127
+
 
 214
 
@@ -7811,6 +8065,8 @@ blood vessels Vasodilation: the dilation of blood vessels Veins:carry de-oxygena
 blood from the capillary blood vessels to the right part of the heart Ventricle: a heart
 chamber which collects blood from an atrium Venule: a small blood vessel that allows
 deoxygenated blood to return from the capillary beds to the larger blood vessels called
+_TT128
+
 
 7.23 References
 1. Van De Graaff, Kent M. Human Anatomy. McGraw Hill Publishing, Burr Ridge, IL.
@@ -7844,6 +8100,8 @@ ureters, bladder, and urethra. The Urinary system works with the other systems o
 The Urinary System
 to help maintain homeostasis. The kidneys are the main organs of homeostasis because they
 maintain the acid base balance and the water salt balance of the blood.
+_TT129
+
 
 8.2 Functions of the Urinary System
 One of the major functions of the Urinary system is the process of excretion. Excretion is the
@@ -7884,6 +8142,8 @@ gout.
 Secretion of Hormones The endocrine system has assistance from the kidney's when
 releasing hormones. Renin is released by the kidneys. Renin leads to the secretion of
 aldosterone which is released from the adrenal cortex. Aldosterone promotes the kidneys
+_TT130
+
 
 218
 
@@ -7939,6 +8199,8 @@ the kidneys in the body, the right renal artery is normally longer than the left
 The right renal artery normally crosses posteriorly to the inferior vena cava. The renal
 arteries carry a large portion of the total blood flow to the kidneys. Up to a third of the
 total cardiac output can pass through the renal arteries to be filtered by the kidneys.
+_TT131
+
 
 8.3.2 Ureters
 The ureters are two tubes that drain urine from the kidneys to the bladder. Each ureter is
@@ -8012,6 +8274,8 @@ contract, the urethra is closed.
 • the external, or distal, sphincter.
 Human males have much stronger sphincter muscles than females, meaning that they can
 retain a large amount of urine for twice as long, as much as 800mL, i.e. "hold it".
+_TT132
+
 
 8.3.5 Nephrons
 A nephron is the basic structural and functional unit of the kidney. The name nephron
@@ -8041,6 +8305,8 @@ juxtaglomerular cells are located around the afferent arteriole where it enters 
 corpuscle. The efferent arteriole drains the glomerulus. Between the two arterioles lies
 specialized cells called the macula densa. The juxtaglomerular cells and the macula densa
 collectively form the juxtaglomerular apparatus. It is in the juxtaglomerular apparatus
+_TT133
+
 
 224
 
@@ -8086,6 +8352,8 @@ Proximal Convoluted Tubule (PCT)
 The proximal tubule can be anatomically divided into two segments: the proximal convoluted
 tubule and the proximal straight tubule. The proximal convoluted tubule can be divided
 further into S1 and S2 segments based on the histological appearance of it's cells. Following
+_TT134
+
 
 225
 
@@ -8125,6 +8393,8 @@ Its descending limb is permeable to water but completely impermeable to salt, an
 only indirectly contributes to the concentration of the interstitium. As the filtrate descends
 deeper into the hypertonic interstitium of the renal medulla, water flows freely out of the
 descending limb by osmosis until the tonicity of the filtrate and interstitium equilibrate.
+_TT135
+
 
 227
 
@@ -8194,6 +8464,8 @@ blood components are water, nitrogenous waste, nutrients and salts (ions). Nonfi
 blood components include formed elements such as blood cells and platelets along with
 plasma proteins. The glomerular filtrate is not the same consistency as urine, as much of it
 is reabsorbed into the blood as the filtrate passes through the tubules of the nephron.
+_TT136
+
 
 8.4.2 Reabsorption
 Within the peritubular capillary network, molecules and ions are reabsorbed back into the
@@ -8235,6 +8507,8 @@ dilute urine is excreted. There are several factors that influence the secretion
 first of these happen when the blood plasma gets too concentrated. When this occurs, special
 receptors in the hypothalamus release ADH. When blood pressure falls, stretch receptors in
 the aorta and carotid arteries stimulate ADH secretion to increase volume of the blood.
+_TT137
+
 
 8.5.2 Reabsorption of Salt
 The Kidneys also regulate the salt balance in the blood by controlling the excretion and
@@ -8255,6 +8529,8 @@ cells are streatched due to increased blood volume. ANH inhibits the secretion o
 the juxtaglomerular apparatus and the secretion of the aldosterone by the adrenal cortex.
 This promotes the excretion of sodium. When sodium is excreted so is water. This causes
 blood pressure and volume to decrease.
+_TT138
+
 
 230
 
@@ -8368,6 +8644,8 @@ boys it is more common than circumcised ones to have a urinary tract infection, 
 it may be the result of onset of toilet training, some predispositions for getting urinary
 tract infection include family history and urinary tract anomalies. In neonates urinary tract
 infections is most common when bacteremia is present.
+_TT139
+
 
 8.9 Dialysis and Kidney Transplant
 
@@ -8400,6 +8678,8 @@ have to be done to determine if the organs are healthy. Also, in some countries,
 of the donor must give its consent for the organ donation. In both cases, the recipient of the
 new organ needs to take drugs to suppress their immune system to help prevent their body
 from rejecting the new kidney.
+_TT140
+
 
 8.10 Review Questions
 Answers for these questions can be found here1
@@ -8533,6 +8813,8 @@ Urinary Bladder: a hollow, muscular and distensible or elastic organ that sits o
 pelvic floor
 Urinary System: a group of organs in the body concerned with filtering out excess fluid
 and other substances from the bloodstream
+_TT141
+
 
 8.12 References
 • Graaff, Van De (2002). "Human Anatomy, Sixth Edition". New York: McGraw-Hill.
@@ -8615,6 +8897,8 @@ per minute.
 When one breathes air in at sea level, the inhalation is composed of different gases. These
 gases and their quantities are Oxygen which makes up 21%, Nitrogen which is 78%, Carbon
 Dioxide with 0.04% and others with significantly smaller portions.
+_TT142
+
 
 Figure 85
 
@@ -8672,6 +8956,8 @@ follows its pressure gradient down and expands the alveoli of the lungs, where g
 with the blood takes place. As long as pressure within the alveoli is lower than atmospheric
 pressure air will continue to move inwardly, but as soon as the pressure is stabilized air
 movement stops.
+_TT143
+
 
 9.2.3 Expiration
 During quiet breathing, expiration is normally a passive process and does not require muscles
@@ -8699,6 +8985,8 @@ This causes air to be forced out of the lungs.
 Another function of the respiratory system is to sing and to speak. By exerting conscious
 control over our breathing and regulating flow of air across the vocal cords we are able to
 create and modify sounds.
+_TT144
+
 
 9.2.4 Lung Compliance
 Lung Compliance is the magnitude of the change in lung volume produced by a change
@@ -8749,6 +9037,8 @@ cilia serve to transport dust and other foreign particles, trapped in mucous, to
 the nasal cavity and to the pharynx. There the mucus is either coughed out, or swallowed
 and digested by powerful stomach acids. After passing through the nasal cavity, the air
 flows down the pharynx to the larynx.
+_TT145
+
 
 9.3.2 Lower Respiratory Tract
 The lower respiratory tract starts with the larynx, and includes the trachea, the two bronchi
@@ -8781,6 +9071,8 @@ and produce sound, we need air. That is why we can't talk when we're swallowing.
 3. Lungs
 
 9.4 Homeostasis and Gas Exchange
+_TT146
+
 
 Figure 86
 
@@ -8860,6 +9152,8 @@ they ingest any microbes that reach the alveoli. The Pulmonary Alveoli are micro
 which means they can only be seen through a microscope, membranous air sacs within the
 lungs. They are units of respiration and the site of gas exchange between the respiratory
 and circulatory systems.
+_TT147
+
 
 9.4.4 Cellular Respiration
 First the oxygen must diffuse from the alveolus into the capillaries. It is able to do this
@@ -8891,6 +9185,8 @@ in plasma and some is taken by the hemoglobin, but most enters the red blood cel
 it binds with water to form carbonic acid. It travels to the capillaries surrounding the lung
 where a water molecule leaves, causing it to turn back into carbon dioxide. It then enters
 the lungs where it is exhaled into the atmosphere.
+_TT148
+
 
 9.5 Lung Capacity
 
@@ -8938,6 +9234,8 @@ levels increase, and you will involuntarily increase breathing rate very soon af
 the sprint. You will continue to breathe heavily after the race, thus expelling more carbon
 dioxide, until pH has returned to normal. Metabolic acidosis therefore is acutely corrected
 by respiratory compensation (hyperventilation).
+_TT149
+
 
 9.7 Regulation of Blood pH
 Many of us are not aware of the importance of maintaining the acid/base balance of our
@@ -9009,6 +9307,8 @@ embolism is a thromboembolism, which occurs when a blood clot, generally a venou
 thrombus, becomes dislodged from its site of formation and embolizes to the arterial blood
 supply of one of the lungs.
 Symptoms may include difficulty breathing, pain during breathing, and more rarely circulatory instability and death. Treatment, usually, is with anticoagulant medication.
+_TT150
+
 
 9.9 Upper Respiratory Tract Infections
 The upper respiratory tract consists of our nasal cavities, pharynx, and larynx. Upper
@@ -9055,6 +9355,8 @@ An infection of the larynx is called laryngitis. It is accompanied by hoarseness
 unable to speak in an audible voice. Usually, laryngitis disappears with treatment of the
 URI. Persistent hoarseness without a URI is a warning sign of cancer, and should be
 checked into by your physician.
+_TT151
+
 
 9.10 Lower Respiratory Tract Disorders
 Lower respiratory tract disorders include infections, restrictive pulmonary disorders, obstructive pulmonary disorders, and lung cancer.
@@ -9132,6 +9434,8 @@ Today to prevent respiratory distress syndrome are animal sources and synthetic 
 and administrated through the airways by an endotracheal tube and the surfactant is
 suspended in a saline solution. Treatment is initiated post birth and in infants who are at
 high risk for respiratory distress syndrome.
+_TT152
+
 
 254
 
@@ -9227,6 +9531,8 @@ pt:Fisiologia/Sistema respiratório4
 
 http://people.eku.edu/ritchisong/301notes6.htm
 http://pt.wikibooks.org/wiki/Fisiologia%2FSistema%20respirat%F3rio
+_TT153
+
 
 257
 
@@ -9311,6 +9617,8 @@ Teeth, Tongue, and Salivary Glands
 4. Liver
 • Produces and excretes bile required for emulsifying fats. Some of the bile drains directly
 into the duodenum and some is stored in the gall bladder.
+_TT154
+
 
 261
 
@@ -9359,6 +9667,8 @@ Food is the body's source of fuel. Nutrients in food give the body's cells the e
 need to operate. Before food can be used it has to be broken down into tiny little pieces so
 it can be absorbed and used by the body. In humans, proteins need to be broken down into
 amino acids, starches into sugars, and fats into fatty acids and glycerol.
+_TT155
+
 
 263
 
@@ -9407,6 +9717,8 @@ Pepsin
 Trypsin
 Peptidases
 Nucleic Acid Digestion:
+_TT156
+
 
 264
 
@@ -9518,6 +9830,8 @@ The gastric juice is highly acidic with a pH of 1-3. It may cause or compound da
 stomach wall or its layer of mucus, causing a peptic ulcer. On the inside of the stomach there
 are folds of skin call the gastric rugae. Gastric rugae make the stomach very extendable,
 especially after a very big meal.
+_TT157
+
 
 266
 
@@ -9566,6 +9880,8 @@ Capillaries: The arteries break up at the base of the gastric tubules into a ple
 fine capillaries, which run upward between the tubules, anatomizing with each other, and
 ending in a plexus of larger capillaries, which surround the mouths of the tubes, and also
 form hexagonal meshes around the ducts.
+_TT158
+
 
 268
 
@@ -9728,6 +10044,8 @@ They stimulate the immune system and produce short chain fatty acids (SCFAs) tha
 required for the health of colon cells and help prevent colon cancer. There are many beneficial
 bacteria but some of the most common and important are Lactobacillus Acidophilus and
 various species of Bifidobacterium. These are available as "probiotics" from many sources.
+_TT159
+
 
 10.9 Pancreas, Liver, and Gallbladder
 The pancreas, liver, and gallbladder are essential for digestion. The pancreas produces
@@ -9763,6 +10081,8 @@ precursor digestive enzymes (mainly trypsinogen, chymotrypsinogen, pancreatic li
 amylase) that are secreted into the lumen of the acinus. These granules are termed zymogen
 granules (zymogen referring to the inactive precursor enzymes.) It is important to synthesize
 inactive enzymes in the pancreas to avoid auto degradation, which can lead to pancreatitis.
+_TT160
+
 
 274
 
@@ -9807,6 +10127,8 @@ portal vein. The hepatic artery normally comes off the celiac trunk. The portal 
 venous blood from the spleen, pancreas, and small intestine, so that the liver can process
 the nutrients and byproducts of food digestion. The hepatic veins drain directly into the
 inferior vena cava.
+_TT161
+
 
 275
 
@@ -9855,6 +10177,8 @@ The gallbladder is a pear shaped organ that stores about 50 ml of bile (or "gall
 body needs it for digestion. The gallbladder is about 7-10cm long in humans and is dark
 green in appearance due to its contents (bile), not its tissue. It is connected to the liver and
 the duodenum by biliary tract.
+_TT162
+
 
 276
 
@@ -9950,6 +10274,8 @@ runs in families and becomes active after some sort of stress, like viral infect
 The symptoms can be managed by following a gluten free diet. Doctors can diagnose this
 condition by taking a full medical history or with a blood test.
 Diverticulitis
+_TT163
+
 
 280
 
@@ -10058,6 +10384,8 @@ body organs. When this happens the organs that are normally used for eliminating
 and supplying nutrients the GI tract becomes into a large dump for waste. This problem is
 made worse by the use of junk food, prescriptions, over the counter medications, antibiotics
 and a diet that is too low in fiber.
+_TT164
+
 
 283
 
@@ -10103,6 +10431,8 @@ supplements or laxatives are helpful for constipation. Anti diarrhoeals such as 
 can help with diarrhea. An antispasmodic is commonly prescribed for colon muscle spasms.
 Antidepressants and pain medication are also commonly prescribed. [12]
 Gastrointestinal Stromal Tumor
+_TT165
+
 
 284
 
@@ -10147,6 +10477,8 @@ Some symptoms of GERD include having a pain in your chest, hoarseness, having tr
 swallowing, or having the feeling of food being stuck in your throat. The main symptoms
 are having persistent heartburn and acid regurgitation. GERD can also cause bad breath
 and a dry cough.
+_TT166
+
 
 285
 
@@ -10192,6 +10524,8 @@ are not aware that they have them. Internal hemorrhoids, however, may bleed when
 irritated.
 • Untreated internal hemorrhoids can lead to two severe forms of hemorrhoids: prolapsed
 and strangulated hemorrhoids.
+_TT167
+
 
 286
 
@@ -10265,6 +10599,8 @@ Enlarged Veins
 Esophagitis (inflammation of the esophagus)
 Mallory-Weiss Syndrome
 Ulcers
+_TT168
+
 
 Iron and beets can also turn the blood red or black giving a false indication of blood in the
 stool.
@@ -10311,6 +10647,8 @@ How to Recognize Blood in the Stool and Vomit
 •
 •
 •
+_TT169
+
 
 Bright red blood coating the stool
 Dark blood mixed with the stool
@@ -10398,6 +10736,8 @@ common cause of superficial infection, oral and vaginal infection, sepsis, and d
 disease. Cells from the organism are usually not airborne and are considered to be normal
 component of the flora of the mouth and other mucous membranes on the body.
 Chemical digestion
+_TT170
+
 
 290
 
@@ -10438,6 +10778,8 @@ Lactobacillus Acidophilus
 Important resident inhabitant of the human small and large intestines, mouth, and vagina.
 Secretes natural antibiotic substances which strengthen the body against various diseasecausing microbes
 Leaky gut syndrome
+_TT171
+
 
 291
 
@@ -10493,6 +10835,8 @@ diet rich in fiber can help you avoid this dreaded problem. Sometimes, like in B
 the predisposition to have this problem runs in the family. All of his siblings and his father
 suffered from this same ailment. Stress is another factor that can exacerbate this disease.
 So.. don't worry, be happy and eat fiber!
+_TT172
+
 
 10.19 External links
 • Appendicitis Update Review2 , An updated Issue on Appendicitis
@@ -10559,6 +10903,8 @@ are at the bottom (white bread, white rice, and potatoes are now at the top with
 and not all oils are at the top (plant oils are at the bottom). Other resource, such as the
 Recommended Daily Allowance (RDA) have helped people become more aware of nutritional
 needs, yet obesity and chronic health problems continue to rise.
+_TT173
+
 
 11.3 Nutritional Requirements
 Our bodies have both caloric and nutritional needs. Living tissue is kept alive by the
@@ -10662,6 +11008,8 @@ Lysine, Methionine, Phenylalanine, Threonine, Tryptophan, Valine
 You can remember these with this saying “Hey It's Like Lovely Material; Please Touch The
 Velvet”.
 The 11 Non-essential Amino Acids are as follows:
+_TT174
+
 
 298
 
@@ -10908,6 +11256,8 @@ phenylalanine and tyrosine (see phenylalanine).
 Precursor of serotonin.
 Behaves similarly to phenylalanine and tryptophan (see phenylalanine). Precursor of melanin,
 epinephrine, and thyroid hormones.
+_TT175
+
 
 Dietary proteins fall into two categories: complete proteins and incomplete proteins. Complete proteins include ample amounts of all essential amino acids. Examples of foods that
 will include these great complete proteins are meat, fish, poultry, cheese, eggs, and milk.
@@ -10926,6 +11276,8 @@ structural features. Each protein has its own unique amino acid sequence that is
 the nucleotide sequence of the gene encoding that protein (see Genetics and Inheritance1 ).
 If we are deficient in even a single amino acid, then our cells cannot make the proteins they
 require.
+_TT176
+
 
 11.6 Lipids
 Macronutrient
@@ -11013,6 +11365,8 @@ manganese, selenium, zinc, and molybdenum. They are dietary minerals needed by t
 body in very small quantities (generally less than 100mg/day) as opposed to macrominerals
 which are required in larger quantities. (Note that the use of the term "mineral" here is
 distinct from the usage in the geological sciences.)
+_TT177
+
 
 11.7.1 Vitamins
 Vitamins are organic compounds that are essential for our body to function properly. Most
@@ -11179,6 +11533,8 @@ Unknown
 
 Vitamins and Minerals
 Vitamin
+_TT178
+
 
 Food
 Sources
@@ -11351,6 +11707,8 @@ cholesterol
 United States. (the “bad”
 cholesterol),
 from damage.
+_TT179
+
 
 Problems
 With Taking
@@ -11591,6 +11949,8 @@ Sulfur is found in meat and
 diary products.
 Zinc is found in whole grain
 foods, meats, and seafood.
+_TT180
+
 
 Use in the body
 It contributes to bone and
@@ -11715,6 +12075,8 @@ purging. This purging is done in order to compensate for the excessive intake of
 Metabolism
 and to prevent weight gain. Purging typically takes the form of vomiting; inappropriate use
 of laxatives, enemas, diuretics or other medication, and excessive physical exercise.
+_TT181
+
 
 11.9 Metabolism
 Absorptive and post absorptive stage of metabolism
@@ -11752,6 +12114,8 @@ predisposed individuals, characterized by inadequate production or utilization o
 resulting in excessive amounts of glucose in the blood and urine, excessive thirst, weight loss,
 and in some cases progressive destruction of small blood vessels leading to such complications
 as infections and gangrene of the limbs or blindness." In other words, when food is put into
+_TT182
+
 
 315
 
@@ -11786,6 +12150,8 @@ weight gain or loss; blurred vision; sores that don't heal; or excessive fatigue
 highly recommended that you have your fasting blood glucose level checked by a physician.
 Maintaining an active lifestyle and making sound nutritional choices may greatly extend
 your life by protecting you from the ills of diabetes.
+_TT183
+
 
 11.11 Calories, Exercise, and Weight
 Energy Balance and Body Weight
@@ -11878,6 +12244,8 @@ work hand in hand.
 • Your chances of living longer increases.
 • You decrease your chances of getting diseases such as:
 • Heart disease or problems with circulation
+_TT184
+
 
 318
 
@@ -11987,6 +12355,8 @@ polypeptide.
 Starvation
 A severe reduction in vitamin, nutrient, and energy intake, and is the most extreme form
 of malnutrition
+_TT185
+
 
 11.13 Health Information Online
 11.14 Review Questions
@@ -12071,6 +12441,8 @@ B) Vitamin E
 C) Vitamin D
 D) Vitamin A
 E) All of the above
+_TT186
+
 
 11.15 References
 • Van De Graaff (2002) Human Anatomy 6th ed. McGraw-Hill Higher Education
@@ -12430,6 +12802,8 @@ circannual
 rhythms, possibly involved
 in maturation
 of sexual organs
+_TT187
+
 
 Hormones can be chemically classified into four groups:
 
@@ -12477,6 +12851,8 @@ have been recovered, the corrective action - the production of hormones - is dis
 Thus, in negative feedback, when the original (abnormal) condition has been repaired, or
 negated, corrective actions decrease or discontinue. For example, the amount of glucose in
 the blood controls the secretion of insulin and glucagons via negative feedback.
+_TT188
+
 
 330
 
@@ -12582,6 +12958,8 @@ thyrotropin-releasing hormone (TRH)
 corticotropin-releasing hormone (CRH)
 dopamine (DA), also called 'prolactin inhibiting factor' (PIF)
 gonadotropin-releasing hormone (GnRH)
+_TT189
+
 
 332
 
@@ -12637,6 +13015,8 @@ Another example of antagonistic hormones occurs in the maintenance of Ca2+ ion c
 in the blood by increasing Ca2+ absorption in the intestines and reabsorption in the kidneys
 and stimulating Ca2+ release from bones. Calcitonin (CT) produces the opposite effect by
 inhibiting the breakdown of bone matrix and decreasing the release of calcium in the blood.
+_TT190
+
 
 12.5.1 Thyroid gland
 The Thyroid gland is one of the largest endocrine glands in the body. It is positioned on
@@ -12673,6 +13053,8 @@ the neck. Formerly, the principal source of iodine came from seafood. As a resul
 was prevalent amongst inland areas far removed from the sea. Today, the incidence of goiter
 has been drastically reduced by adding iodine to table salt.
 Thyroxine serves to stimulate oxidative metabolism in cells; it increases the oxygen consumption and heat production of most body tissues, a notable exception being the brain.
+_TT191
+
 
 334
 
@@ -12715,6 +13097,8 @@ Thyroid hormone cannot be produced without an abundant source of iodine. The iod
 concentration within the body, although significant, can be as little as 1/25th the concentration within the thyroid itself. When the thyroid is low on iodine the body will try harder to
 produce T3 and T4 which will often result in a swelling of the thyroid gland, resulting in a
 goiter.
+_TT192
+
 
 335
 
@@ -12745,6 +13129,8 @@ movement of calcium into the bone structure. It can also be used therapeutically
 treatment of hypercalcemia or osteoporosis. Without this hormone calcium will stay within
 the blood instead of moving into bones to keep them strong and growing. Its importance in
 humans has not been as well established as its importance in other animals.
+_TT193
+
 
 12.6.1 Parathyroid gland
 There are four parathyroid glands. They are small, light-colored lumps that stick out from
@@ -12817,6 +13203,8 @@ exerts at least the following five effects: (1) it increases gastrointestinal ab
 by stimulating the active transport system and moves calcium from the gut lumen into the
 blood; (2) it increases the movement of calcium and phosphate from bone into extracellular
 fluid. This is accomplished by stimulating osteoclasts to break down bone structure, thus
+_TT194
+
 
 337
 
@@ -12860,6 +13248,8 @@ ACTH, in turn regulating carbohydrates, proteins, and fat metabolism. This cause
 increase in blood glucose. Glucocorticoids also reduce the body's inflammatory response.
 Cortisol is one of the most active glucocorticoids. It usually reduces the effects of inflammation or swelling throughout the body. It also stimulates the production of glucose from
 fats and proteins, which is a process referred to as gluconeogenesis.
+_TT195
+
 
 338
 
@@ -12903,6 +13293,8 @@ Suprarenal glands viewed from the front.
 Figure 108
 
 Suprarenal glands viewed from behind.
+_TT196
+
 
 The adrenal sex hormones consist mainly of male sex hormones (androgens) and lesser
 amounts of female sex hormones (estrogens and progesterone). Normally, the sex hormones
@@ -12979,6 +13371,8 @@ A healthy working pancreas in the human body is important for maintaining good h
 preventing malnutrition, and maintaining normal levels of blood sugar. The digestive tract
 needs the help of the enzymes produced by the pancreas to reduce food particles to their
 simplest elements, or the nutrients cannot be absorbed. Carbohydrates must be broken
+_TT197
+
 
 341
 
@@ -13027,6 +13421,8 @@ pancreas, also consist of other secretory cells called alpha cells. It is these 
 secrete glucagon. Glucagon is a hormone that has the following major effects: it increases
 hepatic synthesis of glucose from pyruvate, lactate, glycerol, and amino acids (a process
 called gluconeogenesis, which also raises the plasma glucose level); and it increases the
+_TT198
+
 
 342
 
@@ -13148,6 +13544,8 @@ Iodine: chemical in the body; Thyroid hormone can not be produced with out it
 Lipid-soluble Hormones: diffuse through the cell membranes of target cells
 Parathyroid: four masses of tissue, two embedded posterior in each lateral mass of the
 thyroid gland
+_TT199
+
 
 346
 
@@ -13299,6 +13697,8 @@ the testes to lower and the scrotum to become flaccid. The temperature of the te
 maintained at about thirty-five degrees Celsius (ninety-five degrees Fahrenheit), which is
 below normal body temperature. Temperature has to be lower than normal in order for
 spermatogenis (sperm production) to take place.
+_TT200
+
 
 352
 
@@ -13357,6 +13757,8 @@ caries the sperms from the testis. 2)body or corpus epididymis- it the highly co
 middle part of the epididymis 3)tail or cauda epididymis- it is the last part that takes part
 in carrying the sperms to the vas deferens. The cauda epididymis continues to form less
 convoluted vas deferens.
+_TT201
+
 
 13.2.3 Ductus Deferens
 The ductus (vas) deferens, also called sperm duct, or, spermatic deferens, extends from the
@@ -13578,6 +13980,8 @@ testes.
 artery. Each passes
 obliquely downward and
 laterally behind the peritoneum.
+_TT202
+
 
 357
 
@@ -13653,6 +14057,8 @@ APPROXIMATE
 25-30%
 
 < 1%
+_TT203
+
 
 DESCRIPTION
 amino acids, citrate, enzymes,
@@ -13721,6 +14127,8 @@ cavernous cylinders of the penis.
 Figure 115
 
 Transverse section of the penis.
+_TT204
+
 
 361
 
@@ -13793,6 +14201,8 @@ Spermatozoa are produced in the seminiferous tubules of the testes in a process 
 spermatogenesis. Round cells called spermatogonia divide and differentiate eventually to
 become spermatozoa. During copulation the vagina is inseminated, the spermatozoa move
 through chemotaxis (see glossary) to the ovum inside a Fallopian tube or the uterus.
+_TT205
+
 
 13.3.5 Sperm Pathway
 Spermatogenesis takes place inside a male’s testes, specifically in the walls of the seminiferous
@@ -13843,6 +14253,8 @@ vagina, near the cervix. From the fornix, the sperm make their way up through th
 and move through the uterus with help from uterine contractions.
 Sperm hyperactivity is necessary for breaking through two physical barriers that protect
 the egg from fertilization. The first barrier to sperm is made up of so-called cumulus cells
+_TT206
+
 
 365
 
@@ -13897,6 +14309,8 @@ the changes of male puberty. However, most of the increasing bulk of testicular 
 spermatogenic tissue (primarily Sertoli and interstitial cells). The development of sperm
 production and fertility in males is not as well researched. Sperm can be detected in the
 morning urine of most boys after the first year of pubertal changes (and occasionally earlier).
+_TT207
+
 
 13.4.2 Genitalia
 A boy's penis grows little from the fourth year of life until puberty. Average prepubertal
@@ -13936,6 +14350,8 @@ in and fill the spaces. The blood creates pressure in the corpora cavernosa, mak
 penis expand. The tunica albuginea helps trap the blood in the corpora cavernosa, thereby
 sustaining erection. When muscles in the penis contract to stop the inflow of blood and
 open outflow channels, erection is reversed.
+_TT208
+
 
 13.4.4 Pubic hair in boys
 Pubic hair often appears on a boy shortly after the genitalia begin to grow. As in girls,
@@ -14085,6 +14501,8 @@ cases, surgery may be needed to correct the condition.
 or weakening of the abdominal wall and into the groin or scrotum, it is known as an
 inguinal hernia. The hernia may look like a bulge or swelling in the groin area. It can be
 corrected with surgery.
+_TT209
+
 
 13.7.1 Disorders of Penis
 Disorders of the Penis Disorders affecting the penis include the following:
@@ -14132,6 +14550,8 @@ for sexual intercourse. This can also called impotence. The word "impotence" may
 also be used to describe other problems that can interfere with sexual intercourse and
 reproduction, such as problems with ejaculation or orgasm and lack of sexual desire.
 Using the term erectile dysfunction clarifies that those other problems are not involved.
+_TT210
+
 
 13.7.2 Contraceptive for Men
 Vasectomy: In the procedure the vas deferens of each testes is cut and tied off to prevent the
@@ -14219,6 +14639,8 @@ B) testicular cancer
 C) varicocele
 D) hydrocele
 E) inguinal hernia
+_TT211
+
 
 13.9 Glossary
 Androgen: The generic term for any natural or synthetic compound, usually a steroid
@@ -14273,6 +14695,8 @@ Oviduct: the passage in females from the ovaries to the outside of the body.
 Penis: external genital organ of the male
 Prostate Gland: male accessory sex gland that secretes an alkaline fluid, which neutralizes
 acidic vaginal secretions
+_TT212
+
 
 376
 
@@ -14304,6 +14728,8 @@ sperm
 Varicocele: varicose vein of the testicles, sometimes a cause of male infertility
 Vasectomy: most common sterilization procedure in males; small segment of each ductus
 deferens is surgically removed after it passes from the testis
+_TT213
+
 
 13.10 Summary
 Both male and female reproductive systems may seem somewhat isolated from other body
@@ -14349,6 +14775,8 @@ sexes develop from similar embryonic tissue, meaning they are homologous. Both s
 have gonads that produce (sperm and egg or ovum) and sex organs. And both systems
 experience maturation of their reproductive organs, which become functional during puberty
 as a result of the gonads secreting sex hormones.
+_TT214
+
 
 379
 
@@ -14528,6 +14956,8 @@ During sexual excitement, the clitoris erects and extends, the hood retracts, ma
 clitoral glans more accessible. The size of the clitoris is variable between women. On some,
 the clitoral glans is very small; on others, it is large and the hood does not completely cover
 it.
+_TT215
+
 
 384
 
@@ -14566,6 +14996,8 @@ The perineum in some women may tear during the birth of an infant and this is ap
 natural. Some physicians however, may cut the perineum preemptively on the grounds that
 the "tearing" may be more harmful than a precise cut by a scalpel. If a physician decides
 the cut is necessary, they will perform it. The cut is called an episiotomy.
+_TT216
+
 
 14.3 Internal Genitals
 14.3.1 Vagina
@@ -14664,6 +15096,8 @@ cancer. It is only after all alternative options have been considered that surge
 the uterus, and may include the removal of one or both of the ovaries. Once performed it is
 irreversible. After a hysterectomy, many women begin a form of alternate hormone therapy
 due to the lack of ovaries and hormone production.
+_TT217
+
 
 387
 
@@ -14861,6 +15295,8 @@ three days following ovulation, the egg dries up and leaves the body about two w
 through the vagina. This process is called menstruation. Blood and tissues from the inner
 lining of the uterus (the endometrium) combine to form the menstrual flow, which generally
 lasts from four to seven days. The first period is called menarche. During menstruation
+_TT218
+
 
 391
 
@@ -14931,6 +15367,8 @@ Menopause is sometimes referred to as "the change of life" or climacteric. Menop
 as the ovaries stop producing estrogen, causing the reproductive system to gradually shut
 down. As the body adapts to the changing levels of natural hormones, vasomotor symptoms
 such as hot flashes and palpitations, psychological symptoms such as increased depression,
+_TT219
+
 
 393
 
@@ -15055,6 +15493,8 @@ blood supply, begin to secrete fluids rich in glycogen, and even form a plug at 
 cervical canal so that microorganisms can not enter. These changes in the uterus are caused
 by progesterone, due to the corpus luteum. At the end of the secretory phase the corpus
 luteum degenerates, and progesterone levels fall. This will trigger menstruation.
+_TT220
+
 
 396
 
@@ -15099,6 +15539,8 @@ third, combined male and female infertility for another 15%, and the remainder o
 "unexplained.
 "Secondary infertility" is difficulty conceiving after already having conceived and carried a
 normal pregnancy. Apart from various medical conditions (e.g. hormonal), this may come as
+_TT221
+
 
 397
 
@@ -15218,6 +15660,8 @@ Health Organization, Acupuncture: Review and Analysis of Reports on Controlled
 Trials (2002).
 • Diet and supplements
 • Healthy lifestyle
+_TT222
+
 
 14.8 Types of Birth Control
 Birth control is a regimen of one or more actions, devices, or medications followed in order
@@ -15521,6 +15965,8 @@ by killing a
 fertilized egg
 by preventing
 its implantation
+_TT223
+
 
 Effectiveness
 About 89%
@@ -15578,6 +16024,8 @@ products, sharing injection needles, needle-stick injuries (when medical staff a
 jabbed or pricked with needles during medical procedures), sharing tattoo needles, and
 childbirth are all avenues of transmission. These means put certain groups, such as doctors,
 haemophiliacs and drug users, particularly at risk.
+_TT224
+
 
 14.9.2 Human Papillomavirus (HPV)
 There are over 100 types of this virus which is often asymptomatic. Nearly 3 out of 4
@@ -15617,6 +16065,8 @@ and careful medical follow up, with treatment if necessary, can help ensure that
 changes in the cervix caused by HPV infection do not develop into life threatening cervical
 cancer. The pap test used in the U.S. cervical cancer screening programs is responsible for
 greatly reducing deaths from cervical cancer.
+_TT225
+
 
 14.10 Diseases and Disorders of the Female Reproductive
 System
@@ -15653,6 +16103,8 @@ Depending on the type and the severity of the condition, it may be treated with 
 to regulate hormone balance and menstruation.
 7. Trichomonas vaginalis inflammatory condition of the vagina usually a bacterial
 infection also called vaginosis.
+_TT226
+
 
 405
 
@@ -15833,6 +16285,8 @@ D) 20%
 12. What is the only 100% effective form of birth control?
 A) Tubal ligation
 B) IUD
+_TT227
+
 
 409
 
@@ -15873,6 +16327,8 @@ Infertility: Inability to naturally conceive a child or the inability to carry a
 term
 Labia Majora: Outer "lips" of the vulva, made of loose connective tissue and adipose tissue
 with some smooth muscle
+_TT228
+
 
 410
 
@@ -15990,6 +16446,8 @@ The outer layer is called a trophoblast which will develop into part of the plac
 point the zona pellucida is disintegrating. The trophoblast contains specialized cells that
 become extensions, like fingers, that grow into the endometrium once in contact with the
 well thickened endometrium.
+_TT229
+
 
 15.3.1 Implantation
 The blastocyst preserves itself by secreting a hormone that indirectly stops menstruation.
@@ -16038,6 +16496,8 @@ but not limited to:
 •
 •
 •
+_TT230
+
 
 Thalidomide
 Heroin
@@ -16166,6 +16626,8 @@ Fetal movement can be felt
 Uterus reaches up to the level
 of umbilicus and pregnancy is
 obvious
+_TT231
+
 
 DEVELOPMENT OF
 BABY
@@ -16263,6 +16725,8 @@ its limits
 
 15.8 Embryonic Development at Specific Stages
 15.8.1 First trimester
+_TT232
+
 
 Figure 132 An embryo this tiny shows very distinct anatomic
 features, including tail, limb buds, heart (which actually protrudes
@@ -16368,6 +16832,8 @@ the mother's abdomen and settles deeper into her pelvis in preparation for birth
 called engagement. This can happen any time between 36 weeks and labor.
 • In the last four weeks of pregnancy the baby puts on a lot of weight and develops a thick
 layer of fat. All organs are completely formed and functioning.
+_TT233
+
 
 15.8.4 Umbilical Cord
 This is the life support for a growing embryo. The umbilical cord stretches between the
@@ -16463,6 +16929,8 @@ of fetal development. The first trimester period carries the highest risk of mis
 (spontaneous death of embryo or fetus). During the second trimester the development of the
 fetus can start to be monitored and diagnosed. The third trimester marks the beginning of
 viability, which means the fetus might survive if an early birth occurs.
+_TT234
+
 
 15.9.1 Changing Body
 
@@ -16580,6 +17048,8 @@ basis, 30 to 70 seconds apart
 3. The mucous plug is detached, showing bloody discharge
 4. The water breaks (usually this does not break until the doctor does it), when this
 happens, contractions become much stronger
+_TT235
+
 
 431
 
@@ -16629,6 +17099,8 @@ pubic bone to more easily pass through the birth canal.
 to suck any air from between the suction cup and the head to create a good seal. The
 babies head is then manipulated through the birth canal. This usually leaves a baby's
 head bruised, but the mark fades within weeks after birth.
+_TT236
+
 
 433
 
@@ -16670,6 +17142,8 @@ your obstetrician and hospital. Doctors who work with midwives have lower cesare
 section rates because midwives handle less complicated pregnancies. Delivering babies by
 abdominal surgery has been steadily rising in America over the past two decades, so that
 now 22-30% of births in American hospitals are cesarean section. The U.S., despite having
+_TT237
+
 
 435
 
@@ -16782,6 +17256,8 @@ away
 when stimulated
 active movement
 strong
+_TT238
+
 
 Grimace
 
@@ -16822,6 +17298,8 @@ brain structures, and cause other physical, mental, or behavioral problems. Drin
 during pregnancy should be avoided. Women who drink more than 4 or 5 drinks per day
 may cause permanent damage to their fetus, including, behavioral problems, sight and
 hearing loss, deformed organs and central nervous system dysfunction.
+_TT239
+
 
 438
 
@@ -16866,6 +17344,8 @@ only survive as long as 50% of the placenta is still attached.
 Individuals either have, or do not have, the Rhesus factor (or Rh D antigen) on the surface
 of their red blood cells. This is usually indicated by 'RhD positive' (does have the RhD
 antigen) or 'RhD negative' (does not have the antigen) suffix to the ABO blood type i.e.
+_TT240
+
 
 439
 
@@ -16897,6 +17377,8 @@ high-output heart failure, with pallor, enlarged liver and/or spleen, generalize
 respiratory distress. The prenatal manifestations are known as hydrops fetalis; in severe
 forms this can include petechiae and purpura. The infant may be stillborn or die shortly
 after birth.
+_TT241
+
 
 15.11.4 Other Abnormalities
 Physical and Genetic Defects: Physical anomalies are present at birth. Examples are; cardiac,
@@ -16965,6 +17447,8 @@ can be preserved for a long time. There are currently 500,000 frozen embryos in 
 States. The advantage is that patients who fail to conceive may become pregnant using such
 embryos without having to go through a full IVF cycle. Or, if pregnancy occurred, they
 could return later for another pregnancy.
+_TT242
+
 
 442
 
@@ -17026,6 +17510,8 @@ number of different cell-types, including brain, liver and bone.
 Therapeutic Cloning refers to a procedure that allows the cloning of specific body parts and
 organs to be used for medical purposes. Although this has not been realized, much research
 is being done on the subject.
+_TT243
+
 
 444
 
@@ -17070,6 +17556,8 @@ tongue, and the baby and mother should be treated by a doctor.
 Breast milk is recommended through the first 12 months. Supplementation of cow's milk is
 not recommended due to the high protein that would cause liver damage to the baby.
 Why breastfeed?
+_TT244
+
 
 445
 
@@ -17131,6 +17619,8 @@ her provider immediately.
 15.17 Testing Your Knowledge
 Answers for these questions can be found here1
 1. Is at this stage that an egg implants in the uterine lining
+_TT245
+
 
 1
 
@@ -17204,6 +17694,8 @@ A) thrush
 B) mastitis
 C) colostrum
 D) milk let down
+_TT246
+
 
 15.18 Glossary
 Abruption: Premature separation of the placenta from the wall of the womb
@@ -17288,6 +17780,8 @@ In vitro fertilization: (IVF) a method of assisted conception in which fertiliza
 outside the mother's and the embryo is replaced in the womb
 Lanugo: fine hair that covers the fetus in the womb
 Lochia: blood loss after birth
+_TT247
+
 
 450
 
@@ -17376,6 +17870,8 @@ generation to generation. The external appearance (phenotype) of an organism is 
 to a large extent by the genes it inherits (genotype). Thus, one can begin to see how variation
 at the DNA level can cause variation at the level of the entire organism. These concepts
 form the basis of genetics and evolutionary theory.
+_TT248
+
 
 16.1.2 Gene
 
@@ -17409,6 +17905,8 @@ is a strong predictor of phenotype, environmental factors can also play a strong
 determining phenotype. Identical twins, for example, are genetic clones resulting from the
 early splitting of an embryo, but they can be quite different in personality, body mass, and
 even fingerprints. hi
+_TT249
+
 
 16.1.3 Genetics
 Genetics (from the Greek genno = give birth) is the science of genes, heredity, and the
@@ -17527,6 +18025,8 @@ http://en.wikipedia.org/wiki/Colin%20McLeod
 http://en.wikipedia.org/wiki/Maclyn%20McCarty
 http://en.wikipedia.org/wiki/DNA
 http://en.wikipedia.org/wiki/Erwin%20Chargaff
+_TT250
+
 
 Introduction
 1952 The Hershey-Chase experiment18 proves the genetic information of phages (and all
@@ -17609,6 +18109,8 @@ Translation is the synthesis of the protein on the ribosome as the mRNA moves ac
 ribosome. There are eleven basic steps to translation.
 1. The mRNA base sequence determines the order of assembling of the amino acids to form
 specific proteins.
+_TT251
+
 
 460
 
@@ -17732,6 +18234,8 @@ Aicardi Syndrome, are fatal
 to boys, therefore only girls
 have them (and boys with
 Klinefelter Syndrome).
+_TT252
+
 
 Hypophosphatemia, Aicardi
 Syndrome
@@ -17805,6 +18309,8 @@ Everybody has 22 pairs of chromosomes (autosomes) and two more genes called sex-
 chromosomes. Females have two X (XX) chromosomes and males have an X and a Y (XY)
 chromosome. Inherited traits and disorders can be divided into three categories: unifactorial
 inheritance, sex-linked inheritance, and multifactor inheritance.
+_TT253
+
 
 465
 
@@ -17835,6 +18341,8 @@ child and a 50% of passing red hair. When combined with a mom who has brown/brow
 (who would supply 100% brown), the child has a 75% chance of having brown hair and a
 25% chance of having red hair. Similar rules apply to different traits and characteristics,
 though they are usually far more complex.
+_TT254
+
 
 16.3.3 Multifactorial inheritance
 Some traits are found to be determined by genes and environmental effects. Height for
@@ -17891,6 +18399,8 @@ genes. Human stature is an example of this trait. The size of all body parts fro
 foot combined determines height. The size of each individual body part are determined
 by numerous genes. Human skin, eyes, and hair are also polygenic genes because they are
 determined by more than one allele at a different location.
+_TT255
+
 
 16.3.7 Intermediate Expressions
 When there is incomplete dominance, blending can occur resulting in heterozygous individuals.
@@ -17986,6 +18496,8 @@ life. Patients who undergo their recommended treatments usually go on to live a 
 healthy life. Patients who decide against treatment increase their chances of problems such
 as organ failure -- or even death. Along with phlebotomy treatment, patients should stick
 to a low iron diet and should not cook with iron cookware.
+_TT256
+
 
 16.4.2 Cystic Fibrosis (CF)
 Cystic fibrosis is a disease that causes thick, sticky mucus to build up in the lungs and
@@ -18030,6 +18542,8 @@ sickle cell disease the red blood cells change from the normal round shape to th
 sickle or "C" shaped. The abnormal shape causes the cells to get stuck in some blood vessels
 which causes blockage in the vessel. This causes pain and can destroy organs because of the
 lack of oxygen. Sickle cells live only 10 to 20 days and a normal cell lives about 120 days.
+_TT257
+
 
 474
 
@@ -18049,6 +18563,8 @@ form of sickle cell is determined by which genes they inherit from the parents. 
 child inherits a sickle cell gene (hemoglobin gene) from each parent it is called hemoglobin
 SS disease ( which is the formal name for sickle cell). When a child inherits a sickle cell
 gene from one parent and a different abnormal gene from the other parent, it is a form
+_TT258
+
 
 475
 
@@ -18130,6 +18646,8 @@ better the cases of AIDS has dropped. There is no possibility of contracting dis
 genetic engineering Factor VIII.
 Hemophiliacs can live a long life. The most common reason for early death among patients
 has been from AIDS related complications.
+_TT259
+
 
 477
 
@@ -18140,6 +18658,8 @@ has been from AIDS related complications.
 Figure 154
 
 Karyotype of 21 trisomy-Down syndrome
+_TT260
+
 
 Any disorder caused totally or in part by a fault (or faults) of the genetic material passed
 from parent to child is considered a genetic disorder. The genes for many of these disorders
@@ -18195,6 +18715,8 @@ Examples of Common Teratogens:
 •
 •
 •
+_TT261
+
 
 drugs: prescription, non-prescription, and illegal drugs
 tobacco, alcohol,
@@ -18288,6 +18810,8 @@ helping cure and treat diseases that claim millions of lives. Some of the diseas
 cures or treatments because of gene therapy include: Parkinson's, Huntington's, Cystic
 Fibrosis, Some cancers, "Bubble Boy" syndrome and sickle cell. With technology jumping
 ahead, maybe someday there will be a cure for every life threatening disease.
+_TT262
+
 
 16.9 Genetic Regulation of Development and Homeostasis
 It is very easy to think of Genetics as why I have blue eyes while both of my parents have
@@ -18323,6 +18847,8 @@ http://en.wikipedia.org/wiki/Regulation%20of%20gene%20expression
 481
 
 Genetics and Inheritance
+_TT263
+
 
 16.10 Glossary
 Allele: one member of a pair of genes that occupy a specific position on a specific chromosome
@@ -18358,6 +18884,8 @@ Synthesize: to make using biochemical processes
 Unifactorial Inheritance: trait or disorder determined by a single pair of genes
 Zygote: cell formed by the union of male and female gametes. A Zygote is a cell that is
 the result of fertilization.
+_TT264
+
 
 482
 
@@ -18452,6 +18980,8 @@ interacting systems, and aging is considered to be a progressive shrinkage of ho
 capabilities, mainly due to increased molecular heterogeneity. In this chapter we explore
 the physiology of all stages of human development, with a particular emphasis on the aging
 process.
+_TT265
+
 
 485
 
@@ -18626,6 +19156,8 @@ body
 The baby
 will immediately grasp
 the finger
+_TT266
+
 
 Age of disappearance
 Decreases
@@ -18772,6 +19304,8 @@ normally closes slowly during the first year.
 During this period the body goes through drastic physiological changes. The most critical
 need is for the body to get enough oxygen as well as an adequate supply of blood. (The
 respiratory and heart rate of a newborn is much faster than that of an adult.)
+_TT267
+
 
 489
 
@@ -18844,6 +19378,8 @@ second day after birth, lasting until day 8 in normal births, or to around day 1
 births. Serum Bilirubin initially increase because a newborn does not need as many red
 blood cells as it did as a fetus (since there is a higher concentration of oxygen in the air
 than what was available through the umbilical vein). The newborn's liver processes the
+_TT268
+
 
 491
 
@@ -18887,6 +19423,8 @@ transfer. Multi-layered lipid cholesterol and protein covering produced by neura
 rapid gain in overall size of brain due to neural fibers and myelination.
 Synaptic pruning: Neurons seldom stimulated soon loose their synapses. Neurons not
 needed at the moment return to an uncommitted state so they can support future development. However, if synaptic pruning occurs in old age neurons will lose their synapses.
+_TT269
+
 
 492
 
@@ -19041,6 +19579,8 @@ who experience menarche before age 13 years are experiencing very regular, predi
 menses accompanied by ovulation within 2 years, and a higher proportion of those with
 later menarche may not establish regular ovulation for 4 years or more. However, initiation
 of ovulation after menarche is not inevitable, and a high proportion of girls with continued
+_TT270
+
 
 1
 
@@ -19076,6 +19616,8 @@ thelarche and menarche and is already declining by the time menarche occurs. In 
 years following menarche most girls grow about 5 cm (2 inches) before growth ceases at
 maximal adult height. This last growth primarily involves the spine rather than the limbs.
 Body odor, skin changes, and acne
+_TT271
+
 
 498
 
@@ -19137,6 +19679,8 @@ Stage 3 is usually reached within another 6–12 months, when the hairs are too 
 count. By stage 4, the pubic hairs densely fill the "pubic triangle." Stage 5 refers to spread
 of pubic hair to the thighs and upward towards the umbilicus as part of the developing
 abdominal hair.
+_TT272
+
 
 500
 
@@ -19233,6 +19777,8 @@ http://en.wikipedia.org/wiki/adult
 
 Figure 162 This diagram shows Maslow's hierarchy of needs, represented as a pyramid
 with the more primitive needs at the bottom.
+_TT273
+
 
 Abraham Maslow, a psychologist, developed Maslow's Hierarchy of Needs. It is a chart
 outlining basic needs that a person must meet to function and survive in life. It also attempts
@@ -19273,6 +19819,8 @@ In short, self-actualization is reaching one's fullest potential.
 Most people accomplish the two lower levels in their lifetime, but may get stuck on upper
 levels. While self-actualization is a useful concept to many, others insist there is no proof
 that every individual has this capacity or even the goal to achieve it.
+_TT274
+
 
 17.9 Menopause
 w:Menopause3
@@ -19329,6 +19877,8 @@ has beneficial effect on the survival of an infant. Humans are one of the slowes
 species in the animal kingdom, and unlike many species, infants, toddlers and children must
 be continuously cared for to ensure their survival. (Compare that to the salmon that swims
 up stream, spawns and dies.)
+_TT275
+
 
 17.9.2 Etiology
 The cessation of menses is the result of the eventual atresia (degeneration and reabsorption)
@@ -19408,6 +19958,8 @@ of cure holds true for osteoporosis. In researching osteoporosis I found that wh
 some treatments for osteoporosis, a healthy lifestyle throughout your life is a much more
 effective way of combating the effects of this disease. It is generally acknowledged that
 a regular weight bearing exercise plan is helpful in maintaining bone mass. Additionally,
+_TT276
+
 
 506
 
@@ -19461,6 +20013,8 @@ DNA endanger the synthesis of enzymes and other proteins that are required for l
 damage interferes with cell division.
 Most researchers believe that aging is a combination of an internal clock that ticks out the
 life span of cells and the accumulation damage to DNA.
+_TT277
+
 
 17.11 Old Age Diseases
 17.11.1 Diabetes
@@ -19510,6 +20064,8 @@ disease. Because not all patients have volume overload at the time of initial or
 evaluation, the term "heart failure" is preferred over the older term "congestive heart failure".
 Congestive heart failure is often undiagnosed due to a lack of a universally agreed definition
 and difficulties in diagnosis, particularly when the condition is considered "mild".
+_TT278
+
 
 17.11.3 Stroke
 
@@ -19550,6 +20106,8 @@ Cockayne's syndrome or xeroderma pigmentosum), progeria is not caused by defecti
 repair. It is caused by mutations in a LMNA (Lamin A protein) gene on chromosome 1.
 Nuclear lamina is a protein scaffold around the edge of the nucleus that helps organize
 nuclear processes such as RNA and DNA synthesis.
+_TT279
+
 
 17.12 The effects of Aging on the Body
 17.12.1 Cardiovascular System
@@ -19581,6 +20139,8 @@ Aortic stenosis and aortic insufficiency, elevate left ventricular preload to th
 the left ventricle becomes stiff and noncompliant, and is common in people 75 years of
 age or older. Elevated pressures are transmitted to the pulmonary vasculature and lead to
 pulmonary edema.
+_TT280
+
 
 17.12.2 Musculoskeletal System
 Bones
@@ -19653,6 +20213,8 @@ mutations in three different genes (presenilin 1, presenilin 2, and amyloid prec
 have been identified that account for a small number of cases of familial, early-onset AD. For
 late onset AD (LOAD), only one susceptibility gene has so far been identified: the epsilon 4
 allele of the apolipoprotein E gene. Age of onset itself has a heritability of around 50%.
+_TT281
+
 
 17.12.4 Digestive System
 The changes associated with aging of the digestive system include loss of strength and tone of
@@ -19714,6 +20276,8 @@ female to male smokers. More women die of lung cancer than any other cancer, inc
 breast cancer, ovarian cancer and uterine cancers combined. Current research indicates that
 the factor with the greatest impact on risk of lung cancer is long-term exposure to inhaled
 carcinogens. The most common means of such exposure is tobacco smoke.
+_TT282
+
 
 514
 
@@ -19748,6 +20312,8 @@ response, diminished sweating, and poor nutrition are reasons why the elderly ca
 maintain body temperature. There is also a decrease in total body water (TBW). In
 newborns, TBW is 75% to 80%. TBW continues to decline in childhood to 60% to 65%, to
 less than 60% in adults.
+_TT283
+
 
 17.12.8 Organism Aging
 Aging is generally characterized by the declining ability to respond to stress, increasing
@@ -19794,6 +20360,8 @@ biological causes of senescence and possible solutions:
 exercise and growth factors. But stem cell therapy is almost certainly required for any
 more than just partial replacement of lost cells. This research would involve a large
 number of details, but is occurring on many fronts.
+_TT284
+
 
 516
 
@@ -19835,6 +20403,8 @@ bodies.
 Dr. de Grey's research proposals are highly controversial, with many critics arguing the highly
 complicated biomedical phenomena involved contain too many unknowns for intervention to
 be considered remotely foreseeable.
+_TT285
+
 
 17.16 Discoveries In Growth And Development
 • Medieval times
@@ -19952,6 +20522,8 @@ B) cancer
 C) congestive heart failure
 D) osteoporosis
 E) heart attack
+_TT286
+
 
 520
 
@@ -20017,6 +20589,8 @@ Narrowing of the pyloric sphincter that reduces or eliminates the passage of foo
 stomach to the small intestine, often causing projectile vomiting in infants.
 Trabeculae
 spongy bones that make plates or bars instead of cocentric layers.
+_TT287
+
 
 17.19 References
 • Methuselahmouse.org9
@@ -20567,6 +21141,8 @@ http://en.wikibooks.org/w/index.php?title=User:Jacquel
 119
 120
 121
+_TT288
+
 
 JamBam97
 JamBam1698
@@ -20916,6 +21492,8 @@ Soeb193
 Spamduck194
 Spazzi195
 Srayhamlin196
+_TT289
+
 
 http://en.wikibooks.org/w/index.php?title=User:Reece
 http://en.wikibooks.org/w/index.php?title=User:RiRi82
@@ -21164,6 +21742,8 @@ is reproduction in a format without relief (drawings, paintings, films) provided
 are not detrimental to the image of the euro.
 • LFK: Lizenz Freie Kunst. http://artlibre.org/licence/lal/de
 • CFR: Copyright free use.
+_TT290
+
 
 535
 
@@ -21769,6 +22349,8 @@ Original uploader was Apers0n312 at en.wikipedia313
 311
 312
 313
+_TT291
+
 
 NIDDK
 U.S. Department of Energy Human Genome Program.
@@ -21895,6 +22477,8 @@ some countries other activities as well.
 To “convey” a work means any kind of propagation
 that enables other parties to make or receive copies.
 Mere interaction with a user through a computer
+_TT292
+
 
 network, with no transfer of a copy, is not conveying.
 An interactive user interface displays “Appropriate
@@ -22034,6 +22618,8 @@ A separable portion of the object code, whose
 source code is excluded from the Corresponding
 Source as a System Library, need not be included
 in conveying the object code work.
+_TT293
+
 
 When you convey a covered work, you waive any
 legal power to forbid circumvention of technological measures to the extent such circumvention is effected by exercising rights under this License with
@@ -22069,6 +22655,8 @@ execute modified versions of a covered work in that
 User Product from a modified version of its Corresponding Source. The information must suffice to
 ensure that the continued functioning of the modified object code is in no case prevented or interfered
 with solely because modification has been made.
+_TT294
+
 
 If you convey an object code work under this section in, or with, or specifically for use in, a User
 Product, and the conveying occurs as part of a
