@@ -3,7 +3,7 @@ import numpy as np
 from random import shuffle
 import utility
 
-nlp = spacy.load('en')  # make sure to use larger model!
+nlp = spacy.load('en_core_web_sm')  # make sure to use larger model!
 
 
 def is_stop(word):
@@ -15,12 +15,11 @@ def is_stop(word):
     return nlp.vocab[word.lower()].is_stop
 
 
-def data_pre_processing(raw_text):  # cleaning text
-    #TODO: Texttilling
+def book_pre_processing(raw_text):  # cleaning text
     # returns Dictionary of spans with topic as a key and count of the words in the document
     # identifying topic and related content of the topic
     doc = nlp(raw_text)
-    document_content_dict = {}  # dict: key - topic name, value - list of Span objects
+    document_content_dict = {'topic': []}  # dict: key - topic name, value - list of Span objects
     word_count = {}
     for sentence in doc.sents:
         if len(sentence) > 1:
@@ -30,13 +29,14 @@ def data_pre_processing(raw_text):  # cleaning text
                         word_count[token.text.strip().lower()] += 1
                     else:
                         word_count[token.text.strip().lower()] = 1
-            if any(x in str(sentence) for x in ['Topic:', 'Subtopic:']):  # topic found
-                topic = str(sentence).replace('Topic:', '')
-                topic = topic.replace('Subtopic:', '').strip()
-                topic = topic.replace('.', '').strip().lower()
-                document_content_dict[topic] = []
-            else:
-                document_content_dict[topic].append(sentence)
+            document_content_dict['topic'].append(sentence)
+            # if any(x in str(sentence) for x in ['Topic:', 'Subtopic:']):  # topic found
+            #     topic = str(sentence).replace('Topic:', '')
+            #     topic = topic.replace('Subtopic:', '').strip()
+            #     topic = topic.replace('.', '').strip().lower()
+            #     document_content_dict[topic] = []
+            # else:
+            #     document_content_dict[topic].append(sentence)
     return document_content_dict, word_count
 
 
@@ -63,7 +63,8 @@ def sentence_selection(data_dict, external_key_words):
     # all_the_topics = ' '.join([t for t in data_dict])
     all_the_topics = ' '.join(external_key_words)
     topics_doc = nlp(all_the_topics)
-    all_the_topics = set(token.lemma_ for token in topics_doc if not is_stop(token.text) and not token.is_punct and not token.is_space)
+    all_the_topics = set(
+        token.lemma_ for token in topics_doc if not is_stop(token.text) and not token.is_punct and not token.is_space)
     weights = [1.5, 0.1, 0.2, 0.5, 0.01, 0.2, 0.1]
     result_sel_sent = {}
     # with open('data/results/all_sentences.txt', "w"):
@@ -78,9 +79,9 @@ def sentence_selection(data_dict, external_key_words):
             if number_of_words > 4:
                 features = []
                 pos_tags = [token.tag_ for token in span]
-                f1 = len([i for i in span if str(i.lemma_).lower() in all_the_topics])/number_of_words
+                f1 = len([i for i in span if str(i.lemma_).lower() in all_the_topics]) / number_of_words
                 features.append(f1)
-                f2 = 1/np.exp(len([i for i in span if i.text.isupper() and len(i.text) > 1 and i.pos_ == 'PROPN']))
+                f2 = 1 / np.exp(len([i for i in span if i.text.isupper() and len(i.text) > 1 and i.pos_ == 'PROPN']))
                 features.append(f2)
                 f3 = 0
                 if 'JJS' in pos_tags:
@@ -99,9 +100,9 @@ def sentence_selection(data_dict, external_key_words):
                 features.append(f4)
                 f5 = number_of_words
                 features.append(f5)
-                f6 = len([p for p in pos_tags if p in ['NN', 'NNS']])/number_of_words
+                f6 = len([p for p in pos_tags if p in ['NN', 'NNS']]) / number_of_words
                 features.append(f6)
-                f7 = len([p for p in pos_tags if p in ['NNP', 'NNPS']])/number_of_words
+                f7 = len([p for p in pos_tags if p in ['NNP', 'NNPS']]) / number_of_words
                 features.append(f7)
                 # f8 = token_dep_height([span.root])
                 # features.append(f8)
@@ -115,7 +116,8 @@ def sentence_selection(data_dict, external_key_words):
     # in this step we do selection based on the score. At this moment boundary set to 1.1
     result_sentences = {}
     for topic in data_dict:
-        selection = set(score for score in result_sel_sent[topic] if score > 1.2)
+        # selection = set(score for score in result_sel_sent[topic] if score > 1.2)
+        selection = {max(result_sel_sent[topic])}
         if selection:
             result_sentences[topic] = [data_dict[topic][result_sel_sent[topic].index(elem)] for elem in selection]
     return result_sentences, all_the_topics
@@ -221,7 +223,7 @@ def questions_formation(sentences, word_count, topic_words):
                 features.append(f3)
                 score.append(np.dot(weights, features))
                 with open('data/results/chunk_selection.txt', "a") as f:
-                    f.write(str(np.dot(weights, features))+' '+str(features)+' '+str(chunk) + '\n')
+                    f.write(str(np.dot(weights, features)) + ' ' + str(features) + ' ' + str(chunk) + '\n')
 
             # At this moment we choose max score chunk only, even though we can choose couple chunks with score > 100
             gap_chunk_index = np.argmax(score)
@@ -234,19 +236,52 @@ def questions_formation(sentences, word_count, topic_words):
     return chunk_span_dict
 
 
-def rawtext2question(path_to_raw_text, important_words):
+def rawtext2question(path_to_segmented_book, video_lecture_words):
     """
     Main function what generates gap-fill questions from text book
-    :param path_to_raw_text: self explanatory
+    :param video_lecture_words:
+    :param path_to_segmented_book: self explanatory
     :return: at this moment nothing. Prints to stdout questions with multiple answers
     """
-    with open(path_to_raw_text, 'r') as f:
-        book_text = f.read()
-    data, word_dict = data_pre_processing(book_text)
+    # reading file containing book by segments
+    with open(path_to_segmented_book, 'r') as f:
+        segmented_text = f.readlines()
+    text_tiling_dict = {}
+    book_seg_number = None
+    for line in segmented_text:
+        if '_TT' in line:  # new topic starts
+            book_seg_number = line.strip().replace('_TT', '')
+            text_tiling_dict[int(book_seg_number)] = ''
+        elif line.strip():  # keep adding lines to the previous topic
+            text_tiling_dict[int(book_seg_number)] += line
+    # each segment of the book comparing for similarity with words from video
+    # recording similarity scores for each and then choosing the best
+    seg_number_list = []
+    seg_score_list = []
+    nlp_local = spacy.load('en', disable=['parser', 'tagger', 'ner'])
+    for seg, text in text_tiling_dict.items():
+        # print(seg)
+        doc_book = nlp_local(text)
+        book_words = set()
+        for token in doc_book:
+            # if not is_stop(token.text) and not token.is_punct:
+            book_words.add(token.lemma_)
+        score = len(book_words.intersection(video_lecture_words))
+        if score != 0:
+            seg_score_list.append(score)
+            seg_number_list.append(seg)
+    # at this moment we will choose max score, can adapt it later
+    scores = [(x, y) for y, x in sorted(zip(seg_score_list, seg_number_list), reverse=True)]
+    max_score_seg = [scores[0][0], scores[1][0], scores[2][0]]
+    # with open(path_to_segmented_book, 'r') as f:
+    #     book_text = f.read()
+    book_text = text_tiling_dict[max_score_seg[0]] + text_tiling_dict[max_score_seg[1]] + \
+                text_tiling_dict[max_score_seg[2]]
+    data, word_dict = book_pre_processing(book_text)
     # with open('data/key_words.txt', 'r') as f:
     #     key_words = f.read()
     # key_words = key_words.lower().split(',')
-    selected_sent, topic_words = sentence_selection(data, important_words)
+    selected_sent, topic_words = sentence_selection(data, video_lecture_words)
     questions = questions_formation(selected_sent, word_dict, topic_words)
     for key_chunk, value in questions.items():
         for q in value:

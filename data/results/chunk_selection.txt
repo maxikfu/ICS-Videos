@@ -366,3 +366,115 @@ A low-energy radio wave has a low frequency as a wave, while a high-energy X-ray
 9 [7, 0, 2] a database
 152 [52, 1, 0] relations
 136 [30, 1, 6] unsupervised or Open IE methods
+22 [21, 0, 1] Human Anatomy
+109 [9, 1, 0] Physiology
+18 [12, 0, 6] the two-semester anatomy
+109 [9, 1, 0] physiology
+8 [4, 0, 4] course
+5 [4, 0, 1] life science
+123 [22, 1, 1] health students
+13 [13, 0, 0] water
+11 [4, 0, 7] the largest component
+9 [4, 0, 5] cells
+9 [5, 0, 4] blood
+6 [3, 0, 3] the fluid
+5 [4, 0, 1] cells
+13 [13, 0, 0] water
+8 [3, 0, 5] about 70 percent
+234 [31, 2, 3] an adult’s body mass
+133 [30, 1, 3] the body’s responses
+107 [7, 1, 0] heat
+1 [1, 0, 0] course
+117 [16, 1, 1] The endocrine system
+7 [0, 0, 7] part
+119 [14, 1, 5] a major regulatory system
+5 [2, 0, 3] the regulation
+1 [1, 0, 0] integration
+113 [12, 1, 1] body responses
+55 [54, 0, 1] Stratified squamous epithelium
+10 [6, 0, 4] the most common type
+42 [41, 0, 1] stratified epithelium
+214 [13, 2, 1] the human body
+0 [0, 0, 0] It
+220 [16, 2, 4] the urinary system
+5 [2, 0, 3] specifically the ureters
+114 [11, 1, 3] urinary
+bladder
+47 [46, 0, 1] Human Anatomy
+118 [18, 1, 0] Physiology
+28 [22, 0, 6] the two-semester anatomy
+118 [18, 1, 0] physiology
+8 [4, 0, 4] course
+7 [6, 0, 1] life science
+123 [22, 1, 1] health students
+145 [44, 1, 1] Human physiology
+223 [16, 2, 7] the scientific study
+7 [2, 0, 5] the chemistry
+1 [1, 0, 0] physics
+19 [16, 0, 3] the structures
+34 [33, 0, 1] the body
+6 [1, 0, 5] the ways
+0 [0, 0, 0] they
+111 [9, 1, 2] the functions
+5 [5, 0, 0] life
+119 [13, 1, 6] the study
+123 [19, 1, 4] physiology centers
+46 [43, 0, 3] the body’s tendency
+105 [5, 1, 0] homeostasis
+4 [1, 0, 3] the contributions
+140 [39, 1, 1] the endocrine system
+106 [5, 1, 1] homeostasis
+105 [5, 1, 0] Homeostasis
+5 [1, 0, 4] the state
+9 [6, 0, 3] steady internal
+conditions
+210 [9, 2, 1] living things
+3 [3, 0, 0] Form
+121 [18, 1, 3] function
+210 [9, 2, 1] all living things
+116 [13, 1, 3] Your study
+21 [20, 0, 1] anatomy
+118 [18, 1, 0] physiology
+2 [1, 0, 1] more sense
+0 [0, 0, 0] you
+9 [3, 0, 6] the form
+20 [16, 0, 4] the structures
+0 [0, 0, 0] you
+119 [18, 1, 1] their function
+114 [11, 1, 3] The organization
+34 [33, 0, 1] the body
+9 [4, 0, 5] terms
+11 [8, 0, 3] six distinct levels
+5 [4, 0, 1] increasing complexity
+34 [33, 0, 1] a unique human
+118 [16, 1, 2] the chemical level
+111 [11, 1, 0] organization
+1 [1, 0, 0] scientists
+10 [7, 0, 3] the simplest building blocks
+5 [5, 0, 0] matter
+9 [7, 0, 2] subatomic particles
+5 [4, 0, 1] atoms
+6 [6, 0, 0] molecules
+106 [5, 1, 1] A cell
+122 [18, 1, 4] the smallest independently functioning unit
+208 [7, 2, 1] a living organism
+127 [22, 1, 5] All living structures
+161 [55, 1, 6] human
+anatomy contain cells
+113 [9, 1, 4] almost all functions
+145 [44, 1, 1] human physiology
+108 [8, 1, 0] cells
+108 [8, 1, 0] cells
+1 [1, 0, 0] humans
+104 [3, 1, 1] all organisms
+108 [8, 1, 0] cells
+111 [9, 1, 2] all functions
+5 [5, 0, 0] life
+106 [5, 1, 1] A cell
+122 [18, 1, 4] the smallest independently functioning unit
+208 [7, 2, 1] a living organism
+0 [0, 0, 0] It
+220 [16, 2, 4] the urinary system
+5 [2, 0, 3] specifically the ureters
+114 [11, 1, 3] urinary
+bladder
