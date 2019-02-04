@@ -478,3 +478,490 @@ anatomy contain cells
 5 [2, 0, 3] specifically the ureters
 114 [11, 1, 3] urinary
 bladder
+106 [5, 1, 1] A cell
+122 [18, 1, 4] the smallest independently functioning unit
+208 [7, 2, 1] a living organism
+0 [0, 0, 0] It
+220 [16, 2, 4] the urinary system
+5 [2, 0, 3] specifically the ureters
+114 [11, 1, 3] urinary
+bladder
+108 [8, 1, 0] Metabolism
+225 [22, 2, 3] both anabolic and catabolic reactions
+235 [32, 2, 3] The
+interstitial fluid
+5 [0, 0, 5] part
+242 [39, 2, 3] the extracellular fluid
+105 [4, 1, 1] (ECF
+130 [29, 1, 1] the cells
+268 [65, 2, 3] The
+interstitial fluid
+5 [0, 0, 5] part
+163 [60, 1, 3] the extracellular fluid
+105 [4, 1, 1] (ECF
+120 [19, 1, 1] the cells
+222 [19, 2, 3] The lipid tails
+106 [5, 1, 1] one layer
+223 [19, 2, 4] the lipid tails
+108 [5, 1, 3] the
+other layer
+4 [1, 0, 3] the interface
+105 [4, 1, 1] the two layers
+228 [23, 2, 5] A hydrophobic molecule
+109 [5, 1, 4] region
+115 [12, 1, 3] a molecule) repels
+111 [11, 1, 0] water
+6 [5, 0, 1] This content
+12 [11, 0, 1] CHAPTER
+8 [7, 0, 1] ORGANIZATION
+10 [1, 0, 9] the presence
+11 [4, 0, 7] a double complement
+6 [5, 0, 1] genetic material
+7 [1, 0, 6] two sets
+1 [1, 0, 0] chromosomes
+2 [1, 0, 1] two parents
+21 [18, 0, 3] DNA polymerase enzyme
+9 [8, 0, 1] new nucleotides
+24 [2, 0, 22] a growing strand
+15 [15, 0, 0] DNA
+56 [34, 0, 22] DNA
+DNA replication process
+15 [12, 0, 3] a molecule
+16 [15, 0, 1] DNA
+12 [9, 0, 3] electrical gradient difference
+4 [3, 0, 1] the electrical charge
+4 [4, 0, 0] potential
+120 [4, 1, 16] two regions
+17 [2, 0, 15] endocytosis import
+3 [3, 0, 0] material
+76 [75, 0, 1] the cell
+15 [2, 0, 13] formation
+258 [46, 2, 12] a membrane-bound vesicle
+32 [21, 0, 11] endoplasmic reticulum (ER) cellular organelle
+254 [46, 2, 8] interconnected membrane-bound tubules
+4 [1, 0, 3] ribosomes
+9 [7, 0, 2] rough type
+8 [7, 0, 1] smooth type
+8 [2, 0, 6] exocytosis export
+11 [7, 0, 4] a substance
+76 [75, 0, 1] a cell
+6 [2, 0, 4] formation
+249 [46, 2, 3] a membrane-bound vesicle
+114 [5, 1, 9] the coding regions
+22 [15, 0, 7] an mRNA molecule
+131 [28, 1, 3] extracellular fluid
+30 [27, 0, 3] (ECF) fluid exterior
+58 [58, 0, 0] cells
+36 [25, 0, 11] the interstitial fluid
+16 [15, 0, 1] blood plasma
+22 [22, 0, 0] fluid
+15 [7, 0, 8] other
+facilitated diffusion diffusion
+12 [7, 0, 5] a substance
+4 [1, 0, 3] the aid
+260 [59, 2, 1] a membrane protein
+12 [3, 0, 9] flagellum appendage
+70 [63, 0, 7] certain cells
+3 [3, 0, 0] microtubules
+27 [22, 0, 5] movement
+G0 phase phase
+84 [83, 0, 1] the cell cycle
+12 [11, 0, 1] the G1 phase
+10 [5, 0, 5] long or permanent periods
+76 [75, 0, 1] the cell
+28 [27, 0, 1] the DNA synthesis phase
+12 [9, 0, 3] first phase
+84 [83, 0, 1] the cell cycle
+81 [80, 0, 1] a new cell
+12 [9, 0, 3] third phase
+84 [83, 0, 1] the cell cycle
+28 [27, 0, 1] the DNA synthesis phase
+25 [8, 0, 17] gene functional length
+15 [15, 0, 0] DNA
+19 [4, 0, 15] the genetic information
+131 [25, 1, 6] a protein
+gene expression
+16 [4, 0, 12] active interpretation
+12 [2, 0, 10] the information
+11 [4, 0, 7] a gene
+12 [7, 0, 5] a functional gene product
+11 [7, 0, 4] genome entire complement
+32 [29, 0, 3] an organism’s DNA
+94 [76, 0, 18] virtually every cell
+18 [2, 0, 16] glycocalyx coating
+7 [6, 0, 1] sugar molecules
+215 [114, 1, 1] the cell membrane
+137 [22, 1, 15] glycoprotein protein
+4 [1, 0, 3] one or more carbohydrates
+34 [20, 0, 14] Golgi apparatus cellular organelle
+12 [1, 0, 11] a series
+258 [47, 2, 11] flattened, membrane-bound sacs
+114 [7, 1, 7] functions
+125 [20, 1, 5] protein
+6 [2, 0, 4] modification
+3 [1, 0, 2] packaging
+107 [6, 1, 1] transport
+2 [2, 0, 0] enzyme
+112 [7, 1, 5] functions
+20 [16, 0, 4] the two DNA strands
+4 [3, 0, 1] a double helix
+18 [17, 0, 1] DNA replication
+3 [1, 0, 2] family
+113 [13, 1, 0] proteins
+15 [15, 0, 0] DNA
+3 [2, 0, 1] the nucleus
+4 [3, 0, 1] chromatin
+5 [1, 0, 4] two copies
+4 [2, 0, 2] the same chromosome
+2 [1, 0, 1] each parent
+7 [7, 0, 0] hydrophilic
+11 [7, 0, 4] a substance
+14 [14, 0, 0] structure
+16 [15, 0, 1] water
+11 [7, 0, 4] a substance
+14 [14, 0, 0] structure
+16 [15, 0, 1] water
+1 [1, 0, 0] hypertonic
+16 [11, 0, 5] a solution concentration
+12 [11, 0, 1] a reference concentration
+25 [11, 0, 14] a solution concentration
+21 [11, 0, 10] a reference concentration
+601 [90, 5, 11] integral protein membrane-associated protein
+12 [5, 0, 7] the entire width
+15 [10, 0, 5] intermediate filament type
+106 [3, 1, 3] cytoskeletal filament
+1 [1, 0, 0] keratin
+4 [3, 0, 1] an intermediate thickness
+109 [5, 1, 4] a role
+17 [16, 0, 1] cellular tension
+23 [20, 0, 3] entire life cycle
+76 [75, 0, 1] a cell
+60 [50, 0, 10] mitosis
+interstitial fluid (IF) fluid
+12 [6, 0, 6] the small spaces
+62 [58, 0, 4] cells
+15 [14, 0, 1] blood vessels
+25 [22, 0, 3] THE CELLULAR LEVEL
+8 [7, 0, 1] ORGANIZATION
+10 [5, 0, 5] the difference
+180 [77, 1, 3] a structural cell
+6 [5, 0, 1] the skin
+79 [78, 0, 1] a nerve cell
+149 [46, 1, 3] Most cells
+15 [14, 0, 1] the body
+6 [3, 0, 3] use
+14 [13, 0, 1] charged particles
+14 [14, 0, 0] ions
+9 [6, 0, 3] a charge
+208 [107, 1, 1] the cell membrane
+134 [34, 1, 0] membrane
+9 [1, 0, 8] place
+7 [1, 0, 6] the help
+124 [20, 1, 4] proteins
+232 [30, 2, 2] channel proteins
+226 [25, 2, 1] carrier proteins
+6 [5, 0, 1] This content
+11 [10, 0, 1] CHAPTER
+10 [9, 0, 1] ORGANIZATION
+11 [2, 0, 9] the presence
+11 [4, 0, 7] a double complement
+8 [7, 0, 1] genetic material
+7 [1, 0, 6] two sets
+1 [1, 0, 0] chromosomes
+2 [1, 0, 1] two parents
+20 [17, 0, 3] DNA polymerase enzyme
+9 [8, 0, 1] new nucleotides
+24 [2, 0, 22] a growing strand
+14 [14, 0, 0] DNA
+53 [31, 0, 22] DNA
+DNA replication process
+116 [13, 1, 3] a molecule
+15 [14, 0, 1] DNA
+13 [10, 0, 3] electrical gradient difference
+5 [4, 0, 1] the electrical charge
+4 [4, 0, 0] potential
+20 [4, 0, 16] two regions
+17 [2, 0, 15] endocytosis import
+5 [5, 0, 0] material
+177 [76, 1, 1] the cell
+15 [2, 0, 13] formation
+262 [50, 2, 12] a membrane-bound vesicle
+32 [21, 0, 11] endoplasmic reticulum (ER) cellular organelle
+258 [50, 2, 8] interconnected membrane-bound tubules
+4 [1, 0, 3] ribosomes
+7 [5, 0, 2] rough type
+6 [5, 0, 1] smooth type
+8 [2, 0, 6] exocytosis export
+11 [7, 0, 4] a substance
+177 [76, 1, 1] a cell
+6 [2, 0, 4] formation
+253 [50, 2, 3] a membrane-bound vesicle
+14 [5, 0, 9] the coding regions
+122 [15, 1, 7] an mRNA molecule
+132 [29, 1, 3] extracellular fluid
+130 [27, 1, 3] (ECF) fluid exterior
+182 [82, 1, 0] cells
+135 [24, 1, 11] the interstitial fluid
+113 [12, 1, 1] blood plasma
+121 [21, 1, 0] fluid
+17 [9, 0, 8] other
+facilitated diffusion diffusion
+12 [7, 0, 5] a substance
+4 [1, 0, 3] the aid
+258 [57, 2, 1] a membrane protein
+12 [3, 0, 9] flagellum appendage
+194 [87, 1, 7] certain cells
+4 [4, 0, 0] microtubules
+28 [23, 0, 5] movement
+G0 phase phase
+185 [84, 1, 1] the cell cycle
+12 [11, 0, 1] the G1 phase
+10 [5, 0, 5] long or permanent periods
+177 [76, 1, 1] the cell
+26 [25, 0, 1] the DNA synthesis phase
+12 [9, 0, 3] first phase
+185 [84, 1, 1] the cell cycle
+182 [81, 1, 1] a new cell
+12 [9, 0, 3] third phase
+185 [84, 1, 1] the cell cycle
+26 [25, 0, 1] the DNA synthesis phase
+126 [9, 1, 17] gene functional length
+14 [14, 0, 0] DNA
+19 [4, 0, 15] the genetic information
+125 [19, 1, 6] a protein
+gene expression
+16 [4, 0, 12] active interpretation
+12 [2, 0, 10] the information
+11 [4, 0, 7] a gene
+113 [8, 1, 5] a functional gene product
+11 [7, 0, 4] genome entire complement
+27 [24, 0, 3] an organism’s DNA
+195 [77, 1, 18] virtually every cell
+118 [2, 1, 16] glycocalyx coating
+209 [8, 2, 1] sugar molecules
+320 [119, 2, 1] the cell membrane
+230 [15, 2, 15] glycoprotein protein
+4 [1, 0, 3] one or more carbohydrates
+34 [20, 0, 14] Golgi apparatus cellular organelle
+12 [1, 0, 11] a series
+262 [51, 2, 11] flattened, membrane-bound sacs
+115 [8, 1, 7] functions
+119 [14, 1, 5] protein
+5 [1, 0, 4] modification
+3 [1, 0, 2] packaging
+7 [6, 0, 1] transport
+2 [2, 0, 0] enzyme
+113 [8, 1, 5] functions
+19 [15, 0, 4] the two DNA strands
+4 [3, 0, 1] a double helix
+17 [16, 0, 1] DNA replication
+3 [1, 0, 2] family
+114 [14, 1, 0] proteins
+14 [14, 0, 0] DNA
+3 [2, 0, 1] the nucleus
+4 [3, 0, 1] chromatin
+5 [1, 0, 4] two copies
+4 [2, 0, 2] the same chromosome
+2 [1, 0, 1] each parent
+7 [7, 0, 0] hydrophilic
+11 [7, 0, 4] a substance
+13 [13, 0, 0] structure
+13 [12, 0, 1] water
+11 [7, 0, 4] a substance
+13 [13, 0, 0] structure
+13 [12, 0, 1] water
+1 [1, 0, 0] hypertonic
+15 [10, 0, 5] a solution concentration
+11 [10, 0, 1] a reference concentration
+24 [10, 0, 14] a solution concentration
+20 [10, 0, 10] a reference concentration
+592 [81, 5, 11] integral protein membrane-associated protein
+12 [5, 0, 7] the entire width
+13 [8, 0, 5] intermediate filament type
+6 [3, 0, 3] cytoskeletal filament
+1 [1, 0, 0] keratin
+4 [3, 0, 1] an intermediate thickness
+5 [1, 0, 4] a role
+17 [16, 0, 1] cellular tension
+19 [16, 0, 3] entire life cycle
+177 [76, 1, 1] a cell
+257 [47, 2, 10] mitosis
+interstitial fluid (IF) fluid
+14 [8, 0, 6] the small spaces
+186 [82, 1, 4] cells
+15 [14, 0, 1] blood vessels
+27 [24, 0, 3] THE CELLULAR LEVEL
+10 [9, 0, 1] ORGANIZATION
+10 [5, 0, 5] the difference
+184 [81, 1, 3] a structural cell
+8 [7, 0, 1] the skin
+180 [79, 1, 1] a nerve cell
+4 [4, 0, 0] Gas
+13 [10, 0, 3] an area
+167 [66, 1, 1] ________ partial pressure
+13 [10, 0, 3] an area
+167 [66, 1, 1] ________ partial pressure
+112 [12, 1, 0] Diffusion
+118 [11, 1, 7] the movement
+107 [2, 1, 5] particles
+115 [12, 1, 3] an area
+249 [48, 2, 1] higher concentration
+115 [12, 1, 3] an area
+252 [51, 2, 1] lower concentration
+115 [15, 1, 0] Diffusion
+115 [8, 1, 7] the movement
+7 [2, 0, 5] particles
+114 [11, 1, 3] an area
+239 [38, 2, 1] higher concentration
+114 [11, 1, 3] an area
+241 [40, 2, 1] lower concentration
+254 [53, 2, 1] A concentration gradient
+113 [6, 1, 7] the difference
+143 [38, 1, 5] concentration
+115 [12, 1, 3] a substance
+104 [3, 1, 1] a space
+5 [4, 0, 1] This content
+10 [9, 0, 1] CHAPTER
+8 [7, 0, 1] ORGANIZATION
+111 [2, 1, 9] the presence
+11 [4, 0, 7] a double complement
+106 [5, 1, 1] genetic material
+7 [1, 0, 6] two sets
+1 [1, 0, 0] chromosomes
+2 [1, 0, 1] two parents
+31 [28, 0, 3] DNA polymerase enzyme
+109 [8, 1, 1] new nucleotides
+27 [5, 0, 22] a growing strand
+14 [14, 0, 0] DNA
+55 [33, 0, 22] DNA
+DNA replication process
+109 [6, 1, 3] a molecule
+15 [14, 0, 1] DNA
+217 [14, 2, 3] electrical gradient difference
+206 [5, 2, 1] the electrical charge
+104 [4, 1, 0] potential
+125 [9, 1, 16] two regions
+18 [3, 0, 15] endocytosis import
+103 [3, 1, 0] material
+136 [35, 1, 1] the cell
+15 [2, 0, 13] formation
+235 [23, 2, 12] a membrane-bound vesicle
+28 [17, 0, 11] endoplasmic reticulum (ER) cellular organelle
+231 [23, 2, 8] interconnected membrane-bound tubules
+4 [1, 0, 3] ribosomes
+108 [6, 1, 2] rough type
+108 [7, 1, 1] smooth type
+9 [3, 0, 6] exocytosis export
+111 [7, 1, 4] a substance
+136 [35, 1, 1] a cell
+6 [2, 0, 4] formation
+226 [23, 2, 3] a membrane-bound vesicle
+119 [10, 1, 9] the coding regions
+115 [8, 1, 7] an mRNA molecule
+137 [34, 1, 3] extracellular fluid
+138 [35, 1, 3] (ECF) fluid exterior
+153 [53, 1, 0] cells
+52 [41, 0, 11] the interstitial fluid
+154 [53, 1, 1] blood plasma
+33 [33, 0, 0] fluid
+20 [12, 0, 8] other
+facilitated diffusion diffusion
+112 [7, 1, 5] a substance
+4 [1, 0, 3] the aid
+243 [42, 2, 1] a membrane protein
+12 [3, 0, 9] flagellum appendage
+165 [58, 1, 7] certain cells
+3 [3, 0, 0] microtubules
+133 [28, 1, 5] movement
+G0 phase phase
+245 [44, 2, 1] the cell cycle
+13 [12, 0, 1] the G1 phase
+11 [6, 0, 5] long or permanent periods
+136 [35, 1, 1] the cell
+29 [28, 0, 1] the DNA synthesis phase
+13 [10, 0, 3] first phase
+245 [44, 2, 1] the cell cycle
+241 [40, 2, 1] a new cell
+13 [10, 0, 3] third phase
+245 [44, 2, 1] the cell cycle
+29 [28, 0, 1] the DNA synthesis phase
+27 [10, 0, 17] gene functional length
+14 [14, 0, 0] DNA
+19 [4, 0, 15] the genetic information
+136 [30, 1, 6] a protein
+gene expression
+119 [7, 1, 12] active interpretation
+12 [2, 0, 10] the information
+11 [4, 0, 7] a gene
+14 [9, 0, 5] a functional gene product
+10 [6, 0, 4] genome entire complement
+25 [22, 0, 3] an organism’s DNA
+154 [36, 1, 18] virtually every cell
+18 [2, 0, 16] glycocalyx coating
+110 [9, 1, 1] sugar molecules
+253 [52, 2, 1] the cell membrane
+141 [26, 1, 15] glycoprotein protein
+5 [2, 0, 3] one or more carbohydrates
+30 [16, 0, 14] Golgi apparatus cellular organelle
+12 [1, 0, 11] a series
+234 [23, 2, 11] flattened, membrane-bound sacs
+14 [7, 0, 7] functions
+130 [25, 1, 5] protein
+5 [1, 0, 4] modification
+3 [1, 0, 2] packaging
+107 [6, 1, 1] transport
+13 [13, 0, 0] enzyme
+12 [7, 0, 5] functions
+20 [16, 0, 4] the two DNA strands
+6 [5, 0, 1] a double helix
+17 [16, 0, 1] DNA replication
+3 [1, 0, 2] family
+132 [32, 1, 0] proteins
+14 [14, 0, 0] DNA
+3 [2, 0, 1] the nucleus
+4 [3, 0, 1] chromatin
+5 [1, 0, 4] two copies
+4 [2, 0, 2] the same chromosome
+2 [1, 0, 1] each parent
+2 [2, 0, 0] hydrophilic
+111 [7, 1, 4] a substance
+16 [16, 0, 0] structure
+114 [13, 1, 1] water
+111 [7, 1, 4] a substance
+16 [16, 0, 0] structure
+114 [13, 1, 1] water
+1 [1, 0, 0] hypertonic
+126 [21, 1, 5] a solution concentration
+122 [21, 1, 1] a reference concentration
+135 [21, 1, 14] a solution concentration
+131 [21, 1, 10] a reference concentration
+383 [72, 3, 11] integral protein membrane-associated protein
+11 [4, 0, 7] the entire width
+114 [9, 1, 5] intermediate filament type
+6 [3, 0, 3] cytoskeletal filament
+1 [1, 0, 0] keratin
+4 [3, 0, 1] an intermediate thickness
+7 [3, 0, 4] a role
+13 [12, 0, 1] cellular tension
+117 [14, 1, 3] entire life cycle
+136 [35, 1, 1] a cell
+86 [76, 0, 10] mitosis
+interstitial fluid (IF) fluid
+213 [7, 2, 6] the small spaces
+157 [53, 1, 4] cells
+51 [50, 0, 1] blood vessels
+10 [9, 0, 1] Passive diffusion
+12 [5, 0, 7] the movement
+120 [15, 1, 5] substances
+10 [7, 0, 3] an area
+118 [17, 1, 1] higher concentration
+10 [7, 0, 3] an area
+217 [16, 2, 1] lower concentration
+107 [6, 1, 1] facilitated diffusion
+8 [5, 0, 3] the movement
+116 [15, 1, 1] substances
+9 [7, 0, 2] an area
+14 [7, 0, 7] an area
+221 [16, 2, 5] lower concentration
+208 [5, 2, 3] a carrier protein
+193 [92, 1, 1] the cell membrane

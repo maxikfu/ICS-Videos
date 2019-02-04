@@ -44,8 +44,7 @@ def sentence_selection(data_dict, external_key_words):
     """
     Calculating features for each sentence and then calculating sentence score based on assigned weights to each feature
     Features description:
-    f1 - number of tokens similar in the title/ length of sentence (excluding punctuation marks) I look for words in all
-    titles
+    f1 - number of tokens similar in the title/ length of sentence (excluding punctuation marks)
     f2 - does sentence contains any abbreviation
     f3 - contain a word in its superlative degree
     f4 - beginning with discourse connective TODO: figure out how to identify them better
