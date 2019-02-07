@@ -13,13 +13,13 @@ def book_texttiling(path_to_the_book):
         orig_book_lines = f.readlines()
     # we need to clean this book up a little bit
     # if line contains only 1-4 tokens deleting that line
-    with open('data/v4557/Anatomy_Physiology_cleaned.txt', 'w') as f:
-        for line in orig_book_lines:
-            if line == '\n' or len(line.split()) > 4:
-                f.write(line)
+    # with open('data/v4557/Anatomy_Physiology_cleaned_1.txt', 'w') as f:
+    #     for line in orig_book_lines:
+    #         if line == '\n' or len(line.split()) > 4:
+    #             f.write(line)
     with open('data/v4557/Anatomy_Physiology_cleaned.txt', 'r') as f:
         raw_text = f.read()
-    tt = nltk.TextTilingTokenizer(w=100)
+    tt = nltk.TextTilingTokenizer(w=300)
     tokens = tt.tokenize(raw_text)
     with open('data/v4557/tt_anatomy_physiology_1.txt', 'w') as f:
         i = 1
@@ -30,7 +30,8 @@ def book_texttiling(path_to_the_book):
 
 
 if __name__ == '__main__':
-
+    book_texttiling()
+    exit()
     with open('data/v4557/tt_anatomy_physiology.txt', 'r') as f:
         segmented_text = f.readlines()
     text_tiling_dict = {}

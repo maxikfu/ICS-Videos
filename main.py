@@ -1,10 +1,12 @@
 import GFQG
 import ocr2dic
 import spacy
+
 nlp = spacy.load('en_core_web_sm')
 
 
 if __name__ == '__main__':
+
     dict_ocr = ocr2dic.ocr2dict('data/v4557/Modi_all_4557.csv', 'data/v4557/v4557_segments.csv')
     # for segment, frames in dict_ocr.items():
     #     for frame, region_ids in frames.items():
