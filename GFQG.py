@@ -44,7 +44,7 @@ def sentence_selection(data_dict, external_key_words):
     """
     Calculating features for each sentence and then calculating sentence score based on assigned weights to each feature
     Features description:
-    f1 - number of tokens similar in the title/ length of sentence (excluding punctuation marks)
+    #f1 - number of tokens similar in the title/ length of sentence (excluding punctuation marks)
     f2 - does sentence contains any abbreviation
     f3 - contain a word in its superlative degree
     f4 - beginning with discourse connective TODO: figure out how to identify them better
@@ -269,7 +269,7 @@ def rawtext2question(path_to_segmented_book, video_lecture_words):
         if score != 0:
             seg_score_list.append(score)
             seg_number_list.append(seg)
-    # at this moment we will choose max score, can adapt it later
+    # at this moment we will choose 3 max score, can adapt it later
     scores = [(x, y) for y, x in sorted(zip(seg_score_list, seg_number_list), reverse=True)]
     max_score_seg = [scores[0][0], scores[1][0], scores[2][0]]
     # with open(path_to_segmented_book, 'r') as f:
