@@ -2,6 +2,7 @@ import spacy
 import numpy as np
 from random import shuffle
 import utility
+import pprint
 
 nlp = spacy.load('en_core_web_sm')  # make sure to use larger model!
 
@@ -26,57 +27,51 @@ def book_pre_processing(raw_text):
     word_count = {}
     for sentence in doc.sents:
         if len(sentence) > 1:
-            for token in sentence:
-                if not is_stop(token.text) and not token.is_punct and not token.is_space:
-                    if token.text.strip().lower() in word_count:
-                        word_count[token.text.strip().lower()] += 1
-                    else:
-                        word_count[token.text.strip().lower()] = 1
             document_content.append(sentence)
-    return document_content, word_count
+    return document_content
 
 
-def sentence_selection(data, external_key_words, al_sel):
+def sentence_selection(data, important_words, al_sel):
     """
     Calculating features for each sentence S and then calculating sentence score based on assigned weights to each feature
     Features description:
     F1 - number of tokens common in video segment and S/ length(S) TODO: it is not working yet
-    F2 - number S contains any abbreviation/ length(S)
-    F3 - does S contains words in superlative degree (POS - ‘JJS’)
-    F4 - does S beginning with a discourse connective (because, since, when, thus, however etc.) TODO: figure out how to identify them better
-    F5 - number of words in S (excluding stop words)
+    F2 - number of common words in video segment and S
+    F3 - number S contains any abbreviation/ length(S)
+    F4 - does S contains words in superlative degree (POS - ‘JJS’)
+    F5 - does S beginning with a discourse connective (because, since, when, thus, however etc.) TODO: figure out how to identify them better
     F6 - number of nouns in S/ length(S)
     F7 - number of pronouns in S/ length(S)
     :param data: list of SpaCy.span (sentences) related to this topic
     :type data: list
-    :param external_key_words: words from video lecture segment
-    :type external_key_words: set
+    :param important_words: words from video lecture segment
+    :type important_words: set
     :return: dictionary (key - name of the topic, value - list of selected sentences) and list of words lemmas
     from video segment
     """
-
-    important_words = ' '.join(external_key_words)
-    topics_doc = nlp(important_words)
-    important_words = set(
-        token.lemma_ for token in topics_doc if not is_stop(token.text) and not token.is_punct and not token.is_space)
-    weights = [1.5, 0.1, 1, 1, 0.2, 0.2]
+    # weights = [1.5, 0.1, 1, 1, 0.2, 0.2]
+    weights = [1.5, 1, 0.5, 1, 1, 1, 1]
     # finding features
     sent_scores = []
+    details = []
+    good_sent = []
     for sentence in data:
         number_of_words = len(set(token.lemma_ for token in sentence if not is_stop(token.text) and not token.is_punct))
         score = 0
         # only for sentences more then 4 tokens
-        if number_of_words > 4 and sentence not in al_sel and sentence[0].text.isupper() and sentence[-1].text == '.':
+        if number_of_words > 4 and sentence.text not in al_sel and sentence[0].text.isupper() and sentence[-1].text == '.':
             features = []
             pos_tags = [token.tag_ for token in sentence]
             f1 = len(set([str(i.lemma_).lower() for i in sentence if str(i.lemma_).lower() in important_words])) / number_of_words
             features.append(f1)
-            f2 = len([i for i in sentence if i.text.isupper() and len(i.text) > 1 and i.pos_ == 'PROPN'])/ number_of_words
+            f2 = len(set([str(i.lemma_).lower() for i in sentence if str(i.lemma_).lower() in important_words]))
             features.append(f2)
-            f3 = 0
-            if 'JJS' in pos_tags:
-                f3 = 1
+            f3 = len([i for i in sentence if i.text.isupper() and len(i.text) > 1 and i.pos_ == 'PROPN'])/ number_of_words
             features.append(f3)
+            f4 = 0
+            if 'JJS' in pos_tags:
+                f4 = 1
+            features.append(f4)
             # TODO: this list need to be filled with more examples or figure out something easier
             if sentence[0].text.lower() in ['because', 'then', 'here', 'here’s',
                                                                     'ultimately', 'chapter', 'finally', 'described',
@@ -84,20 +79,29 @@ def sentence_selection(data, external_key_words, al_sel):
                                                                     'figure', 'like this one', 'fig.', 'these',
                                                                     'this', 'that', 'however', 'thus', 'although',
                                                                     'since', 'it is']:
-                f4 = 0
+                f5 = 0
             else:
-                f4 = 1
-            features.append(f4)
-            f5 = len([p for p in pos_tags if p in ['NN', 'NNS']]) / number_of_words
+                f5 = 1
             features.append(f5)
-            f6 = len([p for p in pos_tags if p in ['NNP', 'NNPS']]) / number_of_words
+            f6 = len([p for p in pos_tags if p in ['NN', 'NNS']]) / number_of_words
             features.append(f6)
+            f7 = len([p for p in pos_tags if p in ['NNP', 'NNPS']]) / number_of_words
+            features.append(f7)
             score = np.dot(weights, features)
-        sent_scores.append(score)
+            sent_scores.append(score)
+            details.append(features)
+            good_sent.append(sentence)
     # in this step we do selection based on the score. At this moment max score selected
-    selection = [x for _, x in sorted(zip(sent_scores, data), reverse=True)][:1]
-    al_sel.add(selection[0])
-    return selection, important_words, al_sel
+    # selection = [(y,x,z) for y, x, z in sorted(zip(sent_scores, good_sent, details), reverse=True)][:3]
+    selection_out = [x for _, x in sorted(zip(sent_scores, good_sent), reverse=True)][:1]
+    al_sel.add(selection_out[0].text)
+    # for i in selection:
+    #     print('Overall score', i[0])
+    #     print('Sentence', i[1])
+    #     print('Features', i[2])
+    #     print('Common words', [(j,word_count[j]) for j in set([str(i.lemma_).lower() for i in i[1] if str(i.lemma_).lower() in important_words])])
+    # pprint.pprint(al_sel)
+    return selection_out, important_words, al_sel
 
 
 def token_dep_height(tokens):
@@ -174,106 +178,78 @@ def questions_formation(sentences, word_count, topic_words):
     for k,v in word_count.items():
         total_number_words += v
     for span in sentences:
-        all_noun_chunks = []
-        # Step 1: saving all noun chinks
-        for chunk in span.noun_chunks:
-            all_noun_chunks.append(chunk)
-        # Step 2: Selecting the most important noun chunk
-        score = []
-        for chunk in all_noun_chunks:
-            features = []
-            f1 = 0
-            f2 = 0
-            f3 = 0
-            for token in chunk:
-                if token.text.strip().lower() in word_count:
-                    f1 += word_count[token.text.strip().lower()]
-                if token.lemma_.strip().lower() in topic_words:
-                    f2 += 1
-                f3 += token_dep_height([token]) - 1
-            if f1 > 0:
-                f1 = 1/(f1)
-            features.append(f1)
-            features.append(f2)
-            if f3 > 0:
-                f3 = 1/f3
-            features.append(f3)
-            score.append(np.dot(weights, features))
-            details.append(features)
-            # with open('data/results/chunk_selection.txt', "a") as f:
-            #     f.write(str(np.dot(weights, features)) + ' ' + str(features) + ' ' + str(chunk) + '\n')
+        # better question will be creating by deleting Proper Noun I think
+        # because most of the time it is abbreviation
+        abbrev = [t for t in span if t.tag_ == 'NNP' and t.is_alpha and t.is_upper]
+        if len(abbrev) == 1 and '('+abbrev[0].text+')' not in span.text and len(abbrev[0]) > 2:
+            chunk_span_dict[abbrev[0]] = [span]
+        else:
+            all_noun_chunks = []
+            # Step 1: saving all noun chinks
+            for chunk in span.noun_chunks:
+                all_noun_chunks.append(chunk)
+            # Step 2: Selecting the most important noun chunk
+            score = []
+            for chunk in all_noun_chunks:
+                features = []
+                f1 = 0
+                f2 = 0
+                f3 = 0
+                for token in chunk:
+                    if token.text.strip().lower() in word_count:
+                        f1 += word_count[token.text.strip().lower()]
+                    if token.lemma_.strip().lower() in topic_words:
+                        f2 = 1
+                    f3 += token_dep_height([token]) - 1
+                if f1 > 0:
+                    f1 = 1/(f1)
+                features.append(f1)
+                features.append(f2)
+                if f3 > 0:
+                    f3 = 1/f3
+                features.append(f3)
+                score.append(np.dot(weights, features))
+                details.append(features)
+                # with open('data/results/chunk_selection.txt', "a") as f:
+                #     f.write(str(np.dot(weights, features)) + ' ' + str(features) + ' ' + str(chunk) + '\n')
 
-        # At this moment we choose max score chunk only, even though we can choose couple chunks with score > 100
-        best_noun_ch = [(y,x,z) for y, x, z in sorted(zip(score,all_noun_chunks,details), reverse=True)]
-        print(span)
-        print(span.root)
-        print(topic_words)
-        print(best_noun_ch)
-        exit()
-        gap_chunk_index = np.argmax(score)
-        chunk_span_dict[best_noun_ch[0]] = [span]
+            # At this moment we choose max score chunk only, even though we can choose couple chunks with score > 100
+            best_noun_ch = [x for _, x in sorted(zip(score, all_noun_chunks), reverse=True)][:1]
+            # print(span)
+            # print([(i,word_count[i]) for i in set([str(i.lemma_).lower() for i in span if str(i.lemma_).lower() in topic_words])])
+            # for c in best_noun_ch:
+            #     print('Score:', c[0], 'Chunk:', c[1], 'Feature:', c[2])
+            chunk_span_dict[best_noun_ch[0]] = [span]
+            # chunk_span_dict=0
     return chunk_span_dict
 
 
-def rawtext2question(path_to_segmented_book, video_lecture_words, already_sel):
+def rawtext2question(book_text, video_lecture_words, already_sel, word_dict):
     """
     Main function what generates gap-fill questions from text book
+    :param word_dict:
+    :param already_sel:
     :param video_lecture_words:
-    :param path_to_segmented_book: self explanatory
+    :param book_text: text from 3 segments of the book
     :return: at this moment nothing. Prints to stdout questions with multiple answers
     """
-    # reading file containing book by segments
-    with open(path_to_segmented_book, 'r') as f:
-        segmented_text = f.readlines()
-    text_tiling_dict = {}
-    book_seg_number = None
-    # each segment of the book separated by custom line. in my case _TT# of the line
-    #TODO: topic extraction
-    # below I convert it to the dictionary key - custom line, value - actual text of the segment
-    # In the future instead of custom line develop Topic extraction algorithm
-    for line in segmented_text:
-        if '_TT' in line:  # new topic starts
-            book_seg_number = line.strip().replace('_TT', '')
-            text_tiling_dict[int(book_seg_number)] = ''
-        elif line.strip():  # keep adding lines to the previous topic
-            text_tiling_dict[int(book_seg_number)] += line
-    seg_number_list = []
-    seg_score_list = []
-    # each segment of the book comparing with words from video
-    # recording number of common words in both segments
-    # to speed up process I need only lemmas of the word, so i disable other parts of pipeline
-    nlp_local = spacy.load('en', disable=['parser', 'tagger', 'ner'])
-    for seg, text in text_tiling_dict.items():
-        doc_book = nlp_local(text)
-        book_words = set()
-        for token in doc_book:
-            book_words.add(token.lemma_)
-        score = len(book_words.intersection(video_lecture_words))
-        if score != 0:
-            seg_score_list.append(score)
-            seg_number_list.append(seg)
-    # at this moment we will choose 3 max score, can adapt it later
-    scores = [(x, y) for y, x in sorted(zip(seg_score_list, seg_number_list), reverse=True)]
-    max_score_seg = [scores[0][0], scores[1][0], scores[2][0]]
-    book_text = text_tiling_dict[max_score_seg[0]] + text_tiling_dict[max_score_seg[1]] + \
-                text_tiling_dict[max_score_seg[2]]
-    data, word_dict = book_pre_processing(book_text)
+    data = book_pre_processing(book_text)
     selected_sent, topic_words, already_sel = sentence_selection(data, video_lecture_words, already_sel)
     questions = questions_formation(selected_sent, word_dict, topic_words)
-    # for key_chunk, value in questions.items():
-    #     for q in value:
-    #         distractor_list = distractor_selection(q, data, key_chunk)
-    #         distractor_list.append(str(key_chunk))
-    #         shuffle(distractor_list)
-    #         # Printing question and multiple answers to this question:
-    #         gap_question = str(q).replace(str(key_chunk), '______________')
-    #         print('Question: ', gap_question)
-    #         print('a) ', str(distractor_list[0]).lower())
-    #         print('b) ', str(distractor_list[1]).lower())
-    #         print('c) ', str(distractor_list[2]).lower())
-    #         print('d) ', str(distractor_list[3]).lower())
-    #         print('Answer: ', key_chunk)
-    #         print('\n')
+    for key_chunk, value in questions.items():
+        for q in value:
+            distractor_list = distractor_selection(q, data, key_chunk)
+            distractor_list.append(str(key_chunk))
+            shuffle(distractor_list)
+            # Printing question and multiple answers to this question:
+            gap_question = str(q).replace(str(key_chunk), '______________')
+            print('Question: ', gap_question)
+            print('a) ', str(distractor_list[0]).lower())
+            print('b) ', str(distractor_list[1]).lower())
+            print('c) ', str(distractor_list[2]).lower())
+            print('d) ', str(distractor_list[3]).lower())
+            print('Answer: ', key_chunk)
+            print('\n')
     return already_sel
 
 
