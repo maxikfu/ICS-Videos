@@ -16105,11 +16105,6 @@ Explain the stimulus-response motor pathway
 The somatic nervous system is traditionally considered a division within the peripheral nervous system. However, this
 misses an important point: somatic refers to a functional division, whereas peripheral refers to an anatomic division. The
 somatic nervous system is responsible for our conscious perception of the environment and for our voluntary responses
-
-
-
-
-
 to that perception by means of skeletal muscles. Peripheral sensory neurons receive input from environmental stimuli, but
 the neurons that produce motor responses originate in the central nervous system. The distinction between the structures
 (i.e., anatomy) of the peripheral and central nervous systems and functions (i.e., physiology) of the somatic and autonomic
@@ -16208,10 +16203,6 @@ simply as touch can be further subdivided into pressure, vibration, stretch, and
 type of mechanoreceptors that perceive these touch sensations. Other overlooked senses include temperature perception by
 thermoreceptors and pain perception by nociceptors.
 
-
-
-
-
 Within the realm of physiology, senses can be classified as either general or specific. A general sense is one that is
 distributed throughout the body and has receptor cells within the structures of other organs. Mechanoreceptors in the skin,
 muscles, or the walls of blood vessels are examples of this type. General senses often contribute to the sense of touch, as
@@ -16241,8 +16232,6 @@ ingested, and they release neurotransmitters based on the amount of the chemical
 gustatory cells can activate sensory neurons in the facial, glossopharyngeal, and vagus cranial nerves.
 
 
-
-
 Figure 14.3 The Tongue The tongue is covered with small bumps, called papillae, which contain taste buds that are
 sensitive to chemicals in ingested food or drink. Different types of papillae are found in different regions of the tongue.
 The taste buds contain specialized gustatory receptor cells that respond to chemical stimuli dissolved in the saliva.
@@ -16271,11 +16260,6 @@ activation within the gustatory cells, whereas other bitter molecules decrease G
 depends on which molecule is binding to the receptor.
 One major group of bitter-tasting molecules are alkaloids. Alkaloids are nitrogen-containing molecules that often have a
 basic pH. Alkaloids are commonly found in bitter-tasting plant products, such as coffee, hops (in beer), tannins (in wine),
-
-
-
-
-
 tea, and aspirin. By containing toxic alkaloids, the plant is less susceptible to microbe infection and less attractive to
 Therefore, the function of bitter taste may primarily be related to stimulating the gag reflex to avoid ingesting poisons.
 Because of this, many bitter foods that are normally ingested are often combined with a sweet component to make them
@@ -16287,9 +16271,7 @@ Therefore, the umami flavor is often perceived while eating protein-rich foods. 
 are often described as savory.
 Once the gustatory cells are activated by the taste molecules, they release neurotransmitters onto the dendrites of sensory
 neurons. These neurons are part of the facial and glossopharyngeal cranial nerves, as well as a component within the
-vagus nerve dedicated to the gag reflex. The facial nerve connects to taste buds in the anterior third of the tongue. The
-glossopharyngeal nerve connects to taste buds in the posterior two thirds of the tongue. The vagus nerve connects to taste
-buds in the extreme posterior of the tongue, verging on the pharynx, which are more sensitive to noxious stimuli such as
+vagus nerve dedicated to the gag reflex. The facial nerve connects to taste buds in the anterior third of the tongue.
 
 Watch this video (http://openstaxcollege.org/l/DanielleReed) to learn about Dr. Danielle Reed of the Monell
 Chemical Senses Center in Philadelphia, Pennsylvania, who became interested in science at an early age because of her
@@ -16319,9 +16301,6 @@ of food associated with one’s birthplace. Smell is the one sensory modality th
 connecting to the cerebral cortex. This intimate connection between the olfactory system and the cerebral cortex is one
 reason why smell can be a potent trigger of memories and emotion.
 
-
-
-
 The nasal epithelium, including the olfactory cells, can be harmed by airborne toxic chemicals. Therefore, the olfactory
 neurons are regularly replaced within the nasal epithelium, after which the axons of the new neurons must find their
 appropriate connections in the olfactory bulb. These new axons grow along the axons that are already in place in the cranial
@@ -16330,10 +16309,6 @@ Figure 14.4 The Olfactory System (a) The olfactory system begins in the peripher
 The olfactory receptor neurons are within the olfactory epithelium. (c) Axons of the olfactory receptor neurons project
 through the cribriform plate of the ethmoid bone and synapse with the neurons of the olfactory bulb (tissue source:
 simian). LM × 812. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)
-
-
-
-
 
 Blunt force trauma to the face, such as that common in many car accidents, can lead to the loss of the olfactory
 nerve, and subsequently, loss of the sense of smell. This condition is known as anosmia. When the frontal lobe of
@@ -16365,10 +16340,7 @@ across the tympanic membrane. The tube is normally closed but will pop open when
 
 Figure 14.5 Structures of the Ear The external ear contains the auricle, ear canal, and tympanic membrane. The
 middle ear contains the ossicles and is connected to the pharynx by the Eustachian tube. The inner ear contains the
-cochlea and vestibule, which are responsible for audition and equilibrium, respectively.
-
-
-
+cochlea and vestibule, which are responsible for audition and equilibrium, respectively.
 
 The inner ear is often described as a bony labyrinth, as it is composed of a series of canals embedded within the temporal
 bone. It has two separate regions, the cochlea and the vestibule, which are responsible for hearing and balance, respectively.
@@ -16399,9 +16371,6 @@ the region of the basilar membrane that is close to the base of the cochlea. Low
 basilar membrane that is near the tip of the cochlea.
 
 
-
-
-
 Figure 14.7 Cross Section of the Cochlea The three major spaces within the cochlea are highlighted. The scala
 tympani and scala vestibuli lie on either side of the cochlear duct. The organ of Corti, containing the mechanoreceptor
 hair cells, is adjacent to the scala tympani, where it sits atop the basilar membrane.
@@ -16420,10 +16389,7 @@ exists on the tethers, keeping the membrane potential of the hair cell slightly 
 
 Figure 14.8 Hair Cell The hair cell is a mechanoreceptor with an array of stereocilia emerging from its apical surface.
 The stereocilia are tethered together by proteins that open ion channels when the array is bent toward the tallest
-member of their array, and closed when the array is bent toward the shortest member of their array.
-
-
-
+member of their array, and closed when the array is bent toward the shortest member of their array.
 
 Figure 14.9 Cochlea and Organ of Corti LM × 412. (Micrograph provided by the Regents of University of Michigan
 
@@ -16443,9 +16409,6 @@ sensitive to a particular frequency, allow the cochlea to separate auditory stim
 visible light into its component colors.
 
 
-
-
-
 Figure 14.10 Frequency Coding in the Cochlea The standing sound wave generated in the cochlea by the
 movement of the oval window deflects the basilar membrane on the basis of the frequency of sound. Therefore, hair
 cells at the base of the cochlea are activated only by high frequencies, whereas those at the apex of the cochlea are
@@ -16455,10 +16418,7 @@ Watch this video (http://openstaxcollege.org/l/ear1) to learn more about how the
 waves into a neural signal by moving the “hairs,” or stereocilia, of the cochlear duct. Specific locations along the length
 of the duct encode specific frequencies, or pitches. The brain interprets the meaning of the sounds we hear as music,
 speech, noise, etc. Which ear structures are responsible for the amplification and transfer of sound from the external
-ear to the inner ear?
-
-
-
+ear to the inner ear?
 
 Watch this animation (http://openstaxcollege.org/l/ear2) to learn more about the inner ear and to see the cochlea
 unroll, with the base at the back of the image and the apex at the front. Specific wavelengths of sound cause specific
@@ -16487,11 +16447,6 @@ The semicircular canals are three ring-like extensions of the vestibule. One is 
 the other two are oriented in the vertical plane. The anterior and posterior vertical canals are oriented at approximately
 45 degrees relative to the sagittal plane (Figure 14.12). The base of each semicircular canal, where it meets with the
 vestibule, connects to an enlarged region known as the ampulla. The ampulla contains the hair cells that respond to
-
-
-
-
-
 rotational movement, such as turning the head while saying “no.” The stereocilia of these hair cells extend into the cupula,
 a membrane that attaches to the top of the ampulla. As the head rotates in a plane parallel to the semicircular canal, the
 fluid lags, deflecting the cupula in the direction opposite to the head movement. The semicircular canals contain several
@@ -16540,57 +16495,12 @@ transduce the stretch levels of tendons. Bulbous corpuscles are also present in 
 in the components of the skeletal system within the joint. The types of nerve endings, their locations, and the stimuli they
 transduce are presented in Table 14.1.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Light touch, vibrations below 50
-
-
-
-
-
-
-
-
-Wrapped around hair follicles in
-
-
-
-In line with skeletal muscle
-
-
-
-
-
-
-Table 14.1 *No corresponding eponymous name.
-
 Vision is the special sense of sight that is based on the transduction of light stimuli received through the eyes. The eyes are
 located within either orbit in the skull. The bony orbits surround the eyeballs, protecting them and anchoring the soft tissues
 of the eye (Figure 14.13). The eyelids, with lashes at their leading edges, help to protect the eye from abrasions by blocking
 particles that may land on the surface of the eye. The inner surface of each lid is a thin membrane known as the palpebral
 conjunctiva. The conjunctiva extends over the white areas of the eye (the sclera), connecting the eyelids to the eyeball.
-Tears are produced by the lacrimal gland, located beneath the lateral edges of the nose. Tears produced by this gland flow
-through the lacrimal duct to the medial corner of the eye, where the tears flow over the conjunctiva, washing away foreign
-
-
-
-
-
-Figure 14.13 The Eye in the Orbit The eye is located within the orbit and surrounded by soft tissues that protect and
-support its function. The orbit is surrounded by cranial bones of the skull.
+Tears are produced by the lacrimal gland, located beneath the lateral edges of the nose.
 
 Movement of the eye within the orbit is accomplished by the contraction of six extraocular muscles that originate from the
 bones of the orbit and insert into the surface of the eyeball (Figure 14.14). Four of the muscles are arranged at the cardinal
@@ -16616,10 +16526,6 @@ Figure 14.14 Extraocular Muscles The extraocular muscles move the eye within the
 
 The eye itself is a hollow sphere composed of three layers of tissue. The outermost layer is the fibrous tunic, which includes
 the white sclera and clear cornea. The sclera accounts for five sixths of the surface of the eye, most of which is not visible,
-
-
-
-
 though humans are unique compared with many other species in having so much of the “white of the eye” visible (Figure
 14.15). The transparent cornea covers the anterior tip of the eye and allows light to enter the eye. The middle layer of the
 eye is the vascular tunic, which is mostly composed of the choroid, ciliary body, and iris. The choroid is a layer of highly
@@ -16659,11 +16565,6 @@ between the fovea and peripheral retina is easily evidenced by looking directly 
 The visual stimulus in the middle of the field of view falls on the fovea and is in the sharpest focus. Without moving your
 eyes off that word, notice that words at the beginning or end of the paragraph are not in focus. The images in your peripheral
 vision are focused by the peripheral retina, and have vague, blurry edges and words that are not as clearly identified. As a
-
-
-
-
-
 result, a large part of the neural function of the eyes is concerned with moving the eyes and head so that important visual
 stimuli are centered on the fovea.
 Light falling on the retina causes chemical changes to pigment molecules in the photoreceptors, ultimately leading to a
@@ -16673,14 +16574,7 @@ specialized region in which photoreception takes place. There are two types of p
 differ in the shape of their outer segment. The rod-shaped outer segments of the rod photoreceptor contain a stack
 of membrane-bound discs that contain the photosensitive pigment rhodopsin. The cone-shaped outer segments of the
 cone photoreceptor contain their photosensitive pigments in infoldings of the cell membrane. There are three cone
-photopigments, called opsins, which are each sensitive to a particular wavelength of light. The wavelength of visible light
-determines its color. The pigments in human eyes are specialized in perceiving three different primary colors: red, green,
-
-
-
-
-Figure 14.16 Photoreceptor (a) All photoreceptors have inner segments containing the nucleus and other important
-organelles and outer segments with membrane arrays containing the photosensitive opsin molecules. Rod outer
+photopigments, called opsins, which are each sensitive to a particular wavelength of light.  Rod outer
 segments are long columnar shapes with stacks of membrane-bound discs that contain the rhodopsin pigment. Cone
 outer segments are short, tapered shapes with folds of membrane in place of the discs in the rods. (b) Tissue of
 the retina shows a dense layer of nuclei of the rods and cones. LM × 800. (Micrograph provided by the Regents of
@@ -16695,11 +16589,6 @@ wavelengths shorter than 380 nm fall into the ultraviolet range. Light with a wa
 with a wavelength of 720 nm is dark red. All other colors fall between red and blue at various points along the wavelength
 Opsin pigments are actually transmembrane proteins that contain a cofactor known as retinal. Retinal is a hydrocarbon
 molecule related to vitamin A. When a photon hits retinal, the long hydrocarbon chain of the molecule is biochemically
-
-
-
-
-
 altered. Specifically, photons cause some of the double-bonded carbons within the chain to switch from a cis to a trans
 conformation. This process is called photoisomerization. Before interacting with a photon, retinal’s flexible double-bonded
 carbons are in the cis conformation. This molecule is referred to as 11-cis-retinal. A photon interacting with the molecule
@@ -16756,11 +16645,6 @@ Generally, spinal nerves contain afferent axons from sensory receptors in the pe
 efferent axons travelling to the muscles or other effector organs. As the spinal nerve nears the spinal cord, it splits into
 dorsal and ventral roots. The dorsal root contains only the axons of sensory neurons, whereas the ventral roots contain only
 the axons of the motor neurons. Some of the branches will synapse with local neurons in the dorsal root ganglion, posterior
-
-
-
-
-
 (dorsal) horn, or even the anterior (ventral) horn, at the level of the spinal cord where they enter. Other branches will travel
 a short distance up or down the spine to interact with neurons at other levels of the spinal cord. A branch may also turn into
 the posterior (dorsal) column of the white matter to connect with the brain. For the sake of convenience, we will use the
@@ -16810,10 +16694,6 @@ respective pathway. The nucleus gracilis is the target of fibers in the fascicul
 the target of fibers in the fasciculus cuneatus. The second neuron in the system projects from one of the two nuclei and
 then decussates, or crosses the midline of the medulla. These axons then continue to ascend the brain stem as a bundle
 called the medial lemniscus. These axons terminate in the thalamus, where each synapses with the third neuron in their
-
-
-
-
 respective pathway. The third neuron in the system projects its axons to the postcentral gyrus of the cerebral cortex, where
 somatosensory stimuli are initially processed and the conscious perception of the stimulus occurs.
 The spinothalamic tract also begins with neurons in a dorsal root ganglion. These neurons extend their axons to the dorsal
@@ -16839,11 +16719,6 @@ previously discussed nerve tracts, the sensory pathways of the trigeminal pathwa
 First, axons from the trigeminal ganglion enter the brain stem at the level of the pons. These axons project to one of
 three locations. The spinal trigeminal nucleus of the medulla receives information similar to that carried by spinothalamic
 tract, such as pain and temperature sensations. Other axons go to either the chief sensory nucleus in the pons or the
-
-
-
-
-
 mesencephalic nuclei in the midbrain. These nuclei receive information like that carried by the dorsal column system, such
 as touch, pressure, vibration, and proprioception. Axons from the second neuron decussate and ascend to the thalamus along
 the trigeminothalamic tract. In the thalamus, each axon synapses with the third neuron in its respective pathway. Axons
@@ -16865,12 +16740,6 @@ in the left ear than in the right ear because some of the sound waves reaching t
 is an example of an interaural intensity difference.
 
 
-
-
-Figure 14.20 Auditory Brain Stem Mechanisms of Sound Localization Localizing sound in the horizontal plane is
-achieved by processing in the medullary nuclei of the auditory system. Connections between neurons on either side
-are able to compare very slight differences in sound stimuli that arrive at either ear and represent interaural time and
-
 Auditory processing continues on to a nucleus in the midbrain called the inferior colliculus. Axons from the inferior
 colliculus project to two locations, the thalamus and the superior colliculus. The medial geniculate nucleus of the
 thalamus receives the auditory information and then projects that information to the auditory cortex in the temporal lobe of
@@ -16879,11 +16748,6 @@ to initiate stimulation of the muscles that turn the head and neck toward the au
 Balance is coordinated through the vestibular system, the nerves of which are composed of axons from the vestibular
 ganglion that carries information from the utricle, saccule, and semicircular canals. The system contributes to controlling
 head and neck movements in response to vestibular signals. An important function of the vestibular system is coordinating
-
-
-
-
-
 eye and head movements to maintain visual attention. Most of the axons terminate in the vestibular nuclei of the medulla.
 Some axons project from the vestibular ganglion directly to the cerebellum, with no intervening synapse in the vestibular
 nuclei. The cerebellum is primarily responsible for initiating movements on the basis of equilibrium information.
@@ -16907,10 +16771,7 @@ eye, the axons projecting from the medial side of the retina decussate at the op
 medial retina of the left eye cross over to the right side of the brain at the optic chiasm. However, within each eye, the axons
 projecting from the lateral side of the retina do not decussate. For example, the axons from the lateral retina of the right eye
 project back to the right side of the brain. Therefore the left field of view of each eye is processed on the right side of the
-brain, whereas the right field of view of each eye is processed on the left side of the brain (Figure 14.22).
-
-
-
+brain, whereas the right field of view of each eye is processed on the left side of the brain (Figure 14.22).
 
 Figure 14.22 Segregation of Visual Field Information at the Optic Chiasm Contralateral visual field information
 from the lateral retina projects to the ipsilateral brain, whereas ipsilateral visual field information has to decussate at
@@ -16943,11 +16804,6 @@ system, which controls emotions and memory functions.
 Sensory input to the thalamus comes from most of the special senses and ascending somatosensory tracts. Each sensory
 system is relayed through a particular nucleus in the thalamus. The thalamus is a required transfer point for most sensory
 tracts that reach the cerebral cortex, where conscious sensory perception begins. The one exception to this rule is the
-
-
-
-
-
 olfactory system. The olfactory tract axons from the olfactory bulb project directly to the cerebral cortex, along with the
 The thalamus is a collection of several nuclei that can be categorized into three anatomical groups. White matter running
 through the thalamus defines the three major regions of the thalamus, which are an anterior nucleus, a medial nucleus, and
@@ -16998,11 +16854,6 @@ In an experiment performed in the 1960s, subjects wore prism glasses so that the
 the eye. On the first day of the experiment, subjects would duck when walking up to a table, thinking it was suspended
 from the ceiling. However, after a few days of acclimation, the subjects behaved as if everything were represented correctly.
 Therefore, the visual cortex is somewhat flexible in adapting to the information it receives from our eyes (Figure 14.24).
-
-
-
-
-
 Figure 14.24 Topographic Mapping of the Retina onto the Visual Cortex The visual field projects onto the retina
 through the lenses and falls on the retinae as an inverted, reversed image. The topography of this image is maintained
 as the visual information travels through the visual pathway to the cortex.
@@ -17016,10 +16867,7 @@ finally, into a multimodal integration area. For example, the visual pathway pro
 to the primary visual cortex in the occipital lobe. This area is primarily in the medial wall within the longitudinal fissure.
 Here, visual stimuli begin to be recognized as basic shapes. Edges of objects are recognized and built into more complex
 shapes. Also, inputs from both eyes are compared to extract depth information. Because of the overlapping field of view
-between the two eyes, the brain can begin to estimate the distance of stimuli based on binocular depth cues.
-
-
-
+between the two eyes, the brain can begin to estimate the distance of stimuli based on binocular depth cues.
 
 Watch this video (http://openstaxcollege.org/l/l_3-D1) to learn more about how the brain perceives 3-D motion.
 Similar to how retinal disparity offers 3-D moviegoers a way to extract 3-D information from the two-dimensional
@@ -17027,9 +16875,6 @@ visual field projected onto the retina, the brain can extract information about 
 the two eyes see. If movement of a visual stimulus is leftward in one eye and rightward in the opposite eye, the brain
 interprets this as movement toward (or away) from the face along the midline. If both eyes see an object moving in the
 same direction, but at different rates, what would that mean for spatial movement?
-
-
-
 
 
 Depth Perception, 3-D Movies, and Optical Illusions
@@ -17053,15 +16898,7 @@ two-dimensional information. This is the basis of 3-D movies. The projected imag
 but it has disparate information embedded in it. The 3-D glasses that are available at the theater filter the information
 so that only one eye sees one version of what is on the screen, and the other eye sees the other version. If you take
 the glasses off, the image on the screen will have varying amounts of blur because both eyes are seeing both layers
-of information, and the third dimension will not be evident. Some optical illusions can take advantage of depth cues
-as well, though those are more often using monocular cues to fool the brain into seeing different parts of the scene as
-
-
-
-
-Figure 14.25 Retinal Disparity Because of the interocular distance, which results in objects of different distances
-falling on different spots of the two retinae, the brain can extract depth perception from the two-dimensional
-information of the visual field.
+of information, and the third dimension will not be evident.
 
 There are two main regions that surround the primary cortex that are usually referred to as areas V2 and V3 (the primary
 visual cortex is area V1). These surrounding areas are the visual association cortex. The visual association regions develop
@@ -17073,9 +16910,6 @@ begins to interact with the non-visual cortex and may be important in visual sti
 stream locates objects in space and helps in guiding movements of the body in response to visual inputs. The dorsal stream
 enters the parietal lobe, where it interacts with somatosensory cortical areas that are important for our perception of the
 body and its movements. The dorsal stream can then influence frontal lobe activity where motor functions originate.
-
-
-
 
 
 Figure 14.26 Ventral and Dorsal Visual Streams From the primary visual cortex in the occipital lobe, visual
@@ -17096,10 +16930,7 @@ Though this can be a devastating condition, people who suffer from it can get by
 recognize the people they see. Often, the sound of a person’s voice, or the presence of unique cues such as distinct
 facial features (a mole, for example) or hair color can help the sufferer recognize a familiar person. In the video on
 prosopagnosia provided in this section, a woman is shown having trouble recognizing celebrities, family members, and
-herself. In some situations, she can use other cues to help her recognize faces.
-
-
-
+herself. In some situations, she can use other cues to help her recognize faces.
 
 The inability to recognize people by their faces is a troublesome problem. It can be caused by trauma, or it may be
 inborn. Watch this video (http://openstaxcollege.org/l/faces) to learn more about a person who lost the ability to
@@ -17138,11 +16969,6 @@ Friends described him as no longer acting like himself. Whereas he was a hardwor
 he turned into an irritable, temperamental, and lazy man after the accident. Many of the accounts of his change may have
 been inflated in the retelling, and some behavior was likely attributable to alcohol used as a pain medication. However, the
 accounts suggest that some aspects of his personality did change. Also, there is new evidence that though his life changed
-
-
-
-
-
 dramatically, he was able to become a functioning stagecoach driver, suggesting that the brain has the ability to recover
 even from major trauma such as this.
 
@@ -17167,10 +16993,6 @@ Adjacent to these two regions are two specialized motor planning centers. The fr
 the eyes in response to visual stimuli. There are direct connections between the frontal eye fields and the superior colliculus.
 Also, anterior to the premotor cortex and primary motor cortex is Broca’s area. This area is responsible for controlling
 movements of the structures of speech production. The area is named after a French surgeon and anatomist who studied
-
-
-
-
 patients who could not produce speech. They did not have impairments to understanding speech, only to producing speech
 sounds, suggesting a damaged or underdeveloped Broca’s area.
 
@@ -17203,13 +17025,7 @@ on the opposite side of the body. Therefore, the right motor cortex of the cereb
 The corticospinal tract descends from the cortex through the deep white matter of the cerebrum. It then passes between
 the caudate nucleus and putamen of the basal nuclei as a bundle called the internal capsule. The tract then passes through
 the midbrain as the cerebral peduncles, after which it burrows through the pons. Upon entering the medulla, the tracts
-make up the large white matter tract referred to as the pyramids (Figure 14.28). The defining landmark of the medullaryspinal border is the pyramidal decussation, which is where most of the fibers in the corticospinal tract cross over to the
-opposite side of the brain. At this point, the tract separates into two parts, which have control over different domains of the
-
-
-
-
-
+make up the large white matter tract referred to as the pyramids (Figure 14.28).
 Figure 14.28 Corticospinal Tract The major descending tract that controls skeletal muscle movements is the
 corticospinal tract. It is composed of two neurons, the upper motor neuron and the lower motor neuron. The upper
 motor neuron has its cell body in the primary motor cortex of the frontal lobe and synapses on the lower motor neuron,
@@ -17221,10 +17037,6 @@ cord. These axons are responsible for controlling appendicular muscles.
 This influence over the appendicular muscles means that the lateral corticospinal tract is responsible for moving the muscles
 of the arms and legs. The ventral horn in both the lower cervical spinal cord and the lumbar spinal cord both have wider
 ventral horns, representing the greater number of muscles controlled by these motor neurons. The cervical enlargement is
-
-
-
-
 particularly large because there is greater control over the fine musculature of the upper limbs, particularly of the fingers.
 The lumbar enlargement is not as significant in appearance because there is less fine motor control of the lower limbs.
 
@@ -17267,11 +17079,6 @@ corticospinal fibers that project to the ventral horn of the spinal cord have br
 project to the cerebellum. Also, the proprioceptive sensations of the dorsal column system have a collateral projection to the
 medulla that projects to the cerebellum. These two streams of information are compared in the cerebellar cortex. Conflicts
 between the motor commands sent by the cerebrum and body position information provided by the proprioceptors cause the
-
-
-
-
-
 cerebellum to stimulate the red nucleus of the midbrain. The red nucleus then sends corrective commands to the spinal cord
 along the rubrospinal tract. The name of this tract comes from the word for red that is seen in the English word “ruby.”
 A good example of how the cerebellum corrects cerebral motor commands can be illustrated by walking in water. An
@@ -17351,18 +17158,11 @@ Watch this video (http://openstaxcollege.org/l/reflexarc) to learn more about th
 When the right cornea senses a tactile stimulus, what happens to the left eye? Explain your answer.
 
 
-
-
-
 Watch this video (http://openstaxcollege.org/l/newreflex) to learn more about newborn reflexes. Newborns have a
 set of reflexes that are expected to have been crucial to survival before the modern age. These reflexes disappear as
 the baby grows, as some of them may be unnecessary as they age. The video demonstrates a reflex called the Babinski
 reflex, in which the foot flexes dorsally and the toes splay out when the sole of the foot is lightly scratched. This is
 normal for newborns, but it is a sign of reduced myelination of the spinal tract in adults. Why would this reflex be a
-
-
-
-
 alkaloid substance, usually from a plant source, that is chemically basic with respect to pH and will stimulate bitter
 amacrine cell type of cell in the retina that connects to the bipolar cells near the outer synaptic layer and provides the
 basis for early image processing within the retina
@@ -17395,11 +17195,6 @@ circadian rhythm internal perception of the daily cycle of light and dark based 
 cochlea auditory portion of the inner ear containing structures to transduce sound stimuli
 cochlear duct space within the auditory portion of the inner ear that contains the organ of Corti and is adjacent to the
 scala tympani and scala vestibuli on either side
-
-
-
-
-
 cone photoreceptor one of the two types of retinal receptor cell that is specialized for color vision through the use of
 three photopigments distributed through three separate populations of cells
 contralateral word meaning “on the opposite side,” as in axons that cross the midline in a fiber tract
@@ -17473,11 +17268,6 @@ malleus (also, hammer) ossicle that is directly attached to the tympanic membran
 mechanoreceptor receptor cell that transduces mechanical stimuli into an electrochemical signal
 medial geniculate nucleus thalamic target of the auditory brain stem that projects to the auditory cortex
 medial lemniscus fiber tract of the dorsal column system that extends from the nuclei gracilis and cuneatus to the
-
-
-
-
-
 medial rectus extraocular muscle responsible for adduction of the eye
 mesencephalic nucleus component of the trigeminal nuclei that is found in the midbrain
 middle ear space within the temporal bone between the ear canal and bony labyrinth where the ossicles amplify sound
@@ -17550,11 +17340,6 @@ correspondence between neurons processing stimuli and sensitivity
 sensory modality a particular system for interpreting and perceiving environmental stimuli by the nervous system
 solitary nucleus medullar nucleus that receives taste information from the facial and glossopharyngeal nerves
 somatosensation general sense associated with modalities lumped together as touch
-
-
-
-
-
 special sense any sensory system associated with a specific organ structure, namely smell, taste, sight, hearing, and
 spinal trigeminal nucleus component of the trigeminal nuclei that is found in the medulla
 spinothalamic tract ascending tract of the spinal cord associated with pain and temperature sensations
@@ -17585,10 +17370,6 @@ ventral stream connections between cortical areas from the occipital lobe to the
 vestibular ganglion location of neuronal cell bodies that transmit equilibrium information along the eighth cranial
 vestibular nuclei targets of the vestibular component of the eighth cranial nerve
 vestibule in the ear, the portion of the inner ear responsible for the sense of equilibrium
-
-
-
-
 vestibulo-ocular reflex (VOR) reflex based on connections between the vestibular system and the cranial nerves of
 eye movements that ensures images are stabilized on the retina as the head and body move
 vestibulospinal tract extrapyramidal connections between the vestibular nuclei in the brain stem and spinal cord that
@@ -17636,9 +17417,6 @@ relayed to the brain and where the tracts decussate. The dorsal column system pr
 and proprioception and crosses the midline in the medulla. The spinothalamic tract is primarily responsible for pain and
 temperature sensation and crosses the midline in the spinal cord at the level at which it enters. The trigeminal nerve adds
 similar sensation information from the head to these pathways.
-
-
-
 
 
 The auditory pathway passes through multiple nuclei in the brain stem in which additional information is extracted from
@@ -17692,11 +17470,6 @@ deal with in the modern world, it represents the type of environment in which th
 spread of humans around the world to the present state of the modern age occurred much more quickly than any species
 would adapt to environmental pressures such as predators. However, the reactions modern humans have in the modern
 world are based on these prehistoric situations. If your boss is walking down the hallway on Friday afternoon looking for
-
-
-
-
-
 “volunteers” to come in on the weekend, your response is the same as the prehistoric human seeing the lioness running
 across the savannah: fight or flight.
 Most likely, your response to your boss—not to mention the lioness—would be flight. Run away! The autonomic system is
@@ -17731,10 +17504,7 @@ The two divisions of the autonomic nervous system are the sympathetic division a
 sympathetic system is associated with the fight-or-flight response, and parasympathetic activity is referred to by the epithet
 of rest and digest. Homeostasis is the balance between the two systems. At each target effector, dual innervation determines
 activity. For example, the heart receives connections from both the sympathetic and parasympathetic divisions. One causes
-heart rate to increase, whereas the other causes heart rate to decrease.
-
-
-
+heart rate to increase, whereas the other causes heart rate to decrease.
 
 Watch this video (http://openstaxcollege.org/l/fightflight) to learn more about adrenaline and the fight-or-flight
 response. When someone is said to have a rush of adrenaline, the image of bungee jumpers or skydivers usually comes
@@ -17763,9 +17533,6 @@ sacral region. The cervical and sacral levels are not connected to the spinal co
 ascending or descending connections through the bridges within the chain.
 A diagram that shows the connections of the sympathetic system is somewhat like a circuit diagram that shows the
 electrical connections between different receptacles and devices. In Figure 15.2, the “circuits” of the sympathetic system
-
-
-
 
 
 Figure 15.2 Connections of Sympathetic Division of the Autonomic Nervous System Neurons from the lateral
@@ -17801,9 +17568,6 @@ superior mesenteric ganglion, and the inferior mesenteric ganglion (see Figure 1
 the Latin word “coelom,” which refers to a body cavity (in this case, the abdominal cavity), and the word mesenteric refers
 
 
-
-
-
 Figure 15.3 Sympathetic Connections and Chain Ganglia The axon from a central sympathetic neuron in the
 spinal cord can project to the periphery in a number of different ways. (a) The fiber can project out to the ganglion at
 the same level and synapse on a ganglionic neuron. (b) A branch can project to more superior or inferior ganglion in
@@ -17822,10 +17586,6 @@ One type of preganglionic sympathetic fiber does not terminate in a ganglion. Th
 neurons that project to the adrenal medulla, the interior portion of the adrenal gland. These axons are still referred to as
 preganglionic fibers, but the target is not a ganglion. The adrenal medulla releases signaling molecules into the bloodstream,
 rather than using axons to communicate with target structures. The cells in the adrenal medulla that are contacted by the
-
-
-
-
 preganglionic fibers are called chromaffin cells. These cells are neurosecretory cells that develop from the neural crest
 along with the sympathetic ganglia, reinforcing the idea that the gland is, functionally, a sympathetic ganglion.
 The projections of the sympathetic division of the autonomic nervous system diverge widely, resulting in a broad influence
@@ -17868,9 +17628,6 @@ Parasympathetic preganglionic fibers primarily influence the heart, bronchi, and
 stomach, liver, pancreas, gall bladder, and small intestine of the abdominal cavity. The postganglionic fibers from the
 ganglia activated by the vagus nerve are often incorporated into the structure of the organ, such as the mesenteric plexus
 of the digestive tract organs and the intramural ganglia.
-
-
-
 
 
 Figure 15.4 Connections of Parasympathetic Division of the Autonomic Nervous System Neurons from brainstem nuclei, or from the lateral horn of the sacral spinal cord, project to terminal ganglia near or within the various
@@ -17917,15 +17674,9 @@ targets of these preganglionic fibers—have nicotinic receptors in their cell m
 fibers also release ACh, but the receptors on their targets are muscarinic receptors, which are G protein–coupled receptors
 and do not exclusively cause depolarization of the postsynaptic membrane. Postganglionic sympathetic fibers release
 norepinephrine, except for fibers that project to sweat glands and to blood vessels associated with skeletal muscles, which
-
-
-
 Norepinephrine → α- or β-adrenergic receptors
 Postganglionic Acetylcholine → muscarinic receptor (associated with sweat glands
 and the blood vessels associated with skeletal muscles only
-
-
-
 Signaling molecules can belong to two broad groups. Neurotransmitters are released at synapses, whereas hormones are
 released into the bloodstream. These are simplistic definitions, but they can help to clarify this point. Acetylcholine can
 be considered a neurotransmitter because it is released by axons at synapses. The adrenergic system, however, presents a
@@ -17934,11 +17685,6 @@ adrenal medulla releases epinephrine and norepinephrine into circulation, so the
 What are referred to here as synapses may not fit the strictest definition of synapse. Some sources will refer to the
 connection between a postganglionic fiber and a target effector as neuroeffector junctions; neurotransmitters, as defined
 above, would be called neuromodulators. The structure of postganglionic connections are not the typical synaptic end bulb
-
-
-
-
-
 that is found at the neuromuscular junction, but rather are chains of swellings along the length of a postganglionic fiber
 called a varicosity (Figure 15.5).
 
@@ -17960,10 +17706,7 @@ paralysis in the face of a threat?
 The common epithet of “fight or flight” is being enlarged to be “fight, flight, or fright” or even “fight, flight, fright,
 or freeze.” Cannon’s original contribution was a catchy phrase to express some of what the nervous system does in
 response to a threat, but it is incomplete. The sympathetic system is responsible for the physiological responses to
-emotional states. The name “sympathetic” can be said to mean that (sym- = “together”; -pathos = “pain,” “suffering,”
-
-
-
+emotional states. The name “sympathetic” can be said to mean that (sym- = “together”; -pathos = “pain,” “suffering,”
 
 Watch this video (http://openstaxcollege.org/l/nervsystem1) to learn more about the nervous system. As described
 in this video, the nervous system has a way to deal with threats and stress that is separate from the conscious control of
@@ -17994,9 +17737,6 @@ the afferent branch, is often the same between the two systems. Sensory neurons 
 cell bodies in the sensory ganglia, either of a cranial nerve or a dorsal root ganglion adjacent to the spinal cord—project into
 the CNS to initiate the reflex (Figure 15.6). The Latin root “effere” means “to carry.” Adding the prefix “ef-” suggests the
 meaning “to carry away,” whereas adding the prefix “af-” suggests “to carry toward or inward.”
-
-
-
 
 
 Figure 15.6 Comparison of Somatic and Visceral Reflexes The afferent inputs to somatic and visceral reflexes
@@ -18039,9 +17779,6 @@ as shown in this chart. Some sensations are felt locally, whereas others are per
 distant from the involved organ.
 
 
-
-
-
 Kehr’s sign is the presentation of pain in the left shoulder, chest, and neck regions following rupture of the spleen. The
 spleen is in the upper-left abdominopelvic quadrant, but the pain is more in the shoulder and neck. How can this be?
 The sympathetic fibers connected to the spleen are from the celiac ganglion, which would be from the mid-thoracic to
@@ -18071,10 +17808,7 @@ Somatic reflexes involve sensory neurons that connect sensory receptors to the C
 to the skeletal muscles. Visceral reflexes that involve the thoracolumbar or craniosacral systems share similar connections.
 However, there are reflexes that do not need to involve any CNS components. A long reflex has afferent branches that enter
 the spinal cord or brain and involve the efferent branches, as previously explained. A short reflex is completely peripheral
-and only involves the local integration of sensory input with motor output (Figure 15.8).
-
-
-
+and only involves the local integration of sensory input with motor output (Figure 15.8).
 
 Figure 15.8 Short and Long Reflexes Sensory input can stimulate either a short or a long reflex. A sensory neuron
 can project to the CNS or to an autonomic ganglion. The short reflex involves the direct stimulation of a postganglionic
@@ -18094,9 +17828,6 @@ directly activate the smooth muscle fibers of the stomach wall to increase motil
 stomach. No CNS involvement is needed because the stretch receptor is directly activating a neuron in the wall of the
 stomach that causes the smooth muscle to contract. That neuron, connected to the smooth muscle, is a postganglionic
 parasympathetic neuron that can be controlled by a fiber found in the vagus nerve.
-
-
-
 
 
 Read this article (http://openstaxcollege.org/l/strokespell) to learn about a teenager who experiences a series of
@@ -18137,10 +17868,7 @@ iris, where it releases norepinephrine onto the radial fibers of the iris (a smo
 pupil dilates—increasing the amount of light hitting the retina. If light levels are too high, the parasympathetic system sends
 a signal out from the Eddinger–Westphal nucleus through the oculomotor nerve. This fiber synapses in the ciliary ganglion
 in the posterior orbit. The postganglionic fiber then projects to the iris, where it releases ACh onto the circular fibers of the
-iris—another smooth muscle. When those fibers contract, the pupil constricts to limit the amount of light hitting the retina.
-
-
-
+iris—another smooth muscle. When those fibers contract, the pupil constricts to limit the amount of light hitting the retina.
 
 Figure 15.9 Autonomic Control of Pupillary Size Activation of the pupillary reflex comes from the amount of light
 activating the retinal ganglion cells, as sent along the optic nerve. The output of the sympathetic system projects
@@ -18155,9 +17883,6 @@ savannah, the sympathetic response for fight or flight will increase pupillary d
 more visual information is available for running away. Likewise, the parasympathetic response of rest reduces the amount
 of light reaching the retina, allowing the photoreceptors to cycle through bleaching and be regenerated for further visual
 perception; this is what the homeostatic process is attempting to maintain.
-
-
-
 
 
 Watch this video (http://openstaxcollege.org/l/pupillary) to learn about the pupillary reflexes. The pupillary light
@@ -18182,10 +17907,7 @@ skeletal muscle, particularly those in the lower limbs, are more likely to dilat
 pressure to alter the tone of the vessels, but rather allows for blood flow to increase for those skeletal muscles that will be
 active in the fight-or-flight response. The blood vessels that have a parasympathetic projection are limited to those in the
 erectile tissue of the reproductive organs. Acetylcholine released by these postganglionic parasympathetic fibers cause the
-vessels to dilate, leading to the engorgement of the erectile tissue.
-
-
-
+vessels to dilate, leading to the engorgement of the erectile tissue.
 
 Have you ever stood up quickly and felt dizzy for a moment? This is because, for one reason or another, blood is
 not getting to your brain so it is briefly deprived of oxygen. When you change position from sitting or lying down to
@@ -18231,9 +17953,6 @@ somatic reflexes. If you touch a hot radiator, you only pull that arm back, not 
 different than for somatic reflexes. The hypothalamus, along with other CNS locations, controls the autonomic system.
 
 
-
-
-
 Figure 15.10 Pupillary Reflex Pathways The pupil is under competing autonomic control in response to light levels
 hitting the retina. The sympathetic system will dilate the pupil when the retina is not receiving enough light, and the
 parasympathetic system will constrict the pupil when too much light hits the retina.
@@ -18250,11 +17969,7 @@ Another projection of the optic nerve, however, goes to the hypothalamus.
 The hypothalamus then uses this visual system input to drive the pupillary reflexes. If the retina is activated by high levels
 of light, the hypothalamus stimulates the parasympathetic response. If the optic nerve message shows that low levels of
 light are falling on the retina, the hypothalamus activates the sympathetic response. Output from the hypothalamus follows
-two main tracts, the dorsal longitudinal fasciculus and the medial forebrain bundle (Figure 15.11). Along these two
-tracts, the hypothalamus can influence the Eddinger–Westphal nucleus of the oculomotor complex or the lateral horns of
-
-
-
+two main tracts, the dorsal longitudinal fasciculus and the medial forebrain bundle (Figure 15.11).
 
 Figure 15.11 Fiber Tracts of the Central Autonomic System The hypothalamus is the source of most of the central
 control of autonomic function. It receives input from cerebral structures and projects to brain stem and spinal cord
@@ -18276,9 +17991,6 @@ medial forebrain bundle that will stimulate the sympathetic fight-or-flight resp
 the release of stress hormones through its control of the endocrine system in response to amygdala input.
 
 
-
-
-
 Figure 15.12 The Limbic Lobe Structures arranged around the edge of the cerebrum constitute the limbic lobe,
 which includes the amygdala, hippocampus, and cingulate gyrus, and connects to the hypothalamus.
 
@@ -18297,10 +18009,7 @@ of the vagus nerve, which is the motor nucleus for the parasympathetic functions
 decreasing the heart rate, relaxing bronchial tubes in the lungs, and activating digestive function through the enteric nervous
 system. The nucleus ambiguus, which is named for its ambiguous histology, also contributes to the parasympathetic output
 of the vagus nerve and targets muscles in the pharynx and larynx for swallowing and speech, as well as contributing to the
-parasympathetic tone of the heart along with the dorsal motor nucleus of the vagus.
-
-
-
+parasympathetic tone of the heart along with the dorsal motor nucleus of the vagus.
 
 Exercise and the Autonomic System
 In addition to its association with the fight-or-flight response and rest-and-digest functions, the autonomic system
@@ -18336,11 +18045,6 @@ primarily be based on how drugs act at the receptors of the autonomic system neu
 the nervous system interact with proteins in the cell membranes of various target cells. In fact, no effect can be attributed
 to just the signaling molecules themselves without considering the receptors. A chemical that the body produces to interact
 with those receptors is called an endogenous chemical, whereas a chemical introduced to the system from outside is an
-
-
-
-
-
 exogenous chemical. Exogenous chemicals may be of a natural origin, such as a plant extract, or they may be synthetically
 produced in a pharmaceutical laboratory.
 
@@ -18365,10 +18069,7 @@ sympathetic, which means blood pressure will be increased. Second, the autonomic
 skeletal or smooth muscles, cardiac muscle is intrinsically active, meaning that it generates its own action potentials. The
 autonomic system does not cause the heart to beat, it just speeds it up (sympathetic) or slows it down (parasympathetic).
 The mechanisms for this are not mutually exclusive, so the heart receives conflicting signals, and the rhythm of the heart
-can be affected (Figure 15.13).
-
-
-
+can be affected (Figure 15.13).
 
 Figure 15.13 Autonomic Connections to Heart and Blood Vessels The nicotinic receptor is found on all autonomic
 ganglia, but the cardiovascular connections are particular, and do not conform to the usual competitive projections
@@ -18397,11 +18098,6 @@ version of many over-the-counter drugs, such as Tylenol Sinus® or Excedrin Sinu
 such as in Robitussin CF®.
 A related molecule, called pseudoephedrine, was much more commonly used in these applications than was phenylephrine,
 until the molecule became useful in the illicit production of amphetamines. Phenylephrine is not as effective as a drug
-
-
-
-
-
 because it can be partially broken down in the digestive tract before it is ever absorbed. Like the adrenergic agents,
 phenylephrine is effective in dilating the pupil, known as mydriasis (Figure 15.14). Phenylephrine is used during an eye
 exam in an ophthalmologist’s or optometrist’s office for this purpose. It can also be used to increase blood pressure in
@@ -18460,47 +18156,6 @@ Figure 15.15 Belladonna Plant The plant from the genus Atropa, which is known as
 nightshade, was used cosmetically to dilate pupils, but can be fatal when ingested. The berries on the plant may seem
 attractive as a fruit, but they contain the same anticholinergic compounds as the rest of the plant.
 
-Sympathetic and Parasympathetic Effects of Different Drug Types
-
-
-
-
-
-and the release of ACh
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sympathetic and Parasympathetic Effects of Different Drug Types
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Approximately 33 percent of people experience a mild problem with motion sickness, whereas up to 66 percent
 experience motion sickness under extreme conditions, such as being on a tossing boat with no view of the horizon.
 Connections between regions in the brain stem and the autonomic system result in the symptoms of nausea, cold
@@ -18520,19 +18175,13 @@ patch. Scopolamine is one of the substances derived from the Atropa genus along 
 substances are thought to be poisonous and can lead to an extreme sympathetic syndrome. However, the transdermal
 patch regulates the release of the drug, and the concentration is kept very low so that the dangers are avoided. For
 those who are concerned about using “The Most Dangerous Drug,” as some websites will call it, antihistamines such
-as dimenhydrinate (Dramamine®) can be used.
-
-
-
+as dimenhydrinate (Dramamine®) can be used.
 
 Watch this video (http://openstaxcollege.org/l/3Dmovies) to learn about the side effects of 3-D movies. As discussed
 in this video, movies that are shot in 3-D can cause motion sickness, which elicits the autonomic symptoms of nausea
 and sweating. The disconnection between the perceived motion on the screen and the lack of any change in equilibrium
 stimulates these symptoms. Why do you think sitting close to the screen or right in the middle of the theater makes
 motion sickness during a 3-D movie worse?
-
-
-
 
 
 acetylcholine (ACh) neurotransmitter that binds at a motor end-plate to trigger depolarization
@@ -18612,11 +18261,6 @@ nucleus ambiguus brain-stem nucleus that contains neurons that project through t
 in the thoracic cavity; specifically associated with the heart
 parasympathetic division division of the autonomic nervous system responsible for restful and digestive functions
 parasympathomimetic drugs drugs that enhance or mimic the function of the parasympathetic system
-
-
-
-
-
 paravertebral ganglia autonomic ganglia superior to the sympathetic chain ganglia
 postganglionic fiber axon from a ganglionic neuron in the autonomic nervous system that projects to and synapses
 with the target effector; sometimes referred to as a postganglionic neuron
@@ -18713,11 +18357,6 @@ These higher centers have descending control of the autonomic system through bra
 such as the cardiovascular center. This collection of medullary nuclei regulates cardiac function, as well as blood pressure.
 Sensory input from the heart, aorta, and carotid sinuses project to these regions of the medulla. The solitary nucleus
 increases sympathetic tone of the cardiovascular system through the cardiac accelerator and vasomotor nerves. The nucleus
-
-
-
-
-
 ambiguus and the dorsal motor nucleus both contribute fibers to the vagus nerve, which exerts parasympathetic control of
 the heart by decreasing heart rate.
 
@@ -18757,11 +18396,6 @@ Diagram the connections of the nervous system to the musculature and integument 
 • Compare and contrast the somatic and visceral reflexes with respect to how they are assessed through the
 A man arrives at the hospital after feeling faint and complaining of a “pins-and-needles” feeling all along one side of his
 body. The most likely explanation is that he has suffered a stroke, which has caused a loss of oxygen to a particular part of
-
-
-
-
-
 the central nervous system (CNS). The problem is finding where in the entire nervous system the stroke has occurred. By
 checking reflexes, sensory responses, and motor control, a health care provider can focus on what abilities the patient may
 have lost as a result of the stroke and can use this information to determine where the injury occurred. In the emergency
@@ -18847,9 +18481,6 @@ the possibility of blood clots forming, in case the cause is an embolus—an obs
 flow of blood in an artery or vein.
 
 
-
-
-
 Watch this video (http://openstaxcollege.org/l/neuroexam) to see a demonstration of the neurological exam—a series
 of tests that can be performed rapidly when a patient is initially brought into an emergency department. The exam can
 be repeated on a regular basis to keep a record of how and if neurological function changes over time. In what order
@@ -18870,10 +18501,7 @@ A hemorrhagic stroke is bleeding into the brain because of a damaged blood vesse
 the cranial vault and presses against the tissue in the brain (Figure 16.3). Physical pressure on the brain can cause the loss of
 function, as well as the squeezing of local arteries resulting in compromised blood flow beyond the site of the hemorrhage.
 As blood pools in the nervous tissue and the vasculature is damaged, the blood-brain barrier can break down and allow
-additional fluid to accumulate in the region, which is known as edema.
-
-
-
+additional fluid to accumulate in the region, which is known as edema.
 
 Figure 16.3 Hemorrhagic Stroke (a) A hemorrhage into the tissue of the cerebrum results in a large accumulation of
 blood with an additional edema in the adjacent tissue. The hemorrhagic area causes the entire brain to be disfigured
@@ -18915,9 +18543,6 @@ functions. The various subtests within the mental status exam can address these 
 cause of the neurological loss.
 
 
-
-
-
 Watch this video (http://openstaxcollege.org/l/neuroexam2) for an introduction to the neurological exam. Studying
 the neurological exam can give insight into how structure and function in the nervous system are interdependent.
 This is a tool both in the clinic and in the classroom, but for different reasons. In the clinic, this is a powerful but
@@ -18955,11 +18580,7 @@ cytoarchitecture of the cerebrum around the turn of the nineteenth century, desc
 cortex that differed enough from each other to be considered separate areas (Figure 16.4). Brodmann made preparations
 of many different regions of the cerebral cortex to view with a microscope. He compared the size, shape, and number
 of neurons to find anatomical differences in the various parts of the cerebral cortex. Continued investigation into these
-anatomical areas over the subsequent 100 or more years has demonstrated a strong correlation between the structures and the
-
-
-
-
+anatomical areas over the subsequent 100 or more years has demonstrated a strong correlation between the structures and the
 functions attributed to those structures. For example, the first three areas in Brodmann’s list—which are in the postcentral
 gyrus—compose the primary somatosensory cortex. Within this area, finer separation can be made on the basis of the
 concept of the sensory homunculus, as well as the different submodalities of somatosensation such as touch, vibration, pain,
@@ -18981,9 +18602,6 @@ Areas 1, 2, 3, 4, 17, and 22 are each described as primary cortical areas. The a
 as association areas. Primary areas are where sensory information is initially received from the thalamus for conscious
 perception, or—in the case of the primary motor cortex—where descending commands are sent down to the brain stem or
 spinal cord to execute movements (Figure 16.5).
-
-
-
 
 
 Figure 16.5 Types of Cortical Areas The cerebral cortex can be described as containing three types of processing
@@ -19072,9 +18690,6 @@ auditory association cortex, at the end of the lateral sulcus just anterior to t
 aspect of the frontal lobe, just anterior to the region of the motor cortex associated with the head and neck, is Broca’s area.
 
 
-
-
-
 Both regions were originally described on the basis of losses of speech and language, which is called aphasia. The aphasia
 associated with Broca’s area is known as an expressive aphasia, which means that speech production is compromised. This
 type of aphasia is often described as non-fluency because the ability to say some words leads to broken or halting speech.
@@ -19111,11 +18726,7 @@ of the sensory cues involved. For example, the size, thickness, or weight of the
 the pairs of coins suggested here, the smooth or corrugated edge of the coin will correspond to the particular denomination.
 The second task, graphesthesia, is to recognize numbers or letters written on the palm of the hand with a dull pointer, such
 Praxis and gnosis are related to the conscious perception and cortical processing of sensory information. Being able to
-transform verbal commands into a sequence of motor responses, or to manipulate and recognize a common object and
-
-
-
-
+transform verbal commands into a sequence of motor responses, or to manipulate and recognize a common object and
 associate it with a name for that object. Both subtests have language components because language function is integral
 to these functions. The relationship between the words that describe actions, or the nouns that represent objects, and
 the cerebral location of these concepts is suggested to be localized to particular cortical areas. Certain aphasias can be
@@ -19156,9 +18767,6 @@ popular media suggest a link between cutting the white matter of the prefrontal 
 personality, though this correlation is not well understood.
 
 
-
-
-
 Popular media often refer to right-brained and left-brained people, as if the brain were two independent halves that
 work differently for different people. This is a popular misinterpretation of an important neurological phenomenon. As
 an extreme measure to deal with a debilitating condition, the corpus callosum may be sectioned to overcome intractable
@@ -19196,10 +18804,7 @@ The mental status exam addresses these cognitive abilities through a series of s
 ascribed to these functions. The loss of neurological function can illustrate the location of damage to the cerebrum. Memory
 functions are attributed to the temporal lobe, particularly the medial temporal lobe structures known as the hippocampus
 and amygdala, along with the adjacent cortex. Evidence of the importance of these structures comes from the side effects of
-a bilateral temporal lobectomy that were studied in detail in patient HM.
-
-
-
+a bilateral temporal lobectomy that were studied in detail in patient HM.
 
 Losses of language and speech functions, known as aphasias, are associated with damage to the important integration areas
 in the left hemisphere known as Broca’s or Wernicke’s areas, as well as the connections in the white matter between them.
@@ -19249,11 +18854,6 @@ will often be described as being bland. However, the taste of food can be improv
 Testing vision relies on the tests that are common in an optometry office. The Snellen chart (Figure 16.7) demonstrates
 visual acuity by presenting standard Roman letters in a variety of sizes. The result of this test is a rough generalization of the
 acuity of a person based on the normal accepted acuity, such that a letter that subtends a visual angle of 5 minutes of an arc
-
-
-
-
-
 at 20 feet can be seen. To have 20/60 vision, for example, means that the smallest letters that a person can see at a 20-foot
 distance could be seen by a person with normal acuity from 60 feet away. Testing the extent of the visual field means that
 the examiner can establish the boundaries of peripheral vision as simply as holding their hands out to either side and asking
@@ -19272,10 +18872,7 @@ fibers sort such that the two halves of the visual field are processed by the op
 field perception often suggest damage along the length of the optic pathway between the orbit and the diencephalon. For
 example, loss of peripheral vision may be the result of a pituitary tumor pressing on the optic chiasm (Figure 16.8). The
 pituitary, seated in the sella turcica of the sphenoid bone, is directly inferior to the optic chiasm. The axons that decussate
-in the chiasm are from the medial retinae of either eye, and therefore carry information from the peripheral visual field.
-
-
-
+in the chiasm are from the medial retinae of either eye, and therefore carry information from the peripheral visual field.
 
 Figure 16.8 Pituitary Tumor The pituitary gland is located in the sella turcica of the sphenoid bone within the cranial
 floor, placing it immediately inferior to the optic chiasm. If the pituitary gland develops a tumor, it can press against the
@@ -19323,11 +18920,6 @@ muscles. It is the sensory component of the jaw-jerk reflex, a stretch reflex of
 located in the pons, receives information about light touch as well as proprioceptive information about the mandible, which
 are both relayed to the thalamus and, ultimately, to the postcentral gyrus of the parietal lobe. The spinal trigeminal nucleus,
 located in the medulla, receives information about crude touch, pain, and temperature to be relayed to the thalamus and
-
-
-
-
-
 cortex. Essentially, the projection through the chief nucleus is analogous to the dorsal column pathway for the body, and the
 projection through the spinal trigeminal nucleus is analogous to the spinothalamic pathway.
 Subtests for the sensory component of the trigeminal system are the same as those for the sensory exam targeting the spinal
@@ -19368,10 +18960,7 @@ used to locate and direct the fovea onto visual stimuli is called a saccade. Not
 are not strictly vertical. The movements between the nose and the mouth are closest, but still have a slant to them. Also, the
 superior and inferior rectus muscles are not perfectly oriented with the line of sight. The origin for both muscles is medial
 to their insertions, so elevation and depression may require the lateral rectus muscles to compensate for the slight adduction
-inherent in the contraction of those muscles, requiring MLF activity as well.
-
-
-
+inherent in the contraction of those muscles, requiring MLF activity as well.
 
 Figure 16.9 Saccadic Eye Movements Saccades are rapid, conjugate movements of the eyes to survey a
 complicated visual stimulus, or to follow a moving visual stimulus. This image represents the shifts in gaze typical of
@@ -19406,9 +18995,6 @@ Deficits in the VOR may be related to vestibular damage, such as in Ménière’
 that would affect the eye movement nuclei or their connections through the MLF.
 
 
-
-
-
 Figure 16.10 Vestibulo-ocular Reflex If the head is turned in one direction, the coordination of that movement with
 the fixation of the eyes on a visual stimulus involves a circuit that ties the vestibular sense with the eye movement
 
@@ -19432,11 +19018,7 @@ The facial and glossopharyngeal nerves are also responsible for the initiation o
 of the medulla project through these two nerves as preganglionic fibers, and synapse in ganglia located in the head. The
 parasympathetic fibers of the facial nerve synapse in the pterygopalatine ganglion, which projects to the submandibular
 gland and sublingual gland. The parasympathetic fibers of the glossopharyngeal nerve synapse in the otic ganglion, which
-projects to the parotid gland. Salivation in response to food in the oral cavity is based on a visceral reflex arc within the
-
-
-
-
+projects to the parotid gland. Salivation in response to food in the oral cavity is based on a visceral reflex arc within the
 facial or glossopharyngeal nerves. Other stimuli that stimulate salivation are coordinated through the hypothalamus, such
 as the smell and sight of food.
 The hypoglossal nerve is the motor nerve that controls the muscles of the tongue, except for the palatoglossus muscle,
@@ -19471,9 +19053,6 @@ suggests that it is aiding the spinal nerves. Though that is not precisely how t
 association between the function of this nerve in controlling these muscles and the role these muscles play in movements of
 
 
-
-
-
 Figure 16.11 Muscles Controlled by the Accessory Nerve The accessory nerve innervates the sternocleidomastoid
 and trapezius muscles, both of which attach to the head and to the trunk and shoulders. They can act as antagonists
 in head flexion and extension, and as synergists in lateral flexion toward the shoulder.
@@ -19502,10 +19081,7 @@ eye, the problem is with the oculomotor system.
 If light in the right eye only causes the left pupil to constrict, the direct reflex is lost and the consensual reflex is
 intact, which means that the right oculomotor nerve (or Eddinger–Westphal nucleus) is damaged. Damage to the right
 oculomotor connections will be evident when light is shined in the left eye. In that case, the direct reflex is intact but
-the consensual reflex is lost, meaning that the left pupil will constrict while the right does not.
-
-
-
+the consensual reflex is lost, meaning that the left pupil will constrict while the right does not.
 
 The cranial nerves can be separated into four major groups associated with the subtests of the cranial nerve exam. First are
 the sensory nerves, then the nerves that control eye movement, the nerves of the oral cavity and superior pharynx, and the
@@ -19545,9 +19121,6 @@ the brain, and the anterior column is almost exclusively relaying motor commands
 lateral column, however, conveys both sensory and motor information between the spinal cord and brain.
 
 
-
-
-
 Figure 16.12 Locations of Spinal Fiber Tracts
 
 The general senses are distributed throughout the body, relying on nervous tissue incorporated into various organs. Somatic
@@ -19564,10 +19137,7 @@ the fibers of eighth cervical nerve innervate the medial surface of the forearm 
 testing perception at different positions on the skin, it is necessary to test sensory perception within the dermatome from
 distal to proximal locations in the appendages, or lateral to medial locations in the trunk. In testing the eighth cervical nerve,
 the patient would be asked if the touch of the cotton to the fingers or the medial forearm was perceptible, and whether there
-were any differences in the sensations.
-
-
-
+were any differences in the sensations.
 
 Figure 16.13 Dermatomes The surface of the skin can be divided into topographic regions that relate to the location
 of sensory endings in the skin based on the spinal nerve that contains those fibers. (credit: modification of work by
@@ -19587,10 +19157,7 @@ pathway primarily conveys pain and temperature. Testing these stimuli provides i
 ascending pathways are functioning properly. Within the spinal cord, the two systems are segregated. The dorsal column
 information ascends ipsilateral to the source of the stimulus and decussates in the medulla, whereas the spinothalamic
 pathway decussates at the level of entry and ascends contralaterally. The differing sensory stimuli are segregated in the
-spinal cord so that the various subtests for these stimuli can distinguish which ascending pathway may be damaged in certain
-
-
-
+spinal cord so that the various subtests for these stimuli can distinguish which ascending pathway may be damaged in certain.
 
 
 Whereas the basic sensory stimuli are assessed in the subtests directed at each submodality of somatosensation, testing
@@ -19684,11 +19251,6 @@ Comparison of Upper and Lower Motor Neuron Damage
 Many of the tests of motor function can indicate differences that will address whether damage to the motor system is
 in the upper or lower motor neurons. Signs that suggest a UMN lesion include muscle weakness, strong deep tendon
 reflexes, decreased control of movement or slowness, pronator drift, a positive Babinski sign, spasticity, and the claspknife response. Spasticity is an excess contraction in resistance to stretch. It can result in hyperflexia, which is when joints
-
-
-
-
-
 are overly flexed. The clasp-knife response occurs when the patient initially resists movement, but then releases, and the
 joint will quickly flex like a pocket knife closing.
 A lesion on the LMN would result in paralysis, or at least partial loss of voluntary muscle control, which is known as
@@ -19773,13 +19335,7 @@ descending output of the red nucleus (Figure 16.15). The lateral hemispheres are
 motor functions through frontal lobe inputs that are returned through the thalamic projections back to the premotor and
 motor cortices. Processing in the midline regions targets movements of the axial musculature, whereas the lateral regions
 target movements of the appendicular musculature. The vermis is referred to as the spinocerebellum because it primarily
-receives input from the dorsal columns and spinocerebellar pathways. The flocculonodular lobe is referred to as the
-
-
-
-
-
-vestibulocerebellum because of the vestibular projection into that region. Finally, the lateral cerebellum is referred to as the
+receives input from the dorsal columns and spinocerebellar pathways. The flocculonodular lobe is referred to as the vestibulocerebellum because of the vestibular projection into that region. Finally, the lateral cerebellum is referred to as the
 cerebrocerebellum, reflecting the significant input from the cerebral cortex through the cortico-ponto-cerebellar pathway.
 
 Figure 16.15 Major Regions of the Cerebellum The cerebellum can be divided into two basic regions: the midline
@@ -19851,9 +19407,6 @@ can maintain balance. An abnormal finding in the test of station is if the feet 
 stance suggest problems with cerebellar function?
 
 
-
-
-
 The neurological exam has been described as a clinical tool throughout this chapter. It is also useful in other ways.
 A variation of the coordination exam is the Field Sobriety Test (FST) used to assess whether drivers are under the
 influence of alcohol. The cerebellum is crucial for coordinated movements such as keeping balance while walking,
@@ -19874,10 +19427,7 @@ That is actually a variation of the mental status subtest of repeating the month
 is important because speech production is a coordinated activity. The speech rapid alternating movement subtest
 is specifically using the consonant changes of “lah-kah-pah” to assess coordinated movements of the lips, tongue,
 pharynx, and palate. But the entire alphabet, especially in the nonrehearsed backwards order, pushes this type of
-coordinated movement quite far. It is related to the reason that speech becomes slurred when a person is intoxicated.
-
-
-
+coordinated movement quite far. It is related to the reason that speech becomes slurred when a person is intoxicated.
 
 accommodation in vision, a change in the ability of the eye to focus on objects at different distances
 accommodation–convergence reflex coordination of somatic control of the medial rectus muscles of either eye
@@ -19912,13 +19462,7 @@ the flow of blood to an organ or some part of the body
 episodic memory memory of specific events in an autobiographical sense
 expressive aphasia loss of the ability to produce language; usually associated with damage to Broca’s area in the
 extrinsic muscles of the tongue muscles that are connected to other structures, such as the hyoid bone or the
-mandible, and control the position of the tongue
-
-
-
-
-
-fasciculation small muscle twitch as a result of spontaneous activity from an LMN
+mandible, and control the position of the tongue fasciculation small muscle twitch as a result of spontaneous activity from an LMN
 fauces opening from the oral cavity into the pharynx
 fibrillation in motor responses, a spontaneous muscle action potential that occurs in the absence of neuromuscular
 input, resulting from LMN lesions
@@ -19986,11 +19530,6 @@ superior cerebellar peduncle (SCP) white-matter tract representing output of the
 transient ischemic attack (TIA) temporary disruption of blood flow to the brain in which symptoms occur rapidly
 but last only a short time
 vermis prominent ridge along the midline of the cerebellum that is referred to as the spinocerebellum
-
-
-
-
-
 vestibulo-ocular reflex (VOR) reflex based on connections between the vestibular system and the cranial nerves of
 eye movements that ensures that images are stabilized on the retina as the head and body move
 vestibulocerebellum flocculonodular lobe of the cerebellum named for the vestibular input from the eighth cranial
@@ -20038,14 +19577,7 @@ superior cerebellar peduncles to initiate descending signals from the red nucleu
 The primary role of the cerebellum in relation to the spinal cord is through the spinocerebellum; it controls posture and
 gait with significant input from the vestibular system. Deficits in cerebellar function result in ataxias, or a specific kind of
 movement disorder. The root cause of the ataxia may be the sensory input—either the proprioceptive input from the spinal
-
-
-
-
-cord or the equilibrium input from the vestibular system, or direct damage to the cerebellum by stroke, trauma, hereditary
-
-
-
+cord or the equilibrium input from the vestibular system, or direct damage to the cerebellum by stroke, trauma, hereditary.
 
 CHAPTER 17 | THE ENDOCRINE SYSTEM
 
@@ -20057,11 +19589,6 @@ After studying this chapter, you will be able to:
 • Discuss the chemical composition of hormones and the mechanisms of hormone action
 • Summarize the site of production, regulation, and effects of the hormones of the pituitary, thyroid,
 parathyroid, adrenal, and pineal glands
-
-
-
-
-
 
 Discuss the hormonal regulation of the reproductive system
 Explain the role of the pancreatic endocrine cells in the regulation of blood glucose
@@ -20101,10 +19628,7 @@ target cells to respond to certain reproductive hormones.
 
 Visit this link (http://openstaxcollege.org/l/hormonebind) to watch an animation of the events that occur when a
 hormone binds to a cell membrane receptor. What is the secondary messenger made by adenylyl cyclase during the
-activation of liver cells by epinephrine?
-
-
-
+activation of liver cells by epinephrine?
 
 In addition, endocrine signaling is typically less specific than neural signaling. The same hormone may play a role in a
 variety of different physiological processes depending on the target cells involved. For example, the hormone oxytocin
@@ -20119,21 +19643,6 @@ As a result, the nervous system can cause rapid endocrine responses to keep up w
 and internal environments when necessary.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Structures of the Endocrine System
 The endocrine system consists of cells, tissues, and organs that secrete hormones as a primary or secondary function.
 The endocrine gland is the major player in this system. The primary function of these ductless glands is to secrete their
@@ -20144,9 +19653,6 @@ function in digestion as well as cells that secrete the hormones insulin and glu
 The hypothalamus, thymus, heart, kidneys, stomach, small intestine, liver, skin, female ovaries, and male testes are other
 organs that contain cells with endocrine function. Moreover, adipose tissue has long been known to produce hormones, and
 recent research has revealed that even bone tissue has endocrine functions.
-
-
-
 
 
 Figure 17.2 Endocrine System Endocrine glands and cells are located throughout the body and play an important
@@ -20166,10 +19672,6 @@ induces a response in neighboring cells. Although paracrines may enter the blood
 too low to elicit a response from distant tissues. A familiar example to those with asthma is histamine, a paracrine that
 is released by immune cells in the bronchial tree. Histamine causes the smooth muscle cells of the bronchi to constrict,
 narrowing the airways. Another example is the neurotransmitters of the nervous system, which act only locally within the
-
-
-
-
 Endocrinology is a specialty in the field of medicine that focuses on the treatment of endocrine system disorders.
 Endocrinologists—medical doctors who specialize in this field—are experts in treating diseases associated with
 hormonal systems, ranging from thyroid disease to diabetes mellitus. Endocrine surgeons treat endocrine disease
@@ -20200,110 +19702,6 @@ events is initiated that leads to the target cell’s response. Hormones play a 
 processes because of the target cell responses they regulate. These responses contribute to human reproduction, growth and
 development of body tissues, metabolism, fluid, and electrolyte balance, sleep, and many other body functions. The major
 hormones of the human body and their effects are identified in Table 17.2.
-
-Endocrine Glands and Their Major Hormones
-
-
-
-
-
-
-
-Promotes growth of body tissues
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Endocrine Glands and Their Major Hormones
-
-
-
-
-
-
-
-Stimulates hormone release by adrenal cortex
-
-
-
-
-
-
-
-Stimulates androgen production by gonads
-
-
-
-Stimulates water reabsorption by kidneys
-
-
-
-
-Stimulates uterine contractions during childbirth
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Stimulates development of male secondary sex
-
-
-
-
-Stimulate development of female secondary sex
-characteristics and prepare the body for childbirth
-
-
-The hormones of the human body can be divided into two major groups on the basis of their chemical structure. Hormones
-derived from amino acids include amines, peptides, and proteins. Those derived from lipids include steroids (Figure 17.3).
-These chemical groups affect a hormone’s distribution, the type of receptors it binds to, and other aspects of its function.
-
-
 
 
 Figure 17.3 Amine, Peptide, Protein, and Steroid Hormone Structure
@@ -20316,9 +19714,6 @@ tryptophan is melatonin, which is secreted by the pineal gland and helps regulat
 include the metabolism-regulating thyroid hormones, as well as the catecholamines, such as epinephrine, norepinephrine,
 and dopamine. Epinephrine and norepinephrine are secreted by the adrenal medulla and play a role in the fight-or-flight
 response, whereas dopamine is secreted by the hypothalamus and inhibits the release of certain anterior pituitary hormones.
-
-
-
 
 
 Whereas the amine hormones are derived from a single amino acid, peptide and protein hormones consist of multiple amino
@@ -20360,10 +19755,6 @@ the cytosol or within the nucleus. In either case, this binding generates a horm
 the chromatin in the cell nucleus and binds to a particular segment of the cell’s DNA. In contrast, thyroid hormones bind
 to receptors already bound to DNA. For both steroid and thyroid hormones, binding of the hormone-receptor complex
 with DNA triggers transcription of a target gene to mRNA, which moves to the cytosol and directs protein synthesis by
-
-
-
-
 Figure 17.4 Binding of Lipid-Soluble Hormones A steroid hormone directly initiates the production of proteins
 within a target cell. Steroid hormones easily diffuse through the cell membrane. The hormone binds to its receptor in
 the cytosol, forming a receptor–hormone complex. The receptor–hormone complex then enters the nucleus and binds
@@ -20382,9 +19773,6 @@ adenylate cyclase (Step 3), which converts adenosine triphosphate (ATP) to cAMP 
 cAMP activates a type of enzyme called a protein kinase that is present in the cytosol (Step 5). Activated protein kinases
 initiate a phosphorylation cascade, in which multiple protein kinases phosphorylate (add a phosphate group to) numerous
 and various cellular proteins, including other enzymes (Step 6).
-
-
-
 
 
 Figure 17.5 Binding of Water-Soluble Hormones Water-soluble hormones cannot diffuse through the cell
@@ -20454,12 +19842,6 @@ in the blood rise, the hypothalamus and pituitary gland reduce their signaling t
 
 
 
-
-
-Figure 17.6 Negative Feedback Loop The release of adrenal glucocorticoids is stimulated by the release of
-hormones from the hypothalamus and pituitary gland. This signaling is inhibited when glucocorticoid levels become
-elevated by causing negative signals to the pituitary gland and hypothalamus.
-
 Role of Endocrine Gland Stimuli
 Reflexes triggered by both chemical and neural stimuli control endocrine activity. These reflexes may be simple, involving
 only one hormone response, or they may be more complex and involve many hormones, as is the case with the hypothalamic
@@ -20478,10 +19860,7 @@ In addition to these chemical signals, hormones can also be released in response
 of neural stimuli is the activation of the fight-or-flight response by the sympathetic nervous system. When an individual
 perceives danger, sympathetic neurons signal the adrenal glands to secrete norepinephrine and epinephrine. The two
 hormones dilate blood vessels, increase the heart and respiratory rate, and suppress the digestive and immune systems.
-These responses boost the body’s transport of oxygen to the brain and muscles, thereby improving the body’s ability to fight
-
-
-
+These responses boost the body’s transport of oxygen to the brain and muscles, thereby improving the body’s ability to fight
 
 Bisphenol A and Endocrine Disruption
 You may have heard news reports about the effects of a chemical called bisphenol A (BPA) in various types of food
@@ -20532,66 +19911,11 @@ that develops from the primitive digestive tract. The hormones secreted by the p
 intermediate zone between the lobes are summarized in Table 17.3.
 
 
-
-
-
 Figure 17.7 Hypothalamus–Pituitary Complex The hypothalamus region lies inferior and anterior to the thalamus.
 It connects to the pituitary gland by the stalk-like infundibulum. The pituitary gland consists of an anterior and posterior
 lobe, with each lobe secreting different hormones in response to signals from the hypothalamus.
 
 
-
-
-
-
-
-
-Promotes growth of body tissues
-
-
-
-
-Promotes milk production from mammary
-
-
-
-
-Stimulates thyroid hormone release from
-
-
-
-
-Stimulates hormone release by adrenal
-
-
-
-
-Stimulates gamete production in gonads
-
-
-
-
-
-
-
-
-Stimulates water reabsorption by kidneys
-
-
-
-
-
-
-
-
-
-
-The posterior pituitary is actually an extension of the neurons of the paraventricular and supraoptic nuclei of the
-hypothalamus. The cell bodies of these regions rest in the hypothalamus, but their axons descend as the
-hypothalamic–hypophyseal tract within the infundibulum, and end in axon terminals that comprise the posterior pituitary
-
-
-
 
 Figure 17.8 Posterior Pituitary Neurosecretory cells in the hypothalamus release oxytocin (OT) or ADH into the
 posterior lobe of the pituitary gland. These hormones are stored or released into the blood via the capillary plexus.
@@ -20622,11 +19946,6 @@ and fluids, as well as in response to disease, injury, medications, or other fac
 by osmoreceptors—specialized cells within the hypothalamus that are particularly sensitive to the concentration of sodium
 In response to high blood osmolarity, which can occur during dehydration or following a very salty meal, the osmoreceptors
 signal the posterior pituitary to release antidiuretic hormone (ADH). The target cells of ADH are located in the tubular
-
-
-
-
-
 cells of the kidneys. Its effect is to increase epithelial permeability to water, allowing increased water reabsorption. The
 more water reabsorbed from the filtrate, the greater the amount of water that is returned to the blood and the less that is
 excreted in the urine. A greater concentration of water results in a reduced concentration of solutes. ADH is also known
@@ -20655,10 +19974,7 @@ first entering the systemic circulation. The system originates from the superior
 the carotid arteries and transports blood to the hypothalamus. The branches of the superior hypophyseal artery form the
 hypophyseal portal system (see Figure 17.9). Hypothalamic releasing and inhibiting hormones travel through a primary
 capillary plexus to the portal veins, which carry them into the anterior pituitary. Hormones produced by the anterior pituitary
-(in response to releasing hormones) enter a secondary capillary plexus, and from there drain into the circulation.
-
-
-
+(in response to releasing hormones) enter a secondary capillary plexus, and from there drain into the circulation.
 
 Figure 17.9 Anterior Pituitary The anterior pituitary manufactures seven hormones. The hypothalamus produces
 separate hormones that stimulate or inhibit hormone production in the anterior pituitary. Hormones from the
@@ -20674,9 +19990,6 @@ involved in this process is growth hormone (GH), also called somatotropin—a pr
 by the anterior pituitary gland. Its primary function is anabolic; it promotes protein synthesis and tissue building through
 direct and indirect mechanisms (Figure 17.10). GH levels are controlled by the release of GHRH and GHIH (also known
 as somatostatin) from the hypothalamus.
-
-
-
 
 
 Figure 17.10 Hormonal Regulation of Growth Growth hormone (GH) directly accelerates the rate of protein
@@ -20703,10 +20016,7 @@ cause growth impairment—a disorder called pituitary dwarfism (also known as gr
 The activity of the thyroid gland is regulated by thyroid-stimulating hormone (TSH), also called thyrotropin. TSH
 is released from the anterior pituitary in response to thyrotropin-releasing hormone (TRH) from the hypothalamus. As
 discussed shortly, it triggers the secretion of thyroid hormones by the thyroid gland. In a classic negative feedback loop,
-elevated levels of thyroid hormones in the bloodstream then trigger a drop in production of TRH and subsequently TSH.
-
-
-
+elevated levels of thyroid hormones in the bloodstream then trigger a drop in production of TRH and subsequently TSH.
 
 The adrenocorticotropic hormone (ACTH), also called corticotropin, stimulates the adrenal cortex (the more superficial
 “bark” of the adrenal glands) to secrete corticosteroid hormones such as cortisol. ACTH come from a precursor molecule
@@ -20744,19 +20054,12 @@ is responsible for melanin production in response to UV light exposure. The role
 complicated. For instance, people with lighter skin generally have the same amount of MSH as people with darker skin.
 Nevertheless, this hormone is capable of darkening of the skin by inducing melanin production in the skin’s melanocytes.
 Women also show increased MSH production during pregnancy; in combination with estrogens, it can lead to darker skin
-pigmentation, especially the skin of the areolas and labia minora. Figure 17.11 is a summary of the pituitary hormones and
-
-
-
-
+pigmentation, especially the skin of the areolas and labia minora.
 
 Figure 17.11 Major Pituitary Hormones Major pituitary hormones and their target organs.
 
 Visit this link (http://openstaxcollege.org/l/roleofhypo) to watch an animation showing the role of the hypothalamus
-and the pituitary gland. Which hormone is released by the pituitary to stimulate the thyroid gland?
-
-
-
+and the pituitary gland. Which hormone is released by the pituitary to stimulate the thyroid gland?
 
 17.4 | The Thyroid Gland
 By the end of this section, you will be able to:
@@ -20770,9 +20073,6 @@ with parathyroid glands, primarily on their posterior surfaces. The tissue of th
 follicles. The follicles are made up of a central cavity filled with a sticky fluid called colloid. Surrounded by a wall of
 epithelial follicle cells, the colloid is the center of thyroid hormone production, and that production is dependent on the
 hormones’ essential and unique component: iodine.
-
-
-
 
 
 Figure 17.12 Thyroid Gland The thyroid gland is located in the neck where it wraps around the trachea. (a) Anterior
@@ -20814,9 +20114,6 @@ The levels of TRH, TSH, T3, and T4 are regulated by a negative feedback system i
 decrease the production and secretion of TSH.
 
 
-
-
-
 Figure 17.13 Classic Negative Feedback Loop A classic negative feedback loop controls the regulation of thyroid
 
 The thyroid hormones, T3 and T4, are often referred to as metabolic hormones because their levels influence the body’s
@@ -20833,10 +20130,7 @@ of reproductive function. Finally, thyroid hormones increase the body’s sensit
 norepinephrine) from the adrenal medulla by upregulation of receptors in the blood vessels. When levels of T3 and T4
 hormones are excessive, this effect accelerates the heart rate, strengthens the heartbeat, and increases blood pressure.
 Because thyroid hormones regulate metabolism, heat production, protein synthesis, and many other body functions, thyroid
-disorders can have severe and widespread consequences.
-
-
-
+disorders can have severe and widespread consequences.
 
 Endocrine System: Iodine Deficiency, Hypothyroidism, and
 As discussed above, dietary iodine is required for the synthesis of T3 and T4. But for much of the world’s population,
@@ -20869,28 +20163,12 @@ of the orbits. The person may also develop a goiter.
 The thyroid gland also secretes a hormone called calcitonin that is produced by the parafollicular cells (also called C cells)
 that stud the tissue between distinct follicles. Calcitonin is released in response to a rise in blood calcium levels. It appears
 to have a function in decreasing blood calcium concentrations by:
-
-
-
-
-
 • Inhibiting the activity of osteoclasts, bone cells that release calcium into the circulation by degrading bone matrix
 • Decreasing calcium absorption in the intestines
 • Increasing calcium loss in the urine
 However, these functions are usually not significant in maintaining calcium homeostasis, so the importance of calcitonin is
 not entirely understood. Pharmaceutical preparations of calcitonin are sometimes prescribed to reduce osteoclast activity in
-people with osteoporosis and to reduce the degradation of cartilage in people with osteoarthritis. The hormones secreted by
-thyroid are summarized in Table 17.4.
-
-
-
-
-Thyroxine (T4), triiodothyronine (T3) Amine
-
-
-
-
-
+people with osteoporosis and to reduce the degradation of cartilage in people with osteoarthritis.
 
 Of course, calcium is critical for many other biological processes. It is a second messenger in many signaling pathways, and
 is essential for muscle contraction, nerve impulse transmission, and blood clotting. Given these roles, it is not surprising that
@@ -20907,14 +20185,7 @@ parathyroid glands, but occasionally there are more in tissues of the neck or ch
 cells, the oxyphil cells, is not clear. The primary functional cells of the parathyroid glands are the chief cells. These epithelial
 cells produce and secrete the parathyroid hormone (PTH), the major hormone involved in the regulation of blood calcium
 
-Figure 17.15 Parathyroid Glands The small parathyroid glands are embedded in the posterior surface of the thyroid
-gland. LM × 760. (Micrograph provided by the Regents of University of Michigan Medical School © 2012)
-
-
 
-
-View the University of Michigan WebScope at http://141.214.65.171/Histology/Endocrine%20System/
-217_HISTO_40X.svs/view.apml (http://openstaxcollege.org/l/parathyroid) to explore the tissue sample in greater
 
 The parathyroid glands produce and secrete PTH, a peptide hormone, in response to low blood calcium levels (Figure
 17.16). PTH secretion causes the release of calcium from the bones by stimulating osteoclasts, which secrete enzymes
@@ -20924,9 +20195,6 @@ tubules from the urine filtrate. In addition, PTH initiates the production of th
 1,25-dihydroxyvitamin D), which is the active form of vitamin D3, in the kidneys. Calcitriol then stimulates increased
 absorption of dietary calcium by the intestines. A negative feedback loop regulates the levels of PTH, with rising blood
 calcium levels inhibiting further release of PTH.
-
-
-
 
 
 Figure 17.16 Parathyroid Hormone in Maintaining Blood Calcium Homeostasis Parathyroid hormone increases
@@ -20974,11 +20242,6 @@ hormone (ACTH) from the pituitary by the hypothalamus. ACTH then stimulates the 
 cortisol. This pathway will be discussed in more detail below.
 The adrenal medulla is neuroendocrine tissue composed of postganglionic sympathetic nervous system (SNS) neurons. It
 is really an extension of the autonomic nervous system, which regulates homeostasis in the body. The sympathomedullary
-
-
-
-
-
 (SAM) pathway involves the stimulation of the medulla by impulses from the hypothalamus via neurons from the thoracic
 spinal cord. The medulla is stimulated to secrete the amine hormones epinephrine and norepinephrine.
 One of the major functions of the adrenal gland is to respond to stress. Stress can be either physical or psychological or
@@ -21071,28 +20334,6 @@ blood vessels serving less essential organs such as the gastrointestinal tract, 
 components of the immune system. Other effects include a dry mouth, loss of appetite, pupil dilation, and a loss of
 peripheral vision. The major hormones of the adrenal glands are summarized in Table 17.5.
 
-Hormones of the Adrenal Glands
-
-
-
-
-
-
-
-
-Hormones of the Adrenal Glands
-
-
-
-
-
-
-
-
-
-
-
-
 Disorders Involving the Adrenal Glands
 Several disorders are caused by the dysregulation of the hormones produced by the adrenal glands. For example, Cushing’s
 disease is a disorder characterized by high blood glucose levels and the accumulation of lipid deposits on the face and neck.
@@ -21122,10 +20363,7 @@ promoting wakefulness. In contrast, as light levels decline—such as during the
 boosting blood levels and causing drowsiness.
 
 Visit this link (http://openstaxcollege.org/l/melatonin) to view an animation describing the function of the hormone
-melatonin. What should you avoid doing in the middle of your sleep cycle that would lower melatonin?
-
-
-
+melatonin. What should you avoid doing in the middle of your sleep cycle that would lower melatonin?
 
 The secretion of melatonin may influence the body’s circadian rhythms, the dark-light fluctuations that affect not only
 sleepiness and wakefulness, but also appetite and body temperature. Interestingly, children have higher melatonin levels
@@ -21159,40 +20397,7 @@ the uterus. The placenta supplies oxygen and nutrients to the fetus, excretes wa
 estrogens and progesterone. The placenta produces human chorionic gonadotropin (hCG) as well. The hCG hormone
 promotes progesterone synthesis and reduces the mother’s immune function to protect the fetus from immune rejection. It
 also secretes human placental lactogen (hPL), which plays a role in preparing the breasts for lactation, and relaxin, which is
-thought to help soften and widen the pubic symphysis in preparation for childbirth. The hormones controlling reproduction
-are summarized in Table 17.6.
-
-
-
-
-
-
-
-
-Stimulates development of male secondary sex
-
-
-
-
-Inhibits FSH release from pituitary
-
-
-
-
-Stimulate development of female secondary sex
-characteristics and prepare the body for childbirth
-
-
-
-
-Promotes progesterone synthesis during pregnancy and
-inhibits immune response against fetus
-
-
-
-
-
-
+thought to help soften and widen the pubic symphysis in preparation for childbirth.
 The endocrine system can be exploited for illegal or unethical purposes. A prominent example of this is the use of
 steroid drugs by professional athletes.
 Commonly used for performance enhancement, anabolic steroids are synthetic versions of the male sex hormone,
@@ -21224,11 +20429,6 @@ regulate the rate of glucose metabolism in the body. The micrograph reveals panc
 provided by the Regents of University of Michigan Medical School © 2012)
 
 
-
-
-View the University of Michigan WebScope at http://141.214.65.171/Histology/Digestive%20System/
-explore the tissue sample in greater detail.
-
 Cells and Secretions of the Pancreatic Islets
 The pancreatic islets each contain four varieties of cells:
 • The alpha cell produces the hormone glucagon and makes up approximately 20 percent of each islet. Glucagon plays
@@ -21258,9 +20458,6 @@ The glucose is then released into the circulation for use by body cells.
 released into the bloodstream travels to the liver, which converts it into glucose. This is also a form of gluconeogenesis.
 Taken together, these actions increase blood glucose levels. The activity of glucagon is regulated through a negative
 feedback mechanism; rising blood glucose levels inhibit further glucagon production and secretion.
-
-
-
 
 
 Figure 17.19 Homeostatic Regulation of Blood Glucose Levels Blood glucose concentration is tightly maintained
@@ -21294,24 +20491,6 @@ Moreover, it stimulates the liver to convert excess glucose into glycogen for st
 glycogenolysis and gluconeogenesis. Finally, insulin promotes triglyceride and protein synthesis. The secretion of insulin
 is regulated through a negative feedback mechanism. As blood glucose levels decrease, further insulin release is inhibited.
 The pancreatic hormones are summarized in Table 17.7.
-
-
-
-
-
-
-
-
-
-
-
-
-Inhibits insulin and glucagon release
-
-Pancreatic polypeptide (PP cells) Protein
-
-
-
 
 
 
@@ -21353,14 +20532,7 @@ Diabetes is diagnosed when lab tests reveal that blood glucose levels are higher
 hyperglycemia. The treatment of diabetes depends on the type, the severity of the condition, and the ability of the
 patient to make lifestyle changes. As noted earlier, moderate weight loss, regular physical activity, and consumption
 of a healthful diet can reduce blood glucose levels. Some patients with type 2 diabetes may be unable to control their
-disease with these lifestyle changes, and will require medication. Historically, the first-line treatment of type 2 diabetes
-was insulin. Research advances have resulted in alternative options, including medications that enhance pancreatic
-
-
-
-
-Visit this link (http://openstaxcollege.org/l/insulin) to view an animation describing the role of insulin and the
-
+disease with these lifestyle changes, and will require medication.
 17.10 | Organs with Secondary Endocrine Functions
 By the end of this section, you will be able to:
 • Identify the organs with a secondary endocrine function, the hormone they produce, and its effects
@@ -21390,11 +20562,6 @@ also play a role in regulating blood calcium levels through the production of ca
 in response to the secretion of parathyroid hormone (PTH). In addition, the kidneys produce the hormone erythropoietin
 (EPO) in response to low oxygen levels. EPO stimulates the production of red blood cells (erythrocytes) in the bone
 marrow, thereby increasing oxygen delivery to tissues. You may have heard of EPO as a performance-enhancing drug (in a
-
-
-
-
-
 Although bone has long been recognized as a target for hormones, only recently have researchers recognized that the
 skeleton itself produces at least two hormones. Fibroblast growth factor 23 (FGF23) is produced by bone cells in response
 to increased blood levels of vitamin D3 or phosphate. It triggers the kidneys to inhibit the formation of calcitriol from
@@ -21430,73 +20597,6 @@ increases blood pressure. Thrombopoetin stimulates the production of the blood�
 iron from cells in the body, helping to regulate iron homeostasis in our body fluids. The major hormones of these other
 organs are summarized in Table 17.8.
 
-Organs with Secondary Endocrine Functions and Their Major Hormones
-
-
-Reduces blood volume, blood pressure, and
-
-
-Aid digestion of food and buffering of stomach
-
-(GIP) and glucagon-like peptide 1 (GLP-1)
-
-Stimulate beta cells of the pancreas to
-
-
-
-
-
-
-Aids in the absorption of Ca2+
-
-
-
-
-
-Organs with Secondary Endocrine Functions and Their Major Hormones
-
-
-
-
-
-Triggers the formation of red blood cells in the
-
-
-
-Inhibits production of calcitriol and increases
-
-
-
-
-
-
-Promotes satiety signals in the brain
-
-
-
-
-
-
-Modified to form vitamin D
-
-
-
-Among other things, aids in the development
-of T lymphocytes of the immune system
-
-
-
-
-
-
-
-
-
-
-
-
-Blocks release of iron into body fluids
-
 
 17.11 | Development and Aging of the Endocrine System
 By the end of this section, you will be able to:
@@ -21527,9 +20627,6 @@ age. Although this means that males maintain their ability to father children fo
 quality, and motility of their sperm is often reduced.
 
 
-
-
-
 As the body ages, the thyroid gland produces less of the thyroid hormones, causing a gradual decrease in the basal metabolic
 rate. The lower metabolic rate reduces the production of body heat and increases levels of body fat. Parathyroid hormones,
 on the other hand, increase with age. This may be because of reduced dietary calcium levels, causing a compensatory
@@ -21538,10 +20635,7 @@ calcitonin (and estrogens in women) can lead to osteoporosis as PTH stimulates d
 calcium levels. Notice that osteoporosis is common in both elderly males and females.
 Increasing age also affects glucose metabolism, as blood glucose levels spike more rapidly and take longer to return to
 normal in the elderly. In addition, increasing glucose intolerance may occur because of a gradual decline in cellular insulin
-sensitivity. Almost 27 percent of Americans aged 65 and older have diabetes.
-
-
-
+sensitivity. Almost 27 percent of Americans aged 65 and older have diabetes.
 
 acromegaly disorder in adults caused when abnormally high levels of GH trigger growth of bones in the face, hands,
 adenylyl cyclase membrane-bound enzyme that converts ATP to cyclic AMP, creating cAMP, as a result of G-protein
@@ -21574,11 +20668,6 @@ diabetes mellitus condition caused by destruction or dysfunction of the beta cel
 to insulin that results in abnormally high blood glucose levels
 diacylglycerol (DAG) molecule that, like cAMP, activates protein kinases, thereby initiating a phosphorylation
 downregulation decrease in the number of hormone receptors, typically in response to chronically excessive levels of
-
-
-
-
-
 endocrine gland tissue or organ that secretes hormones into the blood and lymph without ducts such that they may be
 transported to organs distant from the site of secretion
 endocrine system cells, tissues, and organs that secrete hormones as a primary or secondary function and play an
@@ -21649,11 +20738,6 @@ response to hypothalamic stimulation (also called hypophysis)
 PP cell minor cell type in the pancreas that secretes the hormone pancreatic polypeptide
 progesterone predominantly female sex hormone important in regulating the female reproductive cycle and the
 prolactin (PRL) anterior pituitary hormone that promotes development of the mammary glands and the production of
-
-
-
-
-
 protein kinase enzyme that initiates a phosphorylation cascade upon activation
 second messenger molecule that initiates a signaling cascade in response to hormone binding on a cell membrane
 receptor and activation of a G protein
@@ -21690,10 +20774,7 @@ Hydrophobic hormones are able to diffuse through the membrane and interact with 
 hydrophilic hormones must interact with cell membrane receptors. These are typically associated with a G protein, which
 becomes activated when the hormone binds the receptor. This initiates a signaling cascade that involves a second messenger,
 such as cyclic adenosine monophosphate (cAMP). Second messenger systems greatly amplify the hormone signal, creating
-a broader, more efficient, and faster response.
-
-
-
+a broader, more efficient, and faster response.
 
 Hormones are released upon stimulation that is of either chemical or neural origin. Regulation of hormone release is
 primarily achieved through negative feedback. Various stimuli may cause the release of hormones, but there are three major
@@ -21745,11 +20826,6 @@ The male and female reproductive system is regulated by follicle-stimulating hor
 hypothalamus. In males, FSH stimulates sperm maturation, which is inhibited by the hormone inhibin. The steroid hormone
 testosterone, a type of androgen, is released in response to LH and is responsible for the maturation and maintenance of
 the male reproductive system, as well as the development of male secondary sex characteristics. In females, FSH promotes
-
-
-
-
-
 egg maturation and LH signals the secretion of the female sex hormones, the estrogens and progesterone. Both of these
 hormones are important in the development and maintenance of the female reproductive system, as well as maintaining
 pregnancy. The placenta develops during early pregnancy, and secretes several hormones important for maintaining the
@@ -21797,10 +20873,6 @@ Classify and characterize white blood cells
 Describe the structure of platelets and explain the process of hemostasis
 Explain the significance of AB and Rh blood groups in blood transfusions
 Discuss a variety of blood disorders
-
-
-
-
 
 Single-celled organisms do not need blood. They obtain nutrients directly from and excrete wastes directly into their
 environment. The human organism cannot do that. Our large, complex bodies need blood to deliver nutrients to and remove
@@ -21891,9 +20963,6 @@ buffers that actually help to regulate pH.
 Blood constitutes approximately 8 percent of adult body weight. Adult males typically average about 5 to 6 liters of blood.
 
 
-
-
-
 Like other fluids in the body, plasma is composed primarily of water: In fact, it is about 92 percent water. Dissolved
 or suspended within this water is a mixture of substances, most of which are proteins. There are literally hundreds of
 substances dissolved or suspended in the plasma, although many of them are found only in very small quantities.
@@ -21927,16 +20996,7 @@ for about 7 percent of the total plasma protein volume, in clinical levels of 0.
 In addition to proteins, plasma contains a wide variety of other substances. These include various electrolytes, such as
 sodium, potassium, and calcium ions; dissolved gases, such as oxygen, carbon dioxide, and nitrogen; various organic
 nutrients, such as vitamins, lipids, glucose, and amino acids; and metabolic wastes. All of these nonprotein solutes combined
-contribute approximately 1 percent to the total volume of plasma.
-
-
-
-
-Figure 18.3 Major Blood Components
-
-
-
-
+contribute approximately 1 percent to the total volume of plasma.
 
 Phlebotomy and Medical Lab Technology
 Phlebotomists are professionals trained to draw blood (phleb- = “a blood vessel”; -tomy = “to cut”). When more
@@ -22009,9 +21069,6 @@ megakaryocytes, and proerythroblasts become reticulocytes, which eject their nuc
 Development from stem cells to precursor cells to mature cells is again initiated by hemopoietic growth factors. These
 
 
-
-
-
 • Erythropoietin (EPO) is a glycoprotein hormone secreted by the interstitial fibroblast cells of the kidneys in response
 to low oxygen levels. It prompts the production of erythrocytes. Some athletes use synthetic EPO as a performanceenhancing drug (called blood doping) to increase RBC counts and subsequently increase oxygen delivery to tissues
 throughout the body. EPO is a banned substance in most organized sports, but it is also used medically in the treatment
@@ -22051,10 +21108,7 @@ hematocrit to 70 or greater. This increased viscosity raises the resistance of t
 more powerfully; in extreme cases, it has resulted in death. Other drugs such as cobalt II chloride have been shown
 to increase natural EPO gene expression. Blood doping has become problematic in many sports, especially cycling.
 Lance Armstrong, winner of seven Tour de France and many other cycling titles, was stripped of his victories and
-admitted to blood doping in 2013.
-
-
-
+admitted to blood doping in 2013.
 
 Watch this video (http://openstaxcollege.org/l/doping) to see doctors discuss the dangers of blood doping in sports.
 What are the some potential side effects of blood doping?
@@ -22084,17 +21138,7 @@ erythrocytes per microliter (µL) of blood, and females have approximately 4.8 m
 estimated to make up about 25 percent of the total cells in the body. As you can imagine, they are quite small cells, with
 a mean diameter of only about 7–8 micrometers (µm) (Figure 18.5). The primary functions of erythrocytes are to pick up
 inhaled oxygen from the lungs and transport it to the body’s tissues, and to pick up some (about 24 percent) carbon dioxide
-waste at the tissues and transport it to the lungs for exhalation. Erythrocytes remain within the vascular network. Although
-leukocytes typically leave the blood vessels to perform their defensive functions, movement of erythrocytes from the blood
-
-
-
-
-
-Figure 18.5 Summary of Formed Elements in Blood
-
-
-
+waste at the tissues and transport it to the lungs for exhalation. Erythrocytes remain within the vascular network.
 
 Shape and Structure of Erythrocytes
 As an erythrocyte matures in the red bone marrow, it extrudes its nucleus and most of its other organelles. During the
@@ -22126,9 +21170,6 @@ optimizes the ratio of surface area to volume, facilitating gas exchange. It als
 Hemoglobin is a large molecule made up of proteins and iron. It consists of four folded chains of a protein called globin,
 designated alpha 1 and 2, and beta 1 and 2 (Figure 18.7a). Each of these globin molecules is bound to a red pigment
 molecule called heme, which contains an ion of iron (Fe2+) (Figure 18.7b).
-
-
-
 
 
 Figure 18.7 Hemoglobin (a) A molecule of hemoglobin contains four globin proteins, each of which is bound to one
@@ -22221,9 +21262,6 @@ is associated with the urobilins.
 The erythrocyte lifecycle is summarized in Figure 18.8.
 
 
-
-
-
 Figure 18.8 Erythrocyte Lifecycle Erythrocytes are produced in the bone marrow and sent into the circulation. At
 the end of their lifecycle, they are destroyed by macrophages, and their components are recycled.
 
@@ -22233,10 +21271,6 @@ more than 400 types of anemia and more than 3.5 million Americans suffer from th
 down into three major groups: those caused by blood loss, those caused by faulty or decreased RBC production, and
 those caused by excessive destruction of RBCs. Clinicians often use two groupings in diagnosis: The kinetic approach
 focuses on evaluating the production, destruction, and removal of RBCs, whereas the morphological approach examines the
-
-
-
-
 RBCs themselves, paying particular emphasis to their size. A common test is the mean corpuscle volume (MCV), which
 measures size. Normal-sized cells are referred to as normocytic, smaller-than-normal cells are referred to as microcytic, and
 larger-than-normal cells are referred to as macrocytic. Reticulocyte counts are also important and may reveal inadequate
@@ -22273,9 +21307,6 @@ of vegetables may lead to a lack of folate.
 ◦ Pernicious anemia is caused by poor absorption of vitamin B12 and is often seen in patients with Crohn’s disease
 (a severe intestinal disorder often treated by surgery), surgical removal of the intestines or stomach (common in
 some weight loss surgeries), intestinal parasites, and AIDS.
-
-
-
 
 
 ◦ Pregnancies, some medications, excessive alcohol consumption, and some diseases such as celiac disease are
@@ -22344,10 +21375,6 @@ The monocyte, an agranular leukocyte, differentiates into a macrophage that then
 When scientists first began to observe stained blood slides, it quickly became evident that leukocytes could be divided into
 two groups, according to whether their cytoplasm contained highly visible granules:
 
-
-
-
-
 • Granular leukocytes contain abundant granules within the cytoplasm. They include neutrophils, eosinophils, and
 basophils (you can view their lineage from myeloid stem cells in Figure 18.4).
 • While granules are not totally lacking in agranular leukocytes, they are far fewer and less obvious. Agranular
@@ -22394,9 +21421,6 @@ considered to be basophils that left the circulation. However, this appears not 
 The granules of basophils release histamines, which contribute to inflammation, and heparin, which opposes blood clotting.
 High counts of basophils are associated with allergies, parasitic infections, and hypothyroidism. Low counts are associated
 with pregnancy, stress, and hyperthyroidism.
-
-
-
 
 Agranular leukocytes contain smaller, less-visible granules in their cytoplasm than do granular leukocytes. The nucleus is
 simple in shape, sometimes with an indentation but without distinct lobes. There are two major types of agranulocytes:
@@ -22452,9 +21476,6 @@ to infection. Some forms of lymphoma tend to progress slowly and respond well to
 quickly and require aggressive treatment, without which they are rapidly fatal.
 
 
-
-
-
 You may occasionally see platelets referred to as thrombocytes, but because this name suggests they are a type of cell,
 it is not accurate. A platelet is not a cell but rather a fragment of the cytoplasm of a cell called a megakaryocyte that is
 surrounded by a plasma membrane. Megakaryocytes are descended from myeloid stem cells (see Figure 18.4) and are large,
@@ -22476,10 +21497,7 @@ Thrombocytosis is a condition in which there are too many platelets. This may tr
 (thrombosis), a potentially fatal disorder. If there is an insufficient number of platelets, called thrombocytopenia, blood
 may not clot properly, and excessive bleeding may result.
 
-Figure 18.12 Platelets Platelets are derived from cells called megakaryocytes.
-
-
-
+Figure 18.12 Platelets Platelets are derived from cells called megakaryocytes.
 
 Figure 18.13 Leukocytes (Micrographs provided by the Regents of University of Michigan Medical School ©
 
@@ -22512,9 +21530,6 @@ that are released by vessel-lining cells and by pain receptors in response to ve
 for up to 30 minutes, although it can last for hours.
 
 
-
-
-
 Formation of the Platelet Plug
 In the second step, platelets, which normally float free in the plasma, encounter the area of vessel rupture with the exposed
 underlying connective tissue and collagenous fibers. The platelets begin to clump together, become spiked and sticky, and
@@ -22532,10 +21547,7 @@ Those more sophisticated and more durable repairs are collectively called coagul
 process is sometimes characterized as a cascade, because one event prompts the next as in a multi-level waterfall. The result
 is the production of a gelatinous but robust clot made up of a mesh of fibrin—an insoluble filamentous protein derived from
 fibrinogen, the plasma protein introduced earlier—in which platelets and blood cells are trapped. Figure 18.14 summarizes
-the three steps of hemostasis.
-
-
-
+the three steps of hemostasis.
 
 Figure 18.14 Hemostasis (a) An injury to a blood vessel initiates the process of hemostasis. Blood clotting involves
 three steps. First, vascular spasm constricts the flow of blood. Next, a platelet plug forms to temporarily seal small
@@ -22550,11 +21562,6 @@ more coagulation factors. The process is complex, but is initiated along two bas
 • The intrinsic pathway, which begins in the bloodstream and is triggered by internal damage to the wall of the vessel.
 Both of these merge into a third pathway, referred to as the common pathway (see Figure 18.14b). All three pathways are
 dependent upon the 12 known clotting factors, including Ca2+ and vitamin K (Table 18.1). Clotting factors are secreted
-
-
-
-
-
 primarily by the liver and the platelets. The liver requires the fat-soluble vitamin K to produce many of them. Vitamin K
 (along with biotin and folate) is somewhat unusual among vitamins in that it is not only consumed in the diet but is also
 synthesized by bacteria residing in the large intestine. The calcium ion, considered factor IV, is derived from the diet and
@@ -22563,75 +21570,6 @@ receptor sites on the surfaces of platelets.
 The 12 clotting factors are numbered I through XIII according to the order of their discovery. Factor VI was once believed
 to be a distinct clotting factor, but is now thought to be identical to factor V. Rather than renumber the other factors, factor
 VI was allowed to remain as a placeholder and also a reminder that knowledge changes over time.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-protein factor endothelial cells hemophilia A
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Table 18.1 *Vitamin K required.
 
@@ -22686,9 +21624,6 @@ coagulation factors in the presence of an injury. How does the endothelium of th
 from coagulating as it flows through the blood vessels?
 
 
-
-
-
 Either an insufficient or an excessive production of platelets can lead to severe disease or death. As discussed earlier, an
 insufficient number of platelets, called thrombocytopenia, typically results in the inability of blood to form clots. This can
 lead to excessive bleeding, even from minor wounds.
@@ -22740,10 +21675,7 @@ By the end of this section, you will be able to:
 • Describe the two basic physiological consequences of transfusion of incompatible blood
 • Compare and contrast ABO and Rh blood groups
 • Identify which blood groups may be safely transfused into patients with different ABO types
-• Discuss the pathophysiology of hemolytic disease of the newborn
-
-
-
+• Discuss the pathophysiology of hemolytic disease of the newborn
 
 Blood transfusions in humans were risky procedures until the discovery of the major human blood groups by Karl
 Landsteiner, an Austrian biologist and physician, in 1900. Until that point, physicians did not understand that death
@@ -22795,57 +21727,6 @@ type, the Rh group is designated by adding the word positive or negative to the 
 means ABO group A blood with the Rh antigen present, and AB negative (AB−) means ABO group AB blood without the
 Table 18.2 summarizes the distribution of the ABO and Rh blood types within the United States.
 
-
-
-
-
-Summary of ABO and Rh Blood Types within the United States
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 In contrast to the ABO group antibodies, which are preformed, antibodies to the Rh antigen are produced only in Rh−
 individuals after exposure to the antigen. This process, called sensitization, occurs following a transfusion with Rhincompatible blood or, more commonly, with the birth of an Rh+ baby to an Rh− mother. Problems are rare in a first
 pregnancy, since the baby’s Rh+ cells rarely cross the placenta (the organ of gas and nutrient exchange between the baby
@@ -22856,8 +21737,6 @@ Rh antibodies she has produced can cross the placenta into the fetal bloodstream
 known as hemolytic disease of the newborn (HDN) or erythroblastosis fetalis, may cause anemia in mild cases, but the
 agglutination and hemolysis can be so severe that without treatment the fetus may die in the womb or shortly after birth.
 
-
-
 
 Figure 18.15 Erythroblastosis Fetalis The first exposure of an Rh− mother to Rh+ erythrocytes during pregnancy
 induces sensitization. Anti-Rh antibodies begin to circulate in the mother’s bloodstream. A second exposure occurs
@@ -22875,9 +21754,6 @@ Clinicians are able to determine a patient’s blood type quickly and easily usi
 unknown blood sample is allocated into separate wells. Into one well a small amount of anti-A antibody is added, and to
 another a small amount of anti-B antibody. If the antigen is present, the antibodies will cause visible agglutination of the
 cells (Figure 18.16). The blood should also be tested for Rh antibodies.
-
-
-
 
 
 Figure 18.16 Cross Matching Blood Types This sample of a commercially produced “bedside” card enables quick
@@ -22912,16 +21788,10 @@ medics may at least try to replace some of the volume of blood that has been los
 of a saline solution that provides fluids and electrolytes in proportions equivalent to those of normal blood plasma. Research
 is ongoing to develop a safe and effective artificial blood that would carry out the oxygen-carrying function of blood without
 the RBCs, enabling transfusions in the field without concern for incompatibility. These blood substitutes normally contain
-hemoglobin- as well as perfluorocarbon-based oxygen carriers.
-
-
-
+hemoglobin- as well as perfluorocarbon-based oxygen carriers.
 
 Figure 18.17 ABO Blood Group This chart summarizes the characteristics of the blood types in the ABO blood
 group. See the text for more on the concept of a universal donor or recipient.
-
-
-
 
 
 ABO blood group blood-type classification based on the presence or absence of A and B glycoproteins on the
@@ -22990,11 +21860,6 @@ and interleukins that regulate the differentiation and proliferation of particul
 hemopoietic stem cell type of pluripotent stem cell that gives rise to the formed elements of blood (hemocytoblast)
 hemosiderin protein-containing storage form of iron found in the bone marrow, liver, and spleen
 hemostasis physiological process by which bleeding ceases
-
-
-
-
-
 heparin short-acting anticoagulant stored in mast cells and released when tissues are injured, opposes prothrombin
 hypoxemia below-normal level of oxygen saturation of blood (typically <95 percent)
 immunoglobulins (also, antibodies or gamma globulins) antigen-specific proteins produced by specialized B
@@ -23064,11 +21929,6 @@ Blood is a fluid connective tissue critical to the transportation of nutrients, 
 defend the body against infection and other threats; and to the homeostatic regulation of pH, temperature, and other internal
 conditions. Blood is composed of formed elements—erythrocytes, leukocytes, and cell fragments called platelets—and
 a fluid extracellular matrix called plasma. More than 90 percent of plasma is water. The remainder is mostly plasma
-
-
-
-
-
 proteins—mainly albumin, globulins, and fibrinogen—and other dissolved solutes such as glucose, lipids, electrolytes, and
 dissolved gases. Because of the formed elements and the plasma proteins and other solutes, blood is sticky and more viscous
 than water. It is also slightly alkaline, and its temperature is slightly higher than normal body temperature.
@@ -23118,17 +21978,12 @@ nor B antigens. The blood plasma contains preformed antibodies against the antig
 A second group of blood antigens is the Rh group, the most important of which is Rh D. People with Rh− blood do not have
 this antigen on their erythrocytes, whereas those who are Rh+ do. About 85 percent of Americans are Rh+. When a woman
 who is Rh− becomes pregnant with an Rh+ fetus, her body may begin to produce anti-Rh antibodies. If she subsequently
-
-
-
-
 becomes pregnant with a second Rh+ fetus and is not treated preventively with RhoGAM, the fetus will be at risk for an
 antigen-antibody reaction, including agglutination and hemolysis. This is known as hemolytic disease of the newborn.
 Cross matching to determine blood type is necessary before transfusing blood, unless the patient is experiencing hemorrhage
-that is an immediate threat to life, in which case type O− blood may be transfused.
+that is an immediate threat to life, in which case type O− blood may be transfused.
 
-
-CHAPTER 19 | THE CARDIOVASCULAR SYSTEM: THE HEART
+CHAPTER 19 | THE CARDIOVASCULAR SYSTEM: THE HEART
 
 
 After studying this chapter, you will be able to:
@@ -23139,11 +21994,6 @@ Describe the size, shape, and location of the heart
 Compare cardiac muscle to skeletal and smooth muscle
 Explain the cardiac conduction system
 Describe the process and purpose of an electrocardiogram
-
-
-
-
-
 
 Describe the effects of exercise on cardiac output and heart rate
 Name the centers of the brain that control heart rate and describe their function
@@ -23185,14 +22035,8 @@ and orientation of the heart when placing a stethoscope on the chest of a patien
 when looking at images taken from a midsagittal perspective. The slight deviation of the apex to the left is reflected in a
 depression in the medial surface of the inferior lobe of the left lung, called the cardiac notch.
 
-
-
-
 Figure 19.2 Position of the Heart in the Thorax The heart is located within the thoracic cavity, medially between
 the lungs in the mediastinum. It is about the size of a fist, is broad at the top, and tapers toward the base.
-
-
-
 
 
 The position of the heart in the torso between the vertebrae and sternum (see Figure 19.2 for the position of the heart
@@ -23217,10 +22061,6 @@ normally include practice of the compression technique on a mannequin.
 Figure 19.3 CPR Technique If the heart should stop, CPR can maintain the flow of blood until the heart resumes
 beating. By applying pressure to the sternum, the blood within the heart will be squeezed out of the heart and into
 the circulation. Proper positioning of the hands on the sternum to perform CPR would be between the lines at T4
-
-
-
-
 Visit the American Heart Association website (http://openstaxcollege.org/l/AHA) to help locate a course near your
 home in the United States. There are also many other national and regional heart associations that offer the same
 service, depending upon the location.
@@ -23266,9 +22106,6 @@ circulation continues as long as the individual remains alive. Understanding the
 systemic circuits is critical to all health professions (Figure 19.4).
 
 
-
-
-
 Figure 19.4 Dual System of the Human Blood Circulation Blood flows from the right atrium to the right ventricle,
 where it is pumped into the pulmonary circuit. The blood in the pulmonary artery branches is low in oxygen but relatively
 high in carbon dioxide. Gas exchange occurs in the pulmonary capillaries (oxygen into the blood, carbon dioxide out),
@@ -23288,9 +22125,6 @@ inner serous pericardium. The fibrous pericardium is made of tough, dense connec
 maintains its position in the thorax. The more delicate serous pericardium consists of two layers: the parietal pericardium,
 which is fused to the fibrous pericardium, and an inner visceral pericardium, or epicardium, which is fused to the heart
 and is part of the heart wall. The pericardial cavity, filled with lubricating serous fluid, lies between the epicardium and the
-
-
-
 
 In most organs within the body, visceral serous membranes such as the epicardium are microscopic. However, in the case
 of the heart, it is not a microscopic layer but rather a macroscopic layer, consisting of a simple squamous epithelium
@@ -23321,11 +22155,6 @@ that can fill with blood and empty into the atria or upper chambers of the heart
 appendages. Also prominent is a series of fat-filled grooves, each of which is known as a sulcus (plural = sulci), along
 the superior surfaces of the heart. Major coronary blood vessels are located in these sulci. The deep coronary sulcus is
 located between the atria and ventricles. Located between the left and right ventricles are two additional sulci that are not
-
-
-
-
-
 as deep as the coronary sulcus. The anterior interventricular sulcus is visible on the anterior surface of the heart, whereas
 the posterior interventricular sulcus is visible on the posterior surface of the heart. Figure 19.6 illustrates anterior and
 posterior views of the surface of the heart.
@@ -23343,9 +22172,6 @@ around the atria and around the bases of the great vessels. Deeper ventricular m
 ventricles and proceed toward the apex. More superficial layers of ventricular muscle wrap around both ventricles. This
 complex swirling pattern allows the heart to pump blood more effectively than a simple linear pattern would. Figure 19.7
 illustrates the arrangement of muscle cells.
-
-
-
 
 Figure 19.7 Heart Musculature The swirling pattern of cardiac muscle tissue contributes significantly to the heart’s
 ability to pump blood effectively.
@@ -23368,11 +22194,6 @@ Once regarded as a simple lining layer, recent evidence indicates that the endot
 capillaries may play active roles in regulating the contraction of the muscle within the myocardium. The endothelium
 may also regulate the growth patterns of the cardiac muscle cells throughout life, and the endothelins it secretes create
 an environment in the surrounding tissue fluids that regulates ionic concentrations and states of contractility. Endothelins
-
-
-
-
-
 are potent vasoconstrictors and, in a normal individual, establish a homeostatic balance with other vasoconstrictors and
 
 Internal Structure of the Heart
@@ -23405,9 +22226,6 @@ the point of attachment for the heart valves. The cardiac skeleton also provides
 Figure 19.9 Internal Structures of the Heart This anterior view of the heart shows the four chambers, the major
 vessels and their early branches, as well as the valves. The presence of the pulmonary trunk and aorta covers the
 interatrial septum, and the atrioventricular septum is cut away to show the atrioventricular valves.
-
-
-
 
 One very common form of interatrial septum pathology is patent foramen ovale, which occurs when the septum
 primum does not close at birth, and the fossa ovalis is unable to fuse. The word patent is from the Latin root patens for
@@ -23457,9 +22275,6 @@ may be detected. This is often followed by medical imaging to confirm or rule ou
 may not be needed. Some common congenital heart defects are illustrated in Figure 19.10.
 
 
-
-
-
 Figure 19.10 Congenital Heart Defects (a) A patent foramen ovale defect is an abnormal opening in the
 interatrial septum, or more commonly, a failure of the foramen ovale to close. (b) Coarctation of the aorta is an
 abnormal narrowing of the aorta. (c) A patent ductus arteriosus is the failure of the ductus arteriosus to close. (d)
@@ -23493,9 +22308,6 @@ from higher pressure to lower pressure areas, in this case, toward the pulmonary
 potential backflow, the papillary muscles also contract, generating tension on the chordae tendineae. This prevents the flaps
 of the valves from being forced into the atria and regurgitation of the blood back into the atria during ventricular contraction.
 Figure 19.11 shows papillary muscles and chordae tendineae attached to the tricuspid valve.
-
-
-
 
 Figure 19.11 Chordae Tendineae and Papillary Muscles In this frontal section, you can see papillary muscles
 attached to the tricuspid valve on the right as well as the mitral valve on the left via chordae tendineae. (credit:
@@ -23531,9 +22343,6 @@ leaflets, made of endocardium reinforced with additional connective tissue. The 
 to the papillary muscles, which control the opening and closing of the valves.
 
 
-
-
-
 Figure 19.12 Heart Valves With the atria and major vessels removed, all four valves are clearly visible, although it is
 difficult to distinguish the three separate cusps of the tricuspid valve.
 
@@ -23555,9 +22364,6 @@ In Figure 19.13a, the two atrioventricular valves are open and the two semilunar
 atria and ventricles are relaxed and when the atria contract to pump blood into the ventricles. Figure 19.13b shows a frontal
 view. Although only the left side of the heart is illustrated, the process is virtually identical on the right.
 
-
-
-
 Figure 19.13 Blood Flow from the Left Atrium to the Left Ventricle (a) A transverse section through the heart
 illustrates the four heart valves. The two atrioventricular valves are open; the two semilunar valves are closed. The atria
 and vessels have been removed. (b) A frontal section through the heart illustrates blood flow through the mitral valve.
@@ -23567,9 +22373,6 @@ valve is closed to prevent backflow of blood from the aorta to the left ventricl
 Figure 19.14a shows the atrioventricular valves closed while the two semilunar valves are open. This occurs when the
 ventricles contract to eject blood into the pulmonary trunk and aorta. Closure of the two atrioventricular valves prevents
 blood from being forced back into the atria. This stage can be seen from a frontal view in Figure 19.14b.
-
-
-
 
 
 Figure 19.14 Blood Flow from the Left Ventricle into the Great Vessels (a) A transverse section through the
@@ -23588,9 +22391,6 @@ The aortic and pulmonary semilunar valves lack the chordae tendineae and papilla
 atrioventricular valves. Instead, they consist of pocket-like folds of endocardium reinforced with additional connective
 tissue. When the ventricles relax and the change in pressure forces the blood toward the ventricles, the blood presses against
 these cusps and seals the openings.
-
-
-
 
 Visit this site (http://openstaxcollege.org/l/heartvalve) to observe an echocardiogram of actual heart valves opening
 and closing. Although much of the heart has been “removed” from this gif loop so the chordae tendineae are not visible,
@@ -23625,10 +22425,6 @@ diagnostic purposes as far back as the ancient Egyptians. Valve and septal disor
 If a valvular disorder is detected or suspected, a test called an echocardiogram, or simply an “echo,” may be ordered.
 Echocardiograms are sonograms of the heart and can help in the diagnosis of valve disorders as well as a wide variety
 
-
-
-
-
 Visit this site (http://openstaxcollege.org/l/heartsounds) for a free download, including excellent animations and
 
 Cardiologists are medical doctors that specialize in the diagnosis and treatment of diseases of the heart. After
@@ -23641,9 +22437,6 @@ be invited to become a Fellow of the American College of Cardiology (FACC). This
 awarded to outstanding physicians based upon merit, including outstanding credentials, achievements, and community
 
 Visit this site (http://openstaxcollege.org/l/cardiologist) to learn more about cardiologists.
-
-
-
 
 Cardiovascular technologists/technicians are trained professionals who perform a variety of imaging techniques, such
 as sonograms or echocardiograms, used by physicians to diagnose and treat diseases of the heart. Nearly all of these
@@ -23680,9 +22473,6 @@ blockage in another branch. The anastomoses in the heart are very small. Therefo
 the heart so a coronary artery blockage often results in death of the cells (myocardial infarction) supplied by the particular
 
 
-
-
-
 The right coronary artery proceeds along the coronary sulcus and distributes blood to the right atrium, portions of both
 ventricles, and the heart conduction system. Normally, one or more marginal arteries arise from the right coronary artery
 inferior to the right atrium. The marginal arteries supply blood to the superficial portions of the right ventricle. On the
@@ -23693,9 +22483,6 @@ of the coronary circulation from both the anterior and posterior views.
 
 Figure 19.15 Coronary Circulation The anterior view of the heart shows the prominent coronary surface vessels.
 The posterior view of the heart shows the prominent coronary surface vessels.
-
-
-
 
 Myocardial infarction (MI) is the formal term for what is commonly referred to as a heart attack. It normally results
 from a lack of blood flow (ischemia) and oxygen (hypoxia) to a region of the heart, resulting in death of the cardiac
@@ -23745,9 +22532,6 @@ anterior cardiac veins parallel the small cardiac arteries and drain the anterio
 other cardiac veins, it bypasses the coronary sinus and drains directly into the right atrium.
 
 
-
-
-
 Coronary artery disease is the leading cause of death worldwide. It occurs when the buildup of plaque—a fatty material
 including cholesterol, connective tissue, white blood cells, and some smooth muscle cells—within the walls of the
 arteries obstructs the flow of blood and decreases the flexibility or compliance of the vessels. This condition is called
@@ -23771,9 +22555,6 @@ an expandable tip is inserted into a superficial vessel, normally in the leg, an
 At this point, the balloon is inflated to compress the plaque material and to open the vessel to increase blood flow.
 Then, the balloon is deflated and retracted. A stent consisting of a specialized mesh is typically inserted at the site of
 occlusion to reinforce the weakened and damaged walls. Stent insertions have been routine in cardiology for more than
-
-
-
 
 Coronary bypass surgery may also be performed. This surgical procedure grafts a replacement vessel obtained from
 another, less vital portion of the body to bypass the occluded area. This procedure is clearly effective in treating patients
@@ -23820,9 +22601,6 @@ contraction (Figure 19.17c). Intercellular connective tissue also helps to bind 
 binding these cells together is necessitated by the forces exerted by contraction.
 
 
-
-
-
 Figure 19.17 Cardiac Muscle (a) Cardiac muscle cells have myofibrils composed of myofilaments arranged in
 sarcomeres, T tubules to transmit the impulse from the sarcolemma to the interior of the cell, numerous mitochondria
 for energy, and intercalated discs that are found at the junction of different cardiac muscle cells. (b) A photomicrograph
@@ -23835,9 +22613,6 @@ and glycogen are all stored within the cytoplasm. Cardiac muscle cells undergo t
 periods followed by brief relaxation periods. The relaxation is essential so the heart can fill with blood for the next cycle.
 The refractory period is very long to prevent the possibility of tetany, a condition in which muscle remains involuntarily
 contracted. In the heart, tetany is not compatible with life, since it would prevent the heart from pumping blood.
-
-
-
 
 Damaged cardiac muscle cells have extremely limited abilities to repair themselves or to replace dead cells via
 mitosis. Recent evidence indicates that at least some stem cells remain within the heart that continue to divide and
@@ -23868,11 +22643,6 @@ SA node has the highest inherent rate of depolarization and is known as the pace
 rhythm, or normal electrical pattern followed by contraction of the heart.
 This impulse spreads from its initiation in the SA node throughout the atria through specialized internodal pathways, to the
 atrial myocardial contractile cells and the atrioventricular node. The internodal pathways consist of three bands (anterior,
-
-
-
-
-
 middle, and posterior) that lead directly from the SA node to the next node in the conduction system, the atrioventricular
 node (see Figure 19.18). The impulse takes approximately 50 ms (milliseconds) to travel between these two nodes. The
 relative importance of this pathway has been debated since the impulse would reach the atrioventricular node simply
@@ -23905,9 +22675,6 @@ into the ventricles before the impulse is transmitted to the cells of the ventri
 node, the AV node can transmit impulses maximally at 220 per minute. This establishes the typical maximum heart rate in
 a healthy young individual. Damaged hearts or those stimulated by drugs can contract at higher rates, but at these rates, the
 heart can no longer effectively pump blood.
-
-
-
 
 Atrioventricular Bundle (Bundle of His), Bundle Branches, and Purkinje Fibers
 Arising from the AV node, the atrioventricular bundle, or bundle of His, proceeds through the interventricular septum
@@ -23952,11 +22719,6 @@ an impulse to reach them.
 Contractile cells demonstrate a much more stable resting phase than conductive cells at approximately −80 mV for cells
 in the atria and −90 mV for cells in the ventricles. Despite this initial difference, the other components of their action
 potentials are virtually identical. In both cases, when stimulated by an action potential, voltage-gated channels rapidly
-
-
-
-
-
 open, beginning the positive-feedback mechanism of depolarization. This rapid influx of positively charged ions raises the
 membrane potential to approximately +30 mV, at which point the sodium channels close. The rapid depolarization period
 typically lasts 3–5 ms. Depolarization is followed by the plateau phase, in which membrane potential declines relatively
@@ -23981,9 +22743,6 @@ removes the inhibition that prevents the heads of the myosin molecules from form
 on actin that provide the power stroke of contraction. This mechanism is virtually identical to that of skeletal muscle.
 Approximately 20 percent of the calcium required for contraction is supplied by the influx of Ca2+ during the plateau phase.
 The remaining Ca2+ for contraction is released from storage in the sarcoplasmic reticulum.
-
-
-
 Comparative Rates of Conduction System Firing
 The pattern of prepotential or spontaneous depolarization, followed by rapid depolarization and repolarization just
 described, are seen in the SA node and a few other conductive cells in the heart. Since the SA node is the pacemaker, it
@@ -24011,9 +22770,6 @@ the patient wears a small, portable, battery-operated device known as a Holter m
 monitors heart electrical activity, typically for a period of 24 hours during the patient’s normal routine.
 
 
-
-
-
 Figure 19.22 Standard Placement of ECG Leads In a 12-lead ECG, six electrodes are placed on the chest, and
 four electrodes are placed on the limbs.
 
@@ -24034,24 +22790,14 @@ to view in some tracings, the measurement is often extended to the R that is mor
 in passage of the impulse from the SA node to the AV node, it would be visible in the PR interval. Figure 19.24 correlates
 events of heart contraction to the corresponding segments and intervals of an ECG.
 
-
-
-
 Visit this site (http://openstaxcollege.org/l/ECG) for a more detailed analysis of ECGs.
 
 Figure 19.23 Electrocardiogram A normal tracing shows the P wave, QRS complex, and T wave. Also indicated are
 the PR, QT, QRS, and ST intervals, plus the P-R and S-T segments.
 
 
-
-
-
 Figure 19.24 ECG Tracing Correlated to the Cardiac Cycle This diagram correlates an ECG tracing with the
 electrical and mechanical events of a heart contraction. Each segment of an ECG tracing corresponds to one event in
-
-
-
-
 Occassionally, an area of the heart other than the SA node will initiate an impulse that will be followed by a premature
 contraction. Such an area, which may actually be a component of the conduction system or some other contractile
 cells, is known as an ectopic focus or ectopic pacemaker. An ectopic focus may be stimulated by localized ischemia;
@@ -24074,9 +22820,6 @@ for there to be pulseless electrical activity, which will show up on an ECG trac
 pumping action. Common abnormalities that may be detected by the ECGs are shown in Figure 19.25.
 
 
-
-
-
 Figure 19.25 Common ECG Abnormalities (a) In a second-degree or partial block, one-half of the P waves
 are not followed by the QRS complex and T waves while the other half are. (b) In atrial fibrillation, the electrical
 pattern is abnormal prior to the QRS complex, and the frequency between the QRS complexes has increased.
@@ -24085,9 +22828,6 @@ normal electrical activity. (e) In a third-degree block, there is no correlation
 ventricular activity (the QRS complex).
 
 Visit this site (http://openstaxcollege.org/l/abnormalECG) for a more complete library of abnormal ECGs.
-
-
-
 
 In the event that the electrical activity of the heart is severely disrupted, cessation of electrical activity or fibrillation
 may occur. In fibrillation, the heart beats in a wild, uncontrolled manner, which prevents it from being able to pump
@@ -24127,11 +22867,6 @@ demand or on a continuous basis. Some devices also contain built-in defibrillato
 
 Normally, cardiac muscle metabolism is entirely aerobic. Oxygen from the lungs is brought to the heart, and every
 other organ, attached to the hemoglobin molecules within the erythrocytes. Heart cells also store appreciable amounts of
-
-
-
-
-
 oxygen in myoglobin. Normally, these two mechanisms, circulating oxygen and oxygen attached to myoglobin, can supply
 sufficient oxygen to the heart, even during peak performance.
 Fatty acids and glucose from the circulation are broken down within the mitochondria to release energy in the form of
@@ -24151,10 +22886,6 @@ is pumped efficiently to the body.
 
 Figure 19.27 Overview of the Cardiac Cycle The cardiac cycle begins with atrial systole and progresses to
 ventricular systole, atrial diastole, and ventricular diastole, when the cycle begins again. Correlations to the ECG are
-
-
-
-
 Fluids, whether gases or liquids, are materials that flow according to pressure gradients—that is, they move from regions
 that are higher in pressure to regions that are lower in pressure. Accordingly, when the heart chambers are relaxed (diastole),
 blood will flow into the atria from the veins, which are higher in pressure. As blood flows into the atria, the pressure will
@@ -24210,11 +22941,6 @@ In the second phase of ventricular diastole, called late ventricular diastole, a
 the blood within the ventricles drops even further. Eventually, it drops below the pressure in the atria. When this occurs,
 blood flows from the atria into the ventricles, pushing open the tricuspid and mitral valves. As pressure drops within the
 ventricles, blood flows from the major veins into the relaxed atria and from there into the ventricles. Both chambers are in
-
-
-
-
-
 diastole, the atrioventricular valves are open, and the semilunar valves remain closed (see Figure 19.27). The cardiac cycle
 Figure 19.28 illustrates the relationship between the cardiac cycle and the ECG.
 
@@ -24237,13 +22963,7 @@ tests. Some cardiologists refer to the collective S1, S2, and S3 sounds as the �
 produced by a galloping horse. The fourth heart sound, S4, results from the contraction of the atria pushing blood into a stiff
 or hypertrophic ventricle, indicating failure of the left ventricle. S4 occurs prior to S1 and the collective sounds S4, S1, and
 S2 are referred to by some cardiologists as the “Tennessee gallop,” because of their similarity to the sound produced by a
-galloping horse with a different gait. A few individuals may have both S3 and S4, and this combined sound is referred to as
-
-
-
-
-Figure 19.29 Heart Sounds and the Cardiac Cycle In this illustration, the x-axis reflects time with a recording of the
-heart sounds. The y-axis represents pressure.
+galloping horse with a different gait.
 
 The term murmur is used to describe an unusual sound coming from the heart that is caused by the turbulent flow of blood.
 Murmurs are graded on a scale of 1 to 6, with 1 being the most common, the most difficult sound to detect, and the least
@@ -24252,9 +22972,6 @@ During auscultation, it is common practice for the clinician to ask the patient 
 allows for listening to airflow, but it may also amplify heart murmurs. Inhalation increases blood flow into the right side
 of the heart and may increase the amplitude of right-sided heart murmurs. Expiration partially restricts blood flow into the
 left side of the heart and may amplify left-sided heart murmurs. Figure 19.30 indicates proper placement of the bell of the
-
-
-
 
 
 Figure 19.30 Stethoscope Placement for Auscultation Proper placement of the bell of the stethoscope facilitates
@@ -24280,10 +22997,6 @@ SV is normally measured using an echocardiogram to record EDV and ESV, and calcu
 – ESV. SV can also be measured using a specialized catheter, but this is an invasive procedure and far more dangerous
 to the patient. A mean SV for a resting 70-kg (150-lb) individual would be approximately 70 mL. There are several
 important variables, including size of the heart, physical and mental condition of the individual, sex, contractility, duration
-
-
-
-
 of contraction, preload or EDV, and afterload or resistance. Normal range for SV would be 55–100 mL. An average resting
 HR would be approximately 75 bpm but could range from 60–100 in some individuals.
 Using these numbers, the mean CO is 5.25 L/min, with a range of 4.0–8.0 L/min. Remember, however, that these numbers
@@ -24309,9 +23022,6 @@ Maximum HRs are normally in the range of 200–220 bpm, although there are some 
 higher levels. As one ages, the ability to generate maximum rates decreases. This may be estimated by taking the maximal
 value of 220 bpm and subtracting the individual’s age. So a 40-year-old individual would be expected to hit a maximum
 rate of approximately 180, and a 60-year-old person would achieve a HR of 160.
-
-
-
 
 
 For an adult, normal resting HR will be in the range of 60–100 bpm. Bradycardia is the condition in which resting
@@ -24364,11 +23074,7 @@ Both sympathetic and parasympathetic stimulations flow through a paired complex 
 cardiac plexus near the base of the heart. The cardioaccelerator center also sends additional fibers, forming the cardiac
 nerves via sympathetic ganglia (the cervical ganglia plus superior thoracic ganglia T1–T4) to both the SA and AV nodes,
 plus additional fibers to the atria and ventricles. The ventricles are more richly innervated by sympathetic fibers than
-parasympathetic fibers. Sympathetic stimulation causes the release of the neurotransmitter norepinephrine (NE) at the
-
-
-
-neuromuscular junction of the cardiac nerves. NE shortens the repolarization period, thus speeding the rate of depolarization
+parasympathetic fibers. Sympathetic stimulation causes the release of the neurotransmitter norepinephrine (NE) at the neuromuscular junction of the cardiac nerves. NE shortens the repolarization period, thus speeding the rate of depolarization
 and contraction, which results in an increase in HR. It opens chemical- or ligand-gated sodium and calcium ion channels,
 allowing an influx of positively charged ions.
 NE binds to the beta-1 receptor. Some cardiac medications (for example, beta blockers) work by blocking these receptors,
@@ -24390,9 +23096,6 @@ a car with one foot on the brake pedal. To speed up, one need merely remove one�
 increase speed. In the case of the heart, decreasing parasympathetic stimulation decreases the release of ACh, which allows
 HR to increase up to approximately 100 bpm. Any increases beyond this rate would require sympathetic stimulation. Figure
 19.33 illustrates the effects of parasympathetic and sympathetic stimulation on the normal sinus rhythm.
-
-
-
 
 
 Figure 19.33 Effects of Parasympathetic and Sympathetic Stimulation on Normal Sinus Rhythm The wave of
@@ -24417,10 +23120,6 @@ sympathetic stimulation and decrease parasympathetic stimulation.
 There is a similar reflex, called the atrial reflex or Bainbridge reflex, associated with varying rates of blood flow to the
 atria. Increased venous return stretches the walls of the atria where specialized baroreceptors are located. However, as the
 atrial baroreceptors increase their rate of firing and as they stretch due to the increased blood pressure, the cardiac center
-
-
-
-
 responds by increasing sympathetic stimulation and inhibiting parasympathetic stimulation to increase HR. The opposite is
 Increased metabolic byproducts associated with increased activity, such as carbon dioxide, hydrogen ions, and lactic acid,
 plus falling oxygen levels, are detected by a suite of chemoreceptors innervated by the glossopharyngeal and vagus nerves.
@@ -24451,73 +23150,6 @@ control over HR. However, there are a number of other factors that have an impac
 NE, and thyroid hormones; levels of various ions including calcium, potassium, and sodium; body temperature; hypoxia;
 and pH balance (Table 19.1 and Table 19.2). After reading this section, the importance of maintaining homeostasis should
 
-Major Factors Increasing Heart Rate and Force of Contraction
-
-
-Cardioaccelerator nerves Release of norepinephrine
-
-Increased rates of firing during exercise
-
-
-Decreased levels of O2; increased levels of H+, CO2, and lactic acid
-
-
-Decreased rates of firing, indicating falling blood volume/pressure
-
-
-Anticipation of physical exercise or strong emotions
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Major Factors Increasing Heart Rate and Force of Contraction
-
-
-
-
-
-
-
-
-
-Factors Decreasing Heart Rate and Force of Contraction
-
-
-Cardioinhibitor nerves (vagus) Release of acetylcholine
-
-Decreased rates of firing following exercise
-
-
-Increased levels of O2; decreased levels of H+ and CO2
-
-
-Increased rates of firing, indicating higher blood volume/pressure
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The catecholamines, epinephrine and NE, secreted by the adrenal medulla form one component of the extended fight-orflight mechanism. The other component is sympathetic stimulation. Epinephrine and NE have similar effects: binding to
 the beta-1 receptors, and opening sodium and calcium ion chemical- or ligand-gated channels. The rate of depolarization
 is increased by this additional influx of positively charged ions, so the threshold is reached more quickly and the period
@@ -24537,9 +23169,6 @@ calcium channel blockers slow HR by binding to these channels and blocking or sl
 
 Caffeine and nicotine are not found naturally within the body. Both of these nonregulated drugs have an excitatory effect
 on membranes of neurons in general and have a stimulatory effect on the cardiac centers specifically, causing an increase in
-
-
-
 HR. Caffeine works by increasing the rates of depolarization at the SA node, whereas nicotine stimulates the activity of the
 sympathetic neurons that deliver impulses to the heart.
 Although it is the world’s most widely consumed psychoactive drug, caffeine is legal and not regulated. While precise
@@ -24596,11 +23225,6 @@ sarcomeres stretched beyond their optimal lengths, the force of contraction woul
 constraints of the location of the heart, this excessive stretch is not a concern.
 The relationship between ventricular stretch and contraction has been stated in the well-known Frank-Starling mechanism
 or simply Starling’s Law of the Heart. This principle states that, within physiological limits, the force of heart contraction
-
-
-
-
-
 is directly proportional to the initial length of the muscle fiber. This means that the greater the stretch of the ventricular
 muscle (within limits), the more powerful the contraction is, which in turn increases SV. Therefore, by increasing preload,
 you increase the second variable, contractility.
@@ -24648,9 +23272,6 @@ decrease in resistance decreases the afterload. Figure 19.34 summarizes the majo
 summarizes the major factors influencing CO, and Table 19.3 and Table 19.4 summarize cardiac responses to increased
 and decreased blood flow and pressure in order to restore homeostasis.
 
-
-
-
 Figure 19.34 Major Factors Influencing Stroke Volume Multiple factors impact preload, afterload, and contractility,
 and are the major considerations influencing SV.
 
@@ -24660,19 +23281,10 @@ products, and temperature. The primary factors controlling SV include preload, c
 such as electrolytes may be classified as either positive or negative inotropic agents.
 
 
-
-
-
 Cardiac Response to Decreasing Blood Flow and Pressure Due to Decreasing
 
 system and in proximity to
-
-
-
 Decreasing O2 and increasing CO2, H+, and lactic
-
-
-
 
 Response Increasing heart rate and increasing stroke
 
@@ -24680,19 +23292,10 @@ Increasing heart rate and increasing stroke
 
 Increasing blood flow and pressure due to
 Increasing blood flow and pressure due to
-increasing cardiac output; hemostasis restored increasing cardiac output; hemostasis restored
-
-
-Cardiac Response to Increasing Blood Flow and Pressure Due to Increasing
+increasing cardiac output; hemostasis restored increasing cardiac output; hemostasis restoredCardiac Response to Increasing Blood Flow and Pressure Due to Increasing
 
 system and in proximity to
-
-
-
 Increasing O2 and decreasing CO2, H+, and lactic
-
-
-
 
 Response Decreasing heart rate and decreasing stroke
 
@@ -24700,10 +23303,7 @@ Decreasing blood flow and pressure due to
 
 Decreasing heart rate and decreasing stroke
 Decreasing blood flow and pressure due to
-decreasing cardiac output; hemostasis restored
-
-
-19.5 | Development of the Heart
+decreasing cardiac output; hemostasis restored19.5 | Development of the Heart
 By the end of this section, you will be able to:
 • Describe the embryological development of heart structures
 • Identify five regions of the fetal heart
@@ -24719,9 +23319,6 @@ chemical signals called factors from the underlying endoderm (another of the thr
 area begins to form two strands called the cardiogenic cords (Figure 19.36). As the cardiogenic cords develop, a lumen
 rapidly develops within them. At this point, they are referred to as endocardial tubes. The two tubes migrate together and
 fuse to form a single primitive heart tube. The primitive heart tube quickly forms five distinct regions. From head to tail,
-
-
-
 these include the truncus arteriosus, bulbus cordis, primitive ventricle, primitive atrium, and the sinus venosus. Initially, all
 venous blood flows into the sinus venosus, and contractions propel the blood from tail to head, or from the sinus venosus to
 the truncus arteriosus. This is a very different pattern from that of an adult.
@@ -24740,9 +23337,6 @@ The remainder of the heart development pattern includes development of septa and
 chambers. Partitioning of the atria and ventricles by the interatrial septum, interventricular septum, and atrioventricular
 septum is complete by the end of the fifth week, although the fetal blood shunts remain until birth or shortly after. The
 atrioventricular valves form between weeks five and eight, and the semilunar valves form between weeks five and nine.
-
-
-
 
 
 afterload force the ventricles must develop to effectively pump blood against the resistance in the vessels
@@ -24781,11 +23375,7 @@ impulses to the cardioaccelerator area to increase HR when venous flow into the 
 baroreceptor reflex autonomic reflex in which the cardiac centers monitor signals from the baroreceptor stretch
 receptors and regulate heart function based on blood flow
 bicuspid valve (also, mitral valve or left atrioventricular valve) valve located between the left atrium and ventricle;
-consists of two flaps of tissue
-
-
-
-bulbus cordis portion of the primitive heart tube that will eventually develop into the right ventricle
+consists of two flaps of tissuebulbus cordis portion of the primitive heart tube that will eventually develop into the right ventricle
 bundle of His (also, atrioventricular bundle) group of specialized myocardial conductile cells that transmit the impulse
 from the AV node through the interventricular septum; form the left and right atrioventricular bundle branches
 cardiac cycle period of time between the onset of atrial contraction (atrial systole) and ventricular relaxation
@@ -24824,11 +23414,6 @@ endocardium innermost layer of the heart lining the heart chambers and heart val
 reinforced with a thin layer of connective tissue that binds to the myocardium
 endothelium layer of smooth, simple squamous epithelium that lines the endocardium and blood vessels
 epicardial coronary arteries surface arteries of the heart that generally follow the sulci
-
-
-
-
-
 epicardium innermost layer of the serous pericardium and the outermost layer of the heart wall
 filling time duration of ventricular diastole during which filling occurs
 foramen ovale opening in the fetal heart that allows blood to flow directly from the right atrium to the left atrium,
@@ -24868,10 +23453,6 @@ middle cardiac vein vessel that parallels and drains the areas supplied by the p
 into the great cardiac vein
 mitral valve (also, left atrioventricular valve or bicuspid valve) valve located between the left atrium and ventricle;
 consists of two flaps of tissue
-
-
-
-
 moderator band band of myocardium covered by endocardium that arises from the inferior portion of the
 interventricular septum in the right ventricle and crosses to the anterior papillary muscle; contains conductile fibers
 that carry electrical signals followed by contraction of the heart
@@ -24910,11 +23491,6 @@ pulmonary arteries left and right branches of the pulmonary trunk that carry deo
 pulmonary capillaries capillaries surrounding the alveoli of the lungs where gas exchange occurs: carbon dioxide
 exits the blood and oxygen enters
 pulmonary circuit blood flow to and from the lungs
-
-
-
-
-
 pulmonary trunk large arterial vessel that carries blood ejected from the right ventricle; divides into the left and right
 pulmonary valve (also, pulmonary semilunar valve, the pulmonic valve, or the right semilunar valve) valve at the base
 of the pulmonary trunk that prevents backflow of blood into the right ventricle; consists of three flaps
@@ -24950,9 +23526,6 @@ truncus arteriosus portion of the primitive heart that will eventually divide an
 valve in the cardiovascular system, a specialized structure located within the heart or vessels that ensures one-way flow
 ventricle one of the primary pumping chambers of the heart located in the lower portion of the heart; the left ventricle is
 the major pumping chamber on the lower left side of the heart that ejects blood into the systemic circuit via the aorta
-
-
-
 and receives blood from the left atrium; the right ventricle is the major pumping chamber on the lower right side
 of the heart that ejects blood into the pulmonary circuit via the pulmonary trunk and receives blood from the right
 ventricular ejection phase second phase of ventricular systole during which blood is pumped from the ventricle
@@ -25004,9 +23577,6 @@ by autonomic stimulation and hormones. There are several feedback loops that con
 dependent upon activity levels, such as the atrial reflex, which is determined by venous return.
 
 
-
-
-
 SV is regulated by autonomic innervation and hormones, but also by filling time and venous return. Venous return
 is determined by activity of the skeletal muscles, blood volume, and changes in peripheral circulation. Venous return
 determines preload and the atrial reflex. Filling time directly related to HR also determines preload. Preload then impacts
@@ -25022,10 +23592,9 @@ referred to as endocardial tubes. These then fuse into a single heart tube and d
 cordis, primitive ventricle, primitive atrium, and sinus venosus, starting about day 22. The primitive heart begins to form an
 S shape within the pericardium between days 23 and 28. The internal septa begin to form about day 28, separating the heart
 into the atria and ventricles, although the foramen ovale persists until shortly after birth. Between weeks five and eight, the
-atrioventricular valves form. The semilunar valves form between weeks five and nine.
+atrioventricular valves form. The semilunar valves form between weeks five and nine.
 
-
-CHAPTER 20 | THE CARDIOVASCULAR SYSTEM: BLOOD VESSELS AND CIRCULATION
+CHAPTER 20 | THE CARDIOVASCULAR SYSTEM: BLOOD VESSELS AND CIRCULATION
 
 
 After studying this chapter, you will be able to:
@@ -25323,36 +23892,6 @@ A vein is a blood vessel that conducts blood toward the heart. Compared to arter
 and irregular lumens (see Figure 20.7). Because they are low-pressure vessels, larger veins are commonly equipped with
 valves that promote the unidirectional flow of blood toward the heart and prevent backflow toward the capillaries caused
 by the inherent low blood pressure in veins as well as the pull of gravity. Table 20.2 compares the features of arteries and
-
-
-
-
-
-Figure 20.7 Comparison of Veins and Venules Many veins have valves to prevent back flow of blood, whereas
-venules do not. In terms of scale, the diameter of a venule is measured in micrometers compared to millimeters for
-
-Comparison of Arteries and Veins
-
-
-
-
-Conducts blood toward the heart
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Present most commonly in limbs and in veins
 
 
 
@@ -25890,44 +24429,6 @@ blood whether you are active, resting, thinking, or engaged in any other activit
 Table 20.3 provides the distribution of systemic blood at rest and during exercise. Although most of the data appears logical,
 the values for the distribution of blood to the integument may seem surprising. During exercise, the body distributes more
 blood to the body surface where it can dissipate the excess heat generated by increased activity into the environment.
-
-Systemic Blood Flow During Rest, Mild Exercise, and Maximal Exercise in a
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Three homeostatic mechanisms ensure adequate blood flow, blood pressure, distribution, and ultimately perfusion: neural,
 endocrine, and autoregulatory mechanisms. They are summarized in Figure 20.17.
@@ -27106,9 +25607,6 @@ directly into the inferior vena cava. Since the inferior vena cava lies primaril
 the left renal vein is longer, as are the left phrenic, adrenal, and gonadal veins. The longer length of the left renal vein makes
 the left kidney the primary target of surgeons removing this organ for donation. Figure 20.40 provides a flow chart of the
 veins flowing into the inferior vena cava. Table 20.15 summarizes the major veins of the abdominal region.
-
-
-
 
 
 Figure 20.40 Venous Flow into Inferior Vena Cava The flow chart summarizes veins that deliver blood to the inferior
@@ -28522,18 +27020,8 @@ Macrophages stimulate T cells to release cytokines that enhance phagocytosis. De
 phagocytosis (see Figure 21.17), but their major function is to bring antigens to regional draining lymph nodes. The
 lymph nodes are the locations in which most T cell responses against pathogens of the interstitial tissues are mounted.
 Macrophages are found in the skin and in the lining of mucosal surfaces, such as the nasopharynx, stomach, lungs, and
-
-
-
-
 intestines. B cells may also present antigens to T cells, which are necessary for certain types of antibody responses, to be
 covered later in this chapter.
-
-
-
-
-
-
 
 Stimulates cytotoxic T cell immune response
 
@@ -28663,42 +27151,6 @@ responses could lead to autoimmune diseases and other medical issues.
 Not only do T cells directly destroy pathogens, but they regulate nearly all other types of the adaptive immune response
 as well, as evidenced by the functions of the T cell types, their surface markers, the cells they work on, and the types of
 pathogens they work against (see Table 21.5).
-
-Functions of T Cell Types and Their Cytokines
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-IL-4, IL-6, IL-10, and others
-
-
-
-
-
-
 
 
 
@@ -29223,74 +27675,6 @@ within the first weeks after transplant, it is a sign that the transplant is lik
 specific, primary T cell immune response. As far as medicine is concerned, the immune response in this scenario does the
 patient no good at all and causes significant harm.
 
-Partial Table of Alleles of the Human MHC (Class I)
-
-
-# of possible MHC I protein components
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Partial Table of Alleles of the Human MHC (Class I)
-
-
-# of possible MHC I protein components
-
-
-
-
-
-
-
-
-Partial Table of Alleles of the Human MHC (Class II)
-
-
-# of possible MHC II protein components
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Immunosuppressive drugs such as cyclosporine A have made transplants more successful, but matching the MHC molecules
@@ -29361,31 +27745,6 @@ action of fighting or running, whichever the animal decides, usually resolves th
 the other hand, there are no physical actions to resolve most modern day stresses, including short-term stressors like
 taking examinations and long-term stressors such as being unemployed or losing a spouse. The effect of stress can be
 felt by nearly every organ system, and the immune system is no exception (Table 21.10).
-
-Effects of Stress on Body Systems
-
-
-Integumentary system Acne, skin rashes, irritation
-
-Headaches, depression, anxiety, irritability, loss of appetite, lack of motivation,
-
-
-Muscle and joint pain, neck and shoulder pain
-
-
-Increased heart rate, hypertension, increased probability of heart attacks
-
-
-Indigestion, heartburn, stomach pain, nausea, diarrhea, constipation, weight gain
-
-
-Depressed ability to fight infections
-
-
-Lowered sperm production, impotence, reduced sexual desire
-
-
-Irregular menstrual cycle, reduced sexual desire
 
 
 At one time, it was assumed that all types of stress reduced all aspects of the immune response, but the last few
@@ -30341,27 +28700,6 @@ the partial pressure of oxygen (Figure 22.21). Total pressure is the sum of all 
 Dalton’s law describes the behavior of nonreactive gases in a gaseous mixture and states that a specific gas type in a mixture
 exerts its own pressure; thus, the total pressure exerted by a mixture of gases is the sum of the partial pressures of the gases
 
-Partial Pressures of Atmospheric Gases
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Total composition/total atmospheric pressure 100%
-
 
 
 Figure 22.21 Partial and Total Pressures of a Gas Partial pressure is the force exerted by a gas. The sum of the
@@ -30745,43 +29083,6 @@ achieve the same level of oxygen saturation at high altitude than at low altitud
 hemoglobin saturation is lower at high altitudes compared to hemoglobin saturation at sea level. For example, hemoglobin
 saturation is about 67 percent at 19,000 feet above sea level, whereas it reaches about 98 percent at sea level.
 
-Partial Pressure of Oxygen at Different Altitudes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Partial Pressure of Oxygen at Different Altitudes
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -30909,8 +29210,6 @@ may be required. In addition, pulmonary surfactant is typically administered. De
 by 50 percent due to the introduction of pulmonary surfactant therapy. Other therapies may include corticosteroids,
 supplemental oxygen, and assisted ventilation. Supportive therapies, such as temperature regulation, nutritional
 support, and antibiotics, may be administered to the premature infant as well.
-
-
 
 
 acclimatization process of adjustment that the respiratory system makes due to chronic exposure to high altitudes
@@ -32036,78 +30335,6 @@ Watch this animation (http://openstaxcollege.org/l/stomach1) that depicts the st
 structure functions in the initiation of protein digestion. This view of the stomach shows the characteristic rugae. What
 is the function of these rugae?
 
-Hormones Secreted by the Stomach
-
-
-
-
-
-
-mainly G cells of the
-
-
-
-
-
-mainly G cells of the
-
-
-
-
-
-mainly G cells of the
-
-
-
-
-
-mainly G cells of the
-
-
-
-
-
-
-
-
-
-Hormones Secreted by the Stomach
-
-
-
-
-
-
-
-
-
-
-
-Presence of food in the
-
-
-
-
-
-Presence of food in the
-
-
-
-
-Presence of food in the
-
-
-
-
-Presence of food in the
-
-
-
-
-Presence of food in the
-
-
-
 
 The secretion of gastric juice is controlled by both nerves and hormones. Stimuli in the brain, stomach, and small intestine
 activate or inhibit gastric juice production. This is why the three phases of gastric secretion are called the cephalic, gastric,
@@ -32135,9 +30362,6 @@ excessive acid secretion and potential heartburn. Whenever pH levels drop too lo
 HCl secretion and increasing mucous secretions.
 The intestinal phase of gastric secretion has both excitatory and inhibitory elements. The duodenum has a major role in
 regulating the stomach and its emptying. When partially digested food fills the duodenum, intestinal mucosal cells release
-
-
-
 
 
 a hormone called intestinal (enteric) gastrin, which further excites gastric juice secretion. This stimulatory activity is brief,
@@ -32238,8 +30462,6 @@ hepatopancreatic sphincter (sphincter of Oddi) regulates the flow of both bile a
 
 
 
-
-
 Figure 23.18 Small Intestine The three regions of the small intestine are the duodenum, jejunum, and ileum.
 
 The jejunum is about 0.9 meters (3 feet) long (in life) and runs from the duodenum to the ileum. Jejunum means “empty” in
@@ -32300,43 +30522,6 @@ effects of chyme on the intestinal mucosa.
 The submucosa of the duodenum is the only site of the complex mucus-secreting duodenal glands (Brunner’s glands),
 which produce a bicarbonate-rich alkaline mucus that buffers the acidic chyme as it enters from the stomach.
 The roles of the cells in the small intestinal mucosa are detailed in Table 23.7.
-
-Cells of the Small Intestinal Mucosa
-
-
-
-
-
-Digestion and absorption of nutrients in chyme
-
-
-
-
-
-
-Secretion of the bactericidal enzyme lysozyme; phagocytosis
-
-
-
-Secretion of the hormone intestinal gastrin
-
-
-
-Secretion of the hormone cholecystokinin, which stimulates release of
-
-
-
-Secretion of the hormone glucose-dependent insulinotropic peptide, which
-stimulates the release of insulin
-
-
-
-Secretion of the hormone motilin, which accelerates gastric emptying,
-stimulates intestinal peristalsis, and stimulates the production of pepsin
-
-
-
-Secretion of the hormone secretin
 
 
 The lamina propria of the small intestine mucosa is studded with quite a bit of MALT. In addition to solitary lymphatic
@@ -32577,8 +30762,6 @@ By watching this animation (http://openstaxcollege.org/l/foodgroups) you will se
 groups—proteins, fats, and carbohydrates—digestion begins in different parts of the digestion system, though all end
 in the same place. Of the three major food classes (carbohydrates, fats, and proteins), which is digested in the mouth,
 the stomach, and the small intestine?
-
-
 
 
 23.6 | Accessory Organs in Digestion: The Liver,
@@ -32756,101 +30939,6 @@ The many enzymes involved in chemical digestion are summarized in Table 23.8.
 
 
 
-
-
-
-
-
-
-
-Free fatty acids, and mono- and
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Table 23.8 *These enzymes have been activated by other substances.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Pancreatic Amino acids at the carboxyl
-acinar cells end of peptides
-
-
-
-
-
-
-
-
-
-
-Aminopeptidase: amino acids Aminopeptidase: amino acids
-at the amino end of peptides and peptides
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Pancreatic Triglycerides that have been
-acinar cells emulsified by bile salts
-
-
-
-
-
-
-
 Table 23.8 *These enzymes have been activated by other substances.
 
 The average American diet is about 50 percent carbohydrates, which may be classified according to the number of
@@ -32912,18 +31000,6 @@ The large food molecules that must be broken down into subunits are summarized T
 
 
 
-Carbohydrates Monosaccharides: glucose, galactose, and fructose
-
-Single amino acids, dipeptides, and tripeptides
-
-
-Monoacylglycerides, glycerol, and free fatty acids
-
-
-Pentose sugars, phosphates, and nitrogenous bases
-
-
-
 
 
 The mechanical and digestive processes have one goal: to convert food into molecules small enough to be absorbed by
@@ -32961,55 +31037,6 @@ In contrast to the water-soluble nutrients, lipid-soluble nutrients can diffuse 
 the cell, they are packaged for transport via the base of the cell and then enter the lacteals of the villi to be transported by
 lymphatic vessels to the systemic circulation via the thoracic duct. The absorption of most nutrients through the mucosa of
 the intestinal villi requires active transport fueled by ATP. The routes of absorption for each food category are summarized
-
-Absorption in the Alimentary Canal
-
-
-
-
-
-
-
-Capillary blood in Liver via hepatic
-
-
-
-Capillary blood in Liver via hepatic
-
-
-
-Capillary blood in Liver via hepatic
-
-
-
-
-Capillary blood in Liver via hepatic
-
-
-
-where they are combined with
-
-
-
-
-Monoacylglycerides where they are combined with
-
-
-
-
-
-
-Capillary blood in Liver via hepatic
-
-
-
-
-Capillary blood in Liver via hepatic
-
-
-
-
-Capillary blood in Liver via hepatic
 
 
 All carbohydrates are absorbed in the form of monosaccharides. The small intestine is highly efficient at this, absorbing
@@ -34265,98 +32292,6 @@ Water-soluble vitamins, including the eight B vitamins and vitamin C, are absorb
 These vitamins move easily through bodily fluids, which are water based, so they are not stored in the body. Excess watersoluble vitamins are excreted in the urine. Therefore, hypervitaminosis of water-soluble vitamins rarely occurs, except with
 an excess of vitamin supplements.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-weakness, increased risk of death
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-in infants; uncommon in adults
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-balance, red blood depression, mouth and
-
-
-
-
-
-
-
-
-
-
-the corners of the mouth
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Minerals in food are inorganic compounds that work with other nutrients to ensure the body functions properly. Minerals
 cannot be made in the body; they come from the diet. The amount of minerals in the body is small—only 4 percent of the
 total body mass—and most of that consists of the minerals that the body requires in moderate quantities: potassium, sodium,
@@ -34371,107 +32306,6 @@ minerals your body requires, so supplements and processed foods can add potentia
 and Table 24.6 provide a summary of minerals and their function in the body.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-blood, production of ATP fatigue
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-function, immune system Muscle pain
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 absorptive state also called the fed state; the metabolic state occurring during the first few hours after ingesting food
 in which the body is digesting food and absorbing the nutrients
@@ -34506,11 +32340,6 @@ energy-consuming phase first phase of glycolysis, in which two molecules of ATP 
 energy-yielding phase second phase of glycolysis, during which energy is produced
 enterokinase enzyme located in the wall of the small intestine that activates trypsin
 evaporation transfer of heat that occurs when water changes from a liquid to a gas
-
-
-
-
-
 FADH2 high-energy molecule needed for glycolysis
 fatty acid oxidation breakdown of fatty acids into smaller chain fatty acids and acetyl CoA
 flavin adenine dinucleotide (FAD) coenzyme used to produce FADH2
@@ -34545,9 +32374,6 @@ pepsin enzyme that begins to break down proteins in the stomach
 polysaccharides complex carbohydrates made up of many monosaccharides
 postabsorptive state also called the fasting state; the metabolic state occurring after digestion when food is no longer
 the body’s source of energy and it must rely on stored glycogen
-
-
-
 proteolysis process of breaking proteins into smaller peptides
 pyruvate three-carbon end product of glycolysis and starting material that is converted into acetyl CoA that enters the
 radiation transfer of heat via infrared waves
@@ -34588,11 +32414,6 @@ sugars into monosaccharides. These can then be transported across the intestinal
 body tissues. In the cells, glucose, a six-carbon sugar, is processed through a sequence of reactions into smaller sugars, and
 the energy stored inside the molecule is released. The first step of carbohydrate catabolism is glycolysis, which produces
 pyruvate, NADH, and ATP. Under anaerobic conditions, the pyruvate can be converted into lactate to keep glycolysis
-
-
-
-
-
 working. Under aerobic conditions, pyruvate enters the Krebs cycle, also called the citric acid cycle or tricarboxylic acid
 cycle. In addition to ATP, the Krebs cycle produces high-energy FADH2 and NADH molecules, which provide electrons to
 the oxidative phosphorylation process that generates more high-energy ATP molecules. For each molecule of glucose that
@@ -34731,42 +32552,6 @@ This is good advice; however, it takes time for the kidneys to process body flui
 of looking at this is that the quality of the urine produced is an average over the time it takes to make that urine. Producing
 clear urine may take only a few minutes if you are drinking a lot of water or several hours if you are working outside and
 
-
-
-
-
-
-
-Pale yellow to deep amber
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0–2 HPF (per high-power field of microscope)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Urinalysis (urine analysis) often provides clues to renal disease. Normally, only traces of protein are found in urine, and
 when higher amounts are found, damage to the glomeruli is the likely basis. Unusually large quantities of urine may point
 to diseases like diabetes mellitus or hypothalamic tumors that cause diabetes insipidus. The color of urine is determined
@@ -34795,13 +32580,6 @@ The osmotic nature of glucose attracts water, leading to its loss in the urine. 
 pituitary antidiuretic hormone (ADH) release or insufficient numbers of ADH receptors in the collecting ducts means that
 too few water channels are inserted into the cell membranes that line the collecting ducts of the kidney. Insufficient numbers
 of water channels (aquaporins) reduce water absorption, resulting in high volumes of very dilute urine.
-
-
-
-
-
-
-
 
 Diabetes mellitus; diabetes insipidus; excess caffeine or alcohol; kidney disease;
 certain drugs, such as diuretics; sickle cell anemia; excessive water intake
@@ -35326,87 +33104,6 @@ almost none of the water, in cases of over-hydration.
 
 
 
-
-
-Figure 25.17 Locations of Secretion and Reabsorption in the Nephron
-
-Substances Secreted or Reabsorbed in the Nephron and Their Locations
-
-
-
-
-
-
-
-proteins, amino reabsorbed; symport with
-
-
-
-
-
-
-
-50 percent reabsorbed by Secretion, diffusion in
-
-
-
-
-
-
-Substances Secreted or Reabsorbed in the Nephron and Their Locations
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Na+ and antiport with Cl–;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Mechanisms by which substances move across membranes for reabsorption or secretion include active transport, diffusion,
 facilitated diffusion, secondary active transport, and osmosis. These were discussed in an earlier chapter, and you may wish
 Active transport utilizes energy, usually the energy found in a phosphate bond of ATP, to move a substance across a
@@ -35437,51 +33134,6 @@ as waste products. Acid–base balance is maintained through actions of the lung
 of H+, whereas the kidneys secrete or reabsorb H+ and HCO3– (Table 25.6). In the case of urea, about 50 percent is
 passively reabsorbed by the PCT. More is recovered by in the collecting ducts as needed. ADH induces the insertion of urea
 transporters and aquaporin channel proteins.
-
-Substances Filtered and Reabsorbed by the Kidney per 24 Hours
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Reabsorption and Secretion in the PCT
@@ -35518,44 +33170,6 @@ PO 34 − . Sodium is actively exchanged for K+ using ATP on the basal membrane.
 symport mechanism on the apical membrane are transported by facilitated diffusion on the basal membrane. At least three
 ions, K+, Ca++, and Mg++, diffuse laterally between adjacent cell membranes (transcellular).
 
-Reabsorption of Major Solutes by the PCT
-
-
-Na+ (exchange for K+) K+
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Reabsorption of Major Solutes by the PCT
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 About 67 percent of the water, Na+, and K+ entering the nephron is reabsorbed in the PCT and returned to the circulation.
 Almost 100 percent of glucose, amino acids, and other organic substances such as vitamins are normally recovered here.
@@ -35590,8 +33204,6 @@ found in all cells in varying amounts and help regulate water movement across me
 passageway across the hydrophobic lipid bilayer membrane. Changing the number of aquaporin proteins in membranes of
 the collecting ducts also helps to regulate the osmolarity of the blood. The movement of many positively charged ions also
 
-
-
 
 creates an electrochemical gradient. This charge promotes the movement of negative ions toward the interstitial spaces and
 the movement of positive ions toward the lumen.
@@ -35789,30 +33401,6 @@ will result in decreased ATP and adenosine, allowing the afferent arteriole to d
 effect, relaxing the afferent arteriole at the same time ATP and adenosine are stimulating it to contract. Thus, NO fine-tunes
 the effects of adenosine and ATP on GFR.
 
-Paracrine Mechanisms Controlling Glomerular Filtration Rate
-
-
-Role of ATP and adenosine/Role of
-
-
-
-
-ATP and adenosine increase, causing
-
-
-
-
-ATP and adenosine decrease, causing
-
-
-
-
-
-
-
-
-
-
 
 25.8 | Endocrine Regulation of Kidney Function
 By the end of this section, you will be able to:
@@ -35827,9 +33415,6 @@ Some of these are endocrine, acting from a distance, whereas others are paracrin
 Renin is an enzyme that is produced by the granular cells of the afferent arteriole at the JGA. It enzymatically converts
 angiotensinogen (made by the liver, freely circulating) into angiotensin I. Its release is stimulated by prostaglandins and NO
 from the JGA in response to decreased extracellular fluid volume.
-
-
-
 
 
 ACE is not a hormone but it is functionally important in regulating systemic blood pressure and kidney function. It is
@@ -36681,37 +34266,6 @@ calcium and phosphate analysis requires a collection of urine across a 24-hour p
 vary considerably over the course of a day. Urine values reflect the rates of excretion of these ions. Bicarbonate is the one
 ion that is not normally excreted in urine; instead, it is conserved by the kidneys for use in the body’s buffering systems.
 
-Electrolyte and Ion Reference Values
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 Sodium is the major cation of the extracellular fluid. It is responsible for one-half of the osmotic pressure gradient that exists
 between the interior of cells and their surrounding environment. People eating a typical Western diet, which is very high
@@ -36968,10 +34522,6 @@ Renal Regulation of Acid-Base Balance
 The renal regulation of the body’s acid-base balance addresses the metabolic component of the buffering system. Whereas
 the respiratory system (together with breathing centers in the brain) controls the blood levels of carbonic acid by controlling
 the exhalation of CO2, the renal system controls the blood levels of bicarbonate. A decrease of blood bicarbonate can result
-
-
-
-
 
 from the inhibition of carbonic anhydrase by certain diuretics or from excessive bicarbonate loss due to diarrhea. Blood
 bicarbonate levels are also typically lower in people who have Addison’s disease (chronic adrenal insufficiency), in which

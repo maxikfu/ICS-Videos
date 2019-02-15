@@ -24,12 +24,6 @@ Connexions name, and Connexions logo are not subject to the license and may not 
 
 For questions regarding this license, please contact partners@openstaxcollege.org.
 
-
-
-
-
-
-
 OpenStax College is a non-profit organization committed to improving student access to quality learning materials. Our free textbooks
 are developed and peer-reviewed by educators to ensure they are readable, accurate, and meet the scope and sequence requirements
 of modern college courses. Through our partnerships with companies and foundations committed to reducing costs for students,
