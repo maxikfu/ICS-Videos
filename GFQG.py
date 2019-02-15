@@ -19,10 +19,10 @@ def book_pre_processing(raw_text):
     """
     Counting word occupancies in the text. Feeding text to SpaCy default pipeline for tokenizing, tagging etc.
     :param raw_text: text
-    :return: document_content_dict {key - nothing important at this moment, value- text}
+    :return: document_content  text}
     """
     doc = nlp(raw_text)
-    document_content_dict = {'topic': []}  # dict: key - topic name, value - list of Span objects
+    document_content = []  # list of Span objects
     word_count = {}
     for sentence in doc.sents:
         if len(sentence) > 1:
@@ -32,23 +32,23 @@ def book_pre_processing(raw_text):
                         word_count[token.text.strip().lower()] += 1
                     else:
                         word_count[token.text.strip().lower()] = 1
-            document_content_dict['topic'].append(sentence)
-    return document_content_dict, word_count
+            document_content.append(sentence)
+    return document_content, word_count
 
 
-def sentence_selection(data_dict, external_key_words):
+def sentence_selection(data, external_key_words, al_sel):
     """
     Calculating features for each sentence S and then calculating sentence score based on assigned weights to each feature
     Features description:
     F1 - number of tokens common in video segment and S/ length(S) TODO: it is not working yet
-    F2 - does S contains any abbreviation (1/0)
+    F2 - number S contains any abbreviation/ length(S)
     F3 - does S contains words in superlative degree (POS - ‘JJS’)
     F4 - does S beginning with a discourse connective (because, since, when, thus, however etc.) TODO: figure out how to identify them better
     F5 - number of words in S (excluding stop words)
     F6 - number of nouns in S/ length(S)
     F7 - number of pronouns in S/ length(S)
-    :param data_dict: key - topic, value - list of SpaCy.span (sentences) related to this topic
-    :type data_dict: dictionary
+    :param data: list of SpaCy.span (sentences) related to this topic
+    :type data: list
     :param external_key_words: words from video lecture segment
     :type external_key_words: set
     :return: dictionary (key - name of the topic, value - list of selected sentences) and list of words lemmas
@@ -59,53 +59,45 @@ def sentence_selection(data_dict, external_key_words):
     topics_doc = nlp(important_words)
     important_words = set(
         token.lemma_ for token in topics_doc if not is_stop(token.text) and not token.is_punct and not token.is_space)
-    weights = [1.5, 0.1, 0.2, 0.5, 0.01, 0.2, 0.1]
-    result_sel_sent = {}
+    weights = [1.5, 0.1, 1, 1, 0.2, 0.2]
     # finding features
-    for topic, sentences in data_dict.items():
-        result_sel_sent[topic] = []
-        for span in sentences:
-            number_of_words = len(set(token.lemma_ for token in span if not is_stop(token.text) and not token.is_punct))
-            score = 0
-            # only for sentences more then 4 tokens
-            if number_of_words > 4:
-                features = []
-                pos_tags = [token.tag_ for token in span]
-                f1 = len([i for i in span if str(i.lemma_).lower() in important_words]) / number_of_words
-                features.append(f1)
-                f2 = 1 / np.exp(len([i for i in span if i.text.isupper() and len(i.text) > 1 and i.pos_ == 'PROPN']))
-                features.append(f2)
-                f3 = 0
-                if 'JJS' in pos_tags:
-                    f3 = 1
-                features.append(f3)
-                # TODO: this list need to be filled with more examples or figure out something easier
-                if any(discourse in str(span).lower() for discourse in ['because', 'then', 'here', 'Here’s',
-                                                                        'Ultimately', 'chapter', 'finally', 'described',
-                                                                        'the following', 'example', 'so', 'above',
-                                                                        'figure', 'like this one', 'fig.', 'these',
-                                                                        'this', 'that', 'however', 'thus', 'although',
-                                                                        'since', 'it is']):
-                    f4 = 0
-                else:
-                    f4 = 1
-                features.append(f4)
-                f5 = number_of_words
-                features.append(f5)
-                f6 = len([p for p in pos_tags if p in ['NN', 'NNS']]) / number_of_words
-                features.append(f6)
-                f7 = len([p for p in pos_tags if p in ['NNP', 'NNPS']]) / number_of_words
-                features.append(f7)
-                score = np.dot(weights, features)
-            result_sel_sent[topic].append(score)
+    sent_scores = []
+    for sentence in data:
+        number_of_words = len(set(token.lemma_ for token in sentence if not is_stop(token.text) and not token.is_punct))
+        score = 0
+        # only for sentences more then 4 tokens
+        if number_of_words > 4 and sentence not in al_sel and sentence[0].text.isupper() and sentence[-1].text == '.':
+            features = []
+            pos_tags = [token.tag_ for token in sentence]
+            f1 = len(set([str(i.lemma_).lower() for i in sentence if str(i.lemma_).lower() in important_words])) / number_of_words
+            features.append(f1)
+            f2 = len([i for i in sentence if i.text.isupper() and len(i.text) > 1 and i.pos_ == 'PROPN'])/ number_of_words
+            features.append(f2)
+            f3 = 0
+            if 'JJS' in pos_tags:
+                f3 = 1
+            features.append(f3)
+            # TODO: this list need to be filled with more examples or figure out something easier
+            if sentence[0].text.lower() in ['because', 'then', 'here', 'here’s',
+                                                                    'ultimately', 'chapter', 'finally', 'described',
+                                                                    'the following', 'example', 'so', 'above',
+                                                                    'figure', 'like this one', 'fig.', 'these',
+                                                                    'this', 'that', 'however', 'thus', 'although',
+                                                                    'since', 'it is']:
+                f4 = 0
+            else:
+                f4 = 1
+            features.append(f4)
+            f5 = len([p for p in pos_tags if p in ['NN', 'NNS']]) / number_of_words
+            features.append(f5)
+            f6 = len([p for p in pos_tags if p in ['NNP', 'NNPS']]) / number_of_words
+            features.append(f6)
+            score = np.dot(weights, features)
+        sent_scores.append(score)
     # in this step we do selection based on the score. At this moment max score selected
-    result_sentences = {}
-    for topic in data_dict:
-        # selection = set(score for score in result_sel_sent[topic] if score > 1.2)
-        selection = {max(result_sel_sent[topic])}
-        if selection:
-            result_sentences[topic] = [data_dict[topic][result_sel_sent[topic].index(elem)] for elem in selection]
-    return result_sentences, important_words
+    selection = [x for _, x in sorted(zip(sent_scores, data), reverse=True)][:1]
+    al_sel.add(selection[0])
+    return selection, important_words, al_sel
 
 
 def token_dep_height(tokens):
@@ -141,13 +133,12 @@ def distractor_selection(key_sentence, document, key_chunk):
     chunk_similarity_score = []
     similar_chunks = []
     similarity_sentence = []
-    for key, value in document.items():
-        # first we will look for similar sentences
-        for span_sentence in value:
-            score = key_sentence.similarity(span_sentence)
-            if score != 1 and score > 0.4:
-                sent_similarity_score.append(score)
-                similarity_sentence.append(span_sentence)
+    # first we will look for similar sentences
+    for span_sentence in document:
+        score = key_sentence.similarity(span_sentence)
+        if score != 1 and score > 0.4:
+            sent_similarity_score.append(score)
+            similarity_sentence.append(span_sentence)
     three_max_elem = np.array(sent_similarity_score).argsort()[-3:][::-1]  # returns indices of three max elements in
 
     # Second step we will look for most similar noun chunks in those sentences
@@ -169,53 +160,62 @@ def questions_formation(sentences, word_count, topic_words):
     F1 - number of occurrences of the key in the textbook segment.
     F2 - does video lecture segment contain key
     F3 - height of the key in the syntactic tree of the sentence.
-    :param sentences: key - topic, values - list of SpaCy.span sentences
-    :type sentences: dictionary
+    :param sentences: list of SpaCy.span sentences
+    :type sentences: list
     :param word_count: key - word lemma, value - number of times occurred in the document
     :type word_count: dictionary
     :param topic_words: list of word lemmas occurring in video segment
     :return: dictionary, key - noun chunk chosen to be a key, value - sentences SpaCy.span object what will be a question
     """
-    weights = [1, 100, 1]
+    weights = [1, 1, 1]
     chunk_span_dict = {}
-    for topic in sentences:
-        for span in sentences[topic]:
-            all_noun_chunks = []
-            # Step 1: saving all noun chinks
-            for chunk in span.noun_chunks:
-                all_noun_chunks.append(chunk)
-            # Step 2: Selecting the most important noun chunk
-            score = []
-            for chunk in all_noun_chunks:
-                features = []
-                f1 = 0
-                f2 = 0
-                f3 = 0
-                for token in chunk:
-                    if token.text.strip().lower() in word_count:
-                        f1 += word_count[token.text.strip().lower()]
-                    if token.lemma_.strip().lower() in topic_words:
-                        f2 += 1
-                    f3 += token_dep_height([token]) - 1
-                features.append(f1)
-                features.append(f2)
-                features.append(f3)
-                score.append(np.dot(weights, features))
-                # with open('data/results/chunk_selection.txt', "a") as f:
-                #     f.write(str(np.dot(weights, features)) + ' ' + str(features) + ' ' + str(chunk) + '\n')
+    details = []
+    total_number_words = 0
+    for k,v in word_count.items():
+        total_number_words += v
+    for span in sentences:
+        all_noun_chunks = []
+        # Step 1: saving all noun chinks
+        for chunk in span.noun_chunks:
+            all_noun_chunks.append(chunk)
+        # Step 2: Selecting the most important noun chunk
+        score = []
+        for chunk in all_noun_chunks:
+            features = []
+            f1 = 0
+            f2 = 0
+            f3 = 0
+            for token in chunk:
+                if token.text.strip().lower() in word_count:
+                    f1 += word_count[token.text.strip().lower()]
+                if token.lemma_.strip().lower() in topic_words:
+                    f2 += 1
+                f3 += token_dep_height([token]) - 1
+            if f1 > 0:
+                f1 = 1/(f1)
+            features.append(f1)
+            features.append(f2)
+            if f3 > 0:
+                f3 = 1/f3
+            features.append(f3)
+            score.append(np.dot(weights, features))
+            details.append(features)
+            # with open('data/results/chunk_selection.txt', "a") as f:
+            #     f.write(str(np.dot(weights, features)) + ' ' + str(features) + ' ' + str(chunk) + '\n')
 
-            # At this moment we choose max score chunk only, even though we can choose couple chunks with score > 100
-            gap_chunk_index = np.argmax(score)
-            if score:
-                # noinspection PyTypeChecker
-                if all_noun_chunks[gap_chunk_index] not in chunk_span_dict:
-                    chunk_span_dict[all_noun_chunks[gap_chunk_index]] = [span]
-                else:
-                    chunk_span_dict[all_noun_chunks[gap_chunk_index]].append(span)
+        # At this moment we choose max score chunk only, even though we can choose couple chunks with score > 100
+        best_noun_ch = [(y,x,z) for y, x, z in sorted(zip(score,all_noun_chunks,details), reverse=True)]
+        print(span)
+        print(span.root)
+        print(topic_words)
+        print(best_noun_ch)
+        exit()
+        gap_chunk_index = np.argmax(score)
+        chunk_span_dict[best_noun_ch[0]] = [span]
     return chunk_span_dict
 
 
-def rawtext2question(path_to_segmented_book, video_lecture_words):
+def rawtext2question(path_to_segmented_book, video_lecture_words, already_sel):
     """
     Main function what generates gap-fill questions from text book
     :param video_lecture_words:
@@ -258,22 +258,23 @@ def rawtext2question(path_to_segmented_book, video_lecture_words):
     book_text = text_tiling_dict[max_score_seg[0]] + text_tiling_dict[max_score_seg[1]] + \
                 text_tiling_dict[max_score_seg[2]]
     data, word_dict = book_pre_processing(book_text)
-    selected_sent, topic_words = sentence_selection(data, video_lecture_words)
+    selected_sent, topic_words, already_sel = sentence_selection(data, video_lecture_words, already_sel)
     questions = questions_formation(selected_sent, word_dict, topic_words)
-    for key_chunk, value in questions.items():
-        for q in value:
-            distractor_list = distractor_selection(q, data, key_chunk)
-            distractor_list.append(str(key_chunk))
-            shuffle(distractor_list)
-            # Printing question and multiple answers to this question:
-            gap_question = str(q).replace(str(key_chunk), '______________')
-            print('Question: ', gap_question)
-            print('a) ', str(distractor_list[0]).lower())
-            print('b) ', str(distractor_list[1]).lower())
-            print('c) ', str(distractor_list[2]).lower())
-            print('d) ', str(distractor_list[3]).lower())
-            print('Answer: ', key_chunk)
-            print('\n')
+    # for key_chunk, value in questions.items():
+    #     for q in value:
+    #         distractor_list = distractor_selection(q, data, key_chunk)
+    #         distractor_list.append(str(key_chunk))
+    #         shuffle(distractor_list)
+    #         # Printing question and multiple answers to this question:
+    #         gap_question = str(q).replace(str(key_chunk), '______________')
+    #         print('Question: ', gap_question)
+    #         print('a) ', str(distractor_list[0]).lower())
+    #         print('b) ', str(distractor_list[1]).lower())
+    #         print('c) ', str(distractor_list[2]).lower())
+    #         print('d) ', str(distractor_list[3]).lower())
+    #         print('Answer: ', key_chunk)
+    #         print('\n')
+    return already_sel
 
 
 if __name__ == '__main__':

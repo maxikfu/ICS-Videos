@@ -27,4 +27,4 @@ if __name__ == '__main__':
                 video_words.add(token.lemma_)
         # for slide, clusters in dict_ocr.items():
         #     list_of_words = list_of_words + [clusters[s][0][0] for s in clusters]
-        already_selected = GFQG.rawtext2question('data/v4557/tt_anatomy_physiology.txt', video_words, already_selected)
+        already_selected = GFQG.rawtext2question('data/v4557/tt_anatomy_physiology_1.txt', video_words, already_selected)
