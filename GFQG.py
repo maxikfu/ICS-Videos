@@ -42,6 +42,7 @@ def sentence_selection(data, important_words, al_sel):
     F5 - does S beginning with a discourse connective (because, since, when, thus, however etc.) TODO: figure out how to identify them better
     F6 - number of nouns in S/ length(S)
     F7 - number of pronouns in S/ length(S)
+    :param al_sel:
     :param data: list of SpaCy.span (sentences) related to this topic
     :type data: list
     :param important_words: words from video lecture segment
@@ -127,6 +128,7 @@ def distractor_selection(key_sentence, key_chunk, full_book):
     Features:
     F1 - similarity score. Similarity is determined by comparing word vectors or "word embeddings", multi-dimensional
     meaning representations of a word.
+    :param full_book:
     :param key_chunk: for this chunk we are looking distractors
     :param key_sentence: gap-fill question
     :param document: all sentences in segment TODO: use all book not just segment
@@ -241,6 +243,7 @@ def questions_formation(sentences, word_count, topic_words):
 def rawtext2question(book_text, video_lecture_words, already_sel, word_dict, full_book):
     """
     Main function what generates gap-fill questions from text book
+    :param full_book:
     :param word_dict:
     :param already_sel:
     :param video_lecture_words:
