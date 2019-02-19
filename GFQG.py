@@ -1,5 +1,7 @@
 import spacy
 import numpy as np
+import random
+import string
 from random import shuffle
 import utility
 import pprint
@@ -22,10 +24,8 @@ def book_pre_processing(raw_text):
     :param raw_text: text
     :return: document_content  text}
     """
-    doc = nlp(raw_text)
     document_content = []  # list of Span objects
-    word_count = {}
-    for sentence in doc.sents:
+    for sentence in raw_text.sents:
         if len(sentence) > 1:
             document_content.append(sentence)
     return document_content
@@ -121,7 +121,7 @@ def token_dep_height(tokens):
     return level
 
 
-def distractor_selection(key_sentence, document, key_chunk):
+def distractor_selection(key_sentence, key_chunk, full_book):
     """
     Selecting distractors from all noun chunks from all sentences from textbook segment based on their score
     Features:
@@ -137,24 +137,38 @@ def distractor_selection(key_sentence, document, key_chunk):
     chunk_similarity_score = []
     similar_chunks = []
     similarity_sentence = []
-    # first we will look for similar sentences
-    for span_sentence in document:
-        score = key_sentence.similarity(span_sentence)
-        if score != 1 and score > 0.4:
-            sent_similarity_score.append(score)
-            similarity_sentence.append(span_sentence)
-    three_max_elem = np.array(sent_similarity_score).argsort()[-3:][::-1]  # returns indices of three max elements in
+    for k, text in full_book.items():
+        # first we will look for similar sentences
+        for span_sentence in text.sents:
+            score = key_sentence.similarity(span_sentence)
+            if score != 1 and score > 0.8:
+                sent_similarity_score.append(score)
+                similarity_sentence.append(span_sentence)
+                similarity_sentence = [i for _, i in sorted(zip(sent_similarity_score, similarity_sentence), reverse=True)][:20]
+                sent_similarity_score = sorted(sent_similarity_score, reverse=True)[:20]
 
     # Second step we will look for most similar noun chunks in those sentences
     for sim_sent in similarity_sentence:
         for noun_chunk in sim_sent.noun_chunks:
             score = key_chunk.similarity(noun_chunk)
-            if 0.7 > score > 0.5:
+            if 0.9 > score > 0.7:
                 chunk_similarity_score.append(score)
                 similar_chunks.append(noun_chunk)
+                similar_chunks = [i for _, i in sorted(zip(chunk_similarity_score, similar_chunks), reverse=True)][:3]
+                chunk_similarity_score = sorted(chunk_similarity_score, reverse=True)[:3]
                 # print(score, noun_chunk)
-    three_max_elem = np.array(chunk_similarity_score).argsort()[-3:][::-1]
-    return [similar_chunks[three_max_elem[0]], similar_chunks[three_max_elem[1]], similar_chunks[three_max_elem[2]]]
+    # TODO: in case we didnt find distr in range we need to make range bigger
+    if len(similar_chunks) < 3:
+        for sim_sent in similarity_sentence:
+            for noun_chunk in sim_sent.noun_chunks:
+                score = key_chunk.similarity(noun_chunk)
+                if 0.9 > score > 0.5:
+                    chunk_similarity_score.append(score)
+                    similar_chunks.append(noun_chunk)
+                    similar_chunks = [i for _, i in sorted(zip(chunk_similarity_score, similar_chunks), reverse=True)][
+                                     :3]
+                    chunk_similarity_score = sorted(chunk_similarity_score, reverse=True)[:3]
+    return similar_chunks
 
 
 def questions_formation(sentences, word_count, topic_words):
@@ -224,7 +238,7 @@ def questions_formation(sentences, word_count, topic_words):
     return chunk_span_dict
 
 
-def rawtext2question(book_text, video_lecture_words, already_sel, word_dict):
+def rawtext2question(book_text, video_lecture_words, already_sel, word_dict, full_book):
     """
     Main function what generates gap-fill questions from text book
     :param word_dict:
@@ -238,16 +252,20 @@ def rawtext2question(book_text, video_lecture_words, already_sel, word_dict):
     questions = questions_formation(selected_sent, word_dict, topic_words)
     for key_chunk, value in questions.items():
         for q in value:
-            distractor_list = distractor_selection(q, data, key_chunk)
-            distractor_list.append(str(key_chunk))
+            if not key_chunk.text.isupper():
+                distractor_list = distractor_selection(q, key_chunk, full_book)
+                distractor_list.append(str(key_chunk).lower())
+            else:
+                distractor_list = ["".join(random.choices(string.ascii_uppercase, k=len(key_chunk))) for _ in range(3)]
+                distractor_list.append(key_chunk)
             shuffle(distractor_list)
             # Printing question and multiple answers to this question:
             gap_question = str(q).replace(str(key_chunk), '______________')
             print('Question: ', gap_question)
-            print('a) ', str(distractor_list[0]).lower())
-            print('b) ', str(distractor_list[1]).lower())
-            print('c) ', str(distractor_list[2]).lower())
-            print('d) ', str(distractor_list[3]).lower())
+            print('a) ', str(distractor_list[0]))
+            print('b) ', str(distractor_list[1]))
+            print('c) ', str(distractor_list[2]))
+            print('d) ', str(distractor_list[3]))
             print('Answer: ', key_chunk)
             print('\n')
     return already_sel

@@ -28,7 +28,7 @@ def texttiling_file_read(path_to_segmented_book):
             text_tiling_dict[int(book_seg_number)] += ' ' + line.strip()
     total_count_in_book = {}
     for k,v in text_tiling_dict.items():
-        doc = nlp_light(v)
+        doc = nlp(v)
         for token in doc:
             if not GFQG.is_stop(token.text) and not token.is_punct and token.text not in ['\n', ' '] \
                     and token.text.isalpha():
@@ -36,6 +36,7 @@ def texttiling_file_read(path_to_segmented_book):
                     total_count_in_book[token.lemma_.lower()] += 1
                 else:
                     total_count_in_book[token.lemma_.lower()] = 1
+        text_tiling_dict[k] = doc
     return text_tiling_dict, total_count_in_book
 
 
@@ -70,9 +71,8 @@ if __name__ == '__main__':
         seg_score_list = []
         # each segment of the book comparing with words from video
         for seg, text in book_dict.items():
-            doc_book = nlp_light(text)
             book_words = set()
-            for token in doc_book:
+            for token in text:
                 book_words.add(token.lemma_)
             score = len(book_words.intersection(video_words))
             if score != 0:
@@ -81,9 +81,9 @@ if __name__ == '__main__':
         # at this moment we will choose 3 max score, can adapt it later
         scores = [(x, y) for y, x in sorted(zip(seg_score_list, seg_number_list), reverse=True)]
         max_score_seg = [scores[0][0], scores[1][0], scores[2][0]]
-        segment_text = book_dict[max_score_seg[0]] + book_dict[max_score_seg[1]] + \
-                    book_dict[max_score_seg[2]]
+        segment_text = nlp(book_dict[max_score_seg[0]].text + book_dict[max_score_seg[1]].text + \
+                    book_dict[max_score_seg[2]].text)
 
         # for slide, clusters in dict_ocr.items():
         #     list_of_words = list_of_words + [clusters[s][0][0] for s in clusters]
-        already_selected = GFQG.rawtext2question(segment_text, video_words, already_selected, total_w_count)
+        already_selected = GFQG.rawtext2question(segment_text, video_words, already_selected, total_w_count, book_dict)
