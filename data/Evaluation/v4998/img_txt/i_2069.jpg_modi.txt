@@ -1,0 +1,12 @@
+CRISPR,33,HelveticaCentury,b,736,982,872,1011,38,0,0,0; 
+RNAs,33,HelveticaCentury,b,888,979,996,1011,108,1,0,0; 
+CRISPR,33,HelveticaCentury,b,1252,590,1388,619,53,2,1,1; 
+region,33,HelveticaCentury,b,1403,588,1524,627,209,3,1,1; 
+of,33,HelveticaCentury,b,1251,644,1291,677,202,4,1,2; 
+DNA,33,HelveticaCentury,b,1305,647,1391,677,200,5,1,2; 
+IT,12,TimesCentury,r,625,220,642,231,65,8,3,4; 
+Doublestranded,19,Helvetica,b,455,290,631,308,106,13,3,5; 
+viral,19,Helvetica,b,455,317,499,334,205,14,3,6; 
+DNA,19,Helvetica,b,507,317,552,335,205,15,3,6; 
+CAS,33,HelveticaCentury,b,1306,207,1379,237,180,17,4,7; 
+protein,33,HelveticaCentury,b,1394,206,1534,245,202,18,5,8; 

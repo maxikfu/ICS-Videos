@@ -1,0 +1,4 @@
+Channel,26,HelveticaCentury,r,257,11,380,39,194,1,1,1; 
+vb,12,Helvetica,bi,632,136,679,152,31,4,2,2; 
+ri,6,Helvetica,r,587,198,595,204,37,12,2,5; 
+JU,12,Helvetica,r,619,192,647,204,40,13,2,5; 

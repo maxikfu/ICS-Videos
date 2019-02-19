@@ -1,0 +1,9 @@
+LChanneI4l,30,HelveticaCentury,r,235,0,425,50,24,0,0,0; 
+Yourself,41,HelveticaCentury,r,479,46,677,85,202,2,0,1; 
+SneezedIn,41,HelveticaCentury,r,696,46,943,85,200,3,0,1; 
+Tissues,41,HelveticaCentury,r,960,47,1136,85,206,4,0,1; 
+For,41,HelveticaCentury,r,1155,47,1226,85,213,5,0,1; 
+Sale,41,HelveticaCentury,r,1241,45,1337,85,210,6,0,1; 
+NJ,41,HelveticaCentury,r,1541,176,1588,214,28,10,3,4; 
+iIIi,13,Helvetica,r,537,792,560,814,25,13,6,7; 
+fr,13,Helvetica,r,344,855,396,885,61,15,7,8; 

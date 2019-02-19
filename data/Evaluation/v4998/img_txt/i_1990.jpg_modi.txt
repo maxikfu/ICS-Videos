@@ -1,0 +1,8 @@
+Bacterial,41,HelveticaCentury,r,327,37,524,75,208,1,0,0; 
+host,41,HelveticaCentury,r,543,37,639,75,210,2,0,0; 
+defenses,41,HelveticaCentury,r,656,37,856,75,212,3,0,0; 
+Genetic,33,HelveticaCentury,r,325,113,461,143,201,4,0,1; 
+resistance,33,HelveticaCentury,r,475,113,664,143,204,5,0,1; 
+altered,31,HelveticaCentury,r,689,113,810,143,211,6,0,1; 
+receptor,31,HelveticaCentury,r,826,117,975,151,211,7,0,1; 
+proteins,31,HelveticaCentury,r,989,114,1130,151,211,8,0,1; 

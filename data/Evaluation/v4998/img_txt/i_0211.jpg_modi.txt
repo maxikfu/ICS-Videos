@@ -1,0 +1,15 @@
+acellular,35,HelveticaCentury,r,1090,38,1268,78,115,1,0,1; 
+requires,35,HelveticaCentury,r,1284,40,1443,79,209,2,0,1; 
+host,35,HelveticaCentury,r,1458,38,1540,71,211,3,0,1; 
+cell,35,HelveticaCentury,r,1555,39,1630,78,205,4,0,1; 
+no,35,HelveticaCentury,r,1091,105,1138,128,210,5,0,2; 
+metabolism,35,HelveticaCentury,r,1153,96,1383,128,211,6,0,2; 
+DNARNA,35,HelveticaCentury,r,1202,379,1396,421,159,8,0,3; 
+ssds,35,HelveticaCentury,r,1201,437,1301,479,175,10,0,4; 
+Virus,25,HelveticaCentury,r,351,138,483,183,206,11,1,5; 
+icosa,35,HelveticaCentury,r,1259,213,1353,244,83,13,3,7; 
+hedral,35,HelveticaCentury,r,1359,211,1480,244,82,14,3,7; 
+filamentous,35,HelveticaCentury,r,1257,269,1491,301,83,15,3,8; 
+Genome,35,HelveticaCentury,r,751,414,915,443,202,16,4,9; 
+type,35,HelveticaCentury,r,929,416,1015,452,211,17,4,9; 
+Nucb4c,24,HelveticaCentury,r,1586,308,1627,317,27,19,6,11; 

@@ -1,0 +1,6 @@
+Flu,50,HelveticaCentury,bi,1010,65,1087,110,212,3,2,3; 
+virus,50,HelveticaCentury,bi,1105,65,1228,110,212,4,2,3; 
+Recognition,50,HelveticaCentury,bi,1245,65,1554,121,210,5,2,3; 
+of,50,HelveticaCentury,bi,1135,141,1192,199,214,6,2,4; 
+Host,50,HelveticaCentury,bi,1203,145,1322,187,212,7,2,4; 
+Cell,50,HelveticaCentury,bi,1339,143,1433,187,214,8,2,4; 

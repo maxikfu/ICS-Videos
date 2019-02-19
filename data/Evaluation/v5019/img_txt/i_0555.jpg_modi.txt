@@ -1,0 +1,8 @@
+Polling,18,Helvetica,b,1326,8,1401,31,206,0,0,0; 
+Closed,18,Helvetica,b,1409,9,1478,26,205,1,0,0; 
+Results,26,HelveticaCentury,r,782,19,880,44,210,2,1,1; 
+for,26,HelveticaCentury,r,891,20,930,44,210,3,1,1; 
+Question,26,HelveticaCentury,r,940,19,1078,47,118,4,1,1; 
+15o,54,HelveticaCentury,r,479,426,607,479,32,7,2,3; 
+4o,46,HelveticaCentury,r,631,469,728,521,31,8,3,4; 
+PM,21,HelveticaCentury,b,1603,1015,1637,1034,209,12,6,7; 

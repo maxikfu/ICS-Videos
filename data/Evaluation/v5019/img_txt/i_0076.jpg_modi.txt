@@ -1,0 +1,12 @@
+uuTube,31,HelveticaCentury,r,436,38,529,67,24,7,1,3; 
+stephen,28,HelveticaCentury,r,636,40,741,69,210,8,1,3; 
+colbert,28,HelveticaCentury,r,752,40,845,64,111,9,1,3; 
+kk,28,HelveticaCentury,r,856,40,885,64,162,10,1,3; 
+Go,28,HelveticaCentury,r,287,890,327,916,208,14,4,6; 
+Fund,28,HelveticaCentury,r,340,889,411,916,212,15,4,6; 
+Yourself,28,HelveticaCentury,r,423,889,554,916,204,16,4,6; 
+SneezedIn,28,HelveticaCentury,r,567,889,732,916,202,17,4,6; 
+Tissues,28,HelveticaCentury,r,743,890,860,916,209,18,4,6; 
+For,28,HelveticaCentury,r,873,891,919,916,214,19,4,6; 
+Sale,28,HelveticaCentury,r,931,889,994,916,211,20,4,6; 
+D4C,15,Helvetica,r,288,962,332,976,32,22,4,8; 

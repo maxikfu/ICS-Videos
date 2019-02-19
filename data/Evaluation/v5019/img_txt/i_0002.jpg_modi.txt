@@ -1,0 +1,9 @@
+LJThchsmith,18,Helvetica,b,243,171,375,199,25,1,1,1; 
+Relay,18,Helvetica,b,384,174,437,195,223,2,1,1; 
+Recorder,18,Helvetica,b,445,174,535,190,223,3,1,1; 
+SelfHosted,18,Helvetica,b,543,174,673,194,179,4,1,1; 
+La,28,HelveticaCentury,r,927,1027,975,1075,230,9,3,3; 
+PM,14,Helvetica,r,1866,1034,1889,1047,219,15,4,4; 
+GB,14,Helvetica,r,373,390,392,402,218,17,5,5; 
+free,14,Helvetica,r,398,389,424,402,219,18,5,5; 
+DUB,28,HelveticaCentury,r,681,363,700,387,211,22,7,7; 

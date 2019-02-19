@@ -1,0 +1,4 @@
+zz,39,HelveticaCentury,r,860,1096,948,1121,42,1,1,1; 
+OD,21,HelveticaCentury,r,861,1191,940,1216,31,2,1,2; 
+CD,25,HelveticaCentury,r,1005,634,1032,658,33,11,2,11; 
+ii,35,HelveticaCentury,r,953,1385,991,1437,23,13,3,13; 

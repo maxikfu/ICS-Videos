@@ -1,0 +1,5 @@
+Color,53,HelveticaCentury,i,408,58,561,107,195,0,0,0; 
+not,53,HelveticaCentury,i,629,65,728,107,212,1,0,0; 
+Unique,53,HelveticaCentury,i,747,59,952,119,212,2,0,0; 
+Quartz,66,HelveticaCentury,r,265,864,466,925,208,3,1,1; 
+Figure,36,HelveticaCentury,r,990,943,1136,984,207,4,2,2; 

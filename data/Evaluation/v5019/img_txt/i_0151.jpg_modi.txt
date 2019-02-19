@@ -1,0 +1,17 @@
+rJ,9,Times,b,862,391,877,399,54,9,3,5; 
+DLi,12,Helvetica,r,872,401,904,413,33,11,3,6; 
+1I,6,Helvetica,b,902,652,912,659,26,16,8,11; 
+9uH,24,HelveticaCentury,r,431,1080,463,1103,95,34,19,28; 
+ci,24,HelveticaCentury,r,880,1071,912,1098,58,35,20,29; 
+CI,24,HelveticaCentury,i,994,586,1022,607,33,40,21,34; 
+CD,24,HelveticaCentury,i,994,612,1022,636,213,41,21,35; 
+CD,28,HelveticaCentury,r,994,755,1022,779,178,44,21,38; 
+CD,28,HelveticaCentury,r,994,782,1022,806,175,45,21,39; 
+CD,28,HelveticaCentury,r,994,835,1022,859,179,46,21,40; 
+el,18,Helvetica,i,994,1005,1022,1027,25,50,21,44; 
+IL,20,HelveticaCentury,r,994,1089,1013,1111,39,53,21,47; 
+Cl,28,HelveticaCentury,r,994,1241,1032,1268,22,58,21,52; 
+CD,28,HelveticaCentury,r,994,1313,1022,1337,172,60,21,54; 
+yr,11,Helvetica,b,927,1267,943,1280,31,68,25,61; 
+JL,20,HelveticaCentury,r,33,1560,75,1578,200,70,27,63; 
+ir,28,HelveticaCentury,b,39,1589,75,1607,48,71,27,64; 

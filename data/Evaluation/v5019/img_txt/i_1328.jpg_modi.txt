@@ -1,0 +1,10 @@
+RNA,34,HelveticaCentury,r,879,110,1005,141,216,0,0,0; 
+DNA,34,HelveticaCentury,r,481,408,607,439,84,1,1,1; 
+host,34,HelveticaCentury,r,644,440,726,471,218,3,1,2; 
+DNA,34,HelveticaCentury,r,741,442,827,471,216,4,1,2; 
+polymerase,34,HelveticaCentury,r,842,440,1068,480,217,5,1,2; 
+DNA,34,HelveticaCentury,r,1247,397,1370,428,216,6,2,3; 
+Retrovi,41,HelveticaCentury,r,269,54,429,92,218,7,3,4; 
+rus,41,HelveticaCentury,r,436,65,503,92,216,8,3,4; 
+Reverse,34,HelveticaCentury,r,449,197,623,231,218,9,4,5; 
+transcriptase,34,HelveticaCentury,r,637,200,893,239,216,10,4,5; 

@@ -1,0 +1,2 @@
+Clicker,50,HelveticaCentury,i,767,263,938,307,217,1,0,0; 
+questions,50,HelveticaCentury,i,953,263,1204,318,217,2,0,0; 

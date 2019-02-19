@@ -1,0 +1,7 @@
+Crystal,57,HelveticaCentury,r,509,59,716,126,210,0,0,0; 
+Habit,57,HelveticaCentury,r,745,59,908,112,213,1,0,0; 
+Fibrous,15,Helvetica,b,197,526,251,540,156,3,1,1; 
+Li,12,TimesCentury,b,600,503,615,513,170,7,3,4; 
+Bladed,15,Times,r,710,526,761,539,46,12,6,7; 
+Cubic,15,Helvetica,b,709,965,752,978,149,14,7,8; 
+ctystas,17,Helvetica,r,758,965,817,982,34,15,7,8; 

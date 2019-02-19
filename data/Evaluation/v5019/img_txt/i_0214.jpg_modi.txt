@@ -1,0 +1,14 @@
+ci,9,Helvetica,i,301,967,313,977,36,0,0,0; 
+en,12,Helvetica,r,1240,49,1271,57,193,2,1,2; 
+see,12,Helvetica,r,1240,60,1271,68,171,3,1,3; 
+SIGN,22,HelveticaCentury,r,1525,42,1583,62,219,5,2,4; 
+IN,22,HelveticaCentury,r,1593,43,1616,63,222,6,2,4; 
+Channel,27,HelveticaCentury,r,257,11,380,39,221,8,3,6; 
+pp,4,Helvetica,r,282,46,335,50,136,10,3,7; 
+stephen,27,HelveticaCentury,r,635,40,741,69,218,12,4,8; 
+colbert,27,HelveticaCentury,r,752,40,846,64,212,13,4,8; 
+kleer,27,HelveticaCentury,r,856,40,921,64,165,14,4,8; 
+ED,9,Helvetica,i,779,367,789,376,47,21,9,15; 
+yc7,12,Helvetica,r,634,712,667,727,26,40,17,29; 
+iI,27,HelveticaCentury,r,1121,614,1197,639,175,41,18,30; 
+LU,9,Helvetica,i,968,792,983,799,65,46,22,34; 

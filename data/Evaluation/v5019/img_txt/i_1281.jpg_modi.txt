@@ -1,0 +1,17 @@
+RNA,34,HelveticaCentury,r,902,122,1024,153,30,0,0,0; 
+ss,41,HelveticaCentury,r,351,47,391,73,173,2,1,1; 
+RNA,38,HelveticaCentury,r,409,38,507,73,199,3,1,1; 
+viruses,41,HelveticaCentury,r,521,35,680,73,202,4,1,1; 
+RNA,23,HelveticaCentury,r,369,364,454,385,191,6,1,3; 
+RNA,23,HelveticaCentury,r,696,388,781,409,71,7,1,4; 
+RNA,23,HelveticaCentury,r,508,459,593,480,69,8,1,5; 
+RNA,34,HelveticaCentury,r,1070,131,1152,161,198,9,2,6; 
+Dependent,34,HelveticaCentury,r,1167,128,1384,169,208,10,2,6; 
+NA,34,HelveticaCentury,r,1096,189,1152,218,207,11,2,7; 
+Polymerase,34,HelveticaCentury,r,1167,186,1392,227,75,12,2,7; 
+RNA,23,HelveticaCentury,r,985,367,1070,388,72,13,3,8; 
+RNA,23,HelveticaCentury,r,1232,367,1317,387,186,14,4,9; 
+RDRP,34,HelveticaCentury,r,1444,156,1578,199,143,15,5,10; 
+RNA,23,HelveticaCentury,r,1452,445,1536,466,75,16,5,11; 
+RNA,23,HelveticaCentury,r,1125,464,1210,485,193,17,6,12; 
+RNA,23,HelveticaCentury,r,884,482,969,503,186,18,7,13; 

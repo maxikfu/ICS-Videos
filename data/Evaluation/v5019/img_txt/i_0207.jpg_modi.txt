@@ -1,0 +1,6 @@
+Channel,30,HelveticaCentury,r,257,11,380,39,202,1,0,0; 
+ti,7,Helvetica,b,592,304,598,312,87,8,0,4; 
+cD,7,Helvetica,b,585,235,595,244,42,12,1,7; 
+fl1,10,Helvetica,i,1207,543,1219,559,22,38,11,25; 
+Lit,14,HelveticaCentury,r,1533,523,1552,543,106,40,11,25; 
+II7J,14,HelveticaCentury,r,1589,527,1609,546,34,42,11,25; 

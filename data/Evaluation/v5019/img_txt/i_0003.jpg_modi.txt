@@ -1,0 +1,2 @@
+Relay,9,Helvetica,r,696,640,721,650,182,1,0,0; 
+Recoroer,9,Helvetica,r,725,640,768,648,97,2,0,0; 

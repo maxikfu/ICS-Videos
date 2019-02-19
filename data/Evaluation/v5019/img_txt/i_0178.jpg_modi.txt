@@ -1,0 +1,10 @@
+Channel,30,HelveticaCentury,r,257,11,380,39,205,1,0,0; 
+VaevTissue,43,HelveticaCentury,r,1103,369,1359,408,52,3,1,1; 
+worits,12,Helvetica,r,1397,576,1435,586,30,19,4,7; 
+to,12,Helvetica,b,1385,603,1399,614,201,23,4,8; 
+yew,14,Helvetica,r,1363,632,1399,645,140,28,4,9; 
+Afoul,11,Times,b,491,274,543,285,43,30,5,10; 
+OP,11,Times,b,565,274,609,284,29,31,5,10; 
+SOLD,67,HelveticaCentury,b,728,483,968,545,212,34,7,12; 
+OUT,67,HelveticaCentury,b,1014,482,1199,546,213,35,8,13; 
+II,6,Helvetica,r,1582,501,1586,506,26,36,9,14; 

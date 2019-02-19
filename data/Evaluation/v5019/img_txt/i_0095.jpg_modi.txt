@@ -1,0 +1,15 @@
+LChannel4l,30,HelveticaCentury,b,235,0,425,50,21,0,0,0; 
+Yourself,40,HelveticaCentury,b,479,46,677,85,202,2,0,1; 
+SneezedIn,40,HelveticaCentury,b,696,46,943,85,200,3,0,1; 
+Tissues,40,HelveticaCentury,b,960,47,1136,85,206,4,0,1; 
+For,40,HelveticaCentury,b,1155,47,1226,85,213,5,0,1; 
+Sale,40,HelveticaCentury,b,1241,45,1337,85,210,6,0,1; 
+Scroll,30,HelveticaCentury,b,834,997,919,1024,210,19,4,7; 
+for,30,HelveticaCentury,b,931,998,974,1024,211,20,4,7; 
+details,30,HelveticaCentury,b,985,997,1087,1024,207,21,4,7; 
+ccl,30,HelveticaCentury,b,1359,1009,1402,1046,30,22,5,8; 
+lID,15,Helvetica,b,1487,1014,1515,1028,46,23,5,8; 
+Ji,9,HelveticaCentury,r,1089,136,1097,144,33,34,10,16; 
+Ii,6,Helvetica,r,1312,426,1316,431,28,41,17,23; 
+JL,19,Helvetica,r,1560,1004,1607,1022,29,59,29,39; 
+ir,30,HelveticaCentury,b,1571,1032,1607,1051,35,60,29,40; 

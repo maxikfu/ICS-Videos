@@ -1,0 +1,16 @@
+Geologists,58,HelveticaCentury,i,97,101,440,168,199,0,0,0; 
+Definition,58,HelveticaCentury,i,464,101,766,168,208,1,0,0; 
+of,58,HelveticaCentury,i,791,101,859,168,215,2,0,0; 
+Mineral,58,HelveticaCentury,i,931,101,1175,155,208,4,0,0; 
+Naturally,61,Century,r,149,256,463,325,213,6,0,1; 
+Occurring,61,Century,r,494,257,828,325,206,7,0,1; 
+Solid,61,Century,r,147,342,311,397,209,9,0,2; 
+Orderly,61,Century,r,146,427,404,496,212,11,0,3; 
+crystalline,61,Century,r,436,427,791,496,205,12,0,3; 
+structure,61,Century,r,823,431,1139,482,214,13,0,3; 
+Definite,62,HelveticaCentury,r,149,512,415,567,189,15,0,4; 
+chemical,62,HelveticaCentury,r,447,512,749,568,212,16,0,4; 
+composition,62,HelveticaCentury,r,784,515,1203,581,214,17,0,4; 
+minerals,48,HelveticaCentury,r,673,624,911,667,177,19,0,5; 
+are,48,HelveticaCentury,r,936,635,1022,667,210,20,0,5; 
+organic,48,HelveticaCentury,r,1048,626,1252,678,194,21,0,5; 

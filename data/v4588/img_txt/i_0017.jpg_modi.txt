@@ -1,0 +1,17 @@
+Announcements,55,HelveticaCentury,r,364,65,881,116,208,0,0,0; 
+Chapter,55,HelveticaCentury,r,58,180,309,242,212,1,0,1; 
+Concept,55,HelveticaCentury,r,186,259,442,319,213,3,0,2; 
+checks,55,HelveticaCentury,r,469,257,679,307,212,4,0,2; 
+on,57,Times,r,324,424,395,460,214,7,0,3; 
+the,55,HelveticaCentury,r,425,411,524,460,215,8,0,3; 
+Earth,55,HelveticaCentury,r,555,411,716,460,212,9,0,3; 
+Give,55,HelveticaCentury,r,186,566,323,614,151,12,0,4; 
+it,55,HelveticaCentury,r,353,567,390,614,198,13,0,4; 
+some,55,HelveticaCentury,r,417,577,583,614,213,14,0,4; 
+thought,55,HelveticaCentury,r,610,564,857,626,212,15,0,4; 
+questions,55,HelveticaCentury,r,885,567,1207,626,205,16,0,4; 
+and,55,HelveticaCentury,r,317,641,427,691,213,21,0,6; 
+ONLINE,52,Times,r,58,796,301,844,212,23,0,7; 
+HOMEWORK,52,Times,r,332,796,719,845,214,24,0,7; 
+on,55,HelveticaCentury,r,747,808,818,844,213,25,0,7; 
+Blackboard,55,HelveticaCentury,r,851,795,1194,844,212,26,0,7; 

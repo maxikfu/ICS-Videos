@@ -1,0 +1,16 @@
+Jr,46,HelveticaCentury,r,415,32,450,91,219,4,1,4; 
+ri,23,HelveticaCentury,r,449,64,479,82,32,6,1,6; 
+LE,21,HelveticaCentury,r,343,287,365,306,217,10,2,8; 
+Recording,25,HelveticaCentury,r,847,180,1011,211,213,13,3,9; 
+Li,18,Helvetica,r,1149,176,1174,192,225,15,4,10; 
+SP1,25,HelveticaCentury,r,261,475,298,494,174,16,5,11; 
+9Stuff,21,HelveticaCentury,r,303,474,379,498,222,17,5,11; 
+Recording,18,Helvetica,r,953,444,1060,464,163,30,8,19; 
+RK,21,HelveticaCentury,r,280,664,308,682,217,33,10,22; 
+Files,21,HelveticaCentury,r,317,663,362,683,222,34,10,22; 
+iii,76,HelveticaCentury,r,290,763,340,837,223,35,10,23; 
+MUSIC,21,HelveticaCentury,r,285,852,358,871,219,36,10,24; 
+It,10,Times,r,502,674,522,683,34,42,12,26; 
+Lecture,21,HelveticaCentury,r,446,699,522,718,217,44,12,27; 
+sJ,21,HelveticaCentury,r,1244,569,1284,588,101,48,15,31; 
+iII,21,HelveticaCentury,r,1373,1031,1399,1052,18,51,17,33; 

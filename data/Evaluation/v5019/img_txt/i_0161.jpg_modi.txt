@@ -1,0 +1,2 @@
+Channel,30,HelveticaCentury,b,257,11,380,39,220,1,1,1; 
+Pause,21,HelveticaCentury,b,364,958,426,976,222,6,3,3; 

@@ -1,0 +1,12 @@
+Prions,37,HelveticaCentury,r,322,37,465,71,175,1,0,0; 
+are,37,HelveticaCentury,r,482,47,545,71,212,2,0,0; 
+proteins,37,HelveticaCentury,r,564,39,731,79,207,3,0,0; 
+that,37,HelveticaCentury,r,746,36,830,71,214,4,0,0; 
+infect,37,HelveticaCentury,r,847,35,960,71,207,5,0,0; 
+animals,37,HelveticaCentury,r,976,36,1146,78,206,6,0,0; 
+they,37,HelveticaCentury,r,1162,36,1254,79,212,7,0,0; 
+have,37,HelveticaCentury,r,1270,36,1363,71,212,8,0,0; 
+no,37,HelveticaCentury,r,1381,47,1431,71,206,9,0,0; 
+nucleic,37,HelveticaCentury,r,1449,35,1591,71,212,10,0,0; 
+acid,37,HelveticaCentury,r,321,99,401,134,207,11,0,1; 
+component,37,HelveticaCentury,r,419,104,667,143,200,12,0,1; 

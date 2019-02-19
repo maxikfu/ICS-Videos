@@ -1,0 +1,4 @@
+ss,41,HelveticaCentury,r,351,47,391,73,173,1,0,0; 
+RNA,37,HelveticaCentury,r,409,38,507,73,199,2,0,0; 
+viruses,41,HelveticaCentury,r,521,35,680,73,202,3,0,0; 
+RNA,33,HelveticaCentury,r,902,122,1024,153,30,5,1,2; 

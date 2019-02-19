@@ -1,0 +1,3 @@
+O0,18,Helvetica,r,855,365,881,387,195,3,0,3; 
+Din,22,HelveticaCentury,r,959,505,1032,524,121,8,0,7; 
+Zv,24,HelveticaCentury,r,959,708,1032,731,26,15,0,13; 

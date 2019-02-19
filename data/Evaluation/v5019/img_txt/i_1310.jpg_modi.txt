@@ -1,0 +1,5 @@
+Retrovi,41,HelveticaCentury,r,269,54,429,92,115,0,0,0; 
+rus,41,HelveticaCentury,r,436,65,503,92,171,1,0,0; 
+RNA,35,HelveticaCentury,r,879,110,1005,141,196,2,1,1; 
+Reverse,35,HelveticaCentury,r,449,197,623,231,84,3,2,2; 
+transcriptase,35,HelveticaCentury,r,637,200,893,239,158,4,2,2; 

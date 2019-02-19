@@ -1,0 +1,8 @@
+va,8,Helvetica,r,227,468,272,497,27,0,0,0; 
+Native,62,HelveticaCentury,r,401,134,615,189,205,5,1,4; 
+Elements,62,HelveticaCentury,r,646,131,956,189,211,6,1,4; 
+Gold,24,HelveticaCentury,r,105,633,157,655,204,9,3,6; 
+on,24,HelveticaCentury,r,168,639,195,655,206,10,3,6; 
+quartz,24,HelveticaCentury,r,207,635,281,661,210,11,3,6; 
+Sulfur,24,HelveticaCentury,r,574,633,645,655,209,13,3,6; 
+Copper,24,HelveticaCentury,r,992,633,1076,661,209,15,3,6; 

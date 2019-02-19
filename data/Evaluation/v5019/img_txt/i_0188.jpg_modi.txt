@@ -1,0 +1,15 @@
+Channel,30,HelveticaCentury,b,257,11,380,39,205,1,0,0; 
+Ii,6,Helvetica,r,399,232,402,239,26,6,3,4; 
+Coo,6,Helvetica,r,442,233,454,240,35,7,3,4; 
+c7,13,HelveticaCentury,b,743,231,761,241,18,17,7,10; 
+rs,9,HelveticaCentury,r,649,319,661,326,40,23,10,14; 
+L1,8,Helvetica,r,1503,162,1512,171,32,35,13,19; 
+FL,8,Helvetica,r,1444,231,1459,241,34,40,15,21; 
+ci,9,HelveticaCentury,r,402,359,407,365,84,44,16,25; 
+4O,5,Helvetica,b,411,389,429,399,31,46,16,27; 
+fl,6,Helvetica,b,424,409,429,415,38,47,16,28; 
+CI,6,Helvetica,i,784,523,788,530,26,66,23,45; 
+ir,12,Helvetica,b,704,568,712,583,27,70,23,48; 
+EZH,28,HelveticaCentury,r,1087,627,1167,664,38,74,25,51; 
+ii,21,HelveticaCentury,r,1565,526,1581,547,29,75,26,52; 
+iji,7,HelveticaCentury,r,1652,616,1656,633,37,81,28,54; 
