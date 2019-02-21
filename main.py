@@ -41,13 +41,6 @@ def texttiling_file_read(path_to_segmented_book):
 
 
 if __name__ == '__main__':
-    # l = 'ADH promotes water recovery by the collecting ducts by stimulating the insertion of aquaporin water channels into cell membranes.'
-    # doc = nlp(l)
-    # d = displacy.render(doc, style='dep')
-    # print([s.root for s in doc.sents])
-    # with open('data/visual.html', 'w') as f:
-    #     f.write(d)
-    # exit()
     dict_ocr = ocr2dic.ocr2dict('data/v4557/Modi_all_4557.csv', 'data/v4557/v4557_segments.csv')
     # for segment, frames in dict_ocr.items():
     #     for frame, region_ids in frames.items():
