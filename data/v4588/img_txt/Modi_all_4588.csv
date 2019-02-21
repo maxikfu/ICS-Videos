@@ -1,4 +1,4 @@
-Word, Fontsize, FontFamily, FontFaceStyle, Left, Top, Right, Bottom, RecognitionConfidence, Id, LineId, RegionId, ImageFile 
+Word,Fontsize,FontFamily,FontFaceStyle,Left,Top,Right,Bottom,RecognitionConfidence,Id,RegionId,LineId,imageFile
 WriteonWebChrome,11,Helvetica,b,234,9,360,18,42,4,1,1,i_0002.jpg 
 XV,9,Helvetica,b,377,2,419,22,20,5,1,1,i_0002.jpg 
 Top,11,Helvetica,b,427,9,447,21,210,6,1,1,i_0002.jpg 

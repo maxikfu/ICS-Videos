@@ -9,6 +9,17 @@ import pprint
 nlp = spacy.load('en_core_web_sm')  # make sure to use larger model!
 
 
+def set_custom_boundaries(doc):
+    for token in doc[:-1]:
+        if token.text == '.':
+            doc[token.i+1].is_sent_start = True
+    return doc
+
+
+nlp.add_pipe(set_custom_boundaries, before='parser')
+
+
+
 def is_stop(word):
     """
     Overwriting SpaCy stop word, since it doesn't support lower/upper case words yet
@@ -51,7 +62,7 @@ def sentence_selection(data, important_words, al_sel):
     from video segment
     """
     # weights = [1.5, 0.1, 1, 1, 0.2, 0.2]
-    weights = [1.5, 1, 0.5, 1, 1, 1, 1]
+    weights = [2, 1, 0.5, 1, 1, 1, 1]
     # finding features
     sent_scores = []
     details = []
@@ -60,7 +71,11 @@ def sentence_selection(data, important_words, al_sel):
         number_of_words = len(set(token.lemma_ for token in sentence if not is_stop(token.text) and not token.is_punct))
         score = 0
         # only for sentences more then 4 tokens
-        if number_of_words > 4 and sentence.text not in al_sel and sentence[0].text.isupper() and sentence[-1].text == '.':
+        if number_of_words > 8 \
+                and sentence.text not in al_sel \
+                and sentence[0].text[0].isupper() \
+                and sentence[0].is_alpha \
+                and sentence[-1].text == '.':
             features = []
             pos_tags = [token.tag_ for token in sentence]
             f1 = len(set([str(i.lemma_).lower() for i in sentence if str(i.lemma_).lower() in important_words])) / number_of_words
@@ -74,13 +89,21 @@ def sentence_selection(data, important_words, al_sel):
                 f4 = 1
             features.append(f4)
             # TODO: this list need to be filled with more examples or figure out something easier
-            if sentence[0].text.lower() in ['because', 'then', 'here', 'here’s',
-                                                                    'ultimately', 'chapter', 'finally', 'described',
-                                                                    'the following', 'example', 'so', 'above',
-                                                                    'figure', 'like this one', 'fig.', 'these',
-                                                                    'this', 'that', 'however', 'thus', 'although',
-                                                                    'since', 'it is']:
-                f5 = 0
+            if any(discourse in sentence.text.lower() for discourse in ['because', 'then', 'here', 'Here’s',
+                                                                        'Ultimately', 'chapter', 'finally', 'described',
+                                                                        'the following', 'example', 'so', 'above',
+                                                                        'figure', 'like this one', 'fig.', 'these',
+                                                                        'this', 'that', 'however', 'thus', 'although',
+                                                                        'since']):
+
+
+                # sentence[0].text.lower() in ['because', 'then', 'here', 'here’s',
+                #                                                     'ultimately', 'chapter', 'finally', 'described',
+                #                                                     'the following', 'example', 'so', 'above',
+                #                                                     'figure', 'like this one', 'fig.', 'these',
+                #                                                     'this', 'that', 'however', 'thus', 'although',
+                #                                                     'since', 'it is'] and :
+                f5 = -10
             else:
                 f5 = 1
             features.append(f5)
@@ -93,14 +116,14 @@ def sentence_selection(data, important_words, al_sel):
             details.append(features)
             good_sent.append(sentence)
     # in this step we do selection based on the score. At this moment max score selected
-    # selection = [(y,x,z) for y, x, z in sorted(zip(sent_scores, good_sent, details), reverse=True)][:3]
+    selection = [(y,x,z) for y, x, z in sorted(zip(sent_scores, good_sent, details), reverse=True)][:3]
     selection_out = [x for _, x in sorted(zip(sent_scores, good_sent), reverse=True)][:1]
     al_sel.add(selection_out[0].text)
-    # for i in selection:
-    #     print('Overall score', i[0])
-    #     print('Sentence', i[1])
-    #     print('Features', i[2])
-    #     print('Common words', [(j,word_count[j]) for j in set([str(i.lemma_).lower() for i in i[1] if str(i.lemma_).lower() in important_words])])
+    for i in selection:
+        print('Overall score', i[0])
+        print('Sentence', i[1])
+        print('Features', i[2])
+        print('Common words', [j for j in set([str(i.lemma_).lower() for i in i[1] if str(i.lemma_).lower() in important_words])])
     # pprint.pprint(al_sel)
     return selection_out, important_words, al_sel
 
@@ -150,26 +173,29 @@ def distractor_selection(key_sentence, key_chunk, full_book):
                 sent_similarity_score = sorted(sent_similarity_score, reverse=True)[:20]
 
     # Second step we will look for most similar noun chunks in those sentences
+    dupl_noun_chunks = set()
     for sim_sent in similarity_sentence:
         for noun_chunk in sim_sent.noun_chunks:
             score = key_chunk.similarity(noun_chunk)
-            if 0.9 > score > 0.7:
+            if 0.9 > score > 0.4 and noun_chunk.text.strip().lower() not in dupl_noun_chunks:
+                dupl_noun_chunks.add(noun_chunk.text.strip().lower())
                 chunk_similarity_score.append(score)
                 similar_chunks.append(noun_chunk)
                 similar_chunks = [i for _, i in sorted(zip(chunk_similarity_score, similar_chunks), reverse=True)][:3]
                 chunk_similarity_score = sorted(chunk_similarity_score, reverse=True)[:3]
                 # print(score, noun_chunk)
-    # TODO: in case we didnt find distr in range we need to make range bigger
-    if len(similar_chunks) < 3:
-        for sim_sent in similarity_sentence:
-            for noun_chunk in sim_sent.noun_chunks:
-                score = key_chunk.similarity(noun_chunk)
-                if 0.9 > score > 0.5:
-                    chunk_similarity_score.append(score)
-                    similar_chunks.append(noun_chunk)
-                    similar_chunks = [i for _, i in sorted(zip(chunk_similarity_score, similar_chunks), reverse=True)][
-                                     :3]
-                    chunk_similarity_score = sorted(chunk_similarity_score, reverse=True)[:3]
+    # print('Dupl noun', dupl_noun_chunks)
+    # # TODO: in case we didnt find distr in range we need to make range bigger
+    # if len(similar_chunks) < 3:
+    #     for sim_sent in similarity_sentence:
+    #         for noun_chunk in sim_sent.noun_chunks:
+    #             score = key_chunk.similarity(noun_chunk)
+    #             if 0.9 > score > 0.5:
+    #                 chunk_similarity_score.append(score)
+    #                 similar_chunks.append(noun_chunk)
+    #                 similar_chunks = [i for _, i in sorted(zip(chunk_similarity_score, similar_chunks), reverse=True)][
+    #                                  :3]
+    #                 chunk_similarity_score = sorted(chunk_similarity_score, reverse=True)[:3]
     return similar_chunks
 
 
@@ -187,7 +213,7 @@ def questions_formation(sentences, word_count, topic_words):
     :param topic_words: list of word lemmas occurring in video segment
     :return: dictionary, key - noun chunk chosen to be a key, value - sentences SpaCy.span object what will be a question
     """
-    weights = [1, 1, 1]
+    weights = [1, 1.5, 1]
     chunk_span_dict = {}
     details = []
     total_number_words = 0
@@ -222,7 +248,7 @@ def questions_formation(sentences, word_count, topic_words):
                 features.append(f1)
                 features.append(f2)
                 if f3 > 0:
-                    f3 = 1/f3
+                    f3 = f3
                 features.append(f3)
                 score.append(np.dot(weights, features))
                 details.append(features)
@@ -231,10 +257,11 @@ def questions_formation(sentences, word_count, topic_words):
 
             # At this moment we choose max score chunk only, even though we can choose couple chunks with score > 100
             best_noun_ch = [x for _, x in sorted(zip(score, all_noun_chunks), reverse=True)][:1]
+            best_noun_ch_debug = [(y,x,z) for y, x, z in sorted(zip(score, all_noun_chunks, details), reverse=True)][:3]
             # print(span)
             # print([(i,word_count[i]) for i in set([str(i.lemma_).lower() for i in span if str(i.lemma_).lower() in topic_words])])
-            # for c in best_noun_ch:
-            #     print('Score:', c[0], 'Chunk:', c[1], 'Feature:', c[2])
+            for c in best_noun_ch_debug:
+                print('Score:', c[0], 'Chunk:', c[1], 'Feature:', c[2])
             chunk_span_dict[best_noun_ch[0]] = [span]
             # chunk_span_dict=0
     return chunk_span_dict

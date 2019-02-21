@@ -1,3 +1,5 @@
+
+_TT1
 CHAPTER 1
 
 An Introduction to Geology
@@ -580,6 +582,8 @@ eri
 ng
 ,t
 r
+_TT2
+
 
 mo
 
@@ -1492,6 +1496,8 @@ there is nothing left but to conclude that the pieces were
 ** It is important to note that coal can form in a variety of climates, provided
 that large quantities of plant life are buried.
 in fact joined in this way.”†
+_TT3
+
 
 Evidence: Ancient Climates
 Because Alfred Wegener was a student of world climates, he suspected that paleoclimatic (paleo = ancient,
@@ -2880,6 +2886,8 @@ Ast
 years ago
 
 ere
+_TT4
+
 
 N
 C.
@@ -3922,6 +3930,8 @@ and Europe are moved back to their pre-drift positions, as
 shown in Figure 2.30B, these paths of apparent polar wandering coincide. This is evidence that North America and
 Europe were once joined and moved relative to the poles as
 part of the same continent.
+_TT5
+
 
 Magnetic Reversals and Seafloor Spreading More
 evidence emerged when geophysicists learned that over
@@ -4585,6 +4595,8 @@ plate motion.
 Researchers are in general agreement that some type of convection—where hot mantle rocks rise
 and cold, dense oceanic lithosphere sinks—is the ultimate driver of plate tectonics. Many of the
 details of this convective flow, however, remain topics of debate in the scientific community.
+_TT6
+
 
 water
 sinks
@@ -4934,6 +4946,8 @@ arrangement of atoms Minerals A. have
 a repetitive, orderly arrangement of atoms, whereas substances such a glass
 B. have an unordered atomic structure.
 A.
+_TT7
+
 
 B.
 
@@ -6014,6 +6028,8 @@ Experiments show that electrical forces hold atoms together and bond them to eac
 electrical attractions lower the total energy of the bonded atoms, which, in turn, generally makes
 them more stable. Consequently, atoms that are bonded in compounds tend to be more stable than
 atoms that are free (not bonded).
+_TT8
+
 
 The Octet Rule and Chemical Bonds
 As noted earlier, valence (outer shell) electrons are generally involved in chemical bonding. Figure 3.7 shows a
@@ -6518,6 +6534,8 @@ salts, including sodium
 chloride, magnesium chloride, and lithium chloride.
 (Photo by imagebrocker.net/
 SuperStock)
+_TT9
+
 
 Figure 3.12
 Geode partially filled with
@@ -6744,7 +6762,9 @@ is considered a diagnostic property of halite. Other properties of certain miner
 of the same mineral. These properties are referred to as
 ambiguous properties.
 
-Optical Properties
+Optical Properties.
+
+
 Of the many optical properties of minerals, their luster,
 their ability to transmit light, their color, and their streak
 are most frequently used for mineral identification.
@@ -6877,135 +6897,6 @@ How easily minerals break or deform under stress is
 determined by the type and strength of the chemical
 bonds that hold the crystals together. Mineralogists use
 SmartFigure 3.18
-Some common crystal
-habits A. Thin, rounded
-crystals that break into
-fibers. B. Elongated crystals that are flattened in
-one direction. C. Minerals
-that have stripes or bands
-of different color or texture. D. Groups of crystals
-that are cube shaped.
-Dennis Tasa
-
-E.J. Tarbuck
-
-B. Bladed
-
-Dennis Tasa
-
-Dennis Tasa
-
-D. Cubic crystals
-
-(https://goo.gl/IBw40J)
-
-Topaz
-
-8
-
-Quartz
-
-7
-
-Orthoclase
-
-6
-
-Apatite
-
-5
-
-Fluorite
-
-4
-
-Diamond
-
-Streak plate (6.5)
-Glass & knife blade (5.5)
-
-3
-
-Gypsum
-
-2
-
-Talc
-
-1
-
-INDEX MINERALS
-
-Fingernail (2.5)
-
-Calcite
-
-Calcite
-
-Talc
-
-Copper penny (3.5)
-
-Gypsum
-
-Wire nail (4.5)
-
-80
-70
-60
-50
-40
-30
-20
-10
-
-ABSOLUTE HARDNESS VALUES
-
-9
-Corundum
-
-Corundum
-
-B. Comparison of Mohs scale and an absolute scale
-
-Topaz
-
-10
-
-Quartz
-
-(https://goo.gl/ZN0DAG)
-
-A. Mohs scale (Relative hardness)
-Diamond
-
-Orthoclase
-
-SmartFigure 3.19
-Hardness scales A. The
-Mohs scale of hardness,
-with the hardnesses of
-some common objects.
-B. Relationship between
-the Mohs relative hardness scale and an absolute
-hardness scale.
-
-Matter and Minerals
-
-Apatite
-
-CHAPTER 3
-
-Fluorite
-
-86
-
-0
-1
-COMMON OBJECTS
-
-terms including hardness, cleavage, fracture, and tenacity to describe mineral strength and how minerals break
-when stress is applied.
 
 Hardness
 
@@ -7615,6 +7506,8 @@ Mineral species are assigned to mineral classes.
 Some important mineral classes are the silicates (SiO442),
 carbonates (CO322), halides (Cl12, F12, Br12), and sulfates
 (SO422). Minerals within each class tend to have similar
+_TT10
+
 
 internal structures and, hence, similar properties. For
 example, minerals belonging to the carbonate class react
@@ -8024,6 +7917,8 @@ Two planes at
 60° and 120°
 Hornblende
 Sheets
+_TT11
+
 
 Biotite
 
@@ -8392,6 +8287,8 @@ are formed.
 Most nonsilicate mineral classes contain members prized for their economic value. This includes
 the oxides, whose members hematite and magnetite
 are important ores of iron (see Figure 3.41E,F). Also
+_TT12
+
 
 100
 
@@ -9336,6 +9233,8 @@ Aphanitic
 
 Komatiite
 (rare)
+_TT13
+
 
 (fine-grained)
 Rhyolite
@@ -10386,6 +10285,8 @@ Magma, Igneous Rocks, and Intrusive Activity
 Partial Melting and Magma Composition
 Describe how partial melting of the mantle rock peridotite can generate a basaltic
 (mafic) magma.
+_TT14
+
 
 Recall that igneous rocks are composed of a mixture of minerals and, therefore, tend to melt over
 a temperature range of at least 200°C (nearly 400°F). As rock begins to melt, the minerals with
@@ -10780,6 +10681,8 @@ plutons are termed stocks. However, many stocks
 appear to be portions of much larger intrusive bodies
 that would be classified as batholiths if they were fully
 exposed.
+_TT15
+
 
 Emplacement of Batholiths How did massive granitic
 batholiths come to reside within sedimentary and metamorphic rocks that are only moderately deformed? What
@@ -11138,6 +11041,8 @@ Indonesia, February 7,
 of fiery ash can be seen
 racing down the volcanoes
 slope in the foreground.
+_TT16
+
 
 usually harmless and generally not associated with major
 explosive events that cause great loss of life and property.
@@ -12570,6 +12475,8 @@ Mount St. Helens and
 carried this bridge down
 the valley of the Toutle
 River.
+_TT17
+
 
 Lahar deposits invade a storage shed.
 
@@ -13008,6 +12915,8 @@ was 6000 times greater than the 1980 eruption of Mount St. Helens.
 type eruptions have occurred in historic times.
 Mammoth
 Hot Springs
+_TT18
+
 
 1. The emplacement of silica-rich magma causes the layers of rock
 above to bulge and crack, producing a set of ring fractures.
@@ -13372,6 +13281,8 @@ volcanic island arcs, or simply island arcs (Figure
 western Pacific basin, including the Aleutians, the
 Tongas, and the Marianas.
 Figure 5.29
+_TT19
+
 
 Bezymianny
 Fujiyama
@@ -14512,6 +14423,8 @@ hematite (Fe2O3), or in other cases a yellowish-colored rust
 weathering in which minerals dissolve in water. Halite readily
 called limonite [FeO(OH)]. These products are responsible
 H+
+_TT20
+
 
 H+
 
@@ -15382,6 +15295,8 @@ other factors, especially climate, are more important.
 In fact, similar soils often develop from different parent
 materials, and dissimilar soils can develop from the same
 parent material. Such discoveries reinforce the importance of other soil-forming factors.
+_TT21
+
 
 Climate
 Climate is considered to be the most influential control of
@@ -15723,6 +15638,8 @@ Soil Order
 Description
 
 Percentage*
+_TT22
+
 
 Alfisol
 
@@ -16065,6 +15982,8 @@ conditions prevail, strong
 winds can remove large quantities of soil from unprotected
 fields (Figure 6.26). At present,
 it is estimated that topsoil is
+_TT23
+
 
 Figure 6.26
 Wind erosion When the
@@ -16949,6 +16868,8 @@ a biochemical origin. (Rock
 sample photo by E. J. Tarbuck;
 beach photo by Donald R. Frazier
 Photolibrary, Inc./Alamy Images)
+_TT24
+
 
 Carbonate Reefs Corals are one important example
 of organisms that are capable of creating large quantities
@@ -17942,6 +17863,8 @@ Inland lake
 Masonjar/Shutterstock
 
 Swamp
+_TT25
+
 
 Swamps and bogs are quiet-water environments
 where mud and decayed plant material
@@ -18339,6 +18262,8 @@ and dry. When exposed to air, wet mud dries out and
 shrinks, producing cracks. Mud cracks are associated
 with environments such as tidal flats, shallow lakes, and
 desert basins.
+_TT26
+
 
 235
 
@@ -19298,6 +19223,8 @@ Excellent slaty cleavage Slaty cleavage is exhibited by the rock in this
 slate quarry. Because slate breaks into flat slabs, it has many uses. (Photo
 by Fred Bruemmer/Photolibrary) The inset photo shows the use of slate for the
 roof of this house in Switzerland. (Photo by E. J. Tarbuck)
+_TT27
+
 
 Schistosity At higher temperatures and pressures, the minute
 mica and chlorite flakes in slate
@@ -19780,6 +19707,8 @@ is white, but iron oxide may produce reddish or pinkish
 stains, while dark mineral grains may impart shades of
 green or gray.
 Hornfels Hornfels is a fine-grained nonfoliated meta-
+_TT28
+
 
 Quartzite
 
@@ -20352,6 +20281,8 @@ tend to form elongated grains that give the rock a foliated
 and/or lineated appearance. Rocks formed in these zones
 of intense ductile deformation are termed mylonites
 (mylo = a mill, ite = a stone).
+_TT29
+
 
 Impact Metamorphism Impact, or shock, metamorphism occurs when high-speed projectiles called
 
@@ -21017,6 +20948,8 @@ Metamorphism and Metamorphic Rocks
 Figure 8.34
 Group of minerals useful
 in determining metamorphic environments This
+_TT30
+
 
 (Photo A by Harry Taylor/Dorling
 Kindersley Media Library; photo
@@ -21370,6 +21303,8 @@ pieces of the weathered rock
 become incorporated into
 the younger sedimentary
 layer (Figure 9.7).
+_TT31
+
 
 Layer ends by thinning at
 margin of sedimentary basin
@@ -22215,6 +22150,8 @@ looking closely at the types of fossils, the approximate
 position of an ancient shoreline may be identified. Fossils
 also can be used to indicate the former temperature of
 the water. Certain kinds of present-day corals must live in
+_TT32
+
 
 9.4
 
@@ -22670,6 +22607,8 @@ formed, all of the daughter atoms trapped in the mineral
 must have come from the decay of 40K. To determine a
 sample’s age, the 40K/40Ar ratio is measured precisely and
 the known half-life for 40K applied.
+_TT33
+
 
 A Complex Process Bear in mind that although the
 basic principle of radiometric dating is simple, the actual
@@ -23188,6 +23127,8 @@ there is merit in recognizing the Anthropocene as a new
 For those studying historical geology, it is important
 to realize that the geologic time scale is a dynamic tool
 that continues to be refined as our knowledge and understanding of Earth history evolves.
+_TT34
+
 
 9.5
 
@@ -23543,6 +23484,8 @@ fossil in Figure 9.15B, page 284, to see the extent of change. (Photo by Marli M
 
 How Do Rocks Deform?
 Compare and contrast brittle and ductile deformation.
+_TT35
+
 
 When rocks are subjected to stresses that exceed their strength, they deform, usually by bending or
 breaking. It is easy to visualize how rocks break because we normally think of rocks as being brittle.
@@ -24421,6 +24364,8 @@ relative to the footwall
 block. The lower diagram
 shows how erosion may
 alter the up-faulted block.
+_TT36
+
 
 to 5000 feet) above the adjacent down-faulted basins.
 One exception is the Panamint Range, which rises 3368
@@ -24918,6 +24863,8 @@ Mapping Geologic Structures
 Explain how strike and dip are measured and how these measurements tell
 geologists about the orientations of rock structures located mainly below Earth’s
 surface.
+_TT37
+
 
 By studying the orientations of faults, folds, and tilted sedimentary formations, geologists can often
 reconstruct the original geologic setting and determine the nature of the forces that generated
@@ -26772,6 +26719,8 @@ was given a Richter magnitude of 8.3 was downgraded to
 MW 7.9. The strongest earthquake on record is the 1960
 Chilean subduction zone earthquake, with a moment
 magnitude of 9.5.
+_TT38
+
 
 11.5
 
@@ -27174,6 +27123,8 @@ tsunamis have exceeded 30 meters (100 feet) in height. As
 the crest of a tsunami approaches the shore, it appears as a
 rapid rise in sea level with a turbulent and chaotic surface;
 it does not resemble a breaking wave (Figure 11.30).
+_TT39
+
 
 SmartFigure 11.30
 Tsunami generated off the
@@ -27688,6 +27639,8 @@ Despite the history of the New Madrid earthquake,
 Memphis, Tennessee, the largest population center in the
 area, does not have adequate earthquake provisions in its
 building code. Further, because Memphis is located on
+_TT40
+
 
 350
 
@@ -29002,6 +28955,8 @@ extends from the Moho to a
 depth of about 660 kilometers (410 miles) and can be
 divided into three shells:
 1.
+_TT41
+
 
 The uppermost mantle is
 called the lithospheric
@@ -29363,6 +29318,8 @@ With each collision, the kinetic energy of motion was
 converted into thermal energy. As the early Earth grew
 in size, its temperature rapidly increased. Our young
 planet also contained many short-lived radioactive
+_TT42
+
 
 373
 
@@ -29731,6 +29688,8 @@ at the very base of the mantle, temperature increases
 rapidly with depth. As a result, rock in the D″ layer is
 relatively weak, flows more easily, and may experience
 some melting.
+_TT43
+
 
 378
 
@@ -30274,6 +30233,8 @@ Equatorial latitude
 70
 
 °N
+_TT44
+
 
 Figure 12.22
 
@@ -31685,6 +31646,8 @@ continental rift valleys found in East Africa (Figure
 to 2500 meters (1600 to 8200 feet) above the valley
 floor. This makes them comparable to the deepest and
 widest part of Arizona’s Grand Canyon.
+_TT45
+
 
 Africa
 
@@ -32063,6 +32026,8 @@ situations they form elongated ridges tens of kilometers
 long. These structures are eventually separated from
 their supply of magma as they are carried away from the
 ridge crest by seafloor spreading.
+_TT46
+
 
 405
 
@@ -33080,6 +33045,8 @@ were trust over younger rocks during the formation of the
 Canadian Rockies. Mount Rundle is located in Banff National
 Park overlooking the town of Banff, Canada. (Photo by Mike
 Grandmaison/AGE Fotostock)
+_TT47
+
 
 M
 
@@ -33538,6 +33505,8 @@ Basins of this type within a back-arc region are termed
 back-arc basins (see Figure 14.4C). Seafloor spreading
 is currently enlarging the back-arc basins found landward
 of the Mariana and Tonga volcanic island arcs.
+_TT48
+
 
 Su
 
@@ -33969,6 +33938,8 @@ a continental margin as a result of subduction. Whereas oceanic lithosphere, whi
 dense, readily subducts, continental lithosphere contains significant amounts of low-density crustal
 rocks and is therefore too buoyant to undergo subduction. Consequently, the arrival of a crustal
 fragment at a trench results in a collision and usually ends further subduction.
+_TT49
+
 
 427
 
@@ -34393,6 +34364,8 @@ and Southeast Asia
 intact for more than 2 billion years and is mechanically strong as a result. By contrast, Southeast Asia was
 assembled more recently, from the collision of several
 smaller crustal fragments. Consequently, it is still relatively “warm and weak” from recent periods of mountain building.
+_TT50
+
 
 The Appalachians
 
@@ -35443,6 +35416,8 @@ Ed Harp/USGS
 In January 2011, following a period of torrential rains, this thick slurry of
 mud, appropriately called a mudflow, buried these cars in Nova Friburgo,
 Brazil. Heavy rains are an important trigger of mass wasting processes.
+_TT51
+
 
 Marty Melville/AFP/Getty Images
 
@@ -35763,6 +35738,8 @@ it, could burst the dam, sending a wall of water downstream. Such floods may als
 cascade over the top of the dam. The largest of the lakes
 created by the May 12 earthquake, Tangjiashan Lake,
 threatened roughly 1.3 million people. In this instance, a
+_TT52
+
 
 Do rapid mass-wasting events always
 require some sort of trigger, such as heavy
@@ -36099,6 +36076,8 @@ the base of the steep slope,
 making it unstable. (Photo
 by John S. Shelton/University of
 Washington Libraries)
+_TT53
+
 
 456
 
@@ -36740,6 +36719,8 @@ water on our planet’s landscapes, and the nature of floods and their impact on
 Earth as a System: The Hydrologic Cycle
 List the hydrosphere’s major reservoirs and describe the different paths that water
 takes through the hydrologic cycle.
+_TT54
+
 
 We live on a planet that is unique in the solar system—in just the right location and just the right
 size (see Chapter 22). If Earth were appreciably closer to the Sun, water would exist only as a vapor.
@@ -37391,6 +37372,8 @@ system?
 patterns discussed in this section. Briefly
 describe why streams exhibit each pattern.
 5. Contrast antecedent and superposed streams.
+_TT55
+
 
 Characteristics
 16.3 Streamflow
@@ -37923,6 +37906,8 @@ velocity.
 depth, flow velocity, and discharge between the
 headwaters and the mouth of a stream? Briefly
 explain why these changes occur.
+_TT56
+
 
 SmartFigure 16.14
 
@@ -38309,6 +38294,8 @@ stream’s increased competence.
 By now it should be clear why the greatest erosion and
 transportation of sediment occur during periods of high
 water associated with floods. The increase in discharge
+_TT57
+
 
 E Y E ON E A R T H
 
@@ -38654,6 +38641,8 @@ the resistant rock at the
 knickpoint. Eventually the
 river eliminates the knickpoint and reestablishes a
 smooth profile.
+_TT58
+
 
 Running Water
 Profile of stream
@@ -39096,6 +39085,8 @@ the water body. As the
 delta grows, these beds
 cover the bottomset
 beds.
+_TT59
+
 
 History and Structure The
 portion of the Mississippi
@@ -40400,6 +40391,8 @@ water-table contour lines. Groundwater flow lines can be
 added to show water movement in the upper portion of the
 zone of saturation. Groundwater moves perpendicular to
 the contours and down the slope of the water table.
+_TT60
+
 
 through the streambed. The term losing stream is
 applied to this situation (Figure 17.8B,C). When this
@@ -40823,6 +40816,8 @@ To determine discharge (Q)—that is, the actual volume of water that flows thro
 time—the following equation is used:
 Q 5 KA(h12h2)
 d
+_TT61
+
 
 h12h2
 where d
@@ -41301,6 +41296,8 @@ depression.
 Pressure surface
 (level to which water
 will rise)
+_TT62
+
 
 Water is
 pumped
@@ -41718,6 +41715,8 @@ R i ver
 Canadian
 
 OKLAHOMA
+_TT63
+
 
 Many believe that groundwater is an endlessly
 renewable resource because it is continually replenished by rainfall and melting snow. But in some regions,
@@ -42311,6 +42310,8 @@ is not possible until the caverns are above the water table
 in the unsaturated zone. As soon as the chamber is filled
 with air, the stage is set for the decoration phase of cavern
 building to begin.
+_TT64
+
 
 525
 
@@ -43430,6 +43431,8 @@ Figure 18.14
 About 200 years ago Bear Glacier
 extended to the end moraine at
 the bottom of the image.
+_TT65
+
 
 Retreating glaciers A. Bear Glacier is
 a tidewater glacier that flows out of the
@@ -44008,6 +44011,8 @@ of till being deposited at the
 terminus of a glacier. (Top
 photo by Michael Collier; bottom
 photo by E. J. Tarbuck)
+_TT66
+
 
 A close
 examination of
@@ -44367,6 +44372,8 @@ map. North is at the top.
 The drumlins are steepest
 on the north side, indicating that the ice advanced
 from this direction.
+_TT67
+
 
 Drumlins
 
@@ -44873,6 +44880,8 @@ rior
 Supe
 
 WISCONSIN
+_TT68
+
 
 Figure 18.34
 Glacial Lake Agassiz This
@@ -45960,6 +45969,8 @@ deserts exist because of the mountains produced when
 plates collide. Without such mountain-building episodes,
 wetter climates would prevail where many dry regions
 exist today.
+_TT69
+
 
 E Y E ON E A R T H
 
@@ -46334,6 +46345,8 @@ during evaporation (Figure 19.9).
 These precipitated salts may be
 unusual. A case in point is the
 sodium borate (better known as
+_TT70
+
 
 581
 
@@ -46804,6 +46817,8 @@ no more than about 10 meters (33 feet) long. Because the
 sand-blasting effect of wind is greatest near the ground,
 these abraded bedrock remnants are usually narrower at
 their base. Sometimes yardangs are large features. Peru’s
+_TT71
+
 
 Iran
 
@@ -47157,6 +47172,8 @@ leys. Furthermore, the angular, mechanically weathered particles composing the l
 same as the rock flour produced by the grinding action
 4. How are some loess deposits related to glaciers?
 of glaciers.
+_TT72
+
 
 19.6
 
@@ -47942,6 +47959,8 @@ Figure 20.12
 Rip current These concentrated movements of water
 flow opposite the direction
 of breaking waves. (Photo by
+_TT73
+
 
 (downhill). Longshore currents
 change direction because the
@@ -48349,6 +48368,8 @@ followed the end of the
 Quaternary Ice Age, creating large estuaries such as
 Chesapeake and Delaware
 Bays. (https://goo.gl/iYIc7z)
+_TT74
+
 
 PENNSYLVANIA
 
@@ -48679,6 +48700,8 @@ within 75 kilometers (45 miles) of a coast, placing millions at risk. Moreover, 
 damage are incredible. As sea level continues to rise in
 coming decades, low-lying, densely populated coastal
 areas will become even more vulnerable to the destructive effects of major storms.
+_TT75
+
 
 90
 80
@@ -49392,6 +49415,8 @@ shows that the winds circulate in a clockwise spiral instead of
 the counterclockwise pattern typical of storms in the Northern
 Hemisphere. Portions of the cyclone had sustained winds of
 203 kilometers (126 miles) per hour as it made landfall.
+_TT76
+
 
 A
 B
@@ -50687,6 +50712,8 @@ in atmospheric composition. Changes in carbon dioxide
 and methane are linked to fluctuating temperatures. The
 cores also include atmospheric fallout such as wind-blown
 dust, volcanic ash, pollen, and modern-day pollution.
+_TT77
+
 
 Tree Rings: Archives of
 Environmental History
@@ -51662,6 +51689,8 @@ taking each path to vary?
 radiation from Earth’s surface.
 3. Prepare a sketch with labels that explains the
 greenhouse effect.
+_TT78
+
 
 21.5 Natural Causes of Climate Change
 
@@ -51975,6 +52004,8 @@ and processes turn out to be linked. Here you have seen
 how processes originating deep in Earth’s interior are
 connected directly or indirectly to the atmosphere, the
 oceans, and the biosphere.
+_TT79
+
 
 Solar Variability and Climate
 Among the most persistent hypotheses of climate change
@@ -52852,6 +52883,8 @@ trace gases remain in the atmosphere for many decades.
 By contrast, aerosols released into the troposphere
 remain there for only a few days or, at most, a few weeks
 before they are “washed out” by precipitation, limiting
+_TT80
+
 
 E Y E ON E A R T H
 
@@ -53987,6 +54020,8 @@ remains of a 10-millionyear-old rhinoceros at
 a dig site near Orchard,
 Nebraska. (Photo by Annie
 Griffiths Belt/Corbis)
+_TT81
+
 
 Earth’s Evolution Through Geologic Time
 
@@ -55078,6 +55113,8 @@ Equator
 
 South pole
 B. Continents not a part of Gondwana
+_TT82
+
 
 Reconstruction of Earth
 as it may have appeared
@@ -55900,6 +55937,8 @@ organisms on Earth, including one species that reached a
 length of nearly 10 meters (30 feet).
 The early diversification of animals was driven,
 in part, by the emergence of predatory lifestyles. The
+_TT83
+
 
 Figure 22.23
 Fossil of a trilobite
@@ -56734,6 +56773,8 @@ Renewable and Nonrenewable Resources
 23.1
 
 Distinguish between renewable and nonrenewable resources.
+_TT84
+
 
 Resources are commonly divided into two broad categories: renewable and nonrenewable.
 Renewable resources can be replenished over relatively short time spans such as months, years, or
@@ -57802,6 +57843,8 @@ Although nuclear power capacity has remained relatively
 unchanged in the United States for many years, it continues to grow worldwide. In 2015 more than 430 nuclear
 plants were operating worldwide, and another 60 reactors
 were under construction, the majority in Asian countries.
+_TT85
+
 
 23.4
 
@@ -58177,6 +58220,8 @@ Library/Photo Researchers, Inc.)
 
 Because the entire country consists of geologically
 young volcanic rocks, warm water can be encountered in holes drilled almost anywhere.
+_TT86
+
 
 Krafla
 
@@ -59172,6 +59217,8 @@ such deposits.
 Nonmetallic Mineral Resources
 Distinguish between two broad categories of nonmetallic mineral resources and
 list examples of each.
+_TT87
+
 
 Earth materials that are not used as fuels or processed for the metals they contain are referred to
 as nonmetallic mineral resources. Realize that use of the word mineral is very broad in this economic context and is quite different from the geologist’s strict definition of mineral found in Chapter 3.
@@ -60234,6 +60281,8 @@ blanket
 D. Small secondary craters often form when the material
 “splashed” from the impact crater strikes the surrounding
 landscape.
+_TT88
+
 
 Planetary impacts between solar system bodies have
 occurred throughout the history of the solar system.

@@ -41,13 +41,18 @@ def texttiling_file_read(path_to_segmented_book):
 
 
 if __name__ == '__main__':
-    dict_ocr = ocr2dic.ocr2dict('data/v4557/Modi_all_4557.csv', 'data/v4557/v4557_segments.csv')
+    # doc = nlp(u'Crystallization of a molten mass generates Figure 3.11 Geodes like this one form when silica dissolved in groundwater precipitates to form quartz crystals that grow within cavities in rocks.')
+    # with open('visual.html','w') as f:
+    #     f.write(displacy.render(doc,style='dep'))
+    # print(doc[0].is_alpha)
+    # # exit()
+    dict_ocr = ocr2dic.ocr2dict('data/v4588/img_txt/Modi_all_4588.csv', 'data/v4588/v4588_segments.csv')
     # for segment, frames in dict_ocr.items():
     #     for frame, region_ids in frames.items():
     #         for region_id, words in region_ids.items():
     #             pass
     already_selected = set()
-    book_dict, total_w_count = texttiling_file_read('data/v4557/tt_anatomy_physiology_1.txt')
+    book_dict, total_w_count = texttiling_file_read('data/v4588/tt_Earth.txt')
     for seg in dict_ocr:
         print(seg)
         segment = dict_ocr[seg]

@@ -14,11 +14,11 @@ rolled up, as if a flexible mat of living cells had torn and rolled
 back onto itself. Noffke compiled such a large group of features that ultimately, she argues, if such forms indicate fossil
 life on Earth, they must also indicate fossil life on Mars.
 
-■
+
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
-■
+
 
 If microbial life once existed on Mars, could some forms
 live on, perhaps under the rock strata where pockets of water
@@ -42,7 +42,7 @@ A.
 
 FIGURE 3
 
-■ Mars fossil life. A. Sedimentary formations on Mars resemble those of fossil cyanobacterial mats on Earth. Inset: Curiosity
+ Mars fossil life. A. Sedimentary formations on Mars resemble those of fossil cyanobacterial mats on Earth. Inset: Curiosity
 rover (shown in this artist’s depiction) took the photograph. B. Nora Noffke argues that the Mars formations are microbially induced
 sedimentary structures, comparable to those found on Earth.
 
@@ -50,11 +50,11 @@ sedimentary structures, comparable to those found on Earth.
 
 6
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -86,7 +86,7 @@ Microscopy is covered in Chapter 2, and genome sequencing is presented in Chapte
 biology,” to engineer new kinds of microbes, are described
 in Chapter 12.
 
-■
+
 
 Microbial communities. Many microbes form complex
 multicellular assemblages, such as mushrooms, kelps,
@@ -94,7 +94,7 @@ and biofilms. In these structures, cells are differentiated
 into distinct types that complement each other’s functions, as in multicellular organisms. And yet, some multicellular worms and arthropods require a microscope
 for us to see but are not considered microbes.
 
-■
+
 
 Viruses. A virus is a noncellular particle containing
 genetic material that takes over the metabolism of a cell
@@ -118,7 +118,7 @@ respond to environmental change. Microbes evolve at rapid
 rates—often fast enough to observe in the laboratory (discussed in Chapter 17).
 Our simple definition of a microbe, however, leaves us
 with contradictions:
-■
+
 
 Super-size microbial cells. Most single-celled organisms
 require a microscope to render them visible, and thus
@@ -179,7 +179,7 @@ Ameba (a protist) that consumes bacteria in soil or water
 CHAPTER 1
 A.
 
-■
+
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
@@ -209,7 +209,7 @@ B.
 
 FIGURE 1.4
 
-■
+
 
 A giant microbial cell: Thiomargarita
 namibiensis. A. T. namibiensis, a marine sulfur bacterium (light
@@ -240,7 +240,7 @@ DNA fragments in a classic sequencing reaction.
 But most genomes of cells contain millions, or even billions, of base pairs. In 1995, scientists completed the first
 genome sequence of a cellular microbe, the bacterium
 
-■
+
 
 In practice, our definition of a microbe derives from tradition as well as genetic considerations. In this book we
 consider microbes to include prokaryotes (cells lacking a
@@ -260,16 +260,16 @@ bacteria with a colleague.
 
 FIGURE 1.5
 
-■ Fred Sanger devised the method of DNA
+ Fred Sanger devised the method of DNA
 sequence analysis used to sequence the first genomes.
 
 8
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 Colored bars indicate
@@ -340,7 +340,7 @@ FIGURE 1.6
 
 THE INSTITUTE FOR GENOMIC RESEARCH
 
-■ The first sequenced genome. The genome of Haemophilus influenzae, a bacterium that causes ear infections and
+ The first sequenced genome. The genome of Haemophilus influenzae, a bacterium that causes ear infections and
 meningitis, was the first DNA sequence completed for a cellular organism. Inset: Colorized electron micrograph.
 
 Haemophilus influenzae
@@ -352,7 +352,7 @@ specify about 1,700 genes.
 The sequence was determined by a large team
 of scientists led by
 Craig Venter, Hamilton
-■
+
 FIGURE 1.7 Claire Fraser,
 Smith, and Claire Fraser
 past president of The Insti(Fig. 1.7) at The Institute
@@ -383,11 +383,11 @@ common ancestry. Genomes are discussed further in Chapter 7, and the evolution o
 discussed in Chapters 17 and 21.
 
 To Summarize
-■
 
-■
 
-■
+
+
+
 
 A microbe is a living organism that requires a microscope to be seen. Some organisms exist in both microbial and macroscopic forms.
 Microbes grow in communities. A community may
@@ -399,11 +399,11 @@ sequences.
 
 1.2
 
-■
+
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
-■
+
 
 microbiology, scientists established the fundamental principles of disease pathology and microbial ecology that
 are still in use today. This period laid the foundation for
@@ -435,7 +435,7 @@ Microbial diseases such as bubonic plague and AIDS have
 profoundly affected human history (Fig. 1.9). The plague,
 FIGURE 1.9
 
-■
+
 
 Microbial disease in history and culture.
 
@@ -459,7 +459,7 @@ B.
 
 FIGURE 1.8
 
-■
+
 
 VANESSA VICK/GETTY IMAGES
 
@@ -481,11 +481,11 @@ accelerated by acid rain.
 
 12
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -538,7 +538,7 @@ B.
 Infectious disease
 Battle wounds
 
-FIGURE 1.10 ■ Florence Nightingale, founder of medical statistics. A. Florence Nightingale was the first to use medical statistics to
+FIGURE 1.10  Florence Nightingale, founder of medical statistics. A. Florence Nightingale was the first to use medical statistics to
 demonstrate the significance of mortality due to disease. B. Nightingale’s polar area chart of mortality data during the Crimean War.
 
 THE FLORENCE NIGHTINGALE MUSEUM TRUST, LONDON
@@ -546,33 +546,22 @@ THE FLORENCE NIGHTINGALE MUSEUM TRUST, LONDON
 EVERETT HISTORICAL/SHUTTER STOCK
 
 Other
-
-CHAPTER 1
-
-■
-
-MICROBIAL LIFE: ORIGIN AND DISCOVERY
-
-■
-
-13
-
-who became the fi rst individual to observe single-celled microbes (Fig. 1.12A). As a young
+who became the first individual to observe single-celled microbes (Fig. 1.12A). As a young
 man, Leeuwenhoek lived in the Dutch
 city of Delft, where he worked as a cloth
 draper, a profession that introduced him
 Robert Hooke observes the microto magnifying glasses. The magnifying
-scopic world. The first microscopist
-glasses were used to inspect the qualto publish a systematic study of the
+scopic world. The first microscop ist
+glasses were used to inspect the qual to publish a systematic study of the
 ity of the cloth, enabling the worker to
 world as seen under a microscope was
 count the number of threads. Later in
-Robert Hooke (1635–1703). As curalife, Leeuwenhoek took up the hobby of
+Robert Hooke (1635–1703). As cura life, Leeuwenhoek took up the hobby of
 tor of experiments for the Royal Society
 grinding ever-stronger lenses to see into
 of London, Hooke built the first
 the world of the unseen.
-compound microscope—a magniLeeuwenhoek ground lenses stronFIGURE 1.11 ■ Robert Hooke’s
+compound microscope—a magniLeeuwenhoek ground lenses stronFIGURE 1.11  Robert Hooke’s
 fying instrument containing two or
 ger than Hooke’s, which he used to
 Micrographia. Mold sporangia, drawn
@@ -630,16 +619,16 @@ Leeuwenhoek
 microscope
 (circa late 1600s)
 
-FIGURE 1.12 ■ Antonie van Leeuwenhoek. A. A portrait of
+FIGURE 1.12  Antonie van Leeuwenhoek. A. A portrait of
 Leeuwenhoek, the first person to observe individual microbes.
 B. “Microscope” (magnifying glass) used by Leeuwenhoek. C. Spiral
 bacteria viewed through a replica of Leeuwenhoek’s instrument.
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -728,7 +717,7 @@ Growth medium
 
 FIGURE 1.13
 
-■ Louis Pasteur, founder of medical microbiology and immunology. A. Pasteur’s contributions to the science of
+ Louis Pasteur, founder of medical microbiology and immunology. A. Pasteur’s contributions to the science of
 
 microbiology and immunology earned him lasting fame. B. Swannecked flask. Pasteur showed that, after boiling, the contents in
 such a flask remain free of microbial growth, despite access to air.
@@ -783,11 +772,11 @@ autoclave became the standard way to sterilize materials
 for the controlled study of microbes. (Microbial control
 and antisepsis are discussed further in Chapter 5.)
 
-■
+
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
-■
+
 
 15
 
@@ -802,17 +791,17 @@ ago, and amazingly similar formations are found on Mars.
 The experimental basis for the origin of life and evolution is discussed in detail in Chapter 17.
 
 To Summarize
-■
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
+
 
 Microbes affected human civilization for centuries
 before humans guessed at their existence through their
@@ -847,7 +836,7 @@ The first scientific basis for determining that a specific microbe causes a dise
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -898,12 +887,12 @@ B.
 
 MUSEUM IN THE ROBERT KOCH-INSTITUT BERLIN
 
-■
+
 
 FIGURE 1.14
 
 Robert Koch, founder of the scientific method of microbiology. A. Koch as a university student. B. Koch’s
-■
+
 
 sketch of anthrax bacilli in mouse blood.
 
@@ -913,7 +902,7 @@ MUSEUM IN THE ROBERT KOCH INSTITUTE, BERLIN
 
 FIGURE 1.15
 
-■
+
 
 Robert Koch visits New Guinea. Koch (second
 
@@ -933,11 +922,11 @@ be chilled to form a solid medium in a glass dish. A covered
 
 CHAPTER 1
 
-■
+
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
-■
+
 
 17
 
@@ -968,7 +957,7 @@ same characteristics as before.
 
 FIGURE 1.16
 
-■ Angelina and Walther Hesse. A. Portrait of
+ Angelina and Walther Hesse. A. Portrait of
 the Hesses, who first used agar to make solid-substrate media for
 bacterial growth. B. Colonies from a streaked agar plate.
 
@@ -1009,16 +998,16 @@ susceptible host, the same disease occurs.
 4. The same strain of microbe is
 obtained from the newly diseased host.
 
-FIGURE 1.17 ■ Koch’s postulates defining the causative
+FIGURE 1.17  Koch’s postulates defining the causative
 agent of a disease.
 
 18
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -1090,7 +1079,7 @@ B.
 
 A.
 
-■ Smallpox vaccination. A. Lady Mary Wortley Montagu, shown in Turkish dress. The artist avoided showing Montagu’s
+ Smallpox vaccination. A. Lady Mary Wortley Montagu, shown in Turkish dress. The artist avoided showing Montagu’s
 facial disfigurement from smallpox. B. Dr. Edward Jenner, depicted vaccinating 8-year-old James Phipps with cowpox matter from the hand
 of milkmaid Sarah Nelmes, who had caught the disease from a cow. C. Eighteenth-century newspaper cartoon depicting public reaction to
 cowpox vaccination.
@@ -1099,7 +1088,7 @@ cowpox vaccination.
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
-■
+
 
 19
 
@@ -1162,18 +1151,18 @@ cellular mechanisms of defense (see Chapters 23 and 24).
 Understanding the immune system awaited the techniques
 of molecular biology a century later, but nineteenth-century
 
-■
+
 
 FIGURE 1.19
 
 Pasteur cures rabies. This cartoon in a French
 newspaper depicts Louis Pasteur protecting children from rabid
 dogs.
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -1224,7 +1213,7 @@ A.
 
 DAVIES/GETTY IMAGES
 
-■
+
 
 B.
 
@@ -1233,7 +1222,7 @@ mold
 
 FIGURE 1.20
 
-■
+
 
 MEDISCAN/VISUALS UNLIMITED
 
@@ -1267,9 +1256,6 @@ crop yield is decreased or destroyed altogether. Ivanovsky
 knew that some kind of microbe from the diseased plants
 transmitted the disease, and he wondered how small it was.
 He was surprised to find that the agent of transmission
-
-CHAPTER 1
-
 could pass through a porcelain filter having a pore size
 (0.1 µm) that blocked known microbes. Later, the Dutch
 plant microbiologist Martinus Beijerinck (1851–1931) conducted similar filtration experiments. Beijerinck concluded
@@ -1298,7 +1284,7 @@ genomes include polio and herpes viruses. We now know
 that all kinds of animals, plants, and microbial cells can
 be infected by viruses—and carry endogenous viruses that
 
-■
+
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
@@ -1307,21 +1293,21 @@ MICROBIAL LIFE: ORIGIN AND DISCOVERY
 may benefit their hosts. Viral function and disease are discussed in Chapters 6, 11, and 26.
 
 To Summarize
-■
 
-■
 
-■
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
+
+
+
 
 Robert Koch devised techniques of pure culture to
 study a single species of microbe in isolation. A key technique is culture on solid medium using agar, as developed by Angelina and Walther Hesse, in a double-dish
@@ -1354,7 +1340,7 @@ B.
 
 100 nm
 
-■
+
 
 RNA
 
@@ -1363,7 +1349,7 @@ proteins
 
 FIGURE 1.21
 
-■
+
 
 Tobacco mosaic virus (TMV).
 
@@ -1373,13 +1359,13 @@ protein capsid surrounds an RNA chromosome.
 
 22
 
-■
+
 
 PART 1
 
 1.4
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -1464,7 +1450,7 @@ bacteria
 fixation (Fig. 1.23). Other bacterial speBeggiatoa fixes carbon dioxide into
 cies oxidize ammonium ions (NH4+) in
 biomass without consuming any
-several stages back to nitrogen gas. NitroFIGURE 1.22 ■ Winogradsky
+several stages back to nitrogen gas. NitroFIGURE 1.22  Winogradsky
 organic food. Organisms that feed
 gen fixation and geochemical cycling are
 column. A wetland model ecosystem
@@ -1516,7 +1502,7 @@ Bacteria
 
 FIGURE 1.23
 
-■
+
 
 The global nitrogen cycle. All life depends on these oxidative and reductive conversions of nitrogen—most of which are
 
@@ -1541,7 +1527,7 @@ OAR/NURP/NOAA
 
 Iron oxide
 
-FIGURE 1.24 ■ An extreme thermophile reduces iron oxide to magnetite. A. Rita Colwell, director of the National Science Foundation from 1998 to 2004, promoted the study of environmental microbiology. See eTopic 1.1 for an interview with her. B. Geogemma is a round
+FIGURE 1.24  An extreme thermophile reduces iron oxide to magnetite. A. Rita Colwell, director of the National Science Foundation from 1998 to 2004, promoted the study of environmental microbiology. See eTopic 1.1 for an interview with her. B. Geogemma is a round
 archaeon with a tuft of flagella (transmission electron micrograph). C. Kazem Kashefi, now at Michigan State University, pulls a live culture of
 “strain 121” (Geogemma) out of an autoclave generally used to kill all living organisms at 121°C (250°F).
 
@@ -1561,11 +1547,11 @@ with extreme heat, salinity, acidity, or other factors. One
 such extremophile microbe is the archaeon Geogemma,
 which reduces rust (iron oxide, Fe2O3) to the magnetic
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -1626,7 +1612,7 @@ sequences found in all the microbes of a microbiome.
 
 FIGURE 1.25
 
-■
+
 
 Intestines contain biofilms. Bacteria growing on the surface of a residual food particle aid human digestion.
 
@@ -1637,15 +1623,15 @@ Intestines contain biofilms. Bacteria growing on the surface of a residual food 
 CHAPTER 1
 
 To Summarize
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
 
 Sergei Winogradsky developed the first system of
 enrichment culture, called the Winogradsky column, to
@@ -1687,11 +1673,11 @@ reproduce asexually. When they do exchange genes, they
 may do so with related strains or with distantly related species (discussed in Chapter 9). Nevertheless, microbiologists have devised working definitions of microbial species
 that enable us to usefully describe populations while being
 
-■
+
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
-■
+
 
 25
 
@@ -1741,16 +1727,16 @@ Margulis (1938–2011) at the University of Massachusetts
 
 26
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 FIGURE 1.26
 
-■ Lynn Margulis and the serial endosymbiosis theory. A. Five-kingdom
+ Lynn Margulis and the serial endosymbiosis theory. A. Five-kingdom
 
 A.
 
@@ -1819,7 +1805,7 @@ OAR/NURP/NOAA
 
 100ºC
 
-FIGURE 1.27 ■ Archaea include extremophiles such as
+FIGURE 1.27  Archaea include extremophiles such as
 Pyrodictium abyssi. A. Thermal vents of superheated water and
 
 sulfides rise from the ocean floor. B. The vent sulfides feed P. abyssi
@@ -1858,7 +1844,7 @@ proteobacteria (shaded pink in the figure), whereas chloroplasts derive from anc
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
-■
+
 
 27
 
@@ -1879,7 +1865,7 @@ and cyanobacteria. The symbiotic origins and evolution
 of mitochondria and chloroplasts are discussed further in
 Chapter 17.
 
-■
+
 
 B.
 
@@ -1930,7 +1916,7 @@ Thermotogales
 Eukarya
 FIGURE 1.28
 
-■
+
 
 Carl Woese and the three domains of life.
 
@@ -1950,24 +1936,24 @@ Thought Question
 a third domain of life? What arguments support the classification of archaea and bacteria together, as prokaryotes, distinct
 from eukaryotes?
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
 To Summarize
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
 
 Classifying microbes was a challenge historically
 because of the difficulties in observing distinguishing
@@ -2045,7 +2031,7 @@ being transformed by machines ranging from jet airplanes
 
 FIGURE 1.29
 
-■
+
 
 An early transmission electron microscope.
 
@@ -2093,11 +2079,11 @@ the DNA Revolution
 As the form and function of living cells emerged in the
 early twentieth century, a largely separate line of research
 
-■
+
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
-■
+
 
 29
 
@@ -2111,7 +2097,7 @@ Nucleoid
 Chlorosome
 100 nm
 
-FIGURE 1.30 ■ Electron micrograph of Chlorobium species, a photosynthetic bacterium. The thin section reveals the
+FIGURE 1.30  Electron micrograph of Chlorobium species, a photosynthetic bacterium. The thin section reveals the
 
 nucleoid (containing DNA), the light-harvesting chlorosomes, and
 envelope membranes.
@@ -2141,11 +2127,11 @@ a Nobel Prize for the structures of penicillin and vitamin
 B12. In 1953, crystallographer Rosalind Franklin joined a
 laboratory at King’s College London to study the structure
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -2163,7 +2149,7 @@ A. BARRINGTON BROWN/SCIENCE SOURCE
 
 30
 
-FIGURE 1.31 ■ The DNA double helix. A. Rosalind Franklin discovered that DNA forms a double helix. B. X-ray diffraction pattern
+FIGURE 1.31  The DNA double helix. A. Rosalind Franklin discovered that DNA forms a double helix. B. X-ray diffraction pattern
 of DNA, obtained by Franklin. C. James Watson (left) and Francis
 Crick discovered the complementary pairing between bases of DNA
 and the antiparallel form of the double helix.
@@ -2214,7 +2200,7 @@ FIGURE 1.32
 DNA. A. The structure of DNA, based on modern X-ray crystallography. B. A DNA sequence fluorogram obtained from
 bacterial genomic DNA. Each colored trace represents the fluorescence of one of the four bases terminating a chain of DNA. Units represent
 number of DNA bases.
-■
+
 
 CHAPTER 1
 
@@ -2241,11 +2227,11 @@ and Jack Szostak at Harvard showed how an RNA molecule, a self-splicing intron f
 and Tracey Lincoln at the Scripps Research Institute constructed the first self-replicating ribozyme, an RNA that
 can catalyze reactions and copy itself indefinitely. These
 
-■
+
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
-■
+
 
 31
 
@@ -2261,7 +2247,7 @@ material that determines all the different organisms on
 Earth. The promise of this insight was fi rst fulfi lled in bacteria and bacteriophages, whose small genomes and short
 generation times made key experiments possible (see Chapters 7–9). Bacterial tools were later extended to animals and
 plants; for example:
-■
+
 
 Bacteria readily recombine DNA from unrelated
 organisms. The mechanisms of bacterial recombination
@@ -2270,7 +2256,7 @@ led to construction of artificially recombinant DNA, or
 us to transfer genes between the genomes of virtually all
 types of organisms.
 
-■
+
 
 Bacterial DNA polymerases are used for polymerase
 chain reaction (PCR) amplification of DNA. A hot
@@ -2297,21 +2283,21 @@ served both genetic and catalytic functions. B. Diagram of a
 catalytic RNA, where horizontal bars represent bases. The
 RNA catalyzes cleavage of itself. C. Jennifer Doudna, now at
 UC Berkeley, discovered a self-replicating catalytic RNA.
-■
+
 
 32
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
 The Taq polymerase formed the basis of a multibilliondollar industry of PCR amplification of DNA, with
 applications ranging from genome sequencing to forensic identification.
-■
+
 
 Gene regulation discovered in bacteria provided
 models for animals and plants. The fi rst key discoveries of gene expression were made in bacteria and bacteriophages. Regulatory DNA-binding proteins were
@@ -2411,32 +2397,32 @@ The origin of life in the universe and the possibility of life outside Earth
 
 CHAPTER 1
 
-■
+
 
 MICROBIAL LIFE: ORIGIN AND DISCOVERY
 
-■
+
 
 33
 
 global warming, increasingly depends on our understanding of microbial populations (see Chapter 22).
 
 To Summarize
-■
 
-■
 
-■
 
-■
+
+
+
+
 
 JOAN SLONCZEWSKI, KENYON COLLEGE
 
-■
+
 
 FIGURE 1.34
 
-■
+
 
 Microbiologists at work. Students at Kenyon
 
@@ -2572,11 +2558,11 @@ molecular resolution.
 
 38
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -2615,7 +2601,7 @@ Resolution of Objects by Our Eyes
 
 2 μm
 
-FIGURE 2.1 ■ Chlamydia trachomatis multiplying within a
+FIGURE 2.1  Chlamydia trachomatis multiplying within a
 human cell. Colorized scanning electron microscopy (SEM).
 
 DAVID M. PHILLIPS/SCIENCE SOURCE/GETTY IMAGES
@@ -2656,7 +2642,7 @@ one unit of detection, comparable to a pixel on a computer screen. The distance 
 
 CHAPTER 2
 
-■
+
 
 OBSERVING THE MICROBIAL CELL
 
@@ -2669,7 +2655,7 @@ Eye muscle
 
 Cornea
 
-■
+
 
 Retina
 
@@ -2688,7 +2674,7 @@ Lens
 
 FIGURE 2.2
 
-■
+
 
 Rod
 
@@ -2756,7 +2742,7 @@ Detecting and resolving bacteria. A. A tube of
 bacterial culture, Rhodospirillum rubrum. The presence of bacteria is
 detected, though individual cells are not resolved. B. Individual cells
 of R. rubrum are resolved by light microscopy.
-■
+
 
 STEFFEN KLAMT, U. MAGDEBURG
 
@@ -2774,13 +2760,13 @@ does the world appear right side up?
 
 0
 
-■
+
 
 PART 1
 
 2
 
-■
+
 
 4
 
@@ -2880,7 +2866,7 @@ Red blood cell
 
 CDC/DPDX
 
-■
+
 
 ANDREW SYRED/SCIENCE SOURCE
 
@@ -2890,7 +2876,7 @@ The genus name Bacillus refers to a specific taxonomic
 group of bacteria, but the term “bacillus” (plural, bacilli) refers to
 any rod-shaped bacterium or archaeon.
 
-■ Eukaryotic microbial cells. Eukaryotic microbes
+ Eukaryotic microbial cells. Eukaryotic microbes
 are large enough that details of internal and external organelles can
 be seen under a light microscope. A. Amoeba proteus. B. Trypanosoma brucei (cause of sleeping sickness) among blood cells.
 
@@ -2925,7 +2911,7 @@ bacteria (SEM).
 Common shapes of bacteria. A, C, E. The shapes of most bacterial cells can be discerned with light microscopy (LM),
 but their subcellular structures and surface details cannot be seen. B, D, F. Surface detail is revealed by scanning electron microscopy (SEM).
 These SEM images are colorized to enhance clarity.
-■
+
 
 500 nm
 
@@ -2991,7 +2977,7 @@ FIGURE 2.7
 
 Microscopy and
 X-ray crystallography, range of resolution.
-■
+
 
 Atomic force microscopy
 
@@ -3003,7 +2989,7 @@ EYE OF SCIENCE/SCIENCE SOURCE
 
 5 µm
 
-■
+
 
 E. Cocci in pairs (diplococci).
 Streptococcus pneumoniae, a cause of
@@ -3024,7 +3010,7 @@ A. M. SIEGELMAN/VISUALS UNLIMITED
 A. Filamentous rods (bacilli).
 Lactobacillus lactis, Gram-positive bacteria (LM).
 
-■
+
 
 X-ray crystallography
 
@@ -3034,19 +3020,19 @@ CHAPTER 2
 
 42
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
 can be resolved under a light microscope, but an individual ribosome (20 nm in diameter) requires electron
 microscopy.
-■
 
-■
+
+
 
 Light microscopy (LM) resolves images of individual
 bacteria by their absorption of light. The specimen is
@@ -3063,13 +3049,13 @@ microscopy (TEM) (Fig. 2.7C and D), the electron
 beam travels through the object, where the electrons are
 absorbed by an electron-dense metal stain.
 
-■
+
 
 Atomic force microscopy (AFM) uses intermolecular
 forces between a probe and an object to map the 3D
 topography of a cell, or of cell parts.
 
-■
+
 
 X-ray crystallography detects the interference pattern
 of X-rays entering the crystal lattice of a molecule. From
@@ -3089,17 +3075,17 @@ an example of chemical imaging of intestinal bacteria.
 Another example of chemical imaging, showing nitrogenfixing cyanobacteria, is presented in eTopic 2.1.
 
 To Summarize
-■
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
+
 
 Detection is the ability to determine the presence of an
 object.
@@ -3158,7 +3144,7 @@ c = λν
 Electrical field
 Magnetic field
 
-■
+
 
 Wavelength (λ)
 
@@ -3218,7 +3204,7 @@ associated wavelength that determines how the photon will
 interact with a given object. The combined properties of
 particle and wave enable light to interact with an object in
 several different ways:
-■
+
 
 Wavelength (m)
 Infrared
@@ -3244,7 +3230,7 @@ The wavelength λ limits the size of objects that can be
 resolved as separate from neighboring objects. Resolution
 requires:
 
-■
+
 
 B. Reflection
 Incident
@@ -3253,12 +3239,12 @@ angle
 
 400 nm
 
-FIGURE 2.8 ■ Electromagnetic energy. A. Electromagnetic
+FIGURE 2.8  Electromagnetic energy. A. Electromagnetic
 radiation is composed of electrical and magnetic waves
 perpendicular to each other. B. The electromagnetic spectrum
 includes the visible range of light.
 
-■
+
 
 43
 
@@ -3269,7 +3255,7 @@ TV
 AM/FM
 radio waves
 
-■
+
 
 1024
 
@@ -3289,7 +3275,7 @@ A.
 
 100
 
-■
+
 
 Contrast between the object and its surroundings.
 Contrast is the difference in light and dark. If an object
@@ -3321,7 +3307,7 @@ FIGURE 2.9
 The wavefront of the light
 bounces off the surface.
 
-■
+
 
 A small fraction of the
 incident light is scattered in
@@ -3332,11 +3318,11 @@ Interaction of light with matter.
 
 44
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -3393,7 +3379,7 @@ C
 
 FIGURE 1
 
-■ Imaging mass spectrometry. Mass spectra are obtained from thousands of locations throughout the sample surface.
+ Imaging mass spectrometry. Mass spectra are obtained from thousands of locations throughout the sample surface.
 A. Molecular fragments are selected for analysis of mass-to-charge ratio (m/z). Selected isotopes may label specific atoms—for example,
 C, N, or P. The relative intensities of individual compounds are visualized using false-color gradients. B. Fluorescence in situ hybridization
 (FISH, left) and NanoSIMS (middle and right) of bacteria feeding on secretions from the intestinal epithelium, showing atomic percentages
@@ -3406,14 +3392,14 @@ can be observed as a dark spot against a bright field, as
 in bright-field microscopy. Some molecules that absorb
 light of a specific wavelength reemit energy as light with
 a longer wavelength; this is called fluorescence. Fluorescence microscopy is discussed in Section 2.4.
-■
+
 
 Reflection means that the wavefront redirects from the
 surface of an object at an angle equal to its incident angle
 
 (Fig. 2.9B). Reflection of light waves is analogous to the
 reflection of water waves. Reflection from a silvered mirror or a glass surface is used in the optics of microscopy.
-■
+
 
 Refraction means that light bends as it enters a substance that slows its speed (Fig. 2.9C). Such a substance
 is said to be refractive and, by definition, has a higher
@@ -3435,11 +3421,11 @@ Bacteroides
 
 CHAPTER 2
 
-■
+
 
 OBSERVING THE MICROBIAL CELL
 
-■
+
 
 food we consume? Our intestinal epithelium secretes a mucus
 layer, which helps prevent colonization by pathogens. But the
@@ -3465,7 +3451,7 @@ or yellow color, white arrowhead). The third panel shows
 that some but not all of the bacteria show carbon uptake.
 Overall, out of the mixed gut microbes, the B. acidifaciens
 
-■
+
 
 Scattering means that a portion of the wavefront is converted to a spherical wave originating from the object
 (Fig. 2.9D). If a large number of particles simultaneously scatter light, we see a haze—for example, the haze
@@ -3492,7 +3478,7 @@ intestinal bacteria feed on our own secretions, instead of the
 
 FIGURE 2
 
-■ David Berry, Alexander Loy, and Michael
+ David Berry, Alexander Loy, and Michael
 Wagner use NanoSIMS to image bacteria foraging on the
 gut epithelium.
 
@@ -3523,11 +3509,11 @@ bent at an angle from its original direction.
 
 46
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -3556,7 +3542,7 @@ light rays to intersect
 at a focal point.
 60°
 
-FIGURE 2.10 ■ Refraction of light waves. A. Wavefronts of light shift direction as they enter a substance of higher refractive index,
+FIGURE 2.10  Refraction of light waves. A. Wavefronts of light shift direction as they enter a substance of higher refractive index,
 such as glass. B. Glass with parabolic curvature (a lens) bends light rays to intersect at a focal point.
 
 Thought Question
@@ -3605,7 +3591,7 @@ Parabolic lens
 
 FIGURE 2.11
 
-■
+
 
 A lens magnifies an image. The object is placed near the focal point (F) in front of the lens. The lens bends and spreads
 
@@ -3619,7 +3605,7 @@ OBSERVING THE MICROBIAL CELL
 
 Interference rings
 
-■
+
 
 47
 
@@ -3639,7 +3625,7 @@ of the image. The details of the magnified image become larger than the spacing 
 Thus, our eye can perceive details that
 the unaided eye cannot see.
 
-■
+
 
 Intensity
 
@@ -3667,7 +3653,7 @@ screen. In these cases, magnification
 fails to show details because the individImage
 ual details of the image expand in proplane
 portion to the expansion of the overall
-image. Magnification without increasing FIGURE 2.12 ■ Interference of light waves at the focal point generates
+image. Magnification without increasing FIGURE 2.12  Interference of light waves at the focal point generates
 concentric rings surrounding the peak intensity. A. Broad wavefronts generate
 detail is called empty magnification.
 narrow interference rings with peaks well resolved. B. Narrow wavefronts generate wide
@@ -3698,7 +3684,7 @@ sources of light. Each point source generates a central peak
 of intensity. The width of this central peak will define the
 To Summarize
 resolution, or separation distance, between any two points
-■ Electromagnetic radiation interacts with an object and
+ Electromagnetic radiation interacts with an object and
 of the object (Fig. 2.12). This resolution determines the
 acquires information we can use to detect the object.
 degree of detail that can be observed. In practice, any
@@ -3711,19 +3697,19 @@ partly resolved peaks of intensity.
 
 48
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -3785,7 +3771,7 @@ Magnification
 
 How do the optics of a bright-field microscope maximize
 the observation of detail? We consider the following factors:
-■
+
 
 Wavelength and resolution. Our eyes can resolve a distance as small as 100–200 μm, while the resolution limit
 from the wavelength of light is 200 nm (0.2 μm)—that
@@ -3795,7 +3781,7 @@ image size, but the width of the image peaks expands
 without resolution (see Fig. 2.12). As we noted in the
 previous section, this expansion without increasing resolution is called empty magnification.
 
-■
+
 
 Light and contrast. For any given lens system, a balanced amount of light yields the highest contrast
 between the dark specimen and the light background.
@@ -3819,9 +3805,9 @@ numerical aperture (NA) equals the refractive index (n) of the
 medium containing the light cone, multiplied by the sine of the angle
 of the light cone (θ). Higher NA allows greater resolution.
 
-■
 
-■
+
+
 
 Lens quality. All lenses contain inherent aberrations
 that detract from perfect curvature. Optical properties
@@ -3897,13 +3883,13 @@ Light
 
 Use of immersion oil in microscopy. Immersion oil with a refractive index comparable to that of glass (n = 1.5)
 prevents light rays from bending away from the objective lens.
-■
 
-■
+
+
 
 OBSERVING THE MICROBIAL CELL
 
-■
+
 
 49
 
@@ -3956,11 +3942,11 @@ a position opposite its point of origin; thus, the image is
 
 50
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -4007,7 +3993,7 @@ ocular lenses
 
 FIGURE 2.15
 
-■
+
 
 Anatomy of a compound microscope. A. Light path through the microscope. B. Cutaway view.
 
@@ -4041,13 +4027,13 @@ and chromatic aberrations.
 
 Observing a specimen under a compound microscope
 requires several steps:
-■
+
 
 Position the specimen centrally in the optical column.
 Only a small area of a slide can be visualized within the
 field of view of a given lens. The higher the magnification, the smaller the field of view that will be seen.
 
-■
+
 
 Optimize the amount of light. At lower power, too
 much light will wash out the light absorption of the
@@ -4079,7 +4065,7 @@ for Microscopy
 
 OBSERVING THE MICROBIAL CELL
 
-■
+
 
 51
 
@@ -4106,7 +4092,7 @@ planes.
 A simple way to observe microbes is to place
 them in a drop of water on a slide with a coverslip. This is called a wet mount preparation.
 The advantage of the wet mount is that the
-FIGURE 2.16 ■ Bacteria observed at different levels of focus.
+FIGURE 2.16  Bacteria observed at different levels of focus.
 organism is viewed in as natural a state as possible, without artifacts resulting from chemical
 treatment; and we can observe live behavior such as swimresolved. The partial resolution of these points of light
 ming (Figs. 2.3B and 2.16). The disadvantage of the wet
@@ -4125,7 +4111,7 @@ to overheat and dry out. To avoid overheating, researchthe bacterium swims withi
 ers use a temperature-controlled flow cell, in which fresh
 medium passes through the specimen (Fig. 2.17). The
 microbe to be observed must adhere to a
-FIGURE 2.17 ■ Flow cell allows
+FIGURE 2.17  Flow cell allows
 specially coated slide within the flow cell.
 extended observation of living
 The adherent cells may grow and multiply
@@ -4139,9 +4125,9 @@ medium.
 
 HTTP://WWW.AUSTINCC.EDU/MICROBUGZ/ENDOSPORE_STAIN.PHP
 
-■
 
-■
+
+
 
 Focusing the Object
 
@@ -4162,11 +4148,11 @@ the outlet.
 
 52
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -4246,7 +4232,7 @@ CH3
 
 Crystal violet
 
-FIGURE 2.18 ■ Chemical structure of stains. Methylene blue
+FIGURE 2.18  Chemical structure of stains. Methylene blue
 and crystal violet are cationic (positively charged) dyes. Chloride
 (Cl–) is the counter-ion.
 
@@ -4285,11 +4271,11 @@ whether they retain the stain.
 
 CHAPTER 2
 
-■
+
 
 OBSERVING THE MICROBIAL CELL
 
-■
+
 
 53
 
@@ -4325,7 +4311,7 @@ microscope.
 
 FIGURE 2.19
 
-■ Procedure for simple staining with
+ Procedure for simple staining with
 methylene blue.
 
 FIGURE 2.20
@@ -4339,7 +4325,7 @@ Gram staining of bacteria. A. Gram stain of a
 sputum specimen from a patient with pneumonia, containing Grampositive Streptococcus pneumoniae (purple diplococci) among
 white blood cells in pus. The white blood cell nuclei stain pink
 (counterstain). B. Gram-negative Proteus mirabilis (pink rods).
-■
+
 
 In the Gram stain procedure (Fig. 2.21), a dye such as
 crystal violet binds to the bacteria; it also binds to the surface of human cells, but less strongly. After the excess stain
@@ -4360,11 +4346,11 @@ their crystal violet stain. In the final step, a counterstain,
 
 54
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -4525,7 +4511,7 @@ remain dark purple.
 
 FIGURE 2.21
 
-■
+
 
 Safranin counterstains
 Gram-negative cells.
@@ -4620,7 +4606,7 @@ with Proteobacteria to digest our food (discussed in Chapters 13 and 21). Our co
 
 CHAPTER 2
 
-■
+
 
 OBSERVING THE MICROBIAL CELL
 FIGURE 2.22
@@ -4629,11 +4615,11 @@ B.
 
 A.
 
-■
+
 
 55
 
-■
+
 
 Differential stains.
 
@@ -4660,13 +4646,13 @@ variable stain results depending on their growth state and
 environmental conditions.
 Other differential stains reveal components specific to
 certain classes of bacteria:
-■
 
-■
 
-■
 
-■
+
+
+
+
 
 Acid-fast stain (Ziehl-Neelsen). Carbolfuchsin specifically stains mycolic acids of Mycobacterium tuberculosis
 and M. leprae, the causative agents of tuberculosis and
@@ -4695,16 +4681,16 @@ for immunofluorescence microscopy (discussed next, in
 Section 2.4).
 
 To Summarize
-■
 
-■
 
-■
-■
 
-■
 
-■
+
+
+
+
+
+
 
 In bright-field microscopy, image quality depends on
 the wavelength of light; the magnifying power of a lens;
@@ -4734,11 +4720,11 @@ fluorescence for microbial discovery was acknowledged by
 
 56
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -4766,7 +4752,7 @@ Heterocyst
 
 FIGURE 2.23
 
-■ Fluorescence microscopy. A. Cyanobacteria show chlorophyll-based autofluorescence (red) and fluorescence from
+ Fluorescence microscopy. A. Cyanobacteria show chlorophyll-based autofluorescence (red) and fluorescence from
 heterocysts (green) expressing a nitrogen-stress gene fused to GFP. B. Listeria bacteria (expressing GFP) invade human cells, propelled by
 polymerizing “tails” of actin. Human cell nuclei fluoresce red (DAPI stain for DNA).
 
@@ -4857,11 +4843,11 @@ Atomic nucleus
 
 B.
 
-■
+
 
 OBSERVING THE MICROBIAL CELL
 
-■
+
 
 57
 
@@ -4897,7 +4883,7 @@ FIGURE 2.24
 400
 500
 Wavelength (nm)
-■
+
 
 600
 
@@ -4947,7 +4933,7 @@ a dichroic mirror (dichroic filter), a material that ref lects
 Specimen (object)
 light below a certain wavelength but transmits light
 above that wavelength.
-FIGURE 2.25 ■ Fluorescence microscopy.
+FIGURE 2.25  Fluorescence microscopy.
 
 Dichroic
 mirror
@@ -4955,11 +4941,11 @@ mirror
 
 58
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -4989,7 +4975,7 @@ FIGURE 2.26
 
 Fluorescent molecules (fluorophores)
 commonly used in microscopy. The conjugated double bonds
-■
+
 
 Originally isolated from a jellyfish, Aequorea victoria,
 the Nobel-winning GFP can be expressed from a gene
@@ -5021,11 +5007,11 @@ condense to form the fluorophore.
 
 The cell specificity of the fluorophore can be determined by:
 
-■
 
-■
 
-■
+
+
+
 
 Chemical affi nity. Certain fluorophores have chemical
 affi nity for certain classes of biological molecules. For
@@ -5056,11 +5042,11 @@ Membrane stain
 COURTESY OF MELANIE
 BERKMEN, MIT
 
-■
+
 
 FIGURE 2.27
 
-■ The replisome and the DNA origin of
+ The replisome and the DNA origin of
 replication. A. Melanie Berkmen, working in the laboratory of Alan
 
 Grossman, obtains the fluorescence micrograph shown. B. Fluorescence microscopy reveals the DNA origin, labeled blue by a protein
@@ -5084,7 +5070,7 @@ as two yellow spots.
 
 Thought Question
 
-■
+
 
 OBSERVING THE MICROBIAL CELL
 
@@ -5146,7 +5132,7 @@ Super-Resolution Imaging
 Intensity
 profile
 
-■
+
 
 B. Single-molecule tracking: monitoring protein motion
 
@@ -5160,7 +5146,7 @@ Consecutive images of the same molecule
 
 FIGURE 2.28
 
-■ Single-molecule
+ Single-molecule
 localization by computation: a
 form of super-resolution imaging.
 
@@ -5181,11 +5167,11 @@ first to demonstrate the possibility of
 single-molecule tracking of fluorescent
 proteins in bacteria.
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 A.
@@ -5221,7 +5207,7 @@ ParB
 
 FIGURE 2.29
 
-■ Super-resolution imaging reveals movement of origin-binding proteins across a cell. A. Lucy Shapiro, winner
+ Super-resolution imaging reveals movement of origin-binding proteins across a cell. A. Lucy Shapiro, winner
 of the National Medal of Science in 2013. B. Super-resolution imaging reveals the migration of the ParA cell fission protein across the cell of
 Caulobacter crescentus. The gene encoding ParA is fused to YFP, and the gene encoding ParB is fused to CFP. C. ParA migrates clear across
 the cell, generating a track to guide ParB to pull the newly replicated DNA origin across from one pole to the opposite pole. The arrow
@@ -5277,7 +5263,7 @@ composed of the pathogenic bacterium Pseudomonas
 
 FIGURE 2.30
 
-■ Biofilm with live/dead fluorophore, observed by confocal laser scanning microscopy. Pseudomonas
+ Biofilm with live/dead fluorophore, observed by confocal laser scanning microscopy. Pseudomonas
 
 aeruginosa cells growing in a biofilm, treated with the antibiotic
 tobramycin.
@@ -5286,11 +5272,11 @@ tobramycin.
 
 Chemical Imaging Microscopy
 
-■
 
-■
 
-■
+
+
+
 
 Fluorescence microscopy uses fluorescence by a fluorophore to reveal specific cells or cell parts.
 The specimen absorbs light at one wavelength and
@@ -5342,16 +5328,16 @@ disk held by three “spider legs” across an open ring. The
 
 ARTHUR SIEGELMAN/VISUALS UNLIMITED
 
-■
 
-■
+
+
 
 Dark-Field Microscopy Detects
 Unresolved Objects
 
 To Summarize
 
-■
+
 
 OBSERVING THE MICROBIAL CELL
 
@@ -5371,25 +5357,25 @@ communities, such as soil or the intestinal microbiome,
 the distribution of chemicals can be mapped onto specific
 microbes or subcellular compartments defined by fluorescence microscopy.
 
-■
 
-■
+
+
 
 5 µm
 
 FIGURE 2.31
 
-■
+
 
 Dark-field observation of bacteria. Trepo-
 
 nema pallidum specimen from a patient with syphilis.
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -5420,7 +5406,7 @@ outer ring of light.
 
 FIGURE 2.32
 
-■ A dark-field condenser system with a spider
+ A dark-field condenser system with a spider
 light stop. Below the condenser, the spider light stop excludes all
 
 but an annular ring of light from the light source. The annular ring
@@ -5478,7 +5464,7 @@ B. High light intensity
 
 FIGURE 2.33
 
-■ Motile bacteria
+ Motile bacteria
 observed under dark-field microscopy. A. Flagellated Salmonella enterica
 
 observed with low light, which limits scattering. Only cell bodies are detected; no
@@ -5568,7 +5554,7 @@ A = Amplitude
 A1 – A2 = AT
 Darker
 
-■ Phase-contrast microscopy (PCM). A. PCM
+ Phase-contrast microscopy (PCM). A. PCM
 of cyanobacteria with stalked protist. Cultured from Antarctica, Lake
 Fryxell cyanobacterial liftoff mat. B. Interference is the principle
 behind PCM. In constructive interference (left), the peaks of the two
@@ -5578,11 +5564,11 @@ interference (right), the peaks of the waves are opposite one
 another, so their amplitudes cancel (A1 – A2), forming a wave of
 lesser amplitude.
 
-■
+
 
 OBSERVING THE MICROBIAL CELL
 
-■
+
 
 63
 
@@ -5631,17 +5617,17 @@ phase plate consists of refractive material that is thinner in
 the region met by the outer (transmitted) light cone. The
 refracted light passing through the center of the phase plate
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
 FIGURE 2.35
 
-■ Phase-contrast
+ Phase-contrast
 optics. A. The specimen retards light
 
 by approximately one-quarter of a
@@ -5732,7 +5718,7 @@ microscopy (DIC), also known as
 Nomarski microscopy. DIC optics
 require a polarized light source
 (with light rays restricted to one
-FIGURE 2.36 ■ Phase contrast (Zernike optics) compared to differential interplane). The optical system enhances
+FIGURE 2.36  Phase contrast (Zernike optics) compared to differential interplane). The optical system enhances
 ference contrast (DIC, Nomarski optics). A. Saccharomyces cerevisiae (baker’s yeast)
 contrast by superimposing an image
 observed by phase contrast. The dense cell wall, highly refractive, appears as a dark rim.
@@ -5746,13 +5732,13 @@ WIKIMEDIA COMMONS
 CHAPTER 2
 
 To Summarize
-■
 
-■
 
-■
 
-■
+
+
+
+
 
 OBSERVING THE MICROBIAL CELL
 
@@ -5808,7 +5794,7 @@ Differential interference contrast microscopy (DIC)
 with Nomarski optics superimposes interference bands on
 an image, accentuating small differences in refractive index.
 
-■
+
 
 N
 
@@ -5824,7 +5810,7 @@ Image is inverted.
 Image is inverted
 and rotated.
 
-FIGURE 2.37 ■ A magnetic lens. The beam of electrons spirals
+FIGURE 2.37  A magnetic lens. The beam of electrons spirals
 around the magnetic field lines. The U-shaped magnet acts as a lens,
 focusing the spiraling electrons much as a refractive lens focuses
 light rays.
@@ -5860,11 +5846,11 @@ and are reflected to reveal the contours of its 3D surface.
 
 66
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 Transmission electron
@@ -5915,7 +5901,7 @@ Eye
 
 FIGURE 2.38
 
-■
+
 
 Transmission electron microscopy (TEM).
 
@@ -5946,7 +5932,7 @@ high-voltage current applied to a tungsten filament, which gives
 off electrons when heated. Each magnetic lens shown (condenser,
 objective, projection) actually represents a series of lenses.
 
-FIGURE 2.39 ■ Scanning electron microscopy (SEM). A. In
+FIGURE 2.39  Scanning electron microscopy (SEM). A. In
 the scanning electron microscope, the electron beam is scanned
 across a specimen coated in gold, which acts as a source of secondary electrons. The incident electron beam ejects secondary electrons toward a detector, generating an image of the surface of the
 specimen. B. Loading a specimen into the vacuum column.
@@ -5977,11 +5963,11 @@ The image includes electron density throughout the depth
 of the section. In Figure 2.40B, flagellar motors have been
 isolated from a bacterial cell envelope and spread on a grid
 
-■
+
 
 OBSERVING THE MICROBIAL CELL
 
-■
+
 
 67
 
@@ -6017,7 +6003,7 @@ Glycoprotein
 
 FIGURE 2.40
 
-■ Transmission electron micrographs. A. Bacillus anthracis thin section showing envelope and cytoplasm. Stained with
+ Transmission electron micrographs. A. Bacillus anthracis thin section showing envelope and cytoplasm. Stained with
 uranyl acetate. B. Flagellar motors from Salmonella enterica, shadowed with colloidal gold.
 
 A.
@@ -6028,7 +6014,7 @@ B.
 
 FIGURE 2.41
 
-■ Scanning electron micrographs. A. Pyrococcus furiosus extend flagella that attach the rod-shaped Methanopyrus kandleri.
+ Scanning electron micrographs. A. Pyrococcus furiosus extend flagella that attach the rod-shaped Methanopyrus kandleri.
 B. Helicobacter pylori adheres to the villi (small bulges) of the gastric epithelium. Bacteria are colorized green.
 
 VERONIKA BURMEISTER/VISUALS UNLIMITED
@@ -6043,11 +6029,11 @@ furiosus
 
 68
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -6078,7 +6064,7 @@ Projection images
 3. Reconstruct object
 in three dimensions.
 
-FIGURE 2.42 ■ 3D image construction in cryo-electron
+FIGURE 2.42  3D image construction in cryo-electron
 tomography. Cryo-EM images are obtained in multiple focal
 
 planes throughout an object. The images are combined through
@@ -6134,11 +6120,11 @@ never seen before.
 
 CHAPTER 2
 
-■
+
 
 OBSERVING THE MICROBIAL CELL
 
-■
+
 
 69
 
@@ -6152,7 +6138,7 @@ A.
 
 FIGURE 2.43
 
-■
+
 
 Cryo-electron tomography reveals virus structure.
 
@@ -6174,7 +6160,7 @@ Cell wall
 Axial
 filament
 
-FIGURE 2.44 ■ Magnetotactic cell visualized by cryo-electron tomography. A. A single cryo-EM scan lengthwise through
+FIGURE 2.44  Magnetotactic cell visualized by cryo-electron tomography. A. A single cryo-EM scan lengthwise through
 Magnetospirillum magneticum. B. 3D model of M. magneticum based on multiple scans. C. Expanded view of the cell interior.
 
 The cell modeled in Figure 2.44 is Magnetospirillum
@@ -6204,11 +6190,11 @@ AAAS. ARASH KOMEILI, ET AL. SCIENCE 13 JANUARY 2006 311: 242-245; FIG 1
 Inner
 membrane
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -6344,7 +6330,7 @@ NICOLE HANSMEIER, ET AL. 2006. MICROBIOLOGY 152:923–935
 
 FIGURE 2.45
 
-■ Atomic force microscopy enables visualization of
+ Atomic force microscopy enables visualization of
 untreated cells. A. The atomic force microscope (AFM) has a fine-pointed
 
 tip attached to a cantilever that moves over a sample. The tip interacts with the
@@ -6383,7 +6369,7 @@ Crystal
 
 OBSERVING THE MICROBIAL CELL
 
-■
+
 
 Area
 detector(s)
@@ -6440,9 +6426,9 @@ X-Ray Diffraction Analysis
 
 A.
 
-■
 
-FIGURE 2.46 ■ Visualizing molecules by X-ray
+
+FIGURE 2.46  Visualizing molecules by X-ray
 crystallography. A. Apparatus for X-ray crystallog-
 
 raphy. The X-ray beam is focused onto a crystal, which
@@ -6453,11 +6439,11 @@ by rows of identical molecules in a crystal. The diffraction pattern is analyzed
 
 72
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -6476,7 +6462,7 @@ BRIKBECK PHOTO UNIT
 
 Cobalt
 
-FIGURE 2.47 ■ Pioneering X-ray crystallography. A. John Bernal developed X-ray crystallography to solve the structure of complex
+FIGURE 2.47  Pioneering X-ray crystallography. A. John Bernal developed X-ray crystallography to solve the structure of complex
 biological molecules. B. Dorothy Hodgkin was awarded the 1964 Nobel Prize in Chemistry for her work in X-ray crystallography. C. Vitamin B12,
 whose structure was originally solved by Hodgkin. The corrin ring structure is built around an atom of cobalt (pink). Carbon atoms here are
 gray; oxygen, red; nitrogen, blue; phosphorus, yellow. Hydrogen atoms are omitted for clarity.
@@ -6515,7 +6501,7 @@ Alpha helix
 
 FIGURE 2.48
 
-■ X-ray crystallography of a protein complex,
+ X-ray crystallography of a protein complex,
 anthrax lethal factor. The toxin consists of a butterfly-shaped
 
 dimer of two peptide chains. This cartoon model is based on X-raycrystallographic data, showing alpha helix (red coils) and beta sheet
@@ -6528,11 +6514,11 @@ grow under higher thermal stress, their macromolecular
 
 CHAPTER 3
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
-■
+
 
 77
 
@@ -6610,11 +6596,11 @@ cell division with other cell cycle processes. I can’t wait!
 
 77
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -6630,15 +6616,15 @@ that make ATP to enzyme factories that build antibiotics.
 Chapter 3 explores the key parts of bacteria and archaea,
 including specialized structures such as magnetosomes.
 Most bacteria share these traits:
-■
 
-■
+
+
 
 Compact genome. Prokaryotic genomes are compact,
 with relatively little noncoding DNA. Small genomes
 maximize the production of cells from limited resources.
 
-■
+
 
 Tightly coordinated functions. The cell’s parts work
 together in a highly coordinated mechanism, which may
@@ -6647,7 +6633,7 @@ enable a high rate of reproduction.
 Beyond the fundamentals, bacteria evolve amazing diversity, which we will explore in Chapter 18. We also discuss
 diversity of archaea in Chapter 19, and of microbial eukaryotes such as fungi and protists in Chapter 20. Overall, the
 three domains show these key traits:
-■
+
 
 Thick, complex outer envelope. The envelope protects the cell from environmental stress and mediates
 exchange with the environment.
@@ -6674,7 +6660,7 @@ DENNIS KUNKEL MICROSCOPY
 
 Flagellum
 
-FIGURE 3.1 ■ Escherichia coli: a Gram-negative bacterium of
+FIGURE 3.1  Escherichia coli: a Gram-negative bacterium of
 the gut microbiome. The envelope includes the outer membrane;
 
 the cell wall and periplasm; and the inner (cell) membrane. Embedded
@@ -6703,7 +6689,7 @@ Polypeptide
 
 CHAPTER 3
 
-■
+
 
 Eukaryotic cells have extensive membranous organelles. Organelles such as endoplasmic reticulum and
 Golgi complex are reviewed in eAppendix 2. The mitochondria and chloroplasts of eukaryotic cells evolved by
@@ -6721,11 +6707,11 @@ cell fractionation, and genetic analysis.
 The Bacterial Cell:
 An Overview
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
-■
+
 
 79
 
@@ -6820,11 +6806,11 @@ DNA-bridging protein (3 × 3 × 5 nm)
 
 80
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -6890,22 +6876,22 @@ and nonpolar substances; thus, ethanol disintegrates
 membranes and destroys the folded structure of proteins.
 For a review of elementary chemistry, see eAppendix 1.
 All cells share common chemical components:
-■
+
 
 Water, the fundamental solvent of life
 
-■
+
 
 Essential ions, such as potassium, magnesium, and
 chloride ions
 
-■
+
 
 Small organic molecules, such as lipids and sugars, that
 are incorporated into cell structures and that provide
 nutrition by catabolism
 
-■
+
 
 Macromolecules, such as nucleic acids and proteins,
 that contain information, catalyze reactions, and mediate transport, among many other functions
@@ -6926,11 +6912,11 @@ cofactors. A major class of organic cations is the polyamines, molecules with mu
 
 CHAPTER 3
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
-■
+
 
 81
 
@@ -7092,11 +7078,11 @@ bacterial cell? The smallest number? Why does a cell contain
 
 82
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -7181,7 +7167,7 @@ Inner membrane
 Cytochromes
 for bioelectricity
 
-■ Fractionation of Gram-negative cells. Cell
+ Fractionation of Gram-negative cells. Cell
 periplasm fills with sucrose, and lysozyme breaks down the cell wall.
 Dilution in water causes osmotic shock to the outer membrane, and
 periplasmic proteins leak out. Subsequent centrifugation steps separate
@@ -7250,11 +7236,11 @@ weight
 protein protein
 (kDa)
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
-■
+
 
 83
 
@@ -7299,7 +7285,7 @@ mass spectrum
 Identification via
 database search
 
-FIGURE 3.3 ■ Protein analysis. A. Gel electrophoresis of total cell proteins compared to outer membrane proteins from cell fractionation. B. Outer membrane proteins are identified by tryptic digest and mass spectrum analysis. The resulting peptide sequence is compared
+FIGURE 3.3  Protein analysis. A. Gel electrophoresis of total cell proteins compared to outer membrane proteins from cell fractionation. B. Outer membrane proteins are identified by tryptic digest and mass spectrum analysis. The resulting peptide sequence is compared
 with those predicted from genome data.
 
 Following osmotic shock, ultracentrifugation of the
@@ -7352,11 +7338,11 @@ cell may yield clues about the function of the altered part.
 
 84
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 B.
@@ -7381,7 +7367,7 @@ D212A Cells elongate
 with no Z-ring; cytoplasm
 blebs out the side.
 
-FIGURE 3.4 ■ Genetic analysis of FtsZ. A. E. coli with aspartate (D) at position 45 replaced by alanine (A) (D45A) elongate abnormally,
+FIGURE 3.4  Genetic analysis of FtsZ. A. E. coli with aspartate (D) at position 45 replaced by alanine (A) (D45A) elongate abnormally,
 forming blebs from the side, with no Z-rings. Cells with aspartate replaced by alanine at position 212 (D212A) elongate to form extended
 nondividing cells that contain spiral FtsZ complexes. FtsZ was visualized by immunofluorescence. B. Model of FtsZ protein monomer based on
 X-ray crystallography shows the position of the mutant residues, D212A and D45A.
@@ -7404,9 +7390,9 @@ cell fractionation, crystallography, and genetic analysis.
 Ribosome analysis is presented in eTopic 3.1.
 
 To Summarize
-■
 
-■
+
+
 
 Bacterial cells are protected by a thick cell envelope. The
 envelope includes a cell membrane and a peptidoglycan cell
@@ -7417,13 +7403,13 @@ phospholipids, and other organic and inorganic
 chemicals. Proteins in the cell vary, depending on the
 species and environmental conditions.
 
-■
 
-■
 
-■
 
-■
+
+
+
+
 
 The bacterial cytoplasm is highly structured. DNA
 replication, RNA transcription, and protein synthesis
@@ -7462,7 +7448,7 @@ ATP synthase
 
 Cytoplasm
 
-FIGURE 3.5 ■ Bacterial cell membrane. The cell membrane
+FIGURE 3.5  Bacterial cell membrane. The cell membrane
 consists of a phospholipid bilayer, with hydrophobic fatty acid chains
 directed inward, away from water. The bilayer contains stiffening
 agents such as hopanoids. Half the membrane volume consists of
@@ -7470,7 +7456,7 @@ proteins.
 
 Membrane Lipids
 
-■
+
 
 85
 
@@ -7506,10 +7492,10 @@ Extracellular environment
 
 Hopanoid
 
-■
+
 
 Membrane proteins serve functions such as transport, communication with the environment, and structural support.
-■
+
 
 Structural support. Some membrane proteins anchor
 together different layers of the cell envelope (discussed
@@ -7628,21 +7614,21 @@ FIGURE 3.6
 
 Phosphatidylethanolamine
 
-■ Phospholipids. A. Phosphatidylglycerol consists of glycerol with ester links to two fatty acids, and a phosphoryl group
+ Phospholipids. A. Phosphatidylglycerol consists of glycerol with ester links to two fatty acids, and a phosphoryl group
 linked to a terminal glycerol. B. Phosphatidylethanolamine contains a glycerol linked to two fatty acids, and a phosphoryl group with a terminal
 ethanolamine. The ethanolamine carries a positive charge.
 
-■
+
 
-■
 
-■
 
-■
+
+
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -7701,7 +7687,7 @@ Extracellular space
 
 FIGURE 3.7
 
-■ A cell membrane–
+ A cell membrane–
 embedded transport protein: the
 LeuT sodium/leucine cotransporter
 of Aquifex bacteria. The protein
@@ -7757,11 +7743,11 @@ membrane in their uncharged form: HA (weak acid) or B
 (weak base). On the other side, entering the aqueous cytoplasm, the acid dissociates (HA to A– and H+) or the base
 reassociates with H+ (B to BH+). In effect, membranepermeant acids conduct acid (H+) across the membrane,
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
-■
+
 
 87
 
@@ -7894,17 +7880,17 @@ Tetracycline
 
 O
 
-■ Common drugs are membrane-permeant weak acids and bases. In its charged form (A– or BH+), each drug is soluble
+ Common drugs are membrane-permeant weak acids and bases. In its charged form (A– or BH+), each drug is soluble
 in the bloodstream. The uncharged form (HA or B) is hydrophobic and penetrates the cell membrane.
 
-■
+
 
 PART 1
 
 A.
 H
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -8003,7 +7989,7 @@ FIGURE 3.9
 
 Cardiolipin localizes to the poles. A. Cardiolipin is a double phospholipid joined by a third glycerol. B. A space-filling
 model of cardiolipin shows its triangular shape. C. Cardiolipin localizes to the bacterial cell poles, as shown by microscopy with a cardiolipinspecific fluorophore.
-■
+
 
 usually exist in very different concentrations inside and
 outside the cell. An ion gradient (ratio of ion concentrations) across the cell membrane can store energy for nutrition or to drive the transport of other molecules. Inorganic
@@ -8074,7 +8060,7 @@ fatty acid
 HO
 O
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
@@ -8084,7 +8070,7 @@ HO
 OH
 OH
 
-■
+
 
 OH
 OH
@@ -8110,13 +8096,13 @@ FIGURE 3.10
 HO
 HO
 
-■
+
 
 FIGURE 3.11
 
 Phospholipid side chains.
 
-■
+
 
 OH
 OH
@@ -8212,17 +8198,17 @@ FIGURE 3.12
 
 CH2
 
-■ Terpene-derived lipids of archaea. In archaea, the hydrocarbon chains are ether-linked to glycerol, and every fourth carbon has a methyl
+ Terpene-derived lipids of archaea. In archaea, the hydrocarbon chains are ether-linked to glycerol, and every fourth carbon has a methyl
 branch. In some archaea, the tails of the two facing lipids of the bilayer are fused,
 forming tetraethers; thus, the entire membrane consists of a monolayer.
 
 90
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -8233,7 +8219,7 @@ all three domains.
 
 FIGURE 3.13
 
-■ Synthesis
+ Synthesis
 of terpene-derived lipids.
 
 Isoprene
@@ -8265,19 +8251,19 @@ To Summarize
 OH
 O P
 
-■
 
-■
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
+
+
 
 The cell membrane consists of a phospholipid bilayer
 containing hydrophobic membrane proteins. Membrane
@@ -8373,17 +8359,17 @@ flattened on the sample grid like a deflated balloon. Its
 CHAPTER 3
 A.
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
-■
+
 
 91
 
 FIGURE 3.14
 
-■ The peptidoglycan sacculus and peptidoglycan cross-bridge formation. A. Isolated sacculus from Esch-
+ The peptidoglycan sacculus and peptidoglycan cross-bridge formation. A. Isolated sacculus from Esch-
 
 FEMS MICROBIOLOGY REVIEWS/OXFORD
 JOURNALS. 32(2): 149, FIG 3A
@@ -8644,11 +8630,11 @@ units of a disaccharide composed of N-acetylglucosamine
 
 92
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -8722,7 +8708,7 @@ Septal zonal growth (Streptococcus, Staphylococcus)
 
 FIGURE 3.15
 
-■ Peptidoglycan growth in
+ Peptidoglycan growth in
 different species. A. Different species of bac-
 
 teria synthesize new peptidoglycan in dispersed
@@ -8745,7 +8731,7 @@ LABORATORY OF MOLECULAR BIOLOGY
 COURTESY OF BENOÎT ZUBER/MRC LABORATORY
 OF MOLECULAR BIOLOGY
 
-■
+
 
 93
 
@@ -8758,7 +8744,7 @@ three major kinds of bacteria, two of which (Firmicutes and
 Proteobacteria) are distinguished by the Gram stain. The
 third, Mycobacteria, is distinguished by the acid-fast stain
 (discussed in Chapter 2).
-■
+
 
 Peptidoglycan
 Cell membrane
@@ -8778,7 +8764,7 @@ wall only at the poles.
 
 A. Firmicutes (Gram-positive)
 
-■
+
 
 Firmicutes (Gram-positive) have a thick cell wall with
 3–20 layers of peptidoglycan, interpenetrated by teichoic
@@ -8821,18 +8807,18 @@ membrane
 Membrane
 proteins
 
-FIGURE 3.16 ■ Cell envelope: Gram-positive (Firmicutes) and Gram-negative (Proteobacteria). A. Firmicutes (Gram-positive)
+FIGURE 3.16  Cell envelope: Gram-positive (Firmicutes) and Gram-negative (Proteobacteria). A. Firmicutes (Gram-positive)
 cells have a thick cell wall with multiple layers of peptidoglycan, threaded by teichoic acids. A inset: Gram-positive envelope of Bacillus subtilis
 (TEM). B. Proteobacteria (Gram-negative) cells have a single layer of peptidoglycan covered by an outer membrane; the cell membrane is
 called the inner membrane. B inset: Gram-negative envelope of Pseudomonas aeruginosa (TEM).
 
 94
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -8842,11 +8828,11 @@ outer membrane. The phylum Proteobacteria consists
 of Gram-negative species such as Escherichia coli and
 nitrogen-fixing Sinorhizobium meliloti.
 
-■
+
 
 FIGURE 3.17
 
-■ Teichoic
+ Teichoic
 acids. Teichoic acids in
 
 HO
@@ -8864,7 +8850,7 @@ complex multilayered envelope that includes defensive
 structures such as mycolic acids. Examples include Mycobacterium tuberculosis, the cause of tuberculosis, and
 M. leprae, the cause of leprosy.
 
-■
+
 
 P
 
@@ -8970,7 +8956,7 @@ sortases can help the cell acquire nutrients, or help the cell
 adhere to a substrate. Sortases are now used in the protein
 engineering industry.
 
-■ S-layer of Lysinibacillus bacteria. A. Lysinibacillus imaged by atomic force microscopy (AFM). B. S-layer surface imaged
+ S-layer of Lysinibacillus bacteria. A. Lysinibacillus imaged by atomic force microscopy (AFM). B. S-layer surface imaged
 by AFM. C. Computational model of S-layer based on cryo-EM.
 
 LUIS COMOLLI
@@ -8983,13 +8969,13 @@ and limitations of a cell’s having one layer of peptidoglycan
 CHAPTER 3
 A. Gram-negative envelope
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
 95
 
-■
+
 
 LPS
 
@@ -9035,7 +9021,7 @@ D-Glu
 
 Periplasm
 
-■
+
 
 Gram-negative cell envelope.
 
@@ -9110,11 +9096,11 @@ B.
 
 96
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -9226,7 +9212,7 @@ PO4–
 
 Lipid A
 
-FIGURE 3.20 ■ Lipopolysaccharide (LPS). A. Lipopolysaccharide (LPS) consists of core
+FIGURE 3.20  Lipopolysaccharide (LPS). A. Lipopolysaccharide (LPS) consists of core
 polysaccharide and O antigen linked to a lipid A. Lipid A consists of a dimer of phosphoglucosamine esterified or amidated to six fatty acids. B. Repeating polysaccharide units of O antigen
 extend from lipid A.
 
@@ -9251,11 +9237,11 @@ and is thus unlikely to diffuse
 
 CHAPTER 3
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
-■
+
 
 97
 
@@ -9301,7 +9287,7 @@ agents or by acidification.
 Overall, the outer membrane,
 periplasm,
 inner membrane, and
-■
+
 FIGURE 3.21 OmpF porin transports ampicillin. This model of the OmpF trimer is
 cytoplasm define four different celbased on X-ray crystallography. (PDB code: 2OMF) Within each tubular porin monomer, charged
 amino acid residues contact ampicillin. Source: Modified from Ekaterina M. Nestorovich et al. 2002. PNAS
@@ -9334,11 +9320,11 @@ enables them to grow in the colon containing bile salts—a
 
 98
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -9419,7 +9405,7 @@ membrane
 
 FIGURE 3.22
 
-■ Mycobacterial envelope structure. A
+ Mycobacterial envelope structure. A
 complex cell wall includes a peptidoglycan layer linked to a chain
 of galactose polymer (galactan) and arabinose polymer (arabinan).
 Arabinan forms ester links to mycolic acids, which form an outer
@@ -9441,7 +9427,7 @@ Wild type
 
 FIGURE 3.23
 
-■
+
 
 99
 
@@ -9465,7 +9451,7 @@ B.
 
 2 µm
 
-■
+
 
 Cytoskeletal mutants. Wild-type cells
 
@@ -9510,7 +9496,7 @@ mreB, mreI, mreBH
 
 Wild type
 
-■
+
 
 MreB
 C.
@@ -9524,7 +9510,7 @@ Crescentin
 
 FIGURE 3.24
 
-■ Shape-determining proteins. A. Cell diameter
+ Shape-determining proteins. A. Cell diameter
 is maintained by FtsZ polymerization to form the Z-ring. B. Elongation of a rod-shaped cell requires Mre proteins. MreB polymerizes
 around an E. coli cell (MreB-YFP fluorescence) along with a Z-ring
 of FtsZ (fluorescent anti-FtsZ antibody). C. Crescent-shaped cells
@@ -9541,11 +9527,11 @@ by a membrane-specific fluorophore. These cytoskeletal proteins, and their varia
 work together within cells to generate the shapes of bacteria.
 
 To Summarize
-■
 
-■
 
-■
+
+
+
 
 The cell wall maintains turgor pressure. The cell wall
 is porous, but its network of covalent bonds generates
@@ -9568,19 +9554,19 @@ H. STRAHL, ET AL. 2013. NATURE COMMUNICATIONS. 5:3442.
 
 CHAPTER 3
 
-■
+
 
-■
 
-■
 
-■
 
-■
+
+
+
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -9654,7 +9640,7 @@ Nucleoid
 
 FIGURE 3.25
 
-■
+
 
 Bacterial nucleoid and eukaryotic nucleus..
 
@@ -9668,7 +9654,7 @@ protein
 
 FIGURE 3.26
 
-■
+
 
 DNA domain
 
@@ -9719,7 +9705,7 @@ RNA synthesis.
 
 CELL STRUCTURE AND FUNCTION
 
-■
+
 
 101
 
@@ -9728,16 +9714,16 @@ Note:
 In biology, the word “domain” is used in several different
 ways, each referring to a defined portion of a larger entity.
 
-■ DNA domains of the nucleoid are distinct loops of DNA that
+ DNA domains of the nucleoid are distinct loops of DNA that
 
 extend from the origin.
 
-■ Protein domains are distinct functional or structural regions of
+ Protein domains are distinct functional or structural regions of
 
 a protein.
 
-■ Lipid domains are clusters of one type of lipid within a membrane.
-■ Taxonomic domains are genetically distinct classes of organ-
+ Lipid domains are clusters of one type of lipid within a membrane.
+ Taxonomic domains are genetically distinct classes of organ-
 
 isms, such as Bacteria, Archaea, and Eukarya.
 
@@ -9772,7 +9758,7 @@ Transfer RNA
 
 DNA
 
-■
+
 
 Nascent
 RNA
@@ -9807,7 +9793,7 @@ forms hairpin loops.
 
 FIGURE 3.27
 
-■
+
 
 RNA synthesis is coupled to protein synthesis. As the DNA sequence is transcribed into a strand of messenger RNA,
 
@@ -9816,7 +9802,7 @@ ribosomes already start translating the RNA to synthesize proteins.
 102
 102
 
-■
+
 
 PART
 P
@@ -9824,7 +9810,7 @@ ART
 AR
 T1
 
-■
+
 
 THE
 T HE MICROBIAL
@@ -9873,7 +9859,7 @@ continues bidirectionally.
 
 FIGURE 3.28
 
-■
+
 
 Coupling protein synthesis and secretion..
 
@@ -9930,7 +9916,7 @@ Division into two cells
 
 FIGURE 3.29
 
-■
+
 
 Replisome movement within a dividing cell.
 
@@ -9996,7 +9982,7 @@ AHMED TOUHAMI, ET AL. 2004. J. BACTERIOL. 186:3286
 
 200 nm
 
-■
+
 
 from the DNA. At each new origin site, however, two pairs
 of new replisomes have formed. In a fast-growing cell, the
@@ -10020,7 +10006,7 @@ CELL STRUCTURE AND FUNCTION
 
 200 nm
 
-FIGURE 3.30 ■ Septation in Staphylococcus aureus. A. Furrows appear in the cell envelope, all around the cell equator, as new cell
+FIGURE 3.30  Septation in Staphylococcus aureus. A. Furrows appear in the cell envelope, all around the cell equator, as new cell
 wall grows inward (TEM). B. Two new envelope partitions are complete. C. The two daughter cells peel apart. The facing halves of each cell
 contain entirely new cell wall.
 
@@ -10042,15 +10028,15 @@ short compared with the overall time of replication; thus,
 as the replisome travels along the DNA, it converts one
 helix into two progeny helices almost simultaneously.
 
-■
+
 
 104
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -10065,12 +10051,12 @@ defects in cell growth.
 
 0.5 µm
 
-FIGURE 3.31 ■ Septation orientation determines the
+FIGURE 3.31  Septation orientation determines the
 arrangement of progeny cells. For Micrococcus tetragenus,
 
 septation in two planes generates a tetrad (TEM with negative stain).
 
-■
+
 
 in a ring all around the cell equator, as new cell wall grows
 inward. The wall material must consist of two separable
@@ -10087,7 +10073,7 @@ called “sarcinae” (singular, sarcina). Tetrads are formed by
 Micrococcus tetragenus, a cause of pulmonary infections
 (Fig. 3.31).
 
-■
+
 
 Septation of rod-shaped cells. In rod-shaped cells, unlike
 
@@ -10099,12 +10085,12 @@ E. coli to form long fi laments instead of dividing normally.
 This fi lamentation results from a failure to form a septum
 between cells. The mutant genes causing this behavior
 
-■
 
-■
+
+
 
 To Summarize
-■
+
 
 DNA is organized in the nucleoid. The
 bacterial DNA is generally attached to the
@@ -10157,7 +10143,7 @@ CELL STRUCTURE AND FUNCTION
 
 FIGURE 3.32
 
-■ Asymmetrical cell division: a model for
+ Asymmetrical cell division: a model for
 development. A swarmer cell of Caulobacter crescentus loses its
 
 flagellum and grows a stalk. The stalked cell divides to produce a
@@ -10207,7 +10193,7 @@ A. Caulobacter mutants lack gene for TipN
 
 TipN-GFP
 
-■
+
 
 attaches to sediment and then immediately starts to
 replicate its DNA and divides, producing a f lagellated
@@ -10237,9 +10223,9 @@ Swarmer
 Stalk
 Holdfast
 
-■
 
-■
+
+
 
 A landmark protein for the cell pole.
 
@@ -10255,17 +10241,17 @@ development.
 
 106
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
 FIGURE 3.34
 
-■ Cell cycle of
+ Cell cycle of
 Caulobacter. A swarmer cell loses
 
 its flagellum and grows a stalk. PodJ
@@ -10382,11 +10368,11 @@ Topic 3.1. Mycobacterium tuberculosis shows an extreme
 
 CHAPTER 3
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
-■
+
 
 107
 
@@ -10399,17 +10385,17 @@ New pole
 
 Old pole
 
-■
+
 
 Cell growth
 
 Beginning of cell division
-■
+
 
 New pole
 is now old.
 
-■
+
 
 Old pole
 
@@ -10417,13 +10403,13 @@ New poles
 
 Old pole
 
-■
+
 
 New poles
 are now old.
-■
 
-FIGURE 3.35 ■ Bacterial cell division generates cells with
+
+FIGURE 3.35  Bacterial cell division generates cells with
 an old pole and a new pole. Succeeding generations have cells
 
 with diverse combinations of new poles (blue), old poles (red), and
@@ -10488,11 +10474,11 @@ phototrophs have evolved specialized systems of extensively folded intracellular
 
 108
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -10589,7 +10575,7 @@ pole
 
 FIGURE 1
 
-■ Mycobacteria grow by extending the old pole. A. Sarah Fortune studies how mycobacteria show age-related differences in antibiotic resistance. B. Mycobacterium smegmatis cells extend the old poles (1 h to 4 h), and then start extending the new poles.
+ Mycobacteria grow by extending the old pole. A. Sarah Fortune studies how mycobacteria show age-related differences in antibiotic resistance. B. Mycobacterium smegmatis cells extend the old poles (1 h to 4 h), and then start extending the new poles.
 
 (Fig. 3.36A). Thylakoids consist of layers of folded sheets
 (lamellae) or tubes of membranes packed with chlorophylls
@@ -10632,11 +10618,11 @@ Figure 2B shows some of the data that demonstrate the statistical differences in
 
 A.
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
-■
+
 
 109
 
@@ -10717,7 +10703,7 @@ Elongation rate (µm/h)
 
 FIGURE 2
 
-■ Mycobacteria with older poles grow faster. A. Mycobacterial cells extend first the older pole (accelerator cell, Acc)
+ Mycobacteria with older poles grow faster. A. Mycobacterial cells extend first the older pole (accelerator cell, Acc)
 and then the newer pole (alternator cell, Alt). B. Cells with older poles (age 2, age 3) extend faster than cells with newer poles (age 1).
 Extension rates also vary greatly within each age class.
 
@@ -10760,15 +10746,15 @@ When light is scarce, phototrophs may digest their thylakoids for energy and as 
 the cell may digest energy-rich materials from storage granules composed of glycogen or other polymers, such as
 polyhydroxybutyrate (PHB) and poly-3-hydroxyalkanoate (PHA). PHB and PHA polymers are of interest as biodegradable plastics, and bacteria have been engineered to
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
-FIGURE 3.36 ■ Organelles
+FIGURE 3.36  Organelles
 of phototrophs. A. The marine
 
 B.
@@ -10842,25 +10828,25 @@ In a favorable habitat, such as a running stream full of fresh
 nutrients or the epithelial surface of a host, it is advantageous for a cell to adhere to a substrate. Adherence, the
 ability to attach to a substrate, requires specific structures.
 
-■ External sulfur particles. Sulfur globules dot
+ External sulfur particles. Sulfur globules dot
 the surface of Thermoanaerobacter sulfurigignens, an anaerobic
 thermophilic bacterium that gains energy by reducing thiosulfate
 (S2O32–) to elemental sulfur (S0).
 
 1 µm
 
-FIGURE 3.38 ■ Pili are protein filaments for attachment. Neisseria gonorrhoeae, cause of the sexually transmitted
+FIGURE 3.38  Pili are protein filaments for attachment. Neisseria gonorrhoeae, cause of the sexually transmitted
 infection gonorrhea, use pili to attach to the host mucous membrane (SEM).
 
 NATIONAL INSTITUTE OF BIOMEDICAL IMAGING AND BIOENGINERING/NIH
 
 Pili, Stalks, and Nanotubes
 
-■
+
 
 CELL STRUCTURE AND FUNCTION
 
-■
+
 
 111
 
@@ -10879,7 +10865,7 @@ A.
 FIGURE 3.40
 © 2013 FABISCH, BEULIG, AKOB AND KÜSEL/CREATIVE COMMONS
 
-■ Intercellular nanotubes. Bacillus subtilis
+ Intercellular nanotubes. Bacillus subtilis
 bacteria with intercellular connections called nanotubes, which pass
 material from one cell to the next.
 
@@ -10905,7 +10891,7 @@ of rotary flagella (singular, flagellum). Flagellar motility benefits the cell b
 decreasing competition. Motility also enables cells to swim
 toward a favorable habitat (chemotaxis, discussed shortly.)
 
-FIGURE 3.39 ■ Gallionella sp. are iron-oxidizing, stalked
+FIGURE 3.39  Gallionella sp. are iron-oxidizing, stalked
 bacteria. A. The twisted filaments of Gallionella, taken from a slow-
 
 moving freshwater stream at Audley in New South Wales, Australia.
@@ -10926,11 +10912,11 @@ CHAPTER 3
 
 112
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 B.
@@ -10969,7 +10955,7 @@ CAMR/A. BARRY DOWSETT
 
 FIGURE 3.41
 
-■ Flagellated Salmonella bacteria. A. Salmonella enterica has multiple flagella (colorized TEM). B. The flagella
+ Flagellated Salmonella bacteria. A. Salmonella enterica has multiple flagella (colorized TEM). B. The flagella
 collect in a bundle behind a swimming cell. Under dark-field microscopy, the cell body appears overexposed, about five times as large as
 the actual cell.
 
@@ -11013,7 +10999,7 @@ H+
 
 Rotor
 
-FIGURE 3.42 ■ The flagellar
+FIGURE 3.42  The flagellar
 motor. A. The basal body, or motor,
 
 of the bacterial flagellum (TEM). This
@@ -11080,7 +11066,7 @@ Merge
 
 MotB - GFP
 
-■
+
 
 YUSUKE MORIMOTO, ET AL. 2010. MOLECULAR MICROBIOLOGY 78:1117.
 
@@ -11090,13 +11076,13 @@ MotB = GFP
 
 A.
 
-■
+
 
 COURTESY OF PROTONIC NANOMACHINE GROUP, OSAKA UNIVERSITY
 
 CHAPTER 3
 
-FIGURE 3.43 ■ Flagellar motor proteins localized by fluorescence microscopy. A. Cells of Salmonella enterica express a GFP
+FIGURE 3.43  Flagellar motor proteins localized by fluorescence microscopy. A. Cells of Salmonella enterica express a GFP
 fused to flagellar motor protein MotB or to FliG. Bright green dots (white arrows) indicate GFP-protein complexed with a flagellar motor. The
 flagellar filament is visualized via the red fluorophore Alexa, conjugated to an anti-flagellin antibody. The merged image shows how each flagellar filament (red) extends from a motor containing either MotB or FliG (green, protein fused to GFP). B. Tohru Minamino, Osaka University,
 investigates the structure and function of the flagellar motor.
@@ -11157,11 +11143,11 @@ transduction mechanism is explained in Chapter 10.
 
 114
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -11194,7 +11180,7 @@ Random walk
 
 FIGURE 3.44
 
-■ Chemotaxis. A. Flagella are oriented in a bundle
+ Chemotaxis. A. Flagella are oriented in a bundle
 extending behind one pole. When the cell veers away from the attractant, the receptors send a signal that allows one or more flagella
 to switch rotation from counterclockwise (CCW) to clockwise (CW).
 This switched rotation disrupts the bundle of flagella, causing the
@@ -11211,15 +11197,15 @@ that serves one function but later evolves to serve another
 function.
 
 To Summarize
-■
 
-■
+
+
 
 Thought Question
 
 3.10 Most laboratory strains of E. coli and Salmonella com-
 
-■
+
 
 monly used for genetic research lack flagella. Why do you think
 this is the case? How can a researcher maintain a motile strain?
@@ -11231,9 +11217,9 @@ Pseudomonas aeruginosa use pili to drag themselves across
 a surface. Twitching motility is involved in biofilm formation (discussed in Section 4.5). Another kind of motility, called “gliding,” is observed in cyanobacteria and in
 myxobacteria.
 
-■
 
-■
+
+
 
 Phototrophs possess thylakoid membrane organelles
 packed with photosynthetic apparatus and carboxysomes for carbon dioxide fixation. Gas vesicles provide
@@ -11251,11 +11237,11 @@ repellents.
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
-■
+
 
 117
 
@@ -11339,11 +11325,11 @@ we use antibiotics to treat bacterial infections.
 
 118
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -11420,11 +11406,11 @@ Microbial Nutrition
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
-■
+
 
 119
 
@@ -11470,7 +11456,7 @@ CO2 + H2O
 Oxidative respiration
 25 µm
 
-FIGURE 4.2 ■ The carbon cycle. The carbon cycle requires both autotrophs and heterotrophs. A. Heterotrophs gain energy from degrading complex organic compounds (such as polysaccharides) to smaller compounds (such as glucose and pyruvate). The carbon from pyruvate
+FIGURE 4.2  The carbon cycle. The carbon cycle requires both autotrophs and heterotrophs. A. Heterotrophs gain energy from degrading complex organic compounds (such as polysaccharides) to smaller compounds (such as glucose and pyruvate). The carbon from pyruvate
 moves through the tricarboxylic acid (TCA) cycle and is released as CO2. In the absence of a TCA cycle, the carbon can end up as fermentation
 products, such as ethanol or acetic acid. B. Autotrophs use light energy or energy derived from the oxidation of minerals to capture CO2 and
 convert it to complex organic molecules. C. Chloroflexus aggregans, originally isolated from hot springs in Japan, possesses extraordinary
@@ -11541,11 +11527,11 @@ Phototrophy
 
 120
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -11621,7 +11607,7 @@ becoming oxidized in the process. NAD is a cell molecule
 critical to energy metabolism and is discussed, along with
 oxidation-reduction reactions, in Chapter 13.
 In short, microbes are classified on the basis of their carbon and energy acquisition as follows:
-■
+
 
 Autotroph (autotrophy). Autotrophs build biomass by
 fi xing CO2 into complex organic molecules. Autotrophs
@@ -11638,7 +11624,7 @@ Chemolithoautotrophs produce energy from oxidizing
 inorganic molecules such as iron, sulfur, or nitrogen.
 This energy is used to fix CO2 into biomass.
 
-■
+
 
 Heterotroph (heterotrophy). Heterotrophs break
 down organic compounds from other organisms to gain
@@ -11649,11 +11635,11 @@ Photoheterotroph (photoheterotrophy). Photoheterotrophs obtain energy from the c
 compounds and through light absorption. Organic
 compounds are broken down and used to build biomass.
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
-FIGURE 4.3 ■ Bacterial metabolism in an Antarctic
+FIGURE 4.3  Bacterial metabolism in an Antarctic
 desert. Mars Oasis, Alexander Island (average winter temperature:
 
 Paenibacillus
@@ -11670,7 +11656,7 @@ Endospore
 
 -15˚C
 
-■
+
 
 121
 
@@ -11738,11 +11724,11 @@ respiring cells such as E. coli. Essentially the same complex
 
 122
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -11793,7 +11779,7 @@ $
 3. F1 rotation
 ATP
 
-FIGURE 4.4 ■ Bacterial membrane ATP synthase. A. The Fo portion of the F1Fo complex of ATP synthase is embedded in the cell
+FIGURE 4.4  Bacterial membrane ATP synthase. A. The Fo portion of the F1Fo complex of ATP synthase is embedded in the cell
 membrane. B. An artificial “biomolecular motor” was built from an ATP synthase F1 unit attached to a nickel post and a nanopropeller.
 
 A.
@@ -11853,11 +11839,11 @@ of the root, they will soon invade the root and begin a symbiotic
 partnership that will benefit both organisms. B. Root nodules. After
 the rhizobia invade the plant root, symbiosis between plant and
 microbe produces nodules.
-■
+
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
@@ -11915,28 +11901,28 @@ Nitrobacter
 
 FIGURE 4.6
 
-■ The nitrogen cycle. Different sets of bacteria fix
+ The nitrogen cycle. Different sets of bacteria fix
 nitrogen from atmospheric nitrogen gas (N2) to form ammonia (NH4+),
 convert NH4+ to nitrate (NO3+/), and return N2 to the atmosphere.
 
-■
+
 
 123
 
 To Summarize
-■
 
-■
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
+
+
 
 Microorganisms require certain essential macro- and
 micronutrients to grow.
@@ -11973,17 +11959,17 @@ membrane must be selectively permeable to nutrients the
 cell can use. A few compounds, such as oxygen and carbon dioxide, can passively diffuse across the membrane,
 but most cannot. Selective permeability is achieved in
 three ways:
-■
+
 
 Substrate-specific carrier proteins (permeases) in the
 membrane
 
-■
+
 
 Nutrient-binding proteins that patrol the periplasmic
 space
 
-■
+
 
 Membrane-spanning protein channels, or pores, that
 discriminate between substrates
@@ -11994,11 +11980,11 @@ example, lakes or streams). If the intracellular concentration of nutrients were
 
 124
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -12035,7 +12021,7 @@ In passive transport,
 transport solutes move
 down the concentration gradient.
 
-■ Facilitated diffusion. A. The glycerol transporter of E. coli,
+ Facilitated diffusion. A. The glycerol transporter of E. coli,
 viewed from the external side of the membrane, consists of four channels that
 span the cell membrane. Each channel (blue and yellow) can transport two glycerol
 molecules (magenta) at a time. (PDB code: 1FX8) B. Facilitated diffusion of glycerol
@@ -12102,11 +12088,11 @@ The ability to import nutrients against their natural
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
-■
+
 
 125
 
@@ -12172,7 +12158,7 @@ biochemist H. Ronald Kaback (Fig. 4.8C). LacY moves
 lactose inward, powered by a proton that is also moving
 inward (symport). LacY proton-driven transport is said to
 
-FIGURE 4.8 ■ Coupled transport. In both symport (A) and antiport (B), substrate B (blue) is taken up against its gradient because
+FIGURE 4.8  Coupled transport. In both symport (A) and antiport (B), substrate B (blue) is taken up against its gradient because
 of the energy released by substrate A (red) traveling down its gradient. C. Ronald Kaback (left) of UCLA elucidated the mechanism of
 transport by the proton-driven lactose symporter LacY.
 
@@ -12200,11 +12186,11 @@ high-concentration side of the membrane, the driving ion
 
 126
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -12295,7 +12281,7 @@ ADP + P
 
 FIGURE 4.9
 
-■
+
 
 ABC (ATP-binding cassette) transporter in a Gram-negative organism.
 
@@ -12304,11 +12290,11 @@ ADP + P
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
-FIGURE 4.10 ■ Siderophores and iron
+FIGURE 4.10  Siderophores and iron
 transport. A. This model shows the E. coli
 
 A.
@@ -12388,7 +12374,7 @@ ADP + P
 
 ADP + P
 
-■
+
 
 Iron, an essential nutrient of most cells, is
 mostly locked up in nature as Fe(OH)3,
@@ -12427,11 +12413,11 @@ require the assistance of a specific outer membrane protein
 
 128
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -12466,7 +12452,7 @@ unique to a given carbohydrate
 Membrane
 Extracellular fluid
 embedded IIC proteins transfer
-phosphate to glucose and manFIGURE 4.11 ■ Group translocation: the phosphotransferase system (PTS) of E. coli. The
+phosphate to glucose and manFIGURE 4.11  Group translocation: the phosphotransferase system (PTS) of E. coli. The
 nitol during transport. Because
 phosphate group from phosphoenolpyruvate (PEP) is ultimately passed along proteins common to all PTS
 sugar transport systems and to Enzyme II components of the PTS that are specific to individual substrates the sugar (glucose, for instance) is
@@ -12497,14 +12483,14 @@ The uptake transporters that we have just considered
 increase concentrations of solute inside the cell relative to
 To Summarize
 the outside. They move nutrients “uphill” against a concentration gradient. An entirely different system, known as
-■ Transport systems move nutrients across phospholipid
+ Transport systems move nutrients across phospholipid
 group translocation, cleverly accomplishes the same result
 bilayer membranes.
-but without really moving a substance uphill. Group trans■ Facilitated diffusion helps solutes move across a memlocation alters the substrate during transport by attachbrane from a region of high concentration to one of
+but without really moving a substance uphill. Group trans Facilitated diffusion helps solutes move across a memlocation alters the substrate during transport by attachbrane from a region of high concentration to one of
 ing a new group (for example, phosphate) to it. Because
 lower concentration.
 the modified nutrient inside the cell is chemically different from the related compound outside, the parent solute
-■ Antiport and symport are coupled transport systems in
+ Antiport and symport are coupled transport systems in
 entering the cell is always moving down its concentration
 which energy released by moving a driving ion (H+ or
 gradient, regardless of how much solute has already been
@@ -12512,11 +12498,11 @@ Na+) from a region of high concentration to one of low
 transported. Note that this process uses energy to chemiconcentration is harnessed and used to move a solute
 cally alter the solute. ABC transporters and group transagainst its concentration gradient.
 location systems both involve active transport, but group
-■ ABC transporters use the energy from ATP hydrolysis to
+ ABC transporters use the energy from ATP hydrolysis to
 translocation systems are not ABC transporters.
 move solutes “uphill,” against their concentration gradients.
 The phosphotransferase system (PTS) is a well3+
-■ Siderophores are secreted to bind ferric iron (Fe ) and
+ Siderophores are secreted to bind ferric iron (Fe ) and
 characterized group translocation system present in many
 bacteria. It uses energy from phosphoenolpyruvate (PEP),
 transport it into the cell, where it is reduced to the more
@@ -12529,7 +12515,7 @@ phosphorylation during transport.
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
@@ -12571,7 +12557,7 @@ bacterial
 colonies
 Fungus
 
-FIGURE 4.12 ■ Separation and growth of microbes on an
+FIGURE 4.12  Separation and growth of microbes on an
 agar surface. A. Colonies (diameter 1–5 mm) of Acidovorax citrulli
 separated on an agar plate. A. citrulli is a plant pathogen that causes
 watermelon fruit blotch. B. A mixture of yellow-pigmented bacterial
@@ -12618,9 +12604,9 @@ A.
 
 UNIVERSITY OF MANITOBA
 
-■
 
-■
+
+
 
 Start
 
@@ -12640,13 +12626,13 @@ to kill bacteria still clinging to it. Dragging the loop across the agar
 diminishes the number of organisms clinging to the loop until only
 single cells are deposited at a given location. B. Salmonella enterica
 culture obtained by dilution streaking.
-■
 
-■
+
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -12669,7 +12655,7 @@ Microcolony
 9.0 ml
 5 μm
 
-FIGURE 4.14 ■ Bacterial colonies. A 3-day-old microcolony
+FIGURE 4.14  Bacterial colonies. A 3-day-old microcolony
 (biofilm) on the surface of a membrane used to treat municipal
 wastewater in Fountain Valley, California (SEM).
 
@@ -12746,7 +12732,7 @@ FIGURE 4.15
 10–3
 
 107
-■
+
 
 11
 
@@ -12782,11 +12768,11 @@ HARRY F. RIDGWAY, ORANGE COUNTY WATER DISTRICT
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
-■
+
 
 131
 
@@ -12907,11 +12893,11 @@ On the other hand, a differential medium is needed to distinguish between organi
 grow, but in a particular biochemical function they possess.
 For example, E. coli and Salmonella enterica, a major cause
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -12930,7 +12916,7 @@ E. coli turns red. S. enterica grows well
 on the nonfermentable peptides but
 cannot ferment lactose. Consequently,
 acidic end products are not produced,
-and the colonies of S. enterica remain FIGURE 4.16 ■ MacConkey medium, a
+and the colonies of S. enterica remain FIGURE 4.16  MacConkey medium, a
 white, their natural color. In this culture medium both selective and differexample, growth in differential media ential. Only Gram-negative bacteria grow on
 easily distinguishes colonies of lactose lactose MacConkey (selective). Only a species
 capable of fermenting lactose produces pink
@@ -12991,7 +12977,7 @@ organism would otherwise have to make can lead to loss
 
 FIGURE 4.17
 
-■ “Unculturable” marine organism MSC33. To
+ “Unculturable” marine organism MSC33. To
 grow in natural environments, many bacterial species rely on factors
 produced by other species within their niche. The microbe shown,
 MSC33, will not grow in laboratory media unless a peptide growth
@@ -13003,11 +12989,11 @@ D. NICHOLS, ET AL. 2008. APPL. ENVIRON, MICROBIOL. 74:4889-4897. 2008, AMERICAN 
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
-■
+
 
 133
 
@@ -13135,7 +13121,7 @@ molecules are highly conRickettsia
 served across the phylogenetic tree. A DNA-amplifying
 procedure called the poly6 μm
 merase chain reaction (PCR,
-■
+
 Host cell
 described in Section 7.6) can FIGURE 4.18 Rickettsia prowazekii
 growing within eukaryotic cells. A. R. prowaoutline
@@ -13155,11 +13141,11 @@ Both nicotinamide and nicotinic acid are derived from NAD, nicotinamide adenine 
 
 134
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -13223,7 +13209,7 @@ Membrane
 
 FIGURE 1
 
-■
+
 
 The multichannel iChip. The iChip was used to find the antibiotic teixobactin.
 
@@ -13233,7 +13219,7 @@ Channels
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
@@ -13319,7 +13305,7 @@ HN
 
 WILLIAM FOWLE/NORTHEASTERN UNIVERSITY
 
-■
+
 
 O
 HN
@@ -13344,7 +13330,7 @@ C.
 
 © BROOKS CANADAY
 
-FIGURE 2 ■ Eleftheria terrae and teixobactin. A previously
+FIGURE 2  Eleftheria terrae and teixobactin. A previously
 uncultured Gram-negative bacterium, Eleftheria terrae (A), makes
 teixobactin (B), a new antibiotic. Color highlights mark each
 residue. End = enduracididine, a nonprotein amino acid; modified
@@ -13353,11 +13339,11 @@ Brian Conlon.
 
 136
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -13381,7 +13367,7 @@ under a microscope.
 
 FIGURE 4.19
 
-■ The Petroff-Hausser chamber for direct microscopic counts. A precision grid is
+ The Petroff-Hausser chamber for direct microscopic counts. A precision grid is
 etched on the surface of the slide. The organisms in several squares are counted, and their numbers are
 averaged. Knowing the dimensions of the grid and the height of the coverslip over the slide makes it possible to calculate the number of organisms in a milliliter.
 
@@ -13436,7 +13422,7 @@ calculate the concentration of cells in the original culture.
 
 Dead
 
-FIGURE 4.20 ■ Live/dead stain. Live and dead bacteria visualized
+FIGURE 4.20  Live/dead stain. Live and dead bacteria visualized
 on freshly isolated human cheek epithelial cells using the LIVE/DEAD
 BacLight Bacterial Viability Kit. Dead bacterial cells fluoresce orange or
 yellow because propidium (red) can enter the cells and intercalate the
@@ -13445,11 +13431,11 @@ enters the cell. The faint green smears are the outlines of cheek cells.
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
-■
+
 
 137
 
@@ -13528,7 +13514,7 @@ High 104
 103
 FL1-GFP
 
-■
+
 
 Cell collector
 
@@ -13577,11 +13563,11 @@ viable cell count, dilutions of a liquid culture can be plated
 
 138
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -13645,22 +13631,22 @@ the cell number estimated by the standard curve may deviate from the true number
 cells also scatter light. Clearly, using optical density to estimate viable count can be misleading, especially when measuring populations in stationary phase.
 
 To Summarize
-■
 
-■
-■
 
-■
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
+
+
+
+
 
 Microbes in nature usually exist in complex, multispecies communities, but for detailed studies they must be
 grown separately in pure culture.
@@ -13691,7 +13677,7 @@ of replicating.
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
-■
+
 
 139
 
@@ -13778,21 +13764,21 @@ cell
 Symmetrical and asymmetrical cell division. A. Symmetrical
 cell division, or binary fission, in Lactobacillus sp. (SEM). B. Asymmetrical cell division
 via budding in the marine bacterium Hyphomicrobium (approx. 4 µm long).
-■
+
 
 ELLEN QUARDOKUS
 
 4.4
 
-■
+
 
 140
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -13924,12 +13910,12 @@ curve.
 
 Time (arbitrary)
 
-■ Bacterial growth curves. A. Theoretical growth curve of a bacterial suspension measured by optical density (OD) at a
+ Bacterial growth curves. A. Theoretical growth curve of a bacterial suspension measured by optical density (OD) at a
 wavelength of 600 nm. B. Phases of bacterial growth in a typical batch culture.
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
@@ -13937,7 +13923,7 @@ matter, because we are always looking at ratios of cell numbers relative to an e
 can use the following series of optical density (OD) measurements to determine N:
 Time (min)
 
-■
+
 
 141
 
@@ -14056,11 +14042,11 @@ originally used by the seed culture must be sensed, and
 
 142
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -14157,7 +14143,7 @@ wall strength through increased peptidoglycan crosslinking. As a result, E. coli
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
@@ -14169,7 +14155,7 @@ COURTESY OF HEBREW UNIVERSITY
 
 B.
 
-FIGURE 4.24 ■ Observing dormant E. coli making protein
+FIGURE 4.24  Observing dormant E. coli making protein
 in stationary phase. A. E. coli cells trapped in a microfluidic
 
 channel express a red fluorescent protein in exponential phase.
@@ -14180,7 +14166,7 @@ and dormant, not dead. B. Nathalie Balaban (center) with student
 Eitam Rotem and lab manager Irene Ronin, viewing fluorescent
 bacteria growing and dying.
 
-■
+
 
 143
 
@@ -14258,11 +14244,11 @@ achieve a steady state, which permits a detailed analysis of
 
 144
 
-■
+
 
 PART 1
 
-■
+
 
 A.
 
@@ -14298,7 +14284,7 @@ excess microbes
 
 FIGURE 4.25
 
-■ Chemostats and continuous culture. A. The basic chemostat ensures logarithmic growth by constantly adding and
+ Chemostats and continuous culture. A. The basic chemostat ensures logarithmic growth by constantly adding and
 removing equal amounts of culture media. B. The human gastrointestinal tract is engineered much like a chemostat, in that new nutrients are
 always arriving from the throat while equal amounts of bacterial culture exit in fecal waste. C. A modern chemostat.
 
@@ -14353,7 +14339,7 @@ Dilution rate
 
 Faster
 
-FIGURE 4.26 ■ Relationships among chemostat dilution
+FIGURE 4.26  Relationships among chemostat dilution
 rate, cell mass, and generation time. As the dilution rate
 
 (x-axis) increases, the generation time decreases and the mass of
@@ -14363,7 +14349,7 @@ depending on the curve, as labeled.
 
 CHAPTER 4
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
@@ -14383,7 +14369,7 @@ parameters in small volumes can be used to characterize genetic switches, enviro
 directed evolution, co-metabolism, and the dynamics of
 mixed-species cultures.
 
-■
+
 
 145
 
@@ -14409,17 +14395,17 @@ contamination, and medical infections. For example, pseudomonad or staphylococca
 indwelling catheter tubes that deliver fluids and medicaTo Summarize
 tions to patients. In both of these examples, the biofilms
 serve as direct sources of infection, so developing ingenious
-■ The growth cycle of organisms grown in liquid batch
+ The growth cycle of organisms grown in liquid batch
 ways to prevent biofilm formation on medical instrumentaculture consists of lag phase, log (exponential) phase,
 tion is a major goal of biomedical research. Making cathstationary phase, and death phase.
 eter surfaces mimic the architecture of sharkskin is one
 intriguing approach (eTopic 4.3).
-■ The physiology of a bacterial population changes
+ The physiology of a bacterial population changes
 Biofilms can be constructed by a single species or by
 with growth phase.
-multiple, collaborating species, as in the mixture of fac■ Generation time is the length of time it takes for a popultative and anaerobic bacteria that form dental plaque.
+multiple, collaborating species, as in the mixture of fac Generation time is the length of time it takes for a popultative and anaerobic bacteria that form dental plaque.
 ulation of cells to double in number.
-Biofilms can form on a range of organic and inorganic surfaces (Fig. 4.27 ). The Gram-negative bacterium Pseu■ The generation time for a single species will vary
+Biofilms can form on a range of organic and inorganic surfaces (Fig. 4.27 ). The Gram-negative bacterium Pseu The generation time for a single species will vary
 domonas aeruginosa, for example, can form a single-species
 as culture conditions change. During exponential
 biofilm on the lungs of cystic fibrosis patients or on medigrowth, generation time remains constant.
@@ -14438,20 +14424,20 @@ from the community to forage for
 Biofilm
 new sources of nutrients.
 Biofilms in nature can take many
-FIGURE 4.27 ■ Biofilms. A. A greenish-brown slime biofilm found on cobbles of the
+FIGURE 4.27  Biofilms. A. A greenish-brown slime biofilm found on cobbles of the
 different forms and serve different
 streambed in High Ore Creek, Montana. B. The biofilm that forms on teeth is called plaque.
 J. D. RUBY, K. F. GERENCSER
 
 USGS
 
-■
 
-■
+
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -14481,7 +14467,7 @@ to the substrate and to each other. Quorum sensing serves
 
 FIGURE 4.28
 
-■
+
 
 Biofilm development. The stages of biofilm
 
@@ -14549,7 +14535,7 @@ and dispersal
 
 500 nm
 
-■
+
 
 147
 
@@ -14565,7 +14551,7 @@ DIEGO ROMERO, ET AL. 2010. PNAS 107:2230–2234
 
 A.
 
-■
+
 
 DIEGO ROMERO,
 ET AL. 2010. PNAS
@@ -14609,7 +14595,7 @@ they can’t get oxygen. Nutrients
 from the agar are not consumed
 100 μm
 and diffuse toward the oxygen-rich
-■
+
 FIGURE 4.30 Two-layer differentiation in Escherichia coli biofilms. A. Side view
 colony surface, where they feed a
 of a cross section through a ridge of a macrocolony (see inset) grown on salt-free LB agar
@@ -14625,15 +14611,15 @@ start making enzymes that dissolve
 
 DIEGO O. SERRA AND REGINE HENGGE. 2014. ENVIRONMENTAL MICROBIOLOGY 16:1455.
 
-■ Floating biofilm (pellicle) formation of Bacillus subtilis. Cells were grown in a broth for 48 hours without agitation
+ Floating biofilm (pellicle) formation of Bacillus subtilis. Cells were grown in a broth for 48 hours without agitation
 at 30°C. The pellicles formed by wild-type and tasA mutant B. subtilis are strikingly different. Wild-type pellicles are extremely wrinkly (A),
 whereas tasA mutant pellicles are flat and fragile (B). Insets: Electron micrographs of wild-type (A) and tasA mutant (B) cells.
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 B. + 1018 peptide (0.8 μg/ml)
@@ -14662,7 +14648,7 @@ Bottom side view
 FIGURE 4.31
 
 Effect of an antibiofilm
-peptide on a Pseudomonas biofilm. Confo■
+peptide on a Pseudomonas biofilm. Confo
 
 cal images of 2-day-old Pseudomonas biofilms
 (top and two side views) after 23 hours of no
@@ -14691,7 +14677,7 @@ Organisms adapted to life in extreme environments also
 form biofilms. Archaea form biofilms in acid mine drainage
 (pH 0), where they contribute to the recycling of sulfur, and
 
-■
+
 
 CESAR DE LA FUENTE-NUNEZ, ET AL. 2014. PLOS PATHOG. 10(5):E1004152.
 
@@ -14714,9 +14700,9 @@ enables anaerobic metabolism to occur in an otherwise
 aerobic environment.
 
 To Summarize
-■
 
-■
+
+
 
 Biofilms are complex,
 multicellular,
@@ -14752,13 +14738,13 @@ For example, Dictyostelium discoideum is a seemingly unremarkable ameba that gro
 
 A.
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
 149
 
-FIGURE 4.32 ■ Endospore formation. A. Photomicrograph of Clostridium difficile endospores.
+FIGURE 4.32  Endospore formation. A. Photomicrograph of Clostridium difficile endospores.
 The cells (approx. 3 µm long) are stained with crystal
 violet. The cells are blue, whereas the spores are
 colorless and located inside the cells (arrow). A spore
@@ -14774,7 +14760,7 @@ COURTESY OF PETER SETLOW
 
 CDC HTTP://PHIL.CDC.GOV/PHIL/HOME.ASP
 
-■
+
 
 C.
 
@@ -14863,11 +14849,11 @@ the length of the cell. There are two chromosome copies at
 
 150
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -14920,7 +14906,7 @@ become heterocysts contain higher levels of an activator.
 
 FIGURE 4.33
 
-■
+
 
 WILLIAM BUIKEMA, U. OF CHICAGO
 
@@ -14960,7 +14946,7 @@ a barn raising, produce architectural marvels called fruiting bodies. The Gram-n
 
 0 hours
 
-■
+
 
 BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
@@ -14970,7 +14956,7 @@ BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
 31 hours
 
-■
+
 
 151
 
@@ -14984,7 +14970,7 @@ BACTERIAL CULTURE, GROWTH, AND DEVELOPMENT
 
 FIGURE 4.34
 
-■
+
 
 J. M. KUNER AND D. KAISER
 
@@ -15051,16 +15037,16 @@ DAVID SCHARF/SCIENCE SOURCE
 
 C.
 
-■ Mycelia. A. Streptomyces substrate mycelia. B. Filamentous colonies of Streptomyces coelicolor, an actinomycete known for
+ Mycelia. A. Streptomyces substrate mycelia. B. Filamentous colonies of Streptomyces coelicolor, an actinomycete known for
 producing antibiotics (blue pigment in water droplets). C. Streptomyces aerial hyphae. The arrow points to a hyphal spore (approx. 1 µm each).
 
 152
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -15120,7 +15106,7 @@ synthesized
 
 FIGURE 4.36
 
-■
+
 
 Developmental cycle of Streptomyces coelicolor.
 
@@ -15129,13 +15115,13 @@ the spore that increase resistance to desiccation. These
 organisms are of tremendous interest, both for their ability to make antibiotics and for their fascinating developmental programs.
 
 To Summarize
-■
 
-■
 
-■
 
-■
+
+
+
+
 
 Microbial development involves complex changes in
 cell forms.
@@ -15172,11 +15158,11 @@ respond to environmental stress and change.
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
-■
+
 
 157
 
@@ -15255,11 +15241,11 @@ a useful chemical tool to probe how P. protegens and B. subtilis may chemically 
 
 158
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -15355,11 +15341,11 @@ fold into its optimum shape, or conformation. Deviations
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
-■
+
 
 159
 
@@ -15439,13 +15425,13 @@ microbes are commonly classified by their environmental
 niche. Table 5.1 summarizes these environmental classes.
 
 To Summarize
-■
 
-■
 
-■
 
-■
+
+
+
+
 
 Different species exhibit different optimal growth values of temperature, pH, and osmolarity.
 Extremophiles inhabit fringe environments with conditions that do not support human life.
@@ -15491,9 +15477,9 @@ Eukaryotes are even less temperature tolerant than bacteria, with individual spe
 
 PART 1
 
-■
 
-■
+
+
 
 THE MICROBIAL CELL
 
@@ -15631,7 +15617,7 @@ Temperature (°C)
 
 100
 
-FIGURE 5.1 ■ Relationship between temperature and
+FIGURE 5.1  Relationship between temperature and
 growth rate. A. The growth rate constant (k) of the enteric
 
 organism Escherichia coli is plotted against the inverse of the
@@ -15662,7 +15648,7 @@ of 15°C and a maximum of 45°C. Because they are easy to
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
@@ -15674,7 +15660,7 @@ ASIM BEJ, UNIVERSITY OF ALABAMA AT BIRMINGHAM
 
 FIGURE 5.2
 
-■
+
 
 Psychrophilic environments and microbes.
 
@@ -15746,11 +15732,11 @@ DR. ALFONSO DAVILA/SETI INSTITUTE
 
 A.
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 B.
@@ -15765,7 +15751,7 @@ C.
 
 2 µm
 
-FIGURE 5.3 ■ Thermophilic environments and thermophiles. A. Yellowstone
+FIGURE 5.3  Thermophilic environments and thermophiles. A. Yellowstone
 National Park hot spring. B. Thermus aquaticus, a hyperthermophile first isolated at
 Yellowstone by Thomas Brock. Cell length varies from 3 to 10 μm. C. Thermophile
 Methanocaldococcus jannaschii, grown at 78°C and 30 psi.
@@ -15828,7 +15814,7 @@ fatty acids, but are made of isoprene units bonded by ether
 
 B. BOONYARATANAKORNKIT ET AL., UC BERKELEY
 
-■
+
 
 THOMAS D. BROCK, U. OF WISCONSIN, MADISON
 
@@ -15836,11 +15822,11 @@ THOMAS D. BROCK, U. OF WISCONSIN, MADISON
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
-■
+
 
 163
 
@@ -15851,7 +15837,7 @@ thus far.
 
 FIGURE 5.4
 
-■ Bioreactor used to grow thermophilic
+ Bioreactor used to grow thermophilic
 microorganisms. Dr. Robert Kelly and students stand next to a
 
 20-liter bioreactor that they use for the engineering analysis of
@@ -15917,7 +15903,7 @@ Mariana Trench,
 
 FIGURE 5.5
 
-■
+
 
 Mount
 Everest,
@@ -15949,11 +15935,11 @@ Shewanella violacea.
 
 164
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -15981,7 +15967,7 @@ acids. Further studies could uncover mutations in additional genes and improve o
 pressure.
 
 To Summarize
-■
+
 
 0
 
@@ -16004,9 +15990,9 @@ pressure increases.
 FIGURE 5.6
 pressure.
 
-■
 
-■
+
+
 
 Relationship between growth rate and
 
@@ -16033,11 +16019,11 @@ uniquely designed ribosome structures that can withstand even higher pressures.
 Clues to the physiological changes needed for growth
 at high pressure may come from E. coli adaptive-evolution studies. Over a period of 500 generations (126 days),
 
-■
 
-■
 
-■
+
+
+
 
 The Arrhenius equation applies to the growth of
 microorganisms: within a specific growth temperature
@@ -16075,7 +16061,7 @@ is available for microbes to use for growth. Water activity
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
@@ -16093,7 +16079,7 @@ than 0.91 (the water activity of seawater).
 Fungi can tolerate water activity levels as
 low as 0.86.
 
-■
+
 
 165
 
@@ -16111,7 +16097,7 @@ FIGURE 5.7 Aquaporin. Transverse view of the channel
 through which water molecules move. Complementary halves
 of the channel are formed by adjacent protein monomers.
 (PDB code: 1J4N)
-■
+
 
 Osmotic Stress
 
@@ -16176,11 +16162,11 @@ organisms).
 
 166
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -16192,18 +16178,18 @@ Gas vesicles
 
 C.
 
-FIGURE 5.8 ■ Halophilic salt flats and halophilic bacteria. A. The halophilic salt flats along Highway 50 east of Fallon, Nevada, are
+FIGURE 5.8  Halophilic salt flats and halophilic bacteria. A. The halophilic salt flats along Highway 50 east of Fallon, Nevada, are
 colored pinkish red by astronomical numbers of halophilic bacteria. B. Cross section of the archaeon Halobacterium sp. (TEM). Gas vesicles
 allow the organism to float in liquid and acquire more oxygen. C. Shiladitya DasSarma and colleagues at the University of Maryland completed
 the genome sequence of Halobacterium species NRC-1.
 
 Thought Question
 
-■
+
 
 5.4 How might the concept of water availability be used by
 the food industry to control spoilage?
-■
+
 
 Halophiles Require High Salt
 
@@ -16223,17 +16209,17 @@ levels to maintain their structure. Halophilic archaea are
 presented in Chapter 19.
 
 To Summarize
-■
 
-■
+
+
 
 Water activity (aw) is a measure of how much water in a
 solution is available for a microbe to use.
 Osmolarity is a measure of the number of solute molecules in a solution and is inversely related to aw.
 
-■
 
-■
+
+
 
 Aquaporins are membrane channel proteins that allow
 water to move quickly across membranes to equalize
@@ -16383,11 +16369,11 @@ ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
 Acidophiles
 
-■
+
 
 OH–
 
-■
+
 
 167
 
@@ -16407,7 +16393,7 @@ discussed further in Chapter 16.
 
 Classification of organisms according to their
 optimum growth pH. pOH is the log10 of the reciprocal of the
-■
+
 
 hydroxide ion (OH–) concentration; that is, pOH = –log[OH–].
 
@@ -16546,17 +16532,17 @@ Liquid drain cleaner
 
 FIGURE 5.10
 
-■
+
 
 pH values of common substances.
 
 168
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -16621,7 +16607,7 @@ Time (min)
 FIGURE 5.11
 
 Maintaining internal pH (pH homeostasis)
-over a wide range of external pH. Internal pH (pHint) of the neu■
+over a wide range of external pH. Internal pH (pHint) of the neu
 
 tralophile Escherichia coli measured following the addition of acid
 to change external pH (pHext) and the subsequent addition of base.
@@ -16673,7 +16659,7 @@ External pH
 
 FIGURE 5.12
 
-■ Cytoplasmic pH as a function of the external
+ Cytoplasmic pH as a function of the external
 pH among acidophiles, neutralophiles, and alkaliphiles.
 
 Source: Joan L. Slonczewski et al. 2009. Adv. Microb. Physiol. 55:1–79.
@@ -16702,7 +16688,7 @@ The cyanobacterium Spirulina is another alkaliphile
 that grows in soda lakes. Its high concentration of carotene gives the organism a distinctive pink color (note the
 color of the lake in Fig. 5.14A). Spirulina is also a major
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
@@ -16719,7 +16705,7 @@ and temperature
 
 1 µm
 
-■
+
 
 169
 
@@ -16770,7 +16756,7 @@ B.
 
 FIGURE 5.14
 
-■ A soda lake ecosystem. A. Lake Magadi in Kenya. Its pink color is due to
+ A soda lake ecosystem. A. Lake Magadi in Kenya. Its pink color is due to
 the cyanobacterium Spirulina. B. Alkaliphile Halobacterium salinarum (aka Natronobacterium
 gregoryi). Cell size, approx. 1 μm × 3 μm. C. Pink flamingos turn pink because they ingest large
 quantities of Spirulina.
@@ -16779,20 +16765,20 @@ WILD HORIZONS/UIG VIA GETTY IMAGES
 
 SONNY X. LI
 
-■ Sulfur Caldron acid spring and Sulfolobus
+ Sulfur Caldron acid spring and Sulfolobus
 acidocaldarius. A. Sulfur Caldron, in the Mud Volcano area of Yel-
 
 170
 
-■
+
 
 PART 1
 
 FIGURE 5.15
 
-■
 
-■
+
+
 
 THE MICROBIAL CELL
 
@@ -16950,7 +16936,7 @@ Symport
 
 FIGURE 5.16
 
-■
+
 
 Proton circulation and pH homeostasis.
 
@@ -16983,15 +16969,15 @@ the exterior.
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
 pH Homeostasis and Acid Resistance
 
-■
 
-■
+
+
 
 171
 
@@ -17001,7 +16987,7 @@ respectively.
 
 When cells are placed in pH conditions below their optimum, protons can enter the cell and lower internal pH to
 lethal levels. Microbes can prevent the unwanted influx of
-■ Acid and alkaline stress responses result when a given
+ Acid and alkaline stress responses result when a given
 protons in a variety of ways (Fig. 5.16). E. coli, for example,
 species is placed under pH conditions that slow its
 can counter proton influx by transporting a variety of catgrowth. The cell increases the levels of proteins designed
@@ -17076,11 +17062,11 @@ host cell environment (see eTopic 5.5).
 5.5
 
 To Summarize
-■
 
-■
 
-■
+
+
+
 
 Hydrogen ion concentration affects protein structure and function. Thus, enzymes
 have pH optima, minima, and maxima.
@@ -17125,16 +17111,16 @@ for the next electron. This net process is called respiration.
 
 Cell membrane
 
-■ The role of oxygen as a terminal electron acceptor in
+ The role of oxygen as a terminal electron acceptor in
 respiration. Pumping protons out of the cell by electron transport systems produces
 
 172
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -17264,7 +17250,7 @@ FIGURE 5.18
 
 test tube.
 
-■
+
 
 Oxygen-related growth zones in a standing
 
@@ -17281,11 +17267,11 @@ What makes reactive oxygen species? Any organism that possesses NADH dehydrogena
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
-■
+
 
 173
 
@@ -17337,7 +17323,7 @@ peroxidase and catalase (to remove hydrogen perPeroxidase
 2H2O2
 2H2O + NAD+
 oxide). Aerobes also have resourceful enzyme systems that detect and repair macromolecules damaged
-FIGURE 5.19 ■ Generation and destruction of reactive oxyby oxidation.
+FIGURE 5.19  Generation and destruction of reactive oxyby oxidation.
 gen species (ROS). ROS species are marked yellow. The autooxi-
 
 Anaerobes versus Facultative Microbes
@@ -17398,11 +17384,11 @@ Many anaerobic bacteria cause horrific human diseases, such as tetanus, botulism
 
 174
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -17455,7 +17441,7 @@ Glove port
 FIGURE 5.20 Anaerobic growth technology. A. An
 anaerobe jar. B. Student researcher using an anaerobic chamber
 with glove ports.
-■
+
 
 Thought Question
 
@@ -17464,15 +17450,15 @@ anaerobes? Hint: Look up “Spallanzani,” “Pasteur,” and
 “spontaneous generation” on the Internet.
 
 To Summarize
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
 
 Oxygen is a benefit to aerobes, organisms that can use
 it as a terminal electron acceptor to extract energy from
@@ -17494,7 +17480,7 @@ a terminal electron acceptor.
 
 5.6
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
@@ -17536,7 +17522,7 @@ JOHN FOSTER, U. OF SOUTH ALABAMA
 
 A.
 
-■
+
 
 The products of these genes afford protection against
 stressors such as reactive oxygen radicals or temperature
@@ -17576,7 +17562,7 @@ CHAPTER 5
 
 FIGURE 5.21
 
-■ Effects of starvation
+ Effects of starvation
 on colony morphology. A. Starving E. coli
 
 colony (diameter, 6 cm). B. Paenibacillus
@@ -17588,13 +17574,13 @@ handedness.
 
 176
 
-■
+
 
 PART 1
 
 A.
 
-■
+
 
 THE MICROBIAL CELL
 No Stress
@@ -17683,7 +17669,7 @@ B.
 
 PHOTO COURTESY OF B.N. SINGH
 
-FIGURE 5.22 ■ Programmed cell
+FIGURE 5.22  Programmed cell
 death in response to starvation.
 
 Microbes Encounter Multiple
@@ -17732,7 +17718,7 @@ alter only single parameters.
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
@@ -17764,7 +17750,7 @@ is one source. Untreated or partially treated domestic sewage is another. Spilli
 nitrogen into lakes—Lake Erie, for example (Fig. 5.23)—
 powerfully stimulates cyanobacterial growth. The resulting bacterial “blooms” (wrongly called “algal blooms”)
 
-■
+
 
 177
 
@@ -17798,7 +17784,7 @@ Heated: Soil was
 heated 2ºC above
 ambient temperature.
 
-FIGURE 5.23 ■ Eutrophication in Lake Erie. Cyanobacterial
+FIGURE 5.23  Eutrophication in Lake Erie. Cyanobacterial
 bloom (bright blue-green color) in Lake Erie caused by excessive
 phosphorous eutrophication.
 
@@ -17815,7 +17801,7 @@ SPAM (candidate phylum)
 
 FIGURE 5.24
 
-■
+
 
 Effect of warming on the soil microbiome.
 
@@ -17826,30 +17812,30 @@ alpine and meadow soils.
 
 178
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
 Thought Question
 
-■
+
 
 Disinfection is the killing, or removal, of diseaseproducing organisms from inanimate surfaces; it does
 not necessarily result in sterilization. Pathogens are
 killed, but other microbes may survive.
 
-■
+
 
 Antisepsis is similar to disinfection, but it applies to
 removing pathogens from the surface of living tissues,
 like the skin. Antiseptic chemicals are usually not as toxic
 as disinfectants, which frequently damage living tissues.
 
-■
+
 
 Sanitation is closely related to disinfection. It consists of
 reducing the microbial population to safe levels and usually involves both cleaning and disinfecting an object.
@@ -17862,11 +17848,11 @@ was added to the mixed culture? What about both excess
 phosphate and excess nitrogen?
 
 To Summarize
-■
 
-■
 
-■
+
+
+
 
 Starvation is a stress that can elicit a molecular response
 in many microbes. Enzymes are produced to increase
@@ -17898,7 +17884,7 @@ roulette with an unsterilized scalpel. Improvements in sanitation procedures and
 lethal effects of many infectious diseases. Success in this
 endeavor has played a major role in extending life expectancy and in contributing to the population explosion.
 A variety of terms are used to describe antimicrobial control measures. The terms convey subtle, yet vitally important, differences in control strategies and outcomes.
-■
+
 
 Sterilization is the process by which all living cells,
 spores, and viruses are destroyed on an object.
@@ -17940,7 +17926,7 @@ value). Figure 5.25 illustrates the exponential death profile of a bacterial cul
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
@@ -17994,7 +17980,7 @@ Exposure (min)
 
 FIGURE 5.25
 
-■ The death curve and the determination of
+ The death curve and the determination of
 D-values. Bacteria were exposed to a temperature of 100°C, and
 
 survivors were measured by viable count. The D-value is the time
@@ -18029,7 +18015,7 @@ lethal heat or chemicals? The reason is based, in part, on
 the random probability that an agent will cause a lethal
 “hit” in a given cell. Cells contain thousands of different
 
-■
+
 
 179
 
@@ -18080,11 +18066,11 @@ this abuse, and thermophiles prefer it. Killing spores and
 
 180
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -18130,7 +18116,7 @@ line
 
 FIGURE 5.26
 
-■
+
 
 Sediment
 screen
@@ -18198,7 +18184,7 @@ low temperatures (quick-freezing also limits ice crystal
 
 Syringe filter
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
@@ -18219,7 +18205,7 @@ sterile container.
 
 FIGURE 5.27
 
-■
+
 
 sizes of 0.2 μm can remove microbial cells, but not viruses,
 from solutions. Samples from 1 milliliter to several liters
@@ -18265,7 +18251,7 @@ Bottle top filter
 Syringe with fluid
 attached here.
 
-■
+
 
 C.
 
@@ -18295,7 +18281,7 @@ Blue = room air
 Red = contaminated air
 Green = filtered air
 
-FIGURE 5.28 ■ Biological safety cabinet. A. A scientist examines a sample under the hood. B. Schematic of the safety cabinet. Air
+FIGURE 5.28  Biological safety cabinet. A. A scientist examines a sample under the hood. B. Schematic of the safety cabinet. Air
 from the room enters the cabinet through the cabinet opening (1), or is pumped in (2) through a HEPA filter (3). It then passes behind the
 negative-pressure exhaust plenum (4) and is passed from the cabinet through another HEPA filter (5). C. Immobilized enzyme filter. The
 primary function of this enzyme filter is to kill airborne microorganisms caught on the surface of the filter, thus protecting against secondary
@@ -18304,11 +18290,11 @@ hydrolyzed by enzymatic action, and cell membranes are broken as a result of osm
 
 182
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -18379,7 +18365,7 @@ The size of the DNA “target” is a major factor
 in radiation efficacy. Parasites and insect pests,
 1 µm
 which have large amounts of DNA, are rapidly
-killed by extremely low doses of radiation, typiFIGURE 5.29 ■ Deinococcus radiodurans. A. The amount of radiation D.
+killed by extremely low doses of radiation, typiFIGURE 5.29  Deinococcus radiodurans. A. The amount of radiation D.
 cally with D-values of less than 0.1 kGy (in this
 radiodurans can survive is equivalent to that of an atomic blast. The nature of
 instance, the D-value is the dose of radiation
@@ -18394,7 +18380,7 @@ Irradiation. Public
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
@@ -18426,20 +18412,20 @@ Disinfection by physical agents is very effective, but in
 numerous situations their use is impractical (kitchen countertops) or plainly impossible (skin). In these instances,
 chemical agents are the best approach. A number of factors influence the efficacy of a given chemical agent. These
 include:
-■
 
-■
 
-■
+
+
+
 
 183
 
-■
+
 
 Corrosiveness. The disinfectant should not corrode the
 surface or, in the case of an antiseptic, damage skin.
 
-■
+
 
 Stability, odor, and surface tension. The chemical
 should be stable during storage, possess a neutral or
@@ -18540,11 +18526,11 @@ Mercury chloride
 
 184
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -18574,7 +18560,7 @@ Hexachlorophene
 
 FIGURE 5.30
 
-■
+
 
 H
 
@@ -18713,11 +18699,11 @@ copper releases toxic Cu+ ions that trigger the lysis of bacterial membranes wit
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
-■
+
 
 185
 
@@ -18761,7 +18747,7 @@ within do not. Nutrient starvation worsens the farther a
 
 FIGURE 5.31
 
-■ Mixed biofilm. 3D projection of a mixed 24-hour
+ Mixed biofilm. 3D projection of a mixed 24-hour
 biofilm of E. coli expressing mCherry fluorescent protein (red) and
 Pseudomonas aeruginosa expressing green fluorescent protein
 (GFP; green). Mixed-population biofilms can have properties distinct
@@ -18796,11 +18782,11 @@ involved is unclear (neither DNA damage nor reactive
 oxygen species are involved). Companies are incorporating metallic copper into objects such as handrails, door
 releases, and hospital bed rails.
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -18821,7 +18807,7 @@ CHRISTINE L. CASE/SKYLINE COLLEGE
 
 FIGURE 5.32
 
-■ Penicillin. A. Space-filling model of the penicillin G molecule produced by the Penicillium mold. B. U.S. postage stamp from
+ Penicillin. A. Space-filling model of the penicillin G molecule produced by the Penicillium mold. B. U.S. postage stamp from
 1999 showing Penicillium notatum. C. P. notatum excretes penicillin, which inhibits the growth of Staphylococcus aureus.
 
 B.
@@ -18846,7 +18832,7 @@ D.
 
 Effect of ampicillin (a penicillin derivative) on E. coli. Cells were incubated for
 1 hour at the antibiotic concentrations shown. Swollen areas of cells in panels (B)–(D) reflect weakening cell walls (arrows). Cells shown are approx. 2 μm long.
-■
+
 
 As we saw in Chapter 1, penicillin (Fig. 5.32),
 produced
@@ -18878,7 +18864,7 @@ In this case, the producing
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
@@ -18923,7 +18909,7 @@ the pathogen Clostridium difficile, whose growth is normally kept in check by gu
 Microbial competition has been widely exploited for
 agricultural purposes and to improve human health
 
-■
+
 
 187
 
@@ -18973,15 +18959,15 @@ resistance will develop in the pathogen.
 
 188
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
-■
+
 
 Nurit Beyth, Leron Khalifa, and Ronen Hazan.
 
@@ -18994,7 +18980,7 @@ are seen within the dentin tubules in Figure 4B but not in
 
 FIGURE 2
 
-■
+
 
 Enterococcus phage EFDG1.
 
@@ -19043,7 +19029,7 @@ SPECIAL TOPIC 5.1++ Phage “Smart Bombs” Target Biofilms
 
 CHAPTER 5
 
-■
+
 
 ENVIRONMENTAL INFLUENCES AND CONTROL OF MICROBIAL GROWTH
 
@@ -19054,7 +19040,7 @@ root canal infection and may be a complementary strategy
 to antibiotic treatment, especially for antibiotic resistant
 microbes.
 
-■
+
 
 189
 
@@ -19084,7 +19070,7 @@ Untreated
 
 FIGURE 3
 
-■ Two-week-old biofilm of Enterococcus faecalis
+ Two-week-old biofilm of Enterococcus faecalis
 was either untreated (top) or treated with phage EFDG1 for
 7 days (bottom). Confocal fluorescence microscopy.
 
@@ -19097,7 +19083,7 @@ L. KHALIFA, ET AL. 2015. APPL. ENVIRON. MICROB. 81:2696.
 
 C. E. faecalis + EFDG1
 
-FIGURE 4 ■ Horizontal root sections of teeth subjected
+FIGURE 4  Horizontal root sections of teeth subjected
 to endodontic treatment. Confocal fluorescence microscopy.
 
 A. Tooth without bacteria or phage. B. Tooth was irrigated with
@@ -19109,11 +19095,11 @@ the absence of bacteria.
 
 CHAPTER 6
 
-■
+
 
 VIRUSES
 
-■
+
 
 193
 
@@ -19197,11 +19183,11 @@ algal blooms.
 
 194
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -19254,7 +19240,7 @@ And remarkably, we now engineer human viruses to deliver
 gene therapy and kill cancers
 (discussed in Chapter 11).
 In Chapter 6 we introduce the
-FIGURE 6.1 ■ Viruses control an algal bloom. A. A virus attaches to the surface of a marine
+FIGURE 6.1  Viruses control an algal bloom. A. A virus attaches to the surface of a marine
 major
 themes of virus structure
 alga, Emiliana huxleyi (SEM). B. Progeny virions assemble within an alga (Pavlova sp.). C. Bloom
@@ -19277,11 +19263,11 @@ numerous and genetically diverse forms of life. The number of viruses infecting 
 
 CHAPTER 6
 
-■
+
 
 VIRUSES
 
-■
+
 
 195
 
@@ -19385,7 +19371,7 @@ T2 particles pack in a regular array within an E. coli cell (TEM). B. Bacterioph
 D. Child infected with measles shows a rash of red spots. E. Tobacco
 leaf section is packed with tobacco mosaic virus particles. F. Tomato
 leaf infected by tobacco mosaic virus shows mottled appearance.
-■
+
 
 NORM THOMAS/SCIENCE SOURCE
 
@@ -19394,11 +19380,11 @@ THOMAS SHALLA. 1964. J. CELL. BIOL.21: 253
 TMV
 virions
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -19415,7 +19401,7 @@ complex
 
 FIGURE 6.3
 
-■
+
 
 Replication complexes of hepatitis C virus.
 
@@ -19479,13 +19465,13 @@ Dynamic Nature of Viruses
 Emerging evidence supports a dynamic view of viral existence, and leads us to revisit the question: What is a virus?
 Is a virus a living organism? We now know that a virus may
 interconvert among three very different forms (Fig. 6.4):
-■
+
 
 Virion, or virus particle. The virion is an inert particle consisting of nucleic acid enclosed by a protein capsid. Some viruses package enzymes and possess a lipid
 envelope. A virion does not carry out any metabolism or
 energy conversion.
 
-■
+
 
 Intracellular replication complex. Within a host cell,
 the viral gene products direct the cell’s enzymes to
@@ -19493,7 +19479,7 @@ assemble progeny virions at “virus factories” called replication complexes. 
 as well as intricate collaboration between host and viral
 proteins.
 
-■
+
 
 Viral genome integrated within host DNA. Some
 types of viral genomes may integrate within a host chromosome and replicate as part of the host. Integration
@@ -19521,7 +19507,7 @@ host genome
 
 FIGURE 6.4
 
-■ Virus as a subcellular organism. The virion, or
+ Virus as a subcellular organism. The virion, or
 virus particle, consists of a nucleic acid genome contained by a protein
 capsid. A virion may infect a host cell and cause the cell’s enzymes to
 synthesize progeny virions. Alternatively, infection may lead to integration of the viral genome within the host cell genome. Integration
@@ -19548,11 +19534,11 @@ Giant viral genomes encode numerous metabolic enzymes,
 including aminoacyl-tRNA synthetases (enzymes that
 attach an amino acid to the transfer RNA for translation).
 
-■
+
 
 VIRUSES
 
-■
+
 
 197
 
@@ -19602,16 +19588,16 @@ newly infected—except for the few in which the virus persists. In these infect
 
 198
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 FIGURE 6.5
 
-■ The relationship of polydnaviruses, wasps, and
+ The relationship of polydnaviruses, wasps, and
 caterpillars. Parasitoid wasps lay their eggs inside a living insect caterpil-
 
 Integrated
@@ -19702,7 +19688,7 @@ deposits her symbiogenic polydnavirus virions. The virions express wasp
 genes in the caterpillar, where they prevent the encapsulation process that
 would otherwise wall off the wasp egg and kill it.
 
-FIGURE 6.6 ■ Marine viruses recycle organic
+FIGURE 6.6  Marine viruses recycle organic
 matter. Viruses divert the flow of organic mole-
 
 Heterotrophs
@@ -19719,11 +19705,11 @@ Thought Question
 algal bloom. If some of the algae are genetically resistant, will
 they grow up again and dominate the producer community?
 
-■
+
 
 VIRUSES
 
-■
+
 
 199
 
@@ -19777,17 +19763,17 @@ the host. An exception is human immunodeficiency virus
 (HIV), the cause of AIDS. Molecular studies of HIV have
 
 To Summarize
-■
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
+
 
 Viruses can exist as a virion (inert virus particle), as the
 intracellular assembly of virion components, or as a viral
@@ -19826,11 +19812,11 @@ may be symmetrical or asymmetrical, or combine aspects
 
 200
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 C.
@@ -19872,7 +19858,7 @@ virion
 
 FIGURE 6.7
 
-■ Herpes: icosahedral capsid symmetry. A. Icosahedral capsid of herpes simplex 1 (HSV-1), with envelope removed.
+ Herpes: icosahedral capsid symmetry. A. Icosahedral capsid of herpes simplex 1 (HSV-1), with envelope removed.
 Imaging of the capsid structure is based on computational analysis of cryo-TEM. Images of 146 virus particles were combined digitally
 to obtain this model of the capsid at 2-nm resolution. B. Icosahedral symmetry includes fivefold, threefold, and twofold axes of rotation.
 C. The icosahedral capsid contains spooled DNA. Source: A, C. Z. Hong Zhou et al. 1999. J. Virol. 73:3210.
@@ -19939,7 +19925,7 @@ Tegument
 
 100 nm
 
-FIGURE 6.8 ■ Envelope and tegument surround the herpes capsid. A. Section
+FIGURE 6.8  Envelope and tegument surround the herpes capsid. A. Section
 showing envelope and tegument proteins surrounding capsid (cryo-EM). B. Cutaway
 reconstruction of the herpes virion (cryo-EM tomography).
 
@@ -19969,11 +19955,11 @@ ALASDAIR STEVEN, NIH
 
 Capsid
 
-■
+
 
 VIRUSES
 
-■
+
 
 201
 
@@ -20014,7 +20000,7 @@ Tail fibers
 
 0.2 µm
 
-FIGURE 6.9 ■ Filamentous viruses. A. Ebola virus filaments (SEM).
+FIGURE 6.9  Filamentous viruses. A. Ebola virus filaments (SEM).
 B. The filamentous bacteriophage M13 has a relatively simple helical capsid
 that surrounds the genome coiled within (TEM).
 
@@ -20034,11 +20020,11 @@ CHAPTER 6
 
 202
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -20061,7 +20047,7 @@ separate helical capsids. For
 example, influenza virus packages several different genome
 segments into separate heli18 nm
 cal packages of different sizes,
-■
+
 FIGURE 6.10 Tobacco mosaic virus: helical symmetry. A. The helical filament of tobacco mo- contained together within a
 saic virus (TMV) contains a single-stranded RNA genome coiled inside. B. Components of the TMV virion.
 membrane envelope. Separate
@@ -20117,7 +20103,7 @@ Baseplate
 FIGURE 6.11 Bacteriophage T4 capsid. A. Phage T4 particle with protein capsid containing packaged double-stranded DNA genome.
 The capsid has a sheath with tail fibers that facilitate attachment to the surface of the host cell. After attachment, the sheath contracts and
 the core penetrates the cell surface, injecting the phage genome. B. E. coli infected by phage T4 (colorized blue, TEM).
-■
+
 
 GEORGE CHAPMAN/GETTY IMAGES
 
@@ -20133,7 +20119,7 @@ cell requires a factorylike assembly line of phage tail parts
 
 VIRUSES
 
-■
+
 
 203
 
@@ -20161,7 +20147,7 @@ mRNA molecules. The proteins may be found either inside
 
 A.
 
-■
+
 
 Viroids and Prions
 
@@ -20202,7 +20188,7 @@ PETER MORENUS/UCONN PHOTO
 
 FIGURE 6.12
 
-■ Vaccinia poxvirus. A. Vaccinia virion observed
+ Vaccinia poxvirus. A. Vaccinia virion observed
 in aqueous medium by atomic force microscopy (AFM). B. A pox
 virion includes an outer membrane and a core envelope membrane
 containing envelope proteins enclosing the double-stranded DNA
@@ -20212,11 +20198,11 @@ cancer treatments.
 
 204
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -20283,7 +20269,7 @@ U G A G G A CA G C C G G C G A C C C G U G A G G G G U G G CA G G A A A A A A C 
 C
 U AA
 
-■
+
 
 G
 C
@@ -20368,7 +20354,7 @@ A C
 G
 G C
 
-■
+
 
 Prion disease.
 
@@ -20396,20 +20382,20 @@ disease can be inherited genetically from one person with
 one mutant allele.
 
 To Summarize
-■
 
-■
 
-■
 
-■
-■
 
-■
 
-■
 
-■
+
+
+
+
+
+
+
+
 
 A virion consists of a capsid or a core particle enclosing a nucleic acid genome. For some viruses, the capsid is further enclosed by an envelope of membrane
 with embedded proteins.
@@ -20418,11 +20404,11 @@ construction.
 The capsid or core particle packages the viral genome
 and delivers it into the host cell.
 
-■
+
 
 VIRUSES
 
-■
+
 
 205
 
@@ -20512,15 +20498,15 @@ genes. B. Avian leukosis virus, a single-stranded RNA retrovirus
 resembling eukaryotic mRNA. Three genes (gag, pol, and env)
 encode polypeptides that are eventually cleaved to form a total of
 nine functional products. LTR = long terminal repeat.
-■
+
 
 206
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -20535,7 +20521,7 @@ Mamavirus
 
 FIGURE 6.16
 
-■
+
 
 DIDIER RAOULT/CNRS
 
@@ -20558,7 +20544,7 @@ B.
 
 FIGURE 6.17
 
-■ Giant virus from Siberia. A. The Siberian
+ Giant virus from Siberia. A. The Siberian
 tundra is melting. B. Pithovirus, a virus as large as E. coli, was
 isolated from tundra frozen for 30,000 years (TEM).
 
@@ -20611,7 +20597,7 @@ virus evolved from a parasitic cell.
 
 400,000
 
-■
+
 
 VIRUSES
 
@@ -20638,7 +20624,7 @@ on Taxonomy of Viruses
 
 207
 
-■
+
 
 Mimivirus
 (1,181,404 bp)
@@ -20673,7 +20659,7 @@ from a common ancestor. In fact, different classes of
 1,150,000
 viruses appear to have evolved from different sources—for
 example, from parasitic cells or from host cell components
-FIGURE 6.18 ■ Genome of Mimivirus. The genome of this
+FIGURE 6.18  Genome of Mimivirus. The genome of this
 such as DNA replication enzymes. Viruses are classified by
 giant virus specifies numerous enzymes with cell functions.
 genome composition, virion structure, and host range.
@@ -20684,7 +20670,7 @@ Committee on Taxonomy of Viruses (ICTV). The ICTV
 potato yellow dwarf virus are enveloped, bullet-shaped
 classification system is based on several criteria:
 viruses of the rhabdovirus family.
-■ Genome composition. The nucleic acid of the viral
+ Genome composition. The nucleic acid of the viral
 genome can vary remarkably with respect to physical
 Note: In nomenclature, families of viruses are designated by
 structure: It may consist of DNA or RNA, it may be
@@ -20695,18 +20681,18 @@ and it may be whole or segmented (that is, divided into
 species is simply capitalized, as in “Papillomavirus.”
 separate “chromosomes”). Genomes are classified by the
 Baltimore method (discussed next).
-■
+
 
 Capsid symmetry. The protein capsid or core particle may
 be helical or icosahedral, with various levels of symmetry.
 
-■
+
 
 Envelope. The presence of a host-derived envelope, and
 the envelope structure if present, are characteristic of
 related viruses.
 
-■
+
 
 Size of the virus particle. Related viruses generally
 share the same size range; for example, enteroviruses
@@ -20714,7 +20700,7 @@ such as poliovirus are only 30 nm across (about the size
 of a ribosome), whereas poxviruses are 200–400 nm, as
 large as a small bacterium.
 
-■
+
 
 Host range. Closely related viruses usually infect the
 same or related hosts. However, viruses with extremely
@@ -20735,11 +20721,11 @@ for discovering how tumor viruses cause cancer.
 
 A.
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -20752,7 +20738,7 @@ make dsDNA.
 
 FIGURE 6.19
 
-■ Baltimore classification of viral genomes.
+ Baltimore classification of viral genomes.
 
 Group I:
 Double-stranded DNA
@@ -20855,11 +20841,11 @@ the (+) strand] by a viral RNA-dependent RNA polymerase to form a double-strande
 
 210
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -20953,7 +20939,7 @@ Murine herpes (MHV-68)
 
 FIGURE 6.20
 
-■
+
 
 Phylogeny of herpes viral genomes.
 
@@ -21023,12 +21009,12 @@ E. coli
 
 Siphophage
 
-■
+
 
 Microphage (ssDNA)
 phage 𝛟X174
 
-■
+
 
 211
 
@@ -21044,7 +21030,7 @@ Thought Question
 progeny?
 
 To Summarize
-■
+
 
 The bacteriophage proteomic tree.
 
@@ -21092,11 +21078,11 @@ phage T7
 
 FIGURE 6.21
 
-■
 
-■
 
-■
+
+
+
 
 Viruses contain infective genomes of RNA or DNA.
 A viral genome may be single- or double-stranded,
@@ -21108,19 +21094,19 @@ Such viruses might have evolved from cell parts.
 
 212
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -21193,7 +21179,7 @@ DNA—as high as 50 atmospheres (atm)—is released,
 
 FIGURE 6.22
 
-■ Phages bind Salmonella
+ Phages bind Salmonella
 receptors. Various kinds of host molecules can
 
 serve as a phage receptor, such as LPS components,
@@ -21281,7 +21267,7 @@ released.
 
 FIGURE 6.23
 
-■
+
 
 Bacteriophage reproduction: lysis and lysog-
 
@@ -21297,11 +21283,11 @@ site-specific DNA recombinase. This excised phage chromosome then initiates a ly
 
 214
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -21313,24 +21299,24 @@ The lytic cycle. A lytic cycle of replication generates a large
 
 number of progeny phages and then lyses the defunct cell.
 The lytic replication cycle requires these steps:
-■
+
 
 Host recognition and attachment. A phage particle
 must contact a receptor molecule and adhere to a host cell.
 
-■
+
 
 Genome entry. The phage genome must enter the host
 cell and gain access to the cell’s machinery for gene
 expression.
 
-■
+
 
 Assembly of phages. Phage components must be expressed
 and assembled. Components usually “self-assemble”; that
 is, the joining of their parts is favored thermodynamically.
 
-■
+
 
 Exit and transmission. Progeny phages must exit the
 host cell, and then reach new host cells to infect.
@@ -21410,11 +21396,11 @@ recombinant DNA technology (see Chapter 12).
 
 CHAPTER 6
 
-■
+
 
 VIRUSES
 
-■
+
 
 215
 
@@ -21547,7 +21533,7 @@ single-stranded DNA.
 strategy of a temperate phage, which alternates between lysis
 and lysogeny?
 
-FIGURE 6.24 ■ Bacteriophage replication cycle: slow
+FIGURE 6.24  Bacteriophage replication cycle: slow
 release. In the slow-release replication cycle, a filamentous phage
 produces phage particles without lysing the cell. The host continues to reproduce itself, but more slowly than uninfected cells do
 because many of its resources are being used to make phages.
@@ -21563,11 +21549,11 @@ slowly.
 
 216
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -21625,7 +21611,7 @@ No fungus
 Plants colonized by virus-infected fungus survive heat shock. A. A Yellowstone grass colonized
 by fungi harboring a virus grows taller than grass lacking fungi. B. Regina Redman, now at Symbiogenics, discovered the
 role of the fungal virus in thermal resistance. Source: Modified from Marilyn Roossinck. 2011. Nat. Rev. Microbiol. 9:99.
-■
+
 
 Integrated Viruses as Host Cell Parts
 
@@ -21670,11 +21656,11 @@ agriculture during climate change.
 
 RESEARCH QUESTION
 
-■
+
 
 VIRUSES
 
-■
+
 
 217
 
@@ -21708,7 +21694,7 @@ LUIS M. MÁRQUEZ ET AL. 2007. SCIENCE 315:513.
 Tomato plants with fungus: 65ºC shock
 No virus
 
-FIGURE 2 ■ Virus confers thermotolerance on tomato plants. A. Virus (CThTV) isolated from a fungus that confers thermotolerance. B. Tomato plants with fungus lacking virus (left) die after exposure at 65°C; with virus present (right), plants survive.
+FIGURE 2  Virus confers thermotolerance on tomato plants. A. Virus (CThTV) isolated from a fungus that confers thermotolerance. B. Tomato plants with fungus lacking virus (left) die after exposure at 65°C; with virus present (right), plants survive.
 
 related story of retroviral gene therapy—are discussed in
 Chapter 11.
@@ -21741,11 +21727,11 @@ The bacteria then express restriction endonucleases,
 
 218
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -21809,7 +21795,7 @@ cell. A piece of phage DNA
 
 Spacers
 
-■
+
 
 gets copied as a “spacer”
 into the host genome. If the
@@ -21838,11 +21824,11 @@ Processed crRNAs
 Ingested phages
 and bacteria
 
-■
+
 
 VIRUSES
 
-■
+
 
 219
 
@@ -21869,7 +21855,7 @@ have enhanced traits.
 
 FIGURE 6.26
 
-■
+
 
 The gut bacteriophage community.
 
@@ -21911,29 +21897,29 @@ Some prophages of pathogenic bacteria express virulence
 factors, such as the Shiga toxin of Shigella and of E. coli
 O157:H7 (Table 6.2). At the same time, research yields
 intriguing evidence for phage effects that are positive:
-■
+
 
 Phages may limit the bacterial numbers to levels that
 the human immune system can tolerate. Lysogenized
 bacteria may use quorum sensing to detect host cell populations and “decide” whether to start a lytic cycle.
 
-■
+
 
 Phage particles may modulate immune system activity by suppressing T-cell activation and tumor formation
 (T-cells are discussed in Chapter 24).
 
-■
+
 
 Phages may attack biofilms. Biofilms of pathogens such as
 Pseudomonas aeruginosa may be eroded by phage infection.
 
 220
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -21944,41 +21930,41 @@ taking another look at therapeutic uses of bacteriophages
 (Chapters 5 and 11).
 
 To Summarize
-■
+
 
 Host cell-surface receptors mediate the attachment of
 bacteriophages to a cell and confer host specificity.
 
-■
+
 
 Lytic cycle. A bacteriophage injects its DNA into a host
 cell, where it utilizes host gene expression machinery to
 produce progeny virions.
 
-■
+
 
 Lysogeny. Some bacteriophages can insert their genome
 into that of the host cell, which then replicates the phage
 genome along with its own. A lysogenic bacterium can
 initiate a lytic cycle.
 
-■
+
 
 Gene transfer. Genes are transferred by phage processes
 of transduction and lysogeny.
 
-■
+
 
 Slow release. Some bacteriophages use the host machinery to make progeny that bud from the cell slowly, slowing growth of the host without lysis.
 
-■
+
 
 Bacterial host defense. Bacteria have evolved several
 forms of defense against bacteriophage infection, such as
 altered receptor proteins, restriction endonucleases, and
 CRISPR integration of phage DNA sequences.
 
-■
+
 
 The gut bacteriophage community includes phages that
 infect, lyse, or lysogenize bacterial hosts. Gut phages impact
@@ -22053,11 +22039,11 @@ why not?
 
 A. Host receptor binding
 
-■
+
 
 VIRUSES
 
-■
+
 
 221
 
@@ -22156,7 +22142,7 @@ Adenovirus
 
 Nuclear membrane
 
-■ Receptor binding and genome uncoating. A. Rhinovirus attaches to the intercellular adhesion molecule (ICAM-1), a
+ Receptor binding and genome uncoating. A. Rhinovirus attaches to the intercellular adhesion molecule (ICAM-1), a
 glycoprotein required by the host cell to bind a lymphocyte integrin, a cell-surface matrix protein required for cell-cell adhesion. After binding
 a specific receptor on the host cell membrane, an animal virus enters the cell, where its genome is uncoated. B. Measles virus: The coated RNA
 genome enters the cytoplasm. C. Hepatitis C: The genome is uncoated within an endosome. D. Adenovirus: The genome is uncoated at the
@@ -22164,11 +22150,11 @@ nuclear membrane. Source: Part A based on J. Bella et al. 1998. PNAS 95:4140.
 
 222
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -22249,15 +22235,15 @@ FIGURE 6.28
 
 Human papillomavirus. A. Certain strains of human papillomavirus (HPV) cause warts on the genitals or anus.
 B. HPV infects basal epithelial cells, where the DNA uncoats but remains dormant. As cells differentiate, new virions are synthesized and released by shedding cells. Some HPV proteins transform host cells into cancer cells.
-■
+
 
 CHAPTER 6
 
-■
+
 
 VIRUSES
 
-■
+
 
 223
 
@@ -22292,7 +22278,7 @@ Only shedding
 epithelial cells
 release virions.
 
-FIGURE 6.29 ■ Papillomavirus life
+FIGURE 6.29  Papillomavirus life
 cycle. HPV, a double-stranded DNA
 virus, enters the cytoplasm, where the
 protein coat disintegrates. The viral
@@ -22359,11 +22345,11 @@ see eTopic 11.3.
 
 224
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -22461,7 +22447,7 @@ Assembly
 
 FIGURE 6.30
 
-■ Picornavirus life cycle. A picornavirus inserts
+ Picornavirus life cycle. A picornavirus inserts
 its (+) strand RNA into the cell. Reproduction occurs entirely in the
 cytoplasm. A key step is the early translation of a viral gene to make
 RNA-dependent RNA polymerase.
@@ -22482,7 +22468,7 @@ reverse transcriptase to make a DNA copy of its RNA
 genome (Fig. 6.31). Instead of being translated from
 an early gene, the reverse transcriptase is actually carried
 
-■ Retrovirus life cycle. A retrovirus such as
+ Retrovirus life cycle. A retrovirus such as
 human immunodeficiency virus (HIV) uses reverse transcriptase
 to copy its RNA into double-stranded DNA. The DNA then enters
 the nucleus to recombine in the host genome, where a host RNA
@@ -22539,9 +22525,9 @@ genome hidden within a host chromosome.
 How do oncogenic viruses cause cancer? Several different mechanisms enable different types of viruses to
 transform normal host cells to proliferate abnormally and
 form tumors.
-■
 
-■
+
+
 
 Oncogenes. A retrovirus such as feline leukemia virus
 (FeLV) may carry an oncogene, which can transform the
@@ -22553,13 +22539,13 @@ into a host chromosome. The integrated viral genome
 expresses proteins that stimulate host cell division and
 may ultimately lead to growth of tumors.
 
-■
 
-■
+
+
 
 VIRUSES
 
-■
+
 
 225
 
@@ -22593,18 +22579,18 @@ the leaf surface caused by a feeding insect. Mechanical
 transmission of plant viruses is limited by the cell wall.
 Most plant viruses gain entry to cells by one of three
 routes:
-■
+
 
 Contact with damaged tissues. Viruses such as tobacco
 mosaic virus appear to require nonspecific entry into
 broken cells.
 
-■
+
 
 Transmission by an animal vector. Insects and nematodes transmit many kinds of plant viruses. For example,
 the geminiviruses are inoculated into cells by planteating insects such as aphids, beetles, and grasshoppers.
 
-■
+
 
 Transmission through seed. Some plant viruses enter
 the seed and infect the next generation.
@@ -22613,7 +22599,7 @@ An economically important plant virus is the potyvirus called plum pox virus, a 
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 C.
@@ -22627,7 +22613,7 @@ A.
 
 MARINA BARBA, ISTITUTO SPERIMENTALE PER LA PATOLOGIA VEGETALE
 
-■
+
 
 FREDERICK E. GILDOW, PENNSYLVANIA STATE UNIVERSITY
 
@@ -22637,7 +22623,7 @@ D.
 
 FIGURE 6.32
 
-■ Plum pox is caused by potyvirus. A. Potyvirus, a filamentous (+) strand RNA virus, approximately 800 nm in length
+ Plum pox is caused by potyvirus. A. Potyvirus, a filamentous (+) strand RNA virus, approximately 800 nm in length
 (TEM). B. Potyvirus is transmitted by aphids, which suck the plant sap and release the virus into the damaged tissues. C. Streaking of flowers
 caused by potyvirus infection. D. Ring-shaped pockmarks appear on the infected fruit.
 
@@ -22695,7 +22681,7 @@ Vacuole
 
 FIGURE 6.33
 
-■
+
 
 Plant cells connected by plasmodesmata.
 
@@ -22732,13 +22718,13 @@ dsDNA genome is
 transmitted through
 aphid bite.
 
-■
+
 
 VIRUSES
 
 DNA
 
-■
+
 
 227
 
@@ -22783,7 +22769,7 @@ Movement protein
 Caulimovirus life cycle. The cauliflower mosaic virus (CaMV), a DNA
 pararetrovirus, uses host RNA polymerase to copy its DNA into RNA and uses host reverse
 transcriptase (RT) to make DNA copies.
-■
+
 
 Animal and Plant Host Defenses
 
@@ -22825,11 +22811,11 @@ or are infected at such low rates that the virus is eventually
 
 228
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -22843,18 +22829,18 @@ archaea (discussed in Chapter 9). The mechanisms of RNA
 interference are now being engineered for use in gene therapy
 to halt gene expression in cancer and in inherited diseases.
 
-■
+
 
 RNA viruses use an RNA-dependent RNA polymerase
 to transcribe their messenger RNA.
 
-■
+
 
 Retroviruses use a reverse transcriptase to copy their
 genomic sequence into DNA for insertion in the host
 chromosome.
 
-■
+
 
 Oncogenic viruses transform the host cell to become
 cancerous. Mechanisms of oncogenesis by different
@@ -22863,19 +22849,19 @@ the host genome, integration of the entire viral genome,
 and expression of viral proteins that interfere with host
 cell cycle regulation.
 
-■
+
 
 Plant viruses enter host cells by transmission through a
 wounded cell surface or an animal vector. Plant viruses
 travel to adjacent cells through plasmodesmata.
 
-■
+
 
 Pararetroviruses contain DNA genomes but generate
 an RNA intermediate that requires reverse transcription
 to DNA for progeny virions.
 
-■
+
 
 Emerging viral pathogens increase during environmental change.
 
@@ -22907,11 +22893,11 @@ be brought about by many factors, including global climate
 change (eTopic 6.2 and Chapter 28).
 
 To Summarize
-■
+
 
 Host cell-surface receptors mediate animal virus attachment to a cell and confer host specificity and tropism.
 
-■
+
 
 Animal DNA viruses either inject their genome or
 enter the host cell by endocytosis. The viral genome
@@ -22978,17 +22964,17 @@ FIGURE 6.35
 
 10
 
-■
+
 
 Plaque-forming units/ml
 
 Cell lysis complete
 
-■
+
 
 VIRUSES
 
-■
+
 
 229
 
@@ -23065,7 +23051,7 @@ Hours after virus adsorption
 
 FIGURE 6.36
 
-■ One-step growth curve for a virus. The titer
+ One-step growth curve for a virus. The titer
 of extracellular virus drops to near zero during the latent period, as
 all virions adsorb to the host. Then progeny virions begin to emerge
 by budding out from the infected cell. For an animal virus, the
@@ -23101,11 +23087,11 @@ of animals.
 A historic event in 1949 was the first successful growth
 of a virus in tissue culture. Poliovirus, the causative agent
 
-■
+
 
 PART 1
 
-■
+
 
 THE MICROBIAL CELL
 
@@ -23123,7 +23109,7 @@ R. COMPANS, EMORY UNIVERSITY, SCHOOL OF MEDICINE
 
 FIGURE 6.37
 
-■ Poliovirus replication in human tissue culture. Before infection (0 hours), the cultured cells grow in a smooth layer.
+ Poliovirus replication in human tissue culture. Before infection (0 hours), the cultured cells grow in a smooth layer.
 At 8 hours, infected cells have detached from the culture dish. By 24 hours, cells have lysed or in some cases clumped with other cells.
 
 of the devastating childhood disease poliomyelitis, was
@@ -23198,7 +23184,7 @@ agar
 3. Pour immediately
 onto the agar plate.
 
-■
+
 
 231
 
@@ -23238,7 +23224,7 @@ Each plaque contains about
 
 FIGURE 6.38
 
-■ Plating a phage suspension to count
+ Plating a phage suspension to count
 isolated plaques. A suspension of bacteria in rich broth culture
 
 is inoculated with a low proportion of phage particles (multiplicity
@@ -23302,7 +23288,7 @@ NICK BOWLBY, MICHIGAN STATE UNIVERSITY
 
 A.
 
-■
+
 
 White
 plaques
@@ -23310,7 +23296,7 @@ plaques
 
 FIGURE 6.39
 
-■ Phage plaques on
+ Phage plaques on
 a lawn of bacteria. A. Phage lambda
 
 plaques on a lawn of Escherichia coli K-12.
@@ -23323,11 +23309,11 @@ gene interrupting the gene for betagalactosidase).
 
 CHAPTER 7
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 235
 
@@ -23426,11 +23412,11 @@ nucleoids (red) and plasmids
 
 COURTESY OF RODRIGO REYES-LAMOTHE
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -23476,7 +23462,7 @@ RNA. Translation then
 “reads” the information
 in RNA to make protein.
 Transcription and translation are discussed in
-Chapter 8. The remainFIGURE 7.1 ■ Marcelo
+Chapter 8. The remainFIGURE 7.1  Marcelo
 ing chapters of Part 2 disTolmasky of McGill University
 cuss gene recombination
 collaborated with Rodrigo
@@ -23492,7 +23478,7 @@ GOPAL MURTI/VISUALS UNLIMITED
 
 FIGURE 7.2
 
-■ Osmotically disrupted bacterial cell with
+ Osmotically disrupted bacterial cell with
 its DNA released. Length of the bacterium is approximately
 
 2 micrometers.
@@ -23561,11 +23547,11 @@ that conjugation (see Section 9.1), a horizontal gene transfer mechanism requiri
 at once, as in the established Mendelian model of plants
 and animals, but sequentially over a period of time (it takes
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 237
 
@@ -23603,13 +23589,13 @@ and chloroplasts (Section 17.6) and obligate intracellular
 pathogens (Chapter 23).
 
 To Summarize
-■
 
-■
 
-■
 
-■
+
+
+
+
 
 A genome is all of the genetic information that defines
 an organism.
@@ -23621,11 +23607,11 @@ genes and regulatory sequences.
 
 238
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -23783,11 +23769,11 @@ as humans), over 90% of the total DNA is noncoding. Some
 Genes transcribed
 clockwise
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 239
 
@@ -23844,7 +23830,7 @@ Other combinations
 
 2,500,000 bp
 
-FIGURE 7.3 ■ The circular
+FIGURE 7.3  The circular
 genome of Salmonella
 enterica serovar Typhimurium LT2. The figure illustrates,
 
@@ -23859,13 +23845,13 @@ AT-rich areas, respectively).
 
 240
 
-■
+
 
 PART 2
 
 GENES AND GENOMES
 
-■
+
 
 A. Single gene vs. operon
 Promoter
@@ -23918,7 +23904,7 @@ product, a nonItalic (roman) font is used, and the first letter is
 capitalized. Thus, lacZ is the gene and LacZ is the protein product
 of that gene.
 
-FIGURE 7.4 ■ Gene
+FIGURE 7.4  Gene
 organization. A. DNA
 
 segment containing a single
@@ -24298,7 +24284,7 @@ O
 
 3′ end
 
-FIGURE 7.5 ■ Structures of DNA and RNA. A. In the cell, DNA bases are added only
+FIGURE 7.5  Structures of DNA and RNA. A. In the cell, DNA bases are added only
 to a preexisting 3′ OH of a nucleoside monophosphate, so the 5′ ends in this figure are
 drawn as nucleoside monophosphates. (Dotted lines indicate hydrogen bonds between
 bases.) B. Cellular RNA molecules, however, begin with a 5′ triphosphate.
@@ -24394,13 +24380,13 @@ The stacking of DNA bases also appears to permit DNA to
 act as a “wire” capable of conducting electrons over long distances. The conduction of electrons along DNA may be sensed
 by certain proteins bound to DNA (discussed in Chapter 9).
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
 A. Space-filling model
 
-■
+
 
 241
 
@@ -24418,7 +24404,7 @@ groove
 Minor
 groove
 
-FIGURE 7.6 ■ Models of DNA. A. Space-filling model of DNA.
+FIGURE 7.6  Models of DNA. A. Space-filling model of DNA.
 B. DNA surface, modeled using nuclear magnetic resonance.
 (PDB code: 1K8J)
 
@@ -24451,16 +24437,16 @@ FIGURE 7.7
 Thymine
 Cytosine
 
-■ Protein that recognizes DNA. DtxR repressor
+ Protein that recognizes DNA. DtxR repressor
 protein dimer binds in the major groove of DNA. (PDB code: 1C0W )
 
 242
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -24550,11 +24536,11 @@ nucleoid is distributed throughout the cytoplasm.
 Histone-like
 anchoring proteins
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 243
 
@@ -24581,7 +24567,7 @@ relaxed in
 enzymes that relieve supersingle strand
 nicked strand
 coils. A single twist introduced into a small (300-bp)
-FIGURE 7.8 ■ Bacterial nucleoid. A nucleoid showing domain loops after gentle release from cells.
+FIGURE 7.8  Bacterial nucleoid. A nucleoid showing domain loops after gentle release from cells.
 circular
 DNA
 molecule
@@ -24639,18 +24625,18 @@ Above
 break
 3
 
-■ Supercoiling of 300-bp circular DNA. A supercoil can be introduced into a double-stranded, circular DNA molecule
+ Supercoiling of 300-bp circular DNA. A supercoil can be introduced into a double-stranded, circular DNA molecule
 by (1) cleaving both strands at one site in the molecule, (2) passing an
 intact part of the molecule between ends of the cut site, and
 (3) reconnecting the free ends.
 
 244
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -24748,7 +24734,7 @@ supercoils
 
 FIGURE 7.10
 
-■ Mechanism of
+ Mechanism of
 action for type I topoisomerases (topo I of E. coli).
 
 Topoisomerase I relaxes a negatively
@@ -24758,11 +24744,11 @@ supercoiled DNA molecule by introducing a single-strand nick.
 
 A.
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 245
 
@@ -24827,7 +24813,7 @@ of double-stranded DNA
 
 FIGURE 7.11
 
-■ Mechanism of action for type II
+ Mechanism of action for type II
 topoisomerases. A. Mode of action of DNA gyrase from
 
 E. coli. B. Three-dimensional representation of DNA gyrase. The
@@ -24857,11 +24843,11 @@ avoid degradation?
 
 246
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -24878,17 +24864,17 @@ in the human genome, defects in which produce inherited
 human diseases, such as xeroderma pigmentosum, that predispose the carrier to certain cancers.
 
 To Summarize
-■
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
+
 
 Noncoding DNA can constitute a large amount of a
 eukaryotic genome, while prokaryotes have very little
@@ -24952,7 +24938,7 @@ Origin
 
 FIGURE 7.12
 
-■
+
 
 Semiconservative
 
@@ -24993,11 +24979,11 @@ toward the fork, but synthesizing the other new strand in a
 5′-to-3′ direction would seem to dictate that it move away
 from the fork (Fig. 7.13). How is this possible?
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 247
 
@@ -25094,15 +25080,15 @@ FIGURE 7.13
 
 Comparing direction of fork movement with
 direction of DNA synthesis.
-■
+
 
 248
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -25267,7 +25253,7 @@ strand
 
 FIGURE 7.14
 
-■
+
 
 Initiation of DNA replication.
 
@@ -25309,11 +25295,11 @@ before the first round is complete.
 Now let’s examine each step in molecular detail to
 answer some important questions about this mechanism.
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 249
 
@@ -25383,15 +25369,15 @@ Initiating Replication
 Movement of newly replicated origins. The
 oriC loci on chromosomes were visualized through a GFP protein
 that binds only at oriC.
-■
+
 
 250
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -25439,7 +25425,7 @@ starts in the center of the cell, the newly replicated origins
 mechanism that gets chromosomes out of harm’s way before
 the division septum forms at midcell (described below).
 
-FIGURE 7.16 ■ Arthur Kornberg and Sylvy Kornberg, circa
+FIGURE 7.16  Arthur Kornberg and Sylvy Kornberg, circa
 1960. A biochemist in her own right, Sylvy Kornberg contributed in
 the effort to purify DNA polymerase I.
 
@@ -25522,11 +25508,11 @@ a single fork requires that synthesis of the looped strand
 must lag behind synthesis of the leading strand and that
 new RNA primers must be synthesized by DNA primase (DnaG) every 1,000 bases or so. Thus, the lagging
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 251
 
@@ -25575,11 +25561,11 @@ NAD in this capacity.
 
 252
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -25681,7 +25667,7 @@ is released
 3′
 5′
 
-FIGURE 7.17 ■ The DNA polymerase dimer acting at a replication fork. The leading and lagging strands are synthesized simultaneously in the 5′-to-3′ direction. For clarity, the beta clamp on the lagging strand is shown on the opposite side of Pol III as compared to its
+FIGURE 7.17  The DNA polymerase dimer acting at a replication fork. The leading and lagging strands are synthesized simultaneously in the 5′-to-3′ direction. For clarity, the beta clamp on the lagging strand is shown on the opposite side of Pol III as compared to its
 position on the leading strand.
 
 CHAPTER 7
@@ -25690,7 +25676,7 @@ Thought Question
 
 5′
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
@@ -25723,7 +25709,7 @@ Parental template strand
 (in nucleotides per second) if the genome is 4.6 million base
 pairs, replication is bidirectional, and the chromosome completes a round of replication in 40 minutes?
 
-■
+
 
 5′
 
@@ -25789,7 +25775,7 @@ that is, halfway around the chromosome. What tells the
 polymerases to stop? The E. coli chromosome has as many
 as 10 terminator sequences (ter) that polymerases enter
 
-■
+
 
 Removing the RNA primer. The 3′-to-5′
 
@@ -25841,13 +25827,13 @@ another Okazaki fragment.
 
 254
 
-■
+
 
 PART 2
 
 A.
 
-■
+
 
 GENES AND GENOMES
 
@@ -25914,7 +25900,7 @@ polymerization. Multiple terminator sites ensure that the
 polymerase complex does not escape and continue replicating DNA. Which terminator site is used depends in part
 on whether replication of one fork has lagged behind replication of the other.
 
-■
+
 
 Terminating replication of the chromosome.
 
@@ -25964,21 +25950,21 @@ Normal
 
 CHAPTER 7
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
 
 J. Bacteriol. 188:6016–6019.
 
-■
 
-■
+
+
 
 in the middle third of the cell (see Fig. 3.29), propels E.
 coli chromosomes toward opposite cell poles. The terminator region remains in the center of the cell until
@@ -26010,13 +25996,13 @@ synthesis if rifampin is added to a synchronous culture?
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 255
 
 To Summarize
 
-FIGURE 7.20 ■ Effect of a xerD mutation on Caulobacter
+FIGURE 7.20  Effect of a xerD mutation on Caulobacter
 cell division. Caulobacter replicates by producing a motile cell at
 
 one end of a nonmotile, fixed, stalked cell. The photomicrograph
@@ -26025,9 +26011,9 @@ multiple constrictions because of the xerD defect in chromosomal
 segregation. Even though Topo IV is present in the xerD mutant,
 both mechanisms are needed to ensure that linked replicating chromosomes always clear the division plane. Source: R. B. Jensen. 2006.
 
-■
 
-■
+
+
 
 Replication is semiconservative, with newly synthesized strands lengthening in a 5′-to-3′ direction. Replication consists of initiation, elongation, and termination
 steps.
@@ -26069,11 +26055,11 @@ section we discuss aspects of plasmid replication. Discussion of bacteriophage r
 
 256
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -26122,7 +26108,7 @@ B. FtsZ + SlmA + SBS
 
 FtsZ filament
 
-FIGURE 1 ■ Nucleoid exclusion protein SlmA prevents
+FIGURE 1  Nucleoid exclusion protein SlmA prevents
 FtsZ polymerization. A. In vitro polymerization of FtsZ.
 B. When SlmA and SBS sequences are present, FtsZ fails to
 polymerize in vitro.
@@ -26155,7 +26141,7 @@ Cell division
 
 FIGURE 2
 
-■
+
 
 Model for SlmA function.
 
@@ -26164,11 +26150,11 @@ Each plasmid contains its own origin sequence for DNA
 
 CHAPTER 7
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 257
 
@@ -26193,7 +26179,7 @@ were made between cells expressing native SlmA (Fig. 3A), cells lacking SlmA (Fi
 express native SlmA but have an
 altered FtsZ that will polymerize
 even when bound to SlmA. Wildtype SlmA+ cells rarely formed inappropriate septa over their nucleoids
-FIGURE 3 ■ Formation of inappropriate septa in cells with stalled nucleoids.
+FIGURE 3  Formation of inappropriate septa in cells with stalled nucleoids.
 (Fig. 3A), while slmA mutants freA–C. A series of temperature-sensitive parC mutants (parCts) were shifted from 30°C,
 quently formed inappropriate septa
 a growth temperature at which ParCts will work, to 42°C for one hour, a temperature at
@@ -26232,11 +26218,11 @@ Plasmids can replicate in two different ways. Bidirectional replication starts a
 
 258
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -26311,7 +26297,7 @@ B
 A
 
 C
-■
+
 
 5. Synthesis of
 new plus strand
@@ -26383,7 +26369,7 @@ FIGURE 7.22
 
 B
 
-■
+
 
 C
 
@@ -26412,13 +26398,13 @@ B.
 Plasmids diffuse
 around the cell.
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
 C.
 
-■
+
 
 259
 
@@ -26453,7 +26439,7 @@ opposite poles.
 
 FIGURE 7.23
 
-■ Molecular model of plasmid segregation. The two images at far right show a cell with a parM mutant plasmid unable
+ Molecular model of plasmid segregation. The two images at far right show a cell with a parM mutant plasmid unable
 to make a ParM filament, and a cell with a parM+ plasmid making a ParM actin-like filament (green) to partition daughter plasmids (equivalent
 to panel D). ParM filament was seen by combined phase-contrast and immunofluorescence microscopy using rabbit anti-ParM antibodies
 and fluorescent Alexa 488–conjugated goat antirabbit IgG antibodies. Source: Adapted from Christopher S. Campbell and R. Dyche Mullins. 2007. J. Cell Biol.
@@ -26496,11 +26482,11 @@ plasmids benefit bacteria, but they are a major problem
 
 260
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -26541,11 +26527,11 @@ other words, by bacteriophage transduction (also covered
 in Section 9.1).
 
 To Summarize
-■
 
-■
 
-■
+
+
+
 
 Plasmids are autonomously replicating circular or linear DNA molecules that are part of a cell’s genome.
 Plasmids replicate by rolling-circle and/or bidirectional
@@ -26629,11 +26615,11 @@ multiple-gene operons. In contrast, 98% of the human
 genome consists of noncoding sequences (sequences that
 do not encode proteins). Noncoding sequences include
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 261
 
@@ -26706,7 +26692,7 @@ FIGURE 7.24
 
 10
 
-■
+
 
 20
 
@@ -26725,11 +26711,11 @@ throughout the genome)
 
 262
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -26761,15 +26747,15 @@ and amplification by the polymerase chain reaction—actually harness the molecu
 replicate or protect their own chromosomes.
 
 To Summarize
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
 
 Eukaryotic chromosomes are always linear, doublestranded DNA molecules that replicate by mitosis.
 A reverse transcriptase called telomerase is needed to
@@ -26830,7 +26816,7 @@ polymerase
 TFB
 TFIIH
 proteins are then removed by centrifuDNA
-gation, and the cleared lysate containFIGURE 7.25 ■ RNA polymerases from Archaea and
+gation, and the cleared lysate containFIGURE 7.25  RNA polymerases from Archaea and
 ing DNA is passed through a column
 Eukarya exhibit homology. The core RNA polymerase (RNAP)
 containing a silica resin that specifically binds DNA. The
@@ -26858,7 +26844,7 @@ HaeIII
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 263
 
@@ -26943,7 +26929,7 @@ Size
 (+) pole
 (kb)
 the top strand is cut at one end of the site, and the bottom strand is cut at the other end (Fig. 7.26A). Staggered
-FIGURE 7.26 ■ Bacterial DNA restriction endonucleases. A.
+FIGURE 7.26  Bacterial DNA restriction endonucleases. A.
 ends are also called “cohesive ends” because the protruding
 Target sequences of sample enzymes. The names of these enzymes
 strand at one end can base-pair with a complementary proreflect the genus and species of the source organism. B. Agarose-gel
@@ -26990,7 +26976,7 @@ Arthrobacter luteus
 
 Enyzme from:
 
-■
+
 
 5′
 
@@ -26998,11 +26984,11 @@ BamHI, HindIII,
 and EcoRI produce
 “sticky” ends.
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 B.
@@ -27149,7 +27135,7 @@ the nicks.
 
 FIGURE 7.27
 
-■ Formation of recombinant DNA molecules. Stanley Cohen (A) of
+ Formation of recombinant DNA molecules. Stanley Cohen (A) of
 
 Stanford University and Herbert Boyer (B) of
 UC San Francisco, two of the founders of recombinant DNA technology. C. Cloning a gene.
@@ -27197,7 +27183,7 @@ to amplify
 
 FIGURE 7.28
 
-■
+
 
 265
 
@@ -27250,7 +27236,7 @@ Primers annealed.
 5'
 3'
 
-■
+
 
 30 Cycles
 
@@ -27265,16 +27251,16 @@ replicates sequence.
 55°C, annealing of primers;
 72°C, extension by Taq polymerase
 
-■ The polymerase chain reaction. The cyclic PCR reaction makes a large number of copies of a small piece of DNA.
+ The polymerase chain reaction. The cyclic PCR reaction makes a large number of copies of a small piece of DNA.
 Potentially 1030 copies of a fragment can be made from a single DNA molecule.
 
 266
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -27320,7 +27306,7 @@ H
 H
 an ingeniously simple strategy but
 were not rapid. The dideoxy chain
-FIGURE 7.29 ■ Dideoxyribonucleotide. Review Figure 7.5 to see how missing the 3′ OH
+FIGURE 7.29  Dideoxyribonucleotide. Review Figure 7.5 to see how missing the 3′ OH
 termination method developed by
 group would terminate DNA synthesis. dNTP = deoxyribonucleoside triphosphate, or deoxyriboFred Sanger in the 1970s relied
 nucleotide.
@@ -27427,7 +27413,7 @@ primers
 
 FIGURE 7.30
 
-■
+
 
 DNA sequencing; sequencing by synthesis. Steps 1–6: Generation of clusters by bridge amplification. Steps 7–10:
 
@@ -27466,11 +27452,11 @@ fixed to the solid surface (step 3). Each individual fragment sticks to a differ
 also has a dense lawn of oligonucleotides fixed at their 5′
 ends to the glass surface. These oligonucleotides are complementary to the fragment linker ends but do not hybridize to them at this point.
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 267
 
@@ -27591,11 +27577,11 @@ one nucleotide, which will be the same for all members of the cluster.
 
 Sequence snapshot
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -27659,7 +27645,7 @@ With antibiotics
 
 Days
 
-FIGURE 7.31 ■ Effect of microbiota on the growth of the
+FIGURE 7.31  Effect of microbiota on the growth of the
 ciliate Euplotes focardii at 4°C. Protozoans were either untreated or treated with streptomycin and penicillin G. Antibiotic treatment lasted for 15 days after which the protozoans were transferred
 to antibiotic-free media. All organisms were fed the green alga
 Dunaliella tertiolecta. Source: Pucciarelli, et al. 2015. Microbial Consortium
@@ -27693,11 +27679,11 @@ from an environment and, without ever growing it, extract
 
 CHAPTER 7
 
-■
+
 
 GENOMES AND CHROMOSOMES
 
-■
+
 
 269
 
@@ -27722,7 +27708,7 @@ Christensenella Christensenella
 firmicute, was the most highly
 heritable among identical twins.
 Even more striking was that
-FIGURE 7.32 ■ Heritable member of the human microbiome. A. Ruth Ley led a team
+FIGURE 7.32  Heritable member of the human microbiome. A. Ruth Ley led a team
 this microbe was found more
 that used metagenomics to discover that the abundance of some members of the intestinal
 microbiome are influenced by host genetics. B. One such organism, Christensenella minuta, also
@@ -27744,38 +27730,38 @@ described earlier. SCG can identify the “microbial dark matter” of undiscove
 which genes in a metagenome belong to which organism.
 To Summarize
 Using SCG, Tonja Woyke at the U.S. Department of Energy’s Joint Genome Institute and her colleagues sequenced
-■ Restriction endonucleases used for DNA analysis
+ Restriction endonucleases used for DNA analysis
 single cells from 20 major uncultured archaeal and bactecleave DNA at specific recognition sequences, which are
 rial lineages. They discovered 20,000 new hypothetical prousually 4–6 bp in length and produce either a blunt or a
 tein families, found genes encoding bacterial sigma factors
 staggered cut.
 in archaea, revealed an archaeal purine synthesis pathway in
-bacteria, and identified several new candidate phyla of Bacte■ Agarose-gel electrophoresis will separate DNA molria and Archaea. Single-cell genomic studies promise to yield
+bacteria, and identified several new candidate phyla of Bacte Agarose-gel electrophoresis will separate DNA molria and Archaea. Single-cell genomic studies promise to yield
 ecules on the basis of their size.
 many more surprises.
-■ Restriction endonuclease–digested DNA molecules
+ Restriction endonuclease–digested DNA molecules
 The power of metagenomics has also been directed
 were first cloned into plasmids in the early 1970s.
 toward solving the human microbiome. One hundred trillion
-■ The polymerase chain reaction (PCR) will amplify
+ The polymerase chain reaction (PCR) will amplify
 microbes (up to 10 microbial cells for every one nucleated
 one or two copies of a specific gene a millionfold.
 human cell) live in the human body, but we did not know the
 identity of most of them, because we could not grow them
-■ The most commonly used DNA sequencing techin the laboratory. How we interact with these organisms and
+ The most commonly used DNA sequencing techin the laboratory. How we interact with these organisms and
 nique (the Sanger technique) uses dideoxyribonucleothey with us is a major question in modern microbiology—
 tides—nucleotides that lack both the 2′ OH and 3′ OH
 one that has led to the formation of the Human Microbiome
 groups—to terminate chain elongation.
 Project, which is examining gut, skin, and oral microbiomes.
-■ Entire genomes are sequenced by fragmenting chromoWe already know that the composition of intestinal microsomal DNA, amplifying the fragments in clusters, and
+ Entire genomes are sequenced by fragmenting chromoWe already know that the composition of intestinal microsomal DNA, amplifying the fragments in clusters, and
 biota can influence blood chemistry and may contribute to
 sequencing each cluster. Overlapping DNA sequences
 irritable bowel syndrome (inflammation of the gastrointestifrom different clusters are matched by computer analysis
 nal tract), but microbiota are also suspected of influencing an
 until the entire genome is reconstructed.
 individual’s susceptibility to diabetes and obesity.
-■ Metagenomics uses rapid DNA sequencing and other
+ Metagenomics uses rapid DNA sequencing and other
 One recent paper reveals that human genes can inf lugenomic techniques to study consortia of microbes
 ence the makeup of our microbiome. Ruth E. Ley
 directly in their natural environment.
@@ -27790,11 +27776,11 @@ A.
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
-■
+
 
 273
 
@@ -27889,7 +27875,7 @@ could help guide the development of therapies for these devastating diseases.
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -27934,7 +27920,7 @@ show how damaged
 proteins are selectively degraded. We
 conclude with bioinformatics,
 now
-FIGURE 8.1 ■ Monali Nandyan essential tool of
+FIGURE 8.1  Monali Nandyan essential tool of
 Mazumdar. NandyMazumdar worked
 microbiology.
 Biowith Irina Artsimovitch and Paul Rösch
@@ -27949,14 +27935,14 @@ A.
 
 NIH
 
-■
+
 
 COURTESY OF NATIONAL LIBRARY OF MEDICINE/
 NATIONAL INSTITUTE OF HEALTH
 
 274
 
-FIGURE 8.2 ■ Many scientists have contributed to our
+FIGURE 8.2  Many scientists have contributed to our
 understanding of the genetic code. A. Heinrich Matthaei
 
 (left) and Marshall Nirenberg (right) were the first to crack the
@@ -27985,7 +27971,7 @@ to RNA is called transcription.
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -28050,7 +28036,7 @@ polymerase
 σ1
 σ4
 
-■
+
 
 β
 
@@ -28083,15 +28069,15 @@ Sigma factor (red), which recognizes promoters on DNA, is shown separate from co
 areas of sigma are labeled sigma 1 through sigma 4 (σ1–σ4). Sigma factor interacts with the alpha (α), beta (β), and beta-prime (β′) subunits.
 The molecule on the left is rotated 110° to give the image on the right. To view stereo images of RNA polymerase, locate code 1L9Z in the
 RCSB Protein Data Bank on the Internet. Source: Robert D. Finn et al. 2000. EMBO J. 19:6833–6844.
-■
+
 
 276
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -28120,7 +28106,7 @@ zwf
 
 FIGURE 8.4
 
-■ –10 and –35 sequences
+ –10 and –35 sequences
 of E. coli promoters. A. Alignment of
 
 B. Consensus sequences of σ70 promoters
@@ -28259,7 +28245,7 @@ strand), which has the same sequence as the RNA product.
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -28267,7 +28253,7 @@ B.
 
 A.
 
-■
+
 
 277
 
@@ -28305,7 +28291,7 @@ Downstream DNA
 movement
 trol gene expression? In response
 to a given environment, microbes
-FIGURE 8.5 ■ RNA polymerase holoenzyme bound to a promoter. A. The initial open
+FIGURE 8.5  RNA polymerase holoenzyme bound to a promoter. A. The initial open
 will increase synthesis or decrease
 complex forms when holoenzyme binds to a promoter. DNA –10 and –35 contacts with sigma
 destruction
@@ -28365,11 +28351,11 @@ effect on growth?
 one specific for a different sigma factor?
 
 To Summarize
-■
 
-■
 
-■
+
+
+
 
 RNA polymerase holoenzyme, consisting of core RNA
 polymerase and a sigma factor, initiates transcription of a
@@ -28382,7 +28368,7 @@ in the relative levels of different sigma factors.
 
 278
 
-■
+
 
 PART 2
 
@@ -28390,7 +28376,7 @@ PART 2
 
 GENES AND GENOMES
 
-■
+
 
 Transcription of
 DNA to RNA
@@ -28566,7 +28552,7 @@ Transcription bubble
 4. Sigma factor
 leaves the complex.
 
-FIGURE 8.6 ■ The initiation of transcription. Sigma factor
+FIGURE 8.6  The initiation of transcription. Sigma factor
 helps RNA polymerase find promoters but is discarded after the first
 few RNA bases are polymerized. (Omega is not shown.)
 
@@ -28627,7 +28613,7 @@ about nine bases have been joined, and then it dissociates
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -28748,7 +28734,7 @@ residues at the terminus (Fig. 8.7B). The GC-rich sequence
 
 A. Rho-dependent termination
 
-■
+
 
 Movement of
 polymerase
@@ -28770,7 +28756,7 @@ FIGURE 8.7
 Contact between Rho
 and RNA polymerase
 causes termination.
-■
+
 
 The termination of transcription. A. Rho-dependent termination requires Rho factor but not NusA. B. Rho-independent
 
@@ -28778,11 +28764,11 @@ termination requires NusA but not Rho.
 
 280
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -28930,7 +28916,7 @@ downstream of the UA region.
 Antibiotics Revealed RNA
 Synthesis Machines
 
-■
+
 
 Structure and mode of action of rifamycin.
 
@@ -28970,11 +28956,11 @@ DNA, it is not selective for bacteria. It can be used to treat
 
 A.
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
-■
+
 
 281
 
@@ -29142,7 +29128,7 @@ FIGURE 8.9
 
 Structure and mode of action of actinomycin D. This antibiotic inserts its ring structure (A) between parallel DNA
 bases and wraps its side chains along the minor groove (B). (PDB code for B: 1DSC)
-■
+
 
 human cancers because cancer cells replicate rapidly, but
 it has severe side effects because it inhibits DNA synthesis
@@ -29178,11 +29164,11 @@ the scaffolding on which ribosomes are built. As will be
 
 282
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -29352,31 +29338,31 @@ the RNA degradosome is compartmentalized within the cell.
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
 Compartmentalization may regulate RNA degradation by
 limiting access of the RNase to cytoplasmic RNA.
 
-■
 
-■
 
-■
 
-■
-■
+
+
+
+
+
 
 283
 
 catalytic activity (catalytic RNA), or function as a combination of tRNA and mRNA (tmRNA).
-■
+
 
 To Summarize
-■
 
-■
+
+
 
 Half-lives of RNA species vary within the cell.
 
@@ -29769,15 +29755,15 @@ Trp (W)
 The genetic code. Codons within a single box encode the same amino acid. Color-highlighted amino acids are encoded by
 codons in two boxes. Stop codons are highlighted red. Often, single-letter abbreviations for amino acids are used to convey protein sequences
 (see legend above).
-■
+
 
 284
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -29888,13 +29874,13 @@ Anticodon loop
 
 FIGURE 8.11
 
-■ Transfer RNA. A. Primary sequence. The letters D, M, Y, T, and Ψ stand for modified bases found in tRNA. B. Cloverleaf
+ Transfer RNA. A. Primary sequence. The letters D, M, Y, T, and Ψ stand for modified bases found in tRNA. B. Cloverleaf
 structure. DHU (or D) is dihydrouracil, which occurs only in this loop; TΨC consists of thymine, pseudouracil, and cytosine bases that occur
 as a triplet in this loop. The DHU and TΨC loops are named for the modified nucleotides that are characteristically found there. C. Threedimensional structures. The anticodon loop binds to the codon, while the acceptor end binds to the amino acid. (PDB code: 1GIX)
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -29967,7 +29953,7 @@ Codon-anticodon pairing. The tRNA anticodon
 consists of three nucleotides at the base of the anticodon loop.
 The anticodon hydrogen-bonds with the mRNA codon in an antiparallel fashion. This tRNA is “charged” with an amino acid covalently
 attached to the 3′ end.
-■
+
 
 Thought Question
 
@@ -30032,7 +30018,7 @@ H
 
 Pseudouridine
 (!)
-■
+
 
 NH2
 
@@ -30116,7 +30102,7 @@ NH2
 
 H 3C
 
-■
+
 
 CH2
 N
@@ -30173,11 +30159,11 @@ Wybutosine
 
 286
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -30322,7 +30308,7 @@ here.
 tures of the tRNA anticodon loop,
 R C NH3
 the TΨC loop, and the DHU loop.
-FIGURE 8.14 ■ Charging of tRNA molecules by aminoH
+FIGURE 8.14  Charging of tRNA molecules by aminoH
 Thus,
 each tRNA has its own set of interacyl-tRNA synthetases. At the end of this process, each amino
 action
@@ -30337,7 +30323,7 @@ A. Small subunit (30S)
 
 B. Large subunit (50S)
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -30347,7 +30333,7 @@ C. Ribosome (70S)
 
 FIGURE 8.15
 
-■ Bacterial ribosome structure. As this schematic illustrates, note that a section of the 30S subunit (A) fits into
+ Bacterial ribosome structure. As this schematic illustrates, note that a section of the 30S subunit (A) fits into
 the valley of the 50S subunit (B) when forming the 70S ribosome (C).
 
 The Ribosome, a Translation Machine
@@ -30365,7 +30351,7 @@ mRNA to form the translating 70S ribosome (Fig. 8.15).
 (Note that Svedberg units are not directly additive, because
 they represent a rate of sedimentation, not a mass.)
 
-■
+
 
 The smaller, 30S subunit (900,000 Da) contains 21 ribosomal proteins (named S1–S21; S = “small”) assembled
 around one 16S rRNA molecule. The 50S subunit (1.6 million Da) consists of 31 proteins [designated L1–L34 (three
@@ -30405,17 +30391,17 @@ FIGURE 8.16
 RNA-protein interfaces in the large (50S) ribosome subunit. rRNA is blue; proteins are gold. (PDB code: 1GIY)
 Blowup: Partial secondary structure of 23S rRNA, which includes the peptidyltransferase catalytic site. Note the many double-stranded
 hairpin structures that fold into domains (Roman numerals). Nucleotides are numbered in black; stem structures, in blue.
-■
+
 
 287
 
 288
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -30474,7 +30460,7 @@ mRNA
 
 3′
 
-FIGURE 8.17 ■ Binding of tRNA. X-ray-crystallographic model
+FIGURE 8.17  Binding of tRNA. X-ray-crystallographic model
 of Thermus thermophilus ribosome with associated tRNAs. 50S
 is red, 30S is magenta, and tRNAs in the A, P, and E sites are blue,
 green, and yellow, respectively.) Inset: The formation of a peptide
@@ -30545,7 +30531,7 @@ sequence for each has its own ribosome-binding site.
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -30598,7 +30584,7 @@ B.
 
 8
 
-■
+
 
 289
 
@@ -30648,7 +30634,7 @@ peptide
 
 FIGURE 8.18
 
-■ Coupled transcription and translation
+ Coupled transcription and translation
 in bacteria. A. During coupled transcription and translation in
 
 prokaryotes, ribosomes attach at mRNA ribosome-binding sites and
@@ -30674,7 +30660,7 @@ DNA
 
 Nucleoid
 
-FIGURE 8.19 ■ Most translation in E. coli is not coupled to
+FIGURE 8.19  Most translation in E. coli is not coupled to
 transcription. A. Most ribosomes exist in nucleoid-free areas of
 
 the cell, primarily at the cell poles. DNA was visualized using a red
@@ -30684,11 +30670,11 @@ model showing the distribution of polysomes in the cell.
 
 290
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -30805,12 +30791,12 @@ Translation
 
 Protein
 
-FIGURE 8.20 ■ Alignment of structural genes in a bacterial operon, the mRNA transcript, and protein products. In this figure, the
+FIGURE 8.20  Alignment of structural genes in a bacterial operon, the mRNA transcript, and protein products. In this figure, the
 term “gene” refers to the region of DNA corresponding to the entire mRNA transcript, including upstream and downstream untranslated areas.
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -30830,7 +30816,7 @@ A and gene B proteins?
 
 P
 
-■
+
 
 291
 
@@ -30933,7 +30919,7 @@ with 30S subunit.
 
 FIGURE 8.21
 
-■ Translation initiation. The end result of translation initiation is assembly of the 50S-30S-mRNA complex with the
+ Translation initiation. The end result of translation initiation is assembly of the 50S-30S-mRNA complex with the
 initiator tRNA-fMet set in the P site. See text for details.
 
 Translation
@@ -30963,11 +30949,11 @@ Archaea, involving as many as six different IF proteins.
 
 292
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -31113,18 +31099,18 @@ E site tRNA.
 
 30S
 
-FIGURE 8.22 ■ Elongation of the peptide. At the end of each
+FIGURE 8.22  Elongation of the peptide. At the end of each
 elongation cycle, the ribosome has moved forward by one codon, which
 positions the tRNA with nascent peptide in the P site and the tRNA
 from which the peptide was passed in the E site, ready for ejection.
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
-■
+
 
 293
 
@@ -31147,7 +31133,7 @@ with mRNA, to the new sites. The result is the posttranslocation ribosome in whi
 tRNAs in the A and P sites have moved to the P and E sites,
 respectively (see Fig. 8.22).
 One question, however, has troubled structural biologists
-FIGURE 1 ■ Thomas Steitz (right) and associate research
+FIGURE 1  Thomas Steitz (right) and associate research
 for some time. Cryo-electron microscopy and X-ray-crystalscientists Matthieu Gagnon (left) and Jinzhong Lin examlographic examinations of EF-G bound to posttranslocation
 ine the EF-G–binding site on a model of the 70S ribosome.
 ribosomes show an elongated form of EF-G with its domain
@@ -31221,17 +31207,17 @@ exits.
 moves the associated mRNA
 down the ribosome. The model
 is similar to a finger flicking a
-FIGURE 2 ■ Structures of EF-G bound to the pretranslocation (A) and
+FIGURE 2  Structures of EF-G bound to the pretranslocation (A) and
 posttranslocation (B) ribosome.
 paper clip along a table.
 
 294
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 Release factor
@@ -31384,16 +31370,16 @@ uncharged tRNA and
 prevent reassociation
 of 30S and 50S.
 
-■ Termination of translation. The completed
+ Termination of translation. The completed
 protein is released, and the ribosome subunits are recycled.
 
 CHAPTER 8
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
-■
 
-■
+
+
 
 295
 
@@ -31505,7 +31491,7 @@ tRNA binding.
 binding to the ribosome (kasugaC06570
 mycin), prevent translocation by
 targeting EF-G (fusidic acid), or
-FIGURE 8.24 ■ Antibiotics that inhibit protein synthesis in bacteria. Streptomycin
+FIGURE 8.24  Antibiotics that inhibit protein synthesis in bacteria. Streptomycin
 (A) and tetracycline (B) bind to the A site. Streptomycin causes mistranslation, tetracycline inhibuse structural similarity to tR NA
 its tRNA binding. Chloramphenicol (C) and erythromycin (D) bind to the peptidyltransferase site,
 (molecular mimicry) to trick pepthus inhibiting peptide bond formation.
@@ -31561,9 +31547,9 @@ Binds to peptidyltransferase site.
 
 PART 2
 
-■
 
-■
+
+
 
 GENES AND GENOMES
 
@@ -31821,7 +31807,7 @@ G
 G
 
 To Summarize
-■
+
 
 A
 A
@@ -31829,7 +31815,7 @@ C
 C
 C
 
-■
+
 
 A
 A
@@ -31917,7 +31903,7 @@ the start codon helps the ribosome find the correct reading frame in the mRNA.
 
 U
 
-■
+
 
 Resume
 
@@ -31928,9 +31914,9 @@ amino acids. Transfer RNA molecules interpret the
 genetic code and bring specific amino acids to the A
 (acceptor) site in the ribosome.
 
-■
 
-■
+
+
 
 Transcription and translation are coupled in bacteria
 and archaea.
@@ -31974,20 +31960,20 @@ A site witrh EF-Tu-GTP
 3. Transpeptidation of Ala to
 peptide in P site with EF-Tu-GTP
 
-■ tmRNA and protein tagging. A. Structure of SsrA, a type of tmRNA in E. coli. The tRNA-like domain is at the top left, and the
+ tmRNA and protein tagging. A. Structure of SsrA, a type of tmRNA in E. coli. The tRNA-like domain is at the top left, and the
 mRNA-like portion encoding the proteolysis tag is at the bottom. The stop codon is highlighted orange. B. Mechanism of tmRNA tagging in E. coli.
 
 CHAPTER 8
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -32075,7 +32061,7 @@ activity (glutamine synthetase and isocitrate dehydrogenase) or alter tertiary s
 EF-Tu
 EF-Tu
 
-■
+
 
 5. Translocation of tmRNA
 ORF to tag the truncated protein
@@ -32085,11 +32071,11 @@ protein released
 
 298
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -32120,7 +32106,7 @@ protein
 
 FIGURE 8.26
 
-■ E. coli GroEL-GroES and DnaK (HSP70)
+ E. coli GroEL-GroES and DnaK (HSP70)
 structures. A. Three-dimensional reconstructions of GroEL-ATP,
 
 GroEL-GroES-ATP, and GroEL-GroES from cryo-EM. The first two
@@ -32200,7 +32186,7 @@ ClpY
 
 1.3 nm
 
-FIGURE 8.27 ■ Protein degradation machines. A. Bacterial ClpY ATPase and ClpQ protease
+FIGURE 8.27  Protein degradation machines. A. Bacterial ClpY ATPase and ClpQ protease
 (Haemophilus influenzae). (PDB code 1G3I) Two of the six subunits from each ring were removed
 to reveal the interior cavity. The active sites involved in peptide bond cleavage are indicated in
 pink. B. The 20S proteasome from the methanoarchaeon Methanosarcina thermophila. (PDB
@@ -32208,7 +32194,7 @@ code: 1G0U)
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -32234,7 +32220,7 @@ capping role for ClpQ. The accessory proteins recognize
 chaperones bind
 to nascent protein.
 
-■
+
 
 299
 
@@ -32268,7 +32254,7 @@ DnaK
 
 FIGURE 8.28
 
-■ E. coli protein folding versus
+ E. coli protein folding versus
 degradation triage pathways. The diagram depicts
 
 Nascent
@@ -32314,30 +32300,30 @@ Degraded protein
 
 300
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
 8.5
 
 To Summarize
-■
-■
 
-■
 
-■
-■
 
-■
 
-■
 
-■
+
+
+
+
+
+
+
+
 
 Protein modifications are made after translation.
 The N-terminal amino acid (N-formylmethionine, or
@@ -32430,7 +32416,7 @@ SRP and cotranslational export in E. coli. A ribosome “paralyzed”
 by an SRP does not resume translating protein until encountering FtsY in the membrane.
 Translation can then recommence. Some proteins designated for integral membrane location are inserted directly (top). Other integral membrane proteins and proteins destined
 for the periplasm are inserted or secreted via the Sec system (bottom).
-■
+
 
 Protein Export Out
 of the Cytoplasm
@@ -32471,11 +32457,11 @@ SecYEG will assist export to the periplasm or insertion into the membrane.
 Protein Export to the
 Cell Membrane
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
-■
+
 
 301
 
@@ -32531,7 +32517,7 @@ Periplasmic chaperones
 fold the protein.
 
 The pathway leading proteins to the
-inner (cell) membrane begins with an FIGURE 8.30 ■ The SecA-dependent general secretion pathway. This pathway
+inner (cell) membrane begins with an FIGURE 8.30  The SecA-dependent general secretion pathway. This pathway
 SRP. In E. coli, the SRP consists of a exports many proteins across the cell membranes of Gram-negative and Gram-positive
 54-kDa protein (Ffh) complexed with a bacteria.
 small RNA molecule (ffs). SRP binds to
@@ -32566,11 +32552,11 @@ ers it to SecA, a protein peripherally associated with the
 nutrients for transport into the cell and other proteins
 membrane-spanning SecYEG translocon (step 3). Keeping
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -32600,7 +32586,7 @@ HtrA
 
 FIGURE 8.31
 
-■ Location of the ExPortal of Streptococcus
+ Location of the ExPortal of Streptococcus
 pyogenes. HtrA was identified using immunofluorescence. Note
 
 that HtrA is located at the septum.
@@ -32650,7 +32636,7 @@ secretion systems and accessory factors at the cytofor transport by
 plasmic membrane in an anionic phospholipid
 TAT system.
 microdomain called the ExPortal. The ExPortal
-is located near the cell septum and appears linked FIGURE 8.32 ■ The twin arginine translocase (TAT). Model for the Tat
+is located near the cell septum and appears linked FIGURE 8.32  The twin arginine translocase (TAT). Model for the Tat
 to peptidoglycan synthesis (Fig. 8.31). Proteins protein translocase, which includes proteins TatA, TatB, and TatC.
 
 J. W. ROSCH, ET AL. 2005. MOL. MICROBIOL.
@@ -32660,7 +32646,7 @@ J. W. ROSCH, ET AL. 2005. MOL. MICROBIOL.
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -32677,7 +32663,7 @@ the cell membrane to the periplasm (Fig. 8.32). Whereas
 
 A.
 
-■
+
 
 303
 
@@ -32739,7 +32725,7 @@ Periplasm
 
 10 nm
 
-FIGURE 8.33 ■ Type I secretion: the HlyABC transporter. A. Hemolysin (HlyA) is transported directly from the cytoplasm into the
+FIGURE 8.33  Type I secretion: the HlyABC transporter. A. Hemolysin (HlyA) is transported directly from the cytoplasm into the
 extracellular medium through a multicomponent ABC transport system. The HlyB and D proteins are dedicated to HlyA transport. TolC is
 shared with other transport systems. Not drawn to scale. B. Molecular model of TolC. The beta barrel channel spans the outer membrane, and
 the alpha helix tunnel extends into the periplasm. Three monomers (red, yellow, and blue) make up the channel. Source: Part A modified from Moat
@@ -32747,11 +32733,11 @@ et al. 2002. Microbial Physiology, 4th ed. Wiley-Liss.
 
 304
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -32927,7 +32913,7 @@ Substrates differ as to the presence of N-terminal signal sequences.
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -32952,17 +32938,17 @@ in microbial pathogenesis and are more fully discussed in
 Chapter 25.
 
 To Summarize
-■
 
-■
 
-■
 
-■
 
-■
 
-■
+
+
+
+
+
+
 
 Special protein export mechanisms are used to move
 proteins to the inner membrane, the periplasm, the outer
@@ -32981,9 +32967,9 @@ to the SecYEG translocon.
 The twin arginine translocase (TAT) can move a subset of already folded proteins across the inner membrane
 and into the periplasm.
 
-■
 
-■
+
+
 
 305
 
@@ -33033,11 +33019,11 @@ potentially formed in all reading frames on RNA molecules transcribed from eithe
 
 306
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -33154,7 +33140,7 @@ FIGURE 8.34
 
 Predicting open
 reading frames (ORFs) in a DNA
-sequence. A. Bacterial ORFs. Each predict■
+sequence. A. Bacterial ORFs. Each predict
 
 ed ORF in this 1,600-bp sequence begins
 with AUG or GUG and ends with a translation
@@ -33179,7 +33165,7 @@ DNA molecules are called homologous sequences. During the annotation process, OR
 
 CHAPTER 8
 
-■
+
 
 TRANSCRIPTION, TRANSLATION, AND BIOINFORMATICS
 
@@ -33214,7 +33200,7 @@ D Cell division
 Protein-coding
 region: minus strand
 
-■
+
 
 307
 
@@ -33298,15 +33284,15 @@ FIGURE 8.35
 Circular display map of the Vibrio vulnificus genome (chromosome I; 3,377 kb). The color code indicates gene
 clustering by function. The two outer rings represent genes transcribed from different DNA strands. The innermost circle uses peaks to show
 GC content levels above (red) or below (green) the genome average.
-■
+
 
 308
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -33322,11 +33308,11 @@ Many computer programs and resources used to analyze
 DNA and protein sequences are freely available on the Web.
 Here are some useful programs. You can find the program
 by simply querying for it in any search engine.
-■
 
-■
 
-■
+
+
+
 
 BLAST (Basic Local Alignment Search Tool), by the
 National Center for Biotechnology Information (NCBI),
@@ -33345,7 +33331,7 @@ These genes are paralogous
 and likely have evolved
 different functions.
 
-■
+
 
 ExPASy (Expert Protein Analysis System) contains
 many molecular tools, including Swiss-Prot, the definitive index of known proteins.
@@ -33397,9 +33383,9 @@ Multiple Sequence Alignment, using various tools of the
 European Bioinformatics Institute (EBI), aligns sequences
 of genes identified as homologous by BLAST analysis.
 
-■
 
-■
+
+
 
 A
 
@@ -33431,7 +33417,7 @@ FIGURE 8.36
 Paralogous versus orthologous genes. An
 ancestral gene can undergo a duplication to evolve an orthologous
 or paralogous gene.
-■
+
 
 Note:
 
@@ -33449,11 +33435,11 @@ and produces a major energy source, butyrate, used by epithelial cells lining th
 
 310
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -33585,7 +33571,7 @@ Microscillia sp. PRE1
 B. plebeius (conserved with gut Bacteroidetes)
 B. plebeius (conserved with marine Bacteroidetes)
 
-■ Origin of Bacteroides plebeius CAZyme gene. A. Percent homology between Bacteroides plebeius gene sequences
+ Origin of Bacteroides plebeius CAZyme gene. A. Percent homology between Bacteroides plebeius gene sequences
 and genes horizontally transferred from Zobellia galactanivorans and Microscilla. The B. plebeius porphyranase CAZyme is gene 1689.
 B. Gurvan Michel, Mirjam Czjzek, and Jan-Hendrik Hehemann. CMB = unannotated gene; GH = glycoside hydrolase family. Source: Hehemann, et al.
 
@@ -33597,11 +33583,11 @@ B. Gurvan Michel, Mirjam Czjzek, and Jan-Hendrik Hehemann. CMB = unannotated gen
 
 CHAPTER 9
 
-■
+
 
 GENE TRANSFER, MUTATIONS, AND GENOME EVOLUTION
 
-■
+
 
 315
 
@@ -33684,11 +33670,11 @@ antibiotic resistance.
 
 316
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -33787,7 +33773,7 @@ the generational passing of genes from parent to offspring
 
 CHAPTER 9
 
-■
+
 
 GENE TRANSFER, MUTATIONS, AND GENOME EVOLUTION
 
@@ -33927,21 +33913,21 @@ secreted.
 
 CF
 
-■
+
 
 4. SigH directs transcription of
 transformasome components.
 
-■ Transformation in Streptococcus. The process of transformation in this organism begins with the synthesis of a signaling
+ Transformation in Streptococcus. The process of transformation in this organism begins with the synthesis of a signaling
 molecule (competence factor, CF) and concludes with the import of a single-stranded DNA strand through a transformasome complex.
 
 318
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -34024,7 +34010,7 @@ a special pilus protruding from a donor cell (Fig. 9.2).
 The pilus can also dramatically contribute to biofilm
 formation (eTopic 9.1). Conjugation occurs in many species of bacteria and archaea, even in hyperthermophiles
 
-■
+
 
 GENE TRANSFER, MUTATIONS, AND GENOME EVOLUTION
 
@@ -34032,7 +34018,7 @@ GENE TRANSFER, MUTATIONS, AND GENOME EVOLUTION
 
 FIGURE 9.2
 
-■
+
 
 DENNIS KUNKEL MICROSCOPY, INC.
 
@@ -34060,7 +34046,7 @@ resistance. A well-studied, transferable plasmid in E. coli is
 called fertility factor, or F factor (Fig. 9.3 ). F factor
 can transfer itself to another recipient cell, but if it integrates into the chromosome of its host, it can also transfer host genes. To carry out plasmid replication and DNA
 
-■
+
 
 319
 
@@ -34111,11 +34097,11 @@ plasmid.
 
 320
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -34188,7 +34174,7 @@ transferred strand
 circularizes and
 replicates.
 
-■
+
 
 The conjugation process.
 
@@ -34240,7 +34226,7 @@ integrated F factor is actually the last bit of DNA transferred during Hfr conju
 
 CHAPTER 9
 
-■
+
 
 oriT
 
@@ -34277,9 +34263,9 @@ oriV
 
 B
 
-■
 
-FIGURE 9.4 ■ Hfr formation. Insertion
+
+FIGURE 9.4  Hfr formation. Insertion
 element 3 (IS3) (Section 9.5) serves as a
 region of sequence homology between
 an F factor and the host chromosome.
@@ -34360,11 +34346,11 @@ plasmid. As a result, when the transferable plasmid begins
 
 322
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -34394,7 +34380,7 @@ A
 
 FIGURE 9.5
 
-■
+
 
 Deletion
 
@@ -34462,7 +34448,7 @@ those of their host cells, but could phages also pluck host
 
 GENE TRANSFER, MUTATIONS, AND GENOME EVOLUTION
 
-■
+
 
 ROBERT CALENTINE/VISUALS UNLIMITED
 
@@ -34479,10 +34465,10 @@ Plant cell
 
 FIGURE 9.6
 
-■ An example of gene transfer between
+ An example of gene transfer between
 bacteria and plants. A. Crown gall disease tumor caused by the
 
-■
+
 
 323
 
@@ -34543,11 +34529,11 @@ why not.
 
 324
 
-■
+
 
 PART 2
 
-■
+
 
 GENES AND GENOMES
 
@@ -34588,7 +34574,7 @@ crossover events
 exchange host DNA
 for donor DNA.
 
-■ Generalized transduction.
+ Generalized transduction.
 Generalized
 transduction by phage vectors can move any segment of donor
 chromosome to a recipient cell. The number of genes transferred
