@@ -1,0 +1,10 @@
+Meneralfformula,11,Helvetica,b,259,17,345,27,24,0,0,0; 
+CIavag,11,Helvetica,b,403,17,451,30,30,1,1,1; 
+Silicati,11,Helvetica,b,516,17,555,27,40,2,1,1; 
+Smecturs,10,Helvetica,r,560,17,607,27,53,3,1,1; 
+Ezampi,11,TimesCentury,r,701,18,744,29,28,4,2,2; 
+Palauwm,9,Helvetica,r,275,567,318,575,28,11,4,7; 
+Nni,8,Helvetica,b,416,76,436,84,36,17,7,11; 
+ffTand,10,Helvetica,r,396,292,432,300,37,20,9,13; 
+learn,9,Helvetica,r,302,383,329,391,152,22,10,14; 
+Plasjoclas,10,Helvetica,r,290,616,335,627,23,29,14,19; 

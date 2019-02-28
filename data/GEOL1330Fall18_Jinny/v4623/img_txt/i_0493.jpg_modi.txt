@@ -1,0 +1,8 @@
+Muscovite,13,Helvetica,r,190,137,251,149,106,8,3,8; 
+Quartz,12,Helvetica,r,224,182,262,193,196,9,4,9; 
+Potassium,13,Helvetica,r,209,277,270,288,194,10,5,10; 
+feldspar,13,Helvetica,r,216,291,264,304,203,11,5,11; 
+Plagioclase,13,Helvetica,r,483,220,553,234,88,12,6,12; 
+feldspar,13,Helvetica,r,492,235,540,248,152,13,6,13; 
+Amphibole,13,Helvetica,r,468,372,531,385,171,15,8,15; 
+Olivine,13,Helvetica,r,789,359,829,371,85,17,10,17; 

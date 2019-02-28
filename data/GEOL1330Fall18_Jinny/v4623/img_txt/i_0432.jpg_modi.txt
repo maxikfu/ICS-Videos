@@ -1,0 +1,8 @@
+ENDESC,12,Helvetica,r,54,20,112,32,59,1,0,0; 
+o60,12,Helvetica,r,105,264,138,275,39,6,3,5; 
+Potassium,13,Times,r,209,276,270,288,209,18,7,16; 
+feldspar,12,Helvetica,r,216,291,264,304,214,19,7,17; 
+Plagioclase,12,Helvetica,r,483,220,553,234,70,20,8,18; 
+feldspar,12,Helvetica,r,492,234,540,248,194,21,8,19; 
+Amphibole,12,Helvetica,r,468,372,531,385,207,22,9,20; 
+Olivine,12,Helvetica,r,789,359,829,370,91,23,10,21; 

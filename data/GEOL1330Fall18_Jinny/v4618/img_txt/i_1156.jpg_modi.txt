@@ -1,0 +1,16 @@
+Phaneritic,13,Helvetica,r,173,643,236,655,71,1,0,0; 
+coarsegrained,13,Helvetica,r,242,643,347,657,103,2,0,0; 
+texture,13,Helvetica,r,352,645,395,655,193,3,0,0; 
+Composed,13,Helvetica,r,155,660,219,674,207,4,0,1; 
+of,13,Helvetica,r,225,660,236,672,197,5,0,1; 
+mineral,13,Helvetica,r,241,660,287,672,204,6,0,1; 
+grains,13,Helvetica,r,293,660,332,675,209,7,0,1; 
+that,13,Helvetica,r,337,661,360,672,208,8,0,1; 
+are,13,Helvetica,r,366,663,385,672,195,9,0,1; 
+large,13,Helvetica,r,155,678,186,692,206,10,0,2; 
+enough,13,Helvetica,r,192,678,237,692,210,11,0,2; 
+to,13,Helvetica,r,242,679,253,689,210,12,0,2; 
+be,13,Helvetica,r,259,678,273,689,209,13,0,2; 
+identified,13,Helvetica,r,279,678,336,689,199,14,0,2; 
+without,13,Helvetica,r,343,678,388,689,207,15,0,2; 
+microscope,13,Helvetica,r,155,695,232,709,179,17,0,3; 

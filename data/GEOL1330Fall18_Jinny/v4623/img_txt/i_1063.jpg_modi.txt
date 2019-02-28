@@ -1,0 +1,12 @@
+Top,11,Helvetica,r,41,9,61,21,210,2,1,1; 
+Hat,11,Helvetica,r,66,9,83,18,210,3,1,1; 
+Secure,11,Helvetica,r,123,41,163,51,195,6,1,2; 
+httpsjapptophatcorne969008,11,Helvetica,r,183,41,388,54,24,7,1,2; 
+ENDESC,10,Times,r,54,86,111,98,54,8,2,3; 
+xJ,16,Helvetica,r,992,5,1023,24,32,10,3,4; 
+IGNEOUS,13,Helvetica,b,315,103,400,115,76,12,5,6; 
+ROCK,13,Helvetica,b,413,103,461,115,206,13,5,6; 
+CLASSIFICATION,13,Helvetica,b,473,103,633,115,168,14,5,6; 
+CHART,13,Helvetica,b,645,103,707,115,209,15,5,6; 
+MINERAL,10,TimesCentury,r,505,124,549,133,151,16,5,7; 
+COMPOSITION,10,TimesCentury,r,554,124,623,133,163,17,5,7; 

@@ -1,0 +1,9 @@
+Porphyritic,16,Helvetica,r,102,515,184,532,83,1,0,0; 
+texture,16,Helvetica,r,191,516,242,529,223,2,0,0; 
+Composed,16,Helvetica,r,80,536,158,553,223,3,0,1; 
+of,16,Helvetica,r,165,536,178,550,223,4,0,1; 
+two,16,Helvetica,r,184,537,210,550,223,5,0,1; 
+distinctly,16,Helvetica,r,217,536,287,553,227,6,0,1; 
+different,16,Helvetica,r,293,536,356,550,223,7,0,1; 
+crystal,16,Helvetica,r,80,557,130,574,228,8,0,2; 
+sizes,16,Helvetica,r,137,556,180,571,195,9,0,2; 

@@ -1,0 +1,7 @@
+Potassium,12,Times,r,209,276,270,288,209,12,4,12; 
+feldspar,12,Helvetica,r,216,291,264,304,214,13,4,13; 
+Plagioclase,12,Helvetica,r,483,220,553,234,64,14,5,14; 
+feldspar,12,Helvetica,r,492,234,540,248,199,15,5,15; 
+Pyloxene,12,Helvetica,r,668,309,721,322,19,16,6,16; 
+Amphibole,12,Helvetica,r,468,372,531,385,204,18,7,18; 
+Olivine,12,Helvetica,r,789,359,829,370,100,20,7,18; 

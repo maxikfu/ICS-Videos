@@ -1,0 +1,12 @@
+Mt,28,HelveticaCentury,r,12,13,47,38,209,0,0,0; 
+Rushmore,28,HelveticaCentury,r,59,13,213,38,207,1,0,0; 
+was,28,HelveticaCentury,r,224,20,283,38,214,2,0,0; 
+once,28,HelveticaCentury,r,295,20,366,38,212,3,0,0; 
+molten,28,HelveticaCentury,r,408,13,506,38,210,5,0,0; 
+mass,28,HelveticaCentury,r,520,20,597,38,213,6,0,0; 
+found,28,HelveticaCentury,r,609,13,691,38,213,7,0,0; 
+deep,28,HelveticaCentury,r,704,13,778,44,213,8,0,0; 
+within,28,HelveticaCentury,r,789,13,874,38,205,9,0,0; 
+Earth,28,HelveticaCentury,r,888,13,964,38,194,10,0,0; 
+if,4,Times,r,134,467,143,471,175,13,3,3; 
+If,4,Helvetica,b,840,535,881,555,38,19,6,8; 

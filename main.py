@@ -1,6 +1,7 @@
 import GFQG
 import ocr2dic
 import spacy
+import numpy as np
 from spacy import displacy
 import pprint
 import re
@@ -46,15 +47,15 @@ if __name__ == '__main__':
     #     f.write(displacy.render(doc,style='dep'))
     # print(doc[0].is_alpha)
     # # exit()
-    dict_ocr = ocr2dic.ocr2dict('data/v4588/img_txt/Modi_all_4588.csv', 'data/v4588/v4588_segments.csv')
-    # for segment, frames in dict_ocr.items():
-    #     for frame, region_ids in frames.items():
-    #         for region_id, words in region_ids.items():
-    #             pass
+    video_number = 4623
+    dict_ocr = ocr2dic.ocr2dict('data/GEOL1330Fall18_Jinny/v'+str(video_number)+'/img_txt/Modi_all_'
+                                +str(video_number)+'.csv', 'data/GEOL1330Fall18_Jinny/v'
+                                +str(video_number)+'/v'+str(video_number)+'_segments.csv')
+    folder = 'data/GEOL1330Fall18_Jinny/v'+str(video_number)+'/'
     already_selected = set()
-    book_dict, total_w_count = texttiling_file_read('data/v4588/tt_Earth.txt')
+    book_dict, total_w_count = texttiling_file_read('data/GEOL1330Fall18_Jinny/v4588/tt_Earth.txt')
     for seg in dict_ocr:
-        print(seg)
+        v_seg = seg
         segment = dict_ocr[seg]
         segment_text = []
         for frame, region_id in segment.items():
@@ -78,10 +79,14 @@ if __name__ == '__main__':
                 seg_number_list.append(seg)
         # at this moment we will choose 3 max score, can adapt it later
         scores = [(x, y) for y, x in sorted(zip(seg_score_list, seg_number_list), reverse=True)]
-        max_score_seg = [scores[0][0], scores[1][0], scores[2][0]]
-        segment_text = nlp(book_dict[max_score_seg[0]].text + book_dict[max_score_seg[1]].text + \
-                    book_dict[max_score_seg[2]].text)
-
+        if len(scores) >= 3:
+            max_score_seg = [scores[0][0], scores[1][0], scores[2][0]]
+            segment_text = nlp(book_dict[max_score_seg[0]].text + book_dict[max_score_seg[1]].text + book_dict[max_score_seg[2]].text)
+            already_selected = GFQG.rawtext2question(segment_text, video_words, already_selected, total_w_count,
+                                                     book_dict, folder, v_seg)
+        else:
+            print(scores)
+            print(seg)
         # for slide, clusters in dict_ocr.items():
         #     list_of_words = list_of_words + [clusters[s][0][0] for s in clusters]
-        already_selected = GFQG.rawtext2question(segment_text, video_words, already_selected, total_w_count, book_dict)
+

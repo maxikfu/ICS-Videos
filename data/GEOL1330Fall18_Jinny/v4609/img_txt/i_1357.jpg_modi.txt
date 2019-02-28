@@ -1,0 +1,14 @@
+Sulfates,57,HelveticaCentury,r,46,67,295,120,207,0,0,0; 
+Sulfur,34,HelveticaCentury,r,49,233,159,265,210,2,0,1; 
+is,34,HelveticaCentury,r,172,234,198,265,204,3,0,1; 
+present,34,HelveticaCentury,r,212,238,353,272,210,4,0,1; 
+as,34,HelveticaCentury,r,366,243,403,265,211,5,0,1; 
+sulfate,34,HelveticaCentury,r,11,294,136,325,211,6,0,2; 
+ion,34,HelveticaCentury,r,151,294,206,325,209,7,0,2; 
+Important,34,HelveticaCentury,r,51,468,239,505,203,10,0,3; 
+sulfates,34,HelveticaCentury,r,252,466,408,497,202,11,0,3; 
+Anhydrite,29,HelveticaCentury,r,93,524,255,558,133,13,0,4; 
+CaSO4,29,HelveticaCentury,r,268,523,389,561,33,14,0,4; 
+Gypsum,29,HelveticaCentury,r,94,578,225,611,210,16,0,5; 
+CaSO4,29,HelveticaCentury,r,239,576,348,613,33,17,0,5; 
+2H20,29,HelveticaCentury,r,374,576,468,614,32,18,0,5; 

@@ -1,0 +1,7 @@
+CD,26,HelveticaCentury,r,612,256,641,279,203,4,2,3; 
+JA,17,Helvetica,i,612,297,654,326,29,5,2,4; 
+riD,20,HelveticaCentury,r,612,359,641,378,204,6,2,5; 
+ci,20,HelveticaCentury,r,612,425,643,442,83,9,2,8; 
+Cl,20,HelveticaCentury,r,612,446,641,464,34,10,2,9; 
+Th,6,Helvetica,i,262,582,276,588,33,17,5,15; 
+qJ,10,HelveticaCentury,r,704,702,725,714,27,26,8,21; 

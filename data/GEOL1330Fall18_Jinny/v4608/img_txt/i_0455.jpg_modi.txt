@@ -1,0 +1,12 @@
+Other,46,HelveticaCentury,b,323,24,467,67,212,0,0,0; 
+Properties,46,HelveticaCentury,b,488,26,743,77,212,1,0,0; 
+Density,39,HelveticaCentury,b,108,119,273,161,210,2,0,1; 
+Specific,39,HelveticaCentury,b,295,117,485,161,209,3,0,1; 
+Gravity,39,HelveticaCentury,b,106,172,286,216,204,4,0,2; 
+Luster,39,HelveticaCentury,b,108,228,258,269,201,5,0,3; 
+Fracture,39,HelveticaCentury,b,282,228,465,262,212,6,0,3; 
+Magnetism,39,HelveticaCentury,b,108,282,347,325,203,7,0,4; 
+Taste,39,HelveticaCentury,b,103,337,225,371,207,8,0,5; 
+Reaction,39,HelveticaCentury,b,107,392,295,425,212,9,0,6; 
+with,39,HelveticaCentury,b,318,390,408,425,211,10,0,6; 
+acid,39,HelveticaCentury,b,430,390,515,425,213,11,0,6; 

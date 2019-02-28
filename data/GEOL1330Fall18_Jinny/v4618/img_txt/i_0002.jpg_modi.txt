@@ -1,0 +1,8 @@
+Eli,37,HelveticaCentury,r,15,7,51,53,50,0,0,0; 
+Recordings,10,Helvetica,b,5,60,63,72,202,1,0,1; 
+Firefox,10,Helvetica,r,177,60,211,69,85,3,0,1; 
+Shortcut,10,Helvetica,r,16,75,60,84,183,4,0,2; 
+Microsoft,10,Helvetica,b,13,164,63,173,180,7,0,4; 
+PowerPoi1,10,Helvetica,b,9,179,67,188,36,8,0,5; 
+1007AM,10,Helvetica,b,939,735,988,744,27,15,6,12; 
+iiI,15,Helvetica,r,861,743,872,753,31,17,7,13; 

@@ -1,0 +1,8 @@
+pyroxene,25,HelveticaCentury,b,636,331,785,359,189,0,0,0; 
+Hornblende,25,HelveticaCentury,b,510,713,677,735,81,3,2,2; 
+amphibole,25,HelveticaCentury,b,688,712,856,741,206,4,2,2; 
+Single,25,HelveticaCentury,r,103,272,185,300,192,7,4,5; 
+chain,25,HelveticaCentury,r,196,272,266,295,206,8,4,5; 
+Augite,25,HelveticaCentury,b,532,331,625,359,156,10,5,6; 
+Double,25,HelveticaCentury,r,8,686,103,709,210,12,7,8; 
+chain,25,HelveticaCentury,r,113,686,184,709,202,13,7,8; 

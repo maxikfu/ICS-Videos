@@ -1,0 +1,7 @@
+Where,46,HelveticaCentury,b,145,30,312,73,207,0,0,0; 
+do,46,HelveticaCentury,b,333,30,392,73,212,1,0,0; 
+trot,16,Helvetica,b,349,616,375,631,164,2,1,1; 
+ou,46,HelveticaCentury,b,440,43,499,73,177,7,5,6; 
+fInd,48,Times,b,519,30,612,81,70,8,5,6; 
+minerals,46,HelveticaCentury,b,629,30,876,82,101,9,5,6; 
+rP,12,Helvetica,b,620,119,636,135,37,10,6,7; 

@@ -1,0 +1,13 @@
+Calcite,42,HelveticaCentury,r,82,51,231,90,207,0,0,0; 
+exhibits,42,HelveticaCentury,r,250,50,425,90,207,1,0,0; 
+double,42,HelveticaCentury,r,443,50,598,90,212,2,0,0; 
+refraction,42,HelveticaCentury,r,618,50,838,90,212,3,0,0; 
+and,42,HelveticaCentury,r,857,51,938,90,213,4,0,0; 
+reacts,42,HelveticaCentury,r,268,124,402,158,213,5,0,1; 
+with,42,HelveticaCentury,r,419,119,516,158,214,6,0,1; 
+dilute,42,HelveticaCentury,r,536,119,663,158,213,7,0,1; 
+HCI,42,HelveticaCentury,r,683,119,753,158,29,8,0,1; 
+Refracti,19,Times,r,58,616,132,634,96,9,1,2; 
+uble,19,Times,r,392,614,442,631,24,11,1,2; 
+IhI,15,Helvetica,b,715,568,747,592,29,18,3,5; 
+Ar,10,HelveticaCentury,r,696,462,731,496,21,23,5,9; 

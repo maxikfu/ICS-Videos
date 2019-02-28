@@ -1,0 +1,16 @@
+ENDESC,10,TimesCentury,r,54,20,111,32,41,1,0,0; 
+Phaneritic,13,Helvetica,r,173,643,236,655,71,3,1,1; 
+coarsegrained,13,Helvetica,r,242,643,347,657,103,4,1,1; 
+texture,13,Helvetica,r,352,645,395,655,193,5,1,1; 
+Composed,13,Helvetica,r,155,660,219,674,207,6,1,2; 
+of,13,Helvetica,r,225,660,236,672,197,7,1,2; 
+mineral,13,Helvetica,r,241,660,287,672,204,8,1,2; 
+grains,13,Helvetica,r,293,660,332,675,209,9,1,2; 
+that,13,Helvetica,r,337,661,360,672,208,10,1,2; 
+are,13,Helvetica,r,366,663,385,672,195,11,1,2; 
+large,13,Helvetica,r,155,678,186,692,206,12,1,3; 
+enough,13,Helvetica,r,192,678,237,692,210,13,1,3; 
+to,13,Helvetica,r,242,679,253,689,210,14,1,3; 
+be,13,Helvetica,r,259,678,273,689,209,15,1,3; 
+identified,13,Helvetica,r,279,678,336,689,199,16,1,3; 
+without,13,Helvetica,r,343,678,388,689,207,17,1,3; 

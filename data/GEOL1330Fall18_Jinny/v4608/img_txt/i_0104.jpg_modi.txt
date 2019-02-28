@@ -1,0 +1,11 @@
+Rock,50,HelveticaCentury,b,260,58,385,105,213,0,0,0; 
+versus,50,HelveticaCentury,b,403,72,577,105,212,1,0,0; 
+Mineral,50,HelveticaCentury,b,601,58,806,105,211,2,0,0; 
+Granite,18,Helvetica,b,511,217,572,233,199,3,1,1; 
+Rock,15,Times,r,518,237,566,252,196,4,1,2; 
+Quartz,14,Helvetica,b,227,687,271,700,195,7,4,5; 
+Hornhlende,14,Helvetica,b,471,687,551,699,24,8,4,5; 
+Feldspar,14,Helvetica,b,744,687,804,703,202,9,4,5; 
+Mineral,14,Helvetica,b,220,704,278,716,154,10,4,6; 
+Mineral,13,Helvetica,r,481,704,540,717,143,11,4,6; 
+Mineral,13,Helvetica,r,745,704,803,716,39,12,4,6; 

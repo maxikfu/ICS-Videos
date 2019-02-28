@@ -1,0 +1,9 @@
+Cube,26,HelveticaCentury,b,62,596,137,621,211,1,0,0; 
+fluorite,26,HelveticaCentury,b,148,597,260,627,207,2,0,0; 
+Halides,56,HelveticaCentury,b,412,83,631,136,207,3,1,1; 
+lntergrown,18,Helvetica,b,568,608,668,629,48,8,4,5; 
+crystals,18,Helvetica,b,676,609,750,629,196,9,4,5; 
+of,18,Helvetica,b,757,609,775,625,210,10,4,5; 
+the,18,Helvetica,b,781,609,811,625,210,11,4,5; 
+mineral,18,Helvetica,b,819,609,888,625,206,12,4,5; 
+halite,18,Helvetica,b,896,609,951,625,202,13,4,5; 

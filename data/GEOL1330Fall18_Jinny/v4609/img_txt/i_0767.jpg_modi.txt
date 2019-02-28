@@ -1,0 +1,16 @@
+silicate,50,HelveticaCentury,r,550,22,736,69,198,3,1,2; 
+Double,22,HelveticaCentury,b,827,64,899,83,210,5,1,3; 
+chain,22,HelveticaCentury,b,909,63,966,83,185,6,1,3; 
+Double,50,HelveticaCentury,r,174,22,364,69,210,8,2,5; 
+chain,50,HelveticaCentury,r,386,22,527,69,211,9,2,5; 
+Amphibole,43,HelveticaCentury,r,10,110,277,159,208,10,2,6; 
+Generally,30,HelveticaCentury,r,300,123,459,156,211,11,2,6; 
+da,30,HelveticaCentury,r,474,123,511,150,204,12,2,6; 
+cleavages,30,HelveticaCentury,r,45,167,209,200,211,14,3,7; 
+at,30,HelveticaCentury,r,224,169,256,194,212,15,3,7; 
+and,30,HelveticaCentury,r,336,167,394,194,212,17,3,7; 
+rk,30,HelveticaCentury,r,517,123,558,155,158,18,4,8; 
+Horn,48,HelveticaCentury,r,19,640,113,683,212,20,6,10; 
+blende,48,HelveticaCentury,r,121,640,256,683,85,21,6,10; 
+Top,22,HelveticaCentury,b,834,565,873,590,205,23,7,12; 
+view,22,HelveticaCentury,r,882,565,929,585,206,24,7,12; 

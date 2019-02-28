@@ -1,0 +1,16 @@
+END,11,Helvetica,b,54,21,78,30,209,1,0,0; 
+ESC,11,Helvetica,b,82,20,111,32,57,2,0,0; 
+IGNEOUS,15,Helvetica,b,284,43,382,57,161,3,1,1; 
+ROCK,15,Helvetica,b,397,43,453,57,194,4,1,1; 
+CLASSIFICATION,15,Helvetica,b,467,43,652,57,208,5,1,1; 
+CHART,15,Helvetica,b,667,43,738,56,210,6,1,1; 
+Pbanatic,10,Times,r,307,230,353,238,28,7,2,2; 
+ApbaflUc,9,Times,r,309,310,351,320,24,8,2,3; 
+Caoi,9,Times,r,318,686,339,694,36,10,3,4; 
+MINERAL,11,Helvetica,b,504,67,555,78,165,11,4,5; 
+COMPOSITION,11,Helvetica,b,560,67,640,78,196,12,4,5; 
+Filsic,10,Times,r,408,91,437,101,29,13,4,6; 
+Uftramalc,10,Times,r,691,91,741,101,26,16,4,6; 
+P1,9,Times,r,402,587,429,594,23,31,8,16; 
+Lii,9,Times,r,340,550,351,558,23,33,9,17; 
+Pyroctasic,9,Times,r,305,632,355,642,28,35,9,19; 

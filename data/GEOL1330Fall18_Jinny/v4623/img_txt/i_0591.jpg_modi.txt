@@ -1,0 +1,17 @@
+How,51,HelveticaCentury,i,149,67,281,113,206,0,0,0; 
+to,51,HelveticaCentury,i,300,69,353,113,208,1,0,0; 
+Generate,51,HelveticaCentury,i,377,67,642,113,201,2,0,0; 
+Magma,51,HelveticaCentury,i,663,67,875,125,212,3,0,0; 
+Heat,42,HelveticaCentury,i,67,196,179,234,210,4,0,1; 
+rocks,42,HelveticaCentury,i,192,196,326,234,210,5,0,1; 
+above,42,HelveticaCentury,i,357,196,502,234,210,6,0,1; 
+their,42,HelveticaCentury,i,520,196,632,234,210,7,0,1; 
+melting,42,HelveticaCentury,i,644,196,825,244,210,8,0,1; 
+point,42,HelveticaCentury,i,838,196,966,244,210,9,0,1; 
+Lower,42,HelveticaCentury,i,67,344,219,381,210,11,0,2; 
+melting,42,HelveticaCentury,i,232,344,412,392,204,12,0,2; 
+point,42,HelveticaCentury,i,426,344,553,392,210,13,0,2; 
+by,42,HelveticaCentury,i,582,344,655,392,205,14,0,2; 
+decreasing,42,HelveticaCentury,i,125,417,393,463,180,15,0,3; 
+press,42,HelveticaCentury,i,406,427,542,463,191,16,0,3; 
+ar,42,HelveticaCentury,i,546,427,614,455,48,17,0,3; 

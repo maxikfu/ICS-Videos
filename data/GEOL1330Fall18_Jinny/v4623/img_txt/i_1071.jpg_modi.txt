@@ -1,0 +1,13 @@
+Top,11,Helvetica,r,41,9,61,21,206,2,1,1; 
+Hat,11,Helvetica,r,66,9,83,18,198,3,1,1; 
+Secure,11,Helvetica,r,123,41,163,51,197,6,1,2; 
+ENDESC,11,Helvetica,r,54,86,111,98,53,8,1,3; 
+IGNEOUS,13,Helvetica,b,315,103,400,115,98,10,2,4; 
+ROCK,13,Helvetica,b,413,103,461,115,196,11,2,4; 
+CLASSIFICATION,13,Helvetica,b,473,103,633,115,207,12,2,4; 
+CHART,13,Helvetica,b,645,103,707,115,210,13,2,4; 
+MINERAL,10,Times,r,505,124,549,133,188,14,2,5; 
+COMPOSITiON,10,Helvetica,r,553,124,623,133,54,15,2,5; 
+Auneir,8,Helvetica,r,337,333,373,342,30,25,4,11; 
+zoom1,11,Helvetica,r,280,690,313,699,102,27,6,13; 
+AM,10,Times,r,969,735,988,744,210,39,12,21; 

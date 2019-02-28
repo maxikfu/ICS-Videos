@@ -1,0 +1,6 @@
+Fibrous,13,HelveticaCentury,r,157,394,200,406,180,1,0,0; 
+Crystal,46,Century,r,407,21,572,75,207,2,1,1; 
+Habit,46,Century,r,596,21,726,64,203,3,1,1; 
+Bladed,13,Helvetica,b,568,394,608,406,86,8,4,5; 
+Cubic,13,Helvetica,b,567,745,601,757,207,10,5,6; 
+crystals,13,Helvetica,b,607,745,654,760,188,11,5,6; 

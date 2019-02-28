@@ -1,0 +1,10 @@
+How,51,HelveticaCentury,i,149,67,281,113,206,0,0,0; 
+to,51,HelveticaCentury,i,300,69,353,113,209,1,0,0; 
+Generate,51,HelveticaCentury,i,377,67,642,113,201,2,0,0; 
+Magma,51,HelveticaCentury,i,663,67,875,125,212,3,0,0; 
+Heat,42,HelveticaCentury,i,67,196,179,234,210,4,0,1; 
+rocks,42,HelveticaCentury,i,192,196,326,234,209,5,0,1; 
+above,42,HelveticaCentury,i,357,196,502,234,210,6,0,1; 
+their,42,HelveticaCentury,i,520,196,632,234,210,7,0,1; 
+melting,42,HelveticaCentury,i,644,196,825,244,210,8,0,1; 
+point,42,HelveticaCentury,i,838,196,966,244,208,9,0,1; 

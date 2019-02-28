@@ -1,0 +1,8 @@
+TopHat,11,Helvetica,r,41,9,83,21,77,0,0,0; 
+Secure,11,Helvetica,r,123,41,163,51,227,5,0,1; 
+httpsapptophatcome969008,11,Helvetica,r,183,41,388,54,20,6,0,1; 
+LflI,40,HelveticaCentury,r,117,728,184,766,199,9,0,2; 
+lb,40,HelveticaCentury,r,240,728,266,766,216,11,0,2; 
+1h07,11,Helvetica,r,939,735,966,744,48,12,1,3; 
+AM,11,Helvetica,r,969,735,988,744,224,13,1,3; 
+iil,9,Helvetica,b,858,743,872,753,19,14,1,4; 

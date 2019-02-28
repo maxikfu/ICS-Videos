@@ -16,7 +16,7 @@ def set_custom_boundaries(doc):
     return doc
 
 
-nlp.add_pipe(set_custom_boundaries, before='parser')
+# nlp.add_pipe(set_custom_boundaries, before='parser')
 
 
 
@@ -119,13 +119,14 @@ def sentence_selection(data, important_words, al_sel):
     selection = [(y,x,z) for y, x, z in sorted(zip(sent_scores, good_sent, details), reverse=True)][:3]
     selection_out = [x for _, x in sorted(zip(sent_scores, good_sent), reverse=True)][:1]
     al_sel.add(selection_out[0].text)
-    for i in selection:
-        print('Overall score', i[0])
-        print('Sentence', i[1])
-        print('Features', i[2])
-        print('Common words', [j for j in set([str(i.lemma_).lower() for i in i[1] if str(i.lemma_).lower() in important_words])])
+    max_score = selection[0][0]
+    # for i in selection:
+    #     print('Overall score', i[0])
+    #     print('Sentence', i[1])
+    #     print('Features', i[2])
+    #     print('Common words', [j for j in set([str(i.lemma_).lower() for i in i[1] if str(i.lemma_).lower() in important_words])])
     # pprint.pprint(al_sel)
-    return selection_out, important_words, al_sel
+    return selection_out, important_words, al_sel, max_score
 
 
 def token_dep_height(tokens):
@@ -219,6 +220,7 @@ def questions_formation(sentences, word_count, topic_words):
     total_number_words = 0
     for k,v in word_count.items():
         total_number_words += v
+    best_score = 0
     for span in sentences:
         # better question will be creating by deleting Proper Noun I think
         # because most of the time it is abbreviation
@@ -258,18 +260,20 @@ def questions_formation(sentences, word_count, topic_words):
             # At this moment we choose max score chunk only, even though we can choose couple chunks with score > 100
             best_noun_ch = [x for _, x in sorted(zip(score, all_noun_chunks), reverse=True)][:1]
             best_noun_ch_debug = [(y,x,z) for y, x, z in sorted(zip(score, all_noun_chunks, details), reverse=True)][:3]
+            best_score = best_noun_ch_debug[0][0]
             # print(span)
             # print([(i,word_count[i]) for i in set([str(i.lemma_).lower() for i in span if str(i.lemma_).lower() in topic_words])])
-            for c in best_noun_ch_debug:
-                print('Score:', c[0], 'Chunk:', c[1], 'Feature:', c[2])
+            # for c in best_noun_ch_debug:
+            #     print('Score:', c[0], 'Chunk:', c[1], 'Feature:', c[2])
             chunk_span_dict[best_noun_ch[0]] = [span]
             # chunk_span_dict=0
-    return chunk_span_dict
+    return chunk_span_dict, best_score
 
 
-def rawtext2question(book_text, video_lecture_words, already_sel, word_dict, full_book):
+def rawtext2question(book_text, video_lecture_words, already_sel, word_dict, full_book, work_folder, video_seg):
     """
     Main function what generates gap-fill questions from text book
+    :param work_folder:
     :param full_book:
     :param word_dict:
     :param already_sel:
@@ -278,26 +282,39 @@ def rawtext2question(book_text, video_lecture_words, already_sel, word_dict, ful
     :return: at this moment nothing. Prints to stdout questions with multiple answers
     """
     data = book_pre_processing(book_text)
-    selected_sent, topic_words, already_sel = sentence_selection(data, video_lecture_words, already_sel)
-    questions = questions_formation(selected_sent, word_dict, topic_words)
+    selected_sent, topic_words, already_sel, sent_score = sentence_selection(data, video_lecture_words, already_sel)
+    questions, key_score = questions_formation(selected_sent, word_dict, topic_words)
     for key_chunk, value in questions.items():
-        for q in value:
-            if not key_chunk.text.isupper():
-                distractor_list = distractor_selection(q, key_chunk, full_book)
-                distractor_list.append(str(key_chunk).lower())
+        q = value[0]
+        if not key_chunk.text.isupper():
+            distractor_list = distractor_selection(q, key_chunk, full_book)
+            distractor_list.append(str(key_chunk).lower())
+        else:
+            distractor_list = ["".join(random.choices(string.ascii_uppercase, k=len(key_chunk))) for _ in range(3)]
+            distractor_list.append(key_chunk)
+        shuffle(distractor_list)
+        # Printing question and multiple answers to this question:
+        gap_question = str(q).replace(str(key_chunk), '______________')
+        # print('Score:', score)
+        # print('Question: ', gap_question)
+        # print('a) ', str(distractor_list[0]))
+        # print('b) ', str(distractor_list[1]))
+        # print('c) ', str(distractor_list[2]))
+        # print('d) ', str(distractor_list[3]))
+        # print('Answer: ', key_chunk)
+        threshold = 17
+        with open(work_folder + 'results_with_threshold.txt', 'a') as out:
+            if (sent_score + key_score) >= threshold:
+                result = str(video_seg) + '\n' + 'Score:' + str(sent_score + key_score) + '\n' \
+                         + 'Question: ' + gap_question + '\n' \
+                         + 'a) ' + str(distractor_list[0]).lower() + '\n' \
+                         + 'b) ' + str(distractor_list[1]).lower() + '\n' \
+                         + 'c) ' + str(distractor_list[2]).lower() + '\n' \
+                         + 'd) ' + str(distractor_list[3]).lower() + '\n' \
+                         + 'Answer: ' + key_chunk.text + '\n' + '\n'
             else:
-                distractor_list = ["".join(random.choices(string.ascii_uppercase, k=len(key_chunk))) for _ in range(3)]
-                distractor_list.append(key_chunk)
-            shuffle(distractor_list)
-            # Printing question and multiple answers to this question:
-            gap_question = str(q).replace(str(key_chunk), '______________')
-            print('Question: ', gap_question)
-            print('a) ', str(distractor_list[0]))
-            print('b) ', str(distractor_list[1]))
-            print('c) ', str(distractor_list[2]))
-            print('d) ', str(distractor_list[3]))
-            print('Answer: ', key_chunk)
-            print('\n')
+                result = str(video_seg) + ' No questions with the score more then' + str(threshold) + '\n \n'
+            out.write(result)
     return already_sel
 
 

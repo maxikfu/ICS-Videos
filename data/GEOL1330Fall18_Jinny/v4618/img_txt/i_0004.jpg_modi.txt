@@ -1,0 +1,11 @@
+Firefox,10,Helvetica,r,177,60,211,69,141,1,1,1; 
+Recordings,10,Helvetica,r,5,60,63,72,202,2,2,2; 
+Shortcut,10,Helvetica,r,16,75,60,84,183,5,2,3; 
+Microsoft,10,Helvetica,r,13,164,63,173,188,6,2,4; 
+PowerPoi,10,Helvetica,r,9,179,67,188,25,7,2,5; 
+Reader,10,Helvetica,r,89,179,124,188,198,8,2,5; 
+liz,35,HelveticaCentury,r,123,731,195,765,59,12,4,9; 
+AM,10,Helvetica,r,969,735,988,744,205,15,6,11; 
+fl,15,Helvetica,r,1000,729,1021,743,38,16,6,11; 
+iiI,11,Helvetica,b,858,743,872,753,31,17,6,12; 
+Ir,15,Helvetica,r,882,741,896,755,27,18,6,12; 

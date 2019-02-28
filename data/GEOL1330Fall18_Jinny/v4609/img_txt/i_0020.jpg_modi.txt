@@ -1,0 +1,8 @@
+Cleavage,46,HelveticaCentury,b,405,22,626,75,201,0,0,0; 
+Weak,20,HelveticaCentury,b,767,607,820,624,202,1,1,1; 
+bonds,20,HelveticaCentury,b,768,628,827,646,196,2,1,2; 
+Figure,29,HelveticaCentury,b,795,727,912,760,210,3,1,3; 
+Knife,20,HelveticaCentury,b,244,623,292,641,55,6,3,5; 
+blade,20,HelveticaCentury,b,302,623,354,641,210,7,3,5; 
+Strong,20,HelveticaCentury,b,436,709,499,731,210,10,6,8; 
+bonds,20,HelveticaCentury,b,508,709,567,727,210,11,6,8; 

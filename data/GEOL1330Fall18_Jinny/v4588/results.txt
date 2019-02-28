@@ -1,0 +1,80 @@
+Score:9.438200280112046
+Question: By 2 million years ago (the start of the Quaternary epoch), ______________ was cold enough to support vast ice sheets at both poles.
+a) Earth’s advantageous position
+b) Earth’s basic structure
+c) earth’s climate
+d) Earth’s history
+Answer: Earth’s climate
+
+Score:11.65427774642276
+Question: Unlike ______________, such as granite and basalt, the terms tuff and volcanic breccia do not imply mineral composition.
+a) other important building materials
+b) most granitic rocks
+c) at least 25 percent dark silicate minerals
+d) most igneous rock names
+Answer: most igneous rock names
+
+Score:12.825
+Question: It is possible for ______________ with exactly the same chemical composition to have different internal structures and, hence, different external forms.
+a) two minerals
+b) the two extremes
+c) the past 4 billion years
+d) the four terrestrial planets
+Answer: two minerals
+
+Score:10.67479674796748
+Question: Earth’s tremendous industrialization over the past two centuries has been fueled—and is still fueled—by burning ______________, petroleum, and natural gas.
+a) coal
+b) mountain building
+c) addition
+d) space
+Answer: coal
+
+Score:10.645714285714284
+Question: In high-risk flood areas, appropriate zoning regulations can be implemented to minimize development and promote ______________.
+a) calcium carbonate
+b) safer, more appropriate land use
+c) insufficient water
+d) salt accumulation
+Answer: safer, more appropriate land use
+
+Score:17.342767295597483
+Question: When hydrogen atoms bond, the negatively charged electrons are shared by both hydrogen atoms and attracted simultaneously by ______________ of the proton in the nucleus of each atom.
+a) the crystalline structure
+b) a particular region
+c) the positive charge
+d) the immense pressure
+Answer: the positive charge
+
+Score:9.503472222222221
+Question: Most of the dense minerals, olivine and pyroxene, sank, while ______________ floated to form the Moon’s crust.
+a) blood-red garnet
+b) less-dense silicate minerals
+c) deep-sea hydrothermal vents
+d) other important building materials
+Answer: less-dense silicate minerals
+
+Score:13.138058551617874
+Question: Crystal Shape, or Habit Mineralogists use the term crystal shape, or habit, to refer to ______________ of individual crystals or aggregates of crystals.
+a) the common volcanic rock andesite
+b) either sediment or sedimentary rock
+c) the igneous and metaContinental crust morphic core
+d) the common or characteristic shape
+Answer: the common or characteristic shape
+
+Score:9.095454545454546
+Question: Of the many optical properties of minerals, their luster, their ability to transmit light, their color, and ______________ are most frequently used for mineral identification.
+a) their streak
+b) their orientation
+c) its ultimate level
+d) their shape
+Answer: their streak
+
+Score:8.934343434343434
+Question: The simplest crystal structures are those of ______________, such as gold and silver, which are composed of only one element.
+a) successive eruptions
+b) many discrete gases
+c) native metals
+d) Other minerals
+Answer: native metals
+

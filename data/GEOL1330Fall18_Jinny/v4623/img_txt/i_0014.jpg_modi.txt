@@ -1,0 +1,15 @@
+Aphanitic,13,Helvetica,r,630,650,688,664,110,1,0,0; 
+negrained,13,Helvetica,r,708,650,780,664,80,2,0,0; 
+texture,13,Helvetica,r,785,651,828,662,200,3,0,0; 
+crystals,13,Helvetica,r,702,667,751,681,206,4,0,1; 
+that,13,Helvetica,r,756,667,779,679,208,5,0,1; 
+are,13,Helvetica,r,785,670,804,679,209,6,0,1; 
+too,13,Helvetica,r,809,668,828,679,207,7,0,1; 
+small,13,Helvetica,r,616,685,649,696,210,8,0,2; 
+for,13,Helvetica,r,655,684,671,696,88,9,0,2; 
+the,13,Helvetica,r,676,685,695,696,198,10,0,2; 
+individual,13,Helvetica,r,701,684,761,696,184,11,0,2; 
+minerals,13,Helvetica,r,768,684,822,696,200,12,0,2; 
+to,13,Helvetica,r,826,686,838,696,209,13,0,2; 
+JI,6,Helvetica,b,185,727,199,732,33,14,1,3; 
+Zoom,11,Helvetica,r,280,730,313,739,203,15,2,4; 

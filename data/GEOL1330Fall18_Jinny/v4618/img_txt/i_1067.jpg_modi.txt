@@ -1,0 +1,12 @@
+basalts,29,HelveticaCentury,r,231,20,340,47,91,2,0,0; 
+an,29,HelveticaCentury,r,359,28,394,47,212,3,0,0; 
+extrusive,29,HelveticaCentury,r,407,21,548,47,209,4,0,0; 
+or,29,HelveticaCentury,r,559,28,591,47,210,5,0,0; 
+intrusive,29,HelveticaCentury,r,602,21,737,47,189,6,0,0; 
+rock,29,HelveticaCentury,r,750,20,831,47,206,7,0,0; 
+IL4,7,Times,b,88,41,111,47,29,11,0,1; 
+Extrusive,29,HelveticaCentury,r,76,100,215,126,212,13,0,2; 
+Intrusive,29,HelveticaCentury,r,76,180,211,206,186,15,0,3; 
+Zoom,11,Helvetica,r,280,730,313,739,203,24,1,7; 
+II,13,Helvetica,b,921,725,937,741,32,28,2,8; 
+Responses,11,Helvetica,r,947,729,1009,741,210,29,2,8; 

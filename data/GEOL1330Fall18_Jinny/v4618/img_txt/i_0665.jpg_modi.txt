@@ -1,0 +1,4 @@
+Amphibole,56,HelveticaCentury,bi,107,40,459,102,200,0,0,0; 
+or,56,HelveticaCentury,bi,483,52,552,89,206,1,0,0; 
+Pyroxene,56,HelveticaCentury,bi,569,39,914,103,183,2,0,0; 
+fr,10,Helvetica,r,555,747,562,756,43,10,4,7; 

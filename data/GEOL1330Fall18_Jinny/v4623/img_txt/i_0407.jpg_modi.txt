@@ -1,0 +1,8 @@
+ENDESC,11,Helvetica,r,54,20,112,32,49,1,0,0; 
+0Potassium,12,Helvetica,r,678,711,824,762,40,8,3,7; 
+feldspar,12,Helvetica,r,215,290,264,304,201,9,4,8; 
+Plagioclase,13,Helvetica,bi,483,220,552,234,48,10,5,9; 
+feldspar,12,Helvetica,r,491,234,540,248,198,11,5,10; 
+Pyioxene,12,Helvetica,r,668,308,720,322,33,12,6,11; 
+Olivine,12,Helvetica,r,789,359,829,370,40,13,7,12; 
+Cr,95,HelveticaCentury,i,411,522,527,609,34,15,9,14; 

@@ -1,0 +1,11 @@
+Some,30,HelveticaCentury,r,63,158,156,184,212,0,0,0; 
+minerals,30,HelveticaCentury,r,173,157,315,184,210,1,1,1; 
+have,30,HelveticaCentury,r,332,157,409,184,212,2,2,2; 
+different,30,HelveticaCentury,r,425,157,567,184,178,3,2,2; 
+chemical,30,HelveticaCentury,r,582,157,726,184,211,4,2,2; 
+composition,30,HelveticaCentury,r,743,158,957,190,204,5,2,2; 
+Eg,30,HelveticaCentury,r,64,199,124,231,200,6,3,3; 
+divine,30,HelveticaCentury,r,142,199,261,225,45,7,4,4; 
+Mg,30,HelveticaCentury,r,281,198,353,231,200,8,5,5; 
+Fe5i02,30,HelveticaCentury,r,372,198,497,233,23,9,6,6; 
+aflgstroms,17,Helvetica,r,756,316,886,345,65,17,11,12; 

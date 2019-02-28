@@ -1,0 +1,5 @@
+Ho,51,HelveticaCentury,bi,149,67,228,113,201,1,0,1; 
+to,51,HelveticaCentury,bi,300,69,353,113,209,3,0,1; 
+en,51,HelveticaCentury,bi,424,79,492,113,211,5,0,1; 
+era,51,HelveticaCentury,bi,497,79,586,113,211,6,0,1; 
+te,51,HelveticaCentury,bi,592,69,642,113,189,7,0,1; 

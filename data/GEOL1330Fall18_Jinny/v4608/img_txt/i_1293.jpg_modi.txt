@@ -1,0 +1,15 @@
+Two,49,HelveticaCentury,i,120,19,245,61,213,0,0,0; 
+versions,49,HelveticaCentury,i,271,17,536,61,210,1,0,0; 
+of,49,HelveticaCentury,i,558,17,626,61,213,2,0,0; 
+the,49,HelveticaCentury,i,642,17,741,61,213,3,0,0; 
+Si,49,HelveticaCentury,i,762,17,823,61,202,4,0,0; 
+tetrahedron,49,HelveticaCentury,i,325,86,700,130,205,6,0,1; 
+sbA,49,HelveticaCentury,r,185,573,277,619,21,10,4,5; 
+Siliconoxygen,36,HelveticaCentury,r,88,638,342,678,201,11,4,6; 
+tetrahedron,36,HelveticaCentury,r,87,687,284,717,205,12,4,7; 
+Expanded,30,HelveticaCentury,r,545,607,683,640,211,14,5,8; 
+view,30,HelveticaCentury,r,696,606,762,633,202,15,5,8; 
+of,30,HelveticaCentury,r,775,607,801,633,210,16,5,8; 
+siliconoxygen,30,HelveticaCentury,r,545,646,757,680,193,17,5,9; 
+tetrahedron,30,HelveticaCentury,r,544,687,711,713,202,18,5,10; 
+Figure,24,HelveticaCentury,r,833,734,931,761,209,19,6,11; 

@@ -1,0 +1,15 @@
+Are,29,HelveticaCentury,r,10,22,60,47,212,0,0,0; 
+Hawaiian,29,HelveticaCentury,r,73,21,217,47,196,1,0,0; 
+basalts,29,HelveticaCentury,r,231,20,340,47,54,2,0,0; 
+an,29,HelveticaCentury,r,359,28,394,47,213,3,0,0; 
+extrusive,29,HelveticaCentury,r,407,21,548,47,209,4,0,0; 
+or,29,HelveticaCentury,r,559,28,591,47,212,5,0,0; 
+intrusive,29,HelveticaCentury,r,602,21,737,47,211,6,0,0; 
+rock,29,HelveticaCentury,r,750,20,831,47,206,7,0,0; 
+Extrusive,29,HelveticaCentury,r,76,100,215,126,212,9,0,1; 
+Intrusive,29,HelveticaCentury,r,76,180,211,206,161,11,0,2; 
+Zoom,11,Times,r,280,730,313,739,204,16,0,4; 
+Resume,11,Helvetica,r,695,732,741,741,198,18,0,4; 
+Correct,11,Times,r,826,729,870,738,203,20,0,4; 
+ii,15,Helvetica,r,921,725,937,741,32,21,0,4; 
+Responses,11,Helvetica,r,947,729,1009,741,207,22,0,4; 

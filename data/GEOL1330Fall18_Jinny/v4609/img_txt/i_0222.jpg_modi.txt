@@ -1,0 +1,2 @@
+More,39,HelveticaCentury,b,354,25,473,61,208,0,0,0; 
+minerals,39,HelveticaCentury,b,493,22,701,61,204,1,0,0; 

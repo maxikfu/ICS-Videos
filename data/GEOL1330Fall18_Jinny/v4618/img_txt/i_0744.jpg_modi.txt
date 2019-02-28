@@ -1,0 +1,9 @@
+Igneous,42,HelveticaCentury,i,63,43,256,90,160,0,0,0; 
+Rocks,42,HelveticaCentury,i,274,43,423,80,210,1,0,0; 
+Granite,28,HelveticaCentury,i,47,704,154,729,203,2,1,1; 
+Sierra,28,HelveticaCentury,i,167,704,255,729,212,3,1,1; 
+Nevada,28,HelveticaCentury,i,267,704,382,729,207,4,1,1; 
+CA,28,HelveticaCentury,i,395,704,438,729,208,5,1,1; 
+Granite,28,HelveticaCentury,i,576,704,684,729,212,6,2,2; 
+Cpunter,28,HelveticaCentury,i,697,704,818,743,47,7,2,2; 
+Tiles,28,HelveticaCentury,i,829,704,896,729,210,8,2,2; 

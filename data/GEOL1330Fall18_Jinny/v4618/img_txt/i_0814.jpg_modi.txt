@@ -1,0 +1,17 @@
+How,51,HelveticaCentury,i,132,73,263,119,206,0,0,0; 
+are,51,HelveticaCentury,i,281,86,372,119,204,1,0,0; 
+igneou,51,HelveticaCentury,i,409,74,611,131,75,2,0,0; 
+Extrusive,35,HelveticaCentury,r,517,231,698,263,152,5,0,2; 
+or,35,HelveticaCentury,r,714,240,753,264,206,6,0,2; 
+Intrusive,35,HelveticaCentury,r,517,280,683,313,82,7,0,3; 
+Chemistry,37,Times,r,515,340,716,382,198,9,0,4; 
+Mineralogy,35,HelveticaCentury,r,516,449,734,491,206,11,0,5; 
+Texture,35,HelveticaCentury,r,514,509,665,542,206,13,0,6; 
+Describe,35,HelveticaCentury,r,430,577,583,607,205,15,0,8; 
+color,35,HelveticaCentury,r,598,577,689,613,199,16,0,8; 
+density,35,HelveticaCentury,r,705,577,837,615,198,17,0,8; 
+minerals,35,HelveticaCentury,r,430,625,585,660,200,18,0,9; 
+grain,35,HelveticaCentury,r,601,625,686,662,208,19,0,9; 
+size,35,HelveticaCentury,r,701,625,777,659,183,20,0,9; 
+texture,35,HelveticaCentury,r,793,627,921,660,189,21,0,9; 
+vesicles,35,HelveticaCentury,r,428,673,568,702,112,22,0,10; 

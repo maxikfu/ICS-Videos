@@ -1,0 +1,8 @@
+aJ,11,Helvetica,r,104,347,112,353,35,8,3,7; 
+Potassium,12,Helvetica,r,209,276,270,287,192,16,8,14; 
+feldspar,12,Helvetica,r,216,291,264,304,201,17,8,15; 
+Plagioclase,12,Helvetica,r,483,220,553,234,91,18,9,16; 
+feldspar,12,Helvetica,r,492,234,540,248,169,19,9,17; 
+Ampli,12,Helvetica,r,468,372,500,385,40,21,11,19; 
+ibole,12,Helvetica,r,502,372,531,383,83,22,11,19; 
+Olivine,12,Helvetica,r,789,359,829,370,34,23,12,20; 
