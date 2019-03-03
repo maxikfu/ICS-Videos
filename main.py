@@ -48,7 +48,7 @@ if __name__ == '__main__':
     #     f.write(displacy.render(doc,style='dep'))
     # print(doc[0].is_alpha)
     # # exit()
-    video_number = 4623
+    video_number = 4588
     dict_ocr = ocr2dic.ocr2dict('data/GEOL1330Fall18_Jinny/v'+str(video_number)+'/img_txt/Modi_all_'
                                 +str(video_number)+'.csv', 'data/GEOL1330Fall18_Jinny/v'
                                 +str(video_number)+'/v'+str(video_number)+'_segments.csv')

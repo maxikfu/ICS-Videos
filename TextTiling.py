@@ -17,11 +17,11 @@ def book_texttiling():
     #     for line in orig_book_lines:
     #         if line == '\n' or len(line.split()) > 4:
     #             f.write(line)
-    with open('data/v4588/Earth_An_Introduction_to_Physical_Geology.txt', 'r') as f:
+    with open('data/GEOL1330Fall18_Jinny/v4588/Earth_full_book_modif.txt', 'r') as f:
         raw_text = f.read()
     tt = nltk.TextTilingTokenizer(w=500)
     tokens = tt.tokenize(raw_text)
-    with open('data/v4588/tt_Earth.txt', 'w') as f:
+    with open('data/GEOL1330Fall18_Jinny/v4588/tt_Earth.txt', 'w') as f:
         i = 1
         for token in tokens:
             f.write('\n_TT'+str(i)+'\n')
