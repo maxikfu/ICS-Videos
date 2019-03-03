@@ -11,7 +11,7 @@ def ocr2dict(path_to_ocr_output, path_to_segments):
     dictionary {key - slide, value - dictionary {key -# sequence, value - list of words}}
     """
     ocr_result_df = utility.load_ocr_output(path_to_ocr_output)
-    ocr_dict, ocr_data_frame = utility.cluster_upgrade(ocr_result_df, path_to_segments)
+    ocr_dict, ocr_data_frame = utility.conv_to_dict(ocr_result_df, path_to_segments)
     return ocr_dict
 
 

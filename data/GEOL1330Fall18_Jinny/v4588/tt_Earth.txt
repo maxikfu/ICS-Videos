@@ -1,9 +1,5 @@
 
 _TT1
-CHAPTER 1
-
-An Introduction to Geology
-
 buoyant masses of molten rock that rose toward the
 surface and solidified to produce a primitive crust.
 These rocky materials were enriched in oxygen and
@@ -44,8 +40,6 @@ and low density of the outer planets. The two most massive planets, Jupiter and 
 sufficient to attract and hold large quantities of even the
 lightest elements—hydrogen and helium.
 
-Formation of Earth’s Layered
-Structure
 As material accumulated to form Earth (and for a short
 period afterward), the high-velocity impact of nebular
 debris and the decay of radioactive elements caused the
@@ -79,22 +73,6 @@ have continually changed shape and even location
 during much of this period.
 
 
-Concept Checks
-
-1. Name and briefly outline the theory that describes
-the formation of our solar system.
-2. List the inner planets and outer planets. Describe
-basic differences in size and composition.
-3. Explain why density and buoyancy were
-important in the development of Earth’s layered
-structure.
-
-1.6 Earth’s Internal Structure
-
-
-Earth’s Internal Structure
-Sketch Earth’s internal structure and label and describe the main subdivisions.
-
 The preceding section outlined how differentiation of material early in Earth’s history resulted in
 the formation of three major layers defined by their chemical composition: the crust, mantle, and
 core. In addition to these compositionally distinct layers, Earth is divided into layers based on physical properties. The physical properties used to define such zones include whether the layer is solid
@@ -112,84 +90,6 @@ this energy. With the aid of computers, these data are
 analyzed and used to build a detailed picture of Earth’s
 interior. There is more about this in Chapter 12.
 
-Layering by
-Physical Properties
-Hydrosphere
-(liquid)
-
-Atmosphere
-(gas)
-Oceanic
-crust
-Continental
-crust
-
-Lithosphere
-(solid and rigid
-100 km thick)
-
-Crust
-(low-density rock
-7–70 km thick)
-)
-
-Up
-pe
-rm
-an
-
-tle
-
-id
-ol
-(s
-
-Lower mantle
-(solid)
-
-2 89
-0k
-
-m
-
-Mantle
-(high density rock)
-
-660 km
-
-0k
-
-515
-
-6 60 km
-
-Transition
-zone
-
-Outer core
-(liquid)
-m
-Inner
-core
-(solid)
-
-km
-00
-29
-
-410 km
-
-(https://goo.gl/70au1N)
-
-The right side of this cross section shows
-that there are three different layers based
-on differences in composition.
-
-Lithosphere
-
-Upper
-mantle
-
 Earth’s layers Structure
 of Earth’s interior based
 on chemical composition
@@ -197,34 +97,10 @@ on chemical composition
 and physical properties
 (left side of diagram).
 
-Layering by
-Chemical Composition
-
 Layers on the left side are based on
 factors such as whether the layer is
 liquid or solid, weak or strong.
 
-Asthenosphere
-(solid, but mobile)
-
-SmartFigure 1.19
-
-Core
-(iron + nickel)
-
-63
-
-71
-
-km
-
-24
-
-CHAPTER 1
-
-An Introduction to Geology
-
-Earth’s Crust
 The crust, Earth’s relatively thin, rocky outer skin, is
 of two different types—continental crust and oceanic
 crust. Both share the word crust, but the similarity
@@ -245,7 +121,7 @@ are younger (180 million years or less) and denser (about
 of basalt, the primary rock composing oceanic crust, is
 three times that of water.
 
-Earth’s Mantle
+
 More than 82 percent of Earth’s volume is contained in
 the mantle, a solid, rocky shell that extends to a depth
 of about 2900 kilometers (1800 miles). The boundary
@@ -309,7 +185,6 @@ is a highly variable and unusual layer called the D˝ layer
 boundary layer between the rocky mantle and the hot
 liquid iron outer core will be examined in Chapter 12.
 
-Earth’s Core
 The core is composed of an iron–nickel alloy with minor
 amounts of oxygen, silicon, and sulfur—elements that
 readily form compounds with iron. At the extreme pressure found in the core, this iron-rich material has an
@@ -322,24 +197,6 @@ radius of 1221 kilometers (757 miles). Despite its higher
 temperature, the iron in the inner core is solid due to the
 immense pressures that exist in the center of the planet.
 
-1.6
-
-Concept Checks
-
-1. Name and describe the three major layers defined
-by their chemical composition.
-2. Contrast the characteristics of the lithosphere
-and the asthenosphere.
-3. Why is the inner core solid?
-
-25
-
-1.7 Rocks and the Rock Cycle
-
-1.7
-
-Rocks and the Rock Cycle
-Sketch, label, and explain the rock cycle.
 
 Rock is the most common and abundant material on Earth. To a curious traveler, the variety seems
 nearly endless. When a rock is examined closely, we find that it usually consists of smaller crystals
@@ -415,26 +272,6 @@ undergo weathering, in which the day-in and daywhich eventually crystallizes int
 out influences of the atmosphere, hydrosphere, and
 the cycle all over again.
 
-Figure 1.20
-Two basic rock characteristics Texture and mineral
-composition are basic rock
-features. These two
-samples are the common
-igneous rocks granite (A)
-and basalt (B). (Photo A by
-geoz/alamy Images; photo B by
-Tyler Boyes/Shutterstock)
-
-26
-
-CHAPTER 1
-
-An Introduction to Geology
-
-Figure 1.21
-Three rock groups Geologists divide rocks into three
-groups: igneous, sedimentary, and metamorphic.
-
 Igneous rocks form when
 molten rock solidifies at the
 surface (extrusive) or
@@ -458,21 +295,18 @@ of extensive dunes. This rock
 layer, called the Navajo
 Sandstone, is prominent in
 southern Utah.
-Dennis Tasa
-
-Dennis Tasa
 
 Where does the energy that drives Earth’s rock cycle
 come from? Processes driven by heat from Earth’s interior are responsible for creating igneous and metamorphic rocks. Weathering and erosion, external processes
 powered by energy from the Sun, produce the sediment
 from which sedimentary rocks form.
 
-Alternative Paths
+
 The paths shown in the basic cycle are not the only ones
 possible. To the contrary, other paths are just as likely to
 be followed as those described in the preceding section.
 These alternatives are indicated by the light blue arrows
-in Figure 1.22.
+
 
 The metamorphic rock
 pictured here, known as the
@@ -500,207 +334,20 @@ and turned into new raw materials for sedimentary rocks.
 Although rocks may seem to be unchanging masses,
 the rock cycle shows that they are not. The changes,
 
-27
-
-1.7 Rocks and the Rock Cycle
-
-ROCK CYCLE
-Viewed over long time spans,
-rocks are constantly forming,
-changing, and re-forming.
-
-Extrusive
-Igneous Rock
 
 When magma or lava
 cools and solidifies,
 igneous rock forms.
 
-Lava
-USGS
 
-lin
-Coo
-
-USGS
-
-stallization
-g, cry
-
-Intrusive
-Igneous
-Rock
-
-ism
-rph
-o
-m
-Meta
-
-en
-
-or
-
-se
-
-ta
-
-a
-fic , ce
-i
-h
-i t on
-
-ph
-
-pr ism
-e
-
-s
-
-Dennis Tasa
-
-Sediment
-
-t
-
-a
-
-m
-ta t
-Me t, in
-
-(he
-
-Me
-
-Upl
-ift,
-we
-ath
-eri
-ng
-,t
-r
 _TT2
 
 
-mo
-
-rphi
-
-sm
-
-Heat
-
-sition
-depo
-d
-n
-a
-on,
-ati
-t
-r
-o
-sp
-an
-
-Weathering breaks
-down rock that is
-transported and
-deposited as
-sediment.
-
-)
-
-li
-Up
-
-tion, and deposition
-nsporta
-g, tra
-n
-i
-r
-e
-eath
-ft, w
-
-ion
-
-Metamorphic
-Rock
-
-E. J. Tarbuck
-
-i
-m on
-en
-ta
-t
-
-Melti
-
-ng
-
-M e l ti n g
-
-ring,
-
-Magma forms when
-rock melts deep
-beneath Earth’s
-surface.
-
-athe sition
-We rt, depo
-o
-nsp
-tra
-
-Magma
-
-su
-When
-re)
-sedimentary
-rock is buried deep
-in the crust, heat and
-pressure (stress) change it
-to metamorphic rock.
-
-(co
-
-L cti
-a
-
-mp
-
-Sediment is
-compacted and cemented
-to form sedimentary rock.
-
-E. J. Tarbuck
-
-SmartFigure 1.22
-
-Sedimentary
-Rock
-
-Dennis Tasa
 
 The rock cycle The rock cycle helps us
 understand the origin of the three basic rock
 groups. Arrows represent processes that link
 each group to the others. (https://goo.gl/dYWRsL)
-
-28
-
-CHAPTER 1
-
-An Introduction to Geology
-
 however, take time—vast amounts of time. We can
 observe different parts of the cycle operating all over the
 world. Today new magma is forming beneath the island
@@ -710,18 +357,6 @@ Rockies are gradually being worn down by weathering
 and erosion. Some of this weathered debris will eventually be carried to the Gulf of Mexico, where it will add to
 the already substantial mass of sediment that has accumulated there.
 
-1.8
-
-1.7
-
-Concept Checks
-
-1. List two rock characteristics that are used to
-determine the processes that created a rock.
-2. Sketch and label a basic rock cycle. Make sure to
-include alternate paths.
-
-The Face of Earth
 List and describe the major features of the continents and ocean basins.
 
 The two principal divisions of Earth’s surface are the ocean basins and the continents (Figure 1.23).
@@ -803,33 +438,6 @@ T
 his is a shoreline scene along the east coast of the
 United States. The Atlantic Ocean is on the right.
 
-QUESTION 1 Does the shoreline, the line where the
-water meets the land, mark the outer edge of the North
-American continent?
-
-Michael Collier
-
-QUESTION 2 Explain your answer to Question 1.
-
-called abyssal plains. The ocean floor also contains
-extremely deep depressions, some more than 11,000
-meters (36,000 feet) deep. Although these deep-ocean
-trenches are relatively narrow and represent only a
-small fraction of the ocean floor, they are nevertheless
-very significant features. Some trenches are located
-adjacent to young mountains that flank the continents.
-For example, in Figure 1.23 the Peru–Chile trench off
-the west coast of South America parallels the Andes
-Mountains. Other trenches parallel island chains called
-volcanic island arcs.
-Dotting the ocean floor are submerged volcanic
-structures called seamounts, which sometimes form
-long, narrow chains. Volcanic activity has also produced
-several large lava plateaus, such as the Ontong Java Plateau located northeast of New Guinea. In addition, some
-submerged plateaus are composed of continental-type
-crust. Examples include the Campbell Plateau southeast
-of New Zealand and the Seychelles Bank northeast of
-Madagascar.
 
 Oceanic Ridges The most prominent feature on
 the ocean floor is the oceanic ridge, or mid-ocean

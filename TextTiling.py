@@ -32,14 +32,3 @@ def book_texttiling():
 if __name__ == '__main__':
     book_texttiling()
 
-    # exit()
-    # with open('data/v4557/tt_anatomy_physiology.txt', 'r') as f:
-    #     segmented_text = f.readlines()
-    # text_tiling_dict = {}
-    # for line in segmented_text:
-    #     if ('_TT') in line:  # new topic starts
-    #         topic_segment = line.strip().replace('_TT', '')
-    #         text_tiling_dict[int(topic_segment)] = ''
-    #     elif line.strip():  # keep adding lines to the previous topic
-    #         text_tiling_dict[int(topic_segment)] += line
-    # print(text_tiling_dict[1])

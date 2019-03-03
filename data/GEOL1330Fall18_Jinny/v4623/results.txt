@@ -1,90 +1,9 @@
-1
-Score:8.321654040404042
-Question: Most of the dense minerals, olivine and pyroxene, sank, while ______________ floated to form the Moon’s crust.
-a) less-dense silicate minerals
-b) deep-sea hydrothermal vents
-c) blood-red garnet
-d) other important building materials
-Answer: less-dense silicate minerals
-
-2
-Score:10.30121212121212
-Question: Most pegmatites are granitic in composition and consist of ______________ of quartz, feldspar, and muscovite.
-a) both unusually high temperatures more complicated patterns
-b) high percentages
-c) relatively small quantities
-d) unusually large crystals
-Answer: unusually large crystals
-
-3
-Score:13.836142322097379
-Question: Intermediate rock types—andesite and diorite—contain ______________.
-a) about 60 percent silica
-b) about 10 percent dark silicate minerals
-c) more than 70 percent silica
-d) about 30 percent
-Answer: about 60 percent silica
-
-4
-Score:18.21153846153846
-Question: ______________ 4.2 Igneous Compare and contrast the four basic igneous compositions: basaltic (mafic), granitic (felsic), andesitic (intermediate), and ultramafic.
-a) compositions
-b) GEOgraphics
-c) Types
-d) layers
-Answer: Compositions
-
-5
-Score:16.126926782273603
-Question: Intermediate rocks contain ______________, mainly amphibole, pyroxene, and biotite mica, with the other dominant mineral being plagioclase feldspar.
-a) most igneous rock names
-b) at least 25 percent dark silicate minerals
-c) sufficient infiltration
-d) only one common crystal shape
-Answer: at least 25 percent dark silicate minerals
-
-6
-Score:14.752114164904862
-Question: Near one end of the continuum are rocks composed almost entirely of ______________.
-a) large-scale plate motion
-b) high-temperature and high-pressure environments
-c) light-colored silicates—quartz and potassium feldspar
-d) vertical extent
-Answer: light-colored silicates—quartz and potassium feldspar
-
-7
-Score:16.50925925925926
-Question: Describe how the geothermal gradient compares with ______________ of the mantle rock peridotite at various depths.
-a) the Gravity developing protoplanets
-b) the melting temperatures
-c) the rising tail
-d) the growing quantities
-Answer: the melting temperatures
-
-8
-Score:12.808123900268916
-Question: Unlike ______________, such as granite and basalt, the terms tuff and volcanic breccia do not imply mineral composition.
-a) at least 25 percent dark silicate minerals
-b) other important building materials
-c) most igneous rock names
-d) most granitic rocks
-Answer: most igneous rock names
-
-9
-Score:15.000461041954818
-Question: Batholiths are typically composed of ______________ and are often called “granite batholiths.
-a) felsic (granitic) and intermediate rock types
-b) low-grade metamorphic environments
-c) many sandy coasts
-d) unconsolidated sediment (alluvium
-Answer: felsic (granitic) and intermediate rock types
-
 10
 Score:16.323529411764703
 Question: Magma B. Cooling of the magma body causes ______________ of olivine, pyroxene, and calcium-rich plagioclase to form and settle out, or crystallize along the magma body’s cool margins.
 a) crystals
 b) atoms
-c) rocks
-d) details
+c) details
+d) rocks
 Answer: crystals
 

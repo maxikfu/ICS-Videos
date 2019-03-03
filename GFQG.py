@@ -3,8 +3,6 @@ import numpy as np
 import random
 import string
 from random import shuffle
-import utility
-import pprint
 
 nlp = spacy.load('en_core_web_sm')  # make sure to use larger model!
 
@@ -284,6 +282,7 @@ def rawtext2question(book_text, video_lecture_words, already_sel, word_dict, ful
     data = book_pre_processing(book_text)
     selected_sent, topic_words, already_sel, sent_score = sentence_selection(data, video_lecture_words, already_sel)
     questions, key_score = questions_formation(selected_sent, word_dict, topic_words)
+    open(work_folder + 'results.txt', 'w').close()
     for key_chunk, value in questions.items():
         q = value[0]
         if not key_chunk.text.isupper():
@@ -302,8 +301,8 @@ def rawtext2question(book_text, video_lecture_words, already_sel, word_dict, ful
         # print('c) ', str(distractor_list[2]))
         # print('d) ', str(distractor_list[3]))
         # print('Answer: ', key_chunk)
-        threshold = 17
-        with open(work_folder + 'results_with_threshold.txt', 'a') as out:
+        threshold = 0
+        with open(work_folder + 'results.txt', 'a') as out:
             if (sent_score + key_score) >= threshold:
                 result = str(video_seg) + '\n' + 'Score:' + str(sent_score + key_score) + '\n' \
                          + 'Question: ' + gap_question + '\n' \

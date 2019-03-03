@@ -42,7 +42,8 @@ def texttiling_file_read(path_to_segmented_book):
 
 
 if __name__ == '__main__':
-    # doc = nlp(u'Crystallization of a molten mass generates Figure 3.11 Geodes like this one form when silica dissolved in groundwater precipitates to form quartz crystals that grow within cavities in rocks.')
+    # doc = nlp(u'Crystallization of a molten mass generates Figure 3.11 Geodes like this one form when silica dissolved
+    # in groundwater precipitates to form quartz crystals that grow within cavities in rocks.')
     # with open('visual.html','w') as f:
     #     f.write(displacy.render(doc,style='dep'))
     # print(doc[0].is_alpha)
