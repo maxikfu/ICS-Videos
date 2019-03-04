@@ -1,9 +1,0 @@
-10
-Score:16.323529411764703
-Question: Magma B. Cooling of the magma body causes ______________ of olivine, pyroxene, and calcium-rich plagioclase to form and settle out, or crystallize along the magma body’s cool margins.
-a) crystals
-b) atoms
-c) details
-d) rocks
-Answer: crystals
-

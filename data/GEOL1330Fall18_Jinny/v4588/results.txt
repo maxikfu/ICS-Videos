@@ -1,80 +1,90 @@
-Score:9.438200280112046
-Question: By 2 million years ago (the start of the Quaternary epoch), ______________ was cold enough to support vast ice sheets at both poles.
-a) Earth’s advantageous position
-b) Earth’s basic structure
-c) earth’s climate
-d) Earth’s history
-Answer: Earth’s climate
+1
+Score:4.222222222222222
+Question: Islands are ______________ produced by the subduction of the Pacific plate beneath the North.
+a) a continental volcanic arc
+b) a volcanic island arc
+c) a volcanic neck
+d) the volcanic arc
+Answer: a volcanic island arc
 
-Score:11.65427774642276
+2
+Score:6.153846153846154
 Question: Unlike ______________, such as granite and basalt, the terms tuff and volcanic breccia do not imply mineral composition.
 a) other important building materials
-b) most granitic rocks
-c) at least 25 percent dark silicate minerals
-d) most igneous rock names
+b) most igneous rock names
+c) most granitic rocks
+d) minimal chemical weathering
 Answer: most igneous rock names
 
-Score:12.825
+3
+Score:6.3
 Question: It is possible for ______________ with exactly the same chemical composition to have different internal structures and, hence, different external forms.
-a) two minerals
-b) the two extremes
-c) the past 4 billion years
-d) the four terrestrial planets
+a) the past 4 billion years
+b) two minerals
+c) the two extremes
+d) a few hundred million years
 Answer: two minerals
 
-Score:10.67479674796748
+4
+Score:6.166666666666667
 Question: Earth’s tremendous industrialization over the past two centuries has been fueled—and is still fueled—by burning ______________, petroleum, and natural gas.
-a) coal
+a) space
 b) mountain building
-c) addition
-d) space
+c) coal
+d) addition
 Answer: coal
 
-Score:10.645714285714284
+5
+Score:6.142857142857142
 Question: In high-risk flood areas, appropriate zoning regulations can be implemented to minimize development and promote ______________.
-a) calcium carbonate
-b) safer, more appropriate land use
-c) insufficient water
-d) salt accumulation
+a) salt accumulation
+b) calcium carbonate
+c) safer, more appropriate land use
+d) flow direction
 Answer: safer, more appropriate land use
 
-Score:17.342767295597483
+6
+Score:8.833333333333334
 Question: When hydrogen atoms bond, the negatively charged electrons are shared by both hydrogen atoms and attracted simultaneously by ______________ of the proton in the nucleus of each atom.
-a) the crystalline structure
+a) another basic rule
 b) a particular region
-c) the positive charge
-d) the immense pressure
+c) the immense pressure
+d) the positive charge
 Answer: the positive charge
 
-Score:9.503472222222221
-Question: Most of the dense minerals, olivine and pyroxene, sank, while ______________ floated to form the Moon’s crust.
-a) blood-red garnet
-b) less-dense silicate minerals
-c) deep-sea hydrothermal vents
-d) other important building materials
-Answer: less-dense silicate minerals
+7
+Score:6.6
+Question: ______________ partially filled with amethyst ______________s form in cavities in rocks, such as limestone and volcanic rocks.
+a) crushed and broken rocks
+b) geode
+c) repeated collisions
+d) voids
+Answer: Geode
 
-Score:13.138058551617874
-Question: Crystal Shape, or Habit Mineralogists use the term crystal shape, or habit, to refer to ______________ of individual crystals or aggregates of crystals.
-a) the common volcanic rock andesite
-b) either sediment or sedimentary rock
-c) the igneous and metaContinental crust morphic core
-d) the common or characteristic shape
+8
+Score:5.363636363636363
+Question: Mineralogists use the term crystal shape, or habit, to refer to ______________ of individual crystals or aggregates of crystals.
+a) a significant impact
+b) the common or characteristic shape
+c) the igneous, sedimentary, and metamorphic rocks
+d) the upper mantle
 Answer: the common or characteristic shape
 
-Score:9.095454545454546
-Question: Of the many optical properties of minerals, their luster, their ability to transmit light, their color, and ______________ are most frequently used for mineral identification.
-a) their streak
-b) their orientation
-c) its ultimate level
-d) their shape
-Answer: their streak
+9
+Score:4.96
+Question: The light-colored silicates, usually quartz and potassium feldspar, have ______________ Garnet E Y E ON E A R T H High Grade 8.2 T his rock outcrop, located in Joshua Tree National.
+a) a general understanding
+b) the lowest melting temperatures
+c) the oceanic floor
+d) the basic laws
+Answer: the lowest melting temperatures
 
-Score:8.934343434343434
+10
+Score:3.888888888888889
 Question: The simplest crystal structures are those of ______________, such as gold and silver, which are composed of only one element.
-a) successive eruptions
+a) other minerals
 b) many discrete gases
 c) native metals
-d) Other minerals
+d) new minerals
 Answer: native metals
 

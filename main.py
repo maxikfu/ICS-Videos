@@ -42,13 +42,12 @@ def texttiling_file_read(path_to_segmented_book):
 
 
 if __name__ == '__main__':
-    # doc = nlp(u'Crystallization of a molten mass generates Figure 3.11 Geodes like this one form when silica dissolved
-    # in groundwater precipitates to form quartz crystals that grow within cavities in rocks.')
+    # doc = nlp(u'The number of protons in the nucleus of an atom, called the atomic number, determines its chemical nature.')
     # with open('visual.html','w') as f:
     #     f.write(displacy.render(doc,style='dep'))
     # print(doc[0].is_alpha)
-    # # exit()
-    video_number = 4588
+    # exit()
+    video_number = 4608
     dict_ocr = ocr2dic.ocr2dict('data/GEOL1330Fall18_Jinny/v'+str(video_number)+'/img_txt/Modi_all_'
                                 +str(video_number)+'.csv', 'data/GEOL1330Fall18_Jinny/v'
                                 +str(video_number)+'/v'+str(video_number)+'_segments.csv')

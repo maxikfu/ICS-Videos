@@ -1,23 +1,428 @@
 1
-Score:8.115535889872174
+Score:4.7700000000000005
 Question: ______________ of tectonic plates causes the rocks to bend and store elastic energy.
-a) the seafloor substantiate Wegener’s contention
-b) the movement
-c) the precipitation
-d) the strength
+a) the precipitation
+b) the nature
+c) the strength
+d) the movement
 Answer: The movement
 
 2
-Score:15.323232323232324
+Score:8.23
 Question: The simplest crystal structures are those of ______________, such as gold and silver, which are composed of only one element.
-a) Other minerals
-b) successive eruptions
-c) native metals
+a) native metals
+b) new minerals
+c) other minerals
 d) many discrete gases
 Answer: native metals
 
 3
-Score:9.733333333333334
+Score:9.01
+Question: ______________ 8 9 10 In the laboratory, common objects used to determine the hardness of a mineral can include a human fingernail, which has a hardness of about 2.5, a copper penny (3.5), and a piece of glass (5.5).
+a) yn
+b) mohs scale
+c) gi
+d) zn
+Answer: MOHS SCALE
+
+4
+Score:4.8
+Question: Mineralogists often use ______________ called specific gravity to describe the density of minerals.
+a) the suspended weight
+b) an oceanic plate
+c) a related measure
+d) the reduced level
+Answer: a related measure
+
+5
+Score:7.0
+Question: By contrast, ______________ are generally white, gray, or salmon pink in color, and they are blocky or rectangular in shape.
+a) feldspar crystals
+b) metamorphic products
+c) material properties
+d) other important building materials
+Answer: feldspar crystals
+
+6
+Score:6.15
+Question: When a magma body cools, the silicon and oxygen atoms link together first to form ______________, the basic building blocks of the silicate minerals (see.
+a) silicon–oxygen tetrahedra
+b) individual subdeltas intertwine
+c) modern depth-sounding equipment
+d) an iron–nickel alloy
+Answer: silicon–oxygen tetrahedra
+
+7
+Score:9.08
+Question: The carbon atoms in diamonds are covalently bonded into ______________, which accounts for the extreme hardness of the mineral.
+a) the light-colored igneous pluton
+b) a three-dimensional framework
+c) a compact, three-dimensional framework
+d) the deep-ocean floor
+Answer: a compact, three-dimensional framework
+
+8
+Score:9.38
+Question: ______________ in the continental crust Oxygen (O) 46.6% Silicon (Si) 27.7% Aluminum (Al) 8.1%.
+a) the western margin
+b) the dominant minerals
+c) the sediments
+d) the eight most abundant elements
+Answer: The eight most abundant elements
+
+9
+Score:9.67
+Question: All silicate minerals have the same fundamental building block, ______________ (SiO442).
+a) the silicon–oxygen tetrahedron
+b) the core–mantle boundary
+c) a chemical alteration
+d) the main valley glacier
+Answer: the silicon–oxygen tetrahedron
+
+1
+Score:2.77
+Question: Measure the height (amplitude) of the increase in wave amplitude corresponds to ______________ of largest wave on the seismogram (23 mm) 1 on the magnitude scale.
+a) a lake
+b) a chlorine
+c) an increase
+d) an attempt
+Answer: an increase
+
+2
+Score:3.23
+Question: The simplest crystal structures are those of ______________, such as gold and silver, which are composed of only one element.
+a) new minerals
+b) many discrete gases
+c) native metals
+d) other minerals
+Answer: native metals
+
+3
+Score:3.2
+Question: Unlike other common silicates, most clay minerals originate as ______________ of the chemical breakdown (chemical weathering) of other silicate minerals.
+a) mountains
+b) divisions
+c) products
+d) shells
+Answer: products
+
+4
+Score:2.84
+Question: Mercury has ______________, from as low as 2173°C (2280°F) at night to noontime temperatures exceeding 427°C (800°F), hot enough to melt tin and lead.
+a) the greatest temperature extremes
+b) the normal surface temperature
+c) the deepest diamond mines
+d) the poles
+Answer: the greatest temperature extremes
+
+5
+Score:2.9099999999999997
+Question: List the four basic compositional groups of igneous rocks, in ______________ from the group with the highest silica content to the group with the lowest silica content.
+a) order
+b) gravity
+c) permineralization
+d) crystallization
+Answer: order
+
+6
+Score:2.8199999999999994
+Question: Most of the dense minerals, olivine and pyroxene, sank, while ______________ floated to form the Moon’s crust.
+a) less-dense silicate minerals
+b) other important building materials
+c) deep-sea hydrothermal vents
+d) blood-red garnet
+Answer: less-dense silicate minerals
+
+7
+Score:2.93
+Question: Except for quartz (SiO2), ______________ (chains, sheets, or three-dimensional frameworks) of most silicate minerals has a net negative charge.
+a) the ocean crust
+b) the other hand
+c) the core
+d) the basic structure
+Answer: the basic structure
+
+8
+Score:2.8200000000000003
+Question: ______________ with three-dimensional structures have the highest silicon content, while those composed of independent tetrahedra have the lowest.
+a) silicate minerals
+b) high eruption rates
+c) native metals
+d) plate margins
+Answer: Silicate minerals
+
+9
+Score:2.8
+Question: ON E A R T H 3.2 G lass bottles, like most other manufactured products, contain ______________ obtained from minerals extracted from Earth’s crust and oceans.
+a) substances
+b) estimates
+c) neutrons
+d) rocks porphyroblasts
+Answer: substances
+
+1
+Score:2.27
+Question: Measure the height (amplitude) of the increase in wave amplitude corresponds to ______________ of largest wave on the seismogram (23 mm) 1 on the magnitude scale.
+a) a lake
+b) an attempt
+c) a chlorine
+d) an increase
+Answer: an increase
+
+2
+Score:2.73
+Question: The simplest crystal structures are those of ______________, such as gold and silver, which are composed of only one element.
+a) native metals
+b) many discrete gases
+c) new minerals
+d) other minerals
+Answer: native metals
+
+3
+Score:2.7
+Question: Unlike other common silicates, most clay minerals originate as ______________ of the chemical breakdown (chemical weathering) of other silicate minerals.
+a) shells
+b) divisions
+c) mountains
+d) products
+Answer: products
+
+4
+Score:2.34
+Question: Mercury has ______________, from as low as 2173°C (2280°F) at night to noontime temperatures exceeding 427°C (800°F), hot enough to melt tin and lead.
+a) the deepest diamond mines
+b) the greatest temperature extremes
+c) the normal surface temperature
+d) the poles
+Answer: the greatest temperature extremes
+
+5
+Score:2.4099999999999997
+Question: List the four basic compositional groups of igneous rocks, in ______________ from the group with the highest silica content to the group with the lowest silica content.
+a) permineralization
+b) gravity
+c) order
+d) crystallization
+Answer: order
+
+6
+Score:2.32
+Question: Most of the dense minerals, olivine and pyroxene, sank, while ______________ floated to form the Moon’s crust.
+a) other important building materials
+b) less-dense silicate minerals
+c) deep-sea hydrothermal vents
+d) blood-red garnet
+Answer: less-dense silicate minerals
+
+7
+Score:2.43
+Question: Except for quartz (SiO2), ______________ (chains, sheets, or three-dimensional frameworks) of most silicate minerals has a net negative charge.
+a) the other hand
+b) the basic structure
+c) the ocean crust
+d) the core
+Answer: the basic structure
+
+8
+Score:2.38
+Question: ______________ in the continental crust Oxygen (O) 46.6% Silicon (Si) 27.7% Aluminum (Al) 8.1%.
+a) the dominant minerals
+b) the western margin
+c) the sediments
+d) the eight most abundant elements
+Answer: The eight most abundant elements
+
+9
+Score:2.67
+Question: All silicate minerals have the same fundamental building block, ______________ (SiO442).
+a) the silicon–oxygen tetrahedron
+b) a chemical alteration
+c) the main valley glacier
+d) the core–mantle boundary
+Answer: the silicon–oxygen tetrahedron
+
+1
+Score:2.27
+Question: Measure the height (amplitude) of the increase in wave amplitude corresponds to ______________ of largest wave on the seismogram (23 mm) 1 on the magnitude scale.
+a) a lake
+b) a chlorine
+c) an attempt
+d) an increase
+Answer: an increase
+
+2
+Score:3.01
+Question: The simplest crystal structures are those of ______________, such as gold and silver, which are composed of only one element.
+a) other minerals
+b) many discrete gases
+c) new minerals
+d) native metals
+Answer: native metals
+
+3
+Score:2.8
+Question: Unlike other common silicates, most clay minerals originate as ______________ of the chemical breakdown (chemical weathering) of other silicate minerals.
+a) products
+b) divisions
+c) mountains
+d) shells
+Answer: products
+
+4
+Score:2.34
+Question: Mercury has ______________, from as low as 2173°C (2280°F) at night to noontime temperatures exceeding 427°C (800°F), hot enough to melt tin and lead.
+a) the greatest temperature extremes
+b) the normal surface temperature
+c) the poles
+d) the deepest diamond mines
+Answer: the greatest temperature extremes
+
+5
+Score:2.455
+Question: List the four basic compositional groups of igneous rocks, in ______________ from the group with the highest silica content to the group with the lowest silica content.
+a) order
+b) permineralization
+c) crystallization
+d) gravity
+Answer: order
+
+6
+Score:2.41
+Question: Most of the dense minerals, olivine and pyroxene, sank, while ______________ floated to form the Moon’s crust.
+a) deep-sea hydrothermal vents
+b) other important building materials
+c) blood-red garnet
+d) less-dense silicate minerals
+Answer: less-dense silicate minerals
+
+7
+Score:2.545
+Question: Except for quartz (SiO2), ______________ (chains, sheets, or three-dimensional frameworks) of most silicate minerals has a net negative charge.
+a) the ocean crust
+b) the basic structure
+c) the core
+d) the other hand
+Answer: the basic structure
+
+8
+Score:2.65
+Question: ______________ in the continental crust Oxygen (O) 46.6% Silicon (Si) 27.7% Aluminum (Al) 8.1%.
+a) the dominant minerals
+b) the sediments
+c) the eight most abundant elements
+d) the western margin
+Answer: The eight most abundant elements
+
+9
+Score:3.06
+Question: All silicate minerals have the same fundamental building block, ______________ (SiO442).
+a) the silicon–oxygen tetrahedron
+b) the core–mantle boundary
+c) the main valley glacier
+d) a chemical alteration
+Answer: the silicon–oxygen tetrahedron
+
+1
+Score:2.27
+Question: Measure the height (amplitude) of the increase in wave amplitude corresponds to ______________ of largest wave on the seismogram (23 mm) 1 on the magnitude scale.
+a) a chlorine
+b) a lake
+c) an increase
+d) an attempt
+Answer: an increase
+
+2
+Score:3.01
+Question: The simplest crystal structures are those of ______________, such as gold and silver, which are composed of only one element.
+a) new minerals
+b) many discrete gases
+c) other minerals
+d) native metals
+Answer: native metals
+
+3
+Score:2.8
+Question: Unlike other common silicates, most clay minerals originate as ______________ of the chemical breakdown (chemical weathering) of other silicate minerals.
+a) mountains
+b) divisions
+c) shells
+d) products
+Answer: products
+
+4
+Score:2.34
+Question: Mercury has ______________, from as low as 2173°C (2280°F) at night to noontime temperatures exceeding 427°C (800°F), hot enough to melt tin and lead.
+a) the greatest temperature extremes
+b) the deepest diamond mines
+c) the normal surface temperature
+d) the poles
+Answer: the greatest temperature extremes
+
+5
+Score:2.455
+Question: List the four basic compositional groups of igneous rocks, in ______________ from the group with the highest silica content to the group with the lowest silica content.
+a) permineralization
+b) order
+c) gravity
+d) crystallization
+Answer: order
+
+6
+Score:2.41
+Question: Most of the dense minerals, olivine and pyroxene, sank, while ______________ floated to form the Moon’s crust.
+a) less-dense silicate minerals
+b) deep-sea hydrothermal vents
+c) other important building materials
+d) blood-red garnet
+Answer: less-dense silicate minerals
+
+7
+Score:2.545
+Question: Except for quartz (SiO2), ______________ (chains, sheets, or three-dimensional frameworks) of most silicate minerals has a net negative charge.
+a) the ocean crust
+b) the other hand
+c) the core
+d) the basic structure
+Answer: the basic structure
+
+8
+Score:2.65
+Question: ______________ in the continental crust Oxygen (O) 46.6% Silicon (Si) 27.7% Aluminum (Al) 8.1%.
+a) the eight most abundant elements
+b) the western margin
+c) the sediments
+d) the dominant minerals
+Answer: The eight most abundant elements
+
+9
+Score:3.06
+Question: All silicate minerals have the same fundamental building block, ______________ (SiO442).
+a) the silicon–oxygen tetrahedron
+b) the core–mantle boundary
+c) a chemical alteration
+d) the main valley glacier
+Answer: the silicon–oxygen tetrahedron
+
+1
+Score:2.27
+Question: Measure the height (amplitude) of the increase in wave amplitude corresponds to ______________ of largest wave on the seismogram (23 mm) 1 on the magnitude scale.
+a) a lake
+b) an attempt
+c) a chlorine
+d) an increase
+Answer: an increase
+
+2
+Score:3.01
+Question: The simplest crystal structures are those of ______________, such as gold and silver, which are composed of only one element.
+a) new minerals
+b) many discrete gases
+c) native metals
+d) other minerals
+Answer: native metals
+
+3
+Score:2.8
 Question: Unlike other common silicates, most clay minerals originate as ______________ of the chemical breakdown (chemical weathering) of other silicate minerals.
 a) products
 b) mountains
@@ -26,56 +431,218 @@ d) shells
 Answer: products
 
 4
-Score:13.783660130718955
-Question: Irregular versus conchoidal fracture (Photos by ______________ and Specific Gravity Density, an important property of matter, is defined as mass per unit volume.
-a) Bill Bachman/Science Source
-b) e. j. tarbuck) density
-c) Hydrolysis Vladimir Melnik
-d) Rock Creek Canyon
-Answer: E. J. Tarbuck) Density
+Score:2.34
+Question: Mercury has ______________, from as low as 2173°C (2280°F) at night to noontime temperatures exceeding 427°C (800°F), hot enough to melt tin and lead.
+a) the deepest diamond mines
+b) the normal surface temperature
+c) the poles
+d) the greatest temperature extremes
+Answer: the greatest temperature extremes
 
 5
-Score:11.318181818181818
-Question: Of ______________ of minerals, their luster, their ability to transmit light, their color, and their streak are most frequently used for mineral identification.
-a) the many optical properties
-b) all practical purposes
-c) the existing magnetic lines
-d) many discrete gases
-Answer: the many optical properties
+Score:2.455
+Question: List the four basic compositional groups of igneous rocks, in ______________ from the group with the highest silica content to the group with the lowest silica content.
+a) order
+b) permineralization
+c) gravity
+d) crystallization
+Answer: order
 
 6
-Score:9.186343068696011
-Question: When a magma body cools, the silicon and oxygen atoms link together first to form ______________, the basic building blocks of the silicate minerals (see A. Molten rock may crystallize at depth or at Earth’s surface.
-a) modern depth-sounding equipment
-b) the whole-mantle convection model
-c) high-grade range
+Score:2.41
+Question: Most of the dense minerals, olivine and pyroxene, sank, while ______________ floated to form the Moon’s crust.
+a) deep-sea hydrothermal vents
+b) less-dense silicate minerals
+c) other important building materials
+d) blood-red garnet
+Answer: less-dense silicate minerals
+
+7
+Score:2.545
+Question: Except for quartz (SiO2), ______________ (chains, sheets, or three-dimensional frameworks) of most silicate minerals has a net negative charge.
+a) the other hand
+b) the ocean crust
+c) the core
+d) the basic structure
+Answer: the basic structure
+
+8
+Score:2.65
+Question: ______________ in the continental crust Oxygen (O) 46.6% Silicon (Si) 27.7% Aluminum (Al) 8.1%.
+a) the eight most abundant elements
+b) the sediments
+c) the western margin
+d) the dominant minerals
+Answer: The eight most abundant elements
+
+9
+Score:3.06
+Question: All silicate minerals have the same fundamental building block, ______________ (SiO442).
+a) the main valley glacier
+b) a chemical alteration
+c) the silicon–oxygen tetrahedron
+d) the core–mantle boundary
+Answer: the silicon–oxygen tetrahedron
+
+1
+Score:2.1799999999999997
+Question: After World War II, modern instruments replaced rock hammers as ______________ of choice for many researchers.
+a) the urals
+b) the sites
+c) the effects
+d) the tools
+Answer: the tools
+
+2
+Score:2.6
+Question: ______________ on quartz B. Sulfur C. Copper two-letter symbol.
+a) rocky/iron core neptune key
+b) (photos by dennis tasa matter and minerals potassium feldspar a. potassium feldspar crystal (orthoclase) b. potassium feldspar
+c) tombolo tombolo t. i. m. e spit
+d) tasa) a. gold
+Answer: Tasa) A. Gold
+
+3
+Score:2.3
+Question: Unlike other common silicates, most clay minerals originate as ______________ of the chemical breakdown (chemical weathering) of other silicate minerals.
+a) divisions
+b) mountains
+c) shells
+d) products
+Answer: products
+
+4
+Score:2.1
+Question: Manganese Pyrolusite Residual product of weathering Mercury Cinnabar Hydrothermal deposits Molybdenum Molybdenite Hydrothermal deposits ______________; placers Silver Native silver Hydrothermal deposits; enrichment by weathering processes Argentite.
+a) plate motion flood basalts large basaltic province head a. rising plume tail tail
+b) placers titanium ilmenite magmatic differentiation
+c) american plate subduction zone farallon plate queen charlotte fault farallon plate future
+d) nickel pentlandite magmatic differentiation platinum native platinum magmatic differentiation
+Answer: Nickel Pentlandite Magmatic differentiation Platinum Native platinum Magmatic differentiation
+
+5
+Score:2.22
+Question: ______________ typically found in rocks with high silica content and two minerals found in rocks with relatively low silica content.
+a) 6 miles
+b) two situations
+c) name two minerals
+d) three types
+Answer: Name two minerals
+
+6
+Score:2.295
+Question: When a magma body cools, the silicon and oxygen atoms link together first to form ______________, the basic building blocks of the silicate minerals (see.
+a) individual subdeltas intertwine
+b) an iron–nickel alloy
+c) modern depth-sounding equipment
 d) silicon–oxygen tetrahedra
 Answer: silicon–oxygen tetrahedra
 
 7
-Score:18.185185185185187
+Score:2.37
 Question: The carbon atoms in diamonds are covalently bonded into ______________, which accounts for the extreme hardness of the mineral.
-a) the deep-ocean floor
-b) a compact, three-dimensional framework
-c) a more compact, rigid material
-d) a three-dimensional framework
+a) the light-colored igneous pluton
+b) a three-dimensional framework
+c) a compact, three-dimensional framework
+d) the deep-ocean floor
 Answer: a compact, three-dimensional framework
 
 8
-Score:13.933333333333334
-Question: ______________, another variety of quartz, owes its violet color to the presence of trace amounts of iron.
-a) Figure
-b) acid resin
-c) amethyst
-d) Dip
-Answer: Amethyst
+Score:2.65
+Question: ______________ in the continental crust Oxygen (O) 46.6% Silicon (Si) 27.7% Aluminum (Al) 8.1%.
+a) the eight most abundant elements
+b) the western margin
+c) the dominant minerals
+d) the sediments
+Answer: The eight most abundant elements
 
 9
-Score:14.904854368932039
-Question: Silicate Structures All silicate minerals have the same fundamental building block, ______________ (SiO442).
-a) an expansive ocean basin and ridge system
-b) the silicon–oxygen tetrahedron
-c) another rock type
-d) a chemical alteration
+Score:3.06
+Question: All silicate minerals have the same fundamental building block, ______________ (SiO442).
+a) a chemical alteration
+b) the core–mantle boundary
+c) the main valley glacier
+d) the silicon–oxygen tetrahedron
+Answer: the silicon–oxygen tetrahedron
+
+1
+Score:2.165
+Question: Mountains in the “continental drift puzzle” is one of ______________ and geologic features such as mountain belts.
+a) mineral resources
+b) shore areas
+c) rock types
+d) ice sheets
+Answer: rock types
+
+2
+Score:2.5100000000000002
+Question: The simplest crystal structures are those of ______________, such as gold and silver, which are composed of only one element.
+a) native metals
+b) new minerals
+c) many discrete gases
+d) other minerals
+Answer: native metals
+
+3
+Score:2.3
+Question: Unlike other common silicates, most clay minerals originate as ______________ of the chemical breakdown (chemical weathering) of other silicate minerals.
+a) divisions
+b) shells
+c) mountains
+d) products
+Answer: products
+
+4
+Score:1.95
+Question: Mineralogists often use ______________ called specific gravity to describe the density of minerals.
+a) an oceanic plate
+b) a related measure
+c) the reduced level
+d) the suspended weight
+Answer: a related measure
+
+5
+Score:2.22
+Question: ______________ typically found in rocks with high silica content and two minerals found in rocks with relatively low silica content.
+a) two situations
+b) three types
+c) 6 miles
+d) name two minerals
+Answer: Name two minerals
+
+6
+Score:2.295
+Question: When a magma body cools, the silicon and oxygen atoms link together first to form ______________, the basic building blocks of the silicate minerals (see.
+a) an iron–nickel alloy
+b) silicon–oxygen tetrahedra
+c) modern depth-sounding equipment
+d) individual subdeltas intertwine
+Answer: silicon–oxygen tetrahedra
+
+7
+Score:2.37
+Question: The carbon atoms in diamonds are covalently bonded into ______________, which accounts for the extreme hardness of the mineral.
+a) a three-dimensional framework
+b) a compact, three-dimensional framework
+c) the deep-ocean floor
+d) the light-colored igneous pluton
+Answer: a compact, three-dimensional framework
+
+8
+Score:2.5
+Question: Every silicate mineral contains ______________ in Earth’s crust, oxygen and silicon.
+a) the single most abundant material
+b) the most abundant product
+c) one or more new compounds
+d) the two most abundant elements
+Answer: the two most abundant elements
+
+9
+Score:2.95
+Question: All silicate minerals have the same fundamental building block, ______________ (SiO442).
+a) a chemical alteration
+b) the core–mantle boundary
+c) the main valley glacier
+d) the silicon–oxygen tetrahedron
 Answer: the silicon–oxygen tetrahedron
 

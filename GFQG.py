@@ -44,7 +44,7 @@ def sentence_selection(data, important_words, al_sel):
     """
     Calculating features for each sentence S and then calculating sentence score based on assigned weights to each feature
     Features description:
-    F1 - number of tokens common in video segment and S/ length(S) TODO: it is not working yet
+    F1 - number of tokens common in video segment and S/ length(S)
     F2 - number of common words in video segment and S
     F3 - number S contains any abbreviation/ length(S)
     F4 - does S contains words in superlative degree (POS - ‘JJS’)
@@ -60,7 +60,7 @@ def sentence_selection(data, important_words, al_sel):
     from video segment
     """
     # weights = [1.5, 0.1, 1, 1, 0.2, 0.2]
-    weights = [2, 1, 0.5, 1, 1, 1, 1]
+    weights = [1.5, 1, 1, 1]
     # finding features
     sent_scores = []
     details = []
@@ -77,15 +77,15 @@ def sentence_selection(data, important_words, al_sel):
             features = []
             pos_tags = [token.tag_ for token in sentence]
             f1 = len(set([str(i.lemma_).lower() for i in sentence if str(i.lemma_).lower() in important_words])) / number_of_words
-            features.append(f1)
-            f2 = len(set([str(i.lemma_).lower() for i in sentence if str(i.lemma_).lower() in important_words]))
-            features.append(f2)
-            f3 = len([i for i in sentence if i.text.isupper() and len(i.text) > 1 and i.pos_ == 'PROPN'])/ number_of_words
-            features.append(f3)
-            f4 = 0
-            if 'JJS' in pos_tags:
-                f4 = 1
-            features.append(f4)
+            features.append(round(f1, 2))
+            # f2 = len(set([str(i.lemma_).lower() for i in sentence if str(i.lemma_).lower() in important_words]))
+            # features.append(round(f2, 2))
+            f3 = len([i for i in sentence if i.is_upper and len(i.text) > 1 and i.is_alpha and i.pos_ == 'PROPN'])/ number_of_words
+            features.append(round(f3, 2))
+            # f4 = 0
+            # if 'JJS' in pos_tags:
+            #     f4 = 1
+            # features.append(f4)
             # TODO: this list need to be filled with more examples or figure out something easier
             if any(discourse in sentence.text.lower() for discourse in ['because', 'then', 'here', 'Here’s',
                                                                         'Ultimately', 'chapter', 'finally', 'described',
@@ -106,23 +106,25 @@ def sentence_selection(data, important_words, al_sel):
                 f5 = 1
             features.append(f5)
             f6 = len([p for p in pos_tags if p in ['NN', 'NNS']]) / number_of_words
-            features.append(f6)
-            f7 = len([p for p in pos_tags if p in ['NNP', 'NNPS']]) / number_of_words
-            features.append(f7)
+            features.append(round(f6, 2))
+            # f7 = len([p for p in pos_tags if p in ['NNP', 'NNPS']]) / number_of_words
+            # features.append(round(f7, 2))
             score = np.dot(weights, features)
             sent_scores.append(score)
             details.append(features)
             good_sent.append(sentence)
     # in this step we do selection based on the score. At this moment max score selected
-    selection = [(y,x,z) for y, x, z in sorted(zip(sent_scores, good_sent, details), reverse=True)][:3]
+    selection = [(y,x,z) for y, x, z in sorted(zip(sent_scores, good_sent, details), reverse=True)][:5]
     selection_out = [x for _, x in sorted(zip(sent_scores, good_sent), reverse=True)][:1]
     al_sel.add(selection_out[0].text)
     max_score = selection[0][0]
-    # for i in selection:
-    #     print('Overall score', i[0])
-    #     print('Sentence', i[1])
-    #     print('Features', i[2])
-    #     print('Common words', [j for j in set([str(i.lemma_).lower() for i in i[1] if str(i.lemma_).lower() in important_words])])
+    for i in selection:
+        print('Overall score', round(float(i[0]), 2))
+        print('Sentence', i[1])
+        print('Features', i[2])
+        print('Weight Features', list(map(lambda x, y: round(x*y, 2), i[2], weights)))
+        print('Common words', [j for j in set([str(i.lemma_).lower() for i in i[1] if str(i.lemma_).lower() in important_words])])
+    print('\n')
     # pprint.pprint(al_sel)
     return selection_out, important_words, al_sel, max_score
 
@@ -303,7 +305,7 @@ def rawtext2question(book_text, video_lecture_words, already_sel, word_dict, ful
         threshold = 0
         with open(work_folder + 'results.txt', 'a') as out:
             if (sent_score) >= threshold:
-                result = str(video_seg) + '\n' + 'Score:' + str(sent_score + key_score) + '\n' \
+                result = str(video_seg) + '\n' + 'Score:' + str(sent_score) + '\n' \
                          + 'Question: ' + gap_question + '\n' \
                          + 'a) ' + str(distractor_list[0]).lower() + '\n' \
                          + 'b) ' + str(distractor_list[1]).lower() + '\n' \
