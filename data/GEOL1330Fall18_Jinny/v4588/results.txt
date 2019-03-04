@@ -88,3 +88,183 @@ c) native metals
 d) new minerals
 Answer: native metals
 
+1
+Score:1.9249999999999998
+Question: Using fossils and many other geologic clues, scientists have reconstructed ______________ going back hundreds of millions of years.
+a) earth’s climate
+b) earth’s interior
+c) the hubble space telescope
+d) earth’s mountain-building and volcanic processes
+Answer: Earth’s climate
+
+2
+Score:2.035
+Question: Unlike ______________, such as granite and basalt, the terms tuff and volcanic breccia do not imply mineral composition.
+a) most igneous rock names
+b) most granitic rocks
+c) minimal chemical weathering
+d) other important building materials
+Answer: most igneous rock names
+
+3
+Score:2.15
+Question: Important sulfide minerals include ______________ (lead), sphalerite (zinc), and chalcopyrite (copper).
+a) scale trees
+b) galena
+c) fossil fuels
+d) oxygen
+Answer: galena
+
+4
+Score:2.205
+Question: ______________ and gravel 137 kg (304 lbs) 178 kg (395 lbs) 162 kg (361 lbs) 302 kg (672 lbs).
+a) aluminum
+b) sand
+c) lead
+d) iron 6 kg
+Answer: Sand
+
+5
+Score:2.175
+Question: Influential factors include ______________ of slope, nature of the surface material, intensity of rainfall, and type and amount of vegetation.
+a) thickness
+b) elevation
+c) availability
+d) steepness
+Answer: steepness
+
+6
+Score:2.58
+Question: When hydrogen atoms bond, the negatively charged electrons are shared by both hydrogen atoms and attracted simultaneously by ______________ of the proton in the nucleus of each atom.
+a) a particular region
+b) the immense pressure
+c) another basic rule
+d) the positive charge
+Answer: the positive charge
+
+7
+Score:2.2
+Question: ______________ partially filled with amethyst ______________s form in cavities in rocks, such as limestone and volcanic rocks.
+a) crushed and broken rocks
+b) geode
+c) repeated collisions
+d) voids
+Answer: Geode
+
+8
+Score:2.2249999999999996
+Question: Mineralogists use the term crystal shape, or habit, to refer to ______________ of individual crystals or aggregates of crystals.
+a) the upper mantle
+b) the igneous, sedimentary, and metamorphic rocks
+c) a significant impact
+d) the common or characteristic shape
+Answer: the common or characteristic shape
+
+9
+Score:1.835
+Question: Hardness One of the most useful diagnostic properties is hardness, ______________ of the resistance of a mineral to abrasion or scratching.
+a) a process
+b) the part
+c) a measure
+d) a result
+Answer: a measure
+
+10
+Score:2.045
+Question: As air infiltrates the spaces between the crystals, the extremities of the crystals evaporate, and ______________ near the centers of the crystals.
+a) the rain forest trees
+b) the water tower
+c) the water vapor condenses
+d) the water table
+Answer: the water vapor condenses
+
+1
+Score:1.92
+Question: Using fossils and many other geologic clues, scientists have reconstructed ______________ going back hundreds of millions of years.
+a) the hubble space telescope
+b) earth’s interior
+c) earth’s climate
+d) earth’s mountain-building and volcanic processes
+Answer: Earth’s climate
+
+2
+Score:2.04
+Question: Unlike ______________, such as granite and basalt, the terms tuff and volcanic breccia do not imply mineral composition.
+a) most granitic rocks
+b) other important building materials
+c) most igneous rock names
+d) minimal chemical weathering
+Answer: most igneous rock names
+
+3
+Score:2.15
+Question: Important sulfide minerals include ______________ (lead), sphalerite (zinc), and chalcopyrite (copper).
+a) oxygen
+b) galena
+c) scale trees
+d) fossil fuels
+Answer: galena
+
+4
+Score:2.2
+Question: ______________ and gravel 137 kg (304 lbs) 178 kg (395 lbs) 162 kg (361 lbs) 302 kg (672 lbs).
+a) aluminum
+b) iron 6 kg
+c) lead
+d) sand
+Answer: Sand
+
+5
+Score:2.17
+Question: Influential factors include ______________ of slope, nature of the surface material, intensity of rainfall, and type and amount of vegetation.
+a) steepness
+b) thickness
+c) availability
+d) elevation
+Answer: steepness
+
+6
+Score:2.58
+Question: When hydrogen atoms bond, the negatively charged electrons are shared by both hydrogen atoms and attracted simultaneously by ______________ of the proton in the nucleus of each atom.
+a) another basic rule
+b) the positive charge
+c) the immense pressure
+d) a particular region
+Answer: the positive charge
+
+7
+Score:2.2
+Question: ______________ partially filled with amethyst ______________s form in cavities in rocks, such as limestone and volcanic rocks.
+a) geode
+b) crushed and broken rocks
+c) repeated collisions
+d) voids
+Answer: Geode
+
+8
+Score:2.22
+Question: Mineralogists use the term crystal shape, or habit, to refer to ______________ of individual crystals or aggregates of crystals.
+a) a significant impact
+b) the common or characteristic shape
+c) the igneous, sedimentary, and metamorphic rocks
+d) the upper mantle
+Answer: the common or characteristic shape
+
+9
+Score:1.84
+Question: Hardness One of the most useful diagnostic properties is hardness, ______________ of the resistance of a mineral to abrasion or scratching.
+a) a measure
+b) the part
+c) a result
+d) a process
+Answer: a measure
+
+10
+Score:2.04
+Question: As air infiltrates the spaces between the crystals, the extremities of the crystals evaporate, and ______________ near the centers of the crystals.
+a) the rain forest trees
+b) the water table
+c) the water vapor condenses
+d) the water tower
+Answer: the water vapor condenses
+

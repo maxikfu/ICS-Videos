@@ -47,13 +47,14 @@ if __name__ == '__main__':
     #     f.write(displacy.render(doc,style='dep'))
     # print(doc[0].is_alpha)
     # exit()
-    video_number = 4608
+    video_number = 4623
     dict_ocr = ocr2dic.ocr2dict('data/GEOL1330Fall18_Jinny/v'+str(video_number)+'/img_txt/Modi_all_'
                                 +str(video_number)+'.csv', 'data/GEOL1330Fall18_Jinny/v'
                                 +str(video_number)+'/v'+str(video_number)+'_segments.csv')
     folder = 'data/GEOL1330Fall18_Jinny/v'+str(video_number)+'/'
     already_selected = set()
     book_dict, total_w_count = texttiling_file_read('data/GEOL1330Fall18_Jinny/v4588/tt_Earth.txt')
+    all_questions = []
     for seg in dict_ocr:
         v_seg = seg
         segment = dict_ocr[seg]
@@ -83,10 +84,12 @@ if __name__ == '__main__':
             max_score_seg = [scores[0][0], scores[1][0], scores[2][0]]
             segment_text = nlp(book_dict[max_score_seg[0]].text + book_dict[max_score_seg[1]].text + book_dict[max_score_seg[2]].text)
             already_selected = GFQG.rawtext2question(segment_text, video_words, already_selected, total_w_count,
-                                                     book_dict, folder, v_seg)
+                                                     book_dict, folder, v_seg, all_questions)
         else:
-            print(scores)
-            print(seg)
-        # for slide, clusters in dict_ocr.items():
-        #     list_of_words = list_of_words + [clusters[s][0][0] for s in clusters]
+            pass
+    with open(folder+'ranked_questions.txt', 'w') as f:
+        for i in sorted(all_questions, reverse=True):
+            f.write(i[1])
+
+
 

@@ -118,13 +118,13 @@ def sentence_selection(data, important_words, al_sel):
     selection_out = [x for _, x in sorted(zip(sent_scores, good_sent), reverse=True)][:1]
     al_sel.add(selection_out[0].text)
     max_score = selection[0][0]
-    for i in selection:
-        print('Overall score', round(float(i[0]), 2))
-        print('Sentence', i[1])
-        print('Features', i[2])
-        print('Weight Features', list(map(lambda x, y: round(x*y, 2), i[2], weights)))
-        print('Common words', [j for j in set([str(i.lemma_).lower() for i in i[1] if str(i.lemma_).lower() in important_words])])
-    print('\n')
+    # for i in selection:
+    #     print('Overall score', round(float(i[0]), 2))
+    #     print('Sentence', i[1])
+    #     print('Features', i[2])
+    #     print('Weight Features', list(map(lambda x, y: round(x*y, 2), i[2], weights)))
+    #     print('Common words', [j for j in set([str(i.lemma_).lower() for i in i[1] if str(i.lemma_).lower() in important_words])])
+    # print('\n')
     # pprint.pprint(al_sel)
     return selection_out, important_words, al_sel, max_score
 
@@ -270,7 +270,7 @@ def questions_formation(sentences, word_count, topic_words):
     return chunk_span_dict, best_score
 
 
-def rawtext2question(book_text, video_lecture_words, already_sel, word_dict, full_book, work_folder, video_seg):
+def rawtext2question(book_text, video_lecture_words, already_sel, word_dict, full_book, work_folder, video_seg, a_q):
     """
     Main function what generates gap-fill questions from text book
     :param work_folder:
@@ -305,13 +305,14 @@ def rawtext2question(book_text, video_lecture_words, already_sel, word_dict, ful
         threshold = 0
         with open(work_folder + 'results.txt', 'a') as out:
             if (sent_score) >= threshold:
-                result = str(video_seg) + '\n' + 'Score:' + str(sent_score) + '\n' \
+                result = str(video_seg) + '\n' + 'Score:' + str(round(sent_score,2)) + '\n' \
                          + 'Question: ' + gap_question + '\n' \
                          + 'a) ' + str(distractor_list[0]).lower() + '\n' \
                          + 'b) ' + str(distractor_list[1]).lower() + '\n' \
                          + 'c) ' + str(distractor_list[2]).lower() + '\n' \
                          + 'd) ' + str(distractor_list[3]).lower() + '\n' \
                          + 'Answer: ' + key_chunk.text + '\n' + '\n'
+                a_q.append((round(sent_score,2), result))
             else:
                 result = str(video_seg) + ' No questions with the score more then' + str(threshold) + '\n \n'
             out.write(result)
