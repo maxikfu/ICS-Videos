@@ -5,8 +5,10 @@ import json
 
 
 with open('tt_Earth_cleaned.json', 'r') as f:
-    stage0 = json.loads(f.readlines()[2])
+    stage0 = json.loads(f.readlines()[42])
 
+# pprint.pprint(stage0['text'])
+# exit()
 
 path_stage1 = "o1.json"
 path_stage2 = "o2.json"
@@ -33,16 +35,16 @@ with open(path_stage3, 'w') as f:
         f.write(pytextrank.pretty_print(s._asdict()))
         f.write("\n")
         # to view output in this notebook
-        print(s)
+
 """Summarize a document based on most significant sentences and key phrases"""
-phrases = ", ".join(set([p for p in pytextrank.limit_keyphrases(path_stage2, phrase_limit=12)]))
-sent_iter = sorted(pytextrank.limit_sentences(path_stage3, word_limit=150), key=lambda x: x[1])
-print(sent_iter)
-# s = []
-#
-# for sent_text, idx in sent_iter:
-#     s.append(pytextrank.make_sentence(sent_text))
-#
-# graf_text = " ".join(s)
-# pprint.pprint("**excerpts:** %s\n\n**keywords:** %s" % (graf_text, phrases,))
-#
+phrases = ", ".join(set([p for p in pytextrank.limit_keyphrases(path_stage2, phrase_limit=20)]))
+sent_iter = sorted(pytextrank.limit_sentences(path_stage3, word_limit=500), key=lambda x: x[1])
+
+s = []
+
+for sent_text, idx in sent_iter:
+    s.append(pytextrank.make_sentence(sent_text))
+
+graf_text = " ".join(s)
+pprint.pprint("**excerpts:** %s\n\n**keywords:** %s" % (graf_text, phrases,))
+

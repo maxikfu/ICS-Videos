@@ -11,7 +11,7 @@ def text_tiling(path):
     working_dir = os.path.dirname(os.path.abspath(path)) + '/'
     with open(path, 'r') as f:
         raw_text = f.read()
-    tt = nltk.TextTilingTokenizer(w=1000)
+    tt = nltk.TextTilingTokenizer(w=50)
     tokens = tt.tokenize(raw_text)
     list_dic = []
     i = 1
