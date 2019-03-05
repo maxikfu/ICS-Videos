@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/VideoPoints.iml" filepath="$PROJECT_DIR$/.idea/VideoPoints.iml" />
       <module fileurl="file://$PROJECT_DIR$/../pytextrank/.idea/pytextrank.iml" filepath="$PROJECT_DIR$/../pytextrank/.idea/pytextrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytextrank/.idea/pytextrank.iml" filepath="$PROJECT_DIR$/../pytextrank/.idea/pytextrank.iml" />
     </modules>
   </component>
 </project>
