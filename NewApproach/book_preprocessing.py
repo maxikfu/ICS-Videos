@@ -1,8 +1,15 @@
 import re
-import pytextrank
+import os
 
 
 def clean(path):
+    """
+    Cleaning up data after conversion pdf to txt format
+    :param path: path to txt version of the book
+    :return:
+    """
+    out_fname = os.path.splitext(os.path.basename(path))[0] + '_cleaned'
+    working_dir = os.path.dirname(os.path.abspath(path)) + '/'
     with open(path, 'r') as file:
         raw0 = file.readlines()
     """deleting uppercase words"""
@@ -22,7 +29,7 @@ def clean(path):
     for l in raw3:
         i += 1
         if len(l.split()) != 0:
-            l = re.sub(r'(\([ ,A-z]*Figure[ , ., 0-9]*\))', '', l)
+            l = re.sub(r"(\([ ,A-z]*Figure[ ,.,0-9]*\))", '', l)
             l = re.sub(r'(^Figure[ , ., 0-9]*)', '', l)
             l = re.sub(r'([A-z]*Figure[ , ., 0-9]*)', '', l)
             if len(l.split()) != 0:
@@ -32,7 +39,7 @@ def clean(path):
                         and raw3[i + 1][0].isupper() and not start:
                     pass
                 else:
-                    block.append(l)
+                    block.append(l.strip() + ' ')
                     start = True
         if len(l.split()) == 0 and start and len(block) > 0:  # we met end of block
             if str(block[-1].strip()[-1]) in ['.', '?']:  # if block ends with . ? valid block
@@ -47,7 +54,7 @@ def clean(path):
                     block = []
     # ( \(Figure[ , . ,0-9]*\)) deleting (Figure ....)
 
-    with open('res2.txt', 'w') as f:
+    with open(working_dir + out_fname + '.txt', 'w') as f:
         for l in raw4:
             f.write(''.join(l))
 
