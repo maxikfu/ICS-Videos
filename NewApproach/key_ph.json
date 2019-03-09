@@ -1,0 +1,64 @@
+{"count": 1, "ids": [15, 16], "pos": "np", "rank": 0.09737263217244786, "text": "great earthquakes"}
+{"count": 1, "ids": [18, 16], "pos": "np", "rank": 0.08516520870170065, "text": "chilean earthquake"}
+{"count": 2, "ids": [1], "pos": "np", "rank": 0.06917820355221284, "text": "plate"}
+{"count": 2, "ids": [16], "pos": "nn", "rank": 0.04868631608622393, "text": "earthquake"}
+{"count": 1, "ids": [17], "pos": "vbg", "rank": 0.04754889451908428, "text": "including"}
+{"count": 1, "ids": [18], "pos": "nnp", "rank": 0.042582604350850324, "text": "chilean"}
+{"count": 1, "ids": [12, 13], "pos": "np", "rank": 0.03667151237222182, "text": "chile trench"}
+{"count": 1, "ids": [1, 4], "pos": "np", "rank": 0.03458910177610642, "text": "plate scrapes"}
+{"count": 2, "ids": [67, 1], "pos": "np", "rank": 0.023918092799759278, "text": "continental plates"}
+{"count": 2, "ids": [20, 1], "pos": "np", "rank": 0.023059401184070946, "text": "oceanic plates"}
+{"count": 1, "ids": [63, 64], "pos": "np", "rank": 0.021829651472842035, "text": "tectonic setting"}
+{"count": 1, "ids": [20, 21, 22], "pos": "np", "rank": 0.021697400556886855, "text": "oceanic lithosphere ages"}
+{"count": 2, "ids": [32, 33], "pos": "np", "rank": 0.01933148561356405, "text": "western pacific"}
+{"count": 3, "ids": [13], "pos": "nns", "rank": 0.01833575618611091, "text": "trenches"}
+{"count": 1, "ids": [49, 13], "pos": "np", "rank": 0.01833575618611091, "text": "most trenches"}
+{"count": 1, "ids": [55, 56, 57], "pos": "np", "rank": 0.018319773101106083, "text": "same basic characteristics"}
+{"count": 1, "ids": [4], "pos": "nns", "rank": 0.017196565772181618, "text": "scrapes"}
+{"count": 1, "ids": [5], "pos": "nn", "rank": 0.016775120448998784, "text": "top"}
+{"count": 1, "ids": [6], "pos": "vbg", "rank": 0.016417745740149817, "text": "subducting"}
+{"count": 1, "ids": [60, 61], "pos": "np", "rank": 0.012923368028992237, "text": "crustal material"}
+{"count": 1, "ids": [35, 36], "pos": "np", "rank": 0.012529149425758626, "text": "years old"}
+{"count": 1, "ids": [3], "pos": "vbg", "rank": 0.012323508991016715, "text": "overriding"}
+{"count": 1, "ids": [2], "pos": "vbp", "rank": 0.011959046399879639, "text": "converge"}
+{"count": 2, "ids": [7], "pos": "nn", "rank": 0.01117933762458559, "text": "type"}
+{"count": 1, "ids": [64], "pos": "nn", "rank": 0.010914825736421017, "text": "setting"}
+{"count": 1, "ids": [20, 21], "pos": "np", "rank": 0.010848700278443427, "text": "oceanic lithosphere"}
+{"count": 1, "ids": [59], "pos": "vbg", "rank": 0.01061212087574648, "text": "depending"}
+{"count": 1, "ids": [51, 33], "pos": "np", "rank": 0.010551943702906495, "text": "eastern pacific"}
+{"count": 1, "ids": [40], "pos": "nns", "rank": 0.010150105345019873, "text": "oceans"}
+{"count": 1, "ids": [58], "pos": "vbp", "rank": 0.009944857135229917, "text": "vary"}
+{"count": 1, "ids": [47], "pos": "nns", "rank": 0.009863920499451525, "text": "degrees"}
+{"count": 3, "ids": [33], "pos": "nnp", "rank": 0.009665742806782025, "text": "pacific"}
+{"count": 1, "ids": [62], "pos": "vbn", "rank": 0.009578592207267997, "text": "involved"}
+{"count": 1, "ids": [45], "pos": "np", "rank": 0.009417791457077425, "text": "angles"}
+{"count": 1, "ids": [39], "pos": "nn", "rank": 0.009401221914882527, "text": "today"}
+{"count": 1, "ids": [57], "pos": "nns", "rank": 0.009159886550553041, "text": "characteristics"}
+{"count": 1, "ids": [9], "pos": "nn", "rank": 0.008388888359395214, "text": "subduction"}
+{"count": 1, "ids": [30], "pos": "nn", "rank": 0.008006419289038162, "text": "density"}
+{"count": 1, "ids": [25], "pos": "np", "rank": 0.00798760728641399, "text": "center"}
+{"count": 1, "ids": [41, 42], "pos": "np", "rank": 0.00798760728641399, "text": "dense slabs"}
+{"count": 1, "ids": [14], "pos": "nns", "rank": 0.007530875523741429, "text": "experiences"}
+{"count": 1, "ids": [29], "pos": "vb", "rank": 0.006879423381138145, "text": "increase"}
+{"count": 1, "ids": [46], "pos": "vbg", "rank": 0.006710214777223341, "text": "approaching"}
+{"count": 1, "ids": [61], "pos": "nn", "rank": 0.006461684014496118, "text": "material"}
+{"count": 1, "ids": [44], "pos": "nn", "rank": 0.00600011146612258, "text": "mantle"}
+{"count": 2, "ids": [10], "pos": "nn", "rank": 0.005553582683580906, "text": "region"}
+{"count": 1, "ids": [28], "pos": "vb", "rank": 0.005553582683580906, "text": "thicken"}
+{"count": 1, "ids": [52, 53], "pos": "np", "rank": 0.005235101841160393, "text": "convergent zones"}
+{"count": 1, "ids": [52, 65], "pos": "np", "rank": 0.005235101841160393, "text": "convergent boundaries"}
+{"count": 1, "ids": [21], "pos": "nn", "rank": 0.005232668085503851, "text": "lithosphere"}
+{"count": 1, "ids": [22], "pos": "nns", "rank": 0.005178356722422181, "text": "ages"}
+{"count": 1, "ids": [66], "pos": "vb", "rank": 0.004842499310842739, "text": "form"}
+{"count": 1, "ids": [35], "pos": "nns", "rank": 0.004830196164644768, "text": "years"}
+{"count": 1, "ids": [8], "pos": "vbn", "rank": 0.004534479669597023, "text": "forced"}
+{"count": 1, "ids": [43], "pos": "vbp", "rank": 0.004519111697088038, "text": "plunge"}
+{"count": 1, "ids": [27], "pos": "vbz", "rank": 0.003993803643206995, "text": "causes"}
+{"count": 1, "ids": [42], "pos": "nns", "rank": 0.003993803643206995, "text": "slabs"}
+{"count": 1, "ids": [12], "pos": "nnp", "rank": 0.0034392371640661465, "text": "chile"}
+{"count": 1, "ids": [53], "pos": "nns", "rank": 0.0026175509205801964, "text": "zones"}
+{"count": 1, "ids": [65], "pos": "nns", "rank": 0.0026175509205801964, "text": "boundaries"}
+{"count": 1, "ids": [24], "pos": "vbg", "rank": 0.00215880001303793, "text": "spreading"}
+{"count": 1, "ids": [26], "pos": "vbz", "rank": 0.00215880001303793, "text": "cools"}
+{"count": 1, "ids": [31], "pos": "nns", "rank": 0.00215880001303793, "text": "parts"}
+{"count": 1, "ids": [48], "pos": "vbz", "rank": 0.00215880001303793, "text": "explains"}
