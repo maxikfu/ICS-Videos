@@ -1,0 +1,64 @@
+{"count": 1, "ids": [644, 645, 158], "pos": "np", "rank": 0.08881423674267305, "text": "different feldspar structures"}
+{"count": 11, "ids": [645], "pos": "nn", "rank": 0.044407118371336526, "text": "feldspar"}
+{"count": 2, "ids": [645, 549], "pos": "np", "rank": 0.044407118371336526, "text": "feldspar minerals"}
+{"count": 1, "ids": [648, 649], "pos": "np", "rank": 0.036307131562135164, "text": "potassium ions"}
+{"count": 1, "ids": [672], "pos": "np", "rank": 0.03262210107629566, "text": "pink"}
+{"count": 1, "ids": [669, 556], "pos": "np", "rank": 0.03169717659110401, "text": "shiny faces"}
+{"count": 1, "ids": [129, 658, 548], "pos": "np", "rank": 0.030084555009558252, "text": "similar physical properties"}
+{"count": 3, "ids": [648, 645], "pos": "np", "rank": 0.029604745580891018, "text": "potassium feldspar"}
+{"count": 1, "ids": [650, 645], "pos": "np", "rank": 0.029118487641943486, "text": "plagioclase feldspar"}
+{"count": 1, "ids": [583, 659], "pos": "np", "rank": 0.027522779717264665, "text": "cleavage meeting"}
+{"count": 1, "ids": [668, 201], "pos": "np", "rank": 0.024558676055714584, "text": "rectangular shape"}
+{"count": 1, "ids": [645, 626], "pos": "np", "rank": 0.022203559185668263, "text": "feldspar crystals"}
+{"count": 1, "ids": [674, 675], "pos": "np", "rank": 0.021697496217383212, "text": "medium gray"}
+{"count": 1, "ids": [671], "pos": "np", "rank": 0.021642642438911435, "text": "salmon"}
+{"count": 2, "ids": [681], "pos": "np", "rank": 0.021558672421862102, "text": "striations"}
+{"count": 1, "ids": [217, 647], "pos": "np", "rank": 0.020823934080512727, "text": "other group"}
+{"count": 1, "ids": [122, 670], "pos": "np", "rank": 0.019833142488115223, "text": "light cream"}
+{"count": 1, "ids": [126, 679, 680], "pos": "np", "rank": 0.018935475869202398, "text": "fine parallel lines"}
+{"count": 2, "ids": [649], "pos": "nns", "rank": 0.018153565781067582, "text": "ions"}
+{"count": 1, "ids": [652, 649], "pos": "np", "rank": 0.018153565781067582, "text": "calcium ions"}
+{"count": 4, "ids": [648], "pos": "nn", "rank": 0.018124047736837318, "text": "potassium"}
+{"count": 2, "ids": [619], "pos": "vb", "rank": 0.01622888454611838, "text": "distinguish"}
+{"count": 1, "ids": [583, 457], "pos": "np", "rank": 0.015925542415929302, "text": "cleavage planes"}
+{"count": 1, "ids": [556], "pos": "nns", "rank": 0.015848588295552003, "text": "faces"}
+{"count": 1, "ids": [548], "pos": "nns", "rank": 0.015042277504779126, "text": "properties"}
+{"count": 3, "ids": [650], "pos": "nn", "rank": 0.014559243820971743, "text": "plagioclase"}
+{"count": 2, "ids": [158], "pos": "nn", "rank": 0.013951202786248847, "text": "structure"}
+{"count": 1, "ids": [583], "pos": "nn", "rank": 0.013761389858632333, "text": "cleavage"}
+{"count": 2, "ids": [45], "pos": "vbn", "rank": 0.01361145879811568, "text": "called"}
+{"count": 1, "ids": [201], "pos": "nn", "rank": 0.012279338027857292, "text": "shape"}
+{"count": 1, "ids": [646], "pos": "vbp", "rank": 0.01216575234487234, "text": "exist"}
+{"count": 2, "ids": [452], "pos": "vbz", "rank": 0.011843949777826717, "text": "contains"}
+{"count": 1, "ids": [667, 60], "pos": "np", "rank": 0.011772646111115236, "text": "igneous rocks"}
+{"count": 1, "ids": [662, 663], "pos": "np", "rank": 0.010725428329422384, "text": "mohs scale"}
+{"count": 1, "ids": [653], "pos": "vbp", "rank": 0.010613455677073245, "text": "substitute"}
+{"count": 3, "ids": [647], "pos": "nns", "rank": 0.010411967040256364, "text": "groups"}
+{"count": 2, "ids": [549], "pos": "nns", "rank": 0.01014415285829278, "text": "minerals"}
+{"count": 2, "ids": [665], "pos": "vbp", "rank": 0.009956345444137276, "text": "range"}
+{"count": 1, "ids": [670], "pos": "nn", "rank": 0.009916571244057612, "text": "cream"}
+{"count": 3, "ids": [610], "pos": "nn", "rank": 0.009594145627765489, "text": "color"}
+{"count": 1, "ids": [1], "pos": "vbn", "rank": 0.009573179639527326, "text": "identified"}
+{"count": 1, "ids": [680], "pos": "nns", "rank": 0.009467737934601199, "text": "lines"}
+{"count": 1, "ids": [659], "pos": "nn", "rank": 0.008490041063812353, "text": "meeting"}
+{"count": 1, "ids": [232, 676], "pos": "np", "rank": 0.008261449800646277, "text": "only way"}
+{"count": 1, "ids": [678], "pos": "nn", "rank": 0.008175973706679931, "text": "multitude"}
+{"count": 2, "ids": [457], "pos": "nns", "rank": 0.007962771207964651, "text": "planes"}
+{"count": 1, "ids": [626], "pos": "nns", "rank": 0.007916874227140889, "text": "crystals"}
+{"count": 1, "ids": [656], "pos": "nn", "rank": 0.0074571497280968985, "text": "crystallization"}
+{"count": 1, "ids": [217, 600], "pos": "np", "rank": 0.007029460536258223, "text": "other hand"}
+{"count": 1, "ids": [651], "pos": "nn", "rank": 0.0062546077426071855, "text": "sodium"}
+{"count": 1, "ids": [94], "pos": "vbn", "rank": 0.006208460900516517, "text": "referred"}
+{"count": 1, "ids": [677], "pos": "vb", "rank": 0.006208460900516517, "text": "look"}
+{"count": 1, "ids": [60], "pos": "nns", "rank": 0.005886323055557618, "text": "rocks"}
+{"count": 1, "ids": [652], "pos": "nn", "rank": 0.00555674466008523, "text": "calcium"}
+{"count": 1, "ids": [655], "pos": "nn", "rank": 0.005362714164711192, "text": "environment"}
+{"count": 1, "ids": [663], "pos": "nn", "rank": 0.005362714164711192, "text": "scale"}
+{"count": 1, "ids": [676], "pos": "nn", "rank": 0.004130724900323139, "text": "way"}
+{"count": 1, "ids": [664], "pos": "nn", "rank": 0.004063633988534375, "text": "luster"}
+{"count": 1, "ids": [600], "pos": "nn", "rank": 0.0035147302681291116, "text": "hand"}
+{"count": 1, "ids": [654], "pos": "vbg", "rank": 0.0028987356359350853, "text": "depending"}
+{"count": 1, "ids": [657], "pos": "nns", "rank": 0.0028987356359350853, "text": "differences"}
+{"count": 1, "ids": [660], "pos": "nns", "rank": 0.0028987356359350853, "text": "angles"}
+{"count": 1, "ids": [662], "pos": "nnp", "rank": 0.0028987356359350853, "text": "mohs"}
+{"count": 1, "ids": [666], "pos": "nn", "rank": 0.0028987356359350853, "text": "component"}

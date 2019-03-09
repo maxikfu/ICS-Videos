@@ -1,0 +1,35 @@
+{"count": 1, "ids": [684], "pos": "np", "rank": 0.10040940797287094, "text": "humans"}
+{"count": 1, "ids": [793, 794, 341], "pos": "np", "rank": 0.09457113032741377, "text": "global climate change"}
+{"count": 1, "ids": [795, 796, 797], "pos": "np", "rank": 0.05672126986304742, "text": "major environmental issue"}
+{"count": 1, "ids": [684, 458], "pos": "np", "rank": 0.05020470398643547, "text": "human influences"}
+{"count": 4, "ids": [794], "pos": "nn", "rank": 0.04728556516370688, "text": "climate"}
+{"count": 1, "ids": [16, 794, 341], "pos": "np", "rank": 0.04728556516370688, "text": "modern climate change"}
+{"count": 1, "ids": [88, 802], "pos": "np", "rank": 0.04329386084549639, "text": "many centuries"}
+{"count": 1, "ids": [88, 217, 806], "pos": "np", "rank": 0.04268434943587314, "text": "many other life-forms"}
+{"count": 1, "ids": [634, 622], "pos": "np", "rank": 0.037513406472196024, "text": "natural variations"}
+{"count": 1, "ids": [634, 736], "pos": "np", "rank": 0.03677318258068314, "text": "natural variability"}
+{"count": 1, "ids": [793, 794], "pos": "np", "rank": 0.031523710109137924, "text": "global climate"}
+{"count": 1, "ids": [797], "pos": "nn", "rank": 0.02836063493152371, "text": "issue"}
+{"count": 1, "ids": [341], "pos": "np", "rank": 0.027091287954589188, "text": "changes"}
+{"count": 1, "ids": [248, 534], "pos": "np", "rank": 0.026546238373532708, "text": "geologic past"}
+{"count": 1, "ids": [801], "pos": "vb", "rank": 0.0237893136769244, "text": "continue"}
+{"count": 1, "ids": [802], "pos": "nns", "rank": 0.021646930422748196, "text": "centuries"}
+{"count": 1, "ids": [798], "pos": "vbn", "rank": 0.021632446365152644, "text": "dominated"}
+{"count": 1, "ids": [806], "pos": "nn", "rank": 0.02134217471793657, "text": "life-forms"}
+{"count": 1, "ids": [676], "pos": "nns", "rank": 0.020954943201129658, "text": "ways"}
+{"count": 1, "ids": [458], "pos": "nns", "rank": 0.020701774671993252, "text": "influences"}
+{"count": 1, "ids": [807, 808], "pos": "np", "rank": 0.020021369239987416, "text": "latter portion"}
+{"count": 1, "ids": [251], "pos": "vbn", "rank": 0.019447314059044776, "text": "caused"}
+{"count": 1, "ids": [736], "pos": "nn", "rank": 0.01838659129034157, "text": "variability"}
+{"count": 1, "ids": [799], "pos": "nns", "rank": 0.01802703148214296, "text": "bounds"}
+{"count": 1, "ids": [622], "pos": "nns", "rank": 0.016409831490275577, "text": "variations"}
+{"count": 1, "ids": [319], "pos": "vbp", "rank": 0.014842541595909755, "text": "exceed"}
+{"count": 1, "ids": [804], "pos": "nn", "rank": 0.013920023852200184, "text": "unknown"}
+{"count": 1, "ids": [90], "pos": "nn", "rank": 0.013920023852200184, "text": "chapter"}
+{"count": 1, "ids": [534], "pos": "nn", "rank": 0.013273119186766354, "text": "past"}
+{"count": 1, "ids": [809], "pos": "vbz", "rank": 0.01132706408224477, "text": "examines"}
+{"count": 1, "ids": [803], "pos": "nn", "rank": 0.010010684619993708, "text": "venture"}
+{"count": 1, "ids": [808], "pos": "nn", "rank": 0.010010684619993708, "text": "portion"}
+{"count": 1, "ids": [248], "pos": "nn", "rank": 0.009249287577704986, "text": "geologic"}
+{"count": 1, "ids": [792], "pos": "nn", "rank": 0.005411268407548018, "text": "today"}
+{"count": 1, "ids": [402], "pos": "nns", "rank": 0.005411268407548018, "text": "effects"}

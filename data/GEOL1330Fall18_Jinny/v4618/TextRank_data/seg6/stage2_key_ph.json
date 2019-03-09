@@ -1,0 +1,78 @@
+{"count": 1, "ids": [801, 802], "pos": "np", "rank": 0.13110368731139557, "text": "contact metamorphism"}
+{"count": 2, "ids": [803, 802], "pos": "np", "rank": 0.06555184365569779, "text": "hydrothermal metamorphism"}
+{"count": 2, "ids": [792, 800], "pos": "np", "rank": 0.046989779178338124, "text": "metamorphic environments"}
+{"count": 2, "ids": [804, 36, 802], "pos": "np", "rank": 0.04370122910379852, "text": "subduction zone metamorphism"}
+{"count": 2, "ids": [805, 802], "pos": "np", "rank": 0.03277592182784889, "text": "regional metamorphism"}
+{"count": 1, "ids": [792, 91, 793], "pos": "np", "rank": 0.032190672559408016, "text": "metamorphic rock gneiss"}
+{"count": 1, "ids": [322, 91], "pos": "np", "rank": 0.030634889589410876, "text": "parent rock"}
+{"count": 1, "ids": [802], "pos": "np", "rank": 0.026220737462279115, "text": "metamorphism"}
+{"count": 1, "ids": [183, 806, 800], "pos": "np", "rank": 0.023494889589169062, "text": "many different environments"}
+{"count": 1, "ids": [811, 802], "pos": "np", "rank": 0.02185061455189926, "text": "thermal metamorphism"}
+{"count": 1, "ids": [773, 770, 276], "pos": "np", "rank": 0.020742797379833287, "text": "variable mineral composition"}
+{"count": 1, "ids": [810, 329], "pos": "np", "rank": 0.019989622135263754, "text": "igneous activity"}
+{"count": 1, "ids": [505, 252], "pos": "np", "rank": 0.018471642478519127, "text": "grain size"}
+{"count": 2, "ids": [36], "pos": "nn", "rank": 0.017417934978133865, "text": "zone"}
+{"count": 1, "ids": [352], "pos": "np", "rank": 0.01721817907323167, "text": "pressure"}
+{"count": 1, "ids": [808, 809], "pos": "np", "rank": 0.016324771211184003, "text": "plate margins"}
+{"count": 1, "ids": [800], "pos": "np", "rank": 0.015663259726112707, "text": "environments"}
+{"count": 2, "ids": [801], "pos": "nn", "rank": 0.015509606865995005, "text": "contact"}
+{"count": 5, "ids": [91], "pos": "nn", "rank": 0.015317444794705438, "text": "rock"}
+{"count": 1, "ids": [776, 91], "pos": "np", "rank": 0.015317444794705438, "text": "clay-rich rock"}
+{"count": 2, "ids": [804], "pos": "nn", "rank": 0.014755576934921716, "text": "subduction"}
+{"count": 1, "ids": [264, 646], "pos": "np", "rank": 0.014168788734746552, "text": "small quantities"}
+{"count": 1, "ids": [768, 792, 800], "pos": "np", "rank": 0.011747444794584531, "text": "basic metamorphic environments"}
+{"count": 2, "ids": [301], "pos": "vbp", "rank": 0.011739520488615915, "text": "occur"}
+{"count": 1, "ids": [785, 386], "pos": "np", "rank": 0.011095644921001003, "text": "conchoidal fracture"}
+{"count": 1, "ids": [276], "pos": "nn", "rank": 0.010371398689916643, "text": "composition"}
+{"count": 1, "ids": [812], "pos": "nn", "rank": 0.010355109476789899, "text": "burial"}
+{"count": 1, "ids": [74, 813], "pos": "np", "rank": 0.010014309955378284, "text": "few types"}
+{"count": 1, "ids": [329], "pos": "nn", "rank": 0.009994811067631877, "text": "activity"}
+{"count": 1, "ids": [60, 774], "pos": "np", "rank": 0.009993912743599795, "text": "most hornfels"}
+{"count": 1, "ids": [687, 813], "pos": "np", "rank": 0.009450830292234997, "text": "major types"}
+{"count": 2, "ids": [142], "pos": "vbn", "rank": 0.009250428622095602, "text": "associated"}
+{"count": 1, "ids": [252], "pos": "nn", "rank": 0.009235821239259564, "text": "size"}
+{"count": 1, "ids": [783], "pos": "nn", "rank": 0.0087035647483297, "text": "color"}
+{"count": 1, "ids": [174, 796], "pos": "np", "rank": 0.00854657074426784, "text": "contrast marble"}
+{"count": 2, "ids": [256], "pos": "vb", "rank": 0.008442510625370023, "text": "indicate"}
+{"count": 3, "ids": [790], "pos": "nn", "rank": 0.008311236077578178, "text": "schist"}
+{"count": 1, "ids": [809], "pos": "nns", "rank": 0.008162385605592001, "text": "margins"}
+{"count": 1, "ids": [792, 91], "pos": "np", "rank": 0.008047668139852004, "text": "metamorphic rock"}
+{"count": 2, "ids": [793], "pos": "nn", "rank": 0.008029591917959324, "text": "gneiss"}
+{"count": 1, "ids": [487], "pos": "vbp", "rank": 0.007377188862809175, "text": "explain"}
+{"count": 1, "ids": [646], "pos": "nns", "rank": 0.007084394367373276, "text": "quantities"}
+{"count": 1, "ids": [797], "pos": "vb", "rank": 0.007011401744356396, "text": "quartzite"}
+{"count": 1, "ids": [776], "pos": "nn", "rank": 0.0069261544077691565, "text": "clay-rich"}
+{"count": 1, "ids": [795], "pos": "nn", "rank": 0.006794248318395228, "text": "texture"}
+{"count": 1, "ids": [27], "pos": "vbp", "rank": 0.006747063962034202, "text": "generate"}
+{"count": 1, "ids": [778, 779], "pos": "np", "rank": 0.00599749656753468, "text": "hot intruding"}
+{"count": 1, "ids": [786], "pos": "np", "rank": 0.005908090895265651, "text": "slate"}
+{"count": 1, "ids": [770], "pos": "nn", "rank": 0.005605955276482433, "text": "mineral"}
+{"count": 1, "ids": [284], "pos": "nn", "rank": 0.0055478224605005014, "text": "body"}
+{"count": 1, "ids": [386], "pos": "nn", "rank": 0.0055478224605005014, "text": "fracture"}
+{"count": 1, "ids": [193], "pos": "nns", "rank": 0.0055478224605005014, "text": "temperatures"}
+{"count": 1, "ids": [794], "pos": "nns", "rank": 0.005517137767035735, "text": "terms"}
+{"count": 1, "ids": [807], "pos": "nn", "rank": 0.0054302902974748815, "text": "vicinity"}
+{"count": 1, "ids": [777], "pos": "vbn", "rank": 0.0052628464651449155, "text": "baked"}
+{"count": 2, "ids": [813], "pos": "nns", "rank": 0.005007154977689142, "text": "types"}
+{"count": 1, "ids": [774], "pos": "np", "rank": 0.004996956371799898, "text": "hornfels"}
+{"count": 1, "ids": [505], "pos": "nn", "rank": 0.004992142732114173, "text": "grain"}
+{"count": 2, "ids": [789], "pos": "vb", "rank": 0.004912091559291453, "text": "mica"}
+{"count": 2, "ids": [787], "pos": "nn", "rank": 0.004628098384968345, "text": "phyllite"}
+{"count": 1, "ids": [808], "pos": "nn", "rank": 0.00441212010190027, "text": "plate"}
+{"count": 1, "ids": [796], "pos": "nn", "rank": 0.00427328537213392, "text": "marble"}
+{"count": 1, "ids": [788], "pos": "vbp", "rank": 0.004252758176696366, "text": "resemble"}
+{"count": 1, "ids": [814], "pos": "np", "rank": 0.0042087081107768775, "text": "graph"}
+{"count": 1, "ids": [799], "pos": "nn", "rank": 0.003893142512146241, "text": "description"}
+{"count": 1, "ids": [564], "pos": "nn", "rank": 0.0038484396760117266, "text": "appearance"}
+{"count": 1, "ids": [511], "pos": "vbn", "rank": 0.0035778868838565554, "text": "differentiated"}
+{"count": 1, "ids": [780], "pos": "vbz", "rank": 0.003166267273382665, "text": "tends"}
+{"count": 1, "ids": [779], "pos": "nn", "rank": 0.00299874828376734, "text": "intruding"}
+{"count": 2, "ids": [13], "pos": "nnp", "rank": 0.00299874828376734, "text": "describe"}
+{"count": 1, "ids": [174], "pos": "nn", "rank": 0.00299874828376734, "text": "contrast"}
+{"count": 1, "ids": [815], "pos": "vbz", "rank": 0.00299874828376734, "text": "illustrates"}
+{"count": 1, "ids": [187], "pos": "vb", "rank": 0.0021043540553884387, "text": "increase"}
+{"count": 1, "ids": [322], "pos": "nn", "rank": 0.0021043540553884387, "text": "parent"}
+{"count": 1, "ids": [784], "pos": "vb", "rank": 0.0021043540553884387, "text": "display"}
+{"count": 1, "ids": [791], "pos": "nnp", "rank": 0.0021043540553884387, "text": "briefly"}
+{"count": 1, "ids": [102], "pos": "vb", "rank": 0.0021043540553884387, "text": "compare"}
+{"count": 1, "ids": [208], "pos": "vb", "rank": 0.0021043540553884387, "text": "consider"}

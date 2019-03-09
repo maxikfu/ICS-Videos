@@ -1,0 +1,84 @@
+{"count": 1, "ids": [36, 290, 10, 291], "pos": "np", "rank": 0.06714028003636287, "text": "solid mantle rock ascends"}
+{"count": 2, "ids": [49], "pos": "np", "rank": 0.0564156156533516, "text": "temperature"}
+{"count": 2, "ids": [302], "pos": "np", "rank": 0.039114374907312004, "text": "plates"}
+{"count": 1, "ids": [289, 290, 10, 196], "pos": "np", "rank": 0.033570140018181434, "text": "hot mantle rock rises"}
+{"count": 5, "ids": [311], "pos": "vbg", "rank": 0.027024561006419607, "text": "melting"}
+{"count": 2, "ids": [287, 239], "pos": "np", "rank": 0.025945429815450678, "text": "decompression melting"}
+{"count": 1, "ids": [290, 315], "pos": "np", "rank": 0.022380093345454287, "text": "mantle plumes"}
+{"count": 1, "ids": [327, 328], "pos": "np", "rank": 0.02078526374312502, "text": "peridotite melts"}
+{"count": 2, "ids": [325, 326], "pos": "np", "rank": 0.020769743316696093, "text": "geothermal gradient"}
+{"count": 1, "ids": [317, 290], "pos": "np", "rank": 0.020581183198698748, "text": "uppermost mantle"}
+{"count": 1, "ids": [121, 286], "pos": "np", "rank": 0.01973246271293279, "text": "confining pressure"}
+{"count": 1, "ids": [307, 302, 308], "pos": "np", "rank": 0.019557187453656002, "text": "divergent plate boundaries"}
+{"count": 1, "ids": [338, 339], "pos": "np", "rank": 0.0174897612038607, "text": "various means"}
+{"count": 1, "ids": [68, 74], "pos": "np", "rank": 0.016866156477092435, "text": "water content"}
+{"count": 1, "ids": [335], "pos": "np", "rank": 0.016588468517661655, "text": "ice"}
+{"count": 2, "ids": [316], "pos": "vbz", "rank": 0.01641017139655155, "text": "reaches"}
+{"count": 1, "ids": [341], "pos": "np", "rank": 0.016111091587206985, "text": "point"}
+{"count": 1, "ids": [318, 257], "pos": "np", "rank": 0.015054851159305976, "text": "hot-spot volcanism"}
+{"count": 1, "ids": [10], "pos": "np", "rank": 0.014974440015395597, "text": "rock"}
+{"count": 1, "ids": [305, 306], "pos": "np", "rank": 0.014641340690827525, "text": "oceanic ridges"}
+{"count": 2, "ids": [291], "pos": "vbg", "rank": 0.014566092221725791, "text": "ascending"}
+{"count": 2, "ids": [153], "pos": "nn", "rank": 0.013802033588887227, "text": "surface"}
+{"count": 1, "ids": [290], "pos": "np", "rank": 0.013428056007272572, "text": "mantle"}
+{"count": 3, "ids": [239], "pos": "nn", "rank": 0.012972714907725339, "text": "melting"}
+{"count": 2, "ids": [232], "pos": "vbg", "rank": 0.012304149708273098, "text": "generating"}
+{"count": 1, "ids": [333], "pos": "np", "rank": 0.012180358388483059, "text": "salt"}
+{"count": 3, "ids": [287], "pos": "nn", "rank": 0.011750600520520267, "text": "decompression"}
+{"count": 1, "ids": [299], "pos": "np", "rank": 0.011438817898711524, "text": "centers"}
+{"count": 1, "ids": [215], "pos": "vbz", "rank": 0.011365401110430396, "text": "drops"}
+{"count": 1, "ids": [68, 329], "pos": "np", "rank": 0.011349967814314306, "text": "water higher"}
+{"count": 1, "ids": [290, 10], "pos": "np", "rank": 0.011230830011546697, "text": "mantle rock"}
+{"count": 1, "ids": [7], "pos": "np", "rank": 0.011032890239015535, "text": "depth"}
+{"count": 1, "ids": [296, 297], "pos": "np", "rank": 0.010759428568331189, "text": "tensional forces"}
+{"count": 2, "ids": [196], "pos": "vbg", "rank": 0.010597270135496365, "text": "rising"}
+{"count": 1, "ids": [327], "pos": "nn", "rank": 0.01039263187156251, "text": "peridotite"}
+{"count": 2, "ids": [326], "pos": "nn", "rank": 0.010384871658348047, "text": "gradient"}
+{"count": 2, "ids": [240], "pos": "vbz", "rank": 0.010063511790589648, "text": "occurs"}
+{"count": 1, "ids": [303], "pos": "vbp", "rank": 0.010057504785230648, "text": "diverge"}
+{"count": 2, "ids": [98], "pos": "vbn", "rank": 0.010030930428689135, "text": "known"}
+{"count": 1, "ids": [313], "pos": "vbd", "rank": 0.009877451392536563, "text": "shifted"}
+{"count": 2, "ids": [286], "pos": "nn", "rank": 0.009866231356466394, "text": "pressure"}
+{"count": 1, "ids": [294, 286], "pos": "np", "rank": 0.009866231356466394, "text": "lower pressure"}
+{"count": 1, "ids": [340], "pos": "vbg", "rank": 0.0097095657747527, "text": "reducing"}
+{"count": 1, "ids": [164], "pos": "vbg", "rank": 0.009180098015862467, "text": "including"}
+{"count": 1, "ids": [31], "pos": "nn", "rank": 0.009159157319751034, "text": "material"}
+{"count": 3, "ids": [288], "pos": "vbp", "rank": 0.009042119848112694, "text": "trigger"}
+{"count": 1, "ids": [308], "pos": "nns", "rank": 0.008835065137381658, "text": "boundaries"}
+{"count": 1, "ids": [309], "pos": "vbg", "rank": 0.008771534752258043, "text": "rifting"}
+{"count": 1, "ids": [339], "pos": "nns", "rank": 0.00874488060193035, "text": "means"}
+{"count": 1, "ids": [320, 321], "pos": "np", "rank": 0.008492923403186909, "text": "underground mines"}
+{"count": 2, "ids": [68], "pos": "nn", "rank": 0.008433078238546218, "text": "water"}
+{"count": 2, "ids": [322], "pos": "nn", "rank": 0.008358698995639034, "text": "increase"}
+{"count": 1, "ids": [315], "pos": "nns", "rank": 0.008356121111742375, "text": "plumes"}
+{"count": 1, "ids": [312], "pos": "vbz", "rank": 0.00831427012452944, "text": "replaces"}
+{"count": 1, "ids": [282], "pos": "nnp", "rank": 0.008307055930355479, "text": "earth"}
+{"count": 1, "ids": [74], "pos": "nn", "rank": 0.008198826350223782, "text": "content"}
+{"count": 1, "ids": [257], "pos": "nn", "rank": 0.007527425579652988, "text": "volcanism"}
+{"count": 1, "ids": [56], "pos": "nn", "rank": 0.007320670345413762, "text": "magma"}
+{"count": 1, "ids": [293], "pos": "nns", "rank": 0.006498917990863447, "text": "regions"}
+{"count": 1, "ids": [300], "pos": "vbp", "rank": 0.006289753625949546, "text": "promote"}
+{"count": 1, "ids": [298], "pos": "vbg", "rank": 0.006238270954897773, "text": "spreading"}
+{"count": 1, "ids": [117, 46], "pos": "np", "rank": 0.005959873664122143, "text": "important factor"}
+{"count": 1, "ids": [306, 310], "pos": "np", "rank": 0.005951434149515134, "text": "ridge crest"}
+{"count": 1, "ids": [306, 314], "pos": "np", "rank": 0.005951434149515134, "text": "ridge axis"}
+{"count": 1, "ids": [323], "pos": "vbp", "rank": 0.005643836854557579, "text": "descend"}
+{"count": 1, "ids": [85], "pos": "np", "rank": 0.0053673576583388085, "text": "process"}
+{"count": 3, "ids": [306], "pos": "nn", "rank": 0.005202716473957754, "text": "ridge"}
+{"count": 1, "ids": [292], "pos": "vbg", "rank": 0.005186110385117938, "text": "moving"}
+{"count": 1, "ids": [332], "pos": "vbp", "rank": 0.005162518634179633, "text": "act"}
+{"count": 1, "ids": [181], "pos": "nn", "rank": 0.0046530455880334385, "text": "episode"}
+{"count": 1, "ids": [297], "pos": "nns", "rank": 0.004377659397261505, "text": "forces"}
+{"count": 1, "ids": [328], "pos": "nn", "rank": 0.004299705884162386, "text": "melts"}
+{"count": 1, "ids": [321], "pos": "nns", "rank": 0.004246461701593454, "text": "mines"}
+{"count": 1, "ids": [47], "pos": "vbg", "rank": 0.004246461701593454, "text": "affecting"}
+{"count": 1, "ids": [331], "pos": "nns", "rank": 0.004246461701593454, "text": "volatiles"}
+{"count": 1, "ids": [188], "pos": "nn", "rank": 0.0038687108407360737, "text": "chapter"}
+{"count": 1, "ids": [46], "pos": "nn", "rank": 0.0029799368320610714, "text": "factor"}
+{"count": 1, "ids": [310], "pos": "nn", "rank": 0.002975717074757567, "text": "crest"}
+{"count": 1, "ids": [314], "pos": "nn", "rank": 0.002975717074757567, "text": "axis"}
+{"count": 1, "ids": [121], "pos": "vbg", "rank": 0.0020911628233860695, "text": "confining"}
+{"count": 1, "ids": [295], "pos": "vb", "rank": 0.0020911628233860695, "text": "recall"}
+{"count": 1, "ids": [319], "pos": "nns", "rank": 0.0020911628233860695, "text": "workers"}
+{"count": 1, "ids": [336], "pos": "nns", "rank": 0.0020911628233860695, "text": "conditions"}
+{"count": 1, "ids": [337], "pos": "nn", "rank": 0.0020911628233860695, "text": "tectonic"}

@@ -1,0 +1,110 @@
+{"count": 4, "ids": [549], "pos": "np", "rank": 0.09295821972923247, "text": "minerals"}
+{"count": 1, "ids": [715, 545, 156], "pos": "np", "rank": 0.03265529993983226, "text": "definite chemical composition"}
+{"count": 1, "ids": [635, 633, 158], "pos": "np", "rank": 0.028452439113156744, "text": "orderly crystalline structure"}
+{"count": 1, "ids": [244, 245], "pos": "np", "rank": 0.025435072858501162, "text": "organic compound"}
+{"count": 6, "ids": [686], "pos": "vbn", "rank": 0.022787504377788245, "text": "considered"}
+{"count": 1, "ids": [687, 633, 339], "pos": "np", "rank": 0.020735185651053752, "text": "inorganic crystalline solids"}
+{"count": 1, "ids": [339, 702], "pos": "np", "rank": 0.019193132780659303, "text": "solid substance"}
+{"count": 1, "ids": [256, 192], "pos": "np", "rank": 0.019013484990162702, "text": "liquid water"}
+{"count": 1, "ids": [634, 248, 9], "pos": "np", "rank": 0.017966326009660392, "text": "natural geologic processes"}
+{"count": 1, "ids": [330, 192], "pos": "np", "rank": 0.017663505972544694, "text": "frozen water"}
+{"count": 1, "ids": [60, 61], "pos": "np", "rank": 0.017055047118062296, "text": "rock record"}
+{"count": 1, "ids": [156], "pos": "np", "rank": 0.01632764996991613, "text": "compositions"}
+{"count": 1, "ids": [422], "pos": "np", "rank": 0.016253125980765542, "text": "part"}
+{"count": 1, "ids": [688, 689, 690], "pos": "np", "rank": 0.015391494474070377, "text": "ordinary table salt"}
+{"count": 1, "ids": [723, 552], "pos": "np", "rank": 0.015083463753999292, "text": "pure quartz"}
+{"count": 1, "ids": [701], "pos": "np", "rank": 0.014949886791738882, "text": "geologists"}
+{"count": 1, "ids": [707], "pos": "np", "rank": 0.014248092038219546, "text": "atoms"}
+{"count": 3, "ids": [158], "pos": "nn", "rank": 0.014226219556578372, "text": "structure"}
+{"count": 1, "ids": [709, 714, 158], "pos": "np", "rank": 0.014226219556578372, "text": "repetitive atomic structure"}
+{"count": 1, "ids": [326, 543], "pos": "np", "rank": 0.013549564166547928, "text": "common example"}
+{"count": 1, "ids": [692, 694], "pos": "np", "rank": 0.013496480583870436, "text": "sugar beets"}
+{"count": 1, "ids": [256, 150], "pos": "np", "rank": 0.01335764670851065, "text": "liquid form"}
+{"count": 3, "ids": [245], "pos": "nns", "rank": 0.012717536429250581, "text": "compounds"}
+{"count": 1, "ids": [687, 245], "pos": "np", "rank": 0.012717536429250581, "text": "inorganic compounds"}
+{"count": 1, "ids": [684, 685], "pos": "np", "rank": 0.011980011022463755, "text": "human intervention"}
+{"count": 1, "ids": [129, 130], "pos": "np", "rank": 0.011562432593966322, "text": "similar size"}
+{"count": 1, "ids": [698, 699], "pos": "np", "rank": 0.010776175312236888, "text": "coral reefs"}
+{"count": 2, "ids": [545], "pos": "nn", "rank": 0.010502040171951933, "text": "chemical"}
+{"count": 1, "ids": [545, 245], "pos": "np", "rank": 0.010502040171951933, "text": "chemical compounds"}
+{"count": 1, "ids": [709, 710], "pos": "np", "rank": 0.010473943142166719, "text": "repetitive manner"}
+{"count": 3, "ids": [633], "pos": "nn", "rank": 0.010367592825526876, "text": "crystalline"}
+{"count": 1, "ids": [633, 339], "pos": "np", "rank": 0.010367592825526876, "text": "crystalline solid"}
+{"count": 3, "ids": [702], "pos": "nns", "rank": 0.009596566390329651, "text": "substances"}
+{"count": 1, "ids": [339, 633, 702], "pos": "np", "rank": 0.009596566390329651, "text": "solid crystalline substances"}
+{"count": 1, "ids": [157, 158], "pos": "np", "rank": 0.009484146371052249, "text": "internal structure"}
+{"count": 1, "ids": [192, 705], "pos": "np", "rank": 0.009247053378460726, "text": "water vapor"}
+{"count": 1, "ids": [9], "pos": "nns", "rank": 0.008983163004830196, "text": "processes"}
+{"count": 1, "ids": [58], "pos": "nns", "rank": 0.008946216334900987, "text": "limits"}
+{"count": 3, "ids": [192], "pos": "nn", "rank": 0.008831752986272347, "text": "water"}
+{"count": 1, "ids": [228], "pos": "np", "rank": 0.008701874880996057, "text": "mercury"}
+{"count": 1, "ids": [693], "pos": "nn", "rank": 0.00855843769673608, "text": "sugarcane"}
+{"count": 1, "ids": [60], "pos": "nn", "rank": 0.008527523559031148, "text": "rock"}
+{"count": 1, "ids": [341], "pos": "vbg", "rank": 0.008259627142422607, "text": "changing"}
+{"count": 1, "ids": [622], "pos": "nn", "rank": 0.008194534089487115, "text": "variation"}
+{"count": 1, "ids": [427], "pos": "vbn", "rank": 0.008161847761252276, "text": "extracted"}
+{"count": 1, "ids": [652, 697], "pos": "np", "rank": 0.008059720703967975, "text": "calcium carbonate"}
+{"count": 1, "ids": [99, 559], "pos": "np", "rank": 0.008059720703967975, "text": "volcanic glass"}
+{"count": 1, "ids": [716], "pos": "vbz", "rank": 0.007734246535740777, "text": "allows"}
+{"count": 2, "ids": [690], "pos": "nn", "rank": 0.0076957472370351885, "text": "salt"}
+{"count": 1, "ids": [552], "pos": "nn", "rank": 0.007541731876999646, "text": "quartz"}
+{"count": 1, "ids": [545, 718], "pos": "np", "rank": 0.007001360114634621, "text": "chemical formula"}
+{"count": 1, "ids": [69], "pos": "vbp", "rank": 0.006931179358009229, "text": "lack"}
+{"count": 1, "ids": [543], "pos": "nn", "rank": 0.006774782083273964, "text": "example"}
+{"count": 1, "ids": [694], "pos": "nns", "rank": 0.006748240291935218, "text": "beets"}
+{"count": 3, "ids": [150], "pos": "nn", "rank": 0.006678823354255325, "text": "form"}
+{"count": 1, "ids": [633, 702], "pos": "np", "rank": 0.006397710926886434, "text": "crystalline substances"}
+{"count": 1, "ids": [606], "pos": "nn", "rank": 0.006247833215889205, "text": "calcite"}
+{"count": 1, "ids": [713], "pos": "nnp", "rank": 0.006247833215889205, "text": "obsidian"}
+{"count": 1, "ids": [721], "pos": "np", "rank": 0.005789425865406971, "text": "oxygen"}
+{"count": 1, "ids": [130], "pos": "nn", "rank": 0.005781216296983161, "text": "size"}
+{"count": 1, "ids": [420], "pos": "nn", "rank": 0.005779119328253088, "text": "sample"}
+{"count": 1, "ids": [712], "pos": "vbn", "rank": 0.005680644340293827, "text": "reflected"}
+{"count": 1, "ids": [248], "pos": "nn", "rank": 0.0056227119249994545, "text": "geologic"}
+{"count": 1, "ids": [724, 725], "pos": "np", "rank": 0.005599963509905635, "text": "certain elements"}
+{"count": 1, "ids": [34], "pos": "vb", "rank": 0.005496613090923625, "text": "become"}
+{"count": 1, "ids": [626], "pos": "nns", "rank": 0.005482711299770203, "text": "crystals"}
+{"count": 1, "ids": [699], "pos": "nns", "rank": 0.005388087656118444, "text": "reefs"}
+{"count": 1, "ids": [88, 25, 695], "pos": "np", "rank": 0.005337861722454046, "text": "many marine animals"}
+{"count": 2, "ids": [692], "pos": "nn", "rank": 0.005258289118697917, "text": "sugar"}
+{"count": 1, "ids": [61], "pos": "nn", "rank": 0.005245129674943132, "text": "record"}
+{"count": 1, "ids": [277], "pos": "nn", "rank": 0.00513965596850997, "text": "laboratory"}
+{"count": 1, "ids": [704], "pos": "nn", "rank": 0.0051088975408816175, "text": "criterion"}
+{"count": 1, "ids": [133], "pos": "nn", "rank": 0.005059426299659508, "text": "nature"}
+{"count": 1, "ids": [653], "pos": "vb", "rank": 0.0048357117080035225, "text": "substitute"}
+{"count": 1, "ids": [635, 711], "pos": "np", "rank": 0.00473309694476576, "text": "orderly packing"}
+{"count": 1, "ids": [200], "pos": "vbp", "rank": 0.00465905320952948, "text": "vary"}
+{"count": 1, "ids": [705], "pos": "nn", "rank": 0.004623526689230363, "text": "vapor"}
+{"count": 1, "ids": [683, 266], "pos": "np", "rank": 0.004618504603979648, "text": "synthetic materials"}
+{"count": 1, "ids": [152], "pos": "vbn", "rank": 0.0045407497505497016, "text": "made"}
+{"count": 1, "ids": [700], "pos": "vbn", "rank": 0.004316514787212864, "text": "buried"}
+{"count": 1, "ids": [685], "pos": "nn", "rank": 0.004166696612320199, "text": "intervention"}
+{"count": 1, "ids": [201, 361], "pos": "np", "rank": 0.004159352210266878, "text": "shaped objects"}
+{"count": 1, "ids": [513], "pos": "vbn", "rank": 0.004139676771917055, "text": "produced"}
+{"count": 1, "ids": [703], "pos": "vbz", "rank": 0.0041034841062515025, "text": "fits"}
+{"count": 1, "ids": [689], "pos": "nn", "rank": 0.004029860351983988, "text": "table"}
+{"count": 1, "ids": [697], "pos": "nn", "rank": 0.004029860351983988, "text": "carbonate"}
+{"count": 1, "ids": [559], "pos": "nn", "rank": 0.004029860351983988, "text": "glass"}
+{"count": 1, "ids": [710], "pos": "nn", "rank": 0.0037749605329850163, "text": "manner"}
+{"count": 1, "ids": [708], "pos": "vbn", "rank": 0.003662208849928873, "text": "arranged"}
+{"count": 1, "ids": [717], "pos": "vbn", "rank": 0.003662208849928873, "text": "expressed"}
+{"count": 1, "ids": [649], "pos": "nns", "rank": 0.0036389592017856227, "text": "ions"}
+{"count": 1, "ids": [696], "pos": "vbp", "rank": 0.003425160904479637, "text": "secrete"}
+{"count": 1, "ids": [691], "pos": "np", "rank": 0.0032410474228413365, "text": "ground"}
+{"count": 1, "ids": [706], "pos": "np", "rank": 0.0032410474228413365, "text": "exception"}
+{"count": 1, "ids": [718], "pos": "nn", "rank": 0.0031080944187580643, "text": "formula"}
+{"count": 1, "ids": [480], "pos": "nns", "rank": 0.0030396561549336635, "text": "shells"}
+{"count": 1, "ids": [720], "pos": "nn", "rank": 0.00299798089255898, "text": "silicon"}
+{"count": 1, "ids": [295], "pos": "vbg", "rank": 0.0029635582392738154, "text": "meaning"}
+{"count": 1, "ids": [45], "pos": "vbn", "rank": 0.0029635582392738154, "text": "called"}
+{"count": 1, "ids": [652], "pos": "nn", "rank": 0.0028279550851524494, "text": "calcium"}
+{"count": 1, "ids": [725], "pos": "nns", "rank": 0.0027999817549528177, "text": "elements"}
+{"count": 1, "ids": [695], "pos": "nns", "rank": 0.002668930861227023, "text": "animals"}
+{"count": 1, "ids": [266], "pos": "np", "rank": 0.002309252301989824, "text": "materials"}
+{"count": 1, "ids": [711], "pos": "nn", "rank": 0.002290958954814848, "text": "packing"}
+{"count": 1, "ids": [361], "pos": "nns", "rank": 0.002079676105133439, "text": "objects"}
+{"count": 1, "ids": [339], "pos": "np", "rank": 0.0018668042233506172, "text": "solids"}
+{"count": 3, "ids": [183], "pos": "vbz", "rank": 0.0016205237114206683, "text": "occurs"}
+{"count": 1, "ids": [340], "pos": "nn", "rank": 0.0016205237114206683, "text": "ice"}
+{"count": 1, "ids": [201], "pos": "vbn", "rank": 0.0016205237114206683, "text": "shaped"}
+{"count": 1, "ids": [719], "pos": "nn", "rank": 0.0016205237114206683, "text": "proportion"}

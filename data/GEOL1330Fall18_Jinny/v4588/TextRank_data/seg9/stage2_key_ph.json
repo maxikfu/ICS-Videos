@@ -1,0 +1,57 @@
+{"count": 1, "ids": [190, 188], "pos": "np", "rank": 0.09679175419571151, "text": "chemical properties"}
+{"count": 1, "ids": [103], "pos": "np", "rank": 0.08633305969207763, "text": "minerals"}
+{"count": 1, "ids": [823, 188], "pos": "np", "rank": 0.048395877097855755, "text": "physical properties"}
+{"count": 1, "ids": [103, 129], "pos": "np", "rank": 0.04316652984603882, "text": "mineral quartz"}
+{"count": 1, "ids": [162, 120], "pos": "np", "rank": 0.03522494869030518, "text": "different specimens"}
+{"count": 2, "ids": [833, 188], "pos": "np", "rank": 0.03313907905520377, "text": "diagnostic property"}
+{"count": 1, "ids": [103, 188], "pos": "np", "rank": 0.03226391806523717, "text": "mineral properties"}
+{"count": 1, "ids": [190, 191], "pos": "np", "rank": 0.026580666038418067, "text": "chemical compositions"}
+{"count": 1, "ids": [721, 192, 193], "pos": "np", "rank": 0.023175655256840885, "text": "definite crystalline structures"}
+{"count": 1, "ids": [829, 830], "pos": "np", "rank": 0.023056276009331547, "text": "foreign elements"}
+{"count": 1, "ids": [425, 822], "pos": "np", "rank": 0.022590714838608313, "text": "unique sets"}
+{"count": 1, "ids": [834, 103], "pos": "np", "rank": 0.02158326492301941, "text": "unknown mineral"}
+{"count": 1, "ids": [838, 188], "pos": "np", "rank": 0.019553788913652212, "text": "ambiguous properties"}
+{"count": 1, "ids": [602, 103], "pos": "np", "rank": 0.019368323466634876, "text": "same mineral"}
+{"count": 1, "ids": [213, 188], "pos": "np", "rank": 0.019358350839142304, "text": "other properties"}
+{"count": 1, "ids": [808, 570], "pos": "np", "rank": 0.019268626889383432, "text": "individual samples"}
+{"count": 1, "ids": [687, 827], "pos": "np", "rank": 0.01859098297131199, "text": "ionic substitutions"}
+{"count": 1, "ids": [138], "pos": "np", "rank": 0.018303220458061063, "text": "light"}
+{"count": 2, "ids": [120], "pos": "nns", "rank": 0.01761247434515259, "text": "specimens"}
+{"count": 1, "ids": [837, 103], "pos": "np", "rank": 0.017266611938415527, "text": "certain minerals"}
+{"count": 1, "ids": [188], "pos": "np", "rank": 0.016131959032618586, "text": "properties"}
+{"count": 1, "ids": [825, 826], "pos": "np", "rank": 0.015617159452536543, "text": "specific limits"}
+{"count": 2, "ids": [367], "pos": "vbp", "rank": 0.01544017134513227, "text": "vary"}
+{"count": 1, "ids": [831], "pos": "nns", "rank": 0.015437977957680007, "text": "impurities"}
+{"count": 1, "ids": [103, 794], "pos": "np", "rank": 0.014930823233137698, "text": "mineral identification"}
+{"count": 2, "ids": [835, 836], "pos": "np", "rank": 0.013890453218089748, "text": "salty taste"}
+{"count": 1, "ids": [828], "pos": "nns", "rank": 0.013861539845661894, "text": "inclusions"}
+{"count": 1, "ids": [689], "pos": "vbp", "rank": 0.013477825983416137, "text": "give"}
+{"count": 2, "ids": [190], "pos": "nn", "rank": 0.013290333019209033, "text": "chemical"}
+{"count": 1, "ids": [197, 839, 188], "pos": "np", "rank": 0.012098969274463939, "text": "many optical properties"}
+{"count": 2, "ids": [741], "pos": "vbp", "rank": 0.011943668554948236, "text": "share"}
+{"count": 2, "ids": [193], "pos": "nn", "rank": 0.011587827628420443, "text": "structure"}
+{"count": 1, "ids": [192, 193], "pos": "np", "rank": 0.011587827628420443, "text": "crystalline structure"}
+{"count": 1, "ids": [830], "pos": "nns", "rank": 0.011528138004665773, "text": "elements"}
+{"count": 1, "ids": [27, 712], "pos": "np", "rank": 0.011311565901854437, "text": "similar manner"}
+{"count": 1, "ids": [822], "pos": "nns", "rank": 0.011295357419304156, "text": "sets"}
+{"count": 2, "ids": [192], "pos": "nn", "rank": 0.010390972488023446, "text": "crystalline"}
+{"count": 1, "ids": [111], "pos": "nn", "rank": 0.009977450735735069, "text": "color"}
+{"count": 1, "ids": [191], "pos": "nns", "rank": 0.009947387857530441, "text": "compositions"}
+{"count": 1, "ids": [194], "pos": "vbn", "rank": 0.009823902258497438, "text": "considered"}
+{"count": 2, "ids": [570], "pos": "nns", "rank": 0.009634313444691716, "text": "samples"}
+{"count": 1, "ids": [827], "pos": "nns", "rank": 0.009295491485655996, "text": "substitutions"}
+{"count": 1, "ids": [285], "pos": "vbn", "rank": 0.008915700304453955, "text": "referred"}
+{"count": 1, "ids": [24], "pos": "vbd", "rank": 0.00818523491974214, "text": "called"}
+{"count": 1, "ids": [826], "pos": "nns", "rank": 0.007808579726268272, "text": "limits"}
+{"count": 1, "ids": [794], "pos": "nn", "rank": 0.007465411616568849, "text": "identification"}
+{"count": 1, "ids": [163], "pos": "vbg", "rank": 0.007087400708333675, "text": "identifying"}
+{"count": 1, "ids": [840], "pos": "nn", "rank": 0.006466456376014601, "text": "ability"}
+{"count": 2, "ids": [836], "pos": "nn", "rank": 0.006109706155644104, "text": "taste"}
+{"count": 1, "ids": [712], "pos": "nn", "rank": 0.005655782950927219, "text": "manner"}
+{"count": 1, "ids": [129], "pos": "nn", "rank": 0.005021015186424097, "text": "quartz"}
+{"count": 1, "ids": [804], "pos": "nn", "rank": 0.005021015186424097, "text": "luster"}
+{"count": 1, "ids": [841], "pos": "vb", "rank": 0.00494681048083856, "text": "transmit"}
+{"count": 1, "ids": [164], "pos": "np", "rank": 0.004397215696088344, "text": "example"}
+{"count": 1, "ids": [795], "pos": "np", "rank": 0.004397215696088344, "text": "streak"}
+{"count": 1, "ids": [62], "pos": "vb", "rank": 0.002198607848044172, "text": "break"}
+{"count": 1, "ids": [832], "pos": "nns", "rank": 0.002198607848044172, "text": "defects"}

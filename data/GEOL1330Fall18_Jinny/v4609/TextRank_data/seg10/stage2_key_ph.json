@@ -1,0 +1,53 @@
+{"count": 1, "ids": [678, 679], "pos": "np", "rank": 0.06855680544162462, "text": "carbon dioxide"}
+{"count": 1, "ids": [666], "pos": "np", "rank": 0.06430963750987653, "text": "gases"}
+{"count": 1, "ids": [12, 668, 669], "pos": "np", "rank": 0.0546311216507486, "text": "important planetary function"}
+{"count": 2, "ids": [322, 658], "pos": "np", "rank": 0.049592945912074624, "text": "active volcanoes"}
+{"count": 1, "ids": [680, 679], "pos": "np", "rank": 0.0348648547202683, "text": "sulfur dioxide"}
+{"count": 1, "ids": [681, 682], "pos": "np", "rank": 0.0348648547202683, "text": "minor amounts"}
+{"count": 2, "ids": [679], "pos": "nn", "rank": 0.03427840272081231, "text": "dioxide"}
+{"count": 1, "ids": [666, 675], "pos": "np", "rank": 0.033059819929483404, "text": "gas output"}
+{"count": 2, "ids": [657], "pos": "nns", "rank": 0.030502421161772143, "text": "hundreds"}
+{"count": 1, "ids": [33, 666], "pos": "np", "rank": 0.029277057371242678, "text": "other gases"}
+{"count": 1, "ids": [200], "pos": "vbz", "rank": 0.028424518255091433, "text": "remains"}
+{"count": 1, "ids": [669], "pos": "nn", "rank": 0.0273155608253743, "text": "function"}
+{"count": 1, "ids": [100, 677], "pos": "np", "rank": 0.02723932205334313, "text": "water vapor"}
+{"count": 1, "ids": [652, 653, 654], "pos": "np", "rank": 0.024839144267421627, "text": "first enduring atmosphere"}
+{"count": 2, "ids": [658], "pos": "nns", "rank": 0.024796472956037312, "text": "volcanoes"}
+{"count": 1, "ids": [75], "pos": "np", "rank": 0.023980876479237485, "text": "process"}
+{"count": 1, "ids": [295], "pos": "np", "rank": 0.02010768821289903, "text": "interior"}
+{"count": 1, "ids": [673, 273], "pos": "np", "rank": 0.017702981508588553, "text": "fluidlike motion"}
+{"count": 1, "ids": [680], "pos": "nn", "rank": 0.01743242736013415, "text": "sulfur"}
+{"count": 1, "ids": [354], "pos": "nn", "rank": 0.016914986281272387, "text": "planet"}
+{"count": 1, "ids": [114], "pos": "vbn", "rank": 0.016529909964741702, "text": "trapped"}
+{"count": 1, "ids": [675], "pos": "nn", "rank": 0.016529909964741702, "text": "output"}
+{"count": 4, "ids": [258], "pos": "nnp", "rank": 0.015761681089859238, "text": "earth"}
+{"count": 2, "ids": [667], "pos": "vbd", "rank": 0.015746480972183938, "text": "released"}
+{"count": 2, "ids": [665], "pos": "vbg", "rank": 0.014727726069123861, "text": "outgassing"}
+{"count": 1, "ids": [674], "pos": "nn", "rank": 0.01468548301900111, "text": "mantle"}
+{"count": 1, "ids": [386], "pos": "vbd", "rank": 0.013906628435949107, "text": "occurred"}
+{"count": 1, "ids": [671, 672], "pos": "np", "rank": 0.013853633571614777, "text": "massive heating"}
+{"count": 1, "ids": [677], "pos": "nn", "rank": 0.013619661026671564, "text": "vapor"}
+{"count": 1, "ids": [656], "pos": "nn", "rank": 0.012715724183054064, "text": "today"}
+{"count": 1, "ids": [678], "pos": "nn", "rank": 0.01271563343998721, "text": "carbon"}
+{"count": 3, "ids": [654], "pos": "nn", "rank": 0.012419572133710814, "text": "atmosphere"}
+{"count": 1, "ids": [663, 654], "pos": "np", "rank": 0.012419572133710814, "text": "early atmosphere"}
+{"count": 1, "ids": [419], "pos": "vb", "rank": 0.011508202699073565, "text": "hold"}
+{"count": 1, "ids": [664], "pos": "vbn", "rank": 0.0107355834454979, "text": "enhanced"}
+{"count": 1, "ids": [682], "pos": "nns", "rank": 0.010272876988747551, "text": "amounts"}
+{"count": 1, "ids": [177], "pos": "vbz", "rank": 0.010142708080903208, "text": "continues"}
+{"count": 1, "ids": [165], "pos": "np", "rank": 0.009557512845779059, "text": "gravity"}
+{"count": 1, "ids": [684, 654], "pos": "np", "rank": 0.009557512845779059, "text": "primitive atmosphere"}
+{"count": 1, "ids": [100], "pos": "nn", "rank": 0.009557463526713796, "text": "water"}
+{"count": 1, "ids": [273], "pos": "nn", "rank": 0.008851490754294276, "text": "motion"}
+{"count": 1, "ids": [673], "pos": "vb", "rank": 0.008277482449668874, "text": "fluidlike"}
+{"count": 1, "ids": [683, 570], "pos": "np", "rank": 0.00816456849257838, "text": "free oxygen"}
+{"count": 1, "ids": [655], "pos": "nnp", "rank": 0.008067834461273968, "text": "outgassing"}
+{"count": 1, "ids": [168], "pos": "vbn", "rank": 0.007960873835922868, "text": "called"}
+{"count": 1, "ids": [663, 348], "pos": "np", "rank": 0.006703505427179606, "text": "early eruptions"}
+{"count": 1, "ids": [653], "pos": "vbg", "rank": 0.006132784787561921, "text": "enduring"}
+{"count": 1, "ids": [672], "pos": "nn", "rank": 0.0058087221417579705, "text": "heating"}
+{"count": 1, "ids": [437], "pos": "nn", "rank": 0.005299836800788169, "text": "space"}
+{"count": 1, "ids": [670], "pos": "nn", "rank": 0.004778756422889529, "text": "history"}
+{"count": 1, "ids": [570], "pos": "nn", "rank": 0.00408228424628919, "text": "oxygen"}
+{"count": 1, "ids": [348], "pos": "nns", "rank": 0.003351752713589803, "text": "eruptions"}
+{"count": 1, "ids": [661], "pos": "vbd", "rank": 0.002864731691790211, "text": "escaped"}

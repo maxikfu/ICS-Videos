@@ -1,0 +1,152 @@
+{"count": 1, "ids": [647, 176], "pos": "np", "rank": 0.039172889271827736, "text": "sulfur dioxide"}
+{"count": 2, "ids": [165], "pos": "np", "rank": 0.02947724570019946, "text": "atmosphere"}
+{"count": 1, "ids": [643], "pos": "np", "rank": 0.026407158942823288, "text": "seawater"}
+{"count": 4, "ids": [175, 176], "pos": "np", "rank": 0.019639623974733487, "text": "carbon dioxide"}
+{"count": 6, "ids": [176], "pos": "nn", "rank": 0.019586444635913868, "text": "dioxide"}
+{"count": 1, "ids": [304, 175, 176], "pos": "np", "rank": 0.019278819664944415, "text": "percent carbon dioxide"}
+{"count": 2, "ids": [690, 178], "pos": "np", "rank": 0.018660225185616643, "text": "greenhouse gas"}
+{"count": 1, "ids": [658, 113], "pos": "np", "rank": 0.017837608293587548, "text": "latter part"}
+{"count": 1, "ids": [644, 645], "pos": "np", "rank": 0.01774120302871929, "text": "ocean basins"}
+{"count": 1, "ids": [671, 695], "pos": "np", "rank": 0.017221796501167612, "text": "calcium carbonate"}
+{"count": 1, "ids": [659, 660], "pos": "np", "rank": 0.017212319053941327, "text": "twentieth century"}
+{"count": 1, "ids": [664, 665], "pos": "np", "rank": 0.016079335160152905, "text": "chemical weathering"}
+{"count": 1, "ids": [385, 646], "pos": "np", "rank": 0.014815676834876041, "text": "large quantities"}
+{"count": 1, "ids": [281, 165], "pos": "np", "rank": 0.01473862285009973, "text": "primitive atmosphere"}
+{"count": 1, "ids": [580], "pos": "np", "rank": 0.013041119124638166, "text": "shells"}
+{"count": 1, "ids": [439, 713], "pos": "np", "rank": 0.012303310760709478, "text": "white cliffs"}
+{"count": 1, "ids": [655, 656, 657], "pos": "np", "rank": 0.012003314783848562, "text": "eastern north america"}
+{"count": 1, "ids": [679, 680], "pos": "np", "rank": 0.011720116915310788, "text": "soluble salts"}
+{"count": 1, "ids": [700, 701], "pos": "np", "rank": 0.011244988869824264, "text": "marine organisms"}
+{"count": 1, "ids": [710, 711], "pos": "np", "rank": 0.01052978448172891, "text": "chalk beds"}
+{"count": 1, "ids": [642, 307], "pos": "np", "rank": 0.010341691017237725, "text": "current volume"}
+{"count": 1, "ids": [644, 678], "pos": "np", "rank": 0.009847685958103657, "text": "ocean floor"}
+{"count": 5, "ids": [175], "pos": "nn", "rank": 0.009819811987366743, "text": "carbon"}
+{"count": 2, "ids": [304], "pos": "nn", "rank": 0.009639409832472207, "text": "percent"}
+{"count": 1, "ids": [668, 664, 675], "pos": "np", "rank": 0.009416024890618276, "text": "various chemical precipitates"}
+{"count": 2, "ids": [178], "pos": "nn", "rank": 0.009330112592808321, "text": "gas"}
+{"count": 3, "ids": [690], "pos": "nn", "rank": 0.009271841392428242, "text": "greenhouse"}
+{"count": 1, "ids": [692, 690, 20], "pos": "np", "rank": 0.009271841392428242, "text": "extreme greenhouse effect"}
+{"count": 1, "ids": [182], "pos": "vbz", "rank": 0.008952948901767923, "text": "influences"}
+{"count": 1, "ids": [666], "pos": "np", "rank": 0.008937181003599257, "text": "atoms"}
+{"count": 2, "ids": [113], "pos": "nns", "rank": 0.008918804146793774, "text": "parts"}
+{"count": 1, "ids": [333, 703, 113], "pos": "np", "rank": 0.008918804146793774, "text": "other hard parts"}
+{"count": 1, "ids": [668, 669], "pos": "np", "rank": 0.008909577364039618, "text": "various substances"}
+{"count": 5, "ids": [644], "pos": "nns", "rank": 0.008870601514359646, "text": "oceans"}
+{"count": 1, "ids": [662, 598], "pos": "np", "rank": 0.008860908247387339, "text": "accelerated rate"}
+{"count": 1, "ids": [396], "pos": "nn", "rank": 0.008632796397471219, "text": "heating"}
+{"count": 3, "ids": [671], "pos": "nn", "rank": 0.008610898250583806, "text": "calcium"}
+{"count": 1, "ids": [660], "pos": "nn", "rank": 0.008340574362794844, "text": "century"}
+{"count": 2, "ids": [664], "pos": "nn", "rank": 0.008039667580076452, "text": "chemical"}
+{"count": 1, "ids": [664, 677], "pos": "np", "rank": 0.008039667580076452, "text": "chemical sediment"}
+{"count": 1, "ids": [698, 664, 699, 91], "pos": "np", "rank": 0.008020426859412328, "text": "abundant chemical sedimentary rock"}
+{"count": 1, "ids": [687, 688], "pos": "np", "rank": 0.00782607944946601, "text": "major constituent"}
+{"count": 1, "ids": [436, 709], "pos": "np", "rank": 0.007759902194860468, "text": "life cycle"}
+{"count": 2, "ids": [695], "pos": "nn", "rank": 0.007551719140766253, "text": "carbonate"}
+{"count": 1, "ids": [646], "pos": "nns", "rank": 0.007407838417438021, "text": "quantities"}
+{"count": 1, "ids": [639], "pos": "np", "rank": 0.006967062964575412, "text": "rainwater"}
+{"count": 1, "ids": [586, 700, 701], "pos": "np", "rank": 0.006908253663059597, "text": "tiny marine organisms"}
+{"count": 1, "ids": [52], "pos": "vbn", "rank": 0.006755315174857762, "text": "shown"}
+{"count": 1, "ids": [715], "pos": "nnp", "rank": 0.006743537275213498, "text": "england"}
+{"count": 1, "ids": [714], "pos": "nnp", "rank": 0.0067297207051418475, "text": "dover"}
+{"count": 2, "ids": [187], "pos": "vbd", "rank": 0.006661900643679502, "text": "increased"}
+{"count": 1, "ids": [647], "pos": "nn", "rank": 0.00637967528948998, "text": "sulfur"}
+{"count": 1, "ids": [649, 650], "pos": "np", "rank": 0.006376382067189958, "text": "hydrochloric acid"}
+{"count": 1, "ids": [439], "pos": "nnp", "rank": 0.006151655380354739, "text": "white"}
+{"count": 1, "ids": [248], "pos": "vbn", "rank": 0.0061236399491293335, "text": "composed"}
+{"count": 1, "ids": [45], "pos": "vbg", "rank": 0.00610253523376196, "text": "developing"}
+{"count": 1, "ids": [712], "pos": "vbn", "rank": 0.006033134710459026, "text": "exposed"}
+{"count": 1, "ids": [657], "pos": "nnp", "rank": 0.006001657391924281, "text": "america"}
+{"count": 1, "ids": [554], "pos": "vbn", "rank": 0.005975461742374677, "text": "contained"}
+{"count": 3, "ids": [706], "pos": "nns", "rank": 0.005925709285597429, "text": "deposits"}
+{"count": 1, "ids": [104], "pos": "np", "rank": 0.005869629898114262, "text": "scientists"}
+{"count": 1, "ids": [271], "pos": "np", "rank": 0.005845337902698074, "text": "earth"}
+{"count": 2, "ids": [667], "pos": "nns", "rank": 0.005802681218214254, "text": "molecules"}
+{"count": 1, "ids": [311, 638], "pos": "np", "rank": 0.005755062668382639, "text": "water vapor"}
+{"count": 1, "ids": [704], "pos": "np", "rank": 0.005739388805066063, "text": "trillions"}
+{"count": 1, "ids": [696], "pos": "nnp", "rank": 0.0056971284981443115, "text": "caco3"}
+{"count": 1, "ids": [333, 669], "pos": "np", "rank": 0.00568821353903074, "text": "other substances"}
+{"count": 2, "ids": [157], "pos": "vb", "rank": 0.005677398582891767, "text": "produce"}
+{"count": 1, "ids": [645], "pos": "nns", "rank": 0.0055023031726554004, "text": "basins"}
+{"count": 2, "ids": [681], "pos": "nn", "rank": 0.005464134899809678, "text": "salinity"}
+{"count": 2, "ids": [697], "pos": "nn", "rank": 0.005425759334073164, "text": "limestone"}
+{"count": 1, "ids": [710], "pos": "nn", "rank": 0.005264892240864455, "text": "chalk"}
+{"count": 2, "ids": [307], "pos": "nns", "rank": 0.005170845508618863, "text": "volumes"}
+{"count": 1, "ids": [686, 307], "pos": "np", "rank": 0.005170845508618863, "text": "tremendous volumes"}
+{"count": 1, "ids": [694], "pos": "np", "rank": 0.00505297826677351, "text": "precipitation"}
+{"count": 1, "ids": [48], "pos": "nn", "rank": 0.004989951866424315, "text": "today"}
+{"count": 1, "ids": [98], "pos": "nns", "rank": 0.004983490930764494, "text": "areas"}
+{"count": 1, "ids": [678], "pos": "nn", "rank": 0.004923842979051829, "text": "floor"}
+{"count": 2, "ids": [701], "pos": "nns", "rank": 0.004881153687606439, "text": "organisms"}
+{"count": 2, "ids": [273], "pos": "vb", "rank": 0.0047643714159059354, "text": "make"}
+{"count": 1, "ids": [654], "pos": "nns", "rank": 0.004748729502233337, "text": "streams"}
+{"count": 1, "ids": [514], "pos": "vbd", "rank": 0.00474132148018707, "text": "mantled"}
+{"count": 2, "ids": [675], "pos": "nns", "rank": 0.004708012445309138, "text": "precipitates"}
+{"count": 1, "ids": [640], "pos": "vbd", "rank": 0.004658227903257747, "text": "collected"}
+{"count": 3, "ids": [272], "pos": "nns", "rank": 0.0044974720115278375, "text": "years"}
+{"count": 1, "ids": [20], "pos": "nn", "rank": 0.004494845771679865, "text": "effect"}
+{"count": 3, "ids": [84], "pos": "vbn", "rank": 0.0044834680825116225, "text": "included"}
+{"count": 1, "ids": [333, 666], "pos": "np", "rank": 0.0044685905017996285, "text": "other atoms"}
+{"count": 1, "ids": [598], "pos": "nn", "rank": 0.004430454123693669, "text": "rate"}
+{"count": 1, "ids": [680], "pos": "nns", "rank": 0.004416108911801874, "text": "salts"}
+{"count": 1, "ids": [717], "pos": "vbp", "rank": 0.00433617326268047, "text": "store"}
+{"count": 1, "ids": [656], "pos": "nnp", "rank": 0.004334864137948114, "text": "north"}
+{"count": 1, "ids": [92, 233], "pos": "np", "rank": 0.004332823710247083, "text": "rocky surface"}
+{"count": 1, "ids": [670], "pos": "np", "rank": 0.004284754324032281, "text": "sodium"}
+{"count": 1, "ids": [705], "pos": "nn", "rank": 0.00408479784455824, "text": "foraminifera"}
+{"count": 1, "ids": [91], "pos": "nn", "rank": 0.004010213429706164, "text": "rock"}
+{"count": 3, "ids": [669], "pos": "nns", "rank": 0.003983636599489219, "text": "substances"}
+{"count": 1, "ids": [674, 669], "pos": "np", "rank": 0.003983636599489219, "text": "dissolved substances"}
+{"count": 1, "ids": [530], "pos": "vb", "rank": 0.003937216500909842, "text": "extract"}
+{"count": 1, "ids": [688], "pos": "nn", "rank": 0.003913039724733005, "text": "constituent"}
+{"count": 1, "ids": [709], "pos": "nn", "rank": 0.003879951097430234, "text": "cycle"}
+{"count": 1, "ids": [308], "pos": "nn", "rank": 0.0038613085927654204, "text": "condense"}
+{"count": 1, "ids": [651, 639], "pos": "np", "rank": 0.0038535776462520965, "text": "earliest rainwater"}
+{"count": 1, "ids": [650, 366], "pos": "np", "rank": 0.0038535776462520965, "text": "acid rain"}
+{"count": 1, "ids": [713], "pos": "nnps", "rank": 0.0036377493800558588, "text": "cliffs"}
+{"count": 1, "ids": [702], "pos": "vbd", "rank": 0.0036013794071327416, "text": "began"}
+{"count": 1, "ids": [601], "pos": "vbp", "rank": 0.003518159355889766, "text": "estimate"}
+{"count": 1, "ids": [661], "pos": "vbd", "rank": 0.003511116074978179, "text": "weathered"}
+{"count": 1, "ids": [676], "pos": "vb", "rank": 0.003508090543785056, "text": "become"}
+{"count": 1, "ids": [685], "pos": "nn", "rank": 0.0034958510187688393, "text": "repository"}
+{"count": 1, "ids": [72], "pos": "vbd", "rank": 0.003404903268565538, "text": "fell"}
+{"count": 1, "ids": [677], "pos": "nn", "rank": 0.0033686943755886255, "text": "sediment"}
+{"count": 1, "ids": [436], "pos": "nn", "rank": 0.003360551836828533, "text": "life"}
+{"count": 1, "ids": [711], "pos": "nns", "rank": 0.003261075380130215, "text": "beds"}
+{"count": 1, "ids": [280], "pos": "vbn", "rank": 0.0032417946166724363, "text": "observed"}
+{"count": 1, "ids": [650], "pos": "nn", "rank": 0.003188191033594979, "text": "acid"}
+{"count": 1, "ids": [673], "pos": "nn", "rank": 0.003137862155615808, "text": "silica"}
+{"count": 2, "ids": [108], "pos": "vbn", "rank": 0.0031329541364277205, "text": "released"}
+{"count": 1, "ids": [370], "pos": "nns", "rank": 0.003009409625344369, "text": "lakes"}
+{"count": 1, "ids": [653], "pos": "np", "rank": 0.002916687665343825, "text": "acidity"}
+{"count": 1, "ids": [228, 376], "pos": "np", "rank": 0.002916687665343825, "text": "volcanic eruptions"}
+{"count": 1, "ids": [437, 357], "pos": "np", "rank": 0.002916687665343825, "text": "common compound"}
+{"count": 1, "ids": [684], "pos": "vbp", "rank": 0.0029085750856518164, "text": "serve"}
+{"count": 2, "ids": [311], "pos": "nn", "rank": 0.0028775313341913196, "text": "water"}
+{"count": 1, "ids": [665], "pos": "nn", "rank": 0.002765371264039944, "text": "weathering"}
+{"count": 1, "ids": [708], "pos": "nn", "rank": 0.002749493204141907, "text": "end"}
+{"count": 1, "ids": [34], "pos": "vbn", "rank": 0.002745747906852883, "text": "damaged"}
+{"count": 1, "ids": [638], "pos": "nn", "rank": 0.0026191313922249845, "text": "vapor"}
+{"count": 1, "ids": [672], "pos": "nn", "rank": 0.0024873568155845986, "text": "potassium"}
+{"count": 3, "ids": [50], "pos": "vbd", "rank": 0.00246407166842209, "text": "formed"}
+{"count": 1, "ids": [637], "pos": "vb", "rank": 0.002315690442726609, "text": "allow"}
+{"count": 1, "ids": [585], "pos": "vbn", "rank": 0.002234477376277197, "text": "carried"}
+{"count": 1, "ids": [233], "pos": "nn", "rank": 0.0021664118551235415, "text": "surface"}
+{"count": 1, "ids": [27], "pos": "vbn", "rank": 0.002078170593118088, "text": "generated"}
+{"count": 1, "ids": [663], "pos": "np", "rank": 0.0020467740996169114, "text": "products"}
+{"count": 1, "ids": [682], "pos": "np", "rank": 0.0020467740996169114, "text": "research"}
+{"count": 1, "ids": [707], "pos": "nn", "rank": 0.002030704290203695, "text": "seafloor"}
+{"count": 1, "ids": [179], "pos": "vbn", "rank": 0.001948166183297704, "text": "remained"}
+{"count": 1, "ids": [366], "pos": "nn", "rank": 0.0019267888231260482, "text": "rain"}
+{"count": 1, "ids": [393], "pos": "vbz", "rank": 0.001893300615535369, "text": "suggests"}
+{"count": 1, "ids": [379], "pos": "vbd", "rank": 0.001893300615535369, "text": "thought"}
+{"count": 1, "ids": [94], "pos": "vbd", "rank": 0.0015202601586644647, "text": "cooled"}
+{"count": 1, "ids": [376], "pos": "nns", "rank": 0.0014583438326719125, "text": "eruptions"}
+{"count": 1, "ids": [357], "pos": "nn", "rank": 0.0014583438326719125, "text": "compound"}
+{"count": 1, "ids": [648], "pos": "vbz", "rank": 0.0010233870498084557, "text": "combines"}
+{"count": 1, "ids": [140], "pos": "nn", "rank": 0.0010233870498084557, "text": "level"}
+{"count": 1, "ids": [674], "pos": "vbn", "rank": 0.0010233870498084557, "text": "dissolved"}
+{"count": 1, "ids": [691], "pos": "nnp", "rank": 0.0010233870498084557, "text": "venus"}
+{"count": 1, "ids": [115], "pos": "nn", "rank": 0.0010233870498084557, "text": "result"}
+{"count": 1, "ids": [693], "pos": "vbz", "rank": 0.0010233870498084557, "text": "joins"}
+{"count": 1, "ids": [716], "pos": "vbg", "rank": 0.0010233870498084557, "text": "locking"}
+{"count": 1, "ids": [718], "pos": "vb", "rank": 0.0010233870498084557, "text": "reenter"}

@@ -1,0 +1,69 @@
+{"count": 1, "ids": [101, 102], "pos": "np", "rank": 0.06404251371845658, "text": "most granites"}
+{"count": 1, "ids": [117, 111], "pos": "np", "rank": 0.06051856321131867, "text": "reddish color"}
+{"count": 1, "ids": [114, 123], "pos": "np", "rank": 0.041958735045262714, "text": "feldspar crystals"}
+{"count": 1, "ids": [131, 150], "pos": "np", "rank": 0.035660620924775524, "text": "rhyolite deposits"}
+{"count": 1, "ids": [97, 113, 114, 115], "pos": "np", "rank": 0.0334270268268432, "text": "dark pink feldspar grains"}
+{"count": 1, "ids": [102], "pos": "np", "rank": 0.03202125685922829, "text": "granites"}
+{"count": 1, "ids": [128, 123], "pos": "np", "rank": 0.031704808399865794, "text": "smaller crystals"}
+{"count": 1, "ids": [138, 110], "pos": "np", "rank": 0.03165520350640864, "text": "light gray"}
+{"count": 3, "ids": [111], "pos": "nn", "rank": 0.030259281605659334, "text": "color"}
+{"count": 1, "ids": [124, 125], "pos": "np", "rank": 0.026278463110894306, "text": "few centimeters"}
+{"count": 1, "ids": [97, 98], "pos": "np", "rank": 0.024934859326472682, "text": "dark components"}
+{"count": 1, "ids": [118, 119], "pos": "np", "rank": 0.02450259264193004, "text": "porphyritic texture"}
+{"count": 1, "ids": [131, 131], "pos": "np", "rank": 0.02434993299799231, "text": "rhyolite rhyolite"}
+{"count": 2, "ids": [123], "pos": "nns", "rank": 0.020979367522631357, "text": "crystals"}
+{"count": 1, "ids": [106], "pos": "np", "rank": 0.020028579519717607, "text": "percentage"}
+{"count": 1, "ids": [126], "pos": "nn", "rank": 0.018363938042230035, "text": "length"}
+{"count": 1, "ids": [86, 148, 149], "pos": "np", "rank": 0.01800698739565147, "text": "large intrusive masses"}
+{"count": 2, "ids": [150], "pos": "nns", "rank": 0.017830310462387762, "text": "deposits"}
+{"count": 1, "ids": [154, 155, 150], "pos": "np", "rank": 0.017830310462387762, "text": "extensive ash deposits"}
+{"count": 2, "ids": [107], "pos": "vbg", "rank": 0.017499641093245654, "text": "indicating"}
+{"count": 1, "ids": [142], "pos": "vbd", "rank": 0.017411564014356326, "text": "cooled"}
+{"count": 1, "ids": [113], "pos": "vb", "rank": 0.0167135134134216, "text": "pink"}
+{"count": 1, "ids": [127], "pos": "vbn", "rank": 0.016601820700100807, "text": "scattered"}
+{"count": 1, "ids": [130], "pos": "nn", "rank": 0.015473241228440248, "text": "amphibole"}
+{"count": 1, "ids": [129], "pos": "nn", "rank": 0.015217362398904583, "text": "quartz"}
+{"count": 1, "ids": [97, 103], "pos": "np", "rank": 0.014903835091045444, "text": "dark minerals"}
+{"count": 1, "ids": [125], "pos": "nns", "rank": 0.013139231555447153, "text": "centimeters"}
+{"count": 1, "ids": [63, 131, 153, 19], "pos": "np", "rank": 0.01296024802233995, "text": "thick rhyolite lava flows"}
+{"count": 1, "ids": [119], "pos": "nn", "rank": 0.01225129632096502, "text": "texture"}
+{"count": 2, "ids": [104], "pos": "vbp", "rank": 0.01221143984425322, "text": "appear"}
+{"count": 2, "ids": [112], "pos": "vbn", "rank": 0.012200444294129711, "text": "composed"}
+{"count": 1, "ids": [160], "pos": "nn", "rank": 0.011689271677613088, "text": "generalization"}
+{"count": 2, "ids": [114], "pos": "nn", "rank": 0.011675270521301843, "text": "feldspar"}
+{"count": 1, "ids": [115], "pos": "nns", "rank": 0.011266823800139866, "text": "grains"}
+{"count": 1, "ids": [159], "pos": "nns", "rank": 0.010768787087232895, "text": "exceptions"}
+{"count": 1, "ids": [101, 109, 59], "pos": "np", "rank": 0.01056902831737499, "text": "most granitic rocks"}
+{"count": 1, "ids": [44], "pos": "nn", "rank": 0.010103313272902108, "text": "percent"}
+{"count": 1, "ids": [133, 134], "pos": "np", "rank": 0.009381764609893442, "text": "light-colored silicates"}
+{"count": 1, "ids": [156, 157, 158], "pos": "np", "rank": 0.009273964920356445, "text": "yellowstone national park"}
+{"count": 1, "ids": [149], "pos": "nns", "rank": 0.009003493697825734, "text": "masses"}
+{"count": 1, "ids": [139, 140], "pos": "np", "rank": 0.008803041816036847, "text": "glass fragments"}
+{"count": 1, "ids": [132], "pos": "nn", "rank": 0.008798167802937277, "text": "equivalent"}
+{"count": 1, "ids": [137], "pos": "nn", "rank": 0.008798167802937277, "text": "buff"}
+{"count": 1, "ids": [147], "pos": "vbn", "rank": 0.008798167802937277, "text": "distributed"}
+{"count": 1, "ids": [155], "pos": "nn", "rank": 0.00835881554482665, "text": "ash"}
+{"count": 1, "ids": [131], "pos": "np", "rank": 0.008116644332664104, "text": "rhyolite"}
+{"count": 1, "ids": [141], "pos": "nns", "rank": 0.007589476551650183, "text": "voids"}
+{"count": 1, "ids": [99], "pos": "vbp", "rank": 0.007491845755112365, "text": "make"}
+{"count": 1, "ids": [103], "pos": "nns", "rank": 0.007451917545522722, "text": "minerals"}
+{"count": 1, "ids": [145], "pos": "nn", "rank": 0.006522701457628817, "text": "environment"}
+{"count": 1, "ids": [19], "pos": "nns", "rank": 0.006480124011169975, "text": "flows"}
+{"count": 1, "ids": [116], "pos": "vb", "rank": 0.005937940574846064, "text": "exhibit"}
+{"count": 1, "ids": [59], "pos": "nns", "rank": 0.005284514158687495, "text": "rocks"}
+{"count": 1, "ids": [135], "pos": "np", "rank": 0.005071328167307262, "text": "fact"}
+{"count": 1, "ids": [134], "pos": "nns", "rank": 0.004690882304946721, "text": "silicates"}
+{"count": 1, "ids": [136], "pos": "vbz", "rank": 0.004690882304946721, "text": "accounts"}
+{"count": 1, "ids": [158], "pos": "nnp", "rank": 0.004636982460178222, "text": "park"}
+{"count": 1, "ids": [153], "pos": "nn", "rank": 0.0045475763603956085, "text": "lava"}
+{"count": 1, "ids": [140], "pos": "nns", "rank": 0.004401520908018423, "text": "fragments"}
+{"count": 1, "ids": [98], "pos": "nns", "rank": 0.004049641054330289, "text": "components"}
+{"count": 2, "ids": [121], "pos": "vbz", "rank": 0.0032540701574179944, "text": "contains"}
+{"count": 1, "ids": [157], "pos": "nnp", "rank": 0.0032540701574179944, "text": "national"}
+{"count": 1, "ids": [139], "pos": "nn", "rank": 0.0030888290047577215, "text": "glass"}
+{"count": 1, "ids": [108], "pos": "nn", "rank": 0.002535664083653631, "text": "distance"}
+{"count": 1, "ids": [58], "pos": "nn", "rank": 0.002535664083653631, "text": "addition"}
+{"count": 1, "ids": [120], "pos": "nns", "rank": 0.002535664083653631, "text": "specimens"}
+{"count": 1, "ids": [143], "pos": "nn", "rank": 0.002535664083653631, "text": "surface"}
+{"count": 1, "ids": [146], "pos": "nn", "rank": 0.002535664083653631, "text": "contrast"}
+{"count": 1, "ids": [156], "pos": "nnp", "rank": 0.002535664083653631, "text": "yellowstone"}

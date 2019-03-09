@@ -1,0 +1,111 @@
+{"count": 1, "ids": [751, 692], "pos": "np", "rank": 0.029920224777811026, "text": "dissolved ions"}
+{"count": 1, "ids": [218], "pos": "np", "rank": 0.028482730379139915, "text": "salts"}
+{"count": 1, "ids": [239], "pos": "np", "rank": 0.0276219212795373, "text": "water"}
+{"count": 1, "ids": [775, 758], "pos": "np", "rank": 0.02647715463841288, "text": "groundwater precipitates"}
+{"count": 2, "ids": [150], "pos": "np", "rank": 0.026197005447723312, "text": "deposits"}
+{"count": 1, "ids": [55, 754, 641], "pos": "np", "rank": 0.02459333555779148, "text": "high evaporation rates"}
+{"count": 1, "ids": [775], "pos": "np", "rank": 0.02204051547088603, "text": "groundwater"}
+{"count": 1, "ids": [123], "pos": "np", "rank": 0.02056957035579703, "text": "crystals"}
+{"count": 1, "ids": [323], "pos": "np", "rank": 0.020349709765183428, "text": "form"}
+{"count": 1, "ids": [765, 164], "pos": "np", "rank": 0.018629959103454517, "text": "good examples"}
+{"count": 1, "ids": [129, 123], "pos": "np", "rank": 0.01858872461171437, "text": "quartz crystals"}
+{"count": 2, "ids": [748], "pos": "np", "rank": 0.018230297059322095, "text": "solution"}
+{"count": 1, "ids": [103], "pos": "np", "rank": 0.01769691984717964, "text": "minerals"}
+{"count": 1, "ids": [692], "pos": "np", "rank": 0.014960112388905513, "text": "ions"}
+{"count": 1, "ids": [192, 179], "pos": "np", "rank": 0.014798036936124597, "text": "crystalline solids"}
+{"count": 1, "ids": [614, 773], "pos": "np", "rank": 0.01462391310657467, "text": "ancient seas"}
+{"count": 3, "ids": [24], "pos": "vbd", "rank": 0.014570738189827707, "text": "called"}
+{"count": 1, "ids": [380], "pos": "np", "rank": 0.014317657892176103, "text": "evidence"}
+{"count": 1, "ids": [349, 218, 423], "pos": "np", "rank": 0.014241365189569958, "text": "great salt lake"}
+{"count": 1, "ids": [239, 333], "pos": "np", "rank": 0.01381096063976865, "text": "water bodies"}
+{"count": 2, "ids": [756], "pos": "np", "rank": 0.013773009880286352, "text": "saturation"}
+{"count": 4, "ids": [758], "pos": "nns", "rank": 0.01323857731920644, "text": "precipitates"}
+{"count": 2, "ids": [59], "pos": "nns", "rank": 0.013007904688165732, "text": "rocks"}
+{"count": 1, "ids": [774], "pos": "np", "rank": 0.012714304361617225, "text": "page"}
+{"count": 1, "ids": [777], "pos": "nns", "rank": 0.012523377089803505, "text": "sediments"}
+{"count": 1, "ids": [264, 195, 170], "pos": "np", "rank": 0.01248795797560793, "text": "dissolved material matter"}
+{"count": 2, "ids": [754], "pos": "nn", "rank": 0.01229666777889574, "text": "evaporation"}
+{"count": 1, "ids": [626, 782], "pos": "np", "rank": 0.012006308838627983, "text": "greater detail"}
+{"count": 1, "ids": [762, 763, 764], "pos": "np", "rank": 0.011700320652799034, "text": "salar de uyuni"}
+{"count": 1, "ids": [26], "pos": "np", "rank": 0.010852788622819137, "text": "process"}
+{"count": 1, "ids": [685], "pos": "nn", "rank": 0.010560282279502054, "text": "bond"}
+{"count": 1, "ids": [622, 123], "pos": "np", "rank": 0.010284785177898515, "text": "spectacular crystals"}
+{"count": 1, "ids": [767, 45], "pos": "np", "rank": 0.01014524207014107, "text": "arid regions"}
+{"count": 1, "ids": [213, 770, 218], "pos": "np", "rank": 0.009910048233847248, "text": "other soluble salts"}
+{"count": 2, "ids": [470], "pos": "vb", "rank": 0.009828779534965132, "text": "provide"}
+{"count": 1, "ids": [103, 704], "pos": "np", "rank": 0.009696095475576025, "text": "minerals halite"}
+{"count": 1, "ids": [349, 218], "pos": "np", "rank": 0.009494243459713307, "text": "great salt"}
+{"count": 2, "ids": [164], "pos": "nn", "rank": 0.009314979551727259, "text": "example"}
+{"count": 1, "ids": [778, 164], "pos": "np", "rank": 0.009314979551727259, "text": "interesting example"}
+{"count": 2, "ids": [129], "pos": "nn", "rank": 0.009294362305857186, "text": "quartz"}
+{"count": 1, "ids": [641], "pos": "nns", "rank": 0.009134769112643768, "text": "rates"}
+{"count": 2, "ids": [512], "pos": "vbn", "rank": 0.009078488652310349, "text": "reached"}
+{"count": 1, "ids": [182], "pos": "nn", "rank": 0.008966140700572436, "text": "chapter"}
+{"count": 1, "ids": [771], "pos": "np", "rank": 0.008916890929990158, "text": "hundreds"}
+{"count": 2, "ids": [746], "pos": "vbp", "rank": 0.008520462490730686, "text": "grow"}
+{"count": 1, "ids": [698], "pos": "vbg", "rank": 0.008504442913603444, "text": "joining"}
+{"count": 1, "ids": [141], "pos": "nns", "rank": 0.008487117863168823, "text": "voids"}
+{"count": 1, "ids": [772], "pos": "nn", "rank": 0.008479432267067816, "text": "thickness"}
+{"count": 1, "ids": [790, 784, 791], "pos": "np", "rank": 0.008306441606512971, "text": "global gold production"}
+{"count": 1, "ids": [185], "pos": "vbz", "rank": 0.00827609622013903, "text": "keeps"}
+{"count": 1, "ids": [434], "pos": "nns", "rank": 0.008257150881162427, "text": "fractures"}
+{"count": 1, "ids": [637], "pos": "nns", "rank": 0.00824843431346369, "text": "meters"}
+{"count": 1, "ids": [784], "pos": "np", "rank": 0.008012098500566755, "text": "gold"}
+{"count": 1, "ids": [769], "pos": "vb", "rank": 0.007497885335949724, "text": "gypsum"}
+{"count": 1, "ids": [192], "pos": "nn", "rank": 0.007399018468062298, "text": "crystalline"}
+{"count": 1, "ids": [785], "pos": "vbn", "rank": 0.007341690795354095, "text": "treasured"}
+{"count": 1, "ids": [773], "pos": "nns", "rank": 0.007311956553287335, "text": "seas"}
+{"count": 1, "ids": [760], "pos": "nnp", "rank": 0.007190726355464949, "text": "bolivia"}
+{"count": 1, "ids": [479], "pos": "vbg", "rank": 0.007035304843969916, "text": "exceeding"}
+{"count": 2, "ids": [251], "pos": "nn", "rank": 0.00691810084003385, "text": "evaporite"}
+{"count": 1, "ids": [759], "pos": "nnp", "rank": 0.006732620605174011, "text": "utah"}
+{"count": 1, "ids": [419], "pos": "vb", "rank": 0.006694341871025794, "text": "cause"}
+{"count": 2, "ids": [264], "pos": "vbd", "rank": 0.006243978987803965, "text": "dissolved"}
+{"count": 1, "ids": [179], "pos": "nns", "rank": 0.006055258280484477, "text": "solids"}
+{"count": 1, "ids": [782], "pos": "nn", "rank": 0.006003154419313992, "text": "detail"}
+{"count": 1, "ids": [151, 103], "pos": "np", "rank": 0.005898973282393214, "text": "common minerals"}
+{"count": 1, "ids": [170], "pos": "nn", "rank": 0.0058648141911920556, "text": "matter"}
+{"count": 1, "ids": [764], "pos": "nnp", "rank": 0.005850160326399517, "text": "uyuni"}
+{"count": 2, "ids": [121], "pos": "vbp", "rank": 0.005825142074249116, "text": "contain"}
+{"count": 1, "ids": [783], "pos": "np", "rank": 0.005819829959639003, "text": "silica"}
+{"count": 1, "ids": [757], "pos": "vbp", "rank": 0.005707718636884016, "text": "begin"}
+{"count": 1, "ids": [744, 745], "pos": "np", "rank": 0.005432391745509446, "text": "familiar way"}
+{"count": 1, "ids": [750], "pos": "nn", "rank": 0.005381806830293463, "text": "motion"}
+{"count": 1, "ids": [763], "pos": "nnp", "rank": 0.005345869893988396, "text": "de"}
+{"count": 1, "ids": [776], "pos": "vbg", "rank": 0.005231337742796882, "text": "filling"}
+{"count": 1, "ids": [660], "pos": "nns", "rank": 0.005089663454703309, "text": "cavities"}
+{"count": 1, "ids": [45], "pos": "nns", "rank": 0.005072621035070535, "text": "regions"}
+{"count": 1, "ids": [781], "pos": "vbn", "rank": 0.005034534096596041, "text": "discussed"}
+{"count": 1, "ids": [693], "pos": "vbn", "rank": 0.005030068635127834, "text": "lost"}
+{"count": 1, "ids": [767], "pos": "nn", "rank": 0.004983722683636655, "text": "arid"}
+{"count": 1, "ids": [762], "pos": "nnp", "rank": 0.004965106664140016, "text": "salar"}
+{"count": 1, "ids": [195], "pos": "nn", "rank": 0.004892381174133856, "text": "material"}
+{"count": 1, "ids": [277], "pos": "vbn", "rank": 0.004631518367952061, "text": "evaporated"}
+{"count": 1, "ids": [749], "pos": "vbn", "rank": 0.004604266603905955, "text": "saturated"}
+{"count": 3, "ids": [779], "pos": "nns", "rank": 0.004564741917662734, "text": "geodes"}
+{"count": 1, "ids": [349], "pos": "nnp", "rank": 0.004523847727498722, "text": "great"}
+{"count": 1, "ids": [423], "pos": "nnp", "rank": 0.004158799093731526, "text": "lake"}
+{"count": 2, "ids": [791], "pos": "nn", "rank": 0.004153220803256486, "text": "production"}
+{"count": 1, "ids": [168], "pos": "nn", "rank": 0.004101893237963875, "text": "calcite"}
+{"count": 1, "ids": [136], "pos": "vbg", "rank": 0.003914365673577816, "text": "accounting"}
+{"count": 1, "ids": [56], "pos": "nn", "rank": 0.0037769834683859067, "text": "temperature"}
+{"count": 1, "ids": [787], "pos": "nn", "rank": 0.0037769834683859067, "text": "beauty"}
+{"count": 1, "ids": [495, 788], "pos": "np", "rank": 0.003768425459269609, "text": "south africa"}
+{"count": 1, "ids": [671], "pos": "vbn", "rank": 0.003497365172540347, "text": "located"}
+{"count": 1, "ids": [333], "pos": "nns", "rank": 0.003424848519840292, "text": "bodies"}
+{"count": 1, "ids": [552], "pos": "vb", "rank": 0.003343760488324104, "text": "settle"}
+{"count": 1, "ids": [12], "pos": "vbg", "rank": 0.003343760488324104, "text": "moving"}
+{"count": 1, "ids": [792], "pos": "nn", "rank": 0.0032333372606412852, "text": "world"}
+{"count": 1, "ids": [766], "pos": "nn", "rank": 0.003005390082130539, "text": "work"}
+{"count": 1, "ids": [780], "pos": "nn", "rank": 0.002981392771662519, "text": "inwardprojecting"}
+{"count": 1, "ids": [745], "pos": "nn", "rank": 0.002716195872754723, "text": "way"}
+{"count": 1, "ids": [753], "pos": "nn", "rank": 0.002716195872754723, "text": "drop"}
+{"count": 1, "ids": [786], "pos": "nn", "rank": 0.002716195872754723, "text": "history"}
+{"count": 1, "ids": [7], "pos": "vb", "rank": 0.0025751225894404535, "text": "become"}
+{"count": 1, "ids": [789], "pos": "vbd", "rank": 0.0024180695895982284, "text": "dominated"}
+{"count": 1, "ids": [517], "pos": "nn", "rank": 0.002092208515414784, "text": "object"}
+{"count": 1, "ids": [788], "pos": "nnp", "rank": 0.0018842127296348045, "text": "africa"}
+{"count": 1, "ids": [752], "pos": "nns", "rank": 0.0014682211580748451, "text": "factors"}
+{"count": 1, "ids": [368], "pos": "vbn", "rank": 0.0014682211580748451, "text": "shaped"}
+{"count": 1, "ids": [476], "pos": "vbn", "rank": 0.0014682211580748451, "text": "recorded"}
+{"count": 1, "ids": [495], "pos": "nnp", "rank": 0.0014682211580748451, "text": "south"}

@@ -1,0 +1,56 @@
+{"count": 1, "ids": [141, 159], "pos": "np", "rank": 0.06921061610316846, "text": "schist medium-"}
+{"count": 1, "ids": [173, 10], "pos": "np", "rank": 0.06871445613701481, "text": "parent rock"}
+{"count": 1, "ids": [142, 143, 23], "pos": "np", "rank": 0.06014045210848351, "text": "constituent platy minerals"}
+{"count": 1, "ids": [177, 178, 139], "pos": "np", "rank": 0.05520781218844502, "text": "mediumto high-grade metamorphism"}
+{"count": 1, "ids": [108, 23], "pos": "np", "rank": 0.03471527778373429, "text": "dark minerals"}
+{"count": 2, "ids": [141], "pos": "np", "rank": 0.03460530805158423, "text": "schists"}
+{"count": 4, "ids": [10], "pos": "nn", "rank": 0.034357228068507405, "text": "rock"}
+{"count": 1, "ids": [179, 180, 181], "pos": "np", "rank": 0.03425184675921074, "text": "major mountainbuilding episode"}
+{"count": 4, "ids": [23], "pos": "nns", "rank": 0.030070226054241755, "text": "minerals"}
+{"count": 1, "ids": [143, 23], "pos": "np", "rank": 0.030070226054241755, "text": "platy minerals"}
+{"count": 2, "ids": [139], "pos": "nn", "rank": 0.02760390609422251, "text": "metamorphism"}
+{"count": 1, "ids": [152, 153], "pos": "np", "rank": 0.027537770739760735, "text": "wavy surface"}
+{"count": 1, "ids": [171, 39], "pos": "np", "rank": 0.02698663348258957, "text": "smaller amounts"}
+{"count": 5, "ids": [140], "pos": "nn", "rank": 0.025602741806409098, "text": "slate"}
+{"count": 1, "ids": [113, 23], "pos": "np", "rank": 0.025511256047245308, "text": "other minerals"}
+{"count": 1, "ids": [174, 141], "pos": "np", "rank": 0.023070205367722824, "text": "most schists"}
+{"count": 1, "ids": [166, 167], "pos": "np", "rank": 0.021567775516163127, "text": "parallel alignments"}
+{"count": 1, "ids": [146, 147], "pos": "np", "rank": 0.02036914863061312, "text": "unaided eye"}
+{"count": 1, "ids": [181], "pos": "nn", "rank": 0.01712592337960537, "text": "episode"}
+{"count": 2, "ids": [155], "pos": "vbn", "rank": 0.016895753418455773, "text": "composed"}
+{"count": 1, "ids": [150, 151], "pos": "np", "rank": 0.016874566810154108, "text": "glossy sheen"}
+{"count": 1, "ids": [168], "pos": "vbp", "rank": 0.01673803802936648, "text": "give"}
+{"count": 1, "ids": [165], "pos": "np", "rank": 0.015113238499597245, "text": "display"}
+{"count": 1, "ids": [109], "pos": "nns", "rank": 0.014917806946236288, "text": "amphiboles"}
+{"count": 1, "ids": [153], "pos": "nn", "rank": 0.013768885369880367, "text": "surface"}
+{"count": 1, "ids": [39], "pos": "nns", "rank": 0.013493316741294784, "text": "amounts"}
+{"count": 1, "ids": [2], "pos": "nn", "rank": 0.013260838120703474, "text": "texture"}
+{"count": 1, "ids": [43], "pos": "vbn", "rank": 0.01302693058430507, "text": "called"}
+{"count": 1, "ids": [176], "pos": "vbn", "rank": 0.01176439188612129, "text": "undergone"}
+{"count": 1, "ids": [156, 17], "pos": "np", "rank": 0.011087547035133687, "text": "fine crystals"}
+{"count": 1, "ids": [167], "pos": "nns", "rank": 0.010783887758081563, "text": "alignments"}
+{"count": 1, "ids": [147], "pos": "nn", "rank": 0.01018457431530656, "text": "eye"}
+{"count": 1, "ids": [177], "pos": "nn", "rank": 0.009683518368841217, "text": "mediumto"}
+{"count": 1, "ids": [180], "pos": "nn", "rank": 0.009256268359905976, "text": "mountainbuilding"}
+{"count": 1, "ids": [160], "pos": "vb", "rank": 0.008927672661192673, "text": "coarse-grained"}
+{"count": 1, "ids": [154], "pos": "nn", "rank": 0.008887161745064733, "text": "cleavage"}
+{"count": 1, "ids": [116], "pos": "nn", "rank": 0.00864767519611135, "text": "feldspar"}
+{"count": 1, "ids": [162, 163], "pos": "np", "rank": 0.00854041157513838, "text": "flat components"}
+{"count": 1, "ids": [173], "pos": "nn", "rank": 0.008437283405077054, "text": "parent"}
+{"count": 2, "ids": [143], "pos": "nn", "rank": 0.00801727864617259, "text": "platy"}
+{"count": 1, "ids": [35], "pos": "vbp", "rank": 0.007538517280659569, "text": "contain"}
+{"count": 1, "ids": [169], "pos": "vbn", "rank": 0.0071682334928408215, "text": "foliated"}
+{"count": 1, "ids": [172], "pos": "nn", "rank": 0.006648057059615925, "text": "quartz"}
+{"count": 1, "ids": [137, 137], "pos": "np", "rank": 0.0066183409341335885, "text": "phyllite phyllite"}
+{"count": 1, "ids": [151], "pos": "nn", "rank": 0.006582994477305519, "text": "sheen"}
+{"count": 1, "ids": [21], "pos": "vbn", "rank": 0.00642361152449255, "text": "distinguished"}
+{"count": 1, "ids": [54], "pos": "nn", "rank": 0.006387618377986105, "text": "degree"}
+{"count": 1, "ids": [159], "pos": "nnp", "rank": 0.006264949550661915, "text": "medium-"}
+{"count": 1, "ids": [164], "pos": "vbp", "rank": 0.006085046639085436, "text": "include"}
+{"count": 1, "ids": [17], "pos": "nns", "rank": 0.005543773517566844, "text": "crystals"}
+{"count": 1, "ids": [163], "pos": "nns", "rank": 0.00427020578756919, "text": "components"}
+{"count": 1, "ids": [138], "pos": "vbz", "rank": 0.003621702876562051, "text": "represents"}
+{"count": 1, "ids": [148], "pos": "vbz", "rank": 0.0033091704670667943, "text": "appears"}
+{"count": 1, "ids": [11], "pos": "vbz", "rank": 0.0033091704670667943, "text": "exhibits"}
+{"count": 1, "ids": [170], "pos": "nn", "rank": 0.0029966380575715376, "text": "addition"}
+{"count": 1, "ids": [137], "pos": "np", "rank": 0.002206113644711196, "text": "phyllite"}

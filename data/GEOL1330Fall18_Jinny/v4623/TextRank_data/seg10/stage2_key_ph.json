@@ -1,0 +1,86 @@
+{"count": 2, "ids": [23], "pos": "np", "rank": 0.0756997014892948, "text": "minerals"}
+{"count": 2, "ids": [179, 142], "pos": "np", "rank": 0.04337557975215793, "text": "major constituents"}
+{"count": 1, "ids": [5], "pos": "np", "rank": 0.040585352619106285, "text": "crystallize"}
+{"count": 1, "ids": [344, 23], "pos": "np", "rank": 0.0378498507446474, "text": "first mineral"}
+{"count": 2, "ids": [10, 426], "pos": "np", "rank": 0.03713815292188775, "text": "rock group"}
+{"count": 1, "ids": [23, 50], "pos": "np", "rank": 0.03463596532928001, "text": "mineral composition"}
+{"count": 1, "ids": [200, 115, 116], "pos": "np", "rank": 0.02925544842016488, "text": "calcium-rich plagioclase feldspar"}
+{"count": 1, "ids": [56, 433], "pos": "np", "rank": 0.02800832707369981, "text": "magma chamber"}
+{"count": 1, "ids": [355, 116], "pos": "np", "rank": 0.026062950691678445, "text": "potassium feldspar"}
+{"count": 1, "ids": [396, 23, 190], "pos": "np", "rank": 0.025233233829764928, "text": "ferromagnesian mineral olivine"}
+{"count": 1, "ids": [410, 49], "pos": "np", "rank": 0.02437447835438935, "text": "specific temperature"}
+{"count": 1, "ids": [427, 49, 428], "pos": "np", "rank": 0.022681412696523552, "text": "same temperature range"}
+{"count": 2, "ids": [142], "pos": "nns", "rank": 0.021687789876078965, "text": "constituents"}
+{"count": 1, "ids": [443, 9, 10, 135], "pos": "np", "rank": 0.021600243697014583, "text": "intrusive igneous rock granite"}
+{"count": 4, "ids": [10], "pos": "nn", "rank": 0.018569076460943874, "text": "rock"}
+{"count": 1, "ids": [427, 9, 10], "pos": "np", "rank": 0.018569076460943874, "text": "same igneous rocks"}
+{"count": 3, "ids": [50], "pos": "nn", "rank": 0.017317982664640005, "text": "composition"}
+{"count": 1, "ids": [84, 85], "pos": "np", "rank": 0.016928765152228624, "text": "crystallization process"}
+{"count": 1, "ids": [23, 172], "pos": "np", "rank": 0.015139940297858957, "text": "minerals quartz"}
+{"count": 2, "ids": [116], "pos": "nn", "rank": 0.01462772421008244, "text": "feldspar"}
+{"count": 1, "ids": [353, 354], "pos": "np", "rank": 0.014114651848282884, "text": "reaction series"}
+{"count": 1, "ids": [157], "pos": "nn", "rank": 0.014017210282214618, "text": "muscovite"}
+{"count": 3, "ids": [56], "pos": "vbd", "rank": 0.014004163536849905, "text": "magma"}
+{"count": 2, "ids": [352], "pos": "nnp", "rank": 0.013815668012104843, "text": "bowen"}
+{"count": 3, "ids": [414], "pos": "vbg", "rank": 0.013680843249925845, "text": "remaining"}
+{"count": 2, "ids": [355], "pos": "nn", "rank": 0.013031475345839223, "text": "potassium"}
+{"count": 1, "ids": [49], "pos": "np", "rank": 0.012187239177194675, "text": "temperatures"}
+{"count": 1, "ids": [427, 370, 49, 439], "pos": "np", "rank": 0.011994875150466936, "text": "same general temperature regime"}
+{"count": 2, "ids": [311], "pos": "nn", "rank": 0.01179995767164979, "text": "melt"}
+{"count": 1, "ids": [237], "pos": "np", "rank": 0.011635220667097388, "text": "elements"}
+{"count": 2, "ids": [422], "pos": "nn", "rank": 0.009961206350761599, "text": "calcium"}
+{"count": 2, "ids": [421], "pos": "nn", "rank": 0.009856316813782377, "text": "magnesium"}
+{"count": 2, "ids": [420], "pos": "nn", "rank": 0.009733344697369441, "text": "iron"}
+{"count": 1, "ids": [135], "pos": "nn", "rank": 0.009420907703790303, "text": "granite"}
+{"count": 1, "ids": [411, 384], "pos": "np", "rank": 0.008919005233361749, "text": "systematic fashion"}
+{"count": 1, "ids": [435], "pos": "nn", "rank": 0.008822780832065287, "text": "sodium"}
+{"count": 2, "ids": [85], "pos": "nn", "rank": 0.008464382576114312, "text": "process"}
+{"count": 2, "ids": [426], "pos": "nn", "rank": 0.007899213805494255, "text": "group"}
+{"count": 1, "ids": [436], "pos": "nnp", "rank": 0.007637534237620834, "text": "sio2"}
+{"count": 1, "ids": [440], "pos": "vbn", "rank": 0.00747539854981804, "text": "depicted"}
+{"count": 2, "ids": [416], "pos": "nn", "rank": 0.007341741684227225, "text": "change"}
+{"count": 1, "ids": [431], "pos": "nns", "rank": 0.007248744741922766, "text": "evolves"}
+{"count": 1, "ids": [190], "pos": "nn", "rank": 0.007231487768840245, "text": "olivine"}
+{"count": 1, "ids": [76], "pos": "nn", "rank": 0.007122222775609804, "text": "silica"}
+{"count": 1, "ids": [354], "pos": "nn", "rank": 0.007057325924141442, "text": "series"}
+{"count": 1, "ids": [356], "pos": "nn", "rank": 0.006980448425780947, "text": "note"}
+{"count": 1, "ids": [15], "pos": "vbz", "rank": 0.006980448425780947, "text": "consists"}
+{"count": 1, "ids": [418], "pos": "vbn", "rank": 0.006601560233169253, "text": "solidified"}
+{"count": 1, "ids": [434], "pos": "vbg", "rank": 0.006601560233169253, "text": "leaving"}
+{"count": 1, "ids": [363], "pos": "nn", "rank": 0.006516133382679178, "text": "portion"}
+{"count": 1, "ids": [412], "pos": "vbn", "rank": 0.0064373834060644525, "text": "based"}
+{"count": 2, "ids": [8], "pos": "vbp", "rank": 0.006180446650474576, "text": "form"}
+{"count": 1, "ids": [439], "pos": "nn", "rank": 0.005997437575233468, "text": "regime"}
+{"count": 1, "ids": [427, 293], "pos": "np", "rank": 0.005670353174130888, "text": "same region"}
+{"count": 3, "ids": [413], "pos": "nn", "rank": 0.005499135231436942, "text": "diagram"}
+{"count": 1, "ids": [353], "pos": "nn", "rank": 0.005499135231436942, "text": "reaction"}
+{"count": 1, "ids": [428], "pos": "nn", "rank": 0.00524511473013502, "text": "range"}
+{"count": 2, "ids": [429], "pos": "vb", "rank": 0.005132884972281275, "text": "settle"}
+{"count": 2, "ids": [184], "pos": "vbg", "rank": 0.005132461364395633, "text": "cooling"}
+{"count": 1, "ids": [31], "pos": "nn", "rank": 0.005019213076412362, "text": "material"}
+{"count": 1, "ids": [419], "pos": "vbn", "rank": 0.005005456771074945, "text": "depleted"}
+{"count": 1, "ids": [442], "pos": "vbn", "rank": 0.005005456771074945, "text": "located"}
+{"count": 1, "ids": [89], "pos": "vbp", "rank": 0.0047549604428943765, "text": "tend"}
+{"count": 1, "ids": [438], "pos": "np", "rank": 0.004515552222645392, "text": "scientists"}
+{"count": 1, "ids": [115], "pos": "nn", "rank": 0.004493107542167727, "text": "plagioclase"}
+{"count": 1, "ids": [403], "pos": "nn", "rank": 0.00447824230087753, "text": "sequence"}
+{"count": 1, "ids": [93], "pos": "nn", "rank": 0.0044595026166808745, "text": "mafic"}
+{"count": 1, "ids": [430], "pos": "nns", "rank": 0.004439302469312089, "text": "results"}
+{"count": 1, "ids": [409], "pos": "vbz", "rank": 0.004176945493682778, "text": "freezes"}
+{"count": 1, "ids": [172], "pos": "nn", "rank": 0.003882420203098435, "text": "quartz"}
+{"count": 1, "ids": [432], "pos": "nn", "rank": 0.003765920113711687, "text": "bottom"}
+{"count": 1, "ids": [433], "pos": "nn", "rank": 0.0035683829532441314, "text": "chamber"}
+{"count": 1, "ids": [384], "pos": "nn", "rank": 0.0034797177781320473, "text": "fashion"}
+{"count": 1, "ids": [98], "pos": "vbp", "rank": 0.003217360802502737, "text": "know"}
+{"count": 1, "ids": [200], "pos": "nn", "rank": 0.0031530587793184286, "text": "calcium-rich"}
+{"count": 2, "ids": [132], "pos": "vbz", "rank": 0.0031425844484267943, "text": "shows"}
+{"count": 1, "ids": [425], "pos": "nn", "rank": 0.0029311584669230975, "text": "figure"}
+{"count": 1, "ids": [441], "pos": "vbp", "rank": 0.0029311584669230975, "text": "notice"}
+{"count": 1, "ids": [293], "pos": "nn", "rank": 0.0026553449803430793, "text": "region"}
+{"count": 1, "ids": [232], "pos": "vbz", "rank": 0.0024569339955182357, "text": "generates"}
+{"count": 1, "ids": [335], "pos": "nn", "rank": 0.002257776111322696, "text": "ice"}
+{"count": 1, "ids": [295], "pos": "vb", "rank": 0.0015843937557222943, "text": "recall"}
+{"count": 1, "ids": [84], "pos": "nn", "rank": 0.0015843937557222943, "text": "crystallization"}
+{"count": 2, "ids": [65], "pos": "nn", "rank": 0.0015843937557222943, "text": "example"}
+{"count": 1, "ids": [424], "pos": "vb", "rank": 0.0015843937557222943, "text": "compare"}
+{"count": 1, "ids": [17], "pos": "nn", "rank": 0.0015843937557222943, "text": "crystal"}

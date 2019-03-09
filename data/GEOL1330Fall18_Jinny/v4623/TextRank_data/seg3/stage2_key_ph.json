@@ -1,0 +1,67 @@
+{"count": 1, "ids": [91, 64], "pos": "np", "rank": 0.07250345164533553, "text": "thick flows"}
+{"count": 1, "ids": [30, 31], "pos": "np", "rank": 0.0426430233796611, "text": "source material"}
+{"count": 1, "ids": [75, 76], "pos": "np", "rank": 0.042209252683754944, "text": "more silica"}
+{"count": 4, "ids": [35], "pos": "vbp", "rank": 0.03965419763854553, "text": "contain"}
+{"count": 1, "ids": [53, 41], "pos": "np", "rank": 0.03960619765998185, "text": "dissolved gases"}
+{"count": 4, "ids": [64], "pos": "nns", "rank": 0.036251725822667766, "text": "flows"}
+{"count": 1, "ids": [68], "pos": "nn", "rank": 0.033730940643074414, "text": "water"}
+{"count": 1, "ids": [36, 37, 31], "pos": "np", "rank": 0.027523389154240258, "text": "solid crystalline material"}
+{"count": 1, "ids": [82, 83], "pos": "np", "rank": 0.02482811942129716, "text": "long chains"}
+{"count": 1, "ids": [88], "pos": "np", "rank": 0.0231695629899336, "text": "lavas"}
+{"count": 1, "ids": [73, 74], "pos": "np", "rank": 0.022250092369565006, "text": "percent content"}
+{"count": 3, "ids": [31], "pos": "nn", "rank": 0.02132151168983055, "text": "material"}
+{"count": 1, "ids": [76], "pos": "np", "rank": 0.021104626341877472, "text": "silica"}
+{"count": 1, "ids": [34, 10], "pos": "np", "rank": 0.0209225050309914, "text": "molten rock"}
+{"count": 2, "ids": [41], "pos": "nns", "rank": 0.019803098829990925, "text": "gases"}
+{"count": 1, "ids": [32, 33], "pos": "np", "rank": 0.019694460892204037, "text": "volcanic eruptions"}
+{"count": 1, "ids": [95, 76], "pos": "np", "rank": 0.019314312956138575, "text": "less silica"}
+{"count": 1, "ids": [45, 46], "pos": "np", "rank": 0.019234852415494292, "text": "primary factors"}
+{"count": 1, "ids": [101], "pos": "nns", "rank": 0.016894694890471084, "text": "miles"}
+{"count": 1, "ids": [100], "pos": "nns", "rank": 0.016445598009624477, "text": "kilometers"}
+{"count": 1, "ids": [59], "pos": "nns", "rank": 0.01627486579868881, "text": "viscos"}
+{"count": 1, "ids": [99], "pos": "vb", "rank": 0.015917483983475592, "text": "travel"}
+{"count": 2, "ids": [58], "pos": "nn", "rank": 0.01571558142823904, "text": "viscosity"}
+{"count": 1, "ids": [44], "pos": "nn", "rank": 0.014778537521854573, "text": "lava"}
+{"count": 2, "ids": [39], "pos": "nn", "rank": 0.014636711908854499, "text": "amount"}
+{"count": 1, "ids": [69, 10, 70], "pos": "np", "rank": 0.014238297974787173, "text": "intermediate rock types"}
+{"count": 1, "ids": [37], "pos": "nn", "rank": 0.013761694577120129, "text": "crystalline"}
+{"count": 1, "ids": [83], "pos": "nns", "rank": 0.01241405971064858, "text": "chains"}
+{"count": 2, "ids": [38], "pos": "vbg", "rank": 0.012390110397423926, "text": "varying"}
+{"count": 1, "ids": [57], "pos": "nn", "rank": 0.011786164998269238, "text": "mobility"}
+{"count": 1, "ids": [8], "pos": "vb", "rank": 0.011524808043630666, "text": "form"}
+{"count": 1, "ids": [74], "pos": "nn", "rank": 0.011125046184782503, "text": "content"}
+{"count": 1, "ids": [51, 52], "pos": "np", "rank": 0.01078887278497829, "text": "lesser extent"}
+{"count": 1, "ids": [84, 85], "pos": "np", "rank": 0.01078887278497829, "text": "crystallization process"}
+{"count": 2, "ids": [10], "pos": "nn", "rank": 0.0104612525154957, "text": "rock"}
+{"count": 1, "ids": [56], "pos": "nn", "rank": 0.010435030669186171, "text": "magma"}
+{"count": 1, "ids": [102], "pos": "vbg", "rank": 0.010258901751438163, "text": "congealing"}
+{"count": 1, "ids": [89], "pos": "vbp", "rank": 0.010128450441883968, "text": "tend"}
+{"count": 1, "ids": [98], "pos": "vbn", "rank": 0.009998331460572442, "text": "known"}
+{"count": 1, "ids": [33], "pos": "nns", "rank": 0.009847230446102018, "text": "eruptions"}
+{"count": 1, "ids": [81], "pos": "vb", "rank": 0.00971487332953861, "text": "link"}
+{"count": 1, "ids": [73], "pos": "nn", "rank": 0.009657156478069287, "text": "percent"}
+{"count": 1, "ids": [46], "pos": "np", "rank": 0.009617426207747146, "text": "factors"}
+{"count": 1, "ids": [40], "pos": "vbn", "rank": 0.009536851793251418, "text": "dissolved"}
+{"count": 1, "ids": [50], "pos": "nn", "rank": 0.009222019312591537, "text": "composition"}
+{"count": 1, "ids": [77], "pos": "vbz", "rank": 0.008896286986902082, "text": "impedes"}
+{"count": 1, "ids": [48], "pos": "nn", "rank": 0.008763711213337168, "text": "behavior"}
+{"count": 1, "ids": [43], "pos": "vbn", "rank": 0.008658335250704061, "text": "called"}
+{"count": 1, "ids": [66], "pos": "np", "rank": 0.008310406379169966, "text": "syrup"}
+{"count": 1, "ids": [78, 79], "pos": "np", "rank": 0.008310406379169966, "text": "silicate structures"}
+{"count": 1, "ids": [49], "pos": "nn", "rank": 0.007419102047799898, "text": "temperature"}
+{"count": 1, "ids": [70], "pos": "nns", "rank": 0.007119148987393587, "text": "types"}
+{"count": 1, "ids": [47], "pos": "vbp", "rank": 0.0068799087935779435, "text": "affect"}
+{"count": 1, "ids": [54], "pos": "nns", "rank": 0.00642662274200673, "text": "degrees"}
+{"count": 1, "ids": [80], "pos": "vbp", "rank": 0.0059211294665611255, "text": "begin"}
+{"count": 1, "ids": [63], "pos": "nn", "rank": 0.005695686907278512, "text": "resistance"}
+{"count": 1, "ids": [55], "pos": "vbp", "rank": 0.00564067559067378, "text": "determine"}
+{"count": 1, "ids": [52], "pos": "nn", "rank": 0.005394436392489145, "text": "extent"}
+{"count": 1, "ids": [85], "pos": "nn", "rank": 0.005394436392489145, "text": "process"}
+{"count": 1, "ids": [93], "pos": "nn", "rank": 0.005394436392489145, "text": "mafic"}
+{"count": 1, "ids": [79], "pos": "nns", "rank": 0.004155203189584983, "text": "structures"}
+{"count": 1, "ids": [30], "pos": "nn", "rank": 0.002915969986680819, "text": "source"}
+{"count": 1, "ids": [42], "pos": "vbn", "rank": 0.002915969986680819, "text": "erupted"}
+{"count": 1, "ids": [65], "pos": "nn", "rank": 0.002915969986680819, "text": "example"}
+{"count": 1, "ids": [78], "pos": "nn", "rank": 0.002915969986680819, "text": "silicate"}
+{"count": 1, "ids": [84], "pos": "nn", "rank": 0.002915969986680819, "text": "crystallization"}
+{"count": 1, "ids": [92], "pos": "nn", "rank": 0.002915969986680819, "text": "contrast"}

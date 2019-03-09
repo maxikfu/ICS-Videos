@@ -1,0 +1,111 @@
+{"count": 1, "ids": [57], "pos": "np", "rank": 0.039485254267936955, "text": "examples"}
+{"count": 1, "ids": [200, 201], "pos": "np", "rank": 0.0382834028603079, "text": "negative-feedback mechanisms"}
+{"count": 3, "ids": [141], "pos": "np", "rank": 0.027857729526269505, "text": "aerosols"}
+{"count": 1, "ids": [183, 184], "pos": "np", "rank": 0.026150669185838797, "text": "many decades"}
+{"count": 1, "ids": [133, 134], "pos": "np", "rank": 0.025870453187287944, "text": "agricultural burning"}
+{"count": 2, "ids": [167], "pos": "np", "rank": 0.025790461709554634, "text": "climate"}
+{"count": 1, "ids": [135, 136], "pos": "np", "rank": 0.025722429896716116, "text": "industrial processes"}
+{"count": 1, "ids": [183, 209, 210], "pos": "np", "rank": 0.02138841565246675, "text": "many possible outcomes"}
+{"count": 3, "ids": [165], "pos": "np", "rank": 0.020627372718248098, "text": "atmosphere"}
+{"count": 1, "ids": [172, 173], "pos": "np", "rank": 0.019472213158551875, "text": "couple weeks"}
+{"count": 2, "ids": [201], "pos": "nns", "rank": 0.01914170143015395, "text": "mechanisms"}
+{"count": 1, "ids": [144, 145, 146], "pos": "np", "rank": 0.018626655145583385, "text": "km pollution episode"}
+{"count": 1, "ids": [202, 203, 204, 205], "pos": "np", "rank": 0.018206710521177748, "text": "complex interactive physical system"}
+{"count": 1, "ids": [130, 131, 132], "pos": "np", "rank": 0.01783261270187533, "text": "coal-burning power plants"}
+{"count": 1, "ids": [161, 162], "pos": "np", "rank": 0.016997164741303545, "text": "fossil fuels"}
+{"count": 1, "ids": [192, 193], "pos": "np", "rank": 0.01582938540842404, "text": "atmospheric temperatures"}
+{"count": 1, "ids": [190, 141], "pos": "np", "rank": 0.013928864763134752, "text": "human-generated aerosols"}
+{"count": 1, "ids": [163], "pos": "np", "rank": 0.01389610904188321, "text": "vegetation"}
+{"count": 1, "ids": [153, 154], "pos": "np", "rank": 0.013615898990093757, "text": "midday sun"}
+{"count": 1, "ids": [134], "pos": "nn", "rank": 0.012935226593643972, "text": "burning"}
+{"count": 1, "ids": [167, 205], "pos": "np", "rank": 0.012895230854777317, "text": "climate system"}
+{"count": 1, "ids": [136], "pos": "nns", "rank": 0.012799416170140791, "text": "processes"}
+{"count": 1, "ids": [180, 181], "pos": "np", "rank": 0.012773099419244111, "text": "longer spans"}
+{"count": 1, "ids": [169], "pos": "np", "rank": 0.012550239682445095, "text": "amount"}
+{"count": 1, "ids": [217, 218], "pos": "np", "rank": 0.01227316477770693, "text": "greater uncertainty"}
+{"count": 1, "ids": [30], "pos": "np", "rank": 0.012100926260494292, "text": "line"}
+{"count": 1, "ids": [139, 140], "pos": "np", "rank": 0.012100926260494292, "text": "high levels"}
+{"count": 1, "ids": [32], "pos": "nns", "rank": 0.011960621651524422, "text": "places"}
+{"count": 1, "ids": [104], "pos": "nns", "rank": 0.011664179792779039, "text": "scientists"}
+{"count": 1, "ids": [191, 20], "pos": "np", "rank": 0.011471678036978758, "text": "net effect"}
+{"count": 1, "ids": [4], "pos": "vb", "rank": 0.011454342795788008, "text": "provide"}
+{"count": 2, "ids": [210], "pos": "nns", "rank": 0.010694207826233376, "text": "outcomes"}
+{"count": 1, "ids": [209, 210], "pos": "np", "rank": 0.010694207826233376, "text": "possible outcomes"}
+{"count": 1, "ids": [212], "pos": "nn", "rank": 0.01064970762344899, "text": "climate-feedback"}
+{"count": 1, "ids": [173], "pos": "nns", "rank": 0.009736106579275938, "text": "weeks"}
+{"count": 1, "ids": [177, 178], "pos": "np", "rank": 0.00968132787393363, "text": "trace gases"}
+{"count": 1, "ids": [146], "pos": "nn", "rank": 0.009313327572791692, "text": "episode"}
+{"count": 2, "ids": [205], "pos": "nn", "rank": 0.009103355260588874, "text": "system"}
+{"count": 1, "ids": [207], "pos": "vbn", "rank": 0.009054245101664093, "text": "altered"}
+{"count": 1, "ids": [132], "pos": "nns", "rank": 0.008916306350937665, "text": "plants"}
+{"count": 2, "ids": [160], "pos": "vbn", "rank": 0.008844977081317176, "text": "burned"}
+{"count": 1, "ids": [211], "pos": "vbn", "rank": 0.008592518143544598, "text": "called"}
+{"count": 1, "ids": [162], "pos": "nns", "rank": 0.008498582370651772, "text": "fuels"}
+{"count": 1, "ids": [171], "pos": "vbg", "rank": 0.007986195691574719, "text": "preceding"}
+{"count": 1, "ids": [193], "pos": "nns", "rank": 0.00791469270421202, "text": "temperatures"}
+{"count": 1, "ids": [108], "pos": "vbn", "rank": 0.007728947589366845, "text": "released"}
+{"count": 1, "ids": [189, 128], "pos": "np", "rank": 0.00758254549353538, "text": "main sources"}
+{"count": 1, "ids": [214, 215], "pos": "np", "rank": 0.00758254549353538, "text": "climate-modeling efforts"}
+{"count": 1, "ids": [157], "pos": "vbp", "rank": 0.0073901439007940965, "text": "produce"}
+{"count": 1, "ids": [182], "pos": "vbp", "rank": 0.007294707720869766, "text": "influence"}
+{"count": 1, "ids": [170], "pos": "vbn", "rank": 0.007200294540975451, "text": "emitted"}
+{"count": 1, "ids": [147, 148], "pos": "np", "rank": 0.006908160402543099, "text": "index value"}
+{"count": 1, "ids": [194, 195], "pos": "np", "rank": 0.006908160402543099, "text": "south pole"}
+{"count": 1, "ids": [131], "pos": "nn", "rank": 0.006841821256606739, "text": "power"}
+{"count": 1, "ids": [208], "pos": "vb", "rank": 0.006824419154004649, "text": "consider"}
+{"count": 1, "ids": [154], "pos": "nn", "rank": 0.006807949495046878, "text": "sun"}
+{"count": 1, "ids": [184], "pos": "nns", "rank": 0.006789185662979537, "text": "decades"}
+{"count": 1, "ids": [187], "pos": "vb", "rank": 0.006673163537621433, "text": "increase"}
+{"count": 1, "ids": [98], "pos": "nns", "rank": 0.006498090343812057, "text": "areas"}
+{"count": 1, "ids": [145], "pos": "nn", "rank": 0.00648554554846333, "text": "pollution"}
+{"count": 1, "ids": [181], "pos": "nns", "rank": 0.006386549709622056, "text": "spans"}
+{"count": 1, "ids": [143], "pos": "nn", "rank": 0.006315884188399958, "text": "air"}
+{"count": 1, "ids": [218], "pos": "nn", "rank": 0.006136582388853465, "text": "uncertainty"}
+{"count": 1, "ids": [129], "pos": "np", "rank": 0.005882431793901454, "text": "pollutants"}
+{"count": 1, "ids": [175, 176], "pos": "np", "rank": 0.005770762001731415, "text": "carbon dioxide"}
+{"count": 2, "ids": [20], "pos": "nn", "rank": 0.005735839018489379, "text": "effect"}
+{"count": 1, "ids": [219], "pos": "nns", "rank": 0.00569313290859436, "text": "predictions"}
+{"count": 1, "ids": [186], "pos": "vb", "rank": 0.005654592493650659, "text": "continue"}
+{"count": 1, "ids": [156], "pos": "vbn", "rank": 0.005447826714978873, "text": "concentrated"}
+{"count": 1, "ids": [137, 138], "pos": "np", "rank": 0.005321171941069895, "text": "satellite image"}
+{"count": 1, "ids": [172], "pos": "nn", "rank": 0.005261891439430075, "text": "couple"}
+{"count": 1, "ids": [142], "pos": "vbn", "rank": 0.005233598664326759, "text": "associated"}
+{"count": 1, "ids": [168], "pos": "vbn", "rank": 0.005185699817637928, "text": "determined"}
+{"count": 1, "ids": [13], "pos": "vbp", "rank": 0.005077540832825834, "text": "describe"}
+{"count": 1, "ids": [52], "pos": "vbz", "rank": 0.004921959523000431, "text": "shows"}
+{"count": 1, "ids": [198], "pos": "nnp", "rank": 0.004921959523000431, "text": "alaska"}
+{"count": 1, "ids": [178], "pos": "nns", "rank": 0.004840663936966815, "text": "gases"}
+{"count": 1, "ids": [130], "pos": "nn", "rank": 0.004801191158571409, "text": "coal-burning"}
+{"count": 1, "ids": [174, 199], "pos": "np", "rank": 0.004792175787245494, "text": "contrast positive-"}
+{"count": 1, "ids": [216], "pos": "vb", "rank": 0.004608964751759659, "text": "add"}
+{"count": 1, "ids": [144], "pos": "nn", "rank": 0.004551373364790283, "text": "km"}
+{"count": 1, "ids": [151], "pos": "np", "rank": 0.004527677710333293, "text": "difficulty"}
+{"count": 1, "ids": [185], "pos": "vbn", "rank": 0.004455716788053799, "text": "responded"}
+{"count": 1, "ids": [140], "pos": "nns", "rank": 0.004438552344770784, "text": "levels"}
+{"count": 1, "ids": [153], "pos": "nn", "rank": 0.004200118749263674, "text": "midday"}
+{"count": 1, "ids": [177], "pos": "nn", "rank": 0.004111605719764909, "text": "trace"}
+{"count": 1, "ids": [190], "pos": "nn", "rank": 0.004071902673183469, "text": "human-generated"}
+{"count": 1, "ids": [179], "pos": "vbp", "rank": 0.0040589696726854975, "text": "remain"}
+{"count": 2, "ids": [128], "pos": "nns", "rank": 0.00379127274676769, "text": "sources"}
+{"count": 1, "ids": [215], "pos": "nns", "rank": 0.00379127274676769, "text": "efforts"}
+{"count": 1, "ids": [148], "pos": "nn", "rank": 0.0034540802012715493, "text": "value"}
+{"count": 1, "ids": [195], "pos": "nnp", "rank": 0.0034540802012715493, "text": "pole"}
+{"count": 1, "ids": [48], "pos": "nn", "rank": 0.003347052927055487, "text": "today"}
+{"count": 1, "ids": [176], "pos": "nn", "rank": 0.0028853810008657075, "text": "dioxide"}
+{"count": 1, "ids": [138], "pos": "nn", "rank": 0.0026605859705349476, "text": "image"}
+{"count": 1, "ids": [159], "pos": "nns", "rank": 0.0026605859705349476, "text": "regions"}
+{"count": 1, "ids": [197], "pos": "nnp", "rank": 0.0026605859705349476, "text": "barrow"}
+{"count": 1, "ids": [214], "pos": "nn", "rank": 0.0026605859705349476, "text": "climate-modeling"}
+{"count": 1, "ids": [175], "pos": "nn", "rank": 0.002396087893622747, "text": "carbon"}
+{"count": 1, "ids": [199], "pos": "nn", "rank": 0.002396087893622747, "text": "positive-"}
+{"count": 1, "ids": [137], "pos": "nn", "rank": 0.0018670917397983456, "text": "satellite"}
+{"count": 1, "ids": [147], "pos": "nn", "rank": 0.0018670917397983456, "text": "index"}
+{"count": 1, "ids": [155], "pos": "vbn", "rank": 0.0018670917397983456, "text": "expected"}
+{"count": 1, "ids": [158], "pos": "vbn", "rank": 0.0018670917397983456, "text": "industrialized"}
+{"count": 1, "ids": [164], "pos": "nn", "rank": 0.0018670917397983456, "text": "lifetime"}
+{"count": 1, "ids": [174], "pos": "nn", "rank": 0.0018670917397983456, "text": "contrast"}
+{"count": 1, "ids": [188], "pos": "vb", "rank": 0.0018670917397983456, "text": "list"}
+{"count": 1, "ids": [194], "pos": "nnp", "rank": 0.0018670917397983456, "text": "south"}
+{"count": 1, "ids": [196], "pos": "vbz", "rank": 0.0018670917397983456, "text": "represents"}
+{"count": 1, "ids": [206], "pos": "nn", "rank": 0.0018670917397983456, "text": "component"}
+{"count": 1, "ids": [213], "pos": "vbp", "rank": 0.0018670917397983456, "text": "complicate"}

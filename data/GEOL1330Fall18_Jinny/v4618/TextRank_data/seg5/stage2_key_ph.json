@@ -1,0 +1,82 @@
+{"count": 4, "ids": [726], "pos": "np", "rank": 0.09047400024702924, "text": "ions"}
+{"count": 1, "ids": [722, 723, 449, 724], "pos": "np", "rank": 0.054752994095411664, "text": "simple crystalline solid melts"}
+{"count": 1, "ids": [754, 726], "pos": "np", "rank": 0.04523700012351462, "text": "unordered ions"}
+{"count": 4, "ids": [724], "pos": "vbg", "rank": 0.027376497047705832, "text": "melting"}
+{"count": 1, "ids": [769, 770], "pos": "np", "rank": 0.026966218546424916, "text": "silicate minerals"}
+{"count": 1, "ids": [768, 55, 403], "pos": "np", "rank": 0.025028563774993864, "text": "basic building blocks"}
+{"count": 1, "ids": [231, 464], "pos": "np", "rank": 0.02467884629939257, "text": "more space"}
+{"count": 1, "ids": [723, 449], "pos": "np", "rank": 0.02375842439394119, "text": "crystalline solid"}
+{"count": 1, "ids": [449, 751], "pos": "np", "rank": 0.022783143184890893, "text": "solid consisting"}
+{"count": 2, "ids": [753], "pos": "vbp", "rank": 0.02169260897228146, "text": "pack"}
+{"count": 1, "ids": [750], "pos": "np", "rank": 0.021205594541578627, "text": "converts"}
+{"count": 1, "ids": [756], "pos": "np", "rank": 0.018348977704467473, "text": "reverses"}
+{"count": 1, "ids": [233], "pos": "nn", "rank": 0.01824567199080373, "text": "surface"}
+{"count": 1, "ids": [271], "pos": "nnp", "rank": 0.018121233634914042, "text": "earth"}
+{"count": 1, "ids": [772], "pos": "nn", "rank": 0.017973139700513358, "text": "depth"}
+{"count": 1, "ids": [764, 666], "pos": "np", "rank": 0.016247664515789254, "text": "oxygen atoms"}
+{"count": 1, "ids": [728, 729, 730], "pos": "np", "rank": 0.015001928374746967, "text": "packed regular pattern"}
+{"count": 1, "ids": [766, 767], "pos": "np", "rank": 0.015001928374746967, "text": "silicon-oxygen tetrahedra"}
+{"count": 2, "ids": [664, 744], "pos": "np", "rank": 0.014639187634955227, "text": "chemical bonds"}
+{"count": 1, "ids": [757], "pos": "nns", "rank": 0.014517345705551854, "text": "events"}
+{"count": 1, "ids": [733], "pos": "np", "rank": 0.01448502366211256, "text": "vibration"}
+{"count": 3, "ids": [94], "pos": "nns", "rank": 0.013671575307023011, "text": "cools"}
+{"count": 1, "ids": [769], "pos": "nn", "rank": 0.013483109273212458, "text": "silicate"}
+{"count": 1, "ids": [371], "pos": "np", "rank": 0.013218009592154441, "text": "liquid"}
+{"count": 1, "ids": [735], "pos": "nns", "rank": 0.012794526279522342, "text": "points"}
+{"count": 1, "ids": [301], "pos": "nns", "rank": 0.01258421813975591, "text": "occurs"}
+{"count": 1, "ids": [403], "pos": "nns", "rank": 0.012514281887496932, "text": "blocks"}
+{"count": 1, "ids": [464], "pos": "nn", "rank": 0.012339423149696285, "text": "space"}
+{"count": 2, "ids": [736], "pos": "vbg", "rank": 0.012304082607019382, "text": "vibrating"}
+{"count": 1, "ids": [765], "pos": "vbp", "rank": 0.012173878308258005, "text": "link"}
+{"count": 1, "ids": [771], "pos": "nn", "rank": 0.011685670622189944, "text": "crystallize"}
+{"count": 1, "ids": [748, 723, 59], "pos": "np", "rank": 0.011605667715239153, "text": "orderly crystalline structure"}
+{"count": 1, "ids": [755], "pos": "np", "rank": 0.011555529521583438, "text": "crystallization"}
+{"count": 1, "ids": [747], "pos": "vb", "rank": 0.011462117418781566, "text": "slide"}
+{"count": 1, "ids": [751], "pos": "nn", "rank": 0.011391571592445447, "text": "consisting"}
+{"count": 1, "ids": [365], "pos": "np", "rank": 0.01052764348379284, "text": "causes"}
+{"count": 1, "ids": [748, 723, 761], "pos": "np", "rank": 0.00987585338575293, "text": "orderly crystalline arrangement"}
+{"count": 1, "ids": [749], "pos": "nns", "rank": 0.009135229143922858, "text": "disintegrates"}
+{"count": 1, "ids": [208], "pos": "vb", "rank": 0.009067037947373475, "text": "consider"}
+{"count": 1, "ids": [770], "pos": "nns", "rank": 0.008576386582792766, "text": "minerals"}
+{"count": 1, "ids": [371, 758], "pos": "np", "rank": 0.008499283080229585, "text": "liquid drops"}
+{"count": 1, "ids": [494], "pos": "vbg", "rank": 0.008376485835169735, "text": "moving"}
+{"count": 1, "ids": [666], "pos": "nns", "rank": 0.008123832257894627, "text": "atoms"}
+{"count": 1, "ids": [759], "pos": "np", "rank": 0.008109130668419909, "text": "movement"}
+{"count": 1, "ids": [762, 284], "pos": "np", "rank": 0.008109130668419909, "text": "magma body"}
+{"count": 1, "ids": [734], "pos": "vbn", "rank": 0.008083479439993883, "text": "fixed"}
+{"count": 4, "ids": [723], "pos": "nn", "rank": 0.007808141356612889, "text": "crystalline"}
+{"count": 1, "ids": [727], "pos": "vbn", "rank": 0.007794672588973294, "text": "arranged"}
+{"count": 1, "ids": [730], "pos": "nn", "rank": 0.007500964187373484, "text": "pattern"}
+{"count": 1, "ids": [599], "pos": "vbz", "rank": 0.007500964187373484, "text": "slows"}
+{"count": 1, "ids": [767], "pos": "nn", "rank": 0.007500964187373484, "text": "tetrahedra"}
+{"count": 1, "ids": [739], "pos": "nns", "rank": 0.0073195938174776135, "text": "neighbors"}
+{"count": 2, "ids": [744], "pos": "nns", "rank": 0.006993128273756813, "text": "bonds"}
+{"count": 1, "ids": [742], "pos": "vb", "rank": 0.0068847528085819315, "text": "expand"}
+{"count": 1, "ids": [55], "pos": "nn", "rank": 0.006764386589875754, "text": "building"}
+{"count": 1, "ids": [763], "pos": "nn", "rank": 0.00671891589051969, "text": "silicon"}
+{"count": 1, "ids": [740], "pos": "vb", "rank": 0.005802833857619576, "text": "occupy"}
+{"count": 1, "ids": [764], "pos": "nn", "rank": 0.00570088175255698, "text": "oxygen"}
+{"count": 1, "ids": [193], "pos": "np", "rank": 0.005690617853046977, "text": "temperature"}
+{"count": 1, "ids": [136], "pos": "np", "rank": 0.005690617853046977, "text": "process"}
+{"count": 1, "ids": [50], "pos": "np", "rank": 0.005690617853046977, "text": "form"}
+{"count": 1, "ids": [720], "pos": "nns", "rank": 0.00526382174189642, "text": "crystallizes"}
+{"count": 1, "ids": [435], "pos": "vbp", "rank": 0.00526382174189642, "text": "exhibit"}
+{"count": 1, "ids": [738], "pos": "nn", "rank": 0.00526382174189642, "text": "vigor"}
+{"count": 2, "ids": [330], "pos": "nns", "rank": 0.00526382174189642, "text": "forces"}
+{"count": 1, "ids": [59], "pos": "nn", "rank": 0.004937926692876465, "text": "structure"}
+{"count": 1, "ids": [761], "pos": "nn", "rank": 0.004937926692876465, "text": "arrangement"}
+{"count": 1, "ids": [760], "pos": "vb", "rank": 0.004826729795490084, "text": "confine"}
+{"count": 1, "ids": [248], "pos": "vbn", "rank": 0.0042496415401147925, "text": "composed"}
+{"count": 1, "ids": [758], "pos": "nns", "rank": 0.0042496415401147925, "text": "drops"}
+{"count": 1, "ids": [211], "pos": "vbn", "rank": 0.004054565334209954, "text": "called"}
+{"count": 1, "ids": [284], "pos": "nn", "rank": 0.004054565334209954, "text": "body"}
+{"count": 1, "ids": [766], "pos": "nn", "rank": 0.004054565334209954, "text": "silicon-oxygen"}
+{"count": 1, "ids": [230], "pos": "vbz", "rank": 0.0036514798649811327, "text": "rises"}
+{"count": 1, "ids": [719], "pos": "vb", "rank": 0.0028453089265234885, "text": "understand"}
+{"count": 1, "ids": [731], "pos": "nn", "rank": 0.0028453089265234885, "text": "motion"}
+{"count": 1, "ids": [737], "pos": "vb", "rank": 0.0028453089265234885, "text": "collide"}
+{"count": 1, "ids": [396], "pos": "nn", "rank": 0.0028453089265234885, "text": "heating"}
+{"count": 1, "ids": [741], "pos": "nn", "rank": 0.0028453089265234885, "text": "turn"}
+{"count": 1, "ids": [743], "pos": "vb", "rank": 0.0028453089265234885, "text": "overcome"}
+{"count": 1, "ids": [745], "pos": "nn", "rank": 0.0028453089265234885, "text": "stage"}
+{"count": 1, "ids": [598], "pos": "nn", "rank": 0.0028453089265234885, "text": "rate"}

@@ -1,0 +1,89 @@
+{"count": 1, "ids": [63, 6, 9], "pos": "np", "rank": 0.06049903772044582, "text": "very earth processes"}
+{"count": 1, "ids": [7, 8], "pos": "np", "rank": 0.041451079228738336, "text": "early atmosphere"}
+{"count": 1, "ids": [7, 60, 61], "pos": "np", "rank": 0.03363737398253432, "text": "early rock record"}
+{"count": 5, "ids": [6], "pos": "nnp", "rank": 0.03024951886022291, "text": "earth"}
+{"count": 3, "ids": [9], "pos": "nns", "rank": 0.02876467097481738, "text": "processes"}
+{"count": 1, "ids": [84, 85], "pos": "np", "rank": 0.02652968902073128, "text": "speculative episodes"}
+{"count": 1, "ids": [46], "pos": "np", "rank": 0.024575050902187232, "text": "precambrian"}
+{"count": 1, "ids": [15, 16, 17], "pos": "np", "rank": 0.023586238631363193, "text": "most modern organisms"}
+{"count": 2, "ids": [21, 22], "pos": "np", "rank": 0.02200536882194072, "text": "carbon dioxide"}
+{"count": 1, "ids": [53, 54], "pos": "np", "rank": 0.021881479169946164, "text": "ancient age"}
+{"count": 1, "ids": [70], "pos": "np", "rank": 0.02112857909797956, "text": "fossils"}
+{"count": 1, "ids": [43, 44], "pos": "np", "rank": 0.021024461424022606, "text": "time span"}
+{"count": 1, "ids": [65, 66], "pos": "np", "rank": 0.020815742728923378, "text": "plate tectonics"}
+{"count": 1, "ids": [7, 56, 54], "pos": "np", "rank": 0.020725539614369168, "text": "early life age"}
+{"count": 1, "ids": [51, 52], "pos": "np", "rank": 0.02017516567173822, "text": "archean eon"}
+{"count": 4, "ids": [60], "pos": "vbz", "rank": 0.01681868699126716, "text": "rocks"}
+{"count": 1, "ids": [15, 46, 60], "pos": "np", "rank": 0.01681868699126716, "text": "most precambrian rocks"}
+{"count": 1, "ids": [46, 49], "pos": "np", "rank": 0.014055381745854393, "text": "precambrian history"}
+{"count": 1, "ids": [41], "pos": "np", "rank": 0.013826743013206291, "text": "years"}
+{"count": 1, "ids": [27], "pos": "nn", "rank": 0.013808143797965126, "text": "foraminifera"}
+{"count": 1, "ids": [72], "pos": "np", "rank": 0.01347072491224942, "text": "correlation"}
+{"count": 1, "ids": [60, 73], "pos": "np", "rank": 0.013396189876179621, "text": "rock units"}
+{"count": 1, "ids": [85], "pos": "nns", "rank": 0.01326484451036564, "text": "episodes"}
+{"count": 2, "ids": [8], "pos": "nn", "rank": 0.012331119643926535, "text": "atmosphere"}
+{"count": 1, "ids": [68], "pos": "nn", "rank": 0.012224785994066014, "text": "deposition"}
+{"count": 1, "ids": [83], "pos": "vbn", "rank": 0.012051355422428281, "text": "scattered"}
+{"count": 1, "ids": [67], "pos": "nn", "rank": 0.011971625024007879, "text": "erosion"}
+{"count": 1, "ids": [13], "pos": "np", "rank": 0.01189509646871658, "text": "bacteria"}
+{"count": 2, "ids": [32, 33], "pos": "np", "rank": 0.011860425485285719, "text": "continental crust"}
+{"count": 2, "ids": [17], "pos": "nns", "rank": 0.011793119315681597, "text": "organisms"}
+{"count": 1, "ids": [24, 25, 17], "pos": "np", "rank": 0.011793119315681597, "text": "tiny marine organisms"}
+{"count": 1, "ids": [62], "pos": "vbn", "rank": 0.011753023673499747, "text": "obscured"}
+{"count": 1, "ids": [71], "pos": "vbz", "rank": 0.01102831221637976, "text": "hinders"}
+{"count": 2, "ids": [22], "pos": "nn", "rank": 0.01100268441097036, "text": "dioxide"}
+{"count": 2, "ids": [54], "pos": "nn", "rank": 0.010940739584973082, "text": "age"}
+{"count": 1, "ids": [80, 81], "pos": "np", "rank": 0.010804331458944978, "text": "younger strata"}
+{"count": 2, "ids": [43], "pos": "nn", "rank": 0.010512230712011303, "text": "time"}
+{"count": 1, "ids": [53, 43], "pos": "np", "rank": 0.010512230712011303, "text": "ancient time"}
+{"count": 1, "ids": [65], "pos": "nn", "rank": 0.010407871364461689, "text": "plate"}
+{"count": 1, "ids": [10], "pos": "vbg", "rank": 0.010198758207591838, "text": "outgassing"}
+{"count": 2, "ids": [52], "pos": "nn", "rank": 0.01008758283586911, "text": "eon"}
+{"count": 1, "ids": [55, 52], "pos": "np", "rank": 0.01008758283586911, "text": "proterozoic eon"}
+{"count": 1, "ids": [36], "pos": "nns", "rank": 0.010009149058380106, "text": "continents"}
+{"count": 1, "ids": [64], "pos": "vbg", "rank": 0.00983400585578017, "text": "studying"}
+{"count": 1, "ids": [58], "pos": "vbn", "rank": 0.0089499510438516, "text": "limited"}
+{"count": 1, "ids": [39], "pos": "vbn", "rank": 0.00875796847811601, "text": "played"}
+{"count": 1, "ids": [78], "pos": "vbn", "rank": 0.00857982915659401, "text": "eroded"}
+{"count": 1, "ids": [90], "pos": "nns", "rank": 0.008117660770278574, "text": "chapters"}
+{"count": 1, "ids": [42], "pos": "vbn", "rank": 0.00793778220421152, "text": "encompassed"}
+{"count": 1, "ids": [77], "pos": "vbn", "rank": 0.007684036576685098, "text": "deformed"}
+{"count": 1, "ids": [2, 3], "pos": "np", "rank": 0.007581989492204338, "text": "abundant gases"}
+{"count": 2, "ids": [49], "pos": "nn", "rank": 0.007027690872927196, "text": "history"}
+{"count": 2, "ids": [21], "pos": "nn", "rank": 0.0070231652584429385, "text": "carbon"}
+{"count": 1, "ids": [35], "pos": "vbn", "rank": 0.006931902828015497, "text": "assembled"}
+{"count": 1, "ids": [29], "pos": "nn", "rank": 0.006883881883513353, "text": "removal"}
+{"count": 1, "ids": [61], "pos": "nn", "rank": 0.006772660516824867, "text": "record"}
+{"count": 1, "ids": [73], "pos": "nns", "rank": 0.006698094938089811, "text": "units"}
+{"count": 1, "ids": [76], "pos": "vbn", "rank": 0.006629638737714289, "text": "metamorphosed"}
+{"count": 1, "ids": [5], "pos": "vbn", "rank": 0.006554971777088252, "text": "added"}
+{"count": 1, "ids": [66], "pos": "nns", "rank": 0.0064718951969507795, "text": "tectonics"}
+{"count": 1, "ids": [69], "pos": "vbp", "rank": 0.006379042528016898, "text": "lack"}
+{"count": 1, "ids": [50], "pos": "vbn", "rank": 0.006305123111361431, "text": "divided"}
+{"count": 1, "ids": [45], "pos": "vbn", "rank": 0.006103625300408994, "text": "called"}
+{"count": 2, "ids": [33], "pos": "nn", "rank": 0.005930212742642859, "text": "crust"}
+{"count": 1, "ids": [86, 87], "pos": "np", "rank": 0.005840168539152367, "text": "long book"}
+{"count": 1, "ids": [37, 38], "pos": "np", "rank": 0.005506315057083155, "text": "supercontinent cycle"}
+{"count": 1, "ids": [81], "pos": "nns", "rank": 0.005402165729472489, "text": "strata"}
+{"count": 1, "ids": [89], "pos": "vbg", "rank": 0.005058702147280213, "text": "missing"}
+{"count": 1, "ids": [11], "pos": "nn", "rank": 0.004999297765317016, "text": "evolution"}
+{"count": 1, "ids": [56], "pos": "nn", "rank": 0.004985736176261366, "text": "life"}
+{"count": 1, "ids": [19], "pos": "np", "rank": 0.004943128068690052, "text": "ocean"}
+{"count": 1, "ids": [34], "pos": "vbz", "rank": 0.0048644092771686, "text": "becomes"}
+{"count": 1, "ids": [44], "pos": "nn", "rank": 0.004283016124289215, "text": "span"}
+{"count": 1, "ids": [12], "pos": "vbg", "rank": 0.004173773209258089, "text": "photosynthesizing"}
+{"count": 1, "ids": [23], "pos": "np", "rank": 0.004098347586100396, "text": "role"}
+{"count": 1, "ids": [31], "pos": "nn", "rank": 0.003790994746102169, "text": "formation"}
+{"count": 1, "ids": [48], "pos": "nn", "rank": 0.003790994746102169, "text": "percent"}
+{"count": 1, "ids": [3], "pos": "nns", "rank": 0.003660344776420518, "text": "gases"}
+{"count": 1, "ids": [20], "pos": "vb", "rank": 0.0031718479717297997, "text": "remove"}
+{"count": 1, "ids": [87], "pos": "nn", "rank": 0.0029200842695761833, "text": "book"}
+{"count": 1, "ids": [38], "pos": "nn", "rank": 0.0027531575285415777, "text": "cycle"}
+{"count": 1, "ids": [37], "pos": "nn", "rank": 0.0024846290313131907, "text": "supercontinent"}
+{"count": 1, "ids": [1], "pos": "vb", "rank": 0.002049173793050198, "text": "identify"}
+{"count": 1, "ids": [30], "pos": "vb", "rank": 0.002049173793050198, "text": "explain"}
+{"count": 1, "ids": [47], "pos": "vbg", "rank": 0.002049173793050198, "text": "representing"}
+{"count": 1, "ids": [55], "pos": "nnp", "rank": 0.002049173793050198, "text": "proterozoic"}
+{"count": 1, "ids": [57], "pos": "nn", "rank": 0.002049173793050198, "text": "knowledge"}
+{"count": 1, "ids": [74], "pos": "nn", "rank": 0.002049173793050198, "text": "addition"}
+{"count": 1, "ids": [79], "pos": "vbn", "rank": 0.002049173793050198, "text": "concealed"}

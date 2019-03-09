@@ -1,0 +1,77 @@
+{"count": 1, "ids": [271], "pos": "np", "rank": 0.10145704374371085, "text": "fracture"}
+{"count": 1, "ids": [222, 271], "pos": "np", "rank": 0.05072852187185543, "text": "irregular fracture"}
+{"count": 1, "ids": [575, 549], "pos": "np", "rank": 0.044965561818906, "text": "nonmetallic minerals"}
+{"count": 1, "ids": [324, 583], "pos": "np", "rank": 0.03739259147109926, "text": "exhibit cleavage"}
+{"count": 1, "ids": [552], "pos": "np", "rank": 0.036372688725974295, "text": "quartz"}
+{"count": 1, "ids": [563, 271], "pos": "np", "rank": 0.03381901458123695, "text": "splintery fracture"}
+{"count": 1, "ids": [26, 553], "pos": "np", "rank": 0.033773480205583004, "text": "such breaks"}
+{"count": 1, "ids": [564, 271], "pos": "np", "rank": 0.025364260935927713, "text": "fibrous fracture"}
+{"count": 1, "ids": [217, 150], "pos": "np", "rank": 0.023845180476510432, "text": "other forms"}
+{"count": 7, "ids": [549], "pos": "nn", "rank": 0.022482780909453, "text": "mineral"}
+{"count": 1, "ids": [576, 549], "pos": "np", "rank": 0.022482780909453, "text": "halite minerals"}
+{"count": 4, "ids": [571, 572], "pos": "np", "rank": 0.021374010064554607, "text": "specific gravity"}
+{"count": 4, "ids": [324], "pos": "nn", "rank": 0.01869629573554963, "text": "exhibit"}
+{"count": 1, "ids": [550, 106], "pos": "np", "rank": 0.01868594945828183, "text": "uneven surfaces"}
+{"count": 1, "ids": [558, 559], "pos": "np", "rank": 0.018000542139758192, "text": "broken glass"}
+{"count": 1, "ids": [561], "pos": "np", "rank": 0.017531360220800807, "text": "splinters"}
+{"count": 1, "ids": [597], "pos": "np", "rank": 0.015624073596479302, "text": "gypsum"}
+{"count": 1, "ids": [143, 588], "pos": "np", "rank": 0.01509243495056793, "text": "small pieces"}
+{"count": 2, "ids": [513], "pos": "vbp", "rank": 0.014813992210249363, "text": "produce"}
+{"count": 1, "ids": [589], "pos": "np", "rank": 0.014313016399301723, "text": "lead"}
+{"count": 1, "ids": [595, 596], "pos": "np", "rank": 0.014053393411282198, "text": "thin shavings"}
+{"count": 1, "ids": [578, 579], "pos": "np", "rank": 0.012823134930213064, "text": "native copper"}
+{"count": 3, "ids": [553], "pos": "vbg", "rank": 0.012807037050923556, "text": "breaking"}
+{"count": 1, "ids": [545, 546], "pos": "np", "rank": 0.012656131546326891, "text": "chemical bonds"}
+{"count": 2, "ids": [45], "pos": "vbn", "rank": 0.01255367799322829, "text": "called"}
+{"count": 1, "ids": [591], "pos": "np", "rank": 0.012481733454702812, "text": "gold"}
+{"count": 1, "ids": [562], "pos": "nns", "rank": 0.01229610616357705, "text": "fibers"}
+{"count": 1, "ids": [94], "pos": "vbd", "rank": 0.01214837741904758, "text": "referred"}
+{"count": 1, "ids": [563], "pos": "nn", "rank": 0.012021955785273417, "text": "splintery"}
+{"count": 1, "ids": [598], "pos": "nn", "rank": 0.011466030436742403, "text": "talc"}
+{"count": 2, "ids": [584], "pos": "vbn", "rank": 0.011463196883205518, "text": "struck"}
+{"count": 2, "ids": [364], "pos": "vbg", "rank": 0.011036664432548512, "text": "including"}
+{"count": 4, "ids": [572], "pos": "nn", "rank": 0.010687005032277304, "text": "gravity"}
+{"count": 1, "ids": [548], "pos": "np", "rank": 0.010040557553441928, "text": "property"}
+{"count": 1, "ids": [571], "pos": "nn", "rank": 0.009355318352996758, "text": "specific"}
+{"count": 1, "ids": [106], "pos": "nns", "rank": 0.009342974729140915, "text": "surfaces"}
+{"count": 1, "ids": [560], "pos": "nn", "rank": 0.009050697275802362, "text": "conchoi2"}
+{"count": 1, "ids": [559], "pos": "nn", "rank": 0.009000271069879096, "text": "glass"}
+{"count": 2, "ids": [347], "pos": "vbn", "rank": 0.008897695834234588, "text": "described"}
+{"count": 2, "ids": [568], "pos": "vbn", "rank": 0.008769158404801185, "text": "cut"}
+{"count": 1, "ids": [587], "pos": "vb", "rank": 0.008463306161399845, "text": "shatter"}
+{"count": 1, "ids": [551], "pos": "nns", "rank": 0.008255204021981006, "text": "erals"}
+{"count": 2, "ids": [567], "pos": "vb", "rank": 0.008064181939095782, "text": "bend"}
+{"count": 2, "ids": [581], "pos": "vb", "rank": 0.007775124926160264, "text": "tend"}
+{"count": 1, "ids": [556], "pos": "np", "rank": 0.007641086329393887, "text": "faces"}
+{"count": 1, "ids": [583], "pos": "nn", "rank": 0.007604434351090141, "text": "cleavage"}
+{"count": 1, "ids": [588], "pos": "nns", "rank": 0.007546217475283965, "text": "pieces"}
+{"count": 1, "ids": [427], "pos": "vbn", "rank": 0.007247433591815126, "text": "extracted"}
+{"count": 1, "ids": [580], "pos": "nn", "rank": 0.007148569115891618, "text": "magnetite"}
+{"count": 1, "ids": [596], "pos": "nns", "rank": 0.007026696705641099, "text": "shavings"}
+{"count": 1, "ids": [605], "pos": "np", "rank": 0.006897742139932546, "text": "stress"}
+{"count": 1, "ids": [569], "pos": "nn", "rank": 0.006892073367221712, "text": "deformation"}
+{"count": 1, "ids": [578, 590], "pos": "np", "rank": 0.006497432932804992, "text": "native metals"}
+{"count": 1, "ids": [566], "pos": "np", "rank": 0.006447759630286458, "text": "resistance"}
+{"count": 2, "ids": [579], "pos": "nn", "rank": 0.006411567465106532, "text": "copper"}
+{"count": 1, "ids": [295], "pos": "vbz", "rank": 0.006400909362562212, "text": "means"}
+{"count": 2, "ids": [546], "pos": "vbn", "rank": 0.0063280657731634455, "text": "bonded"}
+{"count": 1, "ids": [593, 594], "pos": "np", "rank": 0.006284167260413593, "text": "little practice"}
+{"count": 1, "ids": [197], "pos": "vbn", "rank": 0.00567142551323785, "text": "released"}
+{"count": 1, "ids": [604], "pos": "vb", "rank": 0.005125840335788355, "text": "snap"}
+{"count": 1, "ids": [555], "pos": "vbn", "rank": 0.004992968518082376, "text": "curved"}
+{"count": 1, "ids": [557], "pos": "vbg", "rank": 0.004903084189768113, "text": "resembling"}
+{"count": 1, "ids": [203, 201], "pos": "np", "rank": 0.00484049682646801, "text": "original shape"}
+{"count": 1, "ids": [599], "pos": "vbg", "rank": 0.003821899479022278, "text": "hefting"}
+{"count": 1, "ids": [150], "pos": "nns", "rank": 0.003725359714065956, "text": "forms"}
+{"count": 1, "ids": [590], "pos": "nns", "rank": 0.003248716466402496, "text": "metals"}
+{"count": 1, "ids": [478], "pos": "nns", "rank": 0.0031420836302067964, "text": "directions"}
+{"count": 1, "ids": [586], "pos": "nn", "rank": 0.0031420836302067964, "text": "ore"}
+{"count": 1, "ids": [594], "pos": "nn", "rank": 0.0031420836302067964, "text": "practice"}
+{"count": 1, "ids": [545], "pos": "nn", "rank": 0.0029345597416001387, "text": "chemical"}
+{"count": 1, "ids": [201], "pos": "nn", "rank": 0.002420248413234005, "text": "shape"}
+{"count": 2, "ids": [543], "pos": "nn", "rank": 0.0016984131962612138, "text": "example"}
+{"count": 1, "ids": [570], "pos": "vbn", "rank": 0.0016984131962612138, "text": "mentioned"}
+{"count": 2, "ids": [573], "pos": "nn", "rank": 0.0016984131962612138, "text": "contrast"}
+{"count": 1, "ids": [585], "pos": "nnp", "rank": 0.0016984131962612138, "text": "galena"}
+{"count": 1, "ids": [74], "pos": "nn", "rank": 0.0016984131962612138, "text": "addition"}
+{"count": 1, "ids": [502], "pos": "vb", "rank": 0.0016984131962612138, "text": "estimate"}

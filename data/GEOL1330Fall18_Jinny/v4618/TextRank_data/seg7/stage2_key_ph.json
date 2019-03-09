@@ -1,0 +1,87 @@
+{"count": 1, "ids": [792, 91], "pos": "np", "rank": 0.07528879549328202, "text": "metamorphic rocks"}
+{"count": 2, "ids": [762, 284], "pos": "np", "rank": 0.058744830598517074, "text": "magma body"}
+{"count": 1, "ids": [284], "pos": "np", "rank": 0.04978996754516821, "text": "bodies"}
+{"count": 1, "ids": [449, 91], "pos": "np", "rank": 0.03764439774664101, "text": "solid rock"}
+{"count": 1, "ids": [762], "pos": "nn", "rank": 0.029372415299258537, "text": "magma"}
+{"count": 1, "ids": [615, 810, 822], "pos": "np", "rank": 0.028711746554224215, "text": "huge igneous masses"}
+{"count": 2, "ids": [91], "pos": "np", "rank": 0.02509626516442734, "text": "rock"}
+{"count": 1, "ids": [554], "pos": "np", "rank": 0.023938625141453517, "text": "contain"}
+{"count": 1, "ids": [230, 822], "pos": "np", "rank": 0.022923505052269085, "text": "rising mass"}
+{"count": 1, "ids": [844], "pos": "np", "rank": 0.02258467476188106, "text": "plutons"}
+{"count": 1, "ids": [847], "pos": "np", "rank": 0.02230360926546358, "text": "xenoliths"}
+{"count": 1, "ids": [464], "pos": "np", "rank": 0.02076694574225126, "text": "space"}
+{"count": 1, "ids": [116, 88], "pos": "np", "rank": 0.018856631402052026, "text": "several kilometers"}
+{"count": 2, "ids": [552, 91], "pos": "np", "rank": 0.018822198873320505, "text": "host rock"}
+{"count": 1, "ids": [496], "pos": "vb", "rank": 0.017866072467859623, "text": "sink"}
+{"count": 1, "ids": [834, 810, 329], "pos": "np", "rank": 0.017340932969171295, "text": "intrusive igneous activity"}
+{"count": 1, "ids": [845, 403], "pos": "np", "rank": 0.016778489022310633, "text": "suspended blocks"}
+{"count": 1, "ids": [834, 284], "pos": "np", "rank": 0.016596655848389402, "text": "intrusive body"}
+{"count": 1, "ids": [855, 856], "pos": "np", "rank": 0.01618904076741047, "text": "room problem"}
+{"count": 1, "ids": [839], "pos": "np", "rank": 0.015997192282950382, "text": "stoping"}
+{"count": 1, "ids": [846, 91], "pos": "np", "rank": 0.015057759098656405, "text": "country rock"}
+{"count": 2, "ids": [822], "pos": "nn", "rank": 0.014355873277112107, "text": "mass"}
+{"count": 2, "ids": [821], "pos": "vbn", "rank": 0.013819462252901576, "text": "displaced"}
+{"count": 1, "ids": [853, 811, 107], "pos": "np", "rank": 0.013055030708870244, "text": "available thermal energy"}
+{"count": 2, "ids": [136], "pos": "np", "rank": 0.012610658316184273, "text": "process"}
+{"count": 1, "ids": [829, 830], "pos": "np", "rank": 0.01186567664875749, "text": "lower crust"}
+{"count": 3, "ids": [230], "pos": "vbg", "rank": 0.011461752526134543, "text": "rising"}
+{"count": 1, "ids": [106], "pos": "nn", "rank": 0.011379309435340264, "text": "way"}
+{"count": 1, "ids": [634], "pos": "vb", "rank": 0.011026748165917952, "text": "flow"}
+{"count": 1, "ids": [836], "pos": "vbn", "rank": 0.01060744072976803, "text": "left"}
+{"count": 2, "ids": [840], "pos": "nn", "rank": 0.010340145137784904, "text": "roof"}
+{"count": 1, "ids": [835], "pos": "vb", "rank": 0.010118806222485711, "text": "fill"}
+{"count": 1, "ids": [676], "pos": "vb", "rank": 0.009830692699895777, "text": "become"}
+{"count": 1, "ids": [88], "pos": "nns", "rank": 0.009428315701026013, "text": "kilometers"}
+{"count": 1, "ids": [352], "pos": "np", "rank": 0.009361469300656249, "text": "pressures"}
+{"count": 2, "ids": [211], "pos": "vbd", "rank": 0.008765855939033076, "text": "called"}
+{"count": 1, "ids": [329], "pos": "nnp", "rank": 0.008670466484585648, "text": "activity"}
+{"count": 2, "ids": [403], "pos": "nns", "rank": 0.008389244511155317, "text": "blocks"}
+{"count": 1, "ids": [855], "pos": "nn", "rank": 0.008094520383705235, "text": "room"}
+{"count": 1, "ids": [831], "pos": "vb", "rank": 0.007800128567661253, "text": "ductile"}
+{"count": 1, "ids": [819], "pos": "vb", "rank": 0.0077576875815033655, "text": "reside"}
+{"count": 3, "ids": [841], "pos": "vbz", "rank": 0.007639899927337453, "text": "overlies"}
+{"count": 1, "ids": [816, 817, 818], "pos": "np", "rank": 0.007620404053500645, "text": "massive granitic batholiths"}
+{"count": 1, "ids": [845], "pos": "vbn", "rank": 0.00757141549738208, "text": "suspended"}
+{"count": 1, "ids": [233], "pos": "nn", "rank": 0.007428271654050476, "text": "surface"}
+{"count": 1, "ids": [846], "pos": "nn", "rank": 0.007374918486629624, "text": "country"}
+{"count": 1, "ids": [834], "pos": "nnp", "rank": 0.007310946694984829, "text": "intrusive"}
+{"count": 1, "ids": [858], "pos": "vbg", "rank": 0.007273936100203166, "text": "lifting"}
+{"count": 1, "ids": [193], "pos": "nns", "rank": 0.006823535534980843, "text": "temperatures"}
+{"count": 1, "ids": [68], "pos": "nns", "rank": 0.006686011711288892, "text": "questions"}
+{"count": 1, "ids": [854], "pos": "vbn", "rank": 0.006643937179699529, "text": "emplaced"}
+{"count": 1, "ids": [311], "pos": "nn", "rank": 0.006604002860972157, "text": "water"}
+{"count": 1, "ids": [857], "pos": "vbn", "rank": 0.006462622208700788, "text": "solved"}
+{"count": 1, "ids": [273], "pos": "vb", "rank": 0.0063149005242121165, "text": "make"}
+{"count": 1, "ids": [399], "pos": "vbz", "rank": 0.006012170223299098, "text": "passes"}
+{"count": 1, "ids": [830], "pos": "nn", "rank": 0.005932838324378745, "text": "crust"}
+{"count": 1, "ids": [824], "pos": "vb", "rank": 0.00577102816762173, "text": "debate"}
+{"count": 1, "ids": [827], "pos": "nn", "rank": 0.005674508769088147, "text": "container"}
+{"count": 1, "ids": [852], "pos": "vbn", "rank": 0.005584155251121844, "text": "limited"}
+{"count": 1, "ids": [621], "pos": "vbg", "rank": 0.0053886759151704445, "text": "surrounding"}
+{"count": 1, "ids": [838], "pos": "vbn", "rank": 0.005322717902399178, "text": "accomplished"}
+{"count": 1, "ids": [856], "pos": "nn", "rank": 0.005220484561284146, "text": "problem"}
+{"count": 1, "ids": [107], "pos": "nn", "rank": 0.005172986296302306, "text": "energy"}
+{"count": 1, "ids": [828, 514], "pos": "np", "rank": 0.00507524126940695, "text": "upper mantle"}
+{"count": 1, "ids": [837, 759], "pos": "np", "rank": 0.00507524126940695, "text": "upward movement"}
+{"count": 1, "ids": [28], "pos": "vb", "rank": 0.004694547434060891, "text": "study"}
+{"count": 1, "ids": [443], "pos": "nn", "rank": 0.004580996976570668, "text": "bottom"}
+{"count": 1, "ids": [850], "pos": "nn", "rank": 0.004580996976570668, "text": "stone"}
+{"count": 1, "ids": [820], "pos": "vbn", "rank": 0.0042442545027204705, "text": "deformed"}
+{"count": 1, "ids": [108], "pos": "vbn", "rank": 0.0042442545027204705, "text": "released"}
+{"count": 1, "ids": [818], "pos": "nns", "rank": 0.0038102020267503224, "text": "batholiths"}
+{"count": 1, "ids": [823], "pos": "np", "rank": 0.003561589764841858, "text": "geologists"}
+{"count": 1, "ids": [825], "pos": "np", "rank": 0.003561589764841858, "text": "cork"}
+{"count": 1, "ids": [327], "pos": "np", "rank": 0.003561589764841858, "text": "evidence"}
+{"count": 1, "ids": [826], "pos": "vbn", "rank": 0.003294446386986021, "text": "held"}
+{"count": 1, "ids": [849], "pos": "nn", "rank": 0.003294446386986021, "text": "lithos"}
+{"count": 1, "ids": [851], "pos": "vb", "rank": 0.003294446386986021, "text": "assimilate"}
+{"count": 2, "ids": [552], "pos": "nn", "rank": 0.00307957135410666, "text": "host"}
+{"count": 1, "ids": [186], "pos": "vbp", "rank": 0.002537620634703475, "text": "continue"}
+{"count": 1, "ids": [514], "pos": "nn", "rank": 0.002537620634703475, "text": "mantle"}
+{"count": 1, "ids": [759], "pos": "nn", "rank": 0.002537620634703475, "text": "movement"}
+{"count": 1, "ids": [843], "pos": "vbg", "rank": 0.002285345383942626, "text": "supporting"}
+{"count": 1, "ids": [498], "pos": "vbd", "rank": 0.001780794882420929, "text": "happened"}
+{"count": 1, "ids": [346], "pos": "vbp", "rank": 0.001780794882420929, "text": "know"}
+{"count": 1, "ids": [832], "pos": "nn", "rank": 0.001780794882420929, "text": "setting"}
+{"count": 1, "ids": [848], "pos": "nn", "rank": 0.001780794882420929, "text": "stranger"}
+{"count": 1, "ids": [724], "pos": "vb", "rank": 0.001780794882420929, "text": "melt"}

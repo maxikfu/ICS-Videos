@@ -1,0 +1,127 @@
+{"count": 4, "ids": [8], "pos": "np", "rank": 0.06304507572185876, "text": "earthquakes"}
+{"count": 1, "ids": [54, 55], "pos": "np", "rank": 0.04311434106161078, "text": "california buildings"}
+{"count": 1, "ids": [17, 18, 8], "pos": "np", "rank": 0.03152253786092938, "text": "great italian earthquake"}
+{"count": 1, "ids": [82, 83], "pos": "np", "rank": 0.026733325072770937, "text": "national landmarks"}
+{"count": 1, "ids": [120, 121], "pos": "np", "rank": 0.02562386532086024, "text": "good design"}
+{"count": 1, "ids": [33, 34], "pos": "np", "rank": 0.02255709675764874, "text": "equal damage"}
+{"count": 4, "ids": [55], "pos": "nns", "rank": 0.02155717053080539, "text": "buildings"}
+{"count": 1, "ids": [60, 61, 55], "pos": "np", "rank": 0.02155717053080539, "text": "most masonry buildings"}
+{"count": 1, "ids": [58, 59], "pos": "np", "rank": 0.021517232552682692, "text": "wood structures"}
+{"count": 1, "ids": [22], "pos": "np", "rank": 0.02143163424186074, "text": "intensity"}
+{"count": 1, "ids": [8, 42], "pos": "np", "rank": 0.021015025240619586, "text": "earthquake epicenter"}
+{"count": 1, "ids": [125, 59], "pos": "np", "rank": 0.016761561605314678, "text": "ordinary structures"}
+{"count": 1, "ids": [23], "pos": "np", "rank": 0.015532436168811059, "text": "ground"}
+{"count": 1, "ids": [46, 22, 47], "pos": "np", "rank": 0.014937206035315056, "text": "reliable intensity scale"}
+{"count": 5, "ids": [9], "pos": "vbg", "rank": 0.014691965467434202, "text": "shaking"}
+{"count": 1, "ids": [55, 111], "pos": "np", "rank": 0.014371447020536925, "text": "building practices"}
+{"count": 1, "ids": [82], "pos": "nnp", "rank": 0.013366662536385469, "text": "national"}
+{"count": 1, "ids": [82, 87], "pos": "np", "rank": 0.013366662536385469, "text": "national cathedral"}
+{"count": 1, "ids": [85, 86], "pos": "np", "rank": 0.01304381209459328, "text": "washington monument"}
+{"count": 1, "ids": [70, 71], "pos": "np", "rank": 0.01289598937400524, "text": "did objects"}
+{"count": 2, "ids": [121], "pos": "vbn", "rank": 0.01281193266043012, "text": "designed"}
+{"count": 1, "ids": [28], "pos": "np", "rank": 0.012042183463203307, "text": "study"}
+{"count": 1, "ids": [34], "pos": "np", "rank": 0.01127854837882437, "text": "damage"}
+{"count": 1, "ids": [5, 6], "pos": "np", "rank": 0.011149518052567418, "text": "only accounts"}
+{"count": 1, "ids": [32], "pos": "np", "rank": 0.010735316295311083, "text": "places"}
+{"count": 1, "ids": [38, 22], "pos": "np", "rank": 0.01071581712093037, "text": "highest intensity"}
+{"count": 1, "ids": [30], "pos": "np", "rank": 0.010135341567456548, "text": "lines"}
+{"count": 1, "ids": [68], "pos": "np", "rank": 0.009925201903474417, "text": "questions"}
+{"count": 1, "ids": [67], "pos": "np", "rank": 0.009337407415271275, "text": "answer"}
+{"count": 1, "ids": [31], "pos": "np", "rank": 0.009324887788329394, "text": "connect"}
+{"count": 1, "ids": [122], "pos": "nn", "rank": 0.008497201675337627, "text": "construction"}
+{"count": 1, "ids": [124], "pos": "vb", "rank": 0.008412857819534917, "text": "moderate"}
+{"count": 2, "ids": [39], "pos": "vbn", "rank": 0.008222484679460936, "text": "located"}
+{"count": 1, "ids": [65, 66], "pos": "np", "rank": 0.008217339925312662, "text": "zip code"}
+{"count": 2, "ids": [13], "pos": "vb", "rank": 0.00794776228278251, "text": "describe"}
+{"count": 3, "ids": [45], "pos": "vbn", "rank": 0.007934705918044356, "text": "developed"}
+{"count": 1, "ids": [26], "pos": "np", "rank": 0.007892679186447536, "text": "map"}
+{"count": 1, "ids": [33, 23], "pos": "np", "rank": 0.007892154322507292, "text": "equal ground"}
+{"count": 1, "ids": [127], "pos": "vbn", "rank": 0.007889292981436195, "text": "built"}
+{"count": 1, "ids": [81], "pos": "nnp", "rank": 0.007752577692859487, "text": "florida"}
+{"count": 1, "ids": [80], "pos": "nnp", "rank": 0.007670657065476861, "text": "maine"}
+{"count": 1, "ids": [62], "pos": "vbn", "rank": 0.00764941630092045, "text": "destroyed"}
+{"count": 4, "ids": [47], "pos": "nns", "rank": 0.007468603017657528, "text": "scales"}
+{"count": 1, "ids": [51, 44, 22, 47], "pos": "np", "rank": 0.007468603017657528, "text": "modified mercalli intensity scale"}
+{"count": 1, "ids": [63], "pos": "np", "rank": 0.007335787266691742, "text": "users"}
+{"count": 1, "ids": [112], "pos": "vbp", "rank": 0.007238552090998832, "text": "vary"}
+{"count": 1, "ids": [59], "pos": "np", "rank": 0.007172410850894231, "text": "structures"}
+{"count": 1, "ids": [111], "pos": "nns", "rank": 0.0070661866879489854, "text": "practices"}
+{"count": 1, "ids": [107], "pos": "np", "rank": 0.00696809558193059, "text": "energy"}
+{"count": 1, "ids": [25], "pos": "vbn", "rank": 0.006816756056327538, "text": "established"}
+{"count": 1, "ids": [99, 100], "pos": "np", "rank": 0.006600775822659719, "text": "similar magnitudes"}
+{"count": 1, "ids": [86], "pos": "nnp", "rank": 0.00652190604729664, "text": "monument"}
+{"count": 1, "ids": [41, 23], "pos": "np", "rank": 0.006482488458205943, "text": "maximum ground"}
+{"count": 1, "ids": [76, 77, 22], "pos": "np", "rank": 0.0063390250699225615, "text": "community internet intensity"}
+{"count": 1, "ids": [73], "pos": "nns", "rank": 0.0062380312050544255, "text": "shelves"}
+{"count": 1, "ids": [10], "pos": "nn", "rank": 0.006165833778019336, "text": "destruction"}
+{"count": 1, "ids": [7], "pos": "nn", "rank": 0.005970838847936812, "text": "severity"}
+{"count": 1, "ids": [54], "pos": "nnp", "rank": 0.005961050444781892, "text": "california"}
+{"count": 2, "ids": [27], "pos": "vbn", "rank": 0.005633862863245766, "text": "generated"}
+{"count": 1, "ids": [106], "pos": "nn", "rank": 0.005621189636342329, "text": "way"}
+{"count": 1, "ids": [104], "pos": "np", "rank": 0.005581921045152488, "text": "scientists"}
+{"count": 1, "ids": [6], "pos": "nns", "rank": 0.005574759026283709, "text": "accounts"}
+{"count": 1, "ids": [79], "pos": "vbn", "rank": 0.005496315601825714, "text": "reported"}
+{"count": 1, "ids": [84], "pos": "vbg", "rank": 0.005395321224805779, "text": "including"}
+{"count": 1, "ids": [50], "pos": "nn", "rank": 0.005368211418424056, "text": "form"}
+{"count": 1, "ids": [89], "pos": "nns", "rank": 0.005250454862309465, "text": "miles"}
+{"count": 1, "ids": [16], "pos": "vbg", "rank": 0.005226820560025637, "text": "following"}
+{"count": 1, "ids": [105], "pos": "vbd", "rank": 0.005163423664774098, "text": "searched"}
+{"count": 1, "ids": [110], "pos": "np", "rank": 0.00506452648619036, "text": "factors"}
+{"count": 1, "ids": [2, 3], "pos": "np", "rank": 0.00500370370435568, "text": "historical records"}
+{"count": 1, "ids": [44, 22, 47], "pos": "np", "rank": 0.004979068678438352, "text": "mercalli intensity scale"}
+{"count": 1, "ids": [108], "pos": "vbn", "rank": 0.004964869422784443, "text": "released"}
+{"count": 1, "ids": [49], "pos": "vbn", "rank": 0.004865808060052123, "text": "modified"}
+{"count": 1, "ids": [40], "pos": "nn", "rank": 0.0047269753168951035, "text": "center"}
+{"count": 1, "ids": [88], "pos": "nns", "rank": 0.0047269753168951035, "text": "kilometers"}
+{"count": 1, "ids": [11, 12], "pos": "np", "rank": 0.004558596582500053, "text": "first attempt"}
+{"count": 1, "ids": [19, 20], "pos": "np", "rank": 0.004558596582500053, "text": "mapping effects"}
+{"count": 1, "ids": [74, 75], "pos": "np", "rank": 0.004558596582500053, "text": "few hours"}
+{"count": 1, "ids": [97, 98], "pos": "np", "rank": 0.004558596582500053, "text": "larger area"}
+{"count": 1, "ids": [53], "pos": "nnp", "rank": 0.004402823699355281, "text": "table"}
+{"count": 1, "ids": [72], "pos": "vb", "rank": 0.00435932597043883, "text": "fall"}
+{"count": 1, "ids": [56], "pos": "nn", "rank": 0.004286085634292238, "text": "standard"}
+{"count": 1, "ids": [48], "pos": "nn", "rank": 0.0042748618138130304, "text": "today"}
+{"count": 1, "ids": [43, 44], "pos": "np", "rank": 0.004209508350715536, "text": "giuseppe mercalli"}
+{"count": 1, "ids": [66], "pos": "nn", "rank": 0.004108669962656331, "text": "code"}
+{"count": 1, "ids": [65], "pos": "nn", "rank": 0.003977192093675171, "text": "zip"}
+{"count": 1, "ids": [37], "pos": "vbn", "rank": 0.00390928154565361, "text": "identified"}
+{"count": 1, "ids": [116, 100, 47], "pos": "np", "rank": 0.003734301508828764, "text": "several magnitude scales"}
+{"count": 1, "ids": [52], "pos": "vbn", "rank": 0.003730112768295675, "text": "shown"}
+{"count": 1, "ids": [21], "pos": "nn", "rank": 0.003667893633345871, "text": "measure"}
+{"count": 2, "ids": [42], "pos": "nn", "rank": 0.003667893633345871, "text": "epicenter"}
+{"count": 1, "ids": [103], "pos": "nn", "rank": 0.003667893633345871, "text": "globe"}
+{"count": 1, "ids": [85], "pos": "nnp", "rank": 0.003525211993274595, "text": "washington"}
+{"count": 1, "ids": [83], "pos": "nns", "rank": 0.003504707384142255, "text": "landmarks"}
+{"count": 1, "ids": [87], "pos": "nnp", "rank": 0.003504707384142255, "text": "cathedral"}
+{"count": 1, "ids": [14], "pos": "nn", "rank": 0.003484047790965295, "text": "aftermath"}
+{"count": 2, "ids": [36], "pos": "nn", "rank": 0.0033643934892959113, "text": "zone"}
+{"count": 2, "ids": [100], "pos": "nn", "rank": 0.0033003879113298593, "text": "magnitude"}
+{"count": 1, "ids": [76], "pos": "nnp", "rank": 0.0031695125349612808, "text": "community"}
+{"count": 1, "ids": [92, 93], "pos": "np", "rank": 0.0031622436553619877, "text": "rocky mountains"}
+{"count": 1, "ids": [71], "pos": "nns", "rank": 0.0030590963232401277, "text": "objects"}
+{"count": 1, "ids": [109], "pos": "vb", "rank": 0.0030590963232401277, "text": "rely"}
+{"count": 1, "ids": [4], "pos": "vbd", "rank": 0.003041549432532748, "text": "provided"}
+{"count": 1, "ids": [64], "pos": "vbp", "rank": 0.002790960522576244, "text": "enter"}
+{"count": 1, "ids": [35], "pos": "nn", "rank": 0.00250851995255726, "text": "technique"}
+{"count": 1, "ids": [3], "pos": "nns", "rank": 0.00250185185217784, "text": "records"}
+{"count": 1, "ids": [117], "pos": "np", "rank": 0.0024640671917929556, "text": "everybody"}
+{"count": 1, "ids": [12], "pos": "nn", "rank": 0.0022792982912500266, "text": "attempt"}
+{"count": 1, "ids": [20], "pos": "nns", "rank": 0.0022792982912500266, "text": "effects"}
+{"count": 1, "ids": [75], "pos": "nns", "rank": 0.0022792982912500266, "text": "hours"}
+{"count": 1, "ids": [91], "pos": "vbz", "rank": 0.0022792982912500266, "text": "rocks"}
+{"count": 1, "ids": [98], "pos": "nn", "rank": 0.0022792982912500266, "text": "area"}
+{"count": 1, "ids": [114], "pos": "nn", "rank": 0.0022792982912500266, "text": "world"}
+{"count": 1, "ids": [118], "pos": "vbz", "rank": 0.0022792982912500266, "text": "runs"}
+{"count": 1, "ids": [77], "pos": "nnp", "rank": 0.002130101131582828, "text": "internet"}
+{"count": 3, "ids": [44], "pos": "nnp", "rank": 0.002104754175357768, "text": "mercalli"}
+{"count": 1, "ids": [101], "pos": "nn", "rank": 0.00193339478426895, "text": "west"}
+{"count": 1, "ids": [93], "pos": "nnps", "rank": 0.0015811218276809938, "text": "mountains"}
+{"count": 1, "ids": [1], "pos": "nns", "rank": 0.0012320335958964778, "text": "mid-1800s"}
+{"count": 1, "ids": [19], "pos": "nn", "rank": 0.0012320335958964778, "text": "mapping"}
+{"count": 1, "ids": [43], "pos": "nnp", "rank": 0.0012320335958964778, "text": "giuseppe"}
+{"count": 1, "ids": [51], "pos": "nnp", "rank": 0.0012320335958964778, "text": "modified"}
+{"count": 1, "ids": [58], "pos": "nn", "rank": 0.0012320335958964778, "text": "wood"}
+{"count": 1, "ids": [92], "pos": "nnp", "rank": 0.0012320335958964778, "text": "rocky"}
+{"count": 1, "ids": [102], "pos": "vb", "rank": 0.0012320335958964778, "text": "compare"}
+{"count": 1, "ids": [113], "pos": "nn", "rank": 0.0012320335958964778, "text": "part"}
+{"count": 1, "ids": [115], "pos": "nn", "rank": 0.0012320335958964778, "text": "result"}

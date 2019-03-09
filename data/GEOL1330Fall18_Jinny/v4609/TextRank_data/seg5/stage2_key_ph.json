@@ -1,0 +1,62 @@
+{"count": 1, "ids": [461, 145], "pos": "np", "rank": 0.06200835860373569, "text": "olivine-rich rocks"}
+{"count": 1, "ids": [462, 463], "pos": "np", "rank": 0.05375272367355116, "text": "granular appearance"}
+{"count": 1, "ids": [458, 459], "pos": "np", "rank": 0.044949071901335916, "text": "large crystals"}
+{"count": 1, "ids": [450, 451], "pos": "np", "rank": 0.04183086276935338, "text": "glassy luster"}
+{"count": 1, "ids": [452, 453], "pos": "np", "rank": 0.04082303032638304, "text": "conchoidal fracture"}
+{"count": 1, "ids": [447, 448], "pos": "np", "rank": 0.039507227136047915, "text": "olive green"}
+{"count": 5, "ids": [145], "pos": "nn", "rank": 0.031004179301867846, "text": "rock"}
+{"count": 1, "ids": [467, 468, 145], "pos": "np", "rank": 0.031004179301867846, "text": "common igneous rock"}
+{"count": 2, "ids": [44], "pos": "np", "rank": 0.029600555030669672, "text": "forms"}
+{"count": 1, "ids": [442, 443, 442], "pos": "np", "rank": 0.029081314673000215, "text": "olivine group olivine"}
+{"count": 2, "ids": [463], "pos": "nn", "rank": 0.02687636183677558, "text": "appearance"}
+{"count": 1, "ids": [325, 212], "pos": "np", "rank": 0.026711016748802954, "text": "volcanic areas"}
+{"count": 1, "ids": [481], "pos": "vb", "rank": 0.025478613305393954, "text": "augite"}
+{"count": 1, "ids": [460, 459], "pos": "np", "rank": 0.022474535950667958, "text": "rounded crystals"}
+{"count": 1, "ids": [451], "pos": "nn", "rank": 0.02091543138467669, "text": "luster"}
+{"count": 2, "ids": [449], "pos": "nn", "rank": 0.020905578091316435, "text": "color"}
+{"count": 1, "ids": [468, 145], "pos": "np", "rank": 0.020669452867911896, "text": "igneous rocks"}
+{"count": 1, "ids": [474, 475, 476], "pos": "np", "rank": 0.020658949037521048, "text": "upper man tle"}
+{"count": 1, "ids": [453], "pos": "nn", "rank": 0.019980078849013497, "text": "fracture"}
+{"count": 1, "ids": [445, 352, 79], "pos": "np", "rank": 0.01934699871199666, "text": "high-temperature silicate minerals"}
+{"count": 1, "ids": [469, 470], "pos": "np", "rank": 0.018443881367736975, "text": "oceanic crust"}
+{"count": 1, "ids": [489, 145], "pos": "np", "rank": 0.015502089650933923, "text": "light-colored rock"}
+{"count": 1, "ids": [459], "pos": "np", "rank": 0.014983023967111972, "text": "crystals"}
+{"count": 1, "ids": [464, 44], "pos": "np", "rank": 0.014800277515334836, "text": "related forms"}
+{"count": 5, "ids": [442], "pos": "nn", "rank": 0.014540657336500108, "text": "olivine"}
+{"count": 1, "ids": [461], "pos": "nn", "rank": 0.014014867990882364, "text": "olivine-rich"}
+{"count": 1, "ids": [471], "pos": "nns", "rank": 0.013985684790007205, "text": "continents"}
+{"count": 1, "ids": [479], "pos": "np", "rank": 0.013862212545522225, "text": "amphiboles"}
+{"count": 1, "ids": [283, 218], "pos": "np", "rank": 0.01354792059731285, "text": "dark portion"}
+{"count": 1, "ids": [212], "pos": "nns", "rank": 0.013355508374401477, "text": "areas"}
+{"count": 1, "ids": [50], "pos": "vbp", "rank": 0.011796481170717911, "text": "give"}
+{"count": 1, "ids": [487, 459], "pos": "np", "rank": 0.011237267975333979, "text": "blocky crystals"}
+{"count": 1, "ids": [447], "pos": "nn", "rank": 0.010854033430245862, "text": "olive"}
+{"count": 1, "ids": [472], "pos": "vb", "rank": 0.010342280892443245, "text": "constitute"}
+{"count": 1, "ids": [476], "pos": "nn", "rank": 0.010329474518760524, "text": "tle"}
+{"count": 1, "ids": [480, 172], "pos": "np", "rank": 0.009742972381945483, "text": "cleavage angles"}
+{"count": 2, "ids": [173], "pos": "nns", "rank": 0.009722578108706682, "text": "degrees"}
+{"count": 1, "ids": [454, 442], "pos": "np", "rank": 0.00969377155766674, "text": "transparent olivine"}
+{"count": 1, "ids": [467, 477], "pos": "np", "rank": 0.009675605807820967, "text": "common member"}
+{"count": 1, "ids": [79], "pos": "np", "rank": 0.00967349935599833, "text": "minerals"}
+{"count": 2, "ids": [168], "pos": "vbn", "rank": 0.009364760053978323, "text": "called"}
+{"count": 2, "ids": [482], "pos": "nnp", "rank": 0.009221940683868488, "text": "hornblende"}
+{"count": 1, "ids": [455], "pos": "nn", "rank": 0.008552493532329885, "text": "gemstone"}
+{"count": 1, "ids": [486], "pos": "nn", "rank": 0.006773960298656425, "text": "pyroxene"}
+{"count": 1, "ids": [218], "pos": "nn", "rank": 0.006773960298656425, "text": "portion"}
+{"count": 1, "ids": [475], "pos": "nn", "rank": 0.006702620357608719, "text": "man"}
+{"count": 1, "ids": [470], "pos": "nn", "rank": 0.006552754629089943, "text": "crust"}
+{"count": 1, "ids": [352], "pos": "nn", "rank": 0.006178891294117648, "text": "silicate"}
+{"count": 1, "ids": [483], "pos": "vbn", "rank": 0.006165573008460913, "text": "elongated"}
+{"count": 1, "ids": [466], "pos": "nn", "rank": 0.006055943606902428, "text": "basalt"}
+{"count": 1, "ids": [350], "pos": "vbn", "rank": 0.00559043719647203, "text": "thought"}
+{"count": 1, "ids": [478, 443], "pos": "np", "rank": 0.005266509796732365, "text": "complex group"}
+{"count": 2, "ids": [443], "pos": "nn", "rank": 0.0051256904909315355, "text": "group"}
+{"count": 1, "ids": [258], "pos": "nnp", "rank": 0.0048714861909727415, "text": "earth"}
+{"count": 1, "ids": [172], "pos": "nns", "rank": 0.0048714861909727415, "text": "angles"}
+{"count": 1, "ids": [485], "pos": "vb", "rank": 0.0048714861909727415, "text": "distinguish"}
+{"count": 1, "ids": [477], "pos": "nn", "rank": 0.004837802903910483, "text": "member"}
+{"count": 1, "ids": [444], "pos": "nn", "rank": 0.004006574844628257, "text": "family"}
+{"count": 1, "ids": [457], "pos": "vb", "rank": 0.0026332548983661825, "text": "develop"}
+{"count": 1, "ids": [473], "pos": "nn", "rank": 0.0026332548983661825, "text": "percent"}
+{"count": 1, "ids": [484], "pos": "vbz", "rank": 0.0026332548983661825, "text": "helps"}
+{"count": 1, "ids": [488], "pos": "vbz", "rank": 0.0026332548983661825, "text": "makes"}

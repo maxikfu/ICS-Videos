@@ -1,0 +1,73 @@
+{"count": 2, "ids": [552], "pos": "np", "rank": 0.05943961138029109, "text": "quartz"}
+{"count": 1, "ids": [549, 782], "pos": "np", "rank": 0.039966914109607794, "text": "mineral classes"}
+{"count": 1, "ids": [129, 157, 158], "pos": "np", "rank": 0.039281128807943044, "text": "similar internal structures"}
+{"count": 1, "ids": [549], "pos": "np", "rank": 0.03566829328155923, "text": "minerals"}
+{"count": 1, "ids": [545, 156], "pos": "np", "rank": 0.033331562141282446, "text": "chemical compositions"}
+{"count": 1, "ids": [723, 552], "pos": "np", "rank": 0.029719805690145543, "text": "pure quartz"}
+{"count": 1, "ids": [143, 533], "pos": "np", "rank": 0.025762856142116815, "text": "small amounts"}
+{"count": 1, "ids": [789, 782], "pos": "np", "rank": 0.024319062750390495, "text": "halide class"}
+{"count": 1, "ids": [779, 610], "pos": "np", "rank": 0.022930647667832576, "text": "violet color"}
+{"count": 1, "ids": [15, 754], "pos": "np", "rank": 0.021857890404498523, "text": "most specimens"}
+{"count": 1, "ids": [714, 158], "pos": "np", "rank": 0.020114261903085757, "text": "atomic structure"}
+{"count": 4, "ids": [782], "pos": "nn", "rank": 0.019983457054803897, "text": "class"}
+{"count": 1, "ids": [14, 549, 782], "pos": "np", "rank": 0.019983457054803897, "text": "important mineral classes"}
+{"count": 1, "ids": [616, 549, 767], "pos": "np", "rank": 0.019779806908835684, "text": "term mineral species"}
+{"count": 3, "ids": [158], "pos": "nns", "rank": 0.019640564403971522, "text": "structures"}
+{"count": 1, "ids": [791], "pos": "np", "rank": 0.019530767523256446, "text": "deposits"}
+{"count": 1, "ids": [549, 749], "pos": "np", "rank": 0.017865234263273484, "text": "mineral varieties"}
+{"count": 1, "ids": [695], "pos": "np", "rank": 0.01747346208851765, "text": "animals"}
+{"count": 1, "ids": [156], "pos": "nns", "rank": 0.016665781070641223, "text": "compositions"}
+{"count": 1, "ids": [769, 765], "pos": "np", "rank": 0.016540821683884217, "text": "individual plants"}
+{"count": 1, "ids": [243], "pos": "np", "rank": 0.016384989621439056, "text": "trace"}
+{"count": 1, "ids": [790], "pos": "np", "rank": 0.016289620427735806, "text": "evaporite"}
+{"count": 1, "ids": [774], "pos": "np", "rank": 0.01539816563415761, "text": "aluminum"}
+{"count": 1, "ids": [157, 158], "pos": "np", "rank": 0.015322741022302877, "text": "internal structures"}
+{"count": 1, "ids": [456, 676], "pos": "np", "rank": 0.013772276680904593, "text": "same way"}
+{"count": 1, "ids": [456, 782], "pos": "np", "rank": 0.013322304703202599, "text": "same class"}
+{"count": 2, "ids": [533], "pos": "nns", "rank": 0.012881428071058408, "text": "amounts"}
+{"count": 1, "ids": [577], "pos": "nn", "rank": 0.012678265144961206, "text": "pyrite"}
+{"count": 1, "ids": [780], "pos": "nn", "rank": 0.012589836285944872, "text": "presence"}
+{"count": 1, "ids": [164], "pos": "vbz", "rank": 0.012067077521572732, "text": "appears"}
+{"count": 1, "ids": [326, 549, 767], "pos": "np", "rank": 0.011889431093853077, "text": "common mineral species"}
+{"count": 1, "ids": [585], "pos": "nn", "rank": 0.011570220010009034, "text": "galena"}
+{"count": 1, "ids": [610], "pos": "nn", "rank": 0.011465323833916288, "text": "color"}
+{"count": 1, "ids": [545], "pos": "nn", "rank": 0.011356266060812175, "text": "chemical"}
+{"count": 1, "ids": [788], "pos": "vbp", "rank": 0.010961031753660621, "text": "belong"}
+{"count": 2, "ids": [754], "pos": "nns", "rank": 0.010928945202249261, "text": "specimens"}
+{"count": 1, "ids": [770], "pos": "np", "rank": 0.01063486354353458, "text": "species"}
+{"count": 1, "ids": [363], "pos": "nns", "rank": 0.010455832042600048, "text": "categories"}
+{"count": 1, "ids": [606], "pos": "nn", "rank": 0.010268575870230601, "text": "calcite"}
+{"count": 1, "ids": [784], "pos": "nnps", "rank": 0.010163134631058933, "text": "sio442"}
+{"count": 1, "ids": [129, 548], "pos": "np", "rank": 0.010002829236865914, "text": "similar properties"}
+{"count": 1, "ids": [407], "pos": "nn", "rank": 0.009972259870644684, "text": "iron"}
+{"count": 4, "ids": [767], "pos": "nns", "rank": 0.009889903454417842, "text": "species"}
+{"count": 1, "ids": [787], "pos": "nnp", "rank": 0.009551309863949078, "text": "kcl"}
+{"count": 1, "ids": [762], "pos": "nnp", "rank": 0.009444225043413275, "text": "sio2"}
+{"count": 1, "ids": [772], "pos": "nn", "rank": 0.009230281079786422, "text": "colorless"}
+{"count": 1, "ids": [749], "pos": "np", "rank": 0.008932617131636742, "text": "variety"}
+{"count": 1, "ids": [456, 549], "pos": "np", "rank": 0.008917073320389808, "text": "same mineral"}
+{"count": 1, "ids": [783], "pos": "nns", "rank": 0.008613503927415484, "text": "silicates"}
+{"count": 1, "ids": [775], "pos": "vbn", "rank": 0.008488568206833448, "text": "incorporated"}
+{"count": 2, "ids": [765], "pos": "nns", "rank": 0.008270410841942109, "text": "plants"}
+{"count": 1, "ids": [778], "pos": "vbz", "rank": 0.007894080720671201, "text": "owes"}
+{"count": 1, "ids": [786], "pos": "nn", "rank": 0.007893135039094496, "text": "silvite"}
+{"count": 1, "ids": [362], "pos": "vbn", "rank": 0.007691926921326689, "text": "classified"}
+{"count": 1, "ids": [456, 60], "pos": "np", "rank": 0.007635021996415822, "text": "same rock"}
+{"count": 1, "ids": [781], "pos": "vbn", "rank": 0.007364837312763336, "text": "assigned"}
+{"count": 1, "ids": [764], "pos": "vbp", "rank": 0.00736190104638592, "text": "differ"}
+{"count": 2, "ids": [549, 767], "pos": "np", "rank": 0.007133658656311846, "text": "mineral species"}
+{"count": 1, "ids": [771], "pos": "vbn", "rank": 0.006417381564981922, "text": "subdivided"}
+{"count": 1, "ids": [183], "pos": "vb", "rank": 0.006239008777856084, "text": "occur"}
+{"count": 1, "ids": [779], "pos": "nn", "rank": 0.006196934647884293, "text": "violet"}
+{"count": 1, "ids": [323], "pos": "vbn", "rank": 0.006163924600291397, "text": "placed"}
+{"count": 1, "ids": [785], "pos": "nnp", "rank": 0.005942262348434728, "text": "nacl"}
+{"count": 1, "ids": [324], "pos": "vbp", "rank": 0.005938682592670883, "text": "exhibit"}
+{"count": 1, "ids": [616], "pos": "nn", "rank": 0.005771129238756943, "text": "term"}
+{"count": 1, "ids": [766], "pos": "np", "rank": 0.005683947405901164, "text": "mineralogists"}
+{"count": 1, "ids": [548], "pos": "nns", "rank": 0.005001414618432957, "text": "properties"}
+{"count": 1, "ids": [45], "pos": "vbn", "rank": 0.004740199230840096, "text": "called"}
+{"count": 1, "ids": [768], "pos": "nn", "rank": 0.004042886415422521, "text": "collection"}
+{"count": 1, "ids": [676], "pos": "nn", "rank": 0.003817510998207911, "text": "way"}
+{"count": 1, "ids": [60], "pos": "nn", "rank": 0.003817510998207911, "text": "rock"}
+{"count": 2, "ids": [543], "pos": "nn", "rank": 0.002841973702950582, "text": "example"}
+{"count": 1, "ids": [777], "pos": "nnp", "rank": 0.002841973702950582, "text": "amethyst"}

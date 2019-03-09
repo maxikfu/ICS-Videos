@@ -1,0 +1,48 @@
+{"count": 1, "ids": [106, 50], "pos": "np", "rank": 0.06732807789859406, "text": "andesitic composition"}
+{"count": 1, "ids": [94, 10], "pos": "np", "rank": 0.06683892679261129, "text": "basaltic rocks"}
+{"count": 1, "ids": [107, 32, 10, 71], "pos": "np", "rank": 0.04682741363716532, "text": "common volcanic rock andesite"}
+{"count": 1, "ids": [115, 116], "pos": "np", "rank": 0.04593940425501498, "text": "plagioclase feldspar"}
+{"count": 1, "ids": [128, 83], "pos": "np", "rank": 0.04065658969189308, "text": "aleutian chain"}
+{"count": 1, "ids": [69, 50], "pos": "np", "rank": 0.036556002287357205, "text": "intermediate composition"}
+{"count": 3, "ids": [50], "pos": "nn", "rank": 0.03366403894929703, "text": "composition"}
+{"count": 1, "ids": [17], "pos": "np", "rank": 0.03342080418865683, "text": "crystals"}
+{"count": 5, "ids": [10], "pos": "nns", "rank": 0.033419463396305644, "text": "rocks"}
+{"count": 1, "ids": [108, 78, 23], "pos": "np", "rank": 0.03201117199151851, "text": "dark silicate minerals"}
+{"count": 1, "ids": [112], "pos": "np", "rank": 0.02949015689255445, "text": "mica"}
+{"count": 1, "ids": [122, 123], "pos": "np", "rank": 0.026761607876147293, "text": "seaward margins"}
+{"count": 1, "ids": [32, 120], "pos": "np", "rank": 0.024176311361448342, "text": "volcanic activity"}
+{"count": 1, "ids": [136], "pos": "nn", "rank": 0.024079871207968177, "text": "basalt"}
+{"count": 1, "ids": [135], "pos": "nn", "rank": 0.0236567731056632, "text": "granite"}
+{"count": 1, "ids": [131], "pos": "np", "rank": 0.023284949960298507, "text": "photomicrographs"}
+{"count": 1, "ids": [134], "pos": "vbp", "rank": 0.02315913036664441, "text": "make"}
+{"count": 1, "ids": [116], "pos": "nn", "rank": 0.02296970212750749, "text": "feldspar"}
+{"count": 1, "ids": [69, 10], "pos": "np", "rank": 0.022279642264203762, "text": "intermediate rocks"}
+{"count": 1, "ids": [83], "pos": "nn", "rank": 0.02032829484594654, "text": "chain"}
+{"count": 1, "ids": [32, 125, 126], "pos": "np", "rank": 0.01942138098452361, "text": "volcanic island arcs"}
+{"count": 1, "ids": [132], "pos": "vbp", "rank": 0.01824737698151211, "text": "show"}
+{"count": 1, "ids": [9, 10], "pos": "np", "rank": 0.016709731698152822, "text": "igneous rocks"}
+{"count": 2, "ids": [23], "pos": "nn", "rank": 0.016005585995759256, "text": "mineral"}
+{"count": 1, "ids": [113, 114, 23], "pos": "np", "rank": 0.016005585995759256, "text": "other dominant mineral"}
+{"count": 1, "ids": [105], "pos": "vbn", "rank": 0.01573466543535219, "text": "said"}
+{"count": 1, "ids": [124], "pos": "nns", "rank": 0.015345469255268326, "text": "continents"}
+{"count": 1, "ids": [123], "pos": "nns", "rank": 0.013380803938073647, "text": "margins"}
+{"count": 1, "ids": [35], "pos": "vbp", "rank": 0.013207547681627352, "text": "contain"}
+{"count": 1, "ids": [115], "pos": "nn", "rank": 0.013196565889630925, "text": "plagioclase"}
+{"count": 1, "ids": [111], "pos": "nn", "rank": 0.012674150069969763, "text": "biotite"}
+{"count": 1, "ids": [119], "pos": "vbn", "rank": 0.012409031489084229, "text": "associated"}
+{"count": 1, "ids": [120], "pos": "nn", "rank": 0.012088155680724171, "text": "activity"}
+{"count": 1, "ids": [71], "pos": "nn", "rank": 0.011997571001368773, "text": "andesite"}
+{"count": 1, "ids": [133], "pos": "vbg", "rank": 0.011726577157291057, "text": "interlocking"}
+{"count": 1, "ids": [117, 118], "pos": "np", "rank": 0.01131845657598367, "text": "important category"}
+{"count": 1, "ids": [122], "pos": "nn", "rank": 0.011069778680312234, "text": "seaward"}
+{"count": 1, "ids": [110], "pos": "nn", "rank": 0.010238336975711372, "text": "pyroxene"}
+{"count": 1, "ids": [129, 130], "pos": "np", "rank": 0.010193221059824469, "text": "inset images"}
+{"count": 1, "ids": [126], "pos": "nns", "rank": 0.009710690492261805, "text": "arcs"}
+{"count": 1, "ids": [121], "pos": "vbn", "rank": 0.008351127132647292, "text": "confined"}
+{"count": 1, "ids": [73], "pos": "np", "rank": 0.007942750027506064, "text": "percent"}
+{"count": 1, "ids": [109], "pos": "vbp", "rank": 0.007372738883174826, "text": "amphibole"}
+{"count": 1, "ids": [78], "pos": "nn", "rank": 0.0072627228612549945, "text": "silicate"}
+{"count": 1, "ids": [125], "pos": "nn", "rank": 0.006814431128772635, "text": "island"}
+{"count": 1, "ids": [118], "pos": "nn", "rank": 0.005659228287991835, "text": "category"}
+{"count": 1, "ids": [130], "pos": "nns", "rank": 0.0050966105299122344, "text": "images"}
+{"count": 1, "ids": [129], "pos": "nnp", "rank": 0.003971375013753032, "text": "inset"}

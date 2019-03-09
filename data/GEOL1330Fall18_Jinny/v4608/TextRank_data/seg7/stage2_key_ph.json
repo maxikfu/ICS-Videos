@@ -1,0 +1,16 @@
+{"count": 1, "ids": [729, 556], "pos": "np", "rank": 0.15156728574381845, "text": "equivalent faces"}
+{"count": 1, "ids": [733, 734, 214], "pos": "np", "rank": 0.11089464849692494, "text": "weak electrical forces"}
+{"count": 1, "ids": [307], "pos": "nns", "rank": 0.10986156797801118, "text": "sheets"}
+{"count": 1, "ids": [732], "pos": "vbn", "rank": 0.09466268747047832, "text": "joined"}
+{"count": 1, "ids": [21, 707], "pos": "np", "rank": 0.07692670395618251, "text": "carbon atoms"}
+{"count": 2, "ids": [556], "pos": "nns", "rank": 0.07578364287190922, "text": "faces"}
+{"count": 1, "ids": [546], "pos": "vbn", "rank": 0.07281118578737127, "text": "bonded"}
+{"count": 1, "ids": [214], "pos": "nns", "rank": 0.05544732424846247, "text": "forces"}
+{"count": 1, "ids": [626], "pos": "nn", "rank": 0.04250514014893793, "text": "crystal"}
+{"count": 1, "ids": [728], "pos": "vb", "rank": 0.039097251090172876, "text": "grow"}
+{"count": 1, "ids": [727], "pos": "nnp", "rank": 0.03891017533534989, "text": "law"}
+{"count": 1, "ids": [707], "pos": "nns", "rank": 0.038463351978091254, "text": "atoms"}
+{"count": 1, "ids": [21], "pos": "nn", "rank": 0.029971365842905648, "text": "carbon"}
+{"count": 1, "ids": [726], "pos": "nnp", "rank": 0.0210325563504614, "text": "steno"}
+{"count": 1, "ids": [660], "pos": "nns", "rank": 0.0210325563504614, "text": "angles"}
+{"count": 1, "ids": [731], "pos": "nn", "rank": 0.0210325563504614, "text": "graphite"}

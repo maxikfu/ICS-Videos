@@ -1,0 +1,132 @@
+{"count": 1, "ids": [272], "pos": "np", "rank": 0.041585672367942084, "text": "craters"}
+{"count": 1, "ids": [9, 10], "pos": "np", "rank": 0.024511602474029896, "text": "igneous rocks"}
+{"count": 1, "ids": [182, 281], "pos": "np", "rank": 0.023224898067582052, "text": "years old"}
+{"count": 1, "ids": [274, 272], "pos": "np", "rank": 0.020792836183971042, "text": "copernicus crater"}
+{"count": 1, "ids": [250, 251], "pos": "np", "rank": 0.018638876588668002, "text": "recent evidence"}
+{"count": 1, "ids": [208, 3, 202, 209], "pos": "np", "rank": 0.017990420467206617, "text": "several large impact basins"}
+{"count": 1, "ids": [260, 100], "pos": "np", "rank": 0.0179128975291999, "text": "8\u201312 kilometers"}
+{"count": 1, "ids": [236, 237], "pos": "np", "rank": 0.01717834962755581, "text": "radioactive elements"}
+{"count": 1, "ids": [44, 267], "pos": "np", "rank": 0.016486499251070447, "text": "lava channels"}
+{"count": 1, "ids": [8], "pos": "np", "rank": 0.01579934091927249, "text": "form"}
+{"count": 1, "ids": [244, 245, 246], "pos": "np", "rank": 0.015705564813813307, "text": "diverse chemical makeup"}
+{"count": 1, "ids": [33], "pos": "np", "rank": 0.015447103610338167, "text": "eruptions"}
+{"count": 1, "ids": [217, 218], "pos": "np", "rank": 0.015313801692890212, "text": "meteoritic bombardment"}
+{"count": 1, "ids": [188], "pos": "np", "rank": 0.014865022986353973, "text": "chapter"}
+{"count": 2, "ids": [225, 136], "pos": "np", "rank": 0.014828084750711278, "text": "maria basalts"}
+{"count": 3, "ids": [230], "pos": "vbn", "rank": 0.014761373204905021, "text": "thought"}
+{"count": 1, "ids": [279, 272], "pos": "np", "rank": 0.013861890789314027, "text": "rayless craters"}
+{"count": 1, "ids": [229, 201, 194], "pos": "np", "rank": 0.013098548500624923, "text": "initial lunar crust"}
+{"count": 1, "ids": [214, 215], "pos": "np", "rank": 0.012870069670524197, "text": "sudden drop"}
+{"count": 1, "ids": [208, 241, 242], "pos": "np", "rank": 0.012807231582958642, "text": "several isolated pockets"}
+{"count": 1, "ids": [201, 194], "pos": "np", "rank": 0.012584846029728522, "text": "lunar crust"}
+{"count": 1, "ids": [107, 195, 10, 70], "pos": "np", "rank": 0.012255801237014948, "text": "common highland rock type"}
+{"count": 1, "ids": [25, 258, 259], "pos": "np", "rank": 0.01222605589853391, "text": "small shield volcanoes"}
+{"count": 6, "ids": [182], "pos": "nns", "rank": 0.011612449033791026, "text": "years"}
+{"count": 1, "ids": [200, 115, 116], "pos": "np", "rank": 0.011125447931799185, "text": "calcium-rich plagioclase feldspar"}
+{"count": 1, "ids": [31], "pos": "np", "rank": 0.011060137149738388, "text": "material"}
+{"count": 1, "ids": [205, 206], "pos": "np", "rank": 0.01081087468984362, "text": "solar nebula"}
+{"count": 1, "ids": [264, 265, 266], "pos": "np", "rank": 0.010426757544461422, "text": "narrow winding valleys"}
+{"count": 2, "ids": [210], "pos": "vbn", "rank": 0.010426687938217204, "text": "created"}
+{"count": 1, "ids": [280, 274, 272], "pos": "np", "rank": 0.010396418091985521, "text": "young copernicus crater"}
+{"count": 1, "ids": [49], "pos": "np", "rank": 0.010341177083060222, "text": "temperature"}
+{"count": 1, "ids": [233, 196], "pos": "np", "rank": 0.010181044513603778, "text": "slow rise"}
+{"count": 1, "ids": [113, 201, 153, 254], "pos": "np", "rank": 0.009865327819702707, "text": "other lunar surface features"}
+{"count": 1, "ids": [248, 249], "pos": "np", "rank": 0.009562974030899559, "text": "apollo missions"}
+{"count": 2, "ids": [251], "pos": "nn", "rank": 0.009319438294334001, "text": "evidence"}
+{"count": 3, "ids": [202], "pos": "nn", "rank": 0.008995210233603309, "text": "impact"}
+{"count": 1, "ids": [3, 202, 209], "pos": "np", "rank": 0.008995210233603309, "text": "large impact basins"}
+{"count": 2, "ids": [100], "pos": "nns", "rank": 0.00895644876459995, "text": "kilometers"}
+{"count": 1, "ids": [186, 187], "pos": "np", "rank": 0.008886678766437579, "text": "magmatic differentiation"}
+{"count": 2, "ids": [101], "pos": "nns", "rank": 0.008886667612584654, "text": "miles"}
+{"count": 1, "ids": [261], "pos": "nn", "rank": 0.008828226757137066, "text": "diameter"}
+{"count": 1, "ids": [237], "pos": "nns", "rank": 0.008589174813777904, "text": "elements"}
+{"count": 1, "ids": [267], "pos": "nns", "rank": 0.008243249625535224, "text": "channels"}
+{"count": 1, "ids": [10], "pos": "np", "rank": 0.008170534158009965, "text": "rocks"}
+{"count": 1, "ids": [235], "pos": "nn", "rank": 0.007930045589996104, "text": "decay"}
+{"count": 1, "ids": [246], "pos": "nn", "rank": 0.007852782406906653, "text": "makeup"}
+{"count": 1, "ids": [193], "pos": "np", "rank": 0.007843152722244725, "text": "moon"}
+{"count": 1, "ids": [234], "pos": "vbn", "rank": 0.007831617770294924, "text": "attributed"}
+{"count": 1, "ids": [262, 33], "pos": "np", "rank": 0.007826504616148552, "text": "pyroclastic eruptions"}
+{"count": 1, "ids": [275], "pos": "vbn", "rank": 0.007705679928077095, "text": "ejected"}
+{"count": 1, "ids": [218], "pos": "nn", "rank": 0.007656900846445106, "text": "bombardment"}
+{"count": 3, "ids": [225], "pos": "nn", "rank": 0.007414042375355639, "text": "maria"}
+{"count": 1, "ids": [277, 278], "pos": "np", "rank": 0.007381068878826086, "text": "many older"}
+{"count": 2, "ids": [209], "pos": "nns", "rank": 0.007350242116690448, "text": "basins"}
+{"count": 1, "ids": [7], "pos": "nns", "rank": 0.007234497579882233, "text": "depths"}
+{"count": 2, "ids": [240], "pos": "vbn", "rank": 0.007027045000577861, "text": "occurred"}
+{"count": 1, "ids": [257], "pos": "np", "rank": 0.006850425695635115, "text": "volcanism"}
+{"count": 1, "ids": [216], "pos": "nn", "rank": 0.006743136619383343, "text": "rate"}
+{"count": 1, "ids": [243], "pos": "vbn", "rank": 0.006718188309485325, "text": "indicated"}
+{"count": 1, "ids": [285], "pos": "vbn", "rank": 0.006575715678673708, "text": "obliterated"}
+{"count": 1, "ids": [215], "pos": "nn", "rank": 0.006435034835262098, "text": "drop"}
+{"count": 1, "ids": [242], "pos": "nns", "rank": 0.006403615791479321, "text": "pockets"}
+{"count": 3, "ids": [194], "pos": "nn", "rank": 0.006292423014864261, "text": "crust"}
+{"count": 1, "ids": [259], "pos": "nns", "rank": 0.006113027949266955, "text": "volcanoes"}
+{"count": 1, "ids": [260], "pos": "nnp", "rank": 0.005983208784237837, "text": "8\u201312"}
+{"count": 1, "ids": [44], "pos": "nn", "rank": 0.005812081419660391, "text": "lava"}
+{"count": 1, "ids": [219, 179, 220], "pos": "np", "rank": 0.005761380421835031, "text": "next major event"}
+{"count": 1, "ids": [189, 23], "pos": "np", "rank": 0.005630523144668234, "text": "dense minerals"}
+{"count": 1, "ids": [205, 212], "pos": "np", "rank": 0.005609279661848897, "text": "solar system"}
+{"count": 1, "ids": [116], "pos": "nn", "rank": 0.005562723965899592, "text": "feldspar"}
+{"count": 1, "ids": [231], "pos": "vbn", "rank": 0.005266807614461466, "text": "originated"}
+{"count": 2, "ids": [266], "pos": "nns", "rank": 0.005213378772230711, "text": "valleys"}
+{"count": 1, "ids": [213], "pos": "vbd", "rank": 0.005188577940558879, "text": "experienced"}
+{"count": 1, "ids": [263], "pos": "nns", "rank": 0.005122364352035879, "text": "rilles"}
+{"count": 2, "ids": [196], "pos": "nn", "rank": 0.005090522256801889, "text": "rise"}
+{"count": 1, "ids": [256], "pos": "nn", "rank": 0.005064026165481255, "text": "period"}
+{"count": 1, "ids": [253], "pos": "vbg", "rank": 0.005057496387632942, "text": "mareforming"}
+{"count": 1, "ids": [258], "pos": "nn", "rank": 0.004971011401526301, "text": "shield"}
+{"count": 2, "ids": [153], "pos": "vbz", "rank": 0.0049326639098513534, "text": "surfaces"}
+{"count": 1, "ids": [249], "pos": "nns", "rank": 0.0047814870154497795, "text": "missions"}
+{"count": 2, "ids": [254], "pos": "nns", "rank": 0.004778671511411074, "text": "features"}
+{"count": 1, "ids": [269, 270, 254], "pos": "np", "rank": 0.004778671511411074, "text": "last prominent features"}
+{"count": 1, "ids": [191], "pos": "vbd", "rank": 0.004574821778248002, "text": "sank"}
+{"count": 1, "ids": [221], "pos": "nn", "rank": 0.004526368748661175, "text": "filling"}
+{"count": 1, "ids": [255], "pos": "vbn", "rank": 0.004459788969506811, "text": "related"}
+{"count": 1, "ids": [252], "pos": "vbz", "rank": 0.004454340385058981, "text": "suggests"}
+{"count": 1, "ids": [187], "pos": "nn", "rank": 0.004443339383218789, "text": "differentiation"}
+{"count": 1, "ids": [265], "pos": "nn", "rank": 0.004426009906341583, "text": "winding"}
+{"count": 1, "ids": [271], "pos": "vbn", "rank": 0.004421273094491434, "text": "rayed"}
+{"count": 1, "ids": [164], "pos": "vbp", "rank": 0.004395520363788665, "text": "include"}
+{"count": 1, "ids": [186], "pos": "nn", "rank": 0.0043831826739334475, "text": "magmatic"}
+{"count": 1, "ids": [227], "pos": "nn", "rank": 0.004328886252090401, "text": "age"}
+{"count": 1, "ids": [245], "pos": "nn", "rank": 0.0042443134431240865, "text": "chemical"}
+{"count": 1, "ids": [184], "pos": "vb", "rank": 0.004241706450841799, "text": "cool"}
+{"count": 1, "ids": [248], "pos": "nnp", "rank": 0.004126752605124518, "text": "apollo"}
+{"count": 1, "ids": [284], "pos": "nn", "rank": 0.004083897487584462, "text": "erosion"}
+{"count": 1, "ids": [200], "pos": "nn", "rank": 0.004080041862508353, "text": "calcium-rich"}
+{"count": 1, "ids": [132], "pos": "vbn", "rank": 0.004075708158332081, "text": "shown"}
+{"count": 1, "ids": [70], "pos": "nn", "rank": 0.003995129220916949, "text": "type"}
+{"count": 1, "ids": [110], "pos": "nn", "rank": 0.003884231541010862, "text": "pyroxene"}
+{"count": 1, "ids": [273], "pos": "vbn", "rank": 0.00379794991286797, "text": "exemplified"}
+{"count": 1, "ids": [276], "pos": "vbz", "rank": 0.00379794991286797, "text": "blankets"}
+{"count": 1, "ids": [56, 183], "pos": "np", "rank": 0.003628501770645392, "text": "magma ocean"}
+{"count": 1, "ids": [238, 239], "pos": "np", "rank": 0.003628501770645392, "text": "partial melting"}
+{"count": 1, "ids": [204], "pos": "nn", "rank": 0.0035885908319235943, "text": "debris"}
+{"count": 1, "ids": [134], "pos": "vbn", "rank": 0.003579894151196295, "text": "made"}
+{"count": 1, "ids": [247], "pos": "vbn", "rank": 0.003356645590796368, "text": "retrieved"}
+{"count": 1, "ids": [283], "pos": "nn", "rank": 0.0033066557357093523, "text": "weathering"}
+{"count": 1, "ids": [155], "pos": "vbn", "rank": 0.003302135905732185, "text": "composed"}
+{"count": 1, "ids": [232], "pos": "vbn", "rank": 0.003302135905732185, "text": "generated"}
+{"count": 1, "ids": [195], "pos": "np", "rank": 0.003267776385988922, "text": "highlands"}
+{"count": 2, "ids": [136], "pos": "nns", "rank": 0.0030736743362579652, "text": "basalts"}
+{"count": 1, "ids": [190], "pos": "nn", "rank": 0.0030718292110122943, "text": "olivine"}
+{"count": 1, "ids": [115], "pos": "nn", "rank": 0.003007039474343512, "text": "plagioclase"}
+{"count": 1, "ids": [220], "pos": "nn", "rank": 0.0028806902109175156, "text": "event"}
+{"count": 1, "ids": [226], "pos": "vbz", "rank": 0.002826569334467937, "text": "puts"}
+{"count": 2, "ids": [23], "pos": "nns", "rank": 0.002815261572334117, "text": "minerals"}
+{"count": 1, "ids": [78, 23], "pos": "np", "rank": 0.002815261572334117, "text": "silicate minerals"}
+{"count": 1, "ids": [212], "pos": "nn", "rank": 0.0028046398309244484, "text": "system"}
+{"count": 1, "ids": [192], "pos": "vbn", "rank": 0.0026119066009855784, "text": "floated"}
+{"count": 1, "ids": [80], "pos": "vbd", "rank": 0.002585300267320759, "text": "began"}
+{"count": 1, "ids": [223], "pos": "np", "rank": 0.0025463256166759823, "text": "radiometric"}
+{"count": 1, "ids": [282], "pos": "nnp", "rank": 0.002392299997097241, "text": "earth"}
+{"count": 1, "ids": [224], "pos": "vbg", "rank": 0.0023553389623074007, "text": "dating"}
+{"count": 1, "ids": [203], "pos": "vbd", "rank": 0.0019398243237079094, "text": "swept"}
+{"count": 1, "ids": [183], "pos": "nn", "rank": 0.001814250885322696, "text": "ocean"}
+{"count": 1, "ids": [239], "pos": "nn", "rank": 0.001814250885322696, "text": "melting"}
+{"count": 2, "ids": [274], "pos": "nnp", "rank": 0.001633888192994461, "text": "copernicus"}
+{"count": 1, "ids": [78], "pos": "nn", "rank": 0.0012731628083379912, "text": "silicate"}
+{"count": 1, "ids": [207], "pos": "nn", "rank": 0.0012731628083379912, "text": "time"}
+{"count": 1, "ids": [211], "pos": "nn", "rank": 0.0012731628083379912, "text": "rest"}
+{"count": 1, "ids": [268], "pos": "nns", "rank": 0.0012731628083379912, "text": "grabens"}

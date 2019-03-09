@@ -1,0 +1,74 @@
+{"count": 1, "ids": [549, 612], "pos": "np", "rank": 0.050286130165728075, "text": "mineral identification"}
+{"count": 1, "ids": [625, 626], "pos": "np", "rank": 0.04370770801495582, "text": "word crystal"}
+{"count": 1, "ids": [634, 339], "pos": "np", "rank": 0.0397922613216426, "text": "natural solid"}
+{"count": 1, "ids": [157, 158], "pos": "np", "rank": 0.03905673215601004, "text": "internal structure"}
+{"count": 1, "ids": [640, 641], "pos": "np", "rank": 0.038157121207442114, "text": "pyramidal ends"}
+{"count": 1, "ids": [631, 201], "pos": "np", "rank": 0.03540496667504773, "text": "gem-like shapes"}
+{"count": 1, "ids": [633], "pos": "np", "rank": 0.028239021753893395, "text": "crystalline"}
+{"count": 1, "ids": [637, 556], "pos": "np", "rank": 0.026159645496042657, "text": "smooth-sided faces"}
+{"count": 1, "ids": [549, 420], "pos": "np", "rank": 0.02587655928492024, "text": "mineral samples"}
+{"count": 6, "ids": [549], "pos": "nn", "rank": 0.025143065082864038, "text": "mineral"}
+{"count": 1, "ids": [549, 606], "pos": "np", "rank": 0.025143065082864038, "text": "mineral calcite"}
+{"count": 1, "ids": [554, 111], "pos": "np", "rank": 0.021939953160794223, "text": "smooth sides"}
+{"count": 1, "ids": [616, 626], "pos": "np", "rank": 0.02185385400747791, "text": "term crystal"}
+{"count": 1, "ids": [339], "pos": "nns", "rank": 0.0198961306608213, "text": "solids"}
+{"count": 1, "ids": [633, 339], "pos": "np", "rank": 0.0198961306608213, "text": "crystalline solids"}
+{"count": 1, "ids": [630, 361], "pos": "np", "rank": 0.019774426644174715, "text": "glassy objects"}
+{"count": 1, "ids": [158], "pos": "nn", "rank": 0.01952836607800502, "text": "structure"}
+{"count": 1, "ids": [641], "pos": "nns", "rank": 0.019078560603721057, "text": "ends"}
+{"count": 2, "ids": [201], "pos": "nn", "rank": 0.017702483337523865, "text": "shape"}
+{"count": 1, "ids": [639, 201], "pos": "np", "rank": 0.017702483337523865, "text": "prismatic shape"}
+{"count": 1, "ids": [627, 628, 629], "pos": "np", "rank": 0.017203023025792116, "text": "delicate wine goblets"}
+{"count": 1, "ids": [552, 626], "pos": "np", "rank": 0.015521529631513691, "text": "quartz crystals"}
+{"count": 1, "ids": [615], "pos": "np", "rank": 0.014770129989816127, "text": "tenacity"}
+{"count": 1, "ids": [611, 548], "pos": "np", "rank": 0.014704356878382662, "text": "useful property"}
+{"count": 1, "ids": [626], "pos": "np", "rank": 0.014569236004985272, "text": "crystals"}
+{"count": 1, "ids": [608], "pos": "nn", "rank": 0.013488280207286592, "text": "refraction"}
+{"count": 1, "ids": [609], "pos": "np", "rank": 0.013177076163567614, "text": "answer"}
+{"count": 2, "ids": [556], "pos": "nns", "rank": 0.013079822748021329, "text": "faces"}
+{"count": 5, "ids": [420], "pos": "nns", "rank": 0.01293827964246012, "text": "samples"}
+{"count": 1, "ids": [552, 420], "pos": "np", "rank": 0.01293827964246012, "text": "quartz samples"}
+{"count": 1, "ids": [621, 622], "pos": "np", "rank": 0.011880908577495186, "text": "structural variations"}
+{"count": 1, "ids": [617, 545, 618], "pos": "np", "rank": 0.011623310836429101, "text": "simple chemical test"}
+{"count": 3, "ids": [543], "pos": "nn", "rank": 0.011568885534084425, "text": "example"}
+{"count": 1, "ids": [349, 626, 150], "pos": "np", "rank": 0.0114519305029019, "text": "characteristic crystal form"}
+{"count": 1, "ids": [631], "pos": "nn", "rank": 0.01142986722196394, "text": "gem-like"}
+{"count": 2, "ids": [324], "pos": "vbz", "rank": 0.011076136233392616, "text": "exhibits"}
+{"count": 1, "ids": [111], "pos": "nns", "rank": 0.010969976580397112, "text": "sides"}
+{"count": 2, "ids": [624], "pos": "vbn", "rank": 0.010564786939868802, "text": "associated"}
+{"count": 1, "ids": [636], "pos": "vbg", "rank": 0.010511616973836147, "text": "repeating"}
+{"count": 1, "ids": [94], "pos": "vbz", "rank": 0.010398893456243721, "text": "refers"}
+{"count": 1, "ids": [361], "pos": "nns", "rank": 0.009887213322087357, "text": "objects"}
+{"count": 2, "ids": [606], "pos": "nn", "rank": 0.009187804257310556, "text": "calcite"}
+{"count": 1, "ids": [571, 572], "pos": "np", "rank": 0.008634869677541106, "text": "specific gravity"}
+{"count": 1, "ids": [629], "pos": "nns", "rank": 0.008601511512896058, "text": "goblets"}
+{"count": 1, "ids": [643], "pos": "vb", "rank": 0.00814942790104164, "text": "display"}
+{"count": 3, "ids": [552], "pos": "nn", "rank": 0.007760764815756846, "text": "quartz"}
+{"count": 1, "ids": [628], "pos": "nn", "rank": 0.007484527647951224, "text": "wine"}
+{"count": 1, "ids": [642], "pos": "np", "rank": 0.007111505848112126, "text": "granite"}
+{"count": 2, "ids": [211], "pos": "vbn", "rank": 0.007050674387378713, "text": "shown"}
+{"count": 1, "ids": [1], "pos": "vbg", "rank": 0.0069653141828228135, "text": "identifying"}
+{"count": 1, "ids": [612], "pos": "nn", "rank": 0.006882701666392713, "text": "identification"}
+{"count": 1, "ids": [625], "pos": "nn", "rank": 0.006740584987237469, "text": "word"}
+{"count": 1, "ids": [583], "pos": "np", "rank": 0.006651181145451147, "text": "cleavage"}
+{"count": 1, "ids": [88, 623], "pos": "np", "rank": 0.006651181145451147, "text": "many people"}
+{"count": 2, "ids": [616], "pos": "nn", "rank": 0.006301123370860514, "text": "term"}
+{"count": 1, "ids": [271], "pos": "nn", "rank": 0.00615238816657907, "text": "fracture"}
+{"count": 1, "ids": [622], "pos": "nns", "rank": 0.005940454288747593, "text": "variations"}
+{"count": 1, "ids": [618], "pos": "nn", "rank": 0.0058116554182145504, "text": "test"}
+{"count": 1, "ids": [150], "pos": "nn", "rank": 0.00572596525145095, "text": "form"}
+{"count": 1, "ids": [614], "pos": "vbz", "rank": 0.005005382207576971, "text": "supports"}
+{"count": 1, "ids": [311], "pos": "vb", "rank": 0.005005382207576971, "text": "provide"}
+{"count": 1, "ids": [295], "pos": "vbn", "rank": 0.004882045925793243, "text": "meant"}
+{"count": 1, "ids": [545], "pos": "nn", "rank": 0.0048085612124792185, "text": "chemical"}
+{"count": 1, "ids": [638], "pos": "np", "rank": 0.004667492613361187, "text": "specimen"}
+{"count": 1, "ids": [548], "pos": "nn", "rank": 0.004417014563710164, "text": "property"}
+{"count": 1, "ids": [572], "pos": "nn", "rank": 0.004317434838770553, "text": "gravity"}
+{"count": 2, "ids": [347], "pos": "vb", "rank": 0.003672777501466619, "text": "describe"}
+{"count": 1, "ids": [623], "pos": "nns", "rank": 0.0033255905727255734, "text": "people"}
+{"count": 1, "ids": [613], "pos": "vb", "rank": 0.0023337463066805935, "text": "give"}
+{"count": 1, "ids": [405], "pos": "vbz", "rank": 0.0023337463066805935, "text": "differentiates"}
+{"count": 1, "ids": [346], "pos": "nn", "rank": 0.0023337463066805935, "text": "list"}
+{"count": 1, "ids": [619], "pos": "vb", "rank": 0.0023337463066805935, "text": "distinguish"}
+{"count": 1, "ids": [632], "pos": "nn", "rank": 0.0023337463066805935, "text": "geology"}
+{"count": 1, "ids": [69], "pos": "vbp", "rank": 0.0023337463066805935, "text": "lack"}

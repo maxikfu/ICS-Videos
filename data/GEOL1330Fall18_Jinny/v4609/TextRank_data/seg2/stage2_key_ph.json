@@ -1,0 +1,157 @@
+{"count": 1, "ids": [6, 97], "pos": "np", "rank": 0.05108889786567793, "text": "sand continas"}
+{"count": 1, "ids": [135, 134], "pos": "np", "rank": 0.04791036020899032, "text": "air dune"}
+{"count": 4, "ids": [101], "pos": "np", "rank": 0.03637899823662506, "text": "wind"}
+{"count": 1, "ids": [141, 142], "pos": "np", "rank": 0.0256625653695317, "text": "gentler slope"}
+{"count": 2, "ids": [61, 6], "pos": "np", "rank": 0.025544448932838967, "text": "more sand"}
+{"count": 3, "ids": [134], "pos": "np", "rank": 0.02395518010449516, "text": "dunes"}
+{"count": 1, "ids": [101, 109], "pos": "np", "rank": 0.01818949911831253, "text": "wind velocity"}
+{"count": 9, "ids": [6], "pos": "np", "rank": 0.017029632621892644, "text": "sand"}
+{"count": 1, "ids": [134, 181], "pos": "np", "rank": 0.01597012006966344, "text": "dune migration"}
+{"count": 1, "ids": [135], "pos": "np", "rank": 0.015139939281564714, "text": "air"}
+{"count": 1, "ids": [135, 129], "pos": "np", "rank": 0.014303648331952204, "text": "air movement"}
+{"count": 1, "ids": [192, 145, 193], "pos": "np", "rank": 0.013702404871155045, "text": "sedimentary rock record"}
+{"count": 3, "ids": [169, 170], "pos": "np", "rank": 0.01353149649492969, "text": "slip face"}
+{"count": 4, "ids": [142], "pos": "nn", "rank": 0.01283128268476585, "text": "slope"}
+{"count": 1, "ids": [167, 142], "pos": "np", "rank": 0.01283128268476585, "text": "leeward slope"}
+{"count": 1, "ids": [175, 176, 6], "pos": "np", "rank": 0.012772224466419483, "text": "loose dry sand"}
+{"count": 1, "ids": [185, 183], "pos": "np", "rank": 0.012637446744034542, "text": "sloping layers"}
+{"count": 1, "ids": [128, 181], "pos": "np", "rank": 0.012471029655689178, "text": "slow migration"}
+{"count": 1, "ids": [235, 134], "pos": "np", "rank": 0.01197759005224758, "text": "steep dunes"}
+{"count": 1, "ids": [197, 198], "pos": "np", "rank": 0.011471348831449612, "text": "asymmetrical shape"}
+{"count": 1, "ids": [12, 222, 216], "pos": "np", "rank": 0.011286696137504349, "text": "important oil field"}
+{"count": 1, "ids": [179, 163], "pos": "np", "rank": 0.010940892373193125, "text": "periodic slides"}
+{"count": 1, "ids": [194, 195], "pos": "np", "rank": 0.010907123183127343, "text": "white sands"}
+{"count": 1, "ids": [6, 163], "pos": "np", "rank": 0.010217779573135587, "text": "sand slides"}
+{"count": 1, "ids": [155, 156], "pos": "np", "rank": 0.00988788711493339, "text": "smaller zone"}
+{"count": 1, "ids": [191], "pos": "np", "rank": 0.00959657803817495, "text": "part"}
+{"count": 1, "ids": [207, 208], "pos": "np", "rank": 0.009501993959065945, "text": "southern migrate"}
+{"count": 1, "ids": [109], "pos": "np", "rank": 0.009107202694235967, "text": "velocity"}
+{"count": 1, "ids": [157, 135, 158], "pos": "np", "rank": 0.00898017450604641, "text": "quieter air mulates"}
+{"count": 1, "ids": [108], "pos": "np", "rank": 0.008723638717949601, "text": "sediment"}
+{"count": 1, "ids": [107], "pos": "np", "rank": 0.008682345744605186, "text": "barrier"}
+{"count": 1, "ids": [188, 189, 142], "pos": "np", "rank": 0.008554188456510566, "text": "gentle windward slope"}
+{"count": 4, "ids": [95], "pos": "vbg", "rank": 0.00838859816840592, "text": "moving"}
+{"count": 1, "ids": [28], "pos": "np", "rank": 0.007853979458244733, "text": "construction"}
+{"count": 1, "ids": [111], "pos": "np", "rank": 0.007654752246161461, "text": "energy"}
+{"count": 1, "ids": [217], "pos": "nnp", "rank": 0.007415297755209187, "text": "egypt"}
+{"count": 1, "ids": [187], "pos": "np", "rank": 0.007381855744118047, "text": "cross-beds"}
+{"count": 2, "ids": [129], "pos": "nn", "rank": 0.007151824165976102, "text": "movement"}
+{"count": 1, "ids": [130, 131], "pos": "np", "rank": 0.006948319316453509, "text": "many deposits"}
+{"count": 1, "ids": [221, 222, 223], "pos": "np", "rank": 0.006858769980620192, "text": "valuable oil rigs"}
+{"count": 2, "ids": [145], "pos": "nn", "rank": 0.006851202435577523, "text": "rock"}
+{"count": 4, "ids": [170], "pos": "nn", "rank": 0.006765748247464845, "text": "face"}
+{"count": 2, "ids": [105], "pos": "vb", "rank": 0.0066400641914281, "text": "become"}
+{"count": 1, "ids": [169], "pos": "vbp", "rank": 0.006590854193659343, "text": "slip"}
+{"count": 3, "ids": [183], "pos": "nns", "rank": 0.006318723372017271, "text": "layers"}
+{"count": 1, "ids": [33, 183], "pos": "np", "rank": 0.006318723372017271, "text": "other layers"}
+{"count": 1, "ids": [128], "pos": "vbz", "rank": 0.006235514827844589, "text": "slows"}
+{"count": 2, "ids": [137], "pos": "nn", "rank": 0.006068317286295364, "text": "object"}
+{"count": 1, "ids": [119, 120], "pos": "np", "rank": 0.005938978353199457, "text": "sufficient supply"}
+{"count": 1, "ids": [199], "pos": "vbn", "rank": 0.005849293990211246, "text": "destroyed"}
+{"count": 2, "ids": [182], "pos": "nn", "rank": 0.005741156523636179, "text": "direction"}
+{"count": 2, "ids": [216], "pos": "nn", "rank": 0.005643348068752174, "text": "field"}
+{"count": 1, "ids": [196], "pos": "nnp", "rank": 0.005573276341731107, "text": "national"}
+{"count": 1, "ids": [124, 125, 126], "pos": "np", "rank": 0.005536339754263794, "text": "long enough time"}
+{"count": 2, "ids": [160], "pos": "vbz", "rank": 0.005494630619254212, "text": "steepens"}
+{"count": 1, "ids": [104], "pos": "nns", "rank": 0.005487675779727063, "text": "ues"}
+{"count": 3, "ids": [163], "pos": "nns", "rank": 0.005470446186596562, "text": "slides"}
+{"count": 1, "ids": [195], "pos": "nnps", "rank": 0.005453561591563671, "text": "sands"}
+{"count": 2, "ids": [181], "pos": "nn", "rank": 0.005397302170672472, "text": "migration"}
+{"count": 1, "ids": [123], "pos": "nn", "rank": 0.005309638268775902, "text": "path"}
+{"count": 1, "ids": [103], "pos": "nn", "rank": 0.005220759645804808, "text": "load"}
+{"count": 1, "ids": [194], "pos": "nnp", "rank": 0.005189175096360076, "text": "white"}
+{"count": 1, "ids": [205, 206], "pos": "np", "rank": 0.005184337570534175, "text": "zion canyon"}
+{"count": 1, "ids": [193], "pos": "nn", "rank": 0.005171710179853793, "text": "record"}
+{"count": 1, "ids": [202], "pos": "nn", "rank": 0.005167410335966663, "text": "origin"}
+{"count": 1, "ids": [174], "pos": "nn", "rank": 0.005077903284184135, "text": "repose"}
+{"count": 1, "ids": [198], "pos": "nn", "rank": 0.005041999024326357, "text": "shape"}
+{"count": 1, "ids": [122], "pos": "nn", "rank": 0.005011661475751156, "text": "obstruction"}
+{"count": 2, "ids": [168], "pos": "vbn", "rank": 0.004973353669144525, "text": "called"}
+{"count": 1, "ids": [100], "pos": "np", "rank": 0.004954339397117862, "text": "water"}
+{"count": 1, "ids": [201], "pos": "nn", "rank": 0.004844192266445348, "text": "testimony"}
+{"count": 2, "ids": [208], "pos": "vbg", "rank": 0.0047509969795329725, "text": "migrating"}
+{"count": 2, "ids": [172], "pos": "nn", "rank": 0.004737685169913684, "text": "angle"}
+{"count": 1, "ids": [152], "pos": "vbn", "rank": 0.004662417059670584, "text": "reduced"}
+{"count": 2, "ids": [121], "pos": "vbg", "rank": 0.004660385286248708, "text": "blowing"}
+{"count": 2, "ids": [154], "pos": "nn", "rank": 0.00458143997798689, "text": "obstacle"}
+{"count": 2, "ids": [56], "pos": "vbn", "rank": 0.0044330630059078715, "text": "built"}
+{"count": 1, "ids": [136], "pos": "vbg", "rank": 0.004389448517585975, "text": "encountering"}
+{"count": 1, "ids": [226], "pos": "np", "rank": 0.00436928074337039, "text": "fences"}
+{"count": 2, "ids": [159], "pos": "vb", "rank": 0.004268467539914376, "text": "collect"}
+{"count": 1, "ids": [144], "pos": "nn", "rank": 0.004259679460757987, "text": "vegetation"}
+{"count": 1, "ids": [158], "pos": "nns", "rank": 0.004245185120050737, "text": "mulates"}
+{"count": 1, "ids": [151], "pos": "nn", "rank": 0.004133898462111729, "text": "shadow"}
+{"count": 1, "ids": [113, 114], "pos": "np", "rank": 0.0038851155459022077, "text": "efficient trap"}
+{"count": 1, "ids": [139, 140], "pos": "np", "rank": 0.0038851155459022077, "text": "good example"}
+{"count": 1, "ids": [209, 210], "pos": "np", "rank": 0.0038851155459022077, "text": "michael collier"}
+{"count": 1, "ids": [219, 220], "pos": "np", "rank": 0.0038851155459022077, "text": "middle east"}
+{"count": 1, "ids": [106], "pos": "vbg", "rank": 0.0038712847228960885, "text": "imposing"}
+{"count": 1, "ids": [214], "pos": "vbg", "rank": 0.0037806286583942877, "text": "advancing"}
+{"count": 1, "ids": [143], "pos": "nn", "rank": 0.0037764709170067996, "text": "clump"}
+{"count": 1, "ids": [190], "pos": "vbn", "rank": 0.0037764709170067996, "text": "buried"}
+{"count": 1, "ids": [189], "pos": "nn", "rank": 0.0036906176110122054, "text": "windward"}
+{"count": 1, "ids": [215], "pos": "vbn", "rank": 0.0036906176110122054, "text": "irrigated"}
+{"count": 1, "ids": [118], "pos": "vb", "rank": 0.003688892379920272, "text": "accumulate"}
+{"count": 1, "ids": [150], "pos": "vbg", "rank": 0.003628901442239432, "text": "leaving"}
+{"count": 1, "ids": [133], "pos": "vbz", "rank": 0.0035768305568045764, "text": "grows"}
+{"count": 1, "ids": [225], "pos": "vbg", "rank": 0.003539911400363908, "text": "encroaching"}
+{"count": 1, "ids": [184], "pos": "vbn", "rank": 0.0035218078492939165, "text": "inclined"}
+{"count": 2, "ids": [131], "pos": "vbn", "rank": 0.0034741596582267545, "text": "deposited"}
+{"count": 2, "ids": [222], "pos": "nn", "rank": 0.003429384990310096, "text": "oil"}
+{"count": 1, "ids": [224], "pos": "vbn", "rank": 0.0034258682178776754, "text": "protected"}
+{"count": 1, "ids": [127], "pos": "nn", "rank": 0.0034029869067725878, "text": "mound"}
+{"count": 1, "ids": [102], "pos": "vbz", "rank": 0.0033910642338661804, "text": "drops"}
+{"count": 1, "ids": [237], "pos": "nn", "rank": 0.0033848146417760584, "text": "problem"}
+{"count": 1, "ids": [44], "pos": "vbp", "rank": 0.003382979434197984, "text": "form"}
+{"count": 1, "ids": [171], "pos": "vbz", "rank": 0.003288066261717087, "text": "maintains"}
+{"count": 1, "ids": [180], "pos": "nns", "rank": 0.003288066261717087, "text": "results"}
+{"count": 1, "ids": [110], "pos": "vbz", "rank": 0.0032673396825188047, "text": "falls"}
+{"count": 1, "ids": [165], "pos": "nn", "rank": 0.0032597488739874087, "text": "gravity"}
+{"count": 2, "ids": [98], "pos": "nns", "rank": 0.00323928151754856, "text": "cases"}
+{"count": 1, "ids": [223], "pos": "nns", "rank": 0.003157659088374383, "text": "rigs"}
+{"count": 1, "ids": [156], "pos": "nn", "rank": 0.00315100773991597, "text": "zone"}
+{"count": 1, "ids": [204], "pos": "np", "rank": 0.002992567947835589, "text": "walls"}
+{"count": 1, "ids": [146], "pos": "vbz", "rank": 0.002991196726459049, "text": "sweeps"}
+{"count": 1, "ids": [132], "pos": "nn", "rank": 0.002972767471875828, "text": "silt"}
+{"count": 1, "ids": [120], "pos": "nn", "rank": 0.0029694891765997284, "text": "supply"}
+{"count": 1, "ids": [126], "pos": "nn", "rank": 0.002768169877131897, "text": "time"}
+{"count": 1, "ids": [228], "pos": "vb", "rank": 0.002746840423072176, "text": "stop"}
+{"count": 1, "ids": [236], "pos": "vb", "rank": 0.002746840423072176, "text": "pose"}
+{"count": 1, "ids": [97], "pos": "nn", "rank": 0.0027190805443585687, "text": "continas"}
+{"count": 1, "ids": [178], "pos": "vbn", "rank": 0.0027190805443585687, "text": "coupled"}
+{"count": 1, "ids": [211], "pos": "nnp", "rank": 0.0027012343832460723, "text": "http://goo.gl/m8eybh"}
+{"count": 1, "ids": [200], "pos": "vbp", "rank": 0.002618535987321432, "text": "remain"}
+{"count": 1, "ids": [164], "pos": "nn", "rank": 0.002599816512109488, "text": "pull"}
+{"count": 1, "ids": [234], "pos": "nns", "rank": 0.002599816512109488, "text": "miles"}
+{"count": 1, "ids": [206], "pos": "nnp", "rank": 0.0025921687852670876, "text": "canyon"}
+{"count": 2, "ids": [96], "pos": "nn", "rank": 0.0025590292092209795, "text": "accumulation"}
+{"count": 1, "ids": [232, 226], "pos": "np", "rank": 0.002184640371685195, "text": "tive fences"}
+{"count": 1, "ids": [205], "pos": "nnp", "rank": 0.002132226925524846, "text": "zion"}
+{"count": 1, "ids": [203], "pos": "np", "rank": 0.002100020349768971, "text": "sandstone"}
+{"count": 1, "ids": [117], "pos": "vbz", "rank": 0.0019940976238713333, "text": "begins"}
+{"count": 1, "ids": [153], "pos": "nn", "rank": 0.0019940976238713333, "text": "accubehind"}
+{"count": 2, "ids": [177], "pos": "vbz", "rank": 0.0019940976238713333, "text": "continues"}
+{"count": 1, "ids": [114], "pos": "nn", "rank": 0.0019425577729511039, "text": "trap"}
+{"count": 1, "ids": [116], "pos": "vbz", "rank": 0.0019425577729511039, "text": "diminishes"}
+{"count": 1, "ids": [140], "pos": "nn", "rank": 0.0019425577729511039, "text": "example"}
+{"count": 1, "ids": [148], "pos": "nn", "rank": 0.0019425577729511039, "text": "saltation"}
+{"count": 1, "ids": [167], "pos": "nn", "rank": 0.0019425577729511039, "text": "leeward"}
+{"count": 1, "ids": [210], "pos": "nnp", "rank": 0.0019425577729511039, "text": "collier"}
+{"count": 1, "ids": [219], "pos": "nnp", "rank": 0.0019425577729511039, "text": "middle"}
+{"count": 1, "ids": [220], "pos": "nnp", "rank": 0.001875622279065279, "text": "east"}
+{"count": 1, "ids": [233], "pos": "vbp", "rank": 0.0018676728853101096, "text": "extend"}
+{"count": 1, "ids": [99], "pos": "vbg", "rank": 0.0017383665726518858, "text": "running"}
+{"count": 1, "ids": [231], "pos": "nn", "rank": 0.0014962839739177944, "text": "protecslope"}
+{"count": 1, "ids": [115], "pos": "nn", "rank": 0.0010500101748844855, "text": "transport"}
+{"count": 1, "ids": [147], "pos": "nn", "rank": 0.0010500101748844855, "text": "side"}
+{"count": 1, "ids": [161], "pos": "nn", "rank": 0.0010500101748844855, "text": "front"}
+{"count": 1, "ids": [162], "pos": "nn", "rank": 0.0010500101748844855, "text": "saltating"}
+{"count": 1, "ids": [166], "pos": "nn", "rank": 0.0010500101748844855, "text": "way"}
+{"count": 1, "ids": [173], "pos": "nns", "rank": 0.0010500101748844855, "text": "degrees"}
+{"count": 1, "ids": [185], "pos": "vbg", "rank": 0.0010500101748844855, "text": "sloping"}
+{"count": 1, "ids": [90], "pos": "nnp", "rank": 0.0010500101748844855, "text": "monument"}
+{"count": 1, "ids": [209], "pos": "nnp", "rank": 0.0010500101748844855, "text": "michael"}
+{"count": 1, "ids": [212], "pos": "nns", "rank": 0.0010500101748844855, "text": "areas"}
+{"count": 1, "ids": [218], "pos": "nns", "rank": 0.0010500101748844855, "text": "portions"}
+{"count": 1, "ids": [230], "pos": "nnp", "rank": 0.0010500101748844855, "text": "kuwait"}
+{"count": 1, "ids": [57], "pos": "nns", "rank": 0.0010500101748844855, "text": "kilometers"}

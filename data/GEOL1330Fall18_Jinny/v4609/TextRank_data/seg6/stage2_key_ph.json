@@ -1,0 +1,108 @@
+{"count": 1, "ids": [509, 145, 435], "pos": "np", "rank": 0.057948289046937565, "text": "parent rock changes"}
+{"count": 1, "ids": [492], "pos": "np", "rank": 0.03319436200990886, "text": "temperatures"}
+{"count": 1, "ids": [145, 499], "pos": "np", "rank": 0.028974144523468782, "text": "rocks metamorphism"}
+{"count": 1, "ids": [496, 530], "pos": "np", "rank": 0.02840412918748157, "text": "mica flakes"}
+{"count": 2, "ids": [38, 79], "pos": "np", "rank": 0.02584518549125095, "text": "clay minerals"}
+{"count": 1, "ids": [500, 499], "pos": "np", "rank": 0.025437784810917307, "text": "alters metamorphism"}
+{"count": 1, "ids": [536, 44], "pos": "np", "rank": 0.025392913988972737, "text": "denser forms"}
+{"count": 2, "ids": [496], "pos": "np", "rank": 0.025348283826328175, "text": "mica"}
+{"count": 1, "ids": [192, 145], "pos": "np", "rank": 0.024528733564092187, "text": "sedimentary rocks"}
+{"count": 2, "ids": [510, 511], "pos": "np", "rank": 0.021800476416877313, "text": "metamorphic grade"}
+{"count": 2, "ids": [145], "pos": "np", "rank": 0.019316096348979187, "text": "rock"}
+{"count": 1, "ids": [526, 539, 540], "pos": "np", "rank": 0.019303670545208367, "text": "compact crystalline structures"}
+{"count": 1, "ids": [508, 463], "pos": "np", "rank": 0.01714653523376923, "text": "banded appearance"}
+{"count": 1, "ids": [516, 510, 517], "pos": "np", "rank": 0.016967970747471615, "text": "low-grade metamorphic environments"}
+{"count": 1, "ids": [264, 490], "pos": "np", "rank": 0.014438082002682734, "text": "surface conditions"}
+{"count": 1, "ids": [530], "pos": "nns", "rank": 0.014202064593740784, "text": "flakes"}
+{"count": 1, "ids": [468, 330], "pos": "np", "rank": 0.013582002344714407, "text": "igneous activity"}
+{"count": 1, "ids": [503, 459], "pos": "np", "rank": 0.013249520723451345, "text": "larger crystals"}
+{"count": 1, "ids": [527, 528], "pos": "np", "rank": 0.013038196161069123, "text": "tiny chlosediment"}
+{"count": 5, "ids": [79], "pos": "nns", "rank": 0.012922592745625475, "text": "minerals"}
+{"count": 1, "ids": [79, 494], "pos": "np", "rank": 0.012922592745625475, "text": "minerals chlorite"}
+{"count": 3, "ids": [44], "pos": "nn", "rank": 0.012696456994486368, "text": "form"}
+{"count": 1, "ids": [435, 522], "pos": "np", "rank": 0.012191307540823173, "text": "change phism"}
+{"count": 2, "ids": [524], "pos": "np", "rank": 0.01210059800890436, "text": "pressures"}
+{"count": 1, "ids": [495], "pos": "np", "rank": 0.011979575378582255, "text": "muscovite"}
+{"count": 1, "ids": [533, 145], "pos": "np", "rank": 0.011589657809387513, "text": "greater-sufficient rocks"}
+{"count": 4, "ids": [435], "pos": "vb", "rank": 0.011374462666625534, "text": "change"}
+{"count": 1, "ids": [559, 560], "pos": "np", "rank": 0.011032184374408801, "text": "giant vise"}
+{"count": 1, "ids": [551], "pos": "np", "rank": 0.010929147980842472, "text": "planes"}
+{"count": 1, "ids": [505, 506, 507], "pos": "np", "rank": 0.010329537797895635, "text": "formaa distinct layered"}
+{"count": 4, "ids": [509], "pos": "nn", "rank": 0.01015680290949948, "text": "parent"}
+{"count": 3, "ids": [509, 145], "pos": "np", "rank": 0.01015680290949948, "text": "parent rock"}
+{"count": 1, "ids": [510, 145], "pos": "np", "rank": 0.009658048174489594, "text": "metamorphic rock"}
+{"count": 1, "ids": [540], "pos": "nns", "rank": 0.009651835272604183, "text": "structures"}
+{"count": 1, "ids": [543, 79], "pos": "np", "rank": 0.00929919164925489, "text": "new minerals"}
+{"count": 2, "ids": [532], "pos": "vbz", "rank": 0.008978538255636952, "text": "involves"}
+{"count": 1, "ids": [553], "pos": "nns", "rank": 0.00889230595822862, "text": "vesicles"}
+{"count": 1, "ids": [526], "pos": "vb", "rank": 0.008889187200940566, "text": "compact"}
+{"count": 1, "ids": [79, 535], "pos": "np", "rank": 0.008836468388803784, "text": "mineral matter"}
+{"count": 1, "ids": [463], "pos": "nn", "rank": 0.008573267616884615, "text": "appearance"}
+{"count": 2, "ids": [340], "pos": "vbn", "rank": 0.008487972588020498, "text": "transformed"}
+{"count": 3, "ids": [499], "pos": "np", "rank": 0.008479261603639102, "text": "metamorphism"}
+{"count": 1, "ids": [552], "pos": "nns", "rank": 0.008424417274335664, "text": "fossils"}
+{"count": 1, "ids": [513, 514], "pos": "np", "rank": 0.00832405027679396, "text": "complete melting"}
+{"count": 1, "ids": [497, 490], "pos": "np", "rank": 0.008117880333706324, "text": "extreme conditions"}
+{"count": 1, "ids": [520], "pos": "nn", "rank": 0.0081034955649618, "text": "chapter"}
+{"count": 1, "ids": [140], "pos": "nn", "rank": 0.007944508263633592, "text": "example"}
+{"count": 1, "ids": [138, 549], "pos": "np", "rank": 0.007930096117123588, "text": "such features"}
+{"count": 1, "ids": [519], "pos": "vbn", "rank": 0.007502651160908112, "text": "discussed"}
+{"count": 2, "ids": [511], "pos": "nn", "rank": 0.0073518196119945105, "text": "grade"}
+{"count": 2, "ids": [386], "pos": "nns", "rank": 0.00730589337361173, "text": "occurs"}
+{"count": 1, "ids": [22, 561, 510, 145], "pos": "np", "rank": 0.007243536130867196, "text": "entire mass metamorphic rock"}
+{"count": 2, "ids": [490], "pos": "nns", "rank": 0.007219041001341367, "text": "conditions"}
+{"count": 1, "ids": [539], "pos": "nn", "rank": 0.00709521871606374, "text": "crystalline"}
+{"count": 1, "ids": [491], "pos": "nn", "rank": 0.0070478899796959016, "text": "depth"}
+{"count": 1, "ids": [42], "pos": "np", "rank": 0.006890526093524886, "text": "shale"}
+{"count": 1, "ids": [542], "pos": "nn", "rank": 0.006866194237318157, "text": "formation"}
+{"count": 1, "ids": [330], "pos": "nn", "rank": 0.006791001172357204, "text": "activity"}
+{"count": 2, "ids": [517], "pos": "nns", "rank": 0.006659901815308724, "text": "environments"}
+{"count": 1, "ids": [459], "pos": "nns", "rank": 0.006624760361725672, "text": "crystals"}
+{"count": 1, "ids": [528], "pos": "nn", "rank": 0.006519098080534562, "text": "chlosediment"}
+{"count": 1, "ids": [396, 531], "pos": "np", "rank": 0.006406099353177183, "text": "hand samples"}
+{"count": 1, "ids": [548, 499], "pos": "np", "rank": 0.006359446202729327, "text": "high-grade metamorphism"}
+{"count": 2, "ids": [522], "pos": "nn", "rank": 0.0060956537704115864, "text": "phism"}
+{"count": 2, "ids": [521], "pos": "nn", "rank": 0.005718902681210544, "text": "transformation"}
+{"count": 1, "ids": [556], "pos": "vbn", "rank": 0.005666565772234843, "text": "obliterated"}
+{"count": 2, "ids": [493], "pos": "vb", "rank": 0.0056067715789650235, "text": "convert"}
+{"count": 1, "ids": [560], "pos": "nn", "rank": 0.005516092187204401, "text": "vise"}
+{"count": 1, "ids": [485], "pos": "vb", "rank": 0.005499553870650634, "text": "distinguish"}
+{"count": 1, "ids": [264], "pos": "nnp", "rank": 0.00529086384186788, "text": "surface"}
+{"count": 1, "ids": [168], "pos": "vbn", "rank": 0.005264826183453576, "text": "called"}
+{"count": 1, "ids": [515], "pos": "vbn", "rank": 0.00495986282261485, "text": "entered"}
+{"count": 1, "ids": [190], "pos": "vbn", "rank": 0.004915618407422514, "text": "buried"}
+{"count": 1, "ids": [538], "pos": "nn", "rank": 0.004900707044223468, "text": "transition"}
+{"count": 1, "ids": [501], "pos": "nn", "rank": 0.004836446079109379, "text": "range"}
+{"count": 1, "ids": [550], "pos": "nn", "rank": 0.004818626312858038, "text": "bedding"}
+{"count": 1, "ids": [544], "pos": "vbg", "rank": 0.004805922796991796, "text": "preexisting"}
+{"count": 1, "ids": [105], "pos": "vbz", "rank": 0.00479933620610127, "text": "becomes"}
+{"count": 1, "ids": [536], "pos": "nn", "rank": 0.004707449977464698, "text": "denser"}
+{"count": 1, "ids": [518], "pos": "nn", "rank": 0.004561708065431689, "text": "realm"}
+{"count": 1, "ids": [535], "pos": "nn", "rank": 0.004418234194401892, "text": "matter"}
+{"count": 1, "ids": [431], "pos": "vbg", "rank": 0.004082982485828993, "text": "approaching"}
+{"count": 1, "ids": [549], "pos": "nns", "rank": 0.003965048058561794, "text": "features"}
+{"count": 1, "ids": [537], "pos": "vbg", "rank": 0.0037283870585509407, "text": "illustrating"}
+{"count": 1, "ids": [545], "pos": "vbz", "rank": 0.003712973805268522, "text": "causes"}
+{"count": 1, "ids": [506], "pos": "nn", "rank": 0.0036244100715878674, "text": "distinct"}
+{"count": 2, "ids": [38], "pos": "nn", "rank": 0.0036203459070583565, "text": "clay"}
+{"count": 1, "ids": [525], "pos": "vbz", "rank": 0.0033244255607523692, "text": "acts"}
+{"count": 1, "ids": [504], "pos": "vbn", "rank": 0.0032030496765885915, "text": "experienced"}
+{"count": 1, "ids": [531], "pos": "nns", "rank": 0.0032030496765885915, "text": "samples"}
+{"count": 1, "ids": [338], "pos": "vbd", "rank": 0.0032030496765885915, "text": "existed"}
+{"count": 1, "ids": [547], "pos": "vbn", "rank": 0.0032017235281301044, "text": "determined"}
+{"count": 1, "ids": [558], "pos": "vbn", "rank": 0.0032017235281301044, "text": "placed"}
+{"count": 1, "ids": [17], "pos": "vbg", "rank": 0.00299060008619392, "text": "producing"}
+{"count": 1, "ids": [502], "pos": "nn", "rank": 0.0029628439315339417, "text": "texture"}
+{"count": 1, "ids": [200], "pos": "vbz", "rank": 0.0029628439315339417, "text": "remains"}
+{"count": 1, "ids": [514], "pos": "nn", "rank": 0.0029107429343992477, "text": "melting"}
+{"count": 1, "ids": [546], "pos": "nn", "rank": 0.0029107429343992477, "text": "identity"}
+{"count": 1, "ids": [529], "pos": "nn", "rank": 0.00258858480619309, "text": "rite"}
+{"count": 1, "ids": [500], "pos": "vbz", "rank": 0.0025629950587295965, "text": "alters"}
+{"count": 1, "ids": [554], "pos": "vbz", "rank": 0.0025629950587295965, "text": "means"}
+{"count": 1, "ids": [262], "pos": "vbp", "rank": 0.001731368167470033, "text": "lie"}
+{"count": 1, "ids": [512], "pos": "vbg", "rank": 0.001731368167470033, "text": "ing"}
+{"count": 1, "ids": [523], "pos": "vbg", "rank": 0.001731368167470033, "text": "confining"}
+{"count": 1, "ids": [396], "pos": "nn", "rank": 0.001731368167470033, "text": "hand"}
+{"count": 1, "ids": [555], "pos": "nnp", "rank": 0.001731368167470033, "text": "describe"}
+{"count": 1, "ids": [557], "pos": "nn", "rank": 0.001731368167470033, "text": "stress"}
+{"count": 1, "ids": [562], "pos": "vb", "rank": 0.001731368167470033, "text": "define"}

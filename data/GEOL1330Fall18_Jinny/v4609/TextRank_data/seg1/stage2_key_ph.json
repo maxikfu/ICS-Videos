@@ -1,0 +1,87 @@
+{"count": 1, "ids": [45], "pos": "np", "rank": 0.0547915520723603, "text": "cement"}
+{"count": 1, "ids": [12, 13, 14], "pos": "np", "rank": 0.04253423042025582, "text": "important building material"}
+{"count": 1, "ids": [68, 69, 10], "pos": "np", "rank": 0.0401627678629302, "text": "little intrinsic value"}
+{"count": 1, "ids": [1, 2], "pos": "np", "rank": 0.03662514485334125, "text": "natural aggregate"}
+{"count": 1, "ids": [22, 23, 24, 25], "pos": "np", "rank": 0.032077150784808384, "text": "entire nonenergy mining volume"}
+{"count": 1, "ids": [54, 55], "pos": "np", "rank": 0.02848203660856021, "text": "rock-hard substance"}
+{"count": 1, "ids": [45, 52], "pos": "np", "rank": 0.02739577603618015, "text": "cement binds"}
+{"count": 1, "ids": [48], "pos": "np", "rank": 0.02633898915710419, "text": "concrete"}
+{"count": 1, "ids": [85, 86], "pos": "np", "rank": 0.02208510182153022, "text": "local needs"}
+{"count": 1, "ids": [66, 9], "pos": "np", "rank": 0.0218008532242484, "text": "unlimited quantities"}
+{"count": 1, "ids": [33, 12, 13, 14], "pos": "np", "rank": 0.02126711521012791, "text": "other important building materials"}
+{"count": 1, "ids": [10], "pos": "np", "rank": 0.0200813839314651, "text": "value"}
+{"count": 6, "ids": [13], "pos": "nn", "rank": 0.019783049408267354, "text": "building"}
+{"count": 2, "ids": [29, 13, 14], "pos": "np", "rank": 0.019743171623236952, "text": "most building materials"}
+{"count": 1, "ids": [2], "pos": "np", "rank": 0.018312572426670625, "text": "aggregate"}
+{"count": 2, "ids": [5], "pos": "np", "rank": 0.01776128409250104, "text": "stone"}
+{"count": 1, "ids": [81, 82], "pos": "np", "rank": 0.017215709328567776, "text": "quarrying operations"}
+{"count": 1, "ids": [35], "pos": "np", "rank": 0.01717485726800019, "text": "gypsum"}
+{"count": 2, "ids": [25], "pos": "nn", "rank": 0.016038575392404192, "text": "volume"}
+{"count": 1, "ids": [44], "pos": "np", "rank": 0.014876055725263375, "text": "form"}
+{"count": 1, "ids": [53], "pos": "nn", "rank": 0.01442768436899938, "text": "mixture"}
+{"count": 2, "ids": [24], "pos": "nn", "rank": 0.014346997815604345, "text": "mining"}
+{"count": 1, "ids": [54], "pos": "nn", "rank": 0.014241018304280106, "text": "rock-hard"}
+{"count": 1, "ids": [55], "pos": "nn", "rank": 0.01408233619446746, "text": "substance"}
+{"count": 1, "ids": [43], "pos": "vbp", "rank": 0.012853666397815504, "text": "combine"}
+{"count": 1, "ids": [42], "pos": "nn", "rank": 0.012799421436778657, "text": "shale"}
+{"count": 1, "ids": [41], "pos": "nn", "rank": 0.012733965482968524, "text": "limestone"}
+{"count": 1, "ids": [40], "pos": "nns", "rank": 0.012656451950188274, "text": "bricks"}
+{"count": 1, "ids": [39], "pos": "nn", "rank": 0.012568003504924997, "text": "tile"}
+{"count": 1, "ids": [38], "pos": "nn", "rank": 0.012464935368626182, "text": "clay"}
+{"count": 1, "ids": [36], "pos": "nn", "rank": 0.012196531969813988, "text": "plaster"}
+{"count": 1, "ids": [78, 79], "pos": "np", "rank": 0.011880466005127986, "text": "industrial minerals"}
+{"count": 1, "ids": [86], "pos": "nns", "rank": 0.01104255091076511, "text": "needs"}
+{"count": 2, "ids": [9], "pos": "nns", "rank": 0.0109004266121242, "text": "quantities"}
+{"count": 1, "ids": [14], "pos": "np", "rank": 0.010633557605063956, "text": "materials"}
+{"count": 1, "ids": [94], "pos": "np", "rank": 0.010540021492404664, "text": "distance"}
+{"count": 1, "ids": [91, 92], "pos": "np", "rank": 0.010060459457399999, "text": "transportation costs"}
+{"count": 1, "ids": [47], "pos": "nn", "rank": 0.009808049784486609, "text": "making"}
+{"count": 2, "ids": [17], "pos": "vbn", "rank": 0.0093794009291337, "text": "produced"}
+{"count": 1, "ids": [51], "pos": "nn", "rank": 0.009014578655697367, "text": "strength"}
+{"count": 1, "ids": [82], "pos": "nns", "rank": 0.008607854664283888, "text": "operations"}
+{"count": 1, "ids": [75], "pos": "vbd", "rank": 0.008524838027836963, "text": "processed"}
+{"count": 1, "ids": [83], "pos": "vbn", "rank": 0.008389647520917944, "text": "undertaken"}
+{"count": 1, "ids": [58, 59], "pos": "np", "rank": 0.00814230801191566, "text": "fourlane highway"}
+{"count": 1, "ids": [32], "pos": "nns", "rank": 0.007973195929755044, "text": "projects"}
+{"count": 1, "ids": [52], "pos": "nns", "rank": 0.007798164236430751, "text": "binds"}
+{"count": 1, "ids": [93], "pos": "vbp", "rank": 0.007751562659120416, "text": "limit"}
+{"count": 1, "ids": [74], "pos": "nn", "rank": 0.007704999280075028, "text": "ground"}
+{"count": 1, "ids": [7], "pos": "nn", "rank": 0.0076683231831534415, "text": "gravel"}
+{"count": 1, "ids": [28], "pos": "np", "rank": 0.0073144155982285295, "text": "construction"}
+{"count": 2, "ids": [60], "pos": "vbz", "rank": 0.007149606749853645, "text": "requires"}
+{"count": 1, "ids": [34], "pos": "vbp", "rank": 0.006874125049164267, "text": "include"}
+{"count": 1, "ids": [64], "pos": "vbn", "rank": 0.006740145618059215, "text": "distributed"}
+{"count": 1, "ids": [73], "pos": "vbn", "rank": 0.006740145618059215, "text": "removed"}
+{"count": 1, "ids": [6], "pos": "nn", "rank": 0.006697127540466603, "text": "sand"}
+{"count": 3, "ids": [18], "pos": "nns", "rank": 0.006362443932671231, "text": "tons"}
+{"count": 1, "ids": [63], "pos": "np", "rank": 0.006344657566838354, "text": "house"}
+{"count": 1, "ids": [76], "pos": "vbn", "rank": 0.006242722418592236, "text": "compared"}
+{"count": 1, "ids": [77], "pos": "nns", "rank": 0.006242722418592236, "text": "metals"}
+{"count": 1, "ids": [81], "pos": "vbg", "rank": 0.006040660714795097, "text": "quarrying"}
+{"count": 1, "ids": [79], "pos": "nns", "rank": 0.005940233002563993, "text": "minerals"}
+{"count": 1, "ids": [15, 16], "pos": "np", "rank": 0.00563091270407486, "text": "united states"}
+{"count": 1, "ids": [70, 71], "pos": "np", "rank": 0.00563091270407486, "text": "economic worth"}
+{"count": 1, "ids": [87, 88], "pos": "np", "rank": 0.00563091270407486, "text": "special types"}
+{"count": 1, "ids": [84], "pos": "vb", "rank": 0.00554127703697836, "text": "satisfy"}
+{"count": 1, "ids": [92], "pos": "nns", "rank": 0.005030229728699999, "text": "costs"}
+{"count": 1, "ids": [20], "pos": "vbz", "rank": 0.004857949351345616, "text": "represents"}
+{"count": 1, "ids": [95], "pos": "vbn", "rank": 0.004731450166901583, "text": "moved"}
+{"count": 1, "ids": [31], "pos": "vbz", "rank": 0.004309908837003766, "text": "works"}
+{"count": 1, "ids": [3], "pos": "vbz", "rank": 0.004230532702364599, "text": "consists"}
+{"count": 1, "ids": [59], "pos": "nn", "rank": 0.00407115400595783, "text": "highway"}
+{"count": 1, "ids": [89], "pos": "nn", "rank": 0.004012038633132995, "text": "cut"}
+{"count": 1, "ids": [90], "pos": "nns", "rank": 0.0036572077991142648, "text": "monuments"}
+{"count": 1, "ids": [23], "pos": "nn", "rank": 0.0036131778727678068, "text": "nonenergy"}
+{"count": 1, "ids": [91], "pos": "nn", "rank": 0.0035300021091517987, "text": "transportation"}
+{"count": 1, "ids": [19], "pos": "nn", "rank": 0.0033908228526507815, "text": "year"}
+{"count": 1, "ids": [50], "pos": "vbz", "rank": 0.0033908228526507815, "text": "gives"}
+{"count": 1, "ids": [58], "pos": "nn", "rank": 0.003172328783419177, "text": "fourlane"}
+{"count": 1, "ids": [16], "pos": "nnp", "rank": 0.00281545635203743, "text": "states"}
+{"count": 1, "ids": [57], "pos": "nns", "rank": 0.00281545635203743, "text": "kilometers"}
+{"count": 1, "ids": [71], "pos": "nn", "rank": 0.00281545635203743, "text": "worth"}
+{"count": 1, "ids": [88], "pos": "nns", "rank": 0.00281545635203743, "text": "types"}
+{"count": 1, "ids": [8], "pos": "nn", "rank": 0.001975746502323612, "text": "standpoint"}
+{"count": 1, "ids": [15], "pos": "nnp", "rank": 0.001975746502323612, "text": "united"}
+{"count": 1, "ids": [21], "pos": "nn", "rank": 0.001975746502323612, "text": "country"}
+{"count": 1, "ids": [26], "pos": "nn", "rank": 0.001975746502323612, "text": "state"}
+{"count": 2, "ids": [56], "pos": "vbg", "rank": 0.001975746502323612, "text": "building"}

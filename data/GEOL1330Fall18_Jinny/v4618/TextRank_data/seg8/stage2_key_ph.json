@@ -1,0 +1,134 @@
+{"count": 4, "ids": [240], "pos": "np", "rank": 0.04257034351504206, "text": "lava"}
+{"count": 2, "ids": [873, 91], "pos": "np", "rank": 0.027347035305479963, "text": "molten rock"}
+{"count": 1, "ids": [900, 901, 902, 900, 903], "pos": "np", "rank": 0.025645349538950066, "text": "native ameriobsidian arrowhead native cans"}
+{"count": 3, "ids": [385, 872], "pos": "np", "rank": 0.025344354435888974, "text": "large crystals"}
+{"count": 1, "ids": [233], "pos": "np", "rank": 0.02489068535605352, "text": "surface"}
+{"count": 1, "ids": [898], "pos": "np", "rank": 0.023194999721600704, "text": "obsidian"}
+{"count": 3, "ids": [864, 795], "pos": "np", "rank": 0.021491056317789962, "text": "vesicular texture"}
+{"count": 2, "ids": [634], "pos": "np", "rank": 0.020910756710027064, "text": "flow"}
+{"count": 1, "ids": [907], "pos": "np", "rank": 0.019227409750015852, "text": "tools"}
+{"count": 6, "ids": [50], "pos": "vb", "rank": 0.018814179271129595, "text": "form"}
+{"count": 1, "ids": [139, 673, 908], "pos": "np", "rank": 0.018554872911813312, "text": "high silica content"}
+{"count": 1, "ids": [886], "pos": "np", "rank": 0.015398530316780155, "text": "solidifies"}
+{"count": 2, "ids": [178, 884], "pos": "np", "rank": 0.014754884591022846, "text": "gas bubbles"}
+{"count": 1, "ids": [921, 922], "pos": "np", "rank": 0.014494787146036758, "text": "fluid lavas"}
+{"count": 1, "ids": [860, 861], "pos": "np", "rank": 0.014163721558005823, "text": "kilauea volcano"}
+{"count": 1, "ids": [602], "pos": "np", "rank": 0.01415647297519794, "text": "thousands"}
+{"count": 2, "ids": [91], "pos": "np", "rank": 0.013673517652739981, "text": "rocks"}
+{"count": 7, "ids": [872], "pos": "nns", "rank": 0.012672177217944487, "text": "crystals"}
+{"count": 2, "ids": [504, 872], "pos": "np", "rank": 0.012672177217944487, "text": "smaller crystals"}
+{"count": 1, "ids": [806, 770], "pos": "np", "rank": 0.012423682256242661, "text": "different minerals"}
+{"count": 1, "ids": [902], "pos": "np", "rank": 0.011455533959163924, "text": "arrowheads"}
+{"count": 6, "ids": [795], "pos": "nn", "rank": 0.010745528158894981, "text": "texture"}
+{"count": 1, "ids": [878, 795], "pos": "np", "rank": 0.010745528158894981, "text": "porphyritic texture"}
+{"count": 1, "ids": [864, 795, 437, 279], "pos": "np", "rank": 0.010321753093506702, "text": "vesicular texture common features"}
+{"count": 1, "ids": [906], "pos": "np", "rank": 0.010026100561167567, "text": "americans"}
+{"count": 1, "ids": [703, 897], "pos": "np", "rank": 0.010019347486017, "text": "hard edge"}
+{"count": 1, "ids": [183, 882, 91], "pos": "np", "rank": 0.009968747711670464, "text": "many extrusive rocks"}
+{"count": 1, "ids": [893, 924], "pos": "np", "rank": 0.009854185768663721, "text": "glassy skin"}
+{"count": 1, "ids": [755], "pos": "np", "rank": 0.009569594605709091, "text": "crystallization"}
+{"count": 2, "ids": [869], "pos": "vbz", "rank": 0.009540123320874326, "text": "solidifies"}
+{"count": 1, "ids": [264, 867], "pos": "np", "rank": 0.009473928215059681, "text": "small holes"}
+{"count": 1, "ids": [893, 795], "pos": "np", "rank": 0.009459723263530978, "text": "glassy texture"}
+{"count": 3, "ids": [673], "pos": "nn", "rank": 0.009277436455906656, "text": "silica"}
+{"count": 1, "ids": [644], "pos": "nn", "rank": 0.0091835829820017, "text": "ocean"}
+{"count": 1, "ids": [828, 36], "pos": "np", "rank": 0.009163809585997955, "text": "upper zone"}
+{"count": 1, "ids": [878, 91], "pos": "np", "rank": 0.009115678435159986, "text": "porphyritic rocks"}
+{"count": 1, "ids": [885], "pos": "vbp", "rank": 0.009089949002460263, "text": "escape"}
+{"count": 1, "ids": [892, 888], "pos": "np", "rank": 0.009077131639540905, "text": "rapid cooling"}
+{"count": 1, "ids": [866], "pos": "np", "rank": 0.008307328486245309, "text": "vesicles"}
+{"count": 1, "ids": [381], "pos": "nn", "rank": 0.00816207791270211, "text": "material"}
+{"count": 1, "ids": [909, 59], "pos": "np", "rank": 0.007835145205751275, "text": "chainlike structures"}
+{"count": 2, "ids": [836], "pos": "vbn", "rank": 0.00776116321694291, "text": "left"}
+{"count": 1, "ids": [806, 870, 871], "pos": "np", "rank": 0.0077580723592124146, "text": "different environmental conditions"}
+{"count": 1, "ids": [94], "pos": "np", "rank": 0.0076727768726127, "text": "cools"}
+{"count": 1, "ids": [904], "pos": "vbd", "rank": 0.007519851310398203, "text": "chipped"}
+{"count": 1, "ids": [272], "pos": "nns", "rank": 0.007431005610520783, "text": "years"}
+{"count": 2, "ids": [884], "pos": "nns", "rank": 0.007377442295511423, "text": "bubbles"}
+{"count": 1, "ids": [868], "pos": "nns", "rank": 0.007268430489839165, "text": "millions"}
+{"count": 1, "ids": [913, 914], "pos": "np", "rank": 0.007267548192071109, "text": "ionic transport"}
+{"count": 1, "ids": [922], "pos": "nn", "rank": 0.007247393573018379, "text": "lavas"}
+{"count": 1, "ids": [861], "pos": "nn", "rank": 0.007081860779002911, "text": "volcano"}
+{"count": 1, "ids": [899], "pos": "vbn", "rank": 0.0070772876782248615, "text": "prized"}
+{"count": 1, "ids": [881], "pos": "nn", "rank": 0.006863874033839499, "text": "porphyry"}
+{"count": 1, "ids": [64], "pos": "vbz", "rank": 0.006714876270959544, "text": "enters"}
+{"count": 2, "ids": [891], "pos": "vbn", "rank": 0.006568072037452843, "text": "quenched"}
+{"count": 1, "ids": [352], "pos": "nn", "rank": 0.006453737783022307, "text": "pressure"}
+{"count": 1, "ids": [905], "pos": "vbg", "rank": 0.0063968614689678596, "text": "cutting"}
+{"count": 2, "ids": [762], "pos": "nn", "rank": 0.0061309580184398735, "text": "magma"}
+{"count": 1, "ids": [193], "pos": "nns", "rank": 0.0061200074874045475, "text": "temperatures"}
+{"count": 1, "ids": [883], "pos": "np", "rank": 0.006082871475158138, "text": "voids"}
+{"count": 1, "ids": [874], "pos": "nn", "rank": 0.0060736562582677615, "text": "portion"}
+{"count": 1, "ids": [859], "pos": "nnp", "rank": 0.006058707020124817, "text": "hawaii"}
+{"count": 1, "ids": [780], "pos": "vbp", "rank": 0.005799508524341758, "text": "tend"}
+{"count": 1, "ids": [187], "pos": "vb", "rank": 0.00574012918870505, "text": "increase"}
+{"count": 2, "ids": [178], "pos": "nn", "rank": 0.005534350490012475, "text": "gas"}
+{"count": 2, "ids": [211], "pos": "vbn", "rank": 0.005477277901182245, "text": "called"}
+{"count": 2, "ids": [676], "pos": "vb", "rank": 0.0054728554136589365, "text": "become"}
+{"count": 1, "ids": [723, 91], "pos": "np", "rank": 0.005469407061095993, "text": "crystalline rocks"}
+{"count": 1, "ids": [273], "pos": "vbd", "rank": 0.005196141702553419, "text": "made"}
+{"count": 1, "ids": [279], "pos": "nns", "rank": 0.005160876546753351, "text": "features"}
+{"count": 1, "ids": [864], "pos": "nnp", "rank": 0.005111960130662505, "text": "vesicular"}
+{"count": 1, "ids": [894, 785, 386], "pos": "np", "rank": 0.0050846666416081866, "text": "excellent conchoidal fracture"}
+{"count": 1, "ids": [897], "pos": "nn", "rank": 0.0050096737430085, "text": "edge"}
+{"count": 1, "ids": [924], "pos": "nn", "rank": 0.0049270928843318604, "text": "skin"}
+{"count": 1, "ids": [270], "pos": "nn", "rank": 0.004914394902335492, "text": "require"}
+{"count": 2, "ids": [877], "pos": "vbn", "rank": 0.004857561358705227, "text": "said"}
+{"count": 1, "ids": [826], "pos": "vb", "rank": 0.004796554533994342, "text": "hold"}
+{"count": 1, "ids": [179], "pos": "vbg", "rank": 0.0047775220133626185, "text": "remaining"}
+{"count": 1, "ids": [794], "pos": "vbn", "rank": 0.0047762551249053665, "text": "termed"}
+{"count": 1, "ids": [867], "pos": "nns", "rank": 0.004736964107529841, "text": "holes"}
+{"count": 3, "ids": [52], "pos": "nn", "rank": 0.004672352400909535, "text": "show"}
+{"count": 2, "ids": [876], "pos": "nn", "rank": 0.004645239798037959, "text": "matrix"}
+{"count": 1, "ids": [918, 822], "pos": "np", "rank": 0.0046324944719039725, "text": "viscous mass"}
+{"count": 1, "ids": [806, 800], "pos": "np", "rank": 0.004616197515454793, "text": "different environment"}
+{"count": 1, "ids": [36], "pos": "nn", "rank": 0.004581904792998978, "text": "zone"}
+{"count": 1, "ids": [879], "pos": "nns", "rank": 0.004558483216998303, "text": "phenocrysts"}
+{"count": 3, "ids": [888], "pos": "nn", "rank": 0.0045385658197704525, "text": "cooling"}
+{"count": 1, "ids": [579, 887], "pos": "np", "rank": 0.0042777733342053885, "text": "spherical openings"}
+{"count": 1, "ids": [165], "pos": "nn", "rank": 0.004204590362723811, "text": "atmosphere"}
+{"count": 1, "ids": [895], "pos": "nn", "rank": 0.0041708708620502724, "text": "ability"}
+{"count": 1, "ids": [910], "pos": "nns", "rank": 0.004156551757748774, "text": "polymers"}
+{"count": 1, "ids": [908], "pos": "nn", "rank": 0.004070244653999673, "text": "content"}
+{"count": 1, "ids": [875], "pos": "vbn", "rank": 0.003992121999719296, "text": "embedded"}
+{"count": 1, "ids": [239], "pos": "vbg", "rank": 0.003983511932662202, "text": "erupting"}
+{"count": 1, "ids": [223], "pos": "vbn", "rank": 0.0038897247313745002, "text": "referred"}
+{"count": 1, "ids": [871], "pos": "nns", "rank": 0.0038790361796062073, "text": "conditions"}
+{"count": 1, "ids": [860], "pos": "nnp", "rank": 0.0038278757237584136, "text": "kilauea"}
+{"count": 1, "ids": [914], "pos": "nn", "rank": 0.0036337740960355547, "text": "transport"}
+{"count": 1, "ids": [865], "pos": "vbn", "rank": 0.0036217752123660183, "text": "hardened"}
+{"count": 1, "ids": [437], "pos": "nnp", "rank": 0.0036217752123660183, "text": "common"}
+{"count": 2, "ids": [27], "pos": "vbp", "rank": 0.0036167713632429747, "text": "generate"}
+{"count": 1, "ids": [542, 862], "pos": "np", "rank": 0.0035683310588082214, "text": "inset photo"}
+{"count": 1, "ids": [228, 376], "pos": "np", "rank": 0.0035683310588082214, "text": "volcanic eruptions"}
+{"count": 1, "ids": [890], "pos": "vbn", "rank": 0.0034735595871378797, "text": "ejected"}
+{"count": 2, "ids": [554], "pos": "vbp", "rank": 0.003472361477770489, "text": "contain"}
+{"count": 2, "ids": [770], "pos": "nn", "rank": 0.0033851355634941355, "text": "mineral"}
+{"count": 1, "ids": [771], "pos": "vbp", "rank": 0.003267195312539559, "text": "crystallize"}
+{"count": 1, "ids": [57], "pos": "nn", "rank": 0.00321383514575315, "text": "example"}
+{"count": 1, "ids": [742], "pos": "vbg", "rank": 0.0031545984032498695, "text": "expanding"}
+{"count": 1, "ids": [494], "pos": "vbz", "rank": 0.003073331578559134, "text": "moves"}
+{"count": 1, "ids": [901], "pos": "nnp", "rank": 0.003069184091221239, "text": "ameriobsidian"}
+{"count": 1, "ids": [915], "pos": "nn", "rank": 0.002989545610277777, "text": "viscosity"}
+{"count": 1, "ids": [702], "pos": "vbp", "rank": 0.002948716545463569, "text": "begin"}
+{"count": 2, "ids": [59], "pos": "nns", "rank": 0.002916994307927606, "text": "structures"}
+{"count": 1, "ids": [386], "pos": "nn", "rank": 0.0025423333208040933, "text": "fracture"}
+{"count": 1, "ids": [301], "pos": "vbz", "rank": 0.002538222662295568, "text": "occurs"}
+{"count": 1, "ids": [813], "pos": "nn", "rank": 0.002538222662295568, "text": "type"}
+{"count": 1, "ids": [741], "pos": "nn", "rank": 0.002491641272677404, "text": "turn"}
+{"count": 1, "ids": [822], "pos": "nn", "rank": 0.0023162472359519863, "text": "mass"}
+{"count": 1, "ids": [912], "pos": "vb", "rank": 0.0023109648195820966, "text": "impede"}
+{"count": 1, "ids": [800], "pos": "nn", "rank": 0.0023080987577273966, "text": "environment"}
+{"count": 1, "ids": [157], "pos": "vbn", "rank": 0.002238611453388138, "text": "produced"}
+{"count": 1, "ids": [917], "pos": "vbn", "rank": 0.0021473588349013475, "text": "extruded"}
+{"count": 1, "ids": [435], "pos": "vbp", "rank": 0.002146160725533957, "text": "exhibit"}
+{"count": 1, "ids": [887], "pos": "np", "rank": 0.0021388866671026943, "text": "openings"}
+{"count": 1, "ids": [880], "pos": "nn", "rank": 0.0020462952638284626, "text": "cryst"}
+{"count": 1, "ids": [723], "pos": "nn", "rank": 0.002020494990964532, "text": "crystalline"}
+{"count": 1, "ids": [138], "pos": "nn", "rank": 0.0017841655294041107, "text": "image"}
+{"count": 1, "ids": [862], "pos": "nn", "rank": 0.0017841655294041107, "text": "photo"}
+{"count": 1, "ids": [376], "pos": "nns", "rank": 0.0017841655294041107, "text": "eruptions"}
+{"count": 1, "ids": [542], "pos": "nn", "rank": 0.0012520838228562354, "text": "inset"}
+{"count": 1, "ids": [115], "pos": "vbg", "rank": 0.0012520838228562354, "text": "resulting"}
+{"count": 1, "ids": [889], "pos": "vb", "rank": 0.0012520838228562354, "text": "preserve"}
+{"count": 1, "ids": [174], "pos": "nn", "rank": 0.0012520838228562354, "text": "contrast"}

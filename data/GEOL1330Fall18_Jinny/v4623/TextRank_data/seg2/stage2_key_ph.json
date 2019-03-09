@@ -1,0 +1,25 @@
+{"count": 1, "ids": [22, 23], "pos": "np", "rank": 0.11747115801844926, "text": "individual minerals"}
+{"count": 1, "ids": [3, 4], "pos": "np", "rank": 0.09161163011262699, "text": "large masses"}
+{"count": 1, "ids": [1, 10], "pos": "np", "rank": 0.08749208012390271, "text": "phaneritic rock"}
+{"count": 1, "ids": [9, 10], "pos": "np", "rank": 0.0693924441725211, "text": "igneous rocks"}
+{"count": 1, "ids": [17], "pos": "np", "rank": 0.06902769457350606, "text": "crystals"}
+{"count": 1, "ids": [23], "pos": "np", "rank": 0.05873557900922463, "text": "minerals"}
+{"count": 1, "ids": [2], "pos": "np", "rank": 0.050822597563345936, "text": "texture"}
+{"count": 1, "ids": [25, 26, 27], "pos": "np", "rank": 0.0495423689252916, "text": "small magnifying lens"}
+{"count": 2, "ids": [4], "pos": "nn", "rank": 0.045805815056313495, "text": "mass"}
+{"count": 1, "ids": [20], "pos": "nn", "rank": 0.040863505539566664, "text": "size"}
+{"count": 1, "ids": [10], "pos": "np", "rank": 0.03469622208626055, "text": "rocks"}
+{"count": 1, "ids": [28], "pos": "vb", "rank": 0.03455154001761535, "text": "aid"}
+{"count": 1, "ids": [6, 7], "pos": "np", "rank": 0.025063750585622116, "text": "great depth"}
+{"count": 1, "ids": [26], "pos": "nn", "rank": 0.0247711844626458, "text": "magnifying"}
+{"count": 1, "ids": [11], "pos": "vbp", "rank": 0.024302798586283803, "text": "exhibit"}
+{"count": 1, "ids": [16], "pos": "vbn", "rank": 0.024220444177830976, "text": "intergrown"}
+{"count": 1, "ids": [21], "pos": "vb", "rank": 0.02383083349405523, "text": "distinguish"}
+{"count": 1, "ids": [13], "pos": "nn", "rank": 0.023345862769598706, "text": "phaner"}
+{"count": 1, "ids": [27], "pos": "nn", "rank": 0.022669918171486076, "text": "lens"}
+{"count": 1, "ids": [15], "pos": "vbp", "rank": 0.01949984340049065, "text": "consist"}
+{"count": 1, "ids": [29], "pos": "vbg", "rank": 0.01943788117734157, "text": "identifying"}
+{"count": 1, "ids": [8], "pos": "vbp", "rank": 0.01540572411072891, "text": "form"}
+{"count": 1, "ids": [7], "pos": "nn", "rank": 0.012531875292811058, "text": "depth"}
+{"count": 1, "ids": [12], "pos": "vbn", "rank": 0.010153563946620503, "text": "described"}
+{"count": 1, "ids": [5], "pos": "nn", "rank": 0.004753684625860305, "text": "crystallize"}

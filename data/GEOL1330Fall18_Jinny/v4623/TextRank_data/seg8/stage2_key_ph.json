@@ -1,0 +1,58 @@
+{"count": 1, "ids": [343, 311, 49], "pos": "np", "rank": 0.09943279063646515, "text": "lowest melting temperatures"}
+{"count": 1, "ids": [23], "pos": "np", "rank": 0.08453335527143134, "text": "minerals"}
+{"count": 1, "ids": [329, 239, 341], "pos": "np", "rank": 0.07719018294451428, "text": "higher melting points"}
+{"count": 1, "ids": [9, 10], "pos": "np", "rank": 0.06326200768936296, "text": "igneous rocks"}
+{"count": 11, "ids": [311], "pos": "nn", "rank": 0.049716395318232576, "text": "melt"}
+{"count": 5, "ids": [238, 239], "pos": "np", "rank": 0.04197297203982245, "text": "partial melting"}
+{"count": 10, "ids": [239], "pos": "nn", "rank": 0.03859509147225714, "text": "melting"}
+{"count": 1, "ids": [350, 239], "pos": "np", "rank": 0.03859509147225714, "text": "incomplete melting"}
+{"count": 2, "ids": [10], "pos": "np", "rank": 0.03163100384468148, "text": "rock"}
+{"count": 5, "ids": [49], "pos": "nns", "rank": 0.029051574199747243, "text": "temperatures"}
+{"count": 1, "ids": [104, 50], "pos": "np", "rank": 0.02533370381337086, "text": "granitic composition"}
+{"count": 1, "ids": [347, 50], "pos": "np", "rank": 0.025160578683193817, "text": "overall composition"}
+{"count": 2, "ids": [366], "pos": "np", "rank": 0.023020241450830467, "text": "yields"}
+{"count": 1, "ids": [371, 10], "pos": "np", "rank": 0.02108733589645432, "text": "ultramafic rocks"}
+{"count": 1, "ids": [69, 10], "pos": "np", "rank": 0.020614985377841993, "text": "intermediate rocks"}
+{"count": 1, "ids": [93, 10], "pos": "np", "rank": 0.02055171971159684, "text": "mafic rocks"}
+{"count": 1, "ids": [343, 239], "pos": "np", "rank": 0.01929754573612857, "text": "lowest melting"}
+{"count": 3, "ids": [155], "pos": "vbn", "rank": 0.018390632463225132, "text": "composed"}
+{"count": 3, "ids": [56], "pos": "nns", "rank": 0.01587378280406468, "text": "magmas"}
+{"count": 1, "ids": [359, 239, 341], "pos": "np", "rank": 0.015438036588902858, "text": "highest melting point"}
+{"count": 4, "ids": [50], "pos": "nn", "rank": 0.012580289341596908, "text": "composition"}
+{"count": 2, "ids": [353, 354], "pos": "np", "rank": 0.012024855468481968, "text": "reaction series"}
+{"count": 1, "ids": [361], "pos": "nns", "rank": 0.011724876636221874, "text": "ions"}
+{"count": 1, "ids": [245, 50], "pos": "np", "rank": 0.011068467709169872, "text": "chemical composition"}
+{"count": 1, "ids": [80], "pos": "vbp", "rank": 0.010830526968959094, "text": "begin"}
+{"count": 1, "ids": [355, 116], "pos": "np", "rank": 0.010612536137461832, "text": "potassium feldspar"}
+{"count": 2, "ids": [341], "pos": "nn", "rank": 0.010472198978803972, "text": "point"}
+{"count": 2, "ids": [93], "pos": "nn", "rank": 0.01027585985579842, "text": "mafic"}
+{"count": 1, "ids": [76], "pos": "nn", "rank": 0.010246688009685286, "text": "silica"}
+{"count": 1, "ids": [190], "pos": "nn", "rank": 0.01024351680145445, "text": "olivine"}
+{"count": 1, "ids": [360], "pos": "vbn", "rank": 0.008241381379479938, "text": "enriched"}
+{"count": 1, "ids": [342], "pos": "nn", "rank": 0.007223559411923575, "text": "mixture"}
+{"count": 1, "ids": [232], "pos": "vb", "rank": 0.006854123868608528, "text": "generate"}
+{"count": 2, "ids": [89], "pos": "vbz", "rank": 0.0066663527080857, "text": "tends"}
+{"count": 1, "ids": [98], "pos": "vbn", "rank": 0.006640549132725753, "text": "known"}
+{"count": 1, "ids": [358], "pos": "nn", "rank": 0.006024710317852509, "text": "top"}
+{"count": 2, "ids": [354], "pos": "nn", "rank": 0.006012427734240984, "text": "series"}
+{"count": 1, "ids": [84], "pos": "nn", "rank": 0.0059624743291765625, "text": "crystallization"}
+{"count": 1, "ids": [351], "pos": "vbz", "rank": 0.0055828817189300444, "text": "produces"}
+{"count": 1, "ids": [369], "pos": "nn", "rank": 0.005554619730343103, "text": "spectrum"}
+{"count": 1, "ids": [346], "pos": "vbz", "rank": 0.005534233854584936, "text": "approaches"}
+{"count": 1, "ids": [245], "pos": "nn", "rank": 0.005534233854584936, "text": "chemical"}
+{"count": 1, "ids": [116], "pos": "nn", "rank": 0.005306268068730916, "text": "feldspar"}
+{"count": 1, "ids": [362, 363], "pos": "np", "rank": 0.005166252871392293, "text": "unmelted portion"}
+{"count": 1, "ids": [348], "pos": "vbn", "rank": 0.004719978712754106, "text": "derived"}
+{"count": 2, "ids": [352], "pos": "nnp", "rank": 0.0042940121792072695, "text": "bowen"}
+{"count": 1, "ids": [345], "pos": "vbz", "rank": 0.004199972378150236, "text": "continues"}
+{"count": 1, "ids": [85], "pos": "nn", "rank": 0.004199972378150236, "text": "process"}
+{"count": 1, "ids": [368], "pos": "nn", "rank": 0.004166442259537778, "text": "end"}
+{"count": 1, "ids": [176], "pos": "vbz", "rank": 0.003933401607830753, "text": "undergoes"}
+{"count": 2, "ids": [353], "pos": "nn", "rank": 0.003837751747088168, "text": "reaction"}
+{"count": 1, "ids": [355], "pos": "nn", "rank": 0.002868274059614667, "text": "potassium"}
+{"count": 1, "ids": [363], "pos": "nn", "rank": 0.0025831264356961465, "text": "portion"}
+{"count": 2, "ids": [295], "pos": "vb", "rank": 0.0020128311878591055, "text": "recall"}
+{"count": 1, "ids": [172], "pos": "nn", "rank": 0.0020128311878591055, "text": "quartz"}
+{"count": 1, "ids": [292], "pos": "vbp", "rank": 0.0020128311878591055, "text": "move"}
+{"count": 2, "ids": [8], "pos": "vbd", "rank": 0.0020128311878591055, "text": "formed"}
+{"count": 1, "ids": [365], "pos": "nns", "rank": 0.0020128311878591055, "text": "fractions"}

@@ -1,0 +1,51 @@
+{"count": 1, "ids": [610, 611], "pos": "np", "rank": 0.055153434829443425, "text": "copper wire"}
+{"count": 1, "ids": [192, 145], "pos": "np", "rank": 0.05422056077272371, "text": "sedimentary rocks"}
+{"count": 1, "ids": [609, 28], "pos": "np", "rank": 0.05396995027299877, "text": "home construction"}
+{"count": 1, "ids": [613], "pos": "np", "rank": 0.04299150582867735, "text": "electricity"}
+{"count": 1, "ids": [467, 79, 443], "pos": "np", "rank": 0.04115568159328402, "text": "common mineral group"}
+{"count": 1, "ids": [13, 602], "pos": "np", "rank": 0.038394589879324634, "text": "building block"}
+{"count": 1, "ids": [614], "pos": "vbz", "rank": 0.03281263518033028, "text": "connects"}
+{"count": 1, "ids": [621, 622], "pos": "np", "rank": 0.03206252326726478, "text": "major constituents"}
+{"count": 1, "ids": [607], "pos": "np", "rank": 0.02766640030626602, "text": "automobiles"}
+{"count": 1, "ids": [610], "pos": "nn", "rank": 0.027576717414721712, "text": "copper"}
+{"count": 1, "ids": [145], "pos": "nns", "rank": 0.027110280386361856, "text": "rocks"}
+{"count": 1, "ids": [28], "pos": "nn", "rank": 0.026984975136499386, "text": "construction"}
+{"count": 1, "ids": [352, 79], "pos": "np", "rank": 0.024549093402161305, "text": "silicate minerals"}
+{"count": 1, "ids": [70, 620], "pos": "np", "rank": 0.023859513206695746, "text": "economic importance"}
+{"count": 1, "ids": [108], "pos": "nns", "rank": 0.02356739041421543, "text": "sediments"}
+{"count": 1, "ids": [608], "pos": "nn", "rank": 0.023405908630109225, "text": "drywall"}
+{"count": 1, "ids": [612], "pos": "vbz", "rank": 0.023310343203999374, "text": "carries"}
+{"count": 1, "ids": [36], "pos": "nn", "rank": 0.022080091497500193, "text": "plaster"}
+{"count": 1, "ids": [467, 604, 79, 443], "pos": "np", "rank": 0.02057784079664201, "text": "common nonsilicate mineral groups"}
+{"count": 1, "ids": [35], "pos": "vb", "rank": 0.020521125599338098, "text": "gypsum"}
+{"count": 1, "ids": [602], "pos": "nn", "rank": 0.019197294939662317, "text": "block"}
+{"count": 1, "ids": [618], "pos": "nns", "rank": 0.01746668330918441, "text": "halides"}
+{"count": 2, "ids": [470], "pos": "nn", "rank": 0.016836065452997782, "text": "crust"}
+{"count": 1, "ids": [572], "pos": "np", "rank": 0.016567210201196125, "text": "silicon"}
+{"count": 1, "ids": [611], "pos": "nn", "rank": 0.016358275735637764, "text": "wire"}
+{"count": 1, "ids": [622], "pos": "nns", "rank": 0.01603126163363239, "text": "constituents"}
+{"count": 1, "ids": [604, 79], "pos": "np", "rank": 0.015476993307786733, "text": "nonsilicate minerals"}
+{"count": 1, "ids": [617], "pos": "vbz", "rank": 0.015092814176079118, "text": "sulfates"}
+{"count": 1, "ids": [337], "pos": "vbn", "rank": 0.015086070114862944, "text": "known"}
+{"count": 2, "ids": [34], "pos": "vbp", "rank": 0.014699029263617361, "text": "include"}
+{"count": 1, "ids": [609], "pos": "nn", "rank": 0.014585882914955052, "text": "home"}
+{"count": 2, "ids": [258], "pos": "nnp", "rank": 0.014351481964433081, "text": "earth"}
+{"count": 1, "ids": [443], "pos": "np", "rank": 0.013718560531094675, "text": "groups"}
+{"count": 1, "ids": [616], "pos": "nns", "rank": 0.012300388739287425, "text": "carbonates"}
+{"count": 3, "ids": [352], "pos": "nns", "rank": 0.012274546701080653, "text": "silicates"}
+{"count": 1, "ids": [606], "pos": "nn", "rank": 0.011929756603347873, "text": "aluminum"}
+{"count": 1, "ids": [620], "pos": "nn", "rank": 0.011929756603347873, "text": "importance"}
+{"count": 1, "ids": [44], "pos": "vb", "rank": 0.010432499778877904, "text": "form"}
+{"count": 1, "ids": [13], "pos": "nn", "rank": 0.010376994518443965, "text": "building"}
+{"count": 1, "ids": [467, 600], "pos": "np", "rank": 0.01026035821699416, "text": "common elements"}
+{"count": 1, "ids": [56], "pos": "vb", "rank": 0.00970754618607433, "text": "build"}
+{"count": 1, "ids": [570], "pos": "nn", "rank": 0.008579257683038865, "text": "oxygen"}
+{"count": 1, "ids": [605], "pos": "nn", "rank": 0.008579257683038865, "text": "iron"}
+{"count": 1, "ids": [473], "pos": "nn", "rank": 0.008283605100598062, "text": "percent"}
+{"count": 1, "ids": [79], "pos": "np", "rank": 0.007410091699319913, "text": "minerals"}
+{"count": 1, "ids": [43], "pos": "vbp", "rank": 0.006817761822962873, "text": "combine"}
+{"count": 2, "ids": [600], "pos": "nns", "rank": 0.00513017910849708, "text": "elements"}
+{"count": 1, "ids": [432], "pos": "vbn", "rank": 0.004637453597848252, "text": "shown"}
+{"count": 1, "ids": [603], "pos": "vbp", "rank": 0.004637453597848252, "text": "account"}
+{"count": 1, "ids": [414], "pos": "vbp", "rank": 0.004637453597848252, "text": "provide"}
+{"count": 1, "ids": [619], "pos": "nn", "rank": 0.004637453597848252, "text": "addition"}

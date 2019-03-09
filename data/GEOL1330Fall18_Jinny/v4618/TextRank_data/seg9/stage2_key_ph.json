@@ -1,0 +1,15 @@
+{"count": 1, "ids": [178, 884], "pos": "np", "rank": 0.1687521060636907, "text": "gas bubbles"}
+{"count": 1, "ids": [864, 795], "pos": "np", "rank": 0.14936836555257071, "text": "vesicular texture"}
+{"count": 1, "ids": [884], "pos": "nns", "rank": 0.08437605303184535, "text": "bubbles"}
+{"count": 1, "ids": [228, 91], "pos": "np", "rank": 0.07650924538109753, "text": "volcanic rocks"}
+{"count": 1, "ids": [795], "pos": "nn", "rank": 0.07468418277628536, "text": "texture"}
+{"count": 1, "ids": [264, 867], "pos": "np", "rank": 0.07128285644580276, "text": "small holes"}
+{"count": 1, "ids": [435], "pos": "vbp", "rank": 0.05915481528799755, "text": "exhibit"}
+{"count": 1, "ids": [178], "pos": "nn", "rank": 0.05628531643323538, "text": "gas"}
+{"count": 1, "ids": [885], "pos": "vbg", "rank": 0.05012831206907459, "text": "escaping"}
+{"count": 1, "ids": [836], "pos": "vbn", "rank": 0.04647434894109531, "text": "left"}
+{"count": 1, "ids": [926], "pos": "np", "rank": 0.0434019439416065, "text": "pumice"}
+{"count": 1, "ids": [91], "pos": "nns", "rank": 0.038254622690548766, "text": "rocks"}
+{"count": 1, "ids": [867], "pos": "nns", "rank": 0.03564142822290138, "text": "holes"}
+{"count": 1, "ids": [866], "pos": "np", "rank": 0.030457602108165446, "text": "vesicles"}
+{"count": 1, "ids": [925], "pos": "nnp", "rank": 0.015228801054082723, "text": "scoria"}
