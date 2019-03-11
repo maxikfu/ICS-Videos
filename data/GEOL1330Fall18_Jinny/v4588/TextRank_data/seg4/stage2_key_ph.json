@@ -1,112 +1,112 @@
-{"count": 1, "ids": [209, 67], "pos": "np", "rank": 0.049314717768349496, "text": "principal use"}
-{"count": 1, "ids": [103, 234], "pos": "np", "rank": 0.03154666795681268, "text": "mineral name"}
-{"count": 4, "ids": [218], "pos": "np", "rank": 0.02844848529644008, "text": "salt"}
-{"count": 2, "ids": [239], "pos": "np", "rank": 0.027751139654391983, "text": "water"}
-{"count": 1, "ids": [253, 254, 255, 256], "pos": "np", "rank": 0.025586507763092514, "text": "conventional underground mining techniques"}
-{"count": 1, "ids": [261], "pos": "np", "rank": 0.024557509110756142, "text": "pipe"}
-{"count": 3, "ids": [196], "pos": "np", "rank": 0.020518679496069225, "text": "sulfur"}
-{"count": 1, "ids": [197, 198], "pos": "np", "rank": 0.020349205205480756, "text": "many uses"}
-{"count": 1, "ids": [197, 213, 214], "pos": "np", "rank": 0.019386384258452564, "text": "many other applications"}
-{"count": 1, "ids": [236, 195], "pos": "np", "rank": 0.018487383630427335, "text": "raw material"}
-{"count": 2, "ids": [207, 208], "pos": "np", "rank": 0.01805157520740246, "text": "sulfuric acid"}
-{"count": 1, "ids": [199, 200, 201], "pos": "np", "rank": 0.016051353405492838, "text": "important nonmetallic resource"}
-{"count": 5, "ids": [103], "pos": "nn", "rank": 0.01577333397840634, "text": "mineral"}
-{"count": 1, "ids": [105, 200, 103], "pos": "np", "rank": 0.01577333397840634, "text": "prominent nonmetallic minerals"}
-{"count": 1, "ids": [197, 249, 250], "pos": "np", "rank": 0.015340604240548426, "text": "many food products"}
-{"count": 3, "ids": [280, 103], "pos": "np", "rank": 0.015259843501691647, "text": "industrial mineral"}
-{"count": 1, "ids": [260], "pos": "np", "rank": 0.01485485107149022, "text": "wells"}
-{"count": 1, "ids": [172, 220], "pos": "np", "rank": 0.01477991055082131, "text": "volcanic areas"}
-{"count": 1, "ids": [228, 229], "pos": "np", "rank": 0.014708480202242347, "text": "natural gas"}
-{"count": 1, "ids": [150], "pos": "np", "rank": 0.01429060354483343, "text": "deposits"}
-{"count": 1, "ids": [151, 218], "pos": "np", "rank": 0.01422424264822004, "text": "common salt"}
-{"count": 1, "ids": [266, 261], "pos": "np", "rank": 0.014049738658739932, "text": "second pipe"}
-{"count": 1, "ids": [215], "pos": "np", "rank": 0.013729812921591701, "text": "sources"}
-{"count": 1, "ids": [256], "pos": "nns", "rank": 0.012793253881546257, "text": "techniques"}
-{"count": 1, "ids": [268, 269], "pos": "np", "rank": 0.010313707515598104, "text": "potassium chloride"}
-{"count": 1, "ids": [276], "pos": "np", "rank": 0.010313000547397463, "text": "sun"}
-{"count": 1, "ids": [216, 196], "pos": "np", "rank": 0.010259339748034613, "text": "native sulfur"}
-{"count": 1, "ids": [151, 31, 221], "pos": "np", "rank": 0.010230525465880293, "text": "common iron sulfides"}
-{"count": 1, "ids": [63, 150], "pos": "np", "rank": 0.009832264138094867, "text": "thick deposits"}
-{"count": 1, "ids": [214], "pos": "nns", "rank": 0.009693192129226282, "text": "applications"}
-{"count": 3, "ids": [279, 195], "pos": "np", "rank": 0.009638742550728285, "text": "building material"}
-{"count": 1, "ids": [241], "pos": "np", "rank": 0.009621899099724128, "text": "highways"}
-{"count": 1, "ids": [190, 237], "pos": "np", "rank": 0.00950199548118552, "text": "chemical industry"}
-{"count": 1, "ids": [231], "pos": "nns", "rank": 0.009494012754563009, "text": "fuels"}
-{"count": 1, "ids": [218, 150], "pos": "np", "rank": 0.009482828432146694, "text": "salt deposit"}
-{"count": 4, "ids": [195], "pos": "nn", "rank": 0.009243691815213667, "text": "material"}
-{"count": 1, "ids": [99], "pos": "vb", "rank": 0.009204794643683374, "text": "make"}
-{"count": 1, "ids": [206], "pos": "nn", "rank": 0.009102943501335297, "text": "industrialization"}
-{"count": 2, "ids": [208], "pos": "nn", "rank": 0.00902578760370123, "text": "acid"}
-{"count": 1, "ids": [230], "pos": "nn", "rank": 0.008863898426265502, "text": "order"}
-{"count": 1, "ids": [205], "pos": "nn", "rank": 0.008749961820967437, "text": "level"}
-{"count": 1, "ids": [246, 247], "pos": "np", "rank": 0.008601288136930207, "text": "basic nutrient"}
-{"count": 1, "ids": [212], "pos": "np", "rank": 0.008502230663251798, "text": "fertilizer"}
-{"count": 1, "ids": [234], "pos": "nn", "rank": 0.008368888714720284, "text": "name"}
-{"count": 2, "ids": [207], "pos": "nn", "rank": 0.008355014359470291, "text": "sulfuric"}
-{"count": 1, "ids": [204], "pos": "nn", "rank": 0.00833538428412378, "text": "country"}
-{"count": 1, "ids": [262], "pos": "vbn", "rank": 0.00831660816429849, "text": "introduced"}
-{"count": 1, "ids": [243], "pos": "nn", "rank": 0.008084871482643407, "text": "ice"}
-{"count": 1, "ids": [199, 215], "pos": "np", "rank": 0.008025676702746419, "text": "important source"}
-{"count": 1, "ids": [86, 202], "pos": "np", "rank": 0.008016185626465302, "text": "large quantities"}
-{"count": 1, "ids": [203], "pos": "nn", "rank": 0.007846087505093169, "text": "indicator"}
-{"count": 1, "ids": [255], "pos": "nn", "rank": 0.007786764224247535, "text": "mining"}
-{"count": 1, "ids": [250], "pos": "nns", "rank": 0.007670302120274213, "text": "products"}
-{"count": 1, "ids": [151, 251], "pos": "np", "rank": 0.0076486332910344484, "text": "common evaporite"}
-{"count": 1, "ids": [270], "pos": "nn", "rank": 0.007587085431958, "text": "potash"}
-{"count": 1, "ids": [220], "pos": "nns", "rank": 0.007389955275410655, "text": "areas"}
-{"count": 1, "ids": [223], "pos": "nn", "rank": 0.007238108741313351, "text": "pyrite"}
-{"count": 2, "ids": [201], "pos": "nn", "rank": 0.007146858965035353, "text": "resource"}
-{"count": 1, "ids": [235, 201], "pos": "np", "rank": 0.007146858965035353, "text": "versatile resource"}
-{"count": 1, "ids": [240], "pos": "np", "rank": 0.006752312525667109, "text": "streets"}
-{"count": 1, "ids": [227], "pos": "nn", "rank": 0.006692574031169521, "text": "oil"}
-{"count": 1, "ids": [143], "pos": "nn", "rank": 0.006305393498192959, "text": "surface"}
+{"count": 1, "ids": [207, 67], "pos": "np", "rank": 0.049314717768349496, "text": "principal use"}
+{"count": 1, "ids": [101, 232], "pos": "np", "rank": 0.03154666795681268, "text": "mineral name"}
+{"count": 4, "ids": [216], "pos": "np", "rank": 0.02844848529644008, "text": "salt"}
+{"count": 2, "ids": [237], "pos": "np", "rank": 0.027751139654391983, "text": "water"}
+{"count": 1, "ids": [251, 252, 253, 254], "pos": "np", "rank": 0.025586507763092514, "text": "conventional underground mining techniques"}
+{"count": 1, "ids": [259], "pos": "np", "rank": 0.024557509110756142, "text": "pipe"}
+{"count": 3, "ids": [194], "pos": "np", "rank": 0.020518679496069225, "text": "sulfur"}
+{"count": 1, "ids": [195, 196], "pos": "np", "rank": 0.020349205205480756, "text": "many uses"}
+{"count": 1, "ids": [195, 211, 212], "pos": "np", "rank": 0.019386384258452564, "text": "many other applications"}
+{"count": 1, "ids": [234, 193], "pos": "np", "rank": 0.018487383630427335, "text": "raw material"}
+{"count": 2, "ids": [205, 206], "pos": "np", "rank": 0.01805157520740246, "text": "sulfuric acid"}
+{"count": 1, "ids": [197, 198, 199], "pos": "np", "rank": 0.016051353405492838, "text": "important nonmetallic resource"}
+{"count": 5, "ids": [101], "pos": "nn", "rank": 0.01577333397840634, "text": "mineral"}
+{"count": 1, "ids": [103, 198, 101], "pos": "np", "rank": 0.01577333397840634, "text": "prominent nonmetallic minerals"}
+{"count": 1, "ids": [195, 247, 248], "pos": "np", "rank": 0.015340604240548426, "text": "many food products"}
+{"count": 3, "ids": [278, 101], "pos": "np", "rank": 0.015259843501691647, "text": "industrial mineral"}
+{"count": 1, "ids": [258], "pos": "np", "rank": 0.01485485107149022, "text": "wells"}
+{"count": 1, "ids": [170, 218], "pos": "np", "rank": 0.01477991055082131, "text": "volcanic areas"}
+{"count": 1, "ids": [226, 227], "pos": "np", "rank": 0.014708480202242347, "text": "natural gas"}
+{"count": 1, "ids": [148], "pos": "np", "rank": 0.01429060354483343, "text": "deposits"}
+{"count": 1, "ids": [149, 216], "pos": "np", "rank": 0.01422424264822004, "text": "common salt"}
+{"count": 1, "ids": [264, 259], "pos": "np", "rank": 0.014049738658739932, "text": "second pipe"}
+{"count": 1, "ids": [213], "pos": "np", "rank": 0.013729812921591701, "text": "sources"}
+{"count": 1, "ids": [254], "pos": "nns", "rank": 0.012793253881546257, "text": "techniques"}
+{"count": 1, "ids": [266, 267], "pos": "np", "rank": 0.010313707515598104, "text": "potassium chloride"}
+{"count": 1, "ids": [274], "pos": "np", "rank": 0.010313000547397463, "text": "sun"}
+{"count": 1, "ids": [214, 194], "pos": "np", "rank": 0.010259339748034613, "text": "native sulfur"}
+{"count": 1, "ids": [149, 31, 219], "pos": "np", "rank": 0.010230525465880293, "text": "common iron sulfides"}
+{"count": 1, "ids": [63, 148], "pos": "np", "rank": 0.009832264138094867, "text": "thick deposits"}
+{"count": 1, "ids": [212], "pos": "nns", "rank": 0.009693192129226282, "text": "applications"}
+{"count": 3, "ids": [277, 193], "pos": "np", "rank": 0.009638742550728285, "text": "building material"}
+{"count": 1, "ids": [239], "pos": "np", "rank": 0.009621899099724128, "text": "highways"}
+{"count": 1, "ids": [188, 235], "pos": "np", "rank": 0.00950199548118552, "text": "chemical industry"}
+{"count": 1, "ids": [229], "pos": "nns", "rank": 0.009494012754563009, "text": "fuels"}
+{"count": 1, "ids": [216, 148], "pos": "np", "rank": 0.009482828432146694, "text": "salt deposit"}
+{"count": 4, "ids": [193], "pos": "nn", "rank": 0.009243691815213667, "text": "material"}
+{"count": 1, "ids": [97], "pos": "vb", "rank": 0.009204794643683374, "text": "make"}
+{"count": 1, "ids": [204], "pos": "nn", "rank": 0.009102943501335297, "text": "industrialization"}
+{"count": 2, "ids": [206], "pos": "nn", "rank": 0.00902578760370123, "text": "acid"}
+{"count": 1, "ids": [228], "pos": "nn", "rank": 0.008863898426265502, "text": "order"}
+{"count": 1, "ids": [203], "pos": "nn", "rank": 0.008749961820967437, "text": "level"}
+{"count": 1, "ids": [244, 245], "pos": "np", "rank": 0.008601288136930207, "text": "basic nutrient"}
+{"count": 1, "ids": [210], "pos": "np", "rank": 0.008502230663251798, "text": "fertilizer"}
+{"count": 1, "ids": [232], "pos": "nn", "rank": 0.008368888714720284, "text": "name"}
+{"count": 2, "ids": [205], "pos": "nn", "rank": 0.008355014359470291, "text": "sulfuric"}
+{"count": 1, "ids": [202], "pos": "nn", "rank": 0.00833538428412378, "text": "country"}
+{"count": 1, "ids": [260], "pos": "vbn", "rank": 0.00831660816429849, "text": "introduced"}
+{"count": 1, "ids": [241], "pos": "nn", "rank": 0.008084871482643407, "text": "ice"}
+{"count": 1, "ids": [197, 213], "pos": "np", "rank": 0.008025676702746419, "text": "important source"}
+{"count": 1, "ids": [84, 200], "pos": "np", "rank": 0.008016185626465302, "text": "large quantities"}
+{"count": 1, "ids": [201], "pos": "nn", "rank": 0.007846087505093169, "text": "indicator"}
+{"count": 1, "ids": [253], "pos": "nn", "rank": 0.007786764224247535, "text": "mining"}
+{"count": 1, "ids": [248], "pos": "nns", "rank": 0.007670302120274213, "text": "products"}
+{"count": 1, "ids": [149, 249], "pos": "np", "rank": 0.0076486332910344484, "text": "common evaporite"}
+{"count": 1, "ids": [268], "pos": "nn", "rank": 0.007587085431958, "text": "potash"}
+{"count": 1, "ids": [218], "pos": "nns", "rank": 0.007389955275410655, "text": "areas"}
+{"count": 1, "ids": [221], "pos": "nn", "rank": 0.007238108741313351, "text": "pyrite"}
+{"count": 2, "ids": [199], "pos": "nn", "rank": 0.007146858965035353, "text": "resource"}
+{"count": 1, "ids": [233, 199], "pos": "np", "rank": 0.007146858965035353, "text": "versatile resource"}
+{"count": 1, "ids": [238], "pos": "np", "rank": 0.006752312525667109, "text": "streets"}
+{"count": 1, "ids": [225], "pos": "nn", "rank": 0.006692574031169521, "text": "oil"}
+{"count": 1, "ids": [141], "pos": "nn", "rank": 0.006305393498192959, "text": "surface"}
 {"count": 1, "ids": [26], "pos": "np", "rank": 0.006199774350192768, "text": "process"}
 {"count": 1, "ids": [44], "pos": "np", "rank": 0.006163566879063867, "text": "percent"}
-{"count": 1, "ids": [224, 225], "pos": "np", "rank": 0.006163566879063867, "text": "recent years"}
-{"count": 3, "ids": [164], "pos": "nn", "rank": 0.005949998476910064, "text": "example"}
-{"count": 1, "ids": [178], "pos": "nn", "rank": 0.005913754393718495, "text": "coal"}
-{"count": 1, "ids": [194], "pos": "vbn", "rank": 0.005583973147905011, "text": "considered"}
-{"count": 1, "ids": [263], "pos": "vbn", "rank": 0.005458425753659568, "text": "pumped"}
-{"count": 1, "ids": [265], "pos": "vbn", "rank": 0.005458425753659568, "text": "brought"}
-{"count": 1, "ids": [249], "pos": "nn", "rank": 0.005368473112938951, "text": "food"}
-{"count": 1, "ids": [248], "pos": "nn", "rank": 0.005321389750041458, "text": "part"}
-{"count": 1, "ids": [252], "pos": "vbn", "rank": 0.005167544574840329, "text": "exploited"}
-{"count": 1, "ids": [269], "pos": "nn", "rank": 0.005156853757799052, "text": "chloride"}
-{"count": 1, "ids": [273], "pos": "vb", "rank": 0.004970799672198044, "text": "serve"}
-{"count": 3, "ids": [279], "pos": "nn", "rank": 0.004819371275364142, "text": "building"}
-{"count": 1, "ids": [229], "pos": "nn", "rank": 0.0047911143784928716, "text": "gas"}
-{"count": 1, "ids": [257, 150], "pos": "np", "rank": 0.004763534514944477, "text": "subsurface deposits"}
-{"count": 1, "ids": [237], "pos": "nn", "rank": 0.00475099774059276, "text": "industry"}
-{"count": 1, "ids": [89], "pos": "vb", "rank": 0.004711980924604957, "text": "produce"}
-{"count": 1, "ids": [267], "pos": "vb", "rank": 0.004595305611944785, "text": "obtain"}
-{"count": 1, "ids": [219], "pos": "nns", "rank": 0.004392020790660887, "text": "domes"}
-{"count": 1, "ids": [247], "pos": "nn", "rank": 0.0043006440684651035, "text": "nutrient"}
-{"count": 1, "ids": [101, 244], "pos": "np", "rank": 0.004275561834897714, "text": "most people"}
-{"count": 1, "ids": [275], "pos": "vbn", "rank": 0.004107574954018265, "text": "harvested"}
-{"count": 1, "ids": [217], "pos": "vbn", "rank": 0.004044253773490072, "text": "associated"}
-{"count": 1, "ids": [271], "pos": "np", "rank": 0.004039561204376946, "text": "seawater"}
-{"count": 1, "ids": [185], "pos": "vb", "rank": 0.004024318234970504, "text": "keep"}
-{"count": 2, "ids": [202], "pos": "nns", "rank": 0.004008092813232651, "text": "quantities"}
-{"count": 1, "ids": [226], "pos": "vbn", "rank": 0.003971879398396438, "text": "removed"}
-{"count": 1, "ids": [277], "pos": "vbz", "rank": 0.0038569151264705036, "text": "evaporates"}
-{"count": 1, "ids": [251], "pos": "nn", "rank": 0.0038243166455172242, "text": "evaporite"}
-{"count": 1, "ids": [258], "pos": "vbn", "rank": 0.0037746721492371467, "text": "tapped"}
-{"count": 1, "ids": [190], "pos": "nn", "rank": 0.0036300751893691276, "text": "chemical"}
-{"count": 1, "ids": [268], "pos": "nn", "rank": 0.003618792033589839, "text": "potassium"}
-{"count": 1, "ids": [221], "pos": "nns", "rank": 0.0034059550186816326, "text": "sulfides"}
-{"count": 1, "ids": [233], "pos": "vbn", "rank": 0.00339789690575004, "text": "known"}
-{"count": 1, "ids": [238], "pos": "vb", "rank": 0.003277873405915892, "text": "soften"}
-{"count": 1, "ids": [210], "pos": "nn", "rank": 0.003099887175096384, "text": "manufacture"}
-{"count": 1, "ids": [225], "pos": "nns", "rank": 0.0030817834395319337, "text": "years"}
-{"count": 1, "ids": [272], "pos": "vbz", "rank": 0.0028782432440678176, "text": "continues"}
-{"count": 1, "ids": [171], "pos": "vbp", "rank": 0.0028326870107875926, "text": "include"}
-{"count": 1, "ids": [177], "pos": "nn", "rank": 0.00267726186511277, "text": "substance"}
-{"count": 1, "ids": [264], "pos": "vbn", "rank": 0.0026734674353292, "text": "dissolved"}
-{"count": 1, "ids": [274], "pos": "nns", "rank": 0.0026232406942520285, "text": "centuries"}
+{"count": 1, "ids": [222, 223], "pos": "np", "rank": 0.006163566879063867, "text": "recent years"}
+{"count": 3, "ids": [162], "pos": "nn", "rank": 0.005949998476910064, "text": "example"}
+{"count": 1, "ids": [176], "pos": "nn", "rank": 0.005913754393718495, "text": "coal"}
+{"count": 1, "ids": [192], "pos": "vbn", "rank": 0.005583973147905011, "text": "considered"}
+{"count": 1, "ids": [261], "pos": "vbn", "rank": 0.005458425753659568, "text": "pumped"}
+{"count": 1, "ids": [263], "pos": "vbn", "rank": 0.005458425753659568, "text": "brought"}
+{"count": 1, "ids": [247], "pos": "nn", "rank": 0.005368473112938951, "text": "food"}
+{"count": 1, "ids": [246], "pos": "nn", "rank": 0.005321389750041458, "text": "part"}
+{"count": 1, "ids": [250], "pos": "vbn", "rank": 0.005167544574840329, "text": "exploited"}
+{"count": 1, "ids": [267], "pos": "nn", "rank": 0.005156853757799052, "text": "chloride"}
+{"count": 1, "ids": [271], "pos": "vb", "rank": 0.004970799672198044, "text": "serve"}
+{"count": 3, "ids": [277], "pos": "nn", "rank": 0.004819371275364142, "text": "building"}
+{"count": 1, "ids": [227], "pos": "nn", "rank": 0.0047911143784928716, "text": "gas"}
+{"count": 1, "ids": [255, 148], "pos": "np", "rank": 0.004763534514944477, "text": "subsurface deposits"}
+{"count": 1, "ids": [235], "pos": "nn", "rank": 0.00475099774059276, "text": "industry"}
+{"count": 1, "ids": [87], "pos": "vb", "rank": 0.004711980924604957, "text": "produce"}
+{"count": 1, "ids": [265], "pos": "vb", "rank": 0.004595305611944785, "text": "obtain"}
+{"count": 1, "ids": [217], "pos": "nns", "rank": 0.004392020790660887, "text": "domes"}
+{"count": 1, "ids": [245], "pos": "nn", "rank": 0.0043006440684651035, "text": "nutrient"}
+{"count": 1, "ids": [99, 242], "pos": "np", "rank": 0.004275561834897714, "text": "most people"}
+{"count": 1, "ids": [273], "pos": "vbn", "rank": 0.004107574954018265, "text": "harvested"}
+{"count": 1, "ids": [215], "pos": "vbn", "rank": 0.004044253773490072, "text": "associated"}
+{"count": 1, "ids": [269], "pos": "np", "rank": 0.004039561204376946, "text": "seawater"}
+{"count": 1, "ids": [183], "pos": "vb", "rank": 0.004024318234970504, "text": "keep"}
+{"count": 2, "ids": [200], "pos": "nns", "rank": 0.004008092813232651, "text": "quantities"}
+{"count": 1, "ids": [224], "pos": "vbn", "rank": 0.003971879398396438, "text": "removed"}
+{"count": 1, "ids": [275], "pos": "vbz", "rank": 0.0038569151264705036, "text": "evaporates"}
+{"count": 1, "ids": [249], "pos": "nn", "rank": 0.0038243166455172242, "text": "evaporite"}
+{"count": 1, "ids": [256], "pos": "vbn", "rank": 0.0037746721492371467, "text": "tapped"}
+{"count": 1, "ids": [188], "pos": "nn", "rank": 0.0036300751893691276, "text": "chemical"}
+{"count": 1, "ids": [266], "pos": "nn", "rank": 0.003618792033589839, "text": "potassium"}
+{"count": 1, "ids": [219], "pos": "nns", "rank": 0.0034059550186816326, "text": "sulfides"}
+{"count": 1, "ids": [231], "pos": "vbn", "rank": 0.00339789690575004, "text": "known"}
+{"count": 1, "ids": [236], "pos": "vb", "rank": 0.003277873405915892, "text": "soften"}
+{"count": 1, "ids": [208], "pos": "nn", "rank": 0.003099887175096384, "text": "manufacture"}
+{"count": 1, "ids": [223], "pos": "nns", "rank": 0.0030817834395319337, "text": "years"}
+{"count": 1, "ids": [270], "pos": "vbz", "rank": 0.0028782432440678176, "text": "continues"}
+{"count": 1, "ids": [169], "pos": "vbp", "rank": 0.0028326870107875926, "text": "include"}
+{"count": 1, "ids": [175], "pos": "nn", "rank": 0.00267726186511277, "text": "substance"}
+{"count": 1, "ids": [262], "pos": "vbn", "rank": 0.0026734674353292, "text": "dissolved"}
+{"count": 1, "ids": [272], "pos": "nns", "rank": 0.0026232406942520285, "text": "centuries"}
 {"count": 1, "ids": [31], "pos": "nn", "rank": 0.002390209126828159, "text": "iron"}
-{"count": 1, "ids": [244], "pos": "nns", "rank": 0.002137780917448857, "text": "people"}
-{"count": 1, "ids": [135], "pos": "nn", "rank": 0.0016657796564073187, "text": "fact"}
+{"count": 1, "ids": [242], "pos": "nns", "rank": 0.002137780917448857, "text": "people"}
+{"count": 1, "ids": [133], "pos": "nn", "rank": 0.0016657796564073187, "text": "fact"}
 {"count": 2, "ids": [58], "pos": "nn", "rank": 0.0016657796564073187, "text": "addition"}
-{"count": 1, "ids": [257], "pos": "nn", "rank": 0.0016657796564073187, "text": "subsurface"}
-{"count": 1, "ids": [278], "pos": "vb", "rank": 0.0016657796564073187, "text": "distinguish"}
-{"count": 1, "ids": [281], "pos": "vb", "rank": 0.0016657796564073187, "text": "list"}
+{"count": 1, "ids": [255], "pos": "nn", "rank": 0.0016657796564073187, "text": "subsurface"}
+{"count": 1, "ids": [276], "pos": "vb", "rank": 0.0016657796564073187, "text": "distinguish"}
+{"count": 1, "ids": [279], "pos": "vb", "rank": 0.0016657796564073187, "text": "list"}

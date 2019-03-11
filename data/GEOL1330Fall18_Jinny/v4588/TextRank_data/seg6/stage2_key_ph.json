@@ -1,101 +1,101 @@
-{"count": 5, "ids": [692], "pos": "np", "rank": 0.09454064310133874, "text": "ions"}
-{"count": 2, "ids": [18, 692], "pos": "np", "rank": 0.05159306403008323, "text": "charged ions"}
-{"count": 2, "ids": [694, 692], "pos": "np", "rank": 0.04727032155066937, "text": "positive ion"}
-{"count": 2, "ids": [688], "pos": "np", "rank": 0.03535999612728281, "text": "atoms"}
-{"count": 1, "ids": [693, 691], "pos": "np", "rank": 0.032379282773160045, "text": "loses electrons"}
-{"count": 2, "ids": [696, 692], "pos": "np", "rank": 0.031513547700446246, "text": "negative ions"}
-{"count": 2, "ids": [179, 687, 411, 700, 269], "pos": "np", "rank": 0.031105459916782017, "text": "solid ionic compound sodium chloride"}
+{"count": 5, "ids": [691], "pos": "np", "rank": 0.09454064310133874, "text": "ions"}
+{"count": 2, "ids": [18, 691], "pos": "np", "rank": 0.05159306403008323, "text": "charged ions"}
+{"count": 2, "ids": [693, 691], "pos": "np", "rank": 0.04727032155066937, "text": "positive ion"}
+{"count": 2, "ids": [687], "pos": "np", "rank": 0.03535999612728281, "text": "atoms"}
+{"count": 1, "ids": [692, 690], "pos": "np", "rank": 0.032379282773160045, "text": "loses electrons"}
+{"count": 2, "ids": [695, 691], "pos": "np", "rank": 0.031513547700446246, "text": "negative ions"}
+{"count": 2, "ids": [177, 686, 410, 699, 267], "pos": "np", "rank": 0.031105459916782017, "text": "solid ionic compound sodium chloride"}
 {"count": 1, "ids": [18], "pos": "np", "rank": 0.025796532015041614, "text": "charges"}
-{"count": 2, "ids": [687, 685], "pos": "np", "rank": 0.02243681686752911, "text": "ionic bond"}
-{"count": 1, "ids": [702, 692], "pos": "np", "rank": 0.021019475036150898, "text": "chlorine ions"}
-{"count": 1, "ids": [700, 692], "pos": "np", "rank": 0.01890812862026775, "text": "sodium ion"}
-{"count": 1, "ids": [723, 95, 724], "pos": "np", "rank": 0.017704783460589645, "text": "overall electrical neutrality"}
-{"count": 1, "ids": [103, 704, 688], "pos": "np", "rank": 0.017679998063641403, "text": "mineral halite atom"}
-{"count": 1, "ids": [716, 18], "pos": "np", "rank": 0.017197688010027745, "text": "opposite charges"}
-{"count": 4, "ids": [697], "pos": "vbn", "rank": 0.017123559680193426, "text": "attracted"}
-{"count": 1, "ids": [355, 728], "pos": "np", "rank": 0.016508824554988345, "text": "hydrogen molecule"}
-{"count": 1, "ids": [695, 691], "pos": "np", "rank": 0.016189641386580023, "text": "gains electrons"}
-{"count": 1, "ids": [665], "pos": "vbn", "rank": 0.015848959432786, "text": "surrounded"}
-{"count": 1, "ids": [269, 692], "pos": "np", "rank": 0.015756773850223123, "text": "chloride ion"}
+{"count": 2, "ids": [686, 684], "pos": "np", "rank": 0.02243681686752911, "text": "ionic bond"}
+{"count": 1, "ids": [701, 691], "pos": "np", "rank": 0.021019475036150898, "text": "chlorine ions"}
+{"count": 1, "ids": [699, 691], "pos": "np", "rank": 0.01890812862026775, "text": "sodium ion"}
+{"count": 1, "ids": [722, 93, 723], "pos": "np", "rank": 0.017704783460589645, "text": "overall electrical neutrality"}
+{"count": 1, "ids": [101, 703, 687], "pos": "np", "rank": 0.017679998063641403, "text": "mineral halite atom"}
+{"count": 1, "ids": [715, 18], "pos": "np", "rank": 0.017197688010027745, "text": "opposite charges"}
+{"count": 4, "ids": [696], "pos": "vbn", "rank": 0.017123559680193426, "text": "attracted"}
+{"count": 1, "ids": [354, 727], "pos": "np", "rank": 0.016508824554988345, "text": "hydrogen molecule"}
+{"count": 1, "ids": [694, 690], "pos": "np", "rank": 0.016189641386580023, "text": "gains electrons"}
+{"count": 1, "ids": [664], "pos": "vbn", "rank": 0.015848959432786, "text": "surrounded"}
+{"count": 1, "ids": [267, 691], "pos": "np", "rank": 0.015756773850223123, "text": "chloride ion"}
 {"count": 1, "ids": [71], "pos": "nns", "rank": 0.014765083373873385, "text": "sides"}
-{"count": 1, "ids": [218], "pos": "np", "rank": 0.0145579442736986, "text": "salt"}
-{"count": 1, "ids": [705, 690, 691], "pos": "np", "rank": 0.013189572531951094, "text": "single valence electron"}
-{"count": 1, "ids": [571, 18], "pos": "np", "rank": 0.012898266007520807, "text": "identical charges"}
-{"count": 1, "ids": [743, 218], "pos": "np", "rank": 0.01278387420124232, "text": "table salt"}
-{"count": 1, "ids": [721, 722], "pos": "np", "rank": 0.012211056037165241, "text": "definite ratio"}
-{"count": 3, "ids": [355, 688], "pos": "np", "rank": 0.011786665375760935, "text": "hydrogen atoms"}
-{"count": 2, "ids": [323], "pos": "np", "rank": 0.011480528560631887, "text": "form"}
-{"count": 1, "ids": [687, 699], "pos": "np", "rank": 0.011218408433764555, "text": "ionic bonding"}
-{"count": 3, "ids": [707], "pos": "nn", "rank": 0.010610632077405592, "text": "attraction"}
-{"count": 4, "ids": [702], "pos": "nn", "rank": 0.010509737518075449, "text": "chlorine"}
-{"count": 1, "ids": [700], "pos": "np", "rank": 0.010368486638927338, "text": "sodium"}
-{"count": 2, "ids": [269], "pos": "nn", "rank": 0.009923626004517322, "text": "chloride"}
-{"count": 5, "ids": [685], "pos": "nn", "rank": 0.009803513713473148, "text": "bond"}
-{"count": 1, "ids": [732, 685], "pos": "np", "rank": 0.009803513713473148, "text": "covalent bond"}
-{"count": 1, "ids": [724], "pos": "nn", "rank": 0.008852391730294822, "text": "neutrality"}
+{"count": 1, "ids": [216], "pos": "np", "rank": 0.0145579442736986, "text": "salt"}
+{"count": 1, "ids": [704, 689, 690], "pos": "np", "rank": 0.013189572531951094, "text": "single valence electron"}
+{"count": 1, "ids": [570, 18], "pos": "np", "rank": 0.012898266007520807, "text": "identical charges"}
+{"count": 1, "ids": [742, 216], "pos": "np", "rank": 0.01278387420124232, "text": "table salt"}
+{"count": 1, "ids": [720, 721], "pos": "np", "rank": 0.012211056037165241, "text": "definite ratio"}
+{"count": 3, "ids": [354, 687], "pos": "np", "rank": 0.011786665375760935, "text": "hydrogen atoms"}
+{"count": 2, "ids": [321], "pos": "np", "rank": 0.011480528560631887, "text": "form"}
+{"count": 1, "ids": [686, 698], "pos": "np", "rank": 0.011218408433764555, "text": "ionic bonding"}
+{"count": 3, "ids": [706], "pos": "nn", "rank": 0.010610632077405592, "text": "attraction"}
+{"count": 4, "ids": [701], "pos": "nn", "rank": 0.010509737518075449, "text": "chlorine"}
+{"count": 1, "ids": [699], "pos": "np", "rank": 0.010368486638927338, "text": "sodium"}
+{"count": 2, "ids": [267], "pos": "nn", "rank": 0.009923626004517322, "text": "chloride"}
+{"count": 5, "ids": [684], "pos": "nn", "rank": 0.009803513713473148, "text": "bond"}
+{"count": 1, "ids": [731, 684], "pos": "np", "rank": 0.009803513713473148, "text": "covalent bond"}
+{"count": 1, "ids": [723], "pos": "nn", "rank": 0.008852391730294822, "text": "neutrality"}
 {"count": 4, "ids": [7], "pos": "vbz", "rank": 0.008259837116377422, "text": "becomes"}
-{"count": 4, "ids": [355], "pos": "nn", "rank": 0.008254412277494173, "text": "hydrogen"}
-{"count": 1, "ids": [43, 690, 691], "pos": "np", "rank": 0.008094820693290011, "text": "more valence electrons"}
-{"count": 1, "ids": [714], "pos": "np", "rank": 0.007930886646930764, "text": "arrangement"}
-{"count": 1, "ids": [711], "pos": "vbn", "rank": 0.006951765112069043, "text": "positioned"}
-{"count": 1, "ids": [713], "pos": "nn", "rank": 0.006728396176666181, "text": "vice"}
-{"count": 1, "ids": [190, 685], "pos": "np", "rank": 0.006535675808982099, "text": "chemical bond"}
-{"count": 2, "ids": [91], "pos": "vbp", "rank": 0.006520672615121626, "text": "consist"}
-{"count": 1, "ids": [691, 738], "pos": "np", "rank": 0.00647585655463201, "text": "electron configuration"}
-{"count": 1, "ids": [743], "pos": "nn", "rank": 0.00639193710062116, "text": "table"}
-{"count": 1, "ids": [719, 714], "pos": "np", "rank": 0.0062839100555487195, "text": "orderly arrangement"}
-{"count": 2, "ids": [689], "pos": "vbz", "rank": 0.006235639124452173, "text": "gives"}
-{"count": 1, "ids": [710], "pos": "vbg", "rank": 0.006235259414473587, "text": "alternating"}
-{"count": 1, "ids": [742], "pos": "nnp", "rank": 0.005995431233042559, "text": "nacl"}
-{"count": 4, "ids": [411], "pos": "nn", "rank": 0.005803394647614373, "text": "compound"}
-{"count": 1, "ids": [708, 687, 411], "pos": "np", "rank": 0.005803394647614373, "text": "neutral ionic compound"}
-{"count": 1, "ids": [720], "pos": "vbn", "rank": 0.005660091730790733, "text": "assembled"}
-{"count": 1, "ids": [470], "pos": "vbz", "rank": 0.005542202034181827, "text": "provides"}
-{"count": 1, "ids": [691], "pos": "np", "rank": 0.0053965471288600075, "text": "electrons"}
-{"count": 1, "ids": [718], "pos": "nn", "rank": 0.00526381340834786, "text": "repulsion"}
-{"count": 1, "ids": [730, 731, 383], "pos": "np", "rank": 0.005257862612894104, "text": "strong attractive force"}
-{"count": 2, "ids": [89], "pos": "vbz", "rank": 0.004927547522557562, "text": "produces"}
-{"count": 1, "ids": [717], "pos": "vbg", "rank": 0.004669998110880492, "text": "minimizing"}
-{"count": 3, "ids": [690], "pos": "nn", "rank": 0.004647373077578003, "text": "valence"}
-{"count": 1, "ids": [351], "pos": "vbz", "rank": 0.004621207073590152, "text": "occurs"}
-{"count": 1, "ids": [687, 411], "pos": "np", "rank": 0.004487363373505822, "text": "ionic compounds"}
-{"count": 2, "ids": [695], "pos": "vbz", "rank": 0.00443983107420028, "text": "gains"}
-{"count": 1, "ids": [703], "pos": "nnp", "rank": 0.004272983140594684, "text": "cl"}
+{"count": 4, "ids": [354], "pos": "nn", "rank": 0.008254412277494173, "text": "hydrogen"}
+{"count": 1, "ids": [43, 689, 690], "pos": "np", "rank": 0.008094820693290011, "text": "more valence electrons"}
+{"count": 1, "ids": [713], "pos": "np", "rank": 0.007930886646930764, "text": "arrangement"}
+{"count": 1, "ids": [710], "pos": "vbn", "rank": 0.006951765112069043, "text": "positioned"}
+{"count": 1, "ids": [712], "pos": "nn", "rank": 0.006728396176666181, "text": "vice"}
+{"count": 1, "ids": [188, 684], "pos": "np", "rank": 0.006535675808982099, "text": "chemical bond"}
+{"count": 2, "ids": [89], "pos": "vbp", "rank": 0.006520672615121626, "text": "consist"}
+{"count": 1, "ids": [690, 737], "pos": "np", "rank": 0.00647585655463201, "text": "electron configuration"}
+{"count": 1, "ids": [742], "pos": "nn", "rank": 0.00639193710062116, "text": "table"}
+{"count": 1, "ids": [718, 713], "pos": "np", "rank": 0.0062839100555487195, "text": "orderly arrangement"}
+{"count": 2, "ids": [688], "pos": "vbz", "rank": 0.006235639124452173, "text": "gives"}
+{"count": 1, "ids": [709], "pos": "vbg", "rank": 0.006235259414473587, "text": "alternating"}
+{"count": 1, "ids": [741], "pos": "nnp", "rank": 0.005995431233042559, "text": "nacl"}
+{"count": 4, "ids": [410], "pos": "nn", "rank": 0.005803394647614373, "text": "compound"}
+{"count": 1, "ids": [707, 686, 410], "pos": "np", "rank": 0.005803394647614373, "text": "neutral ionic compound"}
+{"count": 1, "ids": [719], "pos": "vbn", "rank": 0.005660091730790733, "text": "assembled"}
+{"count": 1, "ids": [469], "pos": "vbz", "rank": 0.005542202034181827, "text": "provides"}
+{"count": 1, "ids": [690], "pos": "np", "rank": 0.0053965471288600075, "text": "electrons"}
+{"count": 1, "ids": [717], "pos": "nn", "rank": 0.00526381340834786, "text": "repulsion"}
+{"count": 1, "ids": [729, 730, 382], "pos": "np", "rank": 0.005257862612894104, "text": "strong attractive force"}
+{"count": 2, "ids": [87], "pos": "vbz", "rank": 0.004927547522557562, "text": "produces"}
+{"count": 1, "ids": [716], "pos": "vbg", "rank": 0.004669998110880492, "text": "minimizing"}
+{"count": 3, "ids": [689], "pos": "nn", "rank": 0.004647373077578003, "text": "valence"}
+{"count": 1, "ids": [350], "pos": "vbz", "rank": 0.004621207073590152, "text": "occurs"}
+{"count": 1, "ids": [686, 410], "pos": "np", "rank": 0.004487363373505822, "text": "ionic compounds"}
+{"count": 2, "ids": [694], "pos": "vbz", "rank": 0.00443983107420028, "text": "gains"}
+{"count": 1, "ids": [702], "pos": "nnp", "rank": 0.004272983140594684, "text": "cl"}
 {"count": 1, "ids": [61], "pos": "vb", "rank": 0.004213556282840721, "text": "change"}
-{"count": 1, "ids": [103], "pos": "nn", "rank": 0.004106757843276866, "text": "mineral"}
-{"count": 1, "ids": [728], "pos": "nn", "rank": 0.004038280876270795, "text": "molecule"}
-{"count": 1, "ids": [722], "pos": "nn", "rank": 0.0038892984176449835, "text": "ratio"}
-{"count": 1, "ids": [741], "pos": "vbn", "rank": 0.0038518648330627433, "text": "shared"}
+{"count": 1, "ids": [101], "pos": "nn", "rank": 0.004106757843276866, "text": "mineral"}
+{"count": 1, "ids": [727], "pos": "nn", "rank": 0.004038280876270795, "text": "molecule"}
+{"count": 1, "ids": [721], "pos": "nn", "rank": 0.0038892984176449835, "text": "ratio"}
+{"count": 1, "ids": [740], "pos": "vbn", "rank": 0.0038518648330627433, "text": "shared"}
 {"count": 2, "ids": [11], "pos": "vbz", "rank": 0.0038301467165845196, "text": "results"}
-{"count": 1, "ids": [727], "pos": "nn", "rank": 0.003733152907553502, "text": "basis"}
-{"count": 1, "ids": [683, 684], "pos": "np", "rank": 0.003689766991175238, "text": "easiest type"}
-{"count": 2, "ids": [725], "pos": "vbz", "rank": 0.003568388816052501, "text": "holds"}
-{"count": 1, "ids": [213, 706], "pos": "np", "rank": 0.0033229559860253914, "text": "other hand"}
-{"count": 1, "ids": [213, 740], "pos": "np", "rank": 0.0033229559860253914, "text": "other words"}
-{"count": 1, "ids": [510], "pos": "nn", "rank": 0.0032306375922189295, "text": "space"}
-{"count": 1, "ids": [699], "pos": "nn", "rank": 0.0032124904235100098, "text": "bonding"}
-{"count": 1, "ids": [701], "pos": "nnp", "rank": 0.0031833403776285437, "text": "na"}
-{"count": 1, "ids": [194], "pos": "vb", "rank": 0.0031103811653163905, "text": "consider"}
-{"count": 1, "ids": [732], "pos": "nn", "rank": 0.002922402203882546, "text": "covalent"}
-{"count": 1, "ids": [726], "pos": "vbn", "rank": 0.0028689461424409517, "text": "understood"}
-{"count": 1, "ids": [686], "pos": "vb", "rank": 0.002683451388334185, "text": "visualize"}
-{"count": 1, "ids": [190], "pos": "nn", "rank": 0.002683451388334185, "text": "chemical"}
-{"count": 1, "ids": [693], "pos": "vbz", "rank": 0.002660811982754676, "text": "loses"}
-{"count": 2, "ids": [383], "pos": "nn", "rank": 0.002628931306447052, "text": "force"}
-{"count": 1, "ids": [164], "pos": "np", "rank": 0.0025893339757256995, "text": "example"}
-{"count": 1, "ids": [733], "pos": "nn", "rank": 0.002514437312794403, "text": "sharing"}
-{"count": 1, "ids": [715], "pos": "vbz", "rank": 0.0024185020910396206, "text": "maximizes"}
-{"count": 1, "ids": [734], "pos": "nn", "rank": 0.0022775856784846412, "text": "pair"}
-{"count": 1, "ids": [621], "pos": "vbg", "rank": 0.0022775856784846412, "text": "approaching"}
-{"count": 1, "ids": [738], "pos": "nn", "rank": 0.0022775856784846412, "text": "configuration"}
-{"count": 1, "ids": [739], "pos": "vb", "rank": 0.0022775856784846412, "text": "occupy"}
-{"count": 1, "ids": [684], "pos": "nn", "rank": 0.001844883495587619, "text": "type"}
-{"count": 1, "ids": [706], "pos": "nn", "rank": 0.0016614779930126957, "text": "hand"}
-{"count": 1, "ids": [740], "pos": "nns", "rank": 0.0016614779930126957, "text": "words"}
-{"count": 1, "ids": [698], "pos": "vb", "rank": 0.0012946669878628498, "text": "join"}
-{"count": 1, "ids": [233], "pos": "vbp", "rank": 0.0012946669878628498, "text": "know"}
-{"count": 1, "ids": [709], "pos": "nnp", "rank": 0.0012946669878628498, "text": "notice"}
-{"count": 1, "ids": [712], "pos": "nn", "rank": 0.0012946669878628498, "text": "manner"}
-{"count": 1, "ids": [735], "pos": "vb", "rank": 0.0012946669878628498, "text": "imagine"}
-{"count": 1, "ids": [736], "pos": "nn", "rank": 0.0012946669878628498, "text": "proton"}
-{"count": 1, "ids": [737], "pos": "vbp", "rank": 0.0012946669878628498, "text": "meet"}
+{"count": 1, "ids": [726], "pos": "nn", "rank": 0.003733152907553502, "text": "basis"}
+{"count": 1, "ids": [682, 683], "pos": "np", "rank": 0.003689766991175238, "text": "easiest type"}
+{"count": 2, "ids": [724], "pos": "vbz", "rank": 0.003568388816052501, "text": "holds"}
+{"count": 1, "ids": [211, 705], "pos": "np", "rank": 0.0033229559860253914, "text": "other hand"}
+{"count": 1, "ids": [211, 739], "pos": "np", "rank": 0.0033229559860253914, "text": "other words"}
+{"count": 1, "ids": [509], "pos": "nn", "rank": 0.0032306375922189295, "text": "space"}
+{"count": 1, "ids": [698], "pos": "nn", "rank": 0.0032124904235100098, "text": "bonding"}
+{"count": 1, "ids": [700], "pos": "nnp", "rank": 0.0031833403776285437, "text": "na"}
+{"count": 1, "ids": [192], "pos": "vb", "rank": 0.0031103811653163905, "text": "consider"}
+{"count": 1, "ids": [731], "pos": "nn", "rank": 0.002922402203882546, "text": "covalent"}
+{"count": 1, "ids": [725], "pos": "vbn", "rank": 0.0028689461424409517, "text": "understood"}
+{"count": 1, "ids": [685], "pos": "vb", "rank": 0.002683451388334185, "text": "visualize"}
+{"count": 1, "ids": [188], "pos": "nn", "rank": 0.002683451388334185, "text": "chemical"}
+{"count": 1, "ids": [692], "pos": "vbz", "rank": 0.002660811982754676, "text": "loses"}
+{"count": 2, "ids": [382], "pos": "nn", "rank": 0.002628931306447052, "text": "force"}
+{"count": 1, "ids": [162], "pos": "np", "rank": 0.0025893339757256995, "text": "example"}
+{"count": 1, "ids": [732], "pos": "nn", "rank": 0.002514437312794403, "text": "sharing"}
+{"count": 1, "ids": [714], "pos": "vbz", "rank": 0.0024185020910396206, "text": "maximizes"}
+{"count": 1, "ids": [733], "pos": "nn", "rank": 0.0022775856784846412, "text": "pair"}
+{"count": 1, "ids": [620], "pos": "vbg", "rank": 0.0022775856784846412, "text": "approaching"}
+{"count": 1, "ids": [737], "pos": "nn", "rank": 0.0022775856784846412, "text": "configuration"}
+{"count": 1, "ids": [738], "pos": "vb", "rank": 0.0022775856784846412, "text": "occupy"}
+{"count": 1, "ids": [683], "pos": "nn", "rank": 0.001844883495587619, "text": "type"}
+{"count": 1, "ids": [705], "pos": "nn", "rank": 0.0016614779930126957, "text": "hand"}
+{"count": 1, "ids": [739], "pos": "nns", "rank": 0.0016614779930126957, "text": "words"}
+{"count": 1, "ids": [697], "pos": "vb", "rank": 0.0012946669878628498, "text": "join"}
+{"count": 1, "ids": [231], "pos": "vbp", "rank": 0.0012946669878628498, "text": "know"}
+{"count": 1, "ids": [708], "pos": "nnp", "rank": 0.0012946669878628498, "text": "notice"}
+{"count": 1, "ids": [711], "pos": "nn", "rank": 0.0012946669878628498, "text": "manner"}
+{"count": 1, "ids": [734], "pos": "vb", "rank": 0.0012946669878628498, "text": "imagine"}
+{"count": 1, "ids": [735], "pos": "nn", "rank": 0.0012946669878628498, "text": "proton"}
+{"count": 1, "ids": [736], "pos": "vbp", "rank": 0.0012946669878628498, "text": "meet"}

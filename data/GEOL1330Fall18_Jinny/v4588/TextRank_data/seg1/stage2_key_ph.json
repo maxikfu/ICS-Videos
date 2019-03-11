@@ -1,88 +1,86 @@
-{"count": 6, "ids": [21, 22], "pos": "np", "rank": 0.06058216837715195, "text": "magnetic field"}
-{"count": 1, "ids": [9], "pos": "np", "rank": 0.05971956996480345, "text": "earth"}
-{"count": 1, "ids": [90, 28], "pos": "np", "rank": 0.03605396593046675, "text": "simple electromagnet"}
-{"count": 1, "ids": [86, 87, 36], "pos": "np", "rank": 0.03204086803508573, "text": "large bar magnet"}
-{"count": 8, "ids": [22], "pos": "nn", "rank": 0.030291084188575974, "text": "field"}
-{"count": 1, "ids": [48, 49, 22], "pos": "np", "rank": 0.030291084188575974, "text": "slow velocimagnetic field"}
-{"count": 1, "ids": [81], "pos": "np", "rank": 0.027116365912580268, "text": "centers"}
-{"count": 1, "ids": [31, 32], "pos": "np", "rank": 0.02627427294093341, "text": "iron nail"}
-{"count": 4, "ids": [20], "pos": "vbz", "rank": 0.025515442091012346, "text": "generates"}
-{"count": 1, "ids": [68], "pos": "np", "rank": 0.025374411835656193, "text": "compasses"}
-{"count": 3, "ids": [3, 4], "pos": "np", "rank": 0.024702329072106476, "text": "outer core"}
-{"count": 1, "ids": [13, 19], "pos": "np", "rank": 0.024397432147728496, "text": "spiral flow"}
-{"count": 1, "ids": [21, 22, 61], "pos": "np", "rank": 0.023710041701697465, "text": "magnetic field change"}
-{"count": 3, "ids": [28], "pos": "nn", "rank": 0.018026982965233376, "text": "electromagnet"}
-{"count": 1, "ids": [29], "pos": "np", "rank": 0.016731922850768775, "text": "wire"}
-{"count": 1, "ids": [65], "pos": "np", "rank": 0.01641628526386175, "text": "sailors"}
-{"count": 1, "ids": [78, 79], "pos": "np", "rank": 0.016268950415942174, "text": "indian ocean"}
-{"count": 2, "ids": [36], "pos": "nn", "rank": 0.016020434017542867, "text": "magnet"}
-{"count": 1, "ids": [40, 41], "pos": "np", "rank": 0.0159587822457135, "text": "african superplume"}
-{"count": 1, "ids": [63, 40, 64], "pos": "np", "rank": 0.014336888541551886, "text": "thick african crust"}
-{"count": 3, "ids": [31], "pos": "nn", "rank": 0.013137136470466704, "text": "iron"}
-{"count": 1, "ids": [39], "pos": "np", "rank": 0.012710629483678192, "text": "considof"}
-{"count": 1, "ids": [68, 77], "pos": "np", "rank": 0.012687205917828097, "text": "compass observations"}
-{"count": 2, "ids": [30], "pos": "vbn", "rank": 0.01233226210283228, "text": "wrapped"}
-{"count": 3, "ids": [19], "pos": "nn", "rank": 0.012198716073864248, "text": "flow"}
-{"count": 1, "ids": [46, 19], "pos": "np", "rank": 0.012198716073864248, "text": "upward flow"}
-{"count": 1, "ids": [89], "pos": "vbn", "rank": 0.01149998105655372, "text": "produced"}
-{"count": 2, "ids": [32], "pos": "np", "rank": 0.01120371094314844, "text": "nail"}
-{"count": 1, "ids": [75], "pos": "vbg", "rank": 0.01062750840979727, "text": "supplying"}
-{"count": 1, "ids": [74], "pos": "nn", "rank": 0.010020468751979417, "text": "direction"}
-{"count": 1, "ids": [23], "pos": "np", "rank": 0.009949319744350586, "text": "phenomenon"}
-{"count": 2, "ids": [1, 2], "pos": "np", "rank": 0.009320794334707665, "text": "iron-rich fluid"}
-{"count": 1, "ids": [73], "pos": "nn", "rank": 0.00930083823302276, "text": "track"}
-{"count": 1, "ids": [91], "pos": "vbz", "rank": 0.008800919787885697, "text": "consists"}
-{"count": 2, "ids": [24], "pos": "vbn", "rank": 0.008674143343141608, "text": "called"}
-{"count": 1, "ids": [72], "pos": "nn", "rank": 0.008453572427657607, "text": "continent"}
-{"count": 1, "ids": [4], "pos": "np", "rank": 0.00835846114773236, "text": "core"}
-{"count": 2, "ids": [10], "pos": "nn", "rank": 0.00817979536513279, "text": "rotation"}
-{"count": 1, "ids": [78], "pos": "nnp", "rank": 0.008134475207971087, "text": "indian"}
-{"count": 1, "ids": [41], "pos": "nn", "rank": 0.007963905134213396, "text": "superplume"}
-{"count": 1, "ids": [85], "pos": "nn", "rank": 0.007961322780353337, "text": "examination"}
-{"count": 1, "ids": [87], "pos": "nn", "rank": 0.007834927088856566, "text": "bar"}
-{"count": 1, "ids": [71], "pos": "nns", "rank": 0.007456863278602918, "text": "sides"}
-{"count": 1, "ids": [94], "pos": "nn", "rank": 0.007355060926869083, "text": "coil"}
-{"count": 1, "ids": [80], "pos": "vbg", "rank": 0.007328315087692412, "text": "spreading"}
-{"count": 1, "ids": [64], "pos": "nn", "rank": 0.007168444270775943, "text": "crust"}
-{"count": 2, "ids": [38], "pos": "nn", "rank": 0.00704435490078042, "text": "convection"}
-{"count": 1, "ids": [35], "pos": "vbz", "rank": 0.006992914321954075, "text": "passes"}
-{"count": 1, "ids": [52], "pos": "np", "rank": 0.00692455878366725, "text": "ties"}
-{"count": 1, "ids": [84], "pos": "vbz", "rank": 0.006878793916463683, "text": "requires"}
-{"count": 1, "ids": [79], "pos": "nnp", "rank": 0.006844901355205967, "text": "ocean"}
-{"count": 1, "ids": [6], "pos": "np", "rank": 0.006840926139262192, "text": "path"}
-{"count": 1, "ids": [25], "pos": "nn", "rank": 0.0066863087755715984, "text": "geodynamo"}
-{"count": 1, "ids": [37], "pos": "vbz", "rank": 0.00665392522728142, "text": "resembles"}
-{"count": 1, "ids": [61], "pos": "nn", "rank": 0.00665392522728142, "text": "change"}
-{"count": 1, "ids": [96], "pos": "vbg", "rank": 0.006596165469263213, "text": "traveling"}
-{"count": 1, "ids": [15], "pos": "vbp", "rank": 0.006546853859307124, "text": "align"}
-{"count": 1, "ids": [70], "pos": "vbn", "rank": 0.006284923280954917, "text": "deflected"}
-{"count": 1, "ids": [55, 56], "pos": "np", "rank": 0.0060255495123372575, "text": "high temperatures"}
-{"count": 2, "ids": [7], "pos": "vbz", "rank": 0.005948671461295452, "text": "becomes"}
-{"count": 1, "ids": [2, 12], "pos": "np", "rank": 0.0058130884079001825, "text": "fluid moves"}
-{"count": 1, "ids": [69], "pos": "vbz", "rank": 0.005708505811192642, "text": "seems"}
-{"count": 1, "ids": [77], "pos": "nns", "rank": 0.005708505811192642, "text": "observations"}
-{"count": 1, "ids": [83], "pos": "vbd", "rank": 0.005605557352928989, "text": "acted"}
-{"count": 1, "ids": [47], "pos": "nn", "rank": 0.005570773931432671, "text": "mantle"}
-{"count": 2, "ids": [59], "pos": "nn", "rank": 0.0052176397329114065, "text": "rock"}
-{"count": 2, "ids": [13], "pos": "vbg", "rank": 0.005040503581437285, "text": "spiraling"}
-{"count": 2, "ids": [11], "pos": "nn", "rank": 0.004757542215816626, "text": "result"}
-{"count": 2, "ids": [82], "pos": "vbp", "rank": 0.004757542215816626, "text": "think"}
-{"count": 2, "ids": [2], "pos": "nn", "rank": 0.004660397167353832, "text": "fluid"}
-{"count": 1, "ids": [18], "pos": "vbn", "rank": 0.004651311663598089, "text": "charged"}
-{"count": 2, "ids": [5], "pos": "vbg", "rank": 0.0046105472821911, "text": "rising"}
-{"count": 1, "ids": [16], "pos": "nn", "rank": 0.004421512658382861, "text": "axis"}
-{"count": 1, "ids": [45], "pos": "nn", "rank": 0.004421512658382861, "text": "region"}
-{"count": 1, "ids": [57], "pos": "nns", "rank": 0.004293313015799413, "text": "patterns"}
-{"count": 1, "ids": [26], "pos": "np", "rank": 0.004228372849056947, "text": "process"}
-{"count": 1, "ids": [51], "pos": "np", "rank": 0.004228372849056947, "text": "remainder"}
-{"count": 1, "ids": [88], "pos": "np", "rank": 0.004228372849056947, "text": "scientists"}
-{"count": 1, "ids": [14], "pos": "nns", "rank": 0.00420651153115261, "text": "columns"}
-{"count": 1, "ids": [44], "pos": "nn", "rank": 0.003911363087808784, "text": "percent"}
-{"count": 1, "ids": [60], "pos": "vbn", "rank": 0.003858953884176471, "text": "enriched"}
-{"count": 1, "ids": [56], "pos": "nns", "rank": 0.0030127747561686288, "text": "temperatures"}
-{"count": 1, "ids": [12], "pos": "nns", "rank": 0.0029065442039500912, "text": "moves"}
-{"count": 2, "ids": [1], "pos": "nn", "rank": 0.0021141864245284737, "text": "iron-rich"}
-{"count": 1, "ids": [58], "pos": "nn", "rank": 0.0021141864245284737, "text": "addition"}
-{"count": 1, "ids": [62], "pos": "vb", "rank": 0.0021141864245284737, "text": "break"}
-{"count": 1, "ids": [76], "pos": "nnp", "rank": 0.0021141864245284737, "text": "mid-atlantic"}
-{"count": 1, "ids": [92], "pos": "nns", "rank": 0.0021141864245284737, "text": "cylinders"}
+{"count": 1, "ids": [9], "pos": "np", "rank": 0.06128313774523968, "text": "earth"}
+{"count": 6, "ids": [21, 22], "pos": "np", "rank": 0.06066548274595348, "text": "magnetic field"}
+{"count": 1, "ids": [88, 28], "pos": "np", "rank": 0.03687430985948746, "text": "simple electromagnet"}
+{"count": 8, "ids": [22], "pos": "nn", "rank": 0.03033274137297674, "text": "field"}
+{"count": 1, "ids": [48, 49, 22], "pos": "np", "rank": 0.03033274137297674, "text": "slow velocimagnetic field"}
+{"count": 1, "ids": [84, 85, 36], "pos": "np", "rank": 0.02935797650257981, "text": "large bar magnet"}
+{"count": 1, "ids": [81], "pos": "np", "rank": 0.028003681385170117, "text": "centers"}
+{"count": 1, "ids": [31, 32], "pos": "np", "rank": 0.027066750637132108, "text": "iron nail"}
+{"count": 1, "ids": [68], "pos": "np", "rank": 0.026187239454808286, "text": "compasses"}
+{"count": 3, "ids": [3, 4], "pos": "np", "rank": 0.02549419489072127, "text": "outer core"}
+{"count": 1, "ids": [13, 19], "pos": "np", "rank": 0.02513651359460623, "text": "spiral flow"}
+{"count": 4, "ids": [20], "pos": "vbz", "rank": 0.024715304692497376, "text": "generates"}
+{"count": 1, "ids": [21, 22, 61], "pos": "np", "rank": 0.023708515629565215, "text": "magnetic field change"}
+{"count": 3, "ids": [28], "pos": "nn", "rank": 0.01843715492974373, "text": "electromagnet"}
+{"count": 1, "ids": [29], "pos": "np", "rank": 0.01725269028142151, "text": "wire"}
+{"count": 1, "ids": [65], "pos": "np", "rank": 0.01692511590299392, "text": "sailors"}
+{"count": 1, "ids": [78, 79], "pos": "np", "rank": 0.016795965985821254, "text": "indian ocean"}
+{"count": 1, "ids": [40, 41], "pos": "np", "rank": 0.016400261391269978, "text": "african superplume"}
+{"count": 1, "ids": [63, 40, 64], "pos": "np", "rank": 0.014772436755938456, "text": "thick african crust"}
+{"count": 2, "ids": [36], "pos": "nn", "rank": 0.014678988251289904, "text": "magnet"}
+{"count": 3, "ids": [31], "pos": "nn", "rank": 0.013533375318566054, "text": "iron"}
+{"count": 1, "ids": [68, 77], "pos": "np", "rank": 0.013093619727404143, "text": "compass observations"}
+{"count": 1, "ids": [39], "pos": "np", "rank": 0.013078308679995914, "text": "considof"}
+{"count": 2, "ids": [30], "pos": "vbn", "rank": 0.012697038316786072, "text": "wrapped"}
+{"count": 3, "ids": [19], "pos": "nn", "rank": 0.012568256797303116, "text": "flow"}
+{"count": 1, "ids": [46, 19], "pos": "np", "rank": 0.012568256797303116, "text": "upward flow"}
+{"count": 1, "ids": [87], "pos": "vbn", "rank": 0.011717742262731336, "text": "produced"}
+{"count": 2, "ids": [32], "pos": "np", "rank": 0.011551297670619246, "text": "nail"}
+{"count": 1, "ids": [75], "pos": "vbg", "rank": 0.010961964572206476, "text": "supplying"}
+{"count": 1, "ids": [74], "pos": "nn", "rank": 0.010335260639451702, "text": "direction"}
+{"count": 1, "ids": [23], "pos": "np", "rank": 0.010096628655689608, "text": "phenomenon"}
+{"count": 2, "ids": [1, 2], "pos": "np", "rank": 0.00961507144510657, "text": "iron-rich fluid"}
+{"count": 1, "ids": [73], "pos": "nn", "rank": 0.009593183504280555, "text": "track"}
+{"count": 1, "ids": [89], "pos": "vbz", "rank": 0.0090036416069919, "text": "consists"}
+{"count": 2, "ids": [24], "pos": "vbn", "rank": 0.008888911959857786, "text": "called"}
+{"count": 1, "ids": [72], "pos": "nn", "rank": 0.008715328450172744, "text": "continent"}
+{"count": 1, "ids": [4], "pos": "np", "rank": 0.008614725249743348, "text": "core"}
+{"count": 2, "ids": [10], "pos": "nn", "rank": 0.008420487391869114, "text": "rotation"}
+{"count": 1, "ids": [78], "pos": "nnp", "rank": 0.008397982992910627, "text": "indian"}
+{"count": 1, "ids": [41], "pos": "nn", "rank": 0.008187736217609477, "text": "superplume"}
+{"count": 1, "ids": [71], "pos": "nns", "rank": 0.007682987737278763, "text": "sides"}
+{"count": 1, "ids": [92], "pos": "nn", "rank": 0.0075799897568025725, "text": "coil"}
+{"count": 1, "ids": [80], "pos": "vbg", "rank": 0.007567822526435287, "text": "spreading"}
+{"count": 1, "ids": [64], "pos": "nn", "rank": 0.007386218377969228, "text": "crust"}
+{"count": 2, "ids": [38], "pos": "nn", "rank": 0.007275964203958308, "text": "convection"}
+{"count": 1, "ids": [35], "pos": "vbz", "rank": 0.007219265804867278, "text": "passes"}
+{"count": 1, "ids": [52], "pos": "np", "rank": 0.007140006150494064, "text": "ties"}
+{"count": 1, "ids": [79], "pos": "nnp", "rank": 0.007068089026070786, "text": "ocean"}
+{"count": 1, "ids": [6], "pos": "np", "rank": 0.007064007181493547, "text": "path"}
+{"count": 1, "ids": [25], "pos": "nn", "rank": 0.006847789282592451, "text": "geodynamo"}
+{"count": 1, "ids": [94], "pos": "vbg", "rank": 0.0068104138306661266, "text": "traveling"}
+{"count": 1, "ids": [15], "pos": "vbp", "rank": 0.006761271465498079, "text": "align"}
+{"count": 1, "ids": [37], "pos": "vbz", "rank": 0.006727603017450819, "text": "resembles"}
+{"count": 1, "ids": [61], "pos": "nn", "rank": 0.006727603017450819, "text": "change"}
+{"count": 1, "ids": [70], "pos": "vbn", "rank": 0.006469073725428635, "text": "deflected"}
+{"count": 1, "ids": [55, 56], "pos": "np", "rank": 0.006223771845019229, "text": "high temperatures"}
+{"count": 2, "ids": [7], "pos": "vbz", "rank": 0.006139458825826384, "text": "becomes"}
+{"count": 1, "ids": [2, 12], "pos": "np", "rank": 0.00600215055478085, "text": "fluid moves"}
+{"count": 1, "ids": [69], "pos": "vbz", "rank": 0.005893258210779407, "text": "seems"}
+{"count": 1, "ids": [77], "pos": "nns", "rank": 0.005893258210779407, "text": "observations"}
+{"count": 1, "ids": [83], "pos": "vbd", "rank": 0.005771936304174927, "text": "acted"}
+{"count": 1, "ids": [47], "pos": "nn", "rank": 0.005744921041603613, "text": "mantle"}
+{"count": 2, "ids": [59], "pos": "nn", "rank": 0.005388302561706154, "text": "rock"}
+{"count": 2, "ids": [13], "pos": "vbg", "rank": 0.0052047647033857175, "text": "spiraling"}
+{"count": 1, "ids": [85], "pos": "nn", "rank": 0.0051971195318128325, "text": "bar"}
+{"count": 2, "ids": [11], "pos": "nn", "rank": 0.004892498428777104, "text": "result"}
+{"count": 2, "ids": [82], "pos": "vbp", "rank": 0.004892498428777104, "text": "think"}
+{"count": 2, "ids": [2], "pos": "nn", "rank": 0.004807535722553285, "text": "fluid"}
+{"count": 1, "ids": [18], "pos": "vbn", "rank": 0.004781687783657915, "text": "charged"}
+{"count": 2, "ids": [5], "pos": "vbg", "rank": 0.004758541833730466, "text": "rising"}
+{"count": 1, "ids": [16], "pos": "nn", "rank": 0.004551529493041625, "text": "axis"}
+{"count": 1, "ids": [45], "pos": "nn", "rank": 0.004551529493041625, "text": "region"}
+{"count": 1, "ids": [57], "pos": "nns", "rank": 0.004434526643423791, "text": "patterns"}
+{"count": 1, "ids": [26], "pos": "np", "rank": 0.0043674728740598495, "text": "process"}
+{"count": 1, "ids": [51], "pos": "np", "rank": 0.0043674728740598495, "text": "remainder"}
+{"count": 1, "ids": [86], "pos": "np", "rank": 0.0043674728740598495, "text": "scientists"}
+{"count": 1, "ids": [14], "pos": "nns", "rank": 0.0043441372813642866, "text": "columns"}
+{"count": 1, "ids": [44], "pos": "nn", "rank": 0.0040400354079893055, "text": "percent"}
+{"count": 1, "ids": [60], "pos": "vbn", "rank": 0.0039643489432974145, "text": "enriched"}
+{"count": 1, "ids": [56], "pos": "nns", "rank": 0.0031118859225096147, "text": "temperatures"}
+{"count": 1, "ids": [12], "pos": "nns", "rank": 0.003001075277390425, "text": "moves"}
+{"count": 2, "ids": [1], "pos": "nn", "rank": 0.0021837364370299248, "text": "iron-rich"}
+{"count": 1, "ids": [58], "pos": "nn", "rank": 0.0021837364370299248, "text": "addition"}
+{"count": 1, "ids": [62], "pos": "vb", "rank": 0.0021837364370299248, "text": "break"}
+{"count": 1, "ids": [76], "pos": "nnp", "rank": 0.0021837364370299248, "text": "mid-atlantic"}
+{"count": 1, "ids": [90], "pos": "nns", "rank": 0.0021837364370299248, "text": "cylinders"}

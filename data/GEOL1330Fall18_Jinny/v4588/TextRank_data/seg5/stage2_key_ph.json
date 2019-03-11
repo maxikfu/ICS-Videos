@@ -1,523 +1,523 @@
-{"count": 3, "ids": [521], "pos": "np", "rank": 0.01943687818435915, "text": "comet"}
-{"count": 1, "ids": [9, 225], "pos": "np", "rank": 0.014425570123038217, "text": "earth years"}
-{"count": 1, "ids": [143, 369], "pos": "np", "rank": 0.014360412259780072, "text": "surface age"}
-{"count": 1, "ids": [282, 340], "pos": "np", "rank": 0.013785475762924802, "text": "jupiter \u2019s"}
-{"count": 1, "ids": [374, 335], "pos": "np", "rank": 0.013657129973919702, "text": "parent planet"}
-{"count": 1, "ids": [601, 463], "pos": "np", "rank": 0.013175647047058344, "text": "elliptical orbits"}
-{"count": 2, "ids": [520], "pos": "np", "rank": 0.011691953265636785, "text": "asteroid"}
-{"count": 3, "ids": [300, 301], "pos": "np", "rank": 0.011588677729699322, "text": "ring systems"}
-{"count": 1, "ids": [521, 579], "pos": "np", "rank": 0.009718439092179575, "text": "comet holmes"}
-{"count": 7, "ids": [396, 301], "pos": "np", "rank": 0.008828963100121726, "text": "solar system"}
-{"count": 1, "ids": [343], "pos": "np", "rank": 0.008575387290977496, "text": "clouds"}
-{"count": 2, "ids": [592, 527], "pos": "np", "rank": 0.008269065988063462, "text": "kuiper belt"}
-{"count": 3, "ids": [283, 284], "pos": "np", "rank": 0.007917665992179962, "text": "largest moons"}
-{"count": 1, "ids": [318, 284], "pos": "np", "rank": 0.007916560124904826, "text": "small moons"}
-{"count": 1, "ids": [325, 27], "pos": "np", "rank": 0.007470908184809175, "text": "saturn similar"}
+{"count": 3, "ids": [520], "pos": "np", "rank": 0.01943687818435915, "text": "comet"}
+{"count": 1, "ids": [9, 223], "pos": "np", "rank": 0.014425570123038217, "text": "earth years"}
+{"count": 1, "ids": [141, 368], "pos": "np", "rank": 0.014360412259780072, "text": "surface age"}
+{"count": 1, "ids": [280, 339], "pos": "np", "rank": 0.013785475762924802, "text": "jupiter \u2019s"}
+{"count": 1, "ids": [373, 334], "pos": "np", "rank": 0.013657129973919702, "text": "parent planet"}
+{"count": 1, "ids": [600, 462], "pos": "np", "rank": 0.013175647047058344, "text": "elliptical orbits"}
+{"count": 2, "ids": [519], "pos": "np", "rank": 0.011691953265636785, "text": "asteroid"}
+{"count": 3, "ids": [298, 299], "pos": "np", "rank": 0.011588677729699322, "text": "ring systems"}
+{"count": 1, "ids": [520, 578], "pos": "np", "rank": 0.009718439092179575, "text": "comet holmes"}
+{"count": 7, "ids": [395, 299], "pos": "np", "rank": 0.008828963100121726, "text": "solar system"}
+{"count": 1, "ids": [342], "pos": "np", "rank": 0.008575387290977496, "text": "clouds"}
+{"count": 2, "ids": [591, 526], "pos": "np", "rank": 0.008269065988063462, "text": "kuiper belt"}
+{"count": 3, "ids": [281, 282], "pos": "np", "rank": 0.007917665992179962, "text": "largest moons"}
+{"count": 1, "ids": [316, 282], "pos": "np", "rank": 0.007916560124904826, "text": "small moons"}
+{"count": 1, "ids": [324, 27], "pos": "np", "rank": 0.007470908184809175, "text": "saturn similar"}
 {"count": 2, "ids": [9], "pos": "np", "rank": 0.007212785061519109, "text": "earth"}
-{"count": 1, "ids": [385, 143], "pos": "np", "rank": 0.007180206129890036, "text": "icy surfaces"}
-{"count": 11, "ids": [282], "pos": "nnp", "rank": 0.006892737881462401, "text": "jupiter"}
-{"count": 2, "ids": [318, 333], "pos": "np", "rank": 0.0068669854957619575, "text": "small bodies"}
-{"count": 12, "ids": [335], "pos": "nns", "rank": 0.006828564986959851, "text": "planets"}
-{"count": 1, "ids": [474, 335], "pos": "np", "rank": 0.006828564986959851, "text": "outermost planet"}
-{"count": 2, "ids": [326], "pos": "np", "rank": 0.0067616729369789335, "text": "atmosphere"}
-{"count": 11, "ids": [463], "pos": "nns", "rank": 0.006587823523529172, "text": "orbits"}
-{"count": 1, "ids": [629, 463], "pos": "np", "rank": 0.006587823523529172, "text": "eccentric orbit"}
-{"count": 1, "ids": [583, 521], "pos": "np", "rank": 0.006478959394786383, "text": "shortest-period comet"}
-{"count": 1, "ids": [399, 372], "pos": "np", "rank": 0.006465138758368405, "text": "only satellites"}
-{"count": 2, "ids": [593, 343], "pos": "np", "rank": 0.006163815578257326, "text": "oort cloud"}
-{"count": 1, "ids": [97, 307], "pos": "np", "rank": 0.00608432802810645, "text": "dark particles"}
-{"count": 1, "ids": [520, 527], "pos": "np", "rank": 0.005845976632818392, "text": "asteroid belt"}
-{"count": 17, "ids": [301], "pos": "nn", "rank": 0.005794338864849661, "text": "system"}
-{"count": 1, "ids": [44, 409], "pos": "np", "rank": 0.005748126806831037, "text": "percent methane"}
-{"count": 2, "ids": [296], "pos": "np", "rank": 0.0056342834071901726, "text": "image"}
-{"count": 2, "ids": [397], "pos": "np", "rank": 0.005099160948501645, "text": "neptune"}
-{"count": 1, "ids": [521, 585], "pos": "np", "rank": 0.004859219546089788, "text": "comet wild"}
-{"count": 1, "ids": [569, 570], "pos": "np", "rank": 0.004836868665198604, "text": "analyzed samples"}
-{"count": 1, "ids": [143], "pos": "np", "rank": 0.004786804086593358, "text": "surface"}
-{"count": 4, "ids": [300], "pos": "np", "rank": 0.004673159041027844, "text": "rings"}
-{"count": 2, "ids": [213, 475, 335], "pos": "np", "rank": 0.004552376657973234, "text": "other jovian planets"}
-{"count": 1, "ids": [293, 294, 220], "pos": "np", "rank": 0.004548153707669804, "text": "bright red area"}
-{"count": 1, "ids": [318, 396, 301, 333], "pos": "np", "rank": 0.004414481550060863, "text": "small solar system bodies"}
-{"count": 1, "ids": [319, 370], "pos": "np", "rank": 0.004323942950678274, "text": "impact origin"}
-{"count": 1, "ids": [489, 343], "pos": "np", "rank": 0.004287693645488748, "text": "cirrus-like clouds"}
-{"count": 6, "ids": [592], "pos": "nnp", "rank": 0.004134532994031731, "text": "kuiper"}
-{"count": 1, "ids": [337, 595, 592], "pos": "np", "rank": 0.004134532994031731, "text": "astronomer gerald kuiper"}
-{"count": 1, "ids": [449, 450], "pos": "np", "rank": 0.004100828849238431, "text": "distant star"}
-{"count": 3, "ids": [284], "pos": "np", "rank": 0.003958832996089981, "text": "moons"}
-{"count": 1, "ids": [101, 520], "pos": "np", "rank": 0.0038973177552122616, "text": "most asteroids"}
-{"count": 1, "ids": [464, 45], "pos": "np", "rank": 0.0038952452469191933, "text": "equatorial region"}
-{"count": 2, "ids": [101, 521], "pos": "np", "rank": 0.00388737563687183, "text": "most comets"}
-{"count": 1, "ids": [414, 26], "pos": "np", "rank": 0.003834612281410888, "text": "geologic processes"}
-{"count": 5, "ids": [99], "pos": "vbg", "rank": 0.0038308010232563764, "text": "making"}
-{"count": 1, "ids": [372, 292], "pos": "np", "rank": 0.0037439570197174373, "text": "satellite io"}
-{"count": 1, "ids": [108], "pos": "np", "rank": 0.0037242540700846306, "text": "distances"}
-{"count": 2, "ids": [349, 294, 350], "pos": "np", "rank": 0.0037056025131918463, "text": "great red spot"}
-{"count": 1, "ids": [287], "pos": "np", "rank": 0.0036916343953923053, "text": "galileo"}
-{"count": 1, "ids": [86, 434], "pos": "np", "rank": 0.0036622411174838552, "text": "large fractures"}
-{"count": 1, "ids": [577, 570], "pos": "np", "rank": 0.003601033154184784, "text": "fresh samples"}
-{"count": 1, "ids": [394, 549], "pos": "np", "rank": 0.0035551863994062937, "text": "larger pebbles"}
-{"count": 1, "ids": [336, 337, 338, 339], "pos": "np", "rank": 0.0035474854934953613, "text": "dutch astronomer christian huygens"}
-{"count": 2, "ids": [348], "pos": "np", "rank": 0.0035462646046985724, "text": "storms"}
-{"count": 9, "ids": [325], "pos": "nnp", "rank": 0.003538673876280693, "text": "saturn"}
-{"count": 8, "ids": [225], "pos": "nns", "rank": 0.003504191343760998, "text": "years"}
-{"count": 1, "ids": [124, 225], "pos": "np", "rank": 0.003504191343760998, "text": "few years"}
-{"count": 1, "ids": [468], "pos": "np", "rank": 0.0035039196263730557, "text": "dust"}
-{"count": 1, "ids": [653, 654], "pos": "np", "rank": 0.0034616980471248115, "text": "terrestrial craters"}
-{"count": 6, "ids": [333], "pos": "nn", "rank": 0.0034334927478809787, "text": "body"}
-{"count": 2, "ids": [523, 335], "pos": "np", "rank": 0.0034142824934799256, "text": "dwarf planets"}
-{"count": 1, "ids": [400, 326], "pos": "np", "rank": 0.0033808364684894667, "text": "substantial atmospheres"}
-{"count": 1, "ids": [405, 191], "pos": "np", "rank": 0.0033504798239780927, "text": "atmospheric composition"}
-{"count": 1, "ids": [195, 220], "pos": "np", "rank": 0.003289633499268864, "text": "material areas"}
-{"count": 1, "ids": [509, 510], "pos": "np", "rank": 0.0032715159152157175, "text": "vast spaces"}
-{"count": 1, "ids": [44, 355], "pos": "np", "rank": 0.0032522204872602635, "text": "percent hydrogen"}
-{"count": 1, "ids": [390, 368], "pos": "np", "rank": 0.003249121999149198, "text": "irregular shapes"}
-{"count": 1, "ids": [602, 603, 592, 527, 521], "pos": "np", "rank": 0.0032394796973931913, "text": "same plane kuiper belt comets"}
-{"count": 7, "ids": [372], "pos": "nn", "rank": 0.0032325693791842025, "text": "satellite"}
-{"count": 1, "ids": [425, 372], "pos": "np", "rank": 0.0032325693791842025, "text": "unique satellite"}
-{"count": 1, "ids": [410, 180, 411], "pos": "np", "rank": 0.003218186999208638, "text": "trace organic compounds"}
-{"count": 1, "ids": [124, 391], "pos": "np", "rank": 0.003213106015247533, "text": "few tens"}
-{"count": 1, "ids": [313, 300], "pos": "np", "rank": 0.0031154393606852293, "text": "main ring"}
-{"count": 7, "ids": [290], "pos": "nn", "rank": 0.003097975747309334, "text": "kilometer"}
-{"count": 6, "ids": [593], "pos": "nnp", "rank": 0.003081907789128663, "text": "oort"}
-{"count": 1, "ids": [628, 593, 343, 521], "pos": "np", "rank": 0.003081907789128663, "text": "occasional oort cloud comet"}
-{"count": 1, "ids": [181], "pos": "np", "rank": 0.0030809797532545032, "text": "debris"}
-{"count": 2, "ids": [307], "pos": "np", "rank": 0.003042164014053225, "text": "particles"}
+{"count": 1, "ids": [384, 141], "pos": "np", "rank": 0.007180206129890036, "text": "icy surfaces"}
+{"count": 11, "ids": [280], "pos": "nnp", "rank": 0.006892737881462401, "text": "jupiter"}
+{"count": 2, "ids": [316, 332], "pos": "np", "rank": 0.0068669854957619575, "text": "small bodies"}
+{"count": 12, "ids": [334], "pos": "nns", "rank": 0.006828564986959851, "text": "planets"}
+{"count": 1, "ids": [473, 334], "pos": "np", "rank": 0.006828564986959851, "text": "outermost planet"}
+{"count": 2, "ids": [325], "pos": "np", "rank": 0.0067616729369789335, "text": "atmosphere"}
+{"count": 11, "ids": [462], "pos": "nns", "rank": 0.006587823523529172, "text": "orbits"}
+{"count": 1, "ids": [628, 462], "pos": "np", "rank": 0.006587823523529172, "text": "eccentric orbit"}
+{"count": 1, "ids": [582, 520], "pos": "np", "rank": 0.006478959394786383, "text": "shortest-period comet"}
+{"count": 1, "ids": [398, 371], "pos": "np", "rank": 0.006465138758368405, "text": "only satellites"}
+{"count": 2, "ids": [592, 342], "pos": "np", "rank": 0.006163815578257326, "text": "oort cloud"}
+{"count": 1, "ids": [95, 305], "pos": "np", "rank": 0.00608432802810645, "text": "dark particles"}
+{"count": 1, "ids": [519, 526], "pos": "np", "rank": 0.005845976632818392, "text": "asteroid belt"}
+{"count": 17, "ids": [299], "pos": "nn", "rank": 0.005794338864849661, "text": "system"}
+{"count": 1, "ids": [44, 408], "pos": "np", "rank": 0.005748126806831037, "text": "percent methane"}
+{"count": 2, "ids": [294], "pos": "np", "rank": 0.0056342834071901726, "text": "image"}
+{"count": 2, "ids": [396], "pos": "np", "rank": 0.005099160948501645, "text": "neptune"}
+{"count": 1, "ids": [520, 584], "pos": "np", "rank": 0.004859219546089788, "text": "comet wild"}
+{"count": 1, "ids": [568, 569], "pos": "np", "rank": 0.004836868665198604, "text": "analyzed samples"}
+{"count": 1, "ids": [141], "pos": "np", "rank": 0.004786804086593358, "text": "surface"}
+{"count": 4, "ids": [298], "pos": "np", "rank": 0.004673159041027844, "text": "rings"}
+{"count": 2, "ids": [211, 474, 334], "pos": "np", "rank": 0.004552376657973234, "text": "other jovian planets"}
+{"count": 1, "ids": [291, 292, 218], "pos": "np", "rank": 0.004548153707669804, "text": "bright red area"}
+{"count": 1, "ids": [316, 395, 299, 332], "pos": "np", "rank": 0.004414481550060863, "text": "small solar system bodies"}
+{"count": 1, "ids": [317, 369], "pos": "np", "rank": 0.004323942950678274, "text": "impact origin"}
+{"count": 1, "ids": [488, 342], "pos": "np", "rank": 0.004287693645488748, "text": "cirrus-like clouds"}
+{"count": 6, "ids": [591], "pos": "nnp", "rank": 0.004134532994031731, "text": "kuiper"}
+{"count": 1, "ids": [336, 594, 591], "pos": "np", "rank": 0.004134532994031731, "text": "astronomer gerald kuiper"}
+{"count": 1, "ids": [448, 449], "pos": "np", "rank": 0.004100828849238431, "text": "distant star"}
+{"count": 3, "ids": [282], "pos": "np", "rank": 0.003958832996089981, "text": "moons"}
+{"count": 1, "ids": [99, 519], "pos": "np", "rank": 0.0038973177552122616, "text": "most asteroids"}
+{"count": 1, "ids": [463, 45], "pos": "np", "rank": 0.0038952452469191933, "text": "equatorial region"}
+{"count": 2, "ids": [99, 520], "pos": "np", "rank": 0.00388737563687183, "text": "most comets"}
+{"count": 1, "ids": [413, 26], "pos": "np", "rank": 0.003834612281410888, "text": "geologic processes"}
+{"count": 5, "ids": [97], "pos": "vbg", "rank": 0.0038308010232563764, "text": "making"}
+{"count": 1, "ids": [371, 290], "pos": "np", "rank": 0.0037439570197174373, "text": "satellite io"}
+{"count": 1, "ids": [106], "pos": "np", "rank": 0.0037242540700846306, "text": "distances"}
+{"count": 2, "ids": [348, 292, 349], "pos": "np", "rank": 0.0037056025131918463, "text": "great red spot"}
+{"count": 1, "ids": [285], "pos": "np", "rank": 0.0036916343953923053, "text": "galileo"}
+{"count": 1, "ids": [84, 433], "pos": "np", "rank": 0.0036622411174838552, "text": "large fractures"}
+{"count": 1, "ids": [576, 569], "pos": "np", "rank": 0.003601033154184784, "text": "fresh samples"}
+{"count": 1, "ids": [393, 548], "pos": "np", "rank": 0.0035551863994062937, "text": "larger pebbles"}
+{"count": 1, "ids": [335, 336, 337, 338], "pos": "np", "rank": 0.0035474854934953613, "text": "dutch astronomer christian huygens"}
+{"count": 2, "ids": [347], "pos": "np", "rank": 0.0035462646046985724, "text": "storms"}
+{"count": 9, "ids": [324], "pos": "nnp", "rank": 0.003538673876280693, "text": "saturn"}
+{"count": 8, "ids": [223], "pos": "nns", "rank": 0.003504191343760998, "text": "years"}
+{"count": 1, "ids": [122, 223], "pos": "np", "rank": 0.003504191343760998, "text": "few years"}
+{"count": 1, "ids": [467], "pos": "np", "rank": 0.0035039196263730557, "text": "dust"}
+{"count": 1, "ids": [652, 653], "pos": "np", "rank": 0.0034616980471248115, "text": "terrestrial craters"}
+{"count": 6, "ids": [332], "pos": "nn", "rank": 0.0034334927478809787, "text": "body"}
+{"count": 2, "ids": [522, 334], "pos": "np", "rank": 0.0034142824934799256, "text": "dwarf planets"}
+{"count": 1, "ids": [399, 325], "pos": "np", "rank": 0.0033808364684894667, "text": "substantial atmospheres"}
+{"count": 1, "ids": [404, 189], "pos": "np", "rank": 0.0033504798239780927, "text": "atmospheric composition"}
+{"count": 1, "ids": [193, 218], "pos": "np", "rank": 0.003289633499268864, "text": "material areas"}
+{"count": 1, "ids": [508, 509], "pos": "np", "rank": 0.0032715159152157175, "text": "vast spaces"}
+{"count": 1, "ids": [44, 354], "pos": "np", "rank": 0.0032522204872602635, "text": "percent hydrogen"}
+{"count": 1, "ids": [389, 367], "pos": "np", "rank": 0.003249121999149198, "text": "irregular shapes"}
+{"count": 1, "ids": [601, 602, 591, 526, 520], "pos": "np", "rank": 0.0032394796973931913, "text": "same plane kuiper belt comets"}
+{"count": 7, "ids": [371], "pos": "nn", "rank": 0.0032325693791842025, "text": "satellite"}
+{"count": 1, "ids": [424, 371], "pos": "np", "rank": 0.0032325693791842025, "text": "unique satellite"}
+{"count": 1, "ids": [409, 178, 410], "pos": "np", "rank": 0.003218186999208638, "text": "trace organic compounds"}
+{"count": 1, "ids": [122, 390], "pos": "np", "rank": 0.003213106015247533, "text": "few tens"}
+{"count": 1, "ids": [311, 298], "pos": "np", "rank": 0.0031154393606852293, "text": "main ring"}
+{"count": 7, "ids": [288], "pos": "nn", "rank": 0.003097975747309334, "text": "kilometer"}
+{"count": 6, "ids": [592], "pos": "nnp", "rank": 0.003081907789128663, "text": "oort"}
+{"count": 1, "ids": [627, 592, 342, 520], "pos": "np", "rank": 0.003081907789128663, "text": "occasional oort cloud comet"}
+{"count": 1, "ids": [179], "pos": "np", "rank": 0.0030809797532545032, "text": "debris"}
+{"count": 2, "ids": [305], "pos": "np", "rank": 0.003042164014053225, "text": "particles"}
 {"count": 1, "ids": [71], "pos": "np", "rank": 0.003034255838076453, "text": "side"}
-{"count": 1, "ids": [341, 326], "pos": "np", "rank": 0.003013427871151294, "text": "dynamic atmosphere"}
-{"count": 1, "ids": [495, 496, 497], "pos": "np", "rank": 0.003008471024883972, "text": "south polar cap"}
-{"count": 1, "ids": [526], "pos": "np", "rank": 0.002956350241601168, "text": "ceres"}
-{"count": 3, "ids": [582, 396, 301], "pos": "np", "rank": 0.002942987700040575, "text": "inner solar system"}
-{"count": 1, "ids": [427, 428], "pos": "np", "rank": 0.002927684245785844, "text": "active eruptions"}
-{"count": 1, "ids": [318, 565, 520], "pos": "np", "rank": 0.002922988316409196, "text": "small near-earth asteroid"}
-{"count": 1, "ids": [327, 193], "pos": "np", "rank": 0.0028948273987324854, "text": "internal structures"}
-{"count": 1, "ids": [319], "pos": "np", "rank": 0.0028745929179987708, "text": "impacts"}
-{"count": 4, "ids": [409], "pos": "nn", "rank": 0.0028740634034155185, "text": "methane"}
-{"count": 1, "ids": [93, 409], "pos": "np", "rank": 0.0028740634034155185, "text": "liquid methane"}
-{"count": 1, "ids": [313, 343, 491], "pos": "np", "rank": 0.002858462430325832, "text": "main cloud deck"}
-{"count": 3, "ids": [442], "pos": "vbp", "rank": 0.0028111516658264574, "text": "suggest"}
-{"count": 1, "ids": [140], "pos": "np", "rank": 0.0028060614412633088, "text": "fragments"}
-{"count": 7, "ids": [527], "pos": "nn", "rank": 0.002801401101115573, "text": "belt"}
-{"count": 1, "ids": [681, 682], "pos": "np", "rank": 0.002787508479091978, "text": "bluish lobes"}
-{"count": 1, "ids": [607, 340, 521], "pos": "np", "rank": 0.002776696883479878, "text": "halley \u2019s comet"}
-{"count": 1, "ids": [592, 527, 598], "pos": "np", "rank": 0.0027563553293544875, "text": "kuiper belt hosts"}
-{"count": 1, "ids": [529, 335], "pos": "np", "rank": 0.0027314259947839406, "text": "former planet"}
-{"count": 2, "ids": [393], "pos": "np", "rank": 0.002724951360435718, "text": "titan"}
-{"count": 6, "ids": [276], "pos": "nnp", "rank": 0.002720659951479939, "text": "sun"}
-{"count": 1, "ids": [365, 366], "pos": "np", "rank": 0.0026972164340680403, "text": "gravitational compression"}
-{"count": 1, "ids": [286, 284], "pos": "np", "rank": 0.0026392219973933213, "text": "galilean moons"}
-{"count": 2, "ids": [398], "pos": "np", "rank": 0.0026390042360735, "text": "triton"}
-{"count": 1, "ids": [487], "pos": "np", "rank": 0.002586322674732016, "text": "layers"}
-{"count": 1, "ids": [310, 184], "pos": "np", "rank": 0.002517467187774162, "text": "faint nature"}
-{"count": 7, "ids": [291], "pos": "nn", "rank": 0.002502367580317643, "text": "mile"}
-{"count": 1, "ids": [404], "pos": "np", "rank": 0.0024913933357241583, "text": "probe"}
-{"count": 1, "ids": [417, 418], "pos": "np", "rank": 0.0024834119059192004, "text": "streamlike erosion"}
-{"count": 3, "ids": [308], "pos": "nn", "rank": 0.0024398018752149024, "text": "size"}
-{"count": 4, "ids": [407], "pos": "nns", "rank": 0.0024196824510192574, "text": "times"}
-{"count": 1, "ids": [624, 625], "pos": "np", "rank": 0.0024189953463777864, "text": "spherical shell"}
-{"count": 2, "ids": [570], "pos": "nns", "rank": 0.002418434332599302, "text": "samples"}
-{"count": 1, "ids": [680, 243], "pos": "np", "rank": 0.002407995742194419, "text": "exotic ices"}
+{"count": 1, "ids": [340, 325], "pos": "np", "rank": 0.003013427871151294, "text": "dynamic atmosphere"}
+{"count": 1, "ids": [494, 495, 496], "pos": "np", "rank": 0.003008471024883972, "text": "south polar cap"}
+{"count": 1, "ids": [525], "pos": "np", "rank": 0.002956350241601168, "text": "ceres"}
+{"count": 3, "ids": [581, 395, 299], "pos": "np", "rank": 0.002942987700040575, "text": "inner solar system"}
+{"count": 1, "ids": [426, 427], "pos": "np", "rank": 0.002927684245785844, "text": "active eruptions"}
+{"count": 1, "ids": [316, 564, 519], "pos": "np", "rank": 0.002922988316409196, "text": "small near-earth asteroid"}
+{"count": 1, "ids": [326, 191], "pos": "np", "rank": 0.0028948273987324854, "text": "internal structures"}
+{"count": 1, "ids": [317], "pos": "np", "rank": 0.0028745929179987708, "text": "impacts"}
+{"count": 4, "ids": [408], "pos": "nn", "rank": 0.0028740634034155185, "text": "methane"}
+{"count": 1, "ids": [91, 408], "pos": "np", "rank": 0.0028740634034155185, "text": "liquid methane"}
+{"count": 1, "ids": [311, 342, 490], "pos": "np", "rank": 0.002858462430325832, "text": "main cloud deck"}
+{"count": 3, "ids": [441], "pos": "vbp", "rank": 0.0028111516658264574, "text": "suggest"}
+{"count": 1, "ids": [138], "pos": "np", "rank": 0.0028060614412633088, "text": "fragments"}
+{"count": 7, "ids": [526], "pos": "nn", "rank": 0.002801401101115573, "text": "belt"}
+{"count": 1, "ids": [680, 681], "pos": "np", "rank": 0.002787508479091978, "text": "bluish lobes"}
+{"count": 1, "ids": [606, 339, 520], "pos": "np", "rank": 0.002776696883479878, "text": "halley \u2019s comet"}
+{"count": 1, "ids": [591, 526, 597], "pos": "np", "rank": 0.0027563553293544875, "text": "kuiper belt hosts"}
+{"count": 1, "ids": [528, 334], "pos": "np", "rank": 0.0027314259947839406, "text": "former planet"}
+{"count": 2, "ids": [392], "pos": "np", "rank": 0.002724951360435718, "text": "titan"}
+{"count": 6, "ids": [274], "pos": "nnp", "rank": 0.002720659951479939, "text": "sun"}
+{"count": 1, "ids": [364, 365], "pos": "np", "rank": 0.0026972164340680403, "text": "gravitational compression"}
+{"count": 1, "ids": [284, 282], "pos": "np", "rank": 0.0026392219973933213, "text": "galilean moons"}
+{"count": 2, "ids": [397], "pos": "np", "rank": 0.0026390042360735, "text": "triton"}
+{"count": 1, "ids": [486], "pos": "np", "rank": 0.002586322674732016, "text": "layers"}
+{"count": 1, "ids": [308, 182], "pos": "np", "rank": 0.002517467187774162, "text": "faint nature"}
+{"count": 7, "ids": [289], "pos": "nn", "rank": 0.002502367580317643, "text": "mile"}
+{"count": 1, "ids": [403], "pos": "np", "rank": 0.0024913933357241583, "text": "probe"}
+{"count": 1, "ids": [416, 417], "pos": "np", "rank": 0.0024834119059192004, "text": "streamlike erosion"}
+{"count": 3, "ids": [306], "pos": "nn", "rank": 0.0024398018752149024, "text": "size"}
+{"count": 4, "ids": [406], "pos": "nns", "rank": 0.0024196824510192574, "text": "times"}
+{"count": 1, "ids": [623, 624], "pos": "np", "rank": 0.0024189953463777864, "text": "spherical shell"}
+{"count": 2, "ids": [569], "pos": "nns", "rank": 0.002418434332599302, "text": "samples"}
+{"count": 1, "ids": [679, 241], "pos": "np", "rank": 0.002407995742194419, "text": "exotic ices"}
 {"count": 4, "ids": [82], "pos": "vbn", "rank": 0.002407968812200077, "text": "thought"}
-{"count": 1, "ids": [394, 520], "pos": "np", "rank": 0.0023383906531273565, "text": "larger asteroid"}
-{"count": 1, "ids": [3, 322, 300], "pos": "np", "rank": 0.002336579520513922, "text": "outer gossamer ring"}
-{"count": 1, "ids": [331, 332], "pos": "np", "rank": 0.002332336138130194, "text": "primitive telescope"}
-{"count": 1, "ids": [3, 396, 301], "pos": "np", "rank": 0.0023177355459398645, "text": "outer solar system"}
-{"count": 1, "ids": [359, 360], "pos": "np", "rank": 0.0022972810573034493, "text": "ammonia hydrosulfide"}
-{"count": 1, "ids": [432, 433], "pos": "np", "rank": 0.0022934635460339055, "text": "tiger stripes"}
-{"count": 1, "ids": [313, 333], "pos": "np", "rank": 0.002288995165253986, "text": "main body"}
-{"count": 1, "ids": [475, 335], "pos": "np", "rank": 0.002276188328986617, "text": "jovian planets"}
-{"count": 4, "ids": [220], "pos": "nn", "rank": 0.002274076853834902, "text": "area"}
-{"count": 3, "ids": [492], "pos": "nn", "rank": 0.0022626316627956423, "text": "bottom"}
-{"count": 3, "ids": [452], "pos": "nn", "rank": 0.0022521796123947968, "text": "view"}
-{"count": 1, "ids": [669, 220], "pos": "np", "rank": 0.0021794006168353373, "text": "immediate area"}
-{"count": 2, "ids": [370], "pos": "nn", "rank": 0.002161971475339137, "text": "origin"}
-{"count": 1, "ids": [593, 343, 521], "pos": "np", "rank": 0.002159653131595461, "text": "oort cloud comets"}
-{"count": 4, "ids": [330], "pos": "vbn", "rank": 0.002154648227547709, "text": "observed"}
-{"count": 1, "ids": [560, 47], "pos": "np", "rank": 0.0021432732432792607, "text": "rocky mantle"}
-{"count": 1, "ids": [531], "pos": "nnp", "rank": 0.002135125354398693, "text": "mars"}
-{"count": 3, "ids": [285], "pos": "vbd", "rank": 0.0021299379742063754, "text": "referred"}
-{"count": 1, "ids": [453], "pos": "np", "rank": 0.002116304470785801, "text": "occultation"}
-{"count": 1, "ids": [287, 303], "pos": "np", "rank": 0.0020596012769360053, "text": "galileo mission"}
-{"count": 1, "ids": [311, 307], "pos": "np", "rank": 0.0020281093427021502, "text": "minute particles"}
-{"count": 1, "ids": [128, 547, 115], "pos": "np", "rank": 0.0020049723329249773, "text": "smaller sand grains"}
-{"count": 4, "ids": [340], "pos": "nnp", "rank": 0.001997798120466639, "text": "\u2019s"}
-{"count": 1, "ids": [328, 329], "pos": "np", "rank": 0.0019769873613270194, "text": "striking feature"}
-{"count": 1, "ids": [86, 520], "pos": "np", "rank": 0.0019486588776061308, "text": "large asteroid"}
+{"count": 1, "ids": [393, 519], "pos": "np", "rank": 0.0023383906531273565, "text": "larger asteroid"}
+{"count": 1, "ids": [3, 320, 298], "pos": "np", "rank": 0.002336579520513922, "text": "outer gossamer ring"}
+{"count": 1, "ids": [330, 331], "pos": "np", "rank": 0.002332336138130194, "text": "primitive telescope"}
+{"count": 1, "ids": [3, 395, 299], "pos": "np", "rank": 0.0023177355459398645, "text": "outer solar system"}
+{"count": 1, "ids": [358, 359], "pos": "np", "rank": 0.0022972810573034493, "text": "ammonia hydrosulfide"}
+{"count": 1, "ids": [431, 432], "pos": "np", "rank": 0.0022934635460339055, "text": "tiger stripes"}
+{"count": 1, "ids": [311, 332], "pos": "np", "rank": 0.002288995165253986, "text": "main body"}
+{"count": 1, "ids": [474, 334], "pos": "np", "rank": 0.002276188328986617, "text": "jovian planets"}
+{"count": 4, "ids": [218], "pos": "nn", "rank": 0.002274076853834902, "text": "area"}
+{"count": 3, "ids": [491], "pos": "nn", "rank": 0.0022626316627956423, "text": "bottom"}
+{"count": 3, "ids": [451], "pos": "nn", "rank": 0.0022521796123947968, "text": "view"}
+{"count": 1, "ids": [668, 218], "pos": "np", "rank": 0.0021794006168353373, "text": "immediate area"}
+{"count": 2, "ids": [369], "pos": "nn", "rank": 0.002161971475339137, "text": "origin"}
+{"count": 1, "ids": [592, 342, 520], "pos": "np", "rank": 0.002159653131595461, "text": "oort cloud comets"}
+{"count": 4, "ids": [329], "pos": "vbn", "rank": 0.002154648227547709, "text": "observed"}
+{"count": 1, "ids": [559, 47], "pos": "np", "rank": 0.0021432732432792607, "text": "rocky mantle"}
+{"count": 1, "ids": [530], "pos": "nnp", "rank": 0.002135125354398693, "text": "mars"}
+{"count": 3, "ids": [283], "pos": "vbd", "rank": 0.0021299379742063754, "text": "referred"}
+{"count": 1, "ids": [452], "pos": "np", "rank": 0.002116304470785801, "text": "occultation"}
+{"count": 1, "ids": [285, 301], "pos": "np", "rank": 0.0020596012769360053, "text": "galileo mission"}
+{"count": 1, "ids": [309, 305], "pos": "np", "rank": 0.0020281093427021502, "text": "minute particles"}
+{"count": 1, "ids": [126, 546, 113], "pos": "np", "rank": 0.0020049723329249773, "text": "smaller sand grains"}
+{"count": 4, "ids": [339], "pos": "nnp", "rank": 0.001997798120466639, "text": "\u2019s"}
+{"count": 1, "ids": [327, 328], "pos": "np", "rank": 0.0019769873613270194, "text": "striking feature"}
+{"count": 1, "ids": [84, 519], "pos": "np", "rank": 0.0019486588776061308, "text": "large asteroid"}
 {"count": 3, "ids": [45], "pos": "nn", "rank": 0.0019476226234595966, "text": "region"}
-{"count": 1, "ids": [676, 45], "pos": "np", "rank": 0.0019476226234595966, "text": "lower-central region"}
-{"count": 1, "ids": [521, 580], "pos": "np", "rank": 0.001943687818435915, "text": "comet nucleus"}
-{"count": 1, "ids": [439, 440, 441], "pos": "np", "rank": 0.0019421910025673934, "text": "jet propulsion laboratory"}
-{"count": 2, "ids": [347], "pos": "vbg", "rank": 0.0019415249675296881, "text": "rotating"}
-{"count": 3, "ids": [351], "pos": "vbd", "rank": 0.0019383564232604105, "text": "occurred"}
-{"count": 1, "ids": [559, 31, 4], "pos": "np", "rank": 0.001936479651049216, "text": "dense iron core"}
-{"count": 1, "ids": [548, 549], "pos": "np", "rank": 0.0019315186113445994, "text": "various-sized pebbles"}
+{"count": 1, "ids": [675, 45], "pos": "np", "rank": 0.0019476226234595966, "text": "lower-central region"}
+{"count": 1, "ids": [520, 579], "pos": "np", "rank": 0.001943687818435915, "text": "comet nucleus"}
+{"count": 1, "ids": [438, 439, 440], "pos": "np", "rank": 0.0019421910025673934, "text": "jet propulsion laboratory"}
+{"count": 2, "ids": [346], "pos": "vbg", "rank": 0.0019415249675296881, "text": "rotating"}
+{"count": 3, "ids": [350], "pos": "vbd", "rank": 0.0019383564232604105, "text": "occurred"}
+{"count": 1, "ids": [558, 31, 4], "pos": "np", "rank": 0.001936479651049216, "text": "dense iron core"}
+{"count": 1, "ids": [547, 548], "pos": "np", "rank": 0.0019315186113445994, "text": "various-sized pebbles"}
 {"count": 1, "ids": [26], "pos": "np", "rank": 0.001917306140705444, "text": "process"}
-{"count": 1, "ids": [490, 409], "pos": "np", "rank": 0.001916042268943679, "text": "frozen methane"}
-{"count": 1, "ids": [415, 416], "pos": "np", "rank": 0.001911334028738944, "text": "dune formation"}
-{"count": 1, "ids": [363], "pos": "np", "rank": 0.0019027202974833226, "text": "heat"}
-{"count": 2, "ids": [522], "pos": "np", "rank": 0.0019023707457736965, "text": "meteoroids"}
-{"count": 1, "ids": [284, 59], "pos": "np", "rank": 0.0018868932760620213, "text": "moon rocks"}
+{"count": 1, "ids": [489, 408], "pos": "np", "rank": 0.001916042268943679, "text": "frozen methane"}
+{"count": 1, "ids": [414, 415], "pos": "np", "rank": 0.001911334028738944, "text": "dune formation"}
+{"count": 1, "ids": [362], "pos": "np", "rank": 0.0019027202974833226, "text": "heat"}
+{"count": 2, "ids": [521], "pos": "np", "rank": 0.0019023707457736965, "text": "meteoroids"}
+{"count": 1, "ids": [282, 59], "pos": "np", "rank": 0.0018868932760620213, "text": "moon rocks"}
 {"count": 3, "ids": [5], "pos": "vbz", "rank": 0.001880249435193709, "text": "rises"}
-{"count": 1, "ids": [472, 473], "pos": "np", "rank": 0.0018778900333792908, "text": "amazing opportunity"}
-{"count": 3, "ids": [292], "pos": "nnp", "rank": 0.0018719785098587187, "text": "io"}
-{"count": 1, "ids": [309], "pos": "np", "rank": 0.0018717395092733365, "text": "smoke"}
-{"count": 1, "ids": [300, 184], "pos": "np", "rank": 0.0018692636164111378, "text": "ring nature"}
-{"count": 1, "ids": [3, 512], "pos": "np", "rank": 0.0018689582705355681, "text": "outer reaches"}
-{"count": 1, "ids": [554, 555], "pos": "np", "rank": 0.0018657113165170716, "text": "nut effect"}
-{"count": 1, "ids": [614, 615, 337], "pos": "np", "rank": 0.0018628717482902274, "text": "ancient chinese astronomers"}
-{"count": 1, "ids": [627, 108], "pos": "np", "rank": 0.0018621270350423153, "text": "earth-sun distance"}
-{"count": 1, "ids": [172, 229], "pos": "np", "rank": 0.0018565778361111717, "text": "volcanic gases"}
-{"count": 4, "ids": [350], "pos": "nn", "rank": 0.0018528012565959232, "text": "spot"}
-{"count": 1, "ids": [86, 97, 350], "pos": "np", "rank": 0.0018528012565959232, "text": "large dark spots"}
-{"count": 2, "ids": [530], "pos": "vbp", "rank": 0.0018057923497944116, "text": "lie"}
-{"count": 2, "ids": [171], "pos": "vbz", "rank": 0.0017882763699493083, "text": "includes"}
-{"count": 1, "ids": [336, 337, 623], "pos": "np", "rank": 0.0017737427467476806, "text": "dutch astronomer jan"}
-{"count": 1, "ids": [153], "pos": "np", "rank": 0.001760785808694459, "text": "lava"}
-{"count": 2, "ids": [585], "pos": "nnp", "rank": 0.001759542260566432, "text": "wild"}
-{"count": 1, "ids": [510, 468], "pos": "np", "rank": 0.0017519598131865279, "text": "space dust"}
-{"count": 3, "ids": [654], "pos": "nn", "rank": 0.0017308490235624057, "text": "crater"}
-{"count": 1, "ids": [658, 654], "pos": "np", "rank": 0.0017308490235624057, "text": "meteor crater"}
-{"count": 1, "ids": [399, 636, 195], "pos": "np", "rank": 0.0017239798617874039, "text": "only extraterrestrial materials"}
-{"count": 1, "ids": [369], "pos": "nn", "rank": 0.0017230412091854815, "text": "age"}
-{"count": 2, "ids": [91], "pos": "vbz", "rank": 0.0017186086775481412, "text": "consists"}
-{"count": 3, "ids": [294], "pos": "nn", "rank": 0.001716530120820394, "text": "red"}
-{"count": 1, "ids": [381, 382], "pos": "np", "rank": 0.0017127439351580407, "text": "tectonic activity"}
-{"count": 1, "ids": [562, 404, 563], "pos": "np", "rank": 0.0016875769843842942, "text": "japanese probe hayabusa"}
-{"count": 3, "ids": [191], "pos": "nn", "rank": 0.0016752399119890464, "text": "composition"}
-{"count": 1, "ids": [284, 320], "pos": "np", "rank": 0.0016633377578741762, "text": "moons amalthea"}
-{"count": 5, "ids": [234], "pos": "vbn", "rank": 0.0016549118796338757, "text": "named"}
-{"count": 3, "ids": [195], "pos": "nns", "rank": 0.001644816749634432, "text": "materials"}
-{"count": 1, "ids": [542, 195, 543], "pos": "np", "rank": 0.001644816749634432, "text": "finer materials sink"}
-{"count": 3, "ids": [510], "pos": "nn", "rank": 0.0016357579576078587, "text": "space"}
-{"count": 1, "ids": [600, 510, 332], "pos": "np", "rank": 0.0016357579576078587, "text": "hubble space telescope"}
-{"count": 1, "ids": [466, 467], "pos": "np", "rank": 0.0016305294586729307, "text": "broad sheets"}
+{"count": 1, "ids": [471, 472], "pos": "np", "rank": 0.0018778900333792908, "text": "amazing opportunity"}
+{"count": 3, "ids": [290], "pos": "nnp", "rank": 0.0018719785098587187, "text": "io"}
+{"count": 1, "ids": [307], "pos": "np", "rank": 0.0018717395092733365, "text": "smoke"}
+{"count": 1, "ids": [298, 182], "pos": "np", "rank": 0.0018692636164111378, "text": "ring nature"}
+{"count": 1, "ids": [3, 511], "pos": "np", "rank": 0.0018689582705355681, "text": "outer reaches"}
+{"count": 1, "ids": [553, 554], "pos": "np", "rank": 0.0018657113165170716, "text": "nut effect"}
+{"count": 1, "ids": [613, 614, 336], "pos": "np", "rank": 0.0018628717482902274, "text": "ancient chinese astronomers"}
+{"count": 1, "ids": [626, 106], "pos": "np", "rank": 0.0018621270350423153, "text": "earth-sun distance"}
+{"count": 1, "ids": [170, 227], "pos": "np", "rank": 0.0018565778361111717, "text": "volcanic gases"}
+{"count": 4, "ids": [349], "pos": "nn", "rank": 0.0018528012565959232, "text": "spot"}
+{"count": 1, "ids": [84, 95, 349], "pos": "np", "rank": 0.0018528012565959232, "text": "large dark spots"}
+{"count": 2, "ids": [529], "pos": "vbp", "rank": 0.0018057923497944116, "text": "lie"}
+{"count": 2, "ids": [169], "pos": "vbz", "rank": 0.0017882763699493083, "text": "includes"}
+{"count": 1, "ids": [335, 336, 622], "pos": "np", "rank": 0.0017737427467476806, "text": "dutch astronomer jan"}
+{"count": 1, "ids": [151], "pos": "np", "rank": 0.001760785808694459, "text": "lava"}
+{"count": 2, "ids": [584], "pos": "nnp", "rank": 0.001759542260566432, "text": "wild"}
+{"count": 1, "ids": [509, 467], "pos": "np", "rank": 0.0017519598131865279, "text": "space dust"}
+{"count": 3, "ids": [653], "pos": "nn", "rank": 0.0017308490235624057, "text": "crater"}
+{"count": 1, "ids": [657, 653], "pos": "np", "rank": 0.0017308490235624057, "text": "meteor crater"}
+{"count": 1, "ids": [398, 635, 193], "pos": "np", "rank": 0.0017239798617874039, "text": "only extraterrestrial materials"}
+{"count": 1, "ids": [368], "pos": "nn", "rank": 0.0017230412091854815, "text": "age"}
+{"count": 2, "ids": [89], "pos": "vbz", "rank": 0.0017186086775481412, "text": "consists"}
+{"count": 3, "ids": [292], "pos": "nn", "rank": 0.001716530120820394, "text": "red"}
+{"count": 1, "ids": [380, 381], "pos": "np", "rank": 0.0017127439351580407, "text": "tectonic activity"}
+{"count": 1, "ids": [561, 403, 562], "pos": "np", "rank": 0.0016875769843842942, "text": "japanese probe hayabusa"}
+{"count": 3, "ids": [189], "pos": "nn", "rank": 0.0016752399119890464, "text": "composition"}
+{"count": 1, "ids": [282, 318], "pos": "np", "rank": 0.0016633377578741762, "text": "moons amalthea"}
+{"count": 5, "ids": [232], "pos": "vbn", "rank": 0.0016549118796338757, "text": "named"}
+{"count": 3, "ids": [193], "pos": "nns", "rank": 0.001644816749634432, "text": "materials"}
+{"count": 1, "ids": [541, 193, 542], "pos": "np", "rank": 0.001644816749634432, "text": "finer materials sink"}
+{"count": 3, "ids": [509], "pos": "nn", "rank": 0.0016357579576078587, "text": "space"}
+{"count": 1, "ids": [599, 509, 331], "pos": "np", "rank": 0.0016357579576078587, "text": "hubble space telescope"}
+{"count": 1, "ids": [465, 466], "pos": "np", "rank": 0.0016305294586729307, "text": "broad sheets"}
 {"count": 4, "ids": [44], "pos": "nn", "rank": 0.0016261102436301317, "text": "percent"}
-{"count": 1, "ids": [44, 356], "pos": "np", "rank": 0.0016261102436301317, "text": "percent helium"}
-{"count": 2, "ids": [368], "pos": "nns", "rank": 0.001624560999574599, "text": "shapes"}
-{"count": 4, "ids": [337], "pos": "nn", "rank": 0.0016219211397767701, "text": "astronomer"}
-{"count": 1, "ids": [209, 505], "pos": "np", "rank": 0.0016202398596457683, "text": "principal characteristics"}
-{"count": 1, "ids": [372, 393], "pos": "np", "rank": 0.0016162846895921013, "text": "satellite titan"}
-{"count": 1, "ids": [411], "pos": "nns", "rank": 0.001609093499604319, "text": "compounds"}
+{"count": 1, "ids": [44, 355], "pos": "np", "rank": 0.0016261102436301317, "text": "percent helium"}
+{"count": 2, "ids": [367], "pos": "nns", "rank": 0.001624560999574599, "text": "shapes"}
+{"count": 4, "ids": [336], "pos": "nn", "rank": 0.0016219211397767701, "text": "astronomer"}
+{"count": 1, "ids": [207, 504], "pos": "np", "rank": 0.0016202398596457683, "text": "principal characteristics"}
+{"count": 1, "ids": [371, 392], "pos": "np", "rank": 0.0016162846895921013, "text": "satellite titan"}
+{"count": 1, "ids": [410], "pos": "nns", "rank": 0.001609093499604319, "text": "compounds"}
 {"count": 2, "ids": [12], "pos": "vbp", "rank": 0.001607157402580184, "text": "move"}
-{"count": 1, "ids": [635], "pos": "np", "rank": 0.0016046412381664887, "text": "meteorites"}
-{"count": 1, "ids": [587], "pos": "np", "rank": 0.0016002241397646217, "text": "spacecraft"}
-{"count": 2, "ids": [567], "pos": "vb", "rank": 0.001591841973655179, "text": "return"}
-{"count": 3, "ids": [450], "pos": "nn", "rank": 0.0015883716685437034, "text": "star"}
-{"count": 1, "ids": [380], "pos": "np", "rank": 0.0015807306317927414, "text": "evidence"}
-{"count": 2, "ids": [314], "pos": "vbn", "rank": 0.00157963219307743, "text": "believed"}
-{"count": 1, "ids": [412, 413], "pos": "np", "rank": 0.0015773295896725562, "text": "earth-like landforms"}
-{"count": 1, "ids": [620, 621], "pos": "np", "rank": 0.0015759165166514494, "text": "close approach"}
-{"count": 1, "ids": [365, 445], "pos": "np", "rank": 0.0015752401575300492, "text": "gravitational heating"}
-{"count": 1, "ids": [462, 300], "pos": "np", "rank": 0.0015577196803426147, "text": "distinct rings"}
-{"count": 3, "ids": [112], "pos": "vbn", "rank": 0.0015575313748427526, "text": "composed"}
-{"count": 3, "ids": [446], "pos": "nnp", "rank": 0.0015414463833106397, "text": "uranus"}
-{"count": 1, "ids": [321], "pos": "np", "rank": 0.001533531674645294, "text": "thebe"}
-{"count": 1, "ids": [471], "pos": "np", "rank": 0.0015214995247871971, "text": "investigators"}
-{"count": 1, "ids": [341], "pos": "nns", "rank": 0.001506713935575647, "text": "dynamics"}
-{"count": 2, "ids": [606], "pos": "vb", "rank": 0.0015060278769407605, "text": "send"}
-{"count": 1, "ids": [497], "pos": "nn", "rank": 0.001504235512441986, "text": "cap"}
-{"count": 1, "ids": [456], "pos": "np", "rank": 0.0014948540962844016, "text": "observers"}
-{"count": 1, "ids": [101, 224, 581], "pos": "np", "rank": 0.0014850036038700101, "text": "most recent entry"}
-{"count": 1, "ids": [679], "pos": "np", "rank": 0.0014813141867781913, "text": "planum"}
-{"count": 1, "ids": [410], "pos": "nn", "rank": 0.0014680547002531787, "text": "trace"}
-{"count": 1, "ids": [420], "pos": "nn", "rank": 0.0014680547002531787, "text": "rain"}
-{"count": 1, "ids": [427, 503], "pos": "np", "rank": 0.001463842122892922, "text": "active volcanism"}
-{"count": 1, "ids": [327, 383], "pos": "np", "rank": 0.0014474136993662427, "text": "internal forces"}
-{"count": 1, "ids": [423], "pos": "np", "rank": 0.0014466482909629538, "text": "lakes"}
-{"count": 1, "ids": [444], "pos": "nn", "rank": 0.0014427061220170006, "text": "innermost"}
-{"count": 3, "ids": [323], "pos": "vbg", "rank": 0.001442285948068743, "text": "forming"}
-{"count": 1, "ids": [86, 319], "pos": "np", "rank": 0.0014372964589993854, "text": "large impact"}
-{"count": 1, "ids": [663, 664], "pos": "np", "rank": 0.0014346962724926366, "text": "upturned rim"}
-{"count": 1, "ids": [298], "pos": "np", "rank": 0.0014295005504294446, "text": "arrow"}
-{"count": 3, "ids": [116], "pos": "nn", "rank": 0.0014235437415827414, "text": "exhibit"}
-{"count": 2, "ids": [419], "pos": "vbg", "rank": 0.0014204134347852032, "text": "causing"}
-{"count": 1, "ids": [584], "pos": "np", "rank": 0.0014172466084047678, "text": "encke"}
-{"count": 1, "ids": [443], "pos": "nnp", "rank": 0.0014082958525780734, "text": "miranda"}
-{"count": 1, "ids": [615, 619], "pos": "np", "rank": 0.0014069827868846705, "text": "chinese culture"}
-{"count": 1, "ids": [507, 508], "pos": "np", "rank": 0.0014032788504678316, "text": "countless chunks"}
-{"count": 1, "ids": [31, 140], "pos": "np", "rank": 0.0014030307206316544, "text": "iron fragments"}
-{"count": 1, "ids": [639], "pos": "vbp", "rank": 0.0013951506913178545, "text": "vaporize"}
-{"count": 1, "ids": [682], "pos": "nns", "rank": 0.001393754239545989, "text": "lobes"}
-{"count": 2, "ids": [239], "pos": "nn", "rank": 0.0013920691994001998, "text": "water"}
-{"count": 1, "ids": [476, 477, 478], "pos": "np", "rank": 0.0013909730393937723, "text": "record wind speeds"}
+{"count": 1, "ids": [634], "pos": "np", "rank": 0.0016046412381664887, "text": "meteorites"}
+{"count": 1, "ids": [586], "pos": "np", "rank": 0.0016002241397646217, "text": "spacecraft"}
+{"count": 2, "ids": [566], "pos": "vb", "rank": 0.001591841973655179, "text": "return"}
+{"count": 3, "ids": [449], "pos": "nn", "rank": 0.0015883716685437034, "text": "star"}
+{"count": 1, "ids": [379], "pos": "np", "rank": 0.0015807306317927414, "text": "evidence"}
+{"count": 2, "ids": [312], "pos": "vbn", "rank": 0.00157963219307743, "text": "believed"}
+{"count": 1, "ids": [411, 412], "pos": "np", "rank": 0.0015773295896725562, "text": "earth-like landforms"}
+{"count": 1, "ids": [619, 620], "pos": "np", "rank": 0.0015759165166514494, "text": "close approach"}
+{"count": 1, "ids": [364, 444], "pos": "np", "rank": 0.0015752401575300492, "text": "gravitational heating"}
+{"count": 1, "ids": [461, 298], "pos": "np", "rank": 0.0015577196803426147, "text": "distinct rings"}
+{"count": 3, "ids": [110], "pos": "vbn", "rank": 0.0015575313748427526, "text": "composed"}
+{"count": 3, "ids": [445], "pos": "nnp", "rank": 0.0015414463833106397, "text": "uranus"}
+{"count": 1, "ids": [319], "pos": "np", "rank": 0.001533531674645294, "text": "thebe"}
+{"count": 1, "ids": [470], "pos": "np", "rank": 0.0015214995247871971, "text": "investigators"}
+{"count": 1, "ids": [340], "pos": "nns", "rank": 0.001506713935575647, "text": "dynamics"}
+{"count": 2, "ids": [605], "pos": "vb", "rank": 0.0015060278769407605, "text": "send"}
+{"count": 1, "ids": [496], "pos": "nn", "rank": 0.001504235512441986, "text": "cap"}
+{"count": 1, "ids": [455], "pos": "np", "rank": 0.0014948540962844016, "text": "observers"}
+{"count": 1, "ids": [99, 222, 580], "pos": "np", "rank": 0.0014850036038700101, "text": "most recent entry"}
+{"count": 1, "ids": [678], "pos": "np", "rank": 0.0014813141867781913, "text": "planum"}
+{"count": 1, "ids": [409], "pos": "nn", "rank": 0.0014680547002531787, "text": "trace"}
+{"count": 1, "ids": [419], "pos": "nn", "rank": 0.0014680547002531787, "text": "rain"}
+{"count": 1, "ids": [426, 502], "pos": "np", "rank": 0.001463842122892922, "text": "active volcanism"}
+{"count": 1, "ids": [326, 382], "pos": "np", "rank": 0.0014474136993662427, "text": "internal forces"}
+{"count": 1, "ids": [422], "pos": "np", "rank": 0.0014466482909629538, "text": "lakes"}
+{"count": 1, "ids": [443], "pos": "nn", "rank": 0.0014427061220170006, "text": "innermost"}
+{"count": 3, "ids": [321], "pos": "vbg", "rank": 0.001442285948068743, "text": "forming"}
+{"count": 1, "ids": [84, 317], "pos": "np", "rank": 0.0014372964589993854, "text": "large impact"}
+{"count": 1, "ids": [662, 663], "pos": "np", "rank": 0.0014346962724926366, "text": "upturned rim"}
+{"count": 1, "ids": [296], "pos": "np", "rank": 0.0014295005504294446, "text": "arrow"}
+{"count": 3, "ids": [114], "pos": "nn", "rank": 0.0014235437415827414, "text": "exhibit"}
+{"count": 2, "ids": [418], "pos": "vbg", "rank": 0.0014204134347852032, "text": "causing"}
+{"count": 1, "ids": [583], "pos": "np", "rank": 0.0014172466084047678, "text": "encke"}
+{"count": 1, "ids": [442], "pos": "nnp", "rank": 0.0014082958525780734, "text": "miranda"}
+{"count": 1, "ids": [614, 618], "pos": "np", "rank": 0.0014069827868846705, "text": "chinese culture"}
+{"count": 1, "ids": [506, 507], "pos": "np", "rank": 0.0014032788504678316, "text": "countless chunks"}
+{"count": 1, "ids": [31, 138], "pos": "np", "rank": 0.0014030307206316544, "text": "iron fragments"}
+{"count": 1, "ids": [638], "pos": "vbp", "rank": 0.0013951506913178545, "text": "vaporize"}
+{"count": 1, "ids": [681], "pos": "nns", "rank": 0.001393754239545989, "text": "lobes"}
+{"count": 2, "ids": [237], "pos": "nn", "rank": 0.0013920691994001998, "text": "water"}
+{"count": 1, "ids": [475, 476, 477], "pos": "np", "rank": 0.0013909730393937723, "text": "record wind speeds"}
 {"count": 3, "ids": [24], "pos": "vbn", "rank": 0.0013890715473334132, "text": "called"}
-{"count": 1, "ids": [455], "pos": "vbn", "rank": 0.0013877561639378353, "text": "hidden"}
-{"count": 1, "ids": [539], "pos": "nn", "rank": 0.0013860132616277231, "text": "shaking"}
-{"count": 2, "ids": [305], "pos": "np", "rank": 0.001384087521785597, "text": "researchers"}
-{"count": 2, "ids": [299], "pos": "vbg", "rank": 0.001368849310253994, "text": "erupting"}
-{"count": 1, "ids": [353, 354], "pos": "np", "rank": 0.001363286446215694, "text": "intense lightning"}
-{"count": 2, "ids": [189], "pos": "vbn", "rank": 0.0013538762434412992, "text": "determined"}
-{"count": 3, "ids": [392], "pos": "nn", "rank": 0.00135299640065636, "text": "diameter"}
-{"count": 1, "ids": [513, 514, 515], "pos": "np", "rank": 0.0013473753567914196, "text": "international astronomical union"}
-{"count": 1, "ids": [454], "pos": "nn", "rank": 0.001342727881123679, "text": "occult"}
+{"count": 1, "ids": [454], "pos": "vbn", "rank": 0.0013877561639378353, "text": "hidden"}
+{"count": 1, "ids": [538], "pos": "nn", "rank": 0.0013860132616277231, "text": "shaking"}
+{"count": 2, "ids": [303], "pos": "np", "rank": 0.001384087521785597, "text": "researchers"}
+{"count": 2, "ids": [297], "pos": "vbg", "rank": 0.001368849310253994, "text": "erupting"}
+{"count": 1, "ids": [352, 353], "pos": "np", "rank": 0.001363286446215694, "text": "intense lightning"}
+{"count": 2, "ids": [187], "pos": "vbn", "rank": 0.0013538762434412992, "text": "determined"}
+{"count": 3, "ids": [391], "pos": "nn", "rank": 0.00135299640065636, "text": "diameter"}
+{"count": 1, "ids": [512, 513, 514], "pos": "np", "rank": 0.0013473753567914196, "text": "international astronomical union"}
+{"count": 1, "ids": [453], "pos": "nn", "rank": 0.001342727881123679, "text": "occult"}
 {"count": 2, "ids": [35], "pos": "vbg", "rank": 0.001340414400327732, "text": "passing"}
-{"count": 1, "ids": [300, 284], "pos": "np", "rank": 0.001335188297436527, "text": "ring moons"}
-{"count": 1, "ids": [536, 537], "pos": "np", "rank": 0.0013342675944703632, "text": "boulderstrewn topography"}
-{"count": 1, "ids": [317], "pos": "nnp", "rank": 0.0013201890536964354, "text": "adrastea"}
-{"count": 1, "ids": [389, 284], "pos": "np", "rank": 0.0013196109986966607, "text": "smallest moons"}
-{"count": 1, "ids": [372, 398], "pos": "np", "rank": 0.00131950211803675, "text": "satellite triton"}
-{"count": 2, "ids": [591], "pos": "vbd", "rank": 0.0013078535775860839, "text": "originated"}
-{"count": 2, "ids": [89], "pos": "vb", "rank": 0.0012999883801100012, "text": "produce"}
-{"count": 3, "ids": [104], "pos": "vbp", "rank": 0.001295020878534522, "text": "appear"}
-{"count": 1, "ids": [339], "pos": "nnps", "rank": 0.0012820472729942627, "text": "huygens"}
-{"count": 5, "ids": [379], "pos": "vbz", "rank": 0.001279257627254228, "text": "shows"}
-{"count": 1, "ids": [484, 485], "pos": "np", "rank": 0.001277343782474697, "text": "short life"}
-{"count": 1, "ids": [316], "pos": "nnp", "rank": 0.0012629831873360764, "text": "metis"}
-{"count": 1, "ids": [576], "pos": "vb", "rank": 0.0012629831873360764, "text": "extract"}
-{"count": 3, "ids": [184], "pos": "nn", "rank": 0.001258733593887081, "text": "nature"}
-{"count": 1, "ids": [418], "pos": "np", "rank": 0.0012417059529596002, "text": "erosion"}
-{"count": 1, "ids": [138], "pos": "np", "rank": 0.0012364278158394167, "text": "light"}
-{"count": 1, "ids": [293, 350], "pos": "np", "rank": 0.0012352008377306154, "text": "bright spot"}
-{"count": 1, "ids": [659, 660], "pos": "np", "rank": 0.0012263339191896962, "text": "huge cavity"}
-{"count": 1, "ids": [346], "pos": "nn", "rank": 0.0012231654927754344, "text": "equator"}
-{"count": 1, "ids": [97, 650], "pos": "np", "rank": 0.0012190658851258286, "text": "dark night"}
-{"count": 1, "ids": [625], "pos": "nn", "rank": 0.0012094976731888932, "text": "shell"}
-{"count": 2, "ids": [243], "pos": "nns", "rank": 0.0012039978710972094, "text": "ices"}
-{"count": 1, "ids": [564], "pos": "vbd", "rank": 0.0012022382230016996, "text": "landed"}
-{"count": 1, "ids": [480, 481], "pos": "np", "rank": 0.0011991820780001244, "text": "hour encircle"}
-{"count": 1, "ids": [288], "pos": "vbd", "rank": 0.0011980532031489368, "text": "discovered"}
-{"count": 1, "ids": [651, 652], "pos": "np", "rank": 0.0011969442949519835, "text": "naked eye"}
-{"count": 1, "ids": [461, 77], "pos": "np", "rank": 0.001191330861805717, "text": "space-based observations"}
-{"count": 2, "ids": [332], "pos": "nnp", "rank": 0.001166168069065097, "text": "telescope"}
-{"count": 1, "ids": [654, 664], "pos": "np", "rank": 0.0011538993490416037, "text": "crater rim"}
-{"count": 2, "ids": [359], "pos": "nn", "rank": 0.0011486405286517246, "text": "ammonia"}
-{"count": 1, "ids": [433], "pos": "nns", "rank": 0.0011467317730169528, "text": "stripes"}
-{"count": 3, "ids": [517], "pos": "nns", "rank": 0.0011378957650997046, "text": "objects"}
-{"count": 1, "ids": [293, 220], "pos": "np", "rank": 0.001137038426917451, "text": "bright area"}
-{"count": 1, "ids": [403], "pos": "nnp", "rank": 0.0010953943102799796, "text": "cassinihuygens"}
-{"count": 1, "ids": [44, 408], "pos": "np", "rank": 0.001084073495753421, "text": "percent nitrogen"}
-{"count": 2, "ids": [349], "pos": "nnp", "rank": 0.0010817103543285039, "text": "great"}
+{"count": 1, "ids": [298, 282], "pos": "np", "rank": 0.001335188297436527, "text": "ring moons"}
+{"count": 1, "ids": [535, 536], "pos": "np", "rank": 0.0013342675944703632, "text": "boulderstrewn topography"}
+{"count": 1, "ids": [315], "pos": "nnp", "rank": 0.0013201890536964354, "text": "adrastea"}
+{"count": 1, "ids": [388, 282], "pos": "np", "rank": 0.0013196109986966607, "text": "smallest moons"}
+{"count": 1, "ids": [371, 397], "pos": "np", "rank": 0.00131950211803675, "text": "satellite triton"}
+{"count": 2, "ids": [590], "pos": "vbd", "rank": 0.0013078535775860839, "text": "originated"}
+{"count": 2, "ids": [87], "pos": "vb", "rank": 0.0012999883801100012, "text": "produce"}
+{"count": 3, "ids": [102], "pos": "vbp", "rank": 0.001295020878534522, "text": "appear"}
+{"count": 1, "ids": [338], "pos": "nnps", "rank": 0.0012820472729942627, "text": "huygens"}
+{"count": 5, "ids": [378], "pos": "vbz", "rank": 0.001279257627254228, "text": "shows"}
+{"count": 1, "ids": [483, 484], "pos": "np", "rank": 0.001277343782474697, "text": "short life"}
+{"count": 1, "ids": [314], "pos": "nnp", "rank": 0.0012629831873360764, "text": "metis"}
+{"count": 1, "ids": [575], "pos": "vb", "rank": 0.0012629831873360764, "text": "extract"}
+{"count": 3, "ids": [182], "pos": "nn", "rank": 0.001258733593887081, "text": "nature"}
+{"count": 1, "ids": [417], "pos": "np", "rank": 0.0012417059529596002, "text": "erosion"}
+{"count": 1, "ids": [136], "pos": "np", "rank": 0.0012364278158394167, "text": "light"}
+{"count": 1, "ids": [291, 349], "pos": "np", "rank": 0.0012352008377306154, "text": "bright spot"}
+{"count": 1, "ids": [658, 659], "pos": "np", "rank": 0.0012263339191896962, "text": "huge cavity"}
+{"count": 1, "ids": [345], "pos": "nn", "rank": 0.0012231654927754344, "text": "equator"}
+{"count": 1, "ids": [95, 649], "pos": "np", "rank": 0.0012190658851258286, "text": "dark night"}
+{"count": 1, "ids": [624], "pos": "nn", "rank": 0.0012094976731888932, "text": "shell"}
+{"count": 2, "ids": [241], "pos": "nns", "rank": 0.0012039978710972094, "text": "ices"}
+{"count": 1, "ids": [563], "pos": "vbd", "rank": 0.0012022382230016996, "text": "landed"}
+{"count": 1, "ids": [479, 480], "pos": "np", "rank": 0.0011991820780001244, "text": "hour encircle"}
+{"count": 1, "ids": [286], "pos": "vbd", "rank": 0.0011980532031489368, "text": "discovered"}
+{"count": 1, "ids": [650, 651], "pos": "np", "rank": 0.0011969442949519835, "text": "naked eye"}
+{"count": 1, "ids": [460, 77], "pos": "np", "rank": 0.001191330861805717, "text": "space-based observations"}
+{"count": 2, "ids": [331], "pos": "nnp", "rank": 0.001166168069065097, "text": "telescope"}
+{"count": 1, "ids": [653, 663], "pos": "np", "rank": 0.0011538993490416037, "text": "crater rim"}
+{"count": 2, "ids": [358], "pos": "nn", "rank": 0.0011486405286517246, "text": "ammonia"}
+{"count": 1, "ids": [432], "pos": "nns", "rank": 0.0011467317730169528, "text": "stripes"}
+{"count": 3, "ids": [516], "pos": "nns", "rank": 0.0011378957650997046, "text": "objects"}
+{"count": 1, "ids": [291, 218], "pos": "np", "rank": 0.001137038426917451, "text": "bright area"}
+{"count": 1, "ids": [402], "pos": "nnp", "rank": 0.0010953943102799796, "text": "cassinihuygens"}
+{"count": 1, "ids": [44, 407], "pos": "np", "rank": 0.001084073495753421, "text": "percent nitrogen"}
+{"count": 2, "ids": [348], "pos": "nnp", "rank": 0.0010817103543285039, "text": "great"}
 {"count": 1, "ids": [47], "pos": "nn", "rank": 0.0010716366216396303, "text": "mantle"}
-{"count": 1, "ids": [365, 604], "pos": "np", "rank": 0.0010634928994404992, "text": "gravitational influence"}
-{"count": 1, "ids": [459, 453], "pos": "np", "rank": 0.0010581522353929004, "text": "primary occultation"}
-{"count": 1, "ids": [605], "pos": "vbz", "rank": 0.0010458839136129464, "text": "alters"}
-{"count": 2, "ids": [265], "pos": "vbd", "rank": 0.0010376147062620097, "text": "brought"}
-{"count": 1, "ids": [303], "pos": "nn", "rank": 0.0010298006384680026, "text": "mission"}
-{"count": 1, "ids": [385], "pos": "nn", "rank": 0.0010133111970098672, "text": "icy"}
-{"count": 2, "ids": [547], "pos": "nn", "rank": 0.0010024861664624887, "text": "sand"}
-{"count": 1, "ids": [402], "pos": "vbn", "rank": 0.0010003268166667357, "text": "photographed"}
-{"count": 1, "ids": [96], "pos": "np", "rank": 0.0010000528644565135, "text": "travel"}
-{"count": 2, "ids": [557], "pos": "nns", "rank": 0.0009919378385313722, "text": "meteorites"}
-{"count": 1, "ids": [329], "pos": "np", "rank": 0.0009884936806635097, "text": "features"}
-{"count": 3, "ids": [215], "pos": "nn", "rank": 0.0009869545454429885, "text": "source"}
-{"count": 1, "ids": [451], "pos": "vbd", "rank": 0.0009857512732009365, "text": "blocked"}
-{"count": 1, "ids": [436], "pos": "np", "rank": 0.0009847993958737313, "text": "studies"}
-{"count": 1, "ids": [631, 632], "pos": "np", "rank": 0.0009847993958737313, "text": "tiny fraction"}
-{"count": 1, "ids": [486], "pos": "nns", "rank": 0.000978479848723657, "text": "spans"}
-{"count": 1, "ids": [552], "pos": "vbp", "rank": 0.0009761491381718271, "text": "settle"}
-{"count": 3, "ids": [233], "pos": "vbn", "rank": 0.0009760326886982413, "text": "known"}
-{"count": 2, "ids": [439], "pos": "nns", "rank": 0.0009710955012836967, "text": "jets"}
+{"count": 1, "ids": [364, 603], "pos": "np", "rank": 0.0010634928994404992, "text": "gravitational influence"}
+{"count": 1, "ids": [458, 452], "pos": "np", "rank": 0.0010581522353929004, "text": "primary occultation"}
+{"count": 1, "ids": [604], "pos": "vbz", "rank": 0.0010458839136129464, "text": "alters"}
+{"count": 2, "ids": [263], "pos": "vbd", "rank": 0.0010376147062620097, "text": "brought"}
+{"count": 1, "ids": [301], "pos": "nn", "rank": 0.0010298006384680026, "text": "mission"}
+{"count": 1, "ids": [384], "pos": "nn", "rank": 0.0010133111970098672, "text": "icy"}
+{"count": 2, "ids": [546], "pos": "nn", "rank": 0.0010024861664624887, "text": "sand"}
+{"count": 1, "ids": [401], "pos": "vbn", "rank": 0.0010003268166667357, "text": "photographed"}
+{"count": 1, "ids": [94], "pos": "np", "rank": 0.0010000528644565135, "text": "travel"}
+{"count": 2, "ids": [556], "pos": "nns", "rank": 0.0009919378385313722, "text": "meteorites"}
+{"count": 1, "ids": [328], "pos": "np", "rank": 0.0009884936806635097, "text": "features"}
+{"count": 3, "ids": [213], "pos": "nn", "rank": 0.0009869545454429885, "text": "source"}
+{"count": 1, "ids": [450], "pos": "vbd", "rank": 0.0009857512732009365, "text": "blocked"}
+{"count": 1, "ids": [435], "pos": "np", "rank": 0.0009847993958737313, "text": "studies"}
+{"count": 1, "ids": [630, 631], "pos": "np", "rank": 0.0009847993958737313, "text": "tiny fraction"}
+{"count": 1, "ids": [485], "pos": "nns", "rank": 0.000978479848723657, "text": "spans"}
+{"count": 1, "ids": [551], "pos": "vbp", "rank": 0.0009761491381718271, "text": "settle"}
+{"count": 3, "ids": [231], "pos": "vbn", "rank": 0.0009760326886982413, "text": "known"}
+{"count": 2, "ids": [438], "pos": "nns", "rank": 0.0009710955012836967, "text": "jets"}
 {"count": 1, "ids": [74], "pos": "nns", "rank": 0.0009690784921610504, "text": "directions"}
-{"count": 2, "ids": [549], "pos": "nns", "rank": 0.0009657593056722997, "text": "pebbles"}
-{"count": 1, "ids": [357], "pos": "nn", "rank": 0.0009650514708580185, "text": "volume"}
-{"count": 1, "ids": [655, 319], "pos": "np", "rank": 0.0009581976393329236, "text": "explosive impact"}
-{"count": 1, "ids": [416], "pos": "nn", "rank": 0.000955667014369472, "text": "formation"}
-{"count": 1, "ids": [466, 519], "pos": "np", "rank": 0.0009522131859773512, "text": "broad categories"}
-{"count": 1, "ids": [511], "pos": "vbg", "rank": 0.0009519887303371917, "text": "separating"}
+{"count": 2, "ids": [548], "pos": "nns", "rank": 0.0009657593056722997, "text": "pebbles"}
+{"count": 1, "ids": [356], "pos": "nn", "rank": 0.0009650514708580185, "text": "volume"}
+{"count": 1, "ids": [654, 317], "pos": "np", "rank": 0.0009581976393329236, "text": "explosive impact"}
+{"count": 1, "ids": [415], "pos": "nn", "rank": 0.000955667014369472, "text": "formation"}
+{"count": 1, "ids": [465, 518], "pos": "np", "rank": 0.0009522131859773512, "text": "broad categories"}
+{"count": 1, "ids": [510], "pos": "vbg", "rank": 0.0009519887303371917, "text": "separating"}
 {"count": 1, "ids": [19], "pos": "vbd", "rank": 0.000950769162355783, "text": "flowed"}
 {"count": 1, "ids": [59], "pos": "vbz", "rank": 0.0009434466380310106, "text": "rocks"}
-{"count": 1, "ids": [473], "pos": "nn", "rank": 0.0009389450166896454, "text": "opportunity"}
-{"count": 1, "ids": [417], "pos": "nn", "rank": 0.0009365342625538722, "text": "streamlike"}
-{"count": 2, "ids": [512], "pos": "vbg", "rank": 0.0009344791352677841, "text": "reaching"}
-{"count": 2, "ids": [555], "pos": "nn", "rank": 0.0009328556582585358, "text": "effect"}
-{"count": 1, "ids": [365, 555], "pos": "np", "rank": 0.0009328556582585358, "text": "gravitational effect"}
-{"count": 4, "ids": [229], "pos": "nn", "rank": 0.0009282889180555859, "text": "gas"}
+{"count": 1, "ids": [472], "pos": "nn", "rank": 0.0009389450166896454, "text": "opportunity"}
+{"count": 1, "ids": [416], "pos": "nn", "rank": 0.0009365342625538722, "text": "streamlike"}
+{"count": 2, "ids": [511], "pos": "vbg", "rank": 0.0009344791352677841, "text": "reaching"}
+{"count": 2, "ids": [554], "pos": "nn", "rank": 0.0009328556582585358, "text": "effect"}
+{"count": 1, "ids": [364, 554], "pos": "np", "rank": 0.0009328556582585358, "text": "gravitational effect"}
+{"count": 4, "ids": [227], "pos": "nn", "rank": 0.0009282889180555859, "text": "gas"}
 {"count": 2, "ids": [31], "pos": "nn", "rank": 0.0009240315658596543, "text": "iron"}
-{"count": 1, "ids": [312], "pos": "vbn", "rank": 0.0009232103781861126, "text": "dispersed"}
-{"count": 1, "ids": [489], "pos": "nn", "rank": 0.0009224469620652193, "text": "cirrus-like"}
-{"count": 1, "ids": [518], "pos": "vbn", "rank": 0.0009193963204367629, "text": "classified"}
-{"count": 1, "ids": [421, 422], "pos": "np", "rank": 0.0009069692549734891, "text": "northern latitudes"}
-{"count": 1, "ids": [482, 483], "pos": "np", "rank": 0.0009069692549734891, "text": "windiest places"}
-{"count": 1, "ids": [666], "pos": "nn", "rank": 0.0009065304944457871, "text": "countryside"}
-{"count": 1, "ids": [384], "pos": "vbn", "rank": 0.0009038246726807053, "text": "ripped"}
-{"count": 2, "ids": [362], "pos": "vbn", "rank": 0.0009028356422089106, "text": "driven"}
-{"count": 1, "ids": [121], "pos": "vb", "rank": 0.0009016765670611966, "text": "contain"}
-{"count": 1, "ids": [360], "pos": "nn", "rank": 0.0008960236333430444, "text": "hydrosulfide"}
-{"count": 1, "ids": [550], "pos": "vbn", "rank": 0.0008958270998912862, "text": "shaken"}
-{"count": 2, "ids": [107], "pos": "vbp", "rank": 0.0008931386611851224, "text": "indicate"}
-{"count": 2, "ids": [638], "pos": "nns", "rank": 0.0008872237410172538, "text": "feet"}
-{"count": 1, "ids": [448], "pos": "nn", "rank": 0.0008870389070502724, "text": "front"}
-{"count": 1, "ids": [640], "pos": "np", "rank": 0.0008841743720381456, "text": "micrometeorites"}
-{"count": 2, "ids": [438], "pos": "nnp", "rank": 0.0008823211738971708, "text": "nasa"}
-{"count": 1, "ids": [395], "pos": "nnp", "rank": 0.0008701554868091752, "text": "mercury"}
-{"count": 1, "ids": [643], "pos": "vbp", "rank": 0.0008669436888464718, "text": "drift"}
-{"count": 1, "ids": [586], "pos": "np", "rank": 0.0008651921019610232, "text": "stardust"}
-{"count": 1, "ids": [435], "pos": "nns", "rank": 0.0008649476998109994, "text": "ridges"}
-{"count": 2, "ids": [441], "pos": "nn", "rank": 0.000863244853176701, "text": "laboratory"}
-{"count": 1, "ids": [598], "pos": "vbz", "rank": 0.0008623438387423827, "text": "hosts"}
-{"count": 1, "ids": [646], "pos": "vbp", "rank": 0.0008614095094862315, "text": "enter"}
-{"count": 2, "ids": [580], "pos": "nn", "rank": 0.0008613616858939569, "text": "nucleus"}
-{"count": 1, "ids": [382], "pos": "nn", "rank": 0.0008563719675790204, "text": "activity"}
+{"count": 1, "ids": [310], "pos": "vbn", "rank": 0.0009232103781861126, "text": "dispersed"}
+{"count": 1, "ids": [488], "pos": "nn", "rank": 0.0009224469620652193, "text": "cirrus-like"}
+{"count": 1, "ids": [517], "pos": "vbn", "rank": 0.0009193963204367629, "text": "classified"}
+{"count": 1, "ids": [420, 421], "pos": "np", "rank": 0.0009069692549734891, "text": "northern latitudes"}
+{"count": 1, "ids": [481, 482], "pos": "np", "rank": 0.0009069692549734891, "text": "windiest places"}
+{"count": 1, "ids": [665], "pos": "nn", "rank": 0.0009065304944457871, "text": "countryside"}
+{"count": 1, "ids": [383], "pos": "vbn", "rank": 0.0009038246726807053, "text": "ripped"}
+{"count": 2, "ids": [361], "pos": "vbn", "rank": 0.0009028356422089106, "text": "driven"}
+{"count": 1, "ids": [119], "pos": "vb", "rank": 0.0009016765670611966, "text": "contain"}
+{"count": 1, "ids": [359], "pos": "nn", "rank": 0.0008960236333430444, "text": "hydrosulfide"}
+{"count": 1, "ids": [549], "pos": "vbn", "rank": 0.0008958270998912862, "text": "shaken"}
+{"count": 2, "ids": [105], "pos": "vbp", "rank": 0.0008931386611851224, "text": "indicate"}
+{"count": 2, "ids": [637], "pos": "nns", "rank": 0.0008872237410172538, "text": "feet"}
+{"count": 1, "ids": [447], "pos": "nn", "rank": 0.0008870389070502724, "text": "front"}
+{"count": 1, "ids": [639], "pos": "np", "rank": 0.0008841743720381456, "text": "micrometeorites"}
+{"count": 2, "ids": [437], "pos": "nnp", "rank": 0.0008823211738971708, "text": "nasa"}
+{"count": 1, "ids": [394], "pos": "nnp", "rank": 0.0008701554868091752, "text": "mercury"}
+{"count": 1, "ids": [642], "pos": "vbp", "rank": 0.0008669436888464718, "text": "drift"}
+{"count": 1, "ids": [585], "pos": "np", "rank": 0.0008651921019610232, "text": "stardust"}
+{"count": 1, "ids": [434], "pos": "nns", "rank": 0.0008649476998109994, "text": "ridges"}
+{"count": 2, "ids": [440], "pos": "nn", "rank": 0.000863244853176701, "text": "laboratory"}
+{"count": 1, "ids": [597], "pos": "vbz", "rank": 0.0008623438387423827, "text": "hosts"}
+{"count": 1, "ids": [645], "pos": "vbp", "rank": 0.0008614095094862315, "text": "enter"}
+{"count": 2, "ids": [579], "pos": "nn", "rank": 0.0008613616858939569, "text": "nucleus"}
+{"count": 1, "ids": [381], "pos": "nn", "rank": 0.0008563719675790204, "text": "activity"}
 {"count": 1, "ids": [4], "pos": "nn", "rank": 0.0008534053264232576, "text": "core"}
-{"count": 1, "ids": [147], "pos": "vbn", "rank": 0.000851719551303975, "text": "distributed"}
-{"count": 1, "ids": [558], "pos": "vb", "rank": 0.0008491136251168968, "text": "differentiate"}
-{"count": 1, "ids": [617], "pos": "nn", "rank": 0.0008451275456310227, "text": "dedication"}
-{"count": 1, "ids": [302], "pos": "vbn", "rank": 0.0008442088250261695, "text": "investigated"}
-{"count": 2, "ids": [563], "pos": "nn", "rank": 0.0008437884921921471, "text": "hayabusa"}
-{"count": 1, "ids": [320], "pos": "nnp", "rank": 0.0008316688789370881, "text": "amalthea"}
-{"count": 1, "ids": [432], "pos": "nn", "rank": 0.0008286396654386501, "text": "tiger"}
-{"count": 1, "ids": [506], "pos": "vbp", "rank": 0.0008279631952621011, "text": "inhabit"}
-{"count": 1, "ids": [645], "pos": "nns", "rank": 0.0008161700370792945, "text": "thousands"}
-{"count": 1, "ids": [414], "pos": "nn", "rank": 0.0008154718770766995, "text": "geologic"}
-{"count": 1, "ids": [505], "pos": "nns", "rank": 0.0008101199298228841, "text": "characteristics"}
-{"count": 1, "ids": [546], "pos": "nn", "rank": 0.0008093101936270713, "text": "jar"}
-{"count": 1, "ids": [426], "pos": "nnp", "rank": 0.0008038842170477814, "text": "saturn-one"}
-{"count": 1, "ids": [568], "pos": "nnp", "rank": 0.0008023206190832443, "text": "june"}
-{"count": 1, "ids": [566], "pos": "nnp", "rank": 0.0008010741095489972, "text": "itokawa"}
-{"count": 1, "ids": [374], "pos": "nn", "rank": 0.0008009625541272992, "text": "parent"}
-{"count": 1, "ids": [467], "pos": "nns", "rank": 0.000800897741366264, "text": "sheets"}
-{"count": 1, "ids": [479], "pos": "vbg", "rank": 0.0007979111645626415, "text": "exceeding"}
-{"count": 1, "ids": [315], "pos": "vbn", "rank": 0.000790511388349533, "text": "blasted"}
-{"count": 1, "ids": [556, 380], "pos": "np", "rank": 0.0007903653158963707, "text": "indirect evidence"}
-{"count": 1, "ids": [413], "pos": "nns", "rank": 0.0007886647948362781, "text": "landforms"}
+{"count": 1, "ids": [145], "pos": "vbn", "rank": 0.000851719551303975, "text": "distributed"}
+{"count": 1, "ids": [557], "pos": "vb", "rank": 0.0008491136251168968, "text": "differentiate"}
+{"count": 1, "ids": [616], "pos": "nn", "rank": 0.0008451275456310227, "text": "dedication"}
+{"count": 1, "ids": [300], "pos": "vbn", "rank": 0.0008442088250261695, "text": "investigated"}
+{"count": 2, "ids": [562], "pos": "nn", "rank": 0.0008437884921921471, "text": "hayabusa"}
+{"count": 1, "ids": [318], "pos": "nnp", "rank": 0.0008316688789370881, "text": "amalthea"}
+{"count": 1, "ids": [431], "pos": "nn", "rank": 0.0008286396654386501, "text": "tiger"}
+{"count": 1, "ids": [505], "pos": "vbp", "rank": 0.0008279631952621011, "text": "inhabit"}
+{"count": 1, "ids": [644], "pos": "nns", "rank": 0.0008161700370792945, "text": "thousands"}
+{"count": 1, "ids": [413], "pos": "nn", "rank": 0.0008154718770766995, "text": "geologic"}
+{"count": 1, "ids": [504], "pos": "nns", "rank": 0.0008101199298228841, "text": "characteristics"}
+{"count": 1, "ids": [545], "pos": "nn", "rank": 0.0008093101936270713, "text": "jar"}
+{"count": 1, "ids": [425], "pos": "nnp", "rank": 0.0008038842170477814, "text": "saturn-one"}
+{"count": 1, "ids": [567], "pos": "nnp", "rank": 0.0008023206190832443, "text": "june"}
+{"count": 1, "ids": [565], "pos": "nnp", "rank": 0.0008010741095489972, "text": "itokawa"}
+{"count": 1, "ids": [373], "pos": "nn", "rank": 0.0008009625541272992, "text": "parent"}
+{"count": 1, "ids": [466], "pos": "nns", "rank": 0.000800897741366264, "text": "sheets"}
+{"count": 1, "ids": [478], "pos": "vbg", "rank": 0.0007979111645626415, "text": "exceeding"}
+{"count": 1, "ids": [313], "pos": "vbn", "rank": 0.000790511388349533, "text": "blasted"}
+{"count": 1, "ids": [555, 379], "pos": "np", "rank": 0.0007903653158963707, "text": "indirect evidence"}
+{"count": 1, "ids": [412], "pos": "nns", "rank": 0.0007886647948362781, "text": "landforms"}
 {"count": 1, "ids": [56], "pos": "nn", "rank": 0.0007886476350712747, "text": "temperature"}
-{"count": 1, "ids": [324], "pos": "nn", "rank": 0.0007879582583257247, "text": "revolution"}
-{"count": 1, "ids": [445], "pos": "nn", "rank": 0.0007876200787650246, "text": "heating"}
-{"count": 1, "ids": [671], "pos": "vb", "rank": 0.0007821217812019744, "text": "locate"}
-{"count": 1, "ids": [378], "pos": "nnp", "rank": 0.0007812615216883321, "text": "tethys"}
-{"count": 1, "ids": [630], "pos": "vbz", "rank": 0.0007801195637106378, "text": "carries"}
-{"count": 1, "ids": [551], "pos": "nn", "rank": 0.0007778480992018315, "text": "top"}
-{"count": 1, "ids": [665], "pos": "vbg", "rank": 0.0007778480992018315, "text": "surrounding"}
-{"count": 1, "ids": [344], "pos": "nn", "rank": 0.0007727103223259474, "text": "fainter"}
-{"count": 1, "ids": [458], "pos": "vbg", "rank": 0.0007581347759326034, "text": "meaning"}
-{"count": 1, "ids": [627], "pos": "nnp", "rank": 0.0007581347759326034, "text": "earth-sun"}
+{"count": 1, "ids": [323], "pos": "nn", "rank": 0.0007879582583257247, "text": "revolution"}
+{"count": 1, "ids": [444], "pos": "nn", "rank": 0.0007876200787650246, "text": "heating"}
+{"count": 1, "ids": [670], "pos": "vb", "rank": 0.0007821217812019744, "text": "locate"}
+{"count": 1, "ids": [377], "pos": "nnp", "rank": 0.0007812615216883321, "text": "tethys"}
+{"count": 1, "ids": [629], "pos": "vbz", "rank": 0.0007801195637106378, "text": "carries"}
+{"count": 1, "ids": [550], "pos": "nn", "rank": 0.0007778480992018315, "text": "top"}
+{"count": 1, "ids": [664], "pos": "vbg", "rank": 0.0007778480992018315, "text": "surrounding"}
+{"count": 1, "ids": [343], "pos": "nn", "rank": 0.0007727103223259474, "text": "fainter"}
+{"count": 1, "ids": [457], "pos": "vbg", "rank": 0.0007581347759326034, "text": "meaning"}
+{"count": 1, "ids": [626], "pos": "nnp", "rank": 0.0007581347759326034, "text": "earth-sun"}
 {"count": 1, "ids": [61], "pos": "vbz", "rank": 0.000757436237693628, "text": "changes"}
-{"count": 2, "ids": [637], "pos": "nns", "rank": 0.0007549305902727093, "text": "meters"}
-{"count": 1, "ids": [366], "pos": "nn", "rank": 0.0007504997421435051, "text": "compression"}
-{"count": 1, "ids": [514, 456], "pos": "np", "rank": 0.0007474270481422008, "text": "astronomical observers"}
-{"count": 1, "ids": [501], "pos": "vb", "rank": 0.0007254942641957734, "text": "play"}
-{"count": 1, "ids": [597], "pos": "nn", "rank": 0.0007251668877672797, "text": "existence"}
-{"count": 2, "ids": [664], "pos": "nn", "rank": 0.0007173481362463183, "text": "rim"}
-{"count": 1, "ids": [470], "pos": "vbn", "rank": 0.0007126423872623542, "text": "provided"}
-{"count": 1, "ids": [616], "pos": "nn", "rank": 0.0007059624372950338, "text": "testimony"}
-{"count": 1, "ids": [619], "pos": "nn", "rank": 0.0007034913934423352, "text": "culture"}
-{"count": 1, "ids": [508], "pos": "nns", "rank": 0.0007016394252339158, "text": "chunks"}
-{"count": 1, "ids": [658], "pos": "nnp", "rank": 0.0007016394252339158, "text": "meteor"}
-{"count": 1, "ids": [543], "pos": "nn", "rank": 0.0006989975484944191, "text": "sink"}
-{"count": 1, "ids": [524, 525], "pos": "np", "rank": 0.0006986069016705488, "text": "newest grouping"}
-{"count": 1, "ids": [533, 534], "pos": "np", "rank": 0.0006986069016705488, "text": "several hypotheses"}
-{"count": 1, "ids": [503], "pos": "nn", "rank": 0.0006956329505939009, "text": "volcanism"}
-{"count": 2, "ids": [476], "pos": "vbn", "rank": 0.0006954865196968862, "text": "recorded"}
-{"count": 1, "ids": [457], "pos": "nn", "rank": 0.0006953595445924292, "text": "wink"}
-{"count": 1, "ids": [678], "pos": "nnp", "rank": 0.0006933116693646208, "text": "sputnik"}
-{"count": 1, "ids": [338], "pos": "nnp", "rank": 0.0006932123631343163, "text": "christian"}
-{"count": 1, "ids": [623], "pos": "nnp", "rank": 0.0006932123631343163, "text": "jan"}
-{"count": 1, "ids": [354], "pos": "nn", "rank": 0.000681643223107847, "text": "lightning"}
-{"count": 1, "ids": [224, 460], "pos": "np", "rank": 0.0006802121151059685, "text": "recent ground-"}
-{"count": 1, "ids": [514], "pos": "nnp", "rank": 0.0006736876783957098, "text": "astronomical"}
-{"count": 1, "ids": [415], "pos": "nn", "rank": 0.0006704800343131123, "text": "dune"}
-{"count": 1, "ids": [537], "pos": "nn", "rank": 0.0006671337972351816, "text": "topography"}
-{"count": 1, "ids": [428], "pos": "nns", "rank": 0.0006646059714085027, "text": "eruptions"}
-{"count": 1, "ids": [545], "pos": "vbz", "rank": 0.0006636017287779046, "text": "happens"}
-{"count": 1, "ids": [388], "pos": "vbp", "rank": 0.0006579737707286853, "text": "punch"}
-{"count": 1, "ids": [647], "pos": "nn", "rank": 0.000655558218455849, "text": "day"}
-{"count": 1, "ids": [373], "pos": "nn", "rank": 0.0006536573932453982, "text": "tandem"}
-{"count": 1, "ids": [535], "pos": "vb", "rank": 0.0006462314827220905, "text": "explain"}
-{"count": 1, "ids": [613], "pos": "nns", "rank": 0.0006401603709064175, "text": "thanks"}
-{"count": 1, "ids": [440], "pos": "nnp", "rank": 0.000639482783378095, "text": "propulsion"}
-{"count": 1, "ids": [361], "pos": "vbn", "rank": 0.0006394333889502995, "text": "segregated"}
-{"count": 1, "ids": [485], "pos": "nn", "rank": 0.0006386718912373485, "text": "life"}
+{"count": 2, "ids": [636], "pos": "nns", "rank": 0.0007549305902727093, "text": "meters"}
+{"count": 1, "ids": [365], "pos": "nn", "rank": 0.0007504997421435051, "text": "compression"}
+{"count": 1, "ids": [513, 455], "pos": "np", "rank": 0.0007474270481422008, "text": "astronomical observers"}
+{"count": 1, "ids": [500], "pos": "vb", "rank": 0.0007254942641957734, "text": "play"}
+{"count": 1, "ids": [596], "pos": "nn", "rank": 0.0007251668877672797, "text": "existence"}
+{"count": 2, "ids": [663], "pos": "nn", "rank": 0.0007173481362463183, "text": "rim"}
+{"count": 1, "ids": [469], "pos": "vbn", "rank": 0.0007126423872623542, "text": "provided"}
+{"count": 1, "ids": [615], "pos": "nn", "rank": 0.0007059624372950338, "text": "testimony"}
+{"count": 1, "ids": [618], "pos": "nn", "rank": 0.0007034913934423352, "text": "culture"}
+{"count": 1, "ids": [507], "pos": "nns", "rank": 0.0007016394252339158, "text": "chunks"}
+{"count": 1, "ids": [657], "pos": "nnp", "rank": 0.0007016394252339158, "text": "meteor"}
+{"count": 1, "ids": [542], "pos": "nn", "rank": 0.0006989975484944191, "text": "sink"}
+{"count": 1, "ids": [523, 524], "pos": "np", "rank": 0.0006986069016705488, "text": "newest grouping"}
+{"count": 1, "ids": [532, 533], "pos": "np", "rank": 0.0006986069016705488, "text": "several hypotheses"}
+{"count": 1, "ids": [502], "pos": "nn", "rank": 0.0006956329505939009, "text": "volcanism"}
+{"count": 2, "ids": [475], "pos": "vbn", "rank": 0.0006954865196968862, "text": "recorded"}
+{"count": 1, "ids": [456], "pos": "nn", "rank": 0.0006953595445924292, "text": "wink"}
+{"count": 1, "ids": [677], "pos": "nnp", "rank": 0.0006933116693646208, "text": "sputnik"}
+{"count": 1, "ids": [337], "pos": "nnp", "rank": 0.0006932123631343163, "text": "christian"}
+{"count": 1, "ids": [622], "pos": "nnp", "rank": 0.0006932123631343163, "text": "jan"}
+{"count": 1, "ids": [353], "pos": "nn", "rank": 0.000681643223107847, "text": "lightning"}
+{"count": 1, "ids": [222, 459], "pos": "np", "rank": 0.0006802121151059685, "text": "recent ground-"}
+{"count": 1, "ids": [513], "pos": "nnp", "rank": 0.0006736876783957098, "text": "astronomical"}
+{"count": 1, "ids": [414], "pos": "nn", "rank": 0.0006704800343131123, "text": "dune"}
+{"count": 1, "ids": [536], "pos": "nn", "rank": 0.0006671337972351816, "text": "topography"}
+{"count": 1, "ids": [427], "pos": "nns", "rank": 0.0006646059714085027, "text": "eruptions"}
+{"count": 1, "ids": [544], "pos": "vbz", "rank": 0.0006636017287779046, "text": "happens"}
+{"count": 1, "ids": [387], "pos": "vbp", "rank": 0.0006579737707286853, "text": "punch"}
+{"count": 1, "ids": [646], "pos": "nn", "rank": 0.000655558218455849, "text": "day"}
+{"count": 1, "ids": [372], "pos": "nn", "rank": 0.0006536573932453982, "text": "tandem"}
+{"count": 1, "ids": [534], "pos": "vb", "rank": 0.0006462314827220905, "text": "explain"}
+{"count": 1, "ids": [612], "pos": "nns", "rank": 0.0006401603709064175, "text": "thanks"}
+{"count": 1, "ids": [439], "pos": "nnp", "rank": 0.000639482783378095, "text": "propulsion"}
+{"count": 1, "ids": [360], "pos": "vbn", "rank": 0.0006394333889502995, "text": "segregated"}
+{"count": 1, "ids": [484], "pos": "nn", "rank": 0.0006386718912373485, "text": "life"}
 {"count": 1, "ids": [81], "pos": "nn", "rank": 0.000638396117951855, "text": "center"}
-{"count": 3, "ids": [193], "pos": "nn", "rank": 0.0006382922568780756, "text": "structure"}
-{"count": 1, "ids": [462, 193], "pos": "np", "rank": 0.0006382922568780756, "text": "distinct structures"}
-{"count": 1, "ids": [590], "pos": "nn", "rank": 0.0006344216248261505, "text": "depiction"}
-{"count": 1, "ids": [670], "pos": "vbz", "rank": 0.0006316747536033817, "text": "attempts"}
-{"count": 1, "ids": [595], "pos": "nnp", "rank": 0.0006315399681181518, "text": "gerald"}
-{"count": 1, "ids": [377], "pos": "nnp", "rank": 0.0006306159846544959, "text": "dione"}
-{"count": 1, "ids": [633, 634], "pos": "np", "rank": 0.0006291527839029021, "text": "apollo astronauts"}
-{"count": 1, "ids": [667], "pos": "nns", "rank": 0.0006279082937640798, "text": "tons"}
-{"count": 1, "ids": [650], "pos": "nn", "rank": 0.0006095329425629143, "text": "night"}
-{"count": 2, "ids": [579], "pos": "nnp", "rank": 0.0006044421275509137, "text": "holmes"}
-{"count": 1, "ids": [572], "pos": "vbn", "rank": 0.0006035720049933566, "text": "launched"}
-{"count": 1, "ids": [575], "pos": "vbg", "rank": 0.0006001621381212422, "text": "digging"}
-{"count": 1, "ids": [469], "pos": "nnp", "rank": 0.0005995910390000622, "text": "voyager"}
-{"count": 1, "ids": [480], "pos": "nn", "rank": 0.0005995910390000622, "text": "hour"}
-{"count": 1, "ids": [652], "pos": "nn", "rank": 0.0005984721474759918, "text": "eye"}
-{"count": 1, "ids": [401], "pos": "vbn", "rank": 0.0005976687694679103, "text": "visited"}
+{"count": 3, "ids": [191], "pos": "nn", "rank": 0.0006382922568780756, "text": "structure"}
+{"count": 1, "ids": [461, 191], "pos": "np", "rank": 0.0006382922568780756, "text": "distinct structures"}
+{"count": 1, "ids": [589], "pos": "nn", "rank": 0.0006344216248261505, "text": "depiction"}
+{"count": 1, "ids": [669], "pos": "vbz", "rank": 0.0006316747536033817, "text": "attempts"}
+{"count": 1, "ids": [594], "pos": "nnp", "rank": 0.0006315399681181518, "text": "gerald"}
+{"count": 1, "ids": [376], "pos": "nnp", "rank": 0.0006306159846544959, "text": "dione"}
+{"count": 1, "ids": [632, 633], "pos": "np", "rank": 0.0006291527839029021, "text": "apollo astronauts"}
+{"count": 1, "ids": [666], "pos": "nns", "rank": 0.0006279082937640798, "text": "tons"}
+{"count": 1, "ids": [649], "pos": "nn", "rank": 0.0006095329425629143, "text": "night"}
+{"count": 2, "ids": [578], "pos": "nnp", "rank": 0.0006044421275509137, "text": "holmes"}
+{"count": 1, "ids": [571], "pos": "vbn", "rank": 0.0006035720049933566, "text": "launched"}
+{"count": 1, "ids": [574], "pos": "vbg", "rank": 0.0006001621381212422, "text": "digging"}
+{"count": 1, "ids": [468], "pos": "nnp", "rank": 0.0005995910390000622, "text": "voyager"}
+{"count": 1, "ids": [479], "pos": "nn", "rank": 0.0005995910390000622, "text": "hour"}
+{"count": 1, "ids": [651], "pos": "nn", "rank": 0.0005984721474759918, "text": "eye"}
+{"count": 1, "ids": [400], "pos": "vbn", "rank": 0.0005976687694679103, "text": "visited"}
 {"count": 1, "ids": [77], "pos": "nns", "rank": 0.0005956654309028585, "text": "observations"}
-{"count": 1, "ids": [405, 406], "pos": "np", "rank": 0.0005944257250190786, "text": "atmospheric pressure"}
-{"count": 1, "ids": [516], "pos": "vbd", "rank": 0.0005875407158670741, "text": "organized"}
-{"count": 1, "ids": [491], "pos": "nn", "rank": 0.0005867966986922592, "text": "deck"}
-{"count": 1, "ids": [600], "pos": "nnp", "rank": 0.0005860533063442084, "text": "hubble"}
-{"count": 1, "ids": [621], "pos": "nn", "rank": 0.0005800184686817406, "text": "approach"}
-{"count": 1, "ids": [642], "pos": "nn", "rank": 0.0005720931495335202, "text": "fall"}
-{"count": 1, "ids": [596], "pos": "vbd", "rank": 0.000564611705032415, "text": "predicted"}
-{"count": 1, "ids": [478], "pos": "nns", "rank": 0.0005598931970912188, "text": "speeds"}
-{"count": 1, "ids": [412], "pos": "nn", "rank": 0.0005534781674748694, "text": "earth-like"}
-{"count": 1, "ids": [528], "pos": "nnp", "rank": 0.0005428544078937721, "text": "pluto"}
-{"count": 1, "ids": [604], "pos": "nn", "rank": 0.0005317464497202496, "text": "influence"}
-{"count": 1, "ids": [115], "pos": "nns", "rank": 0.0005276337756268338, "text": "grains"}
-{"count": 1, "ids": [358], "pos": "vbn", "rank": 0.000525432898572886, "text": "condensed"}
-{"count": 1, "ids": [355], "pos": "nn", "rank": 0.0005218349098879164, "text": "hydrogen"}
-{"count": 1, "ids": [356], "pos": "nn", "rank": 0.0005218349098879164, "text": "helium"}
-{"count": 1, "ids": [408], "pos": "nn", "rank": 0.0005218349098879164, "text": "nitrogen"}
-{"count": 1, "ids": [536], "pos": "nn", "rank": 0.000519813352969547, "text": "boulderstrewn"}
-{"count": 1, "ids": [364], "pos": "vbn", "rank": 0.0005146614421988799, "text": "released"}
-{"count": 1, "ids": [660], "pos": "nn", "rank": 0.0005057181302246197, "text": "cavity"}
-{"count": 1, "ids": [481], "pos": "nn", "rank": 0.0005000264322282568, "text": "encircle"}
-{"count": 1, "ids": [311], "pos": "nn", "rank": 0.0004981232239571784, "text": "minute"}
-{"count": 1, "ids": [523], "pos": "nn", "rank": 0.0004977674667786825, "text": "dwarf"}
-{"count": 1, "ids": [610], "pos": "vbz", "rank": 0.0004977674667786824, "text": "averages"}
-{"count": 1, "ids": [248], "pos": "nn", "rank": 0.0004923996979368657, "text": "part"}
-{"count": 1, "ids": [578], "pos": "vbn", "rank": 0.0004923996979368657, "text": "scheduled"}
-{"count": 1, "ids": [657], "pos": "nnp", "rank": 0.0004923996979368657, "text": "arizona"}
-{"count": 1, "ids": [383], "pos": "nns", "rank": 0.0004917393970162904, "text": "forces"}
-{"count": 1, "ids": [424], "pos": "np", "rank": 0.0004902445483676084, "text": "enceladus"}
-{"count": 1, "ids": [447], "pos": "np", "rank": 0.0004902445483676084, "text": "discovery"}
-{"count": 1, "ids": [498], "pos": "np", "rank": 0.0004902445483676084, "text": "sublimation"}
-{"count": 1, "ids": [500], "pos": "np", "rank": 0.0004902445483676084, "text": "roles"}
-{"count": 1, "ids": [599, 193], "pos": "np", "rank": 0.0004902445483676084, "text": "disc-shaped structure"}
-{"count": 1, "ids": [461], "pos": "nn", "rank": 0.00048465248974708487, "text": "space-based"}
-{"count": 1, "ids": [519], "pos": "nns", "rank": 0.0004761065929886756, "text": "categories"}
-{"count": 1, "ids": [434], "pos": "nns", "rank": 0.0004675382593135798, "text": "fractures"}
-{"count": 1, "ids": [589], "pos": "nn", "rank": 0.0004581973958746853, "text": "artist"}
-{"count": 1, "ids": [515], "pos": "nnp", "rank": 0.00045776987946558896, "text": "union"}
-{"count": 1, "ids": [618], "pos": "nn", "rank": 0.00045700111902143714, "text": "endurance"}
-{"count": 1, "ids": [431], "pos": "vbz", "rank": 0.00045480068847790934, "text": "replenishes"}
-{"count": 1, "ids": [376], "pos": "nnp", "rank": 0.00045348462748674457, "text": "rhea"}
-{"count": 1, "ids": [430], "pos": "vbn", "rank": 0.00045348462748674457, "text": "comprised"}
-{"count": 1, "ids": [483], "pos": "nns", "rank": 0.00045348462748674457, "text": "places"}
-{"count": 1, "ids": [504], "pos": "vb", "rank": 0.00045348462748674457, "text": "describe"}
-{"count": 1, "ids": [541], "pos": "nns", "rank": 0.00045348462748674457, "text": "boulders"}
-{"count": 1, "ids": [674], "pos": "nn", "rank": 0.00045348462748674457, "text": "amount"}
-{"count": 1, "ids": [594], "pos": "nn", "rank": 0.00044603424561155924, "text": "honor"}
-{"count": 1, "ids": [644], "pos": "vbp", "rank": 0.0004412348272302148, "text": "estimate"}
-{"count": 1, "ids": [422], "pos": "nns", "rank": 0.0004378691294191501, "text": "latitudes"}
-{"count": 1, "ids": [127], "pos": "vbp", "rank": 0.0004339321852016894, "text": "scatter"}
-{"count": 1, "ids": [581], "pos": "nn", "rank": 0.0004302685049240022, "text": "entry"}
-{"count": 2, "ids": [677], "pos": "nn", "rank": 0.00042637922797102867, "text": "heart"}
-{"count": 1, "ids": [391], "pos": "nns", "rank": 0.00041578672164795056, "text": "tens"}
-{"count": 1, "ids": [367], "pos": "vbp", "rank": 0.00041337483886473835, "text": "vary"}
-{"count": 1, "ids": [477], "pos": "nn", "rank": 0.0003928829471533561, "text": "wind"}
-{"count": 1, "ids": [386], "pos": "nnp", "rank": 0.00038625971251308414, "text": "hyperion"}
-{"count": 1, "ids": [437], "pos": "vbn", "rank": 0.000384615425715171, "text": "conducted"}
-{"count": 1, "ids": [632], "pos": "nn", "rank": 0.000384615425715171, "text": "fraction"}
-{"count": 1, "ids": [641], "pos": "nn", "rank": 0.000384615425715171, "text": "rate"}
-{"count": 1, "ids": [525], "pos": "nn", "rank": 0.0003493034508352744, "text": "grouping"}
-{"count": 1, "ids": [534], "pos": "nns", "rank": 0.0003493034508352744, "text": "hypotheses"}
-{"count": 1, "ids": [554], "pos": "nn", "rank": 0.0003493034508352744, "text": "nut"}
-{"count": 1, "ids": [609], "pos": "nn", "rank": 0.0003493034508352744, "text": "period"}
-{"count": 1, "ids": [322], "pos": "nn", "rank": 0.0003408695470586644, "text": "gossamer"}
-{"count": 1, "ids": [460], "pos": "nn", "rank": 0.00034010605755298426, "text": "ground-"}
-{"count": 1, "ids": [603], "pos": "nn", "rank": 0.00031457639195145106, "text": "plane"}
-{"count": 1, "ids": [634], "pos": "nns", "rank": 0.00031457639195145106, "text": "astronauts"}
-{"count": 1, "ids": [406], "pos": "nn", "rank": 0.0002972128625095393, "text": "pressure"}
-{"count": 1, "ids": [286], "pos": "nnp", "rank": 0.0002451222741838042, "text": "galilean"}
-{"count": 1, "ids": [289], "pos": "nn", "rank": 0.0002451222741838042, "text": "plume"}
-{"count": 1, "ids": [304], "pos": "vbg", "rank": 0.0002451222741838042, "text": "analyzing"}
-{"count": 1, "ids": [84], "pos": "vbg", "rank": 0.0002451222741838042, "text": "requiring"}
-{"count": 1, "ids": [342], "pos": "nns", "rank": 0.0002451222741838042, "text": "bands"}
+{"count": 1, "ids": [404, 405], "pos": "np", "rank": 0.0005944257250190786, "text": "atmospheric pressure"}
+{"count": 1, "ids": [515], "pos": "vbd", "rank": 0.0005875407158670741, "text": "organized"}
+{"count": 1, "ids": [490], "pos": "nn", "rank": 0.0005867966986922592, "text": "deck"}
+{"count": 1, "ids": [599], "pos": "nnp", "rank": 0.0005860533063442084, "text": "hubble"}
+{"count": 1, "ids": [620], "pos": "nn", "rank": 0.0005800184686817406, "text": "approach"}
+{"count": 1, "ids": [641], "pos": "nn", "rank": 0.0005720931495335202, "text": "fall"}
+{"count": 1, "ids": [595], "pos": "vbd", "rank": 0.000564611705032415, "text": "predicted"}
+{"count": 1, "ids": [477], "pos": "nns", "rank": 0.0005598931970912188, "text": "speeds"}
+{"count": 1, "ids": [411], "pos": "nn", "rank": 0.0005534781674748694, "text": "earth-like"}
+{"count": 1, "ids": [527], "pos": "nnp", "rank": 0.0005428544078937721, "text": "pluto"}
+{"count": 1, "ids": [603], "pos": "nn", "rank": 0.0005317464497202496, "text": "influence"}
+{"count": 1, "ids": [113], "pos": "nns", "rank": 0.0005276337756268338, "text": "grains"}
+{"count": 1, "ids": [357], "pos": "vbn", "rank": 0.000525432898572886, "text": "condensed"}
+{"count": 1, "ids": [354], "pos": "nn", "rank": 0.0005218349098879164, "text": "hydrogen"}
+{"count": 1, "ids": [355], "pos": "nn", "rank": 0.0005218349098879164, "text": "helium"}
+{"count": 1, "ids": [407], "pos": "nn", "rank": 0.0005218349098879164, "text": "nitrogen"}
+{"count": 1, "ids": [535], "pos": "nn", "rank": 0.000519813352969547, "text": "boulderstrewn"}
+{"count": 1, "ids": [363], "pos": "vbn", "rank": 0.0005146614421988799, "text": "released"}
+{"count": 1, "ids": [659], "pos": "nn", "rank": 0.0005057181302246197, "text": "cavity"}
+{"count": 1, "ids": [480], "pos": "nn", "rank": 0.0005000264322282568, "text": "encircle"}
+{"count": 1, "ids": [309], "pos": "nn", "rank": 0.0004981232239571784, "text": "minute"}
+{"count": 1, "ids": [522], "pos": "nn", "rank": 0.0004977674667786825, "text": "dwarf"}
+{"count": 1, "ids": [609], "pos": "vbz", "rank": 0.0004977674667786824, "text": "averages"}
+{"count": 1, "ids": [246], "pos": "nn", "rank": 0.0004923996979368657, "text": "part"}
+{"count": 1, "ids": [577], "pos": "vbn", "rank": 0.0004923996979368657, "text": "scheduled"}
+{"count": 1, "ids": [656], "pos": "nnp", "rank": 0.0004923996979368657, "text": "arizona"}
+{"count": 1, "ids": [382], "pos": "nns", "rank": 0.0004917393970162904, "text": "forces"}
+{"count": 1, "ids": [423], "pos": "np", "rank": 0.0004902445483676084, "text": "enceladus"}
+{"count": 1, "ids": [446], "pos": "np", "rank": 0.0004902445483676084, "text": "discovery"}
+{"count": 1, "ids": [497], "pos": "np", "rank": 0.0004902445483676084, "text": "sublimation"}
+{"count": 1, "ids": [499], "pos": "np", "rank": 0.0004902445483676084, "text": "roles"}
+{"count": 1, "ids": [598, 191], "pos": "np", "rank": 0.0004902445483676084, "text": "disc-shaped structure"}
+{"count": 1, "ids": [460], "pos": "nn", "rank": 0.00048465248974708487, "text": "space-based"}
+{"count": 1, "ids": [518], "pos": "nns", "rank": 0.0004761065929886756, "text": "categories"}
+{"count": 1, "ids": [433], "pos": "nns", "rank": 0.0004675382593135798, "text": "fractures"}
+{"count": 1, "ids": [588], "pos": "nn", "rank": 0.0004581973958746853, "text": "artist"}
+{"count": 1, "ids": [514], "pos": "nnp", "rank": 0.00045776987946558896, "text": "union"}
+{"count": 1, "ids": [617], "pos": "nn", "rank": 0.00045700111902143714, "text": "endurance"}
+{"count": 1, "ids": [430], "pos": "vbz", "rank": 0.00045480068847790934, "text": "replenishes"}
+{"count": 1, "ids": [375], "pos": "nnp", "rank": 0.00045348462748674457, "text": "rhea"}
+{"count": 1, "ids": [429], "pos": "vbn", "rank": 0.00045348462748674457, "text": "comprised"}
+{"count": 1, "ids": [482], "pos": "nns", "rank": 0.00045348462748674457, "text": "places"}
+{"count": 1, "ids": [503], "pos": "vb", "rank": 0.00045348462748674457, "text": "describe"}
+{"count": 1, "ids": [540], "pos": "nns", "rank": 0.00045348462748674457, "text": "boulders"}
+{"count": 1, "ids": [673], "pos": "nn", "rank": 0.00045348462748674457, "text": "amount"}
+{"count": 1, "ids": [593], "pos": "nn", "rank": 0.00044603424561155924, "text": "honor"}
+{"count": 1, "ids": [643], "pos": "vbp", "rank": 0.0004412348272302148, "text": "estimate"}
+{"count": 1, "ids": [421], "pos": "nns", "rank": 0.0004378691294191501, "text": "latitudes"}
+{"count": 1, "ids": [125], "pos": "vbp", "rank": 0.0004339321852016894, "text": "scatter"}
+{"count": 1, "ids": [580], "pos": "nn", "rank": 0.0004302685049240022, "text": "entry"}
+{"count": 2, "ids": [676], "pos": "nn", "rank": 0.00042637922797102867, "text": "heart"}
+{"count": 1, "ids": [390], "pos": "nns", "rank": 0.00041578672164795056, "text": "tens"}
+{"count": 1, "ids": [366], "pos": "vbp", "rank": 0.00041337483886473835, "text": "vary"}
+{"count": 1, "ids": [476], "pos": "nn", "rank": 0.0003928829471533561, "text": "wind"}
+{"count": 1, "ids": [385], "pos": "nnp", "rank": 0.00038625971251308414, "text": "hyperion"}
+{"count": 1, "ids": [436], "pos": "vbn", "rank": 0.000384615425715171, "text": "conducted"}
+{"count": 1, "ids": [631], "pos": "nn", "rank": 0.000384615425715171, "text": "fraction"}
+{"count": 1, "ids": [640], "pos": "nn", "rank": 0.000384615425715171, "text": "rate"}
+{"count": 1, "ids": [524], "pos": "nn", "rank": 0.0003493034508352744, "text": "grouping"}
+{"count": 1, "ids": [533], "pos": "nns", "rank": 0.0003493034508352744, "text": "hypotheses"}
+{"count": 1, "ids": [553], "pos": "nn", "rank": 0.0003493034508352744, "text": "nut"}
+{"count": 1, "ids": [608], "pos": "nn", "rank": 0.0003493034508352744, "text": "period"}
+{"count": 1, "ids": [320], "pos": "nn", "rank": 0.0003408695470586644, "text": "gossamer"}
+{"count": 1, "ids": [459], "pos": "nn", "rank": 0.00034010605755298426, "text": "ground-"}
+{"count": 1, "ids": [602], "pos": "nn", "rank": 0.00031457639195145106, "text": "plane"}
+{"count": 1, "ids": [633], "pos": "nns", "rank": 0.00031457639195145106, "text": "astronauts"}
+{"count": 1, "ids": [405], "pos": "nn", "rank": 0.0002972128625095393, "text": "pressure"}
+{"count": 1, "ids": [284], "pos": "nnp", "rank": 0.0002451222741838042, "text": "galilean"}
+{"count": 1, "ids": [287], "pos": "nn", "rank": 0.0002451222741838042, "text": "plume"}
+{"count": 1, "ids": [302], "pos": "vbg", "rank": 0.0002451222741838042, "text": "analyzing"}
+{"count": 1, "ids": [322], "pos": "vbg", "rank": 0.0002451222741838042, "text": "requiring"}
+{"count": 1, "ids": [341], "pos": "nns", "rank": 0.0002451222741838042, "text": "bands"}
 {"count": 1, "ids": [58], "pos": "nn", "rank": 0.0002451222741838042, "text": "addition"}
-{"count": 1, "ids": [429], "pos": "nn", "rank": 0.0002451222741838042, "text": "outgassing"}
-{"count": 1, "ids": [465], "pos": "vbn", "rank": 0.0002451222741838042, "text": "interspersed"}
-{"count": 1, "ids": [281], "pos": "nn", "rank": 0.0002451222741838042, "text": "list"}
-{"count": 1, "ids": [513], "pos": "nnp", "rank": 0.0002451222741838042, "text": "international"}
-{"count": 1, "ids": [540], "pos": "vb", "rank": 0.0002451222741838042, "text": "cause"}
-{"count": 1, "ids": [553], "pos": "nnp", "rank": 0.0002451222741838042, "text": "brazil"}
-{"count": 1, "ids": [574], "pos": "vbg", "rank": 0.0002451222741838042, "text": "exploring"}
-{"count": 1, "ids": [588], "pos": "nn", "rank": 0.0002451222741838042, "text": "inset"}
-{"count": 1, "ids": [599], "pos": "nn", "rank": 0.0002451222741838042, "text": "disc-shaped"}
-{"count": 2, "ids": [607], "pos": "nnp", "rank": 0.0002451222741838042, "text": "halley"}
-{"count": 1, "ids": [611], "pos": "nns", "rank": 0.0002451222741838042, "text": "appearances"}
-{"count": 1, "ids": [633], "pos": "nnp", "rank": 0.0002451222741838042, "text": "apollo"}
-{"count": 1, "ids": [648], "pos": "nn", "rank": 0.0002451222741838042, "text": "sunset"}
-{"count": 1, "ids": [673], "pos": "vbn", "rank": 0.0002451222741838042, "text": "based"}
+{"count": 1, "ids": [428], "pos": "nn", "rank": 0.0002451222741838042, "text": "outgassing"}
+{"count": 1, "ids": [464], "pos": "vbn", "rank": 0.0002451222741838042, "text": "interspersed"}
+{"count": 1, "ids": [279], "pos": "nn", "rank": 0.0002451222741838042, "text": "list"}
+{"count": 1, "ids": [512], "pos": "nnp", "rank": 0.0002451222741838042, "text": "international"}
+{"count": 1, "ids": [539], "pos": "vb", "rank": 0.0002451222741838042, "text": "cause"}
+{"count": 1, "ids": [552], "pos": "nnp", "rank": 0.0002451222741838042, "text": "brazil"}
+{"count": 1, "ids": [573], "pos": "vbg", "rank": 0.0002451222741838042, "text": "exploring"}
+{"count": 1, "ids": [587], "pos": "nn", "rank": 0.0002451222741838042, "text": "inset"}
+{"count": 1, "ids": [598], "pos": "nn", "rank": 0.0002451222741838042, "text": "disc-shaped"}
+{"count": 2, "ids": [606], "pos": "nnp", "rank": 0.0002451222741838042, "text": "halley"}
+{"count": 1, "ids": [610], "pos": "nns", "rank": 0.0002451222741838042, "text": "appearances"}
+{"count": 1, "ids": [632], "pos": "nnp", "rank": 0.0002451222741838042, "text": "apollo"}
+{"count": 1, "ids": [647], "pos": "nn", "rank": 0.0002451222741838042, "text": "sunset"}
+{"count": 1, "ids": [672], "pos": "vbn", "rank": 0.0002451222741838042, "text": "based"}

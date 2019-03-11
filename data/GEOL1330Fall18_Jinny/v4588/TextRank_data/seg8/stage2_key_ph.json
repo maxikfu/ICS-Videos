@@ -1,54 +1,54 @@
-{"count": 1, "ids": [806, 123, 368], "pos": "np", "rank": 0.09847299944577477, "text": "term crystal shape"}
-{"count": 1, "ids": [799, 795, 800], "pos": "np", "rank": 0.08686469708840817, "text": "porcelain streak plate"}
-{"count": 3, "ids": [103], "pos": "np", "rank": 0.06878092034937369, "text": "minerals"}
-{"count": 1, "ids": [808, 123], "pos": "np", "rank": 0.049236499722887385, "text": "individual crystals"}
-{"count": 6, "ids": [795], "pos": "nn", "rank": 0.04343234854420409, "text": "streak"}
-{"count": 1, "ids": [97, 795], "pos": "np", "rank": 0.04343234854420409, "text": "dark streak"}
-{"count": 1, "ids": [796, 103], "pos": "np", "rank": 0.034390460174686846, "text": "powdered mineral"}
-{"count": 1, "ids": [123], "pos": "np", "rank": 0.03282433314859159, "text": "crystals"}
-{"count": 1, "ids": [133, 795], "pos": "np", "rank": 0.02895489902946939, "text": "light-colored streak"}
-{"count": 1, "ids": [151, 123, 368], "pos": "np", "rank": 0.027104052400663683, "text": "common crystal shape"}
-{"count": 4, "ids": [368], "pos": "nns", "rank": 0.025178446757371905, "text": "shapes"}
-{"count": 1, "ids": [505, 368], "pos": "np", "rank": 0.025178446757371905, "text": "characteristic shape"}
-{"count": 1, "ids": [815, 123], "pos": "np", "rank": 0.024618249861443692, "text": "magnetite crystals"}
-{"count": 1, "ids": [803, 103], "pos": "np", "rank": 0.02292697344979123, "text": "metallic minerals"}
-{"count": 1, "ids": [813, 814], "pos": "np", "rank": 0.021620653859115782, "text": "regular polygons"}
-{"count": 1, "ids": [819, 123], "pos": "np", "rank": 0.019694599889154955, "text": "fluorite crystals"}
-{"count": 1, "ids": [803, 804], "pos": "np", "rank": 0.019678219189257627, "text": "metallic luster"}
-{"count": 1, "ids": [812, 103], "pos": "np", "rank": 0.017195230087343423, "text": "flattened minerals"}
-{"count": 4, "ids": [809], "pos": "vbp", "rank": 0.015188402222110054, "text": "tend"}
-{"count": 2, "ids": [794], "pos": "nn", "rank": 0.014424088279204208, "text": "identification"}
-{"count": 1, "ids": [800], "pos": "nn", "rank": 0.014316099167021614, "text": "plate"}
-{"count": 1, "ids": [505, 123, 368], "pos": "np", "rank": 0.014067571349396395, "text": "characteristic crystal shapes"}
-{"count": 1, "ids": [801], "pos": "vbz", "rank": 0.01402173596658747, "text": "leaves"}
-{"count": 2, "ids": [746], "pos": "vb", "rank": 0.013917702849988464, "text": "grow"}
-{"count": 1, "ids": [820], "pos": "nns", "rank": 0.013684875779702024, "text": "cubes"}
-{"count": 1, "ids": [802], "pos": "vb", "rank": 0.011083922422966068, "text": "help"}
-{"count": 1, "ids": [814], "pos": "nns", "rank": 0.010754485706693939, "text": "polygons"}
-{"count": 1, "ids": [187], "pos": "nns", "rank": 0.010753289146257854, "text": "aggregates"}
-{"count": 1, "ids": [818], "pos": "nns", "rank": 0.010449248779941796, "text": "dodecahedrons"}
-{"count": 1, "ids": [116], "pos": "vbp", "rank": 0.010129974547144911, "text": "exhibit"}
-{"count": 3, "ids": [804], "pos": "nn", "rank": 0.009839109594628814, "text": "luster"}
-{"count": 2, "ids": [200, 804], "pos": "np", "rank": 0.009839109594628814, "text": "nonmetallic luster"}
-{"count": 1, "ids": [223, 570], "pos": "np", "rank": 0.009542594336978261, "text": "pyrite samples"}
-{"count": 1, "ids": [285], "pos": "vb", "rank": 0.00949589900738051, "text": "refer"}
+{"count": 1, "ids": [805, 121, 367], "pos": "np", "rank": 0.09847299944577477, "text": "term crystal shape"}
+{"count": 1, "ids": [798, 794, 799], "pos": "np", "rank": 0.08686469708840817, "text": "porcelain streak plate"}
+{"count": 3, "ids": [101], "pos": "np", "rank": 0.06878092034937369, "text": "minerals"}
+{"count": 1, "ids": [807, 121], "pos": "np", "rank": 0.049236499722887385, "text": "individual crystals"}
+{"count": 6, "ids": [794], "pos": "nn", "rank": 0.04343234854420409, "text": "streak"}
+{"count": 1, "ids": [95, 794], "pos": "np", "rank": 0.04343234854420409, "text": "dark streak"}
+{"count": 1, "ids": [795, 101], "pos": "np", "rank": 0.034390460174686846, "text": "powdered mineral"}
+{"count": 1, "ids": [121], "pos": "np", "rank": 0.03282433314859159, "text": "crystals"}
+{"count": 1, "ids": [131, 794], "pos": "np", "rank": 0.02895489902946939, "text": "light-colored streak"}
+{"count": 1, "ids": [149, 121, 367], "pos": "np", "rank": 0.027104052400663683, "text": "common crystal shape"}
+{"count": 4, "ids": [367], "pos": "nns", "rank": 0.025178446757371905, "text": "shapes"}
+{"count": 1, "ids": [504, 367], "pos": "np", "rank": 0.025178446757371905, "text": "characteristic shape"}
+{"count": 1, "ids": [814, 121], "pos": "np", "rank": 0.024618249861443692, "text": "magnetite crystals"}
+{"count": 1, "ids": [802, 101], "pos": "np", "rank": 0.02292697344979123, "text": "metallic minerals"}
+{"count": 1, "ids": [812, 813], "pos": "np", "rank": 0.021620653859115782, "text": "regular polygons"}
+{"count": 1, "ids": [818, 121], "pos": "np", "rank": 0.019694599889154955, "text": "fluorite crystals"}
+{"count": 1, "ids": [802, 803], "pos": "np", "rank": 0.019678219189257627, "text": "metallic luster"}
+{"count": 1, "ids": [811, 101], "pos": "np", "rank": 0.017195230087343423, "text": "flattened minerals"}
+{"count": 4, "ids": [808], "pos": "vbp", "rank": 0.015188402222110054, "text": "tend"}
+{"count": 2, "ids": [793], "pos": "nn", "rank": 0.014424088279204208, "text": "identification"}
+{"count": 1, "ids": [799], "pos": "nn", "rank": 0.014316099167021614, "text": "plate"}
+{"count": 1, "ids": [504, 121, 367], "pos": "np", "rank": 0.014067571349396395, "text": "characteristic crystal shapes"}
+{"count": 1, "ids": [800], "pos": "vbz", "rank": 0.01402173596658747, "text": "leaves"}
+{"count": 2, "ids": [745], "pos": "vb", "rank": 0.013917702849988464, "text": "grow"}
+{"count": 1, "ids": [819], "pos": "nns", "rank": 0.013684875779702024, "text": "cubes"}
+{"count": 1, "ids": [801], "pos": "vb", "rank": 0.011083922422966068, "text": "help"}
+{"count": 1, "ids": [813], "pos": "nns", "rank": 0.010754485706693939, "text": "polygons"}
+{"count": 1, "ids": [185], "pos": "nns", "rank": 0.010753289146257854, "text": "aggregates"}
+{"count": 1, "ids": [817], "pos": "nns", "rank": 0.010449248779941796, "text": "dodecahedrons"}
+{"count": 1, "ids": [114], "pos": "vbp", "rank": 0.010129974547144911, "text": "exhibit"}
+{"count": 3, "ids": [803], "pos": "nn", "rank": 0.009839109594628814, "text": "luster"}
+{"count": 2, "ids": [198, 803], "pos": "np", "rank": 0.009839109594628814, "text": "nonmetallic luster"}
+{"count": 1, "ids": [221, 569], "pos": "np", "rank": 0.009542594336978261, "text": "pyrite samples"}
+{"count": 1, "ids": [283], "pos": "vb", "rank": 0.00949589900738051, "text": "refer"}
 {"count": 1, "ids": [74], "pos": "nn", "rank": 0.00917987025500327, "text": "direction"}
-{"count": 1, "ids": [807], "pos": "nn", "rank": 0.008988821835919987, "text": "habit"}
-{"count": 1, "ids": [817], "pos": "nns", "rank": 0.008925091805819903, "text": "garnets"}
-{"count": 1, "ids": [811], "pos": "vbn", "rank": 0.008617911647350577, "text": "elongated"}
-{"count": 1, "ids": [816], "pos": "nns", "rank": 0.008317742472311401, "text": "octahedrons"}
-{"count": 1, "ids": [799], "pos": "nn", "rank": 0.00760484494586223, "text": "porcelain"}
-{"count": 1, "ids": [351], "pos": "vbp", "rank": 0.007603219292137928, "text": "occur"}
-{"count": 1, "ids": [213], "pos": "np", "rank": 0.006862478682998821, "text": "others"}
-{"count": 1, "ids": [278], "pos": "vb", "rank": 0.0065646679506001235, "text": "distinguish"}
-{"count": 2, "ids": [111], "pos": "nn", "rank": 0.0060358178432972955, "text": "color"}
-{"count": 1, "ids": [812], "pos": "vbn", "rank": 0.005756205624605994, "text": "flattened"}
-{"count": 1, "ids": [323], "pos": "vbp", "rank": 0.005648012911142939, "text": "form"}
-{"count": 1, "ids": [379], "pos": "vbn", "rank": 0.005532655083447694, "text": "shown"}
-{"count": 1, "ids": [223], "pos": "nn", "rank": 0.0047712971684891305, "text": "pyrite"}
-{"count": 1, "ids": [570], "pos": "nns", "rank": 0.0038825372769958127, "text": "samples"}
-{"count": 1, "ids": [806], "pos": "nn", "rank": 0.0037662537982468404, "text": "term"}
-{"count": 1, "ids": [805], "pos": "np", "rank": 0.0037094225072626724, "text": "mineralogists"}
-{"count": 2, "ids": [164], "pos": "nn", "rank": 0.0034312393414994103, "text": "example"}
-{"count": 1, "ids": [129], "pos": "nnp", "rank": 0.0018547112536313362, "text": "quartz"}
-{"count": 1, "ids": [810], "pos": "nns", "rank": 0.0018547112536313362, "text": "dimensions"}
+{"count": 1, "ids": [806], "pos": "nn", "rank": 0.008988821835919987, "text": "habit"}
+{"count": 1, "ids": [816], "pos": "nns", "rank": 0.008925091805819903, "text": "garnets"}
+{"count": 1, "ids": [810], "pos": "vbn", "rank": 0.008617911647350577, "text": "elongated"}
+{"count": 1, "ids": [815], "pos": "nns", "rank": 0.008317742472311401, "text": "octahedrons"}
+{"count": 1, "ids": [798], "pos": "nn", "rank": 0.00760484494586223, "text": "porcelain"}
+{"count": 1, "ids": [350], "pos": "vbp", "rank": 0.007603219292137928, "text": "occur"}
+{"count": 1, "ids": [211], "pos": "np", "rank": 0.006862478682998821, "text": "others"}
+{"count": 1, "ids": [276], "pos": "vb", "rank": 0.0065646679506001235, "text": "distinguish"}
+{"count": 2, "ids": [109], "pos": "nn", "rank": 0.0060358178432972955, "text": "color"}
+{"count": 1, "ids": [811], "pos": "vbn", "rank": 0.005756205624605994, "text": "flattened"}
+{"count": 1, "ids": [321], "pos": "vbp", "rank": 0.005648012911142939, "text": "form"}
+{"count": 1, "ids": [378], "pos": "vbn", "rank": 0.005532655083447694, "text": "shown"}
+{"count": 1, "ids": [221], "pos": "nn", "rank": 0.0047712971684891305, "text": "pyrite"}
+{"count": 1, "ids": [569], "pos": "nns", "rank": 0.0038825372769958127, "text": "samples"}
+{"count": 1, "ids": [805], "pos": "nn", "rank": 0.0037662537982468404, "text": "term"}
+{"count": 1, "ids": [804], "pos": "np", "rank": 0.0037094225072626724, "text": "mineralogists"}
+{"count": 2, "ids": [162], "pos": "nn", "rank": 0.0034312393414994103, "text": "example"}
+{"count": 1, "ids": [127], "pos": "nnp", "rank": 0.0018547112536313362, "text": "quartz"}
+{"count": 1, "ids": [809], "pos": "nns", "rank": 0.0018547112536313362, "text": "dimensions"}

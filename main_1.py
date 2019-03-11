@@ -1,4 +1,4 @@
-import GFQG
+import GFQG_1
 import ocr2dic
 import spacy
 import numpy as np
@@ -31,7 +31,7 @@ def texttiling_file_read(path_to_segmented_book):
     for k,v in text_tiling_dict.items():
         doc = nlp(v)
         for token in doc:
-            if not GFQG.is_stop(token.text) and not token.is_punct and token.text not in ['\n', ' '] \
+            if not GFQG_1.is_stop(token.text) and not token.is_punct and token.text not in ['\n', ' '] \
                     and token.text.isalpha():
                 if token.lemma_.lower() in total_count_in_book:
                     total_count_in_book[token.lemma_.lower()] += 1
@@ -65,7 +65,7 @@ if __name__ == '__main__':
         doc = nlp(' '.join(segment_text))
         video_words = set()
         for token in doc:
-            if not GFQG.is_stop(token.text) and not token.is_punct and token.tag_ in ['NN', 'NNS', 'NNP', 'NNPS']:
+            if not GFQG_1.is_stop(token.text) and not token.is_punct and token.tag_ in ['NN', 'NNS', 'NNP', 'NNPS']:
                 video_words.add(token.lemma_.lower())
         seg_number_list = []
         seg_score_list = []
@@ -83,8 +83,8 @@ if __name__ == '__main__':
         if len(scores) >= 3:
             max_score_seg = [scores[0][0], scores[1][0], scores[2][0]]
             segment_text = nlp(book_dict[max_score_seg[0]].text + book_dict[max_score_seg[1]].text + book_dict[max_score_seg[2]].text)
-            already_selected = GFQG.rawtext2question(segment_text, video_words, already_selected, total_w_count,
-                                                     book_dict, folder, v_seg, all_questions)
+            already_selected = GFQG_1.rawtext2question(segment_text, video_words, already_selected, total_w_count,
+                                                       book_dict, folder, v_seg, all_questions)
         else:
             pass
     with open(folder+'ranked_questions.txt', 'w') as f:

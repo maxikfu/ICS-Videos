@@ -1,50 +1,50 @@
-{"count": 1, "ids": [162, 103], "pos": "np", "rank": 0.0938767036554688, "text": "different minerals"}
-{"count": 1, "ids": [59, 164], "pos": "np", "rank": 0.07068828836797429, "text": "rocks example"}
-{"count": 1, "ids": [179, 180, 181], "pos": "np", "rank": 0.056731913798859473, "text": "solid organic debris"}
-{"count": 1, "ids": [103, 168], "pos": "np", "rank": 0.0469383518277344, "text": "mineral calcite"}
-{"count": 1, "ids": [175, 176, 177], "pos": "np", "rank": 0.046402995607977136, "text": "noncrystalline glassy substances"}
-{"count": 1, "ids": [169, 170], "pos": "np", "rank": 0.04161570349620221, "text": "nonmineral matter"}
-{"count": 1, "ids": [165, 59, 166], "pos": "np", "rank": 0.035344144183987146, "text": "sedimentary rock limestone"}
-{"count": 1, "ids": [167, 149], "pos": "np", "rank": 0.03256377814106455, "text": "impure mass"}
-{"count": 1, "ids": [103], "pos": "np", "rank": 0.03129223455182294, "text": "minerals"}
-{"count": 1, "ids": [192, 193], "pos": "np", "rank": 0.028387875495891144, "text": "crystalline structure"}
-{"count": 1, "ids": [181], "pos": "nn", "rank": 0.028365956899429737, "text": "debris"}
-{"count": 1, "ids": [91], "pos": "vbz", "rank": 0.024641897059424236, "text": "consists"}
-{"count": 1, "ids": [178], "pos": "nn", "rank": 0.023980313569202494, "text": "coal"}
+{"count": 1, "ids": [160, 101], "pos": "np", "rank": 0.0938767036554688, "text": "different minerals"}
+{"count": 1, "ids": [59, 162], "pos": "np", "rank": 0.07068828836797429, "text": "rocks example"}
+{"count": 1, "ids": [177, 178, 179], "pos": "np", "rank": 0.056731913798859473, "text": "solid organic debris"}
+{"count": 1, "ids": [101, 166], "pos": "np", "rank": 0.0469383518277344, "text": "mineral calcite"}
+{"count": 1, "ids": [173, 174, 175], "pos": "np", "rank": 0.046402995607977136, "text": "noncrystalline glassy substances"}
+{"count": 1, "ids": [167, 168], "pos": "np", "rank": 0.04161570349620221, "text": "nonmineral matter"}
+{"count": 1, "ids": [163, 59, 164], "pos": "np", "rank": 0.035344144183987146, "text": "sedimentary rock limestone"}
+{"count": 1, "ids": [165, 147], "pos": "np", "rank": 0.03256377814106455, "text": "impure mass"}
+{"count": 1, "ids": [101], "pos": "np", "rank": 0.03129223455182294, "text": "minerals"}
+{"count": 1, "ids": [190, 191], "pos": "np", "rank": 0.028387875495891144, "text": "crystalline structure"}
+{"count": 1, "ids": [179], "pos": "nn", "rank": 0.028365956899429737, "text": "debris"}
+{"count": 1, "ids": [89], "pos": "vbz", "rank": 0.024641897059424236, "text": "consists"}
+{"count": 1, "ids": [176], "pos": "nn", "rank": 0.023980313569202494, "text": "coal"}
 {"count": 2, "ids": [59], "pos": "np", "rank": 0.023562762789324763, "text": "rocks"}
-{"count": 1, "ids": [177], "pos": "nns", "rank": 0.023201497803988568, "text": "substances"}
-{"count": 1, "ids": [9, 195], "pos": "np", "rank": 0.022462155079045372, "text": "earth materials"}
-{"count": 1, "ids": [101, 59], "pos": "np", "rank": 0.02242506928979074, "text": "most rocks"}
-{"count": 1, "ids": [170], "pos": "nn", "rank": 0.020807851748101104, "text": "matter"}
-{"count": 1, "ids": [102], "pos": "nn", "rank": 0.01920684962703836, "text": "granite"}
-{"count": 1, "ids": [172, 59, 173], "pos": "np", "rank": 0.01914256049758772, "text": "volcanic rocks obsidian"}
-{"count": 1, "ids": [99], "pos": "vbp", "rank": 0.017584172557061132, "text": "make"}
-{"count": 1, "ids": [186], "pos": "nn", "rank": 0.016359327486126243, "text": "mind"}
-{"count": 1, "ids": [149], "pos": "nn", "rank": 0.016281889070532275, "text": "mass"}
-{"count": 1, "ids": [174], "pos": "nn", "rank": 0.015127051892392962, "text": "pumice"}
-{"count": 1, "ids": [168], "pos": "nn", "rank": 0.014234442380691612, "text": "calcite"}
-{"count": 1, "ids": [185], "pos": "vb", "rank": 0.014234442380691612, "text": "keep"}
-{"count": 1, "ids": [121], "pos": "vbn", "rank": 0.014234442380691612, "text": "contained"}
-{"count": 1, "ids": [193], "pos": "nn", "rank": 0.014193937747945572, "text": "structure"}
-{"count": 1, "ids": [190, 191], "pos": "np", "rank": 0.012141432649500933, "text": "chemical composition"}
-{"count": 1, "ids": [166], "pos": "nn", "rank": 0.011994383190854599, "text": "limestone"}
-{"count": 1, "ids": [112], "pos": "vbn", "rank": 0.01153201357037881, "text": "composed"}
-{"count": 1, "ids": [187], "pos": "nns", "rank": 0.01153201357037881, "text": "aggregates"}
-{"count": 1, "ids": [189], "pos": "vbn", "rank": 0.01153201357037881, "text": "determined"}
-{"count": 1, "ids": [195], "pos": "nns", "rank": 0.011231077539522686, "text": "materials"}
-{"count": 1, "ids": [163], "pos": "vbn", "rank": 0.00880099921531883, "text": "identified"}
-{"count": 1, "ids": [167], "pos": "nn", "rank": 0.00880099921531883, "text": "impure"}
-{"count": 1, "ids": [175], "pos": "nn", "rank": 0.00880099921531883, "text": "noncrystalline"}
-{"count": 1, "ids": [192], "pos": "nn", "rank": 0.008650896932136576, "text": "crystalline"}
-{"count": 1, "ids": [183], "pos": "vbz", "rank": 0.00788134736315316, "text": "deals"}
-{"count": 1, "ids": [164], "pos": "nn", "rank": 0.00699109964140775, "text": "example"}
-{"count": 1, "ids": [191], "pos": "nn", "rank": 0.006070716324750466, "text": "composition"}
+{"count": 1, "ids": [175], "pos": "nns", "rank": 0.023201497803988568, "text": "substances"}
+{"count": 1, "ids": [9, 193], "pos": "np", "rank": 0.022462155079045372, "text": "earth materials"}
+{"count": 1, "ids": [99, 59], "pos": "np", "rank": 0.02242506928979074, "text": "most rocks"}
+{"count": 1, "ids": [168], "pos": "nn", "rank": 0.020807851748101104, "text": "matter"}
+{"count": 1, "ids": [100], "pos": "nn", "rank": 0.01920684962703836, "text": "granite"}
+{"count": 1, "ids": [170, 59, 171], "pos": "np", "rank": 0.01914256049758772, "text": "volcanic rocks obsidian"}
+{"count": 1, "ids": [97], "pos": "vbp", "rank": 0.017584172557061132, "text": "make"}
+{"count": 1, "ids": [184], "pos": "nn", "rank": 0.016359327486126243, "text": "mind"}
+{"count": 1, "ids": [147], "pos": "nn", "rank": 0.016281889070532275, "text": "mass"}
+{"count": 1, "ids": [172], "pos": "nn", "rank": 0.015127051892392962, "text": "pumice"}
+{"count": 1, "ids": [166], "pos": "nn", "rank": 0.014234442380691612, "text": "calcite"}
+{"count": 1, "ids": [183], "pos": "vb", "rank": 0.014234442380691612, "text": "keep"}
+{"count": 1, "ids": [119], "pos": "vbn", "rank": 0.014234442380691612, "text": "contained"}
+{"count": 1, "ids": [191], "pos": "nn", "rank": 0.014193937747945572, "text": "structure"}
+{"count": 1, "ids": [188, 189], "pos": "np", "rank": 0.012141432649500933, "text": "chemical composition"}
+{"count": 1, "ids": [164], "pos": "nn", "rank": 0.011994383190854599, "text": "limestone"}
+{"count": 1, "ids": [110], "pos": "vbn", "rank": 0.01153201357037881, "text": "composed"}
+{"count": 1, "ids": [185], "pos": "nns", "rank": 0.01153201357037881, "text": "aggregates"}
+{"count": 1, "ids": [187], "pos": "vbn", "rank": 0.01153201357037881, "text": "determined"}
+{"count": 1, "ids": [193], "pos": "nns", "rank": 0.011231077539522686, "text": "materials"}
+{"count": 1, "ids": [161], "pos": "vbn", "rank": 0.00880099921531883, "text": "identified"}
+{"count": 1, "ids": [165], "pos": "nn", "rank": 0.00880099921531883, "text": "impure"}
+{"count": 1, "ids": [173], "pos": "nn", "rank": 0.00880099921531883, "text": "noncrystalline"}
+{"count": 1, "ids": [190], "pos": "nn", "rank": 0.008650896932136576, "text": "crystalline"}
+{"count": 1, "ids": [181], "pos": "vbz", "rank": 0.00788134736315316, "text": "deals"}
+{"count": 1, "ids": [162], "pos": "nn", "rank": 0.00699109964140775, "text": "example"}
+{"count": 1, "ids": [189], "pos": "nn", "rank": 0.006070716324750466, "text": "composition"}
 {"count": 1, "ids": [9], "pos": "nnp", "rank": 0.006070716324750466, "text": "earth"}
-{"count": 1, "ids": [161], "pos": "vb", "rank": 0.00426008528634777, "text": "note"}
+{"count": 1, "ids": [159], "pos": "vb", "rank": 0.00426008528634777, "text": "note"}
 {"count": 1, "ids": [58], "pos": "nn", "rank": 0.00426008528634777, "text": "addition"}
-{"count": 1, "ids": [171], "pos": "vbp", "rank": 0.00426008528634777, "text": "include"}
-{"count": 1, "ids": [182], "pos": "nn", "rank": 0.00426008528634777, "text": "chapter"}
-{"count": 1, "ids": [184], "pos": "nn", "rank": 0.00426008528634777, "text": "nature"}
-{"count": 1, "ids": [188], "pos": "nns", "rank": 0.00426008528634777, "text": "properties"}
-{"count": 1, "ids": [190], "pos": "nn", "rank": 0.00426008528634777, "text": "chemical"}
-{"count": 1, "ids": [194], "pos": "vb", "rank": 0.00426008528634777, "text": "consider"}
+{"count": 1, "ids": [169], "pos": "vbp", "rank": 0.00426008528634777, "text": "include"}
+{"count": 1, "ids": [180], "pos": "nn", "rank": 0.00426008528634777, "text": "chapter"}
+{"count": 1, "ids": [182], "pos": "nn", "rank": 0.00426008528634777, "text": "nature"}
+{"count": 1, "ids": [186], "pos": "nns", "rank": 0.00426008528634777, "text": "properties"}
+{"count": 1, "ids": [188], "pos": "nn", "rank": 0.00426008528634777, "text": "chemical"}
+{"count": 1, "ids": [192], "pos": "vb", "rank": 0.00426008528634777, "text": "consider"}

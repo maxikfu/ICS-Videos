@@ -1,106 +1,106 @@
-{"count": 1, "ids": [109, 848], "pos": "np", "rank": 0.02416331372847501, "text": "granitic magmas"}
-{"count": 1, "ids": [852, 830], "pos": "np", "rank": 0.02253122381859192, "text": "rare elements"}
-{"count": 1, "ids": [843, 844], "pos": "np", "rank": 0.021467007055292565, "text": "magmatic differentiation"}
-{"count": 2, "ids": [86, 123], "pos": "np", "rank": 0.02112386189770358, "text": "large crystals"}
-{"count": 2, "ids": [842], "pos": "np", "rank": 0.020919174032142943, "text": "pegmatites"}
-{"count": 1, "ids": [849, 850], "pos": "np", "rank": 0.020752683451041847, "text": "residual melt"}
-{"count": 1, "ids": [848, 882], "pos": "np", "rank": 0.020389701136901056, "text": "magma chamber"}
-{"count": 1, "ids": [598, 59], "pos": "np", "rank": 0.019729343566878246, "text": "host rock"}
-{"count": 1, "ids": [55, 106], "pos": "np", "rank": 0.01848903698343415, "text": "high percentage"}
-{"count": 1, "ids": [889, 890], "pos": "np", "rank": 0.017993550175772716, "text": "cell phones"}
-{"count": 1, "ids": [853, 854], "pos": "np", "rank": 0.017956806221742734, "text": "heavy metals"}
-{"count": 1, "ids": [845, 846], "pos": "np", "rank": 0.01785233842270792, "text": "late stages"}
-{"count": 1, "ids": [887, 888], "pos": "np", "rank": 0.0176831327687254, "text": "rechargeable batteries"}
-{"count": 1, "ids": [533, 125], "pos": "np", "rank": 0.01706188503039024, "text": "several centimeters"}
+{"count": 1, "ids": [107, 847], "pos": "np", "rank": 0.02416331372847501, "text": "granitic magmas"}
+{"count": 1, "ids": [851, 829], "pos": "np", "rank": 0.02253122381859192, "text": "rare elements"}
+{"count": 1, "ids": [842, 843], "pos": "np", "rank": 0.021467007055292565, "text": "magmatic differentiation"}
+{"count": 2, "ids": [84, 121], "pos": "np", "rank": 0.02112386189770358, "text": "large crystals"}
+{"count": 2, "ids": [841], "pos": "np", "rank": 0.020919174032142943, "text": "pegmatites"}
+{"count": 1, "ids": [848, 849], "pos": "np", "rank": 0.020752683451041847, "text": "residual melt"}
+{"count": 1, "ids": [847, 881], "pos": "np", "rank": 0.020389701136901056, "text": "magma chamber"}
+{"count": 1, "ids": [597, 59], "pos": "np", "rank": 0.019729343566878246, "text": "host rock"}
+{"count": 1, "ids": [55, 104], "pos": "np", "rank": 0.01848903698343415, "text": "high percentage"}
+{"count": 1, "ids": [888, 889], "pos": "np", "rank": 0.017993550175772716, "text": "cell phones"}
+{"count": 1, "ids": [852, 853], "pos": "np", "rank": 0.017956806221742734, "text": "heavy metals"}
+{"count": 1, "ids": [844, 845], "pos": "np", "rank": 0.01785233842270792, "text": "late stages"}
+{"count": 1, "ids": [886, 887], "pos": "np", "rank": 0.0176831327687254, "text": "rechargeable batteries"}
+{"count": 1, "ids": [532, 123], "pos": "np", "rank": 0.01706188503039024, "text": "several centimeters"}
 {"count": 1, "ids": [59], "pos": "np", "rank": 0.016775674719090146, "text": "rocks"}
-{"count": 1, "ids": [865], "pos": "np", "rank": 0.01622731587922767, "text": "muscovite"}
-{"count": 1, "ids": [86, 878, 149], "pos": "np", "rank": 0.016202391329963508, "text": "large igneous masses"}
+{"count": 1, "ids": [864], "pos": "np", "rank": 0.01622731587922767, "text": "muscovite"}
+{"count": 1, "ids": [84, 877, 147], "pos": "np", "rank": 0.016202391329963508, "text": "large igneous masses"}
 {"count": 1, "ids": [2], "pos": "np", "rank": 0.015273392856285517, "text": "fluids"}
-{"count": 1, "ids": [123], "pos": "np", "rank": 0.014285008486958194, "text": "crystals"}
-{"count": 1, "ids": [730, 36], "pos": "np", "rank": 0.013865015662819606, "text": "strong magnets"}
-{"count": 1, "ids": [848, 333], "pos": "np", "rank": 0.013806723601288966, "text": "magma body"}
-{"count": 1, "ids": [95, 867], "pos": "np", "rank": 0.013066887406384644, "text": "electrical insulation"}
-{"count": 1, "ids": [114], "pos": "np", "rank": 0.013035980899062752, "text": "feldspar"}
-{"count": 1, "ids": [891], "pos": "nns", "rank": 0.012885887206654428, "text": "computers"}
-{"count": 1, "ids": [848], "pos": "nns", "rank": 0.012081656864237506, "text": "magmas"}
-{"count": 1, "ids": [884, 885], "pos": "np", "rank": 0.01180182342713838, "text": "petroleum refining"}
-{"count": 1, "ids": [692, 863], "pos": "np", "rank": 0.011270362688962317, "text": "ion migration"}
-{"count": 3, "ids": [830], "pos": "nns", "rank": 0.01126561190929596, "text": "elements"}
-{"count": 1, "ids": [375, 869, 830], "pos": "np", "rank": 0.01126561190929596, "text": "least abundant elements"}
-{"count": 1, "ids": [830, 875], "pos": "np", "rank": 0.011048705209417746, "text": "elements lithium"}
-{"count": 1, "ids": [843], "pos": "nnp", "rank": 0.010733503527646283, "text": "magmatic"}
-{"count": 1, "ids": [843, 26], "pos": "np", "rank": 0.010733503527646283, "text": "magmatic process"}
-{"count": 2, "ids": [101, 842], "pos": "np", "rank": 0.010459587016071472, "text": "most pegmatites"}
-{"count": 1, "ids": [886], "pos": "nns", "rank": 0.010437420276368512, "text": "turbines"}
-{"count": 2, "ids": [850], "pos": "nn", "rank": 0.010376341725520924, "text": "melt"}
-{"count": 1, "ids": [882], "pos": "nn", "rank": 0.010194850568450528, "text": "chamber"}
-{"count": 1, "ids": [598], "pos": "nn", "rank": 0.009864671783439123, "text": "host"}
-{"count": 1, "ids": [868], "pos": "nn", "rank": 0.00970919886863805, "text": "glitter"}
-{"count": 1, "ids": [881], "pos": "vbd", "rank": 0.009525199374886113, "text": "cut"}
-{"count": 1, "ids": [874], "pos": "nn", "rank": 0.009431968410486978, "text": "tourmaline"}
-{"count": 1, "ids": [858, 859], "pos": "np", "rank": 0.009417171762669594, "text": "final phase"}
-{"count": 1, "ids": [877], "pos": "nn", "rank": 0.009295554199710558, "text": "uranium"}
-{"count": 1, "ids": [106], "pos": "nn", "rank": 0.009244518491717075, "text": "percentage"}
-{"count": 1, "ids": [797, 883], "pos": "np", "rank": 0.009233341289091937, "text": "useful catalysts"}
-{"count": 1, "ids": [880], "pos": "nns", "rank": 0.009124752907061079, "text": "veins"}
-{"count": 1, "ids": [862, 145], "pos": "np", "rank": 0.009098253074173588, "text": "fluid-rich environment"}
-{"count": 1, "ids": [151, 134], "pos": "np", "rank": 0.009098253074173588, "text": "common silicates"}
-{"count": 1, "ids": [873], "pos": "nn", "rank": 0.009015488176689306, "text": "topaz"}
-{"count": 1, "ids": [890], "pos": "nns", "rank": 0.008996775087886358, "text": "phones"}
-{"count": 1, "ids": [854], "pos": "nns", "rank": 0.008978403110871367, "text": "metals"}
-{"count": 1, "ids": [870, 871], "pos": "np", "rank": 0.008969384612047143, "text": "semiprecious gems"}
-{"count": 1, "ids": [846], "pos": "nns", "rank": 0.00892616921135396, "text": "stages"}
-{"count": 1, "ids": [876], "pos": "nn", "rank": 0.008857646452783054, "text": "cesium"}
-{"count": 1, "ids": [888], "pos": "nns", "rank": 0.0088415663843627, "text": "batteries"}
-{"count": 1, "ids": [879], "pos": "nns", "rank": 0.008654468791683167, "text": "dikes"}
+{"count": 1, "ids": [121], "pos": "np", "rank": 0.014285008486958194, "text": "crystals"}
+{"count": 1, "ids": [729, 36], "pos": "np", "rank": 0.013865015662819606, "text": "strong magnets"}
+{"count": 1, "ids": [847, 332], "pos": "np", "rank": 0.013806723601288966, "text": "magma body"}
+{"count": 1, "ids": [93, 866], "pos": "np", "rank": 0.013066887406384644, "text": "electrical insulation"}
+{"count": 1, "ids": [112], "pos": "np", "rank": 0.013035980899062752, "text": "feldspar"}
+{"count": 1, "ids": [890], "pos": "nns", "rank": 0.012885887206654428, "text": "computers"}
+{"count": 1, "ids": [847], "pos": "nns", "rank": 0.012081656864237506, "text": "magmas"}
+{"count": 1, "ids": [883, 884], "pos": "np", "rank": 0.01180182342713838, "text": "petroleum refining"}
+{"count": 1, "ids": [691, 862], "pos": "np", "rank": 0.011270362688962317, "text": "ion migration"}
+{"count": 3, "ids": [829], "pos": "nns", "rank": 0.01126561190929596, "text": "elements"}
+{"count": 1, "ids": [374, 868, 829], "pos": "np", "rank": 0.01126561190929596, "text": "least abundant elements"}
+{"count": 1, "ids": [829, 874], "pos": "np", "rank": 0.011048705209417746, "text": "elements lithium"}
+{"count": 1, "ids": [842], "pos": "nnp", "rank": 0.010733503527646283, "text": "magmatic"}
+{"count": 1, "ids": [842, 26], "pos": "np", "rank": 0.010733503527646283, "text": "magmatic process"}
+{"count": 2, "ids": [99, 841], "pos": "np", "rank": 0.010459587016071472, "text": "most pegmatites"}
+{"count": 1, "ids": [885], "pos": "nns", "rank": 0.010437420276368512, "text": "turbines"}
+{"count": 2, "ids": [849], "pos": "nn", "rank": 0.010376341725520924, "text": "melt"}
+{"count": 1, "ids": [881], "pos": "nn", "rank": 0.010194850568450528, "text": "chamber"}
+{"count": 1, "ids": [597], "pos": "nn", "rank": 0.009864671783439123, "text": "host"}
+{"count": 1, "ids": [867], "pos": "nn", "rank": 0.00970919886863805, "text": "glitter"}
+{"count": 1, "ids": [880], "pos": "vbd", "rank": 0.009525199374886113, "text": "cut"}
+{"count": 1, "ids": [873], "pos": "nn", "rank": 0.009431968410486978, "text": "tourmaline"}
+{"count": 1, "ids": [857, 858], "pos": "np", "rank": 0.009417171762669594, "text": "final phase"}
+{"count": 1, "ids": [876], "pos": "nn", "rank": 0.009295554199710558, "text": "uranium"}
+{"count": 1, "ids": [104], "pos": "nn", "rank": 0.009244518491717075, "text": "percentage"}
+{"count": 1, "ids": [796, 882], "pos": "np", "rank": 0.009233341289091937, "text": "useful catalysts"}
+{"count": 1, "ids": [879], "pos": "nns", "rank": 0.009124752907061079, "text": "veins"}
+{"count": 1, "ids": [861, 143], "pos": "np", "rank": 0.009098253074173588, "text": "fluid-rich environment"}
+{"count": 1, "ids": [149, 132], "pos": "np", "rank": 0.009098253074173588, "text": "common silicates"}
+{"count": 1, "ids": [872], "pos": "nn", "rank": 0.009015488176689306, "text": "topaz"}
+{"count": 1, "ids": [889], "pos": "nns", "rank": 0.008996775087886358, "text": "phones"}
+{"count": 1, "ids": [853], "pos": "nns", "rank": 0.008978403110871367, "text": "metals"}
+{"count": 1, "ids": [869, 870], "pos": "np", "rank": 0.008969384612047143, "text": "semiprecious gems"}
+{"count": 1, "ids": [845], "pos": "nns", "rank": 0.00892616921135396, "text": "stages"}
+{"count": 1, "ids": [875], "pos": "nn", "rank": 0.008857646452783054, "text": "cesium"}
+{"count": 1, "ids": [887], "pos": "nns", "rank": 0.0088415663843627, "text": "batteries"}
+{"count": 1, "ids": [878], "pos": "nns", "rank": 0.008654468791683167, "text": "dikes"}
 {"count": 2, "ids": [11], "pos": "vbg", "rank": 0.008566271822970878, "text": "resulting"}
-{"count": 1, "ids": [125], "pos": "nns", "rank": 0.00853094251519512, "text": "centimeters"}
-{"count": 1, "ids": [872], "pos": "nn", "rank": 0.008525388189482131, "text": "beryl"}
-{"count": 1, "ids": [99], "pos": "vbp", "rank": 0.008260540684920872, "text": "make"}
-{"count": 1, "ids": [889], "pos": "nn", "rank": 0.008163984453747821, "text": "cell"}
-{"count": 1, "ids": [149], "pos": "nns", "rank": 0.008101195664981754, "text": "masses"}
-{"count": 1, "ids": [856], "pos": "vb", "rank": 0.008079066450143758, "text": "crystallize"}
-{"count": 1, "ids": [665], "pos": "vbg", "rank": 0.007743398451977697, "text": "surrounding"}
-{"count": 1, "ids": [213, 855, 177], "pos": "np", "rank": 0.007713542801286204, "text": "other volatile substances"}
-{"count": 1, "ids": [852, 9], "pos": "np", "rank": 0.007074237031780006, "text": "rare earths"}
-{"count": 1, "ids": [860], "pos": "nn", "rank": 0.006972970564490728, "text": "solidification"}
+{"count": 1, "ids": [123], "pos": "nns", "rank": 0.00853094251519512, "text": "centimeters"}
+{"count": 1, "ids": [871], "pos": "nn", "rank": 0.008525388189482131, "text": "beryl"}
+{"count": 1, "ids": [97], "pos": "vbp", "rank": 0.008260540684920872, "text": "make"}
+{"count": 1, "ids": [888], "pos": "nn", "rank": 0.008163984453747821, "text": "cell"}
+{"count": 1, "ids": [147], "pos": "nns", "rank": 0.008101195664981754, "text": "masses"}
+{"count": 1, "ids": [855], "pos": "vb", "rank": 0.008079066450143758, "text": "crystallize"}
+{"count": 1, "ids": [664], "pos": "vbg", "rank": 0.007743398451977697, "text": "surrounding"}
+{"count": 1, "ids": [211, 854, 175], "pos": "np", "rank": 0.007713542801286204, "text": "other volatile substances"}
+{"count": 1, "ids": [851, 9], "pos": "np", "rank": 0.007074237031780006, "text": "rare earths"}
+{"count": 1, "ids": [859], "pos": "nn", "rank": 0.006972970564490728, "text": "solidification"}
 {"count": 1, "ids": [36], "pos": "nns", "rank": 0.006932507831409803, "text": "magnets"}
-{"count": 1, "ids": [333], "pos": "nn", "rank": 0.006903361800644483, "text": "body"}
-{"count": 1, "ids": [124, 637], "pos": "np", "rank": 0.006543005997864424, "text": "few meters"}
-{"count": 1, "ids": [867], "pos": "nn", "rank": 0.006533443703192322, "text": "insulation"}
-{"count": 1, "ids": [91], "pos": "vb", "rank": 0.006527357414017884, "text": "consist"}
-{"count": 1, "ids": [864], "pos": "vbn", "rank": 0.006266584663985128, "text": "enhanced"}
+{"count": 1, "ids": [332], "pos": "nn", "rank": 0.006903361800644483, "text": "body"}
+{"count": 1, "ids": [122, 636], "pos": "np", "rank": 0.006543005997864424, "text": "few meters"}
+{"count": 1, "ids": [866], "pos": "nn", "rank": 0.006533443703192322, "text": "insulation"}
+{"count": 1, "ids": [89], "pos": "vb", "rank": 0.006527357414017884, "text": "consist"}
+{"count": 1, "ids": [863], "pos": "vbn", "rank": 0.006266584663985128, "text": "enhanced"}
 {"count": 1, "ids": [24], "pos": "vbn", "rank": 0.005978122454465488, "text": "called"}
-{"count": 1, "ids": [885], "pos": "nn", "rank": 0.00590091171356919, "text": "refining"}
-{"count": 1, "ids": [692], "pos": "nn", "rank": 0.005635181344481158, "text": "ion"}
-{"count": 1, "ids": [210], "pos": "vb", "rank": 0.0056174359694622054, "text": "manufacture"}
-{"count": 1, "ids": [191], "pos": "nn", "rank": 0.005598972611386767, "text": "composition"}
-{"count": 1, "ids": [129], "pos": "nn", "rank": 0.005587638907411682, "text": "quartz"}
-{"count": 1, "ids": [875], "pos": "nn", "rank": 0.005524352604708873, "text": "lithium"}
+{"count": 1, "ids": [884], "pos": "nn", "rank": 0.00590091171356919, "text": "refining"}
+{"count": 1, "ids": [691], "pos": "nn", "rank": 0.005635181344481158, "text": "ion"}
+{"count": 1, "ids": [208], "pos": "vb", "rank": 0.0056174359694622054, "text": "manufacture"}
+{"count": 1, "ids": [189], "pos": "nn", "rank": 0.005598972611386767, "text": "composition"}
+{"count": 1, "ids": [127], "pos": "nn", "rank": 0.005587638907411682, "text": "quartz"}
+{"count": 1, "ids": [874], "pos": "nn", "rank": 0.005524352604708873, "text": "lithium"}
 {"count": 1, "ids": [7], "pos": "vb", "rank": 0.005460135569821235, "text": "become"}
-{"count": 1, "ids": [844], "pos": "nn", "rank": 0.005427775484906206, "text": "differentiation"}
-{"count": 1, "ids": [866], "pos": "nns", "rank": 0.005292606175187585, "text": "ceramics"}
-{"count": 1, "ids": [884], "pos": "nn", "rank": 0.005107271750983394, "text": "petroleum"}
-{"count": 1, "ids": [150], "pos": "np", "rank": 0.004904641703707417, "text": "deposits"}
-{"count": 1, "ids": [883], "pos": "nns", "rank": 0.0046166706445459685, "text": "catalysts"}
-{"count": 1, "ids": [145], "pos": "nn", "rank": 0.004549126537086794, "text": "environment"}
-{"count": 1, "ids": [126], "pos": "nn", "rank": 0.004549126537086794, "text": "length"}
-{"count": 1, "ids": [134], "pos": "nns", "rank": 0.004549126537086794, "text": "silicates"}
-{"count": 1, "ids": [871], "pos": "nns", "rank": 0.004484692306023571, "text": "gems"}
-{"count": 1, "ids": [416], "pos": "nn", "rank": 0.0041954824919961005, "text": "formation"}
-{"count": 1, "ids": [671], "pos": "vbn", "rank": 0.004174242853174623, "text": "located"}
-{"count": 1, "ids": [791], "pos": "nn", "rank": 0.004146030530970105, "text": "production"}
+{"count": 1, "ids": [843], "pos": "nn", "rank": 0.005427775484906206, "text": "differentiation"}
+{"count": 1, "ids": [865], "pos": "nns", "rank": 0.005292606175187585, "text": "ceramics"}
+{"count": 1, "ids": [883], "pos": "nn", "rank": 0.005107271750983394, "text": "petroleum"}
+{"count": 1, "ids": [148], "pos": "np", "rank": 0.004904641703707417, "text": "deposits"}
+{"count": 1, "ids": [882], "pos": "nns", "rank": 0.0046166706445459685, "text": "catalysts"}
+{"count": 1, "ids": [143], "pos": "nn", "rank": 0.004549126537086794, "text": "environment"}
+{"count": 1, "ids": [124], "pos": "nn", "rank": 0.004549126537086794, "text": "length"}
+{"count": 1, "ids": [132], "pos": "nns", "rank": 0.004549126537086794, "text": "silicates"}
+{"count": 1, "ids": [870], "pos": "nns", "rank": 0.004484692306023571, "text": "gems"}
+{"count": 1, "ids": [415], "pos": "nn", "rank": 0.0041954824919961005, "text": "formation"}
+{"count": 1, "ids": [670], "pos": "vbn", "rank": 0.004174242853174623, "text": "located"}
+{"count": 1, "ids": [790], "pos": "nn", "rank": 0.004146030530970105, "text": "production"}
 {"count": 1, "ids": [26], "pos": "nn", "rank": 0.00404903287747004, "text": "process"}
-{"count": 1, "ids": [112], "pos": "vbn", "rank": 0.00392372629034581, "text": "composed"}
-{"count": 1, "ids": [177], "pos": "nns", "rank": 0.003856771400643102, "text": "substances"}
-{"count": 1, "ids": [859], "pos": "nn", "rank": 0.003768361549678317, "text": "phase"}
-{"count": 1, "ids": [103], "pos": "np", "rank": 0.0035368072439186746, "text": "minerals"}
-{"count": 1, "ids": [863], "pos": "nn", "rank": 0.003365059099656798, "text": "migration"}
+{"count": 1, "ids": [110], "pos": "vbn", "rank": 0.00392372629034581, "text": "composed"}
+{"count": 1, "ids": [175], "pos": "nns", "rank": 0.003856771400643102, "text": "substances"}
+{"count": 1, "ids": [858], "pos": "nn", "rank": 0.003768361549678317, "text": "phase"}
+{"count": 1, "ids": [101], "pos": "np", "rank": 0.0035368072439186746, "text": "minerals"}
+{"count": 1, "ids": [862], "pos": "nn", "rank": 0.003365059099656798, "text": "migration"}
 {"count": 1, "ids": [9], "pos": "nns", "rank": 0.00327248783785854, "text": "earths"}
-{"count": 1, "ids": [637], "pos": "nns", "rank": 0.003271502998932212, "text": "meters"}
-{"count": 2, "ids": [121], "pos": "vbg", "rank": 0.0032038705403401456, "text": "containing"}
-{"count": 1, "ids": [171], "pos": "vbp", "rank": 0.0024523208518537087, "text": "include"}
-{"count": 1, "ids": [239], "pos": "nn", "rank": 0.0017684036219593373, "text": "water"}
-{"count": 1, "ids": [857], "pos": "nn", "rank": 0.0017684036219593373, "text": "bulk"}
-{"count": 1, "ids": [861], "pos": "nn", "rank": 0.0017684036219593373, "text": "crystallization"}
+{"count": 1, "ids": [636], "pos": "nns", "rank": 0.003271502998932212, "text": "meters"}
+{"count": 2, "ids": [119], "pos": "vbg", "rank": 0.0032038705403401456, "text": "containing"}
+{"count": 1, "ids": [169], "pos": "vbp", "rank": 0.0024523208518537087, "text": "include"}
+{"count": 1, "ids": [237], "pos": "nn", "rank": 0.0017684036219593373, "text": "water"}
+{"count": 1, "ids": [856], "pos": "nn", "rank": 0.0017684036219593373, "text": "bulk"}
+{"count": 1, "ids": [860], "pos": "nn", "rank": 0.0017684036219593373, "text": "crystallization"}
 {"count": 1, "ids": [58], "pos": "nn", "rank": 0.0017684036219593373, "text": "addition"}

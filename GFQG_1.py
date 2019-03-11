@@ -68,7 +68,7 @@ def sentence_selection(data, important_words, al_sel):
     for sentence in data:
         number_of_words = len(set(token.lemma_ for token in sentence if not is_stop(token.text) and not token.is_punct))
         score = 0
-        # only for sentences more then 4 tokens
+        # only for sentences more then 4 tokens starting with Uppercase word and  ends with period
         if number_of_words > 8 \
                 and sentence.text not in al_sel \
                 and sentence[0].text[0].isupper() \
