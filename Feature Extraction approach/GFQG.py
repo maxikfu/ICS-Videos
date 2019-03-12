@@ -2,6 +2,7 @@ import spacy
 import os
 import numpy as np
 import json
+from collections import defaultdict
 
 nlp = spacy.load('en_core_web_sm')
 
@@ -13,6 +14,23 @@ def is_stop(word):
     :return: True if it is stop word, False otherwise
     """
     return nlp.vocab[word.lower()].is_stop
+
+
+def token_dep_height(tokens):
+    """
+    Calculates how height provided token in the syntactic tree of the sentence.
+    The height of the tree is the length of the path from the deepest node in the tree to the root.
+    :param tokens: collection of SpaCy objects (token)
+    :type tokens: list
+    :return: int level
+    """
+    nodes_on_level = []
+    level = 1
+    for token in tokens:
+        nodes_on_level = nodes_on_level + [t for t in token.children]
+    if nodes_on_level:
+        level += token_dep_height(nodes_on_level)
+    return level
 
 
 def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
@@ -27,11 +45,11 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
         F6 - number of pronouns in S/ length(S)
         :return: list of all sentences with their scores
         """
-    # if not os.path.exists('GFQG_data'):
-    #     os.mkdir('GFQG_data')
-    # if not os.path.exists('GFQG_data/seg' + str(video_seg_id)):
-    #     os.mkdir('GFQG_data/seg' + str(video_seg_id))
-    weights = [1.5, 1, 1, 1, 1, 1]
+    if not os.path.exists('GFQG_data'):
+        os.mkdir('GFQG_data')
+    if not os.path.exists('GFQG_data/seg' + str(video_seg_id)):
+        os.mkdir('GFQG_data/seg' + str(video_seg_id))
+    weights = [2, 1, 1, 1, 1, 1]
     subdir = 'GFQG_data/seg' + str(video_seg_id) + '/'
     path_stage1 = subdir + "stage1_imp_sent.json"
     text = book_segment_json['text']
@@ -85,12 +103,91 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
     # in this step we do selection based on the score. At this moment max score selected
     selection = [(y, x, z) for y, x, z in sorted(zip(sent_scores, good_sent, details), reverse=True)]
     id = 0
+    output = []
     with open(path_stage1, 'w') as f:
         for res in selection:
             id += 1
             dic = {"id": id, "score": round(res[0], 2), "text": res[1].text, "features": res[2]}
+            dic_1 = {"id": id, "score": round(res[0], 2), "text": res[1]}
+            output.append(dic_1)
             f.write(json.dumps(dic) + '\n')
+    return output
 
+
+def key_list_formation(video_seg_id, stage1_results, video_seg_words):
+    """
+    Here we choosing noun chunk as a key what will be replaces with blank space in the sentence ergo
+   it will be correct answer to this question. Calculating score based on features:
+   F1 - number of occurrences of the key in the textbook segment.
+   F2 - does video lecture segment contain key
+   F3 - height of the key in the syntactic tree of the sentence.
+    """
+    subdir = 'GFQG_data/seg' + str(video_seg_id) + '/'
+    path_stage2 = subdir + "stage2_key_list.json"
+    output = []
+    output_debug = []
+    weights = [1, 1.5, 1]
+    noun_ch_count = defaultdict(int)
+    for dic in stage1_results:  # counting number of times this noun chunk occurs in text
+        sent_id = dic['id']
+        sent_span = dic['text']
+        for noun_chunk in sent_span.noun_chunks:
+            if not is_stop(noun_chunk.text.lower()):
+                noun_ch_count[noun_chunk.text.lower()] += 1
+    for dic in stage1_results:  # computing score for every noun chunk
+        sent_id = dic['id']
+        sent_span = dic['text']
+        key_list = []
+        for noun_chunk in sent_span.noun_chunks:
+            if not is_stop(noun_chunk.text.lower()):  # not counting stop words as a noun chunk
+                features = []
+                score = 0
+                details = []
+                f1 = noun_ch_count[noun_chunk.text.lower()]
+                f2 = 0
+                f3 = 0
+                tokens_in_nch = [t.lemma_.strip().lower() for t in noun_chunk if not is_stop(t.text.lower())]
+                if any(x in video_seg_words for x in set(tokens_in_nch)):
+                    f2 += 1
+                f3 = token_dep_height([noun_chunk.root]) - 1
+                features.append(f1)
+                features.append(f2)
+                features.append(f3)
+                score = round(np.dot(weights, features), 3)
+                key_list.append((score, noun_chunk, features))
+        out_dic = {'sent_id': sent_id, 'key_list': sorted(key_list, reverse=True)}
+        out_dic_debug = {'sent_id': sent_id, 'key_list': sorted(key_list, reverse=True)}
+        output_debug.append(out_dic_debug)
+        output.append(out_dic)
+    with open(path_stage2, 'w') as f:
+        for o in output_debug:
+            o['key_list'] = [(x[0], x[1].text.lower(), x[2]) for x in o['key_list']]
+            f.write(json.dumps(o) + '\n')
+    return output
+
+
+def distractor_selection(video_seg_id, key_phrase, key_list):
+    subdir = 'GFQG_data/seg' + str(video_seg_id) + '/'
+    path_stage3 = subdir + "stage3_distractors.json"
+    list_distractors = []
+    for x in key_list:
+        list_distractors += x['key_list']
+    list_distractors = [x[1] for x in list_distractors]
+    output = []
+    exists = set()
+    for d in list_distractors:
+        sim_score = 0
+        sim_score += key_phrase.root.similarity(d.root)
+        sim_score += key_phrase.similarity(d)
+        if sim_score != 2 and d.root.lemma_ not in exists:
+            exists.add(d.root.lemma_)
+            output.append((round(sim_score, 2), d))
+    output.sort(reverse=True)
+    with open(path_stage3, 'w') as f:
+        for o in output:
+            di = {'Score': o[0], 'Distractor': o[1].text.lower()}
+            f.write(json.dumps(di) + '\n')
+    return output
 
 
 if __name__ == '__main__':

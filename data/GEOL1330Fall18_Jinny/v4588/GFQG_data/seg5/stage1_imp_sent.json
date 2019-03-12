@@ -1,109 +1,37 @@
-{"id": 1, "score": 3.2, "text": "Most Oort cloud comets orbit the Sun at distances greater than 10,000 times the Earth\u2013Sun distance.", "features": [0.2, 0.0, 1, 1, 0.5, 0.4]}
-{"id": 2, "score": 2.84, "text": "Many of Saturn\u2019s smallest moons have irregular shapes and are only a few tens of kilometers in diameter.", "features": [0.11, 0.0, 1, 1, 0.56, 0.11]}
-{"id": 3, "score": 2.84, "text": "At least 3 (Rhea, Dione, and Tethys) show evidence of tectonic activity, where internal forces have ripped apart their icy surfaces.", "features": [0.15, 0.0, 1, 1, 0.38, 0.23]}
-{"id": 4, "score": 2.67, "text": "Like the asteroids in the inner solar system, most Kuiper belt comets move in slightly elliptical orbits that lie roughly in the same plane Kuiper belt comets or the gravitational influence of one of the Jovian planets occasionally alters their orbits sufficiently to send them into our view.", "features": [0.04, 0.0, 1, 1, 0.52, 0.09]}
-{"id": 5, "score": 2.65, "text": "Record wind speeds exceeding 2400 kilometers (1500 miles) per hour encircle the planet, making Neptune one of the windiest places in the solar system.", "features": [0.0, 0.0, 1, 1, 0.59, 0.06]}
-{"id": 6, "score": 2.6, "text": "Saturn\u2019s largest moon, Titan, is larger than Mercury and is the second-largest satellite in the solar system.", "features": [0.0, 0.0, 1, 1, 0.3, 0.3]}
-{"id": 7, "score": 2.08, "text": "Titan has Earth-like landforms and geologic processes, such as dune formation and streamlike erosion caused by methane \u201crain.", "features": [0.15, 0.0, 0, 1, 0.77, 0.08]}
-{"id": 8, "score": 2.0, "text": "However, most comets are too small and too distant to be observed from Earth, even using the Hubble Space Telescope.", "features": [0.25, 0.0, 1, 0, 0.12, 0.5]}
-{"id": 9, "score": 1.95, "text": "The atmospheric pressure at Titan\u2019s surface is about 1.5 times that at Earth\u2019s surface, and the atmospheric composition is about 98 percent nitrogen and 2 percent methane, with trace organic compounds.", "features": [0.12, 0.0, 0, 1, 0.65, 0.12]}
-{"id": 10, "score": 1.94, "text": "Analyzed samples suggest that the surface of the asteroid was identical in composition to meteorites and was once part of a larger asteroid.", "features": [0.11, 0.0, 0, 1, 0.78, 0.0]}
-{"id": 11, "score": 1.93, "text": "The moons vary significantly in size, shape, surface age, and origin.", "features": [0.12, 0.0, 0, 1, 0.75, 0.0]}
-{"id": 12, "score": 1.92, "text": "More than 30 tons of iron fragments have been found in the immediate area, but attempts to locate the main body have been unsuccessful.", "features": [0.33, 0.0, 0, 1, 0.42, 0.0]}
-{"id": 13, "score": 1.88, "text": "Meteoroids less than about 1 meter (3 feet) in diameter generally vaporize before reaching Earth\u2019s surface.", "features": [0.25, 0.0, 0, 1, 0.42, 0.08]}
-{"id": 14, "score": 1.84, "text": "Researchers estimate that thousands of meteoroids enter Earth\u2019s atmosphere every day.", "features": [0.11, 0.0, 0, 1, 0.56, 0.11]}
-{"id": 15, "score": 1.84, "text": "The main ring is composed of particles believed to be fragments blasted from the surfaces of Metis and Adrastea, two small moons of Jupiter.", "features": [0.15, 0.0, 0, 1, 0.38, 0.23]}
-{"id": 16, "score": 1.83, "text": "In 2006, the International Astronomical Union organized solar system objects not classified as planets or moons into two broad categories: (1) small solar system bodies, including asteroids, comets, and meteoroids, and (2) dwarf planets.", "features": [0.09, 0.0, 0, 1, 0.55, 0.14]}
-{"id": 17, "score": 1.82, "text": "There are countless chunks of debris in the vast spaces separating the eight planets and in the outer reaches of the solar system.", "features": [0.18, 0.0, 0, 1, 0.55, 0.0]}
-{"id": 18, "score": 1.81, "text": "Before Apollo astronauts brought Moon rocks back to Earth, meteorites were the only extraterrestrial materials that could be studied in the laboratory.", "features": [0.18, 0.0, 0, 1, 0.27, 0.27]}
-{"id": 19, "score": 1.75, "text": "Titan and Neptune\u2019s Triton are the only satellites in the solar system known to have substantial atmospheres.", "features": [0.1, 0.0, 0, 1, 0.3, 0.3]}
-{"id": 20, "score": 1.7, "text": "At least 40 terrestrial craters exhibit features that could be produced only by an explosive impact of a large asteroid or perhaps even a comet nucleus.", "features": [0.08, 0.0, 0, 1, 0.58, 0.0]}
-{"id": 21, "score": 1.7, "text": "In 1910, Halley\u2019s Comet made a very close approach to Earth, making for a spectacular Named for Dutch astronomer Jan Oort, the Oort cloud consists of comets that are distributed in all directions from the Sun, forming a spherical shell around the solar system.", "features": [0.08, 0.0, 0, 1, 0.29, 0.29]}
-{"id": 22, "score": 1.7, "text": "One of several hypotheses to explain the boulderstrewn topography is seismic shaking, which would cause the boulders to move upward as the finer materials sink.", "features": [0.08, 0.0, 0, 1, 0.58, 0.0]}
-{"id": 23, "score": 1.68, "text": "The bright area in the lower-central region, sometimes referred to as \u201cthe heart of the heart\u201d is formally named Sputnik Planum and is thought to be the source of exotic ices that flowed to produce the two bluish lobes near the bottom of the image.", "features": [0.1, 0.0, 0, 1, 0.43, 0.1]}
-{"id": 24, "score": 1.68, "text": "In November 2005, the Japanese probe Hayabusa landed on a small near-Earth asteroid named 25143 Itokawa; it returned to Earth in June 2010.", "features": [0.12, 0.0, 0, 1, 0.19, 0.31]}
-{"id": 25, "score": 1.67, "text": "Notable among them is Arizona\u2019s Meteor Crater, a huge cavity more than 1 kilometer (0.6 mile) wide and 170 meters (560 feet) deep, with an upturned rim that rises above the surrounding countryside .", "features": [0.14, 0.0, 0, 1, 0.32, 0.14]}
-{"id": 26, "score": 1.67, "text": "Named in honor of astronomer Gerald Kuiper, who predicted its existence, the Kuiper belt hosts comets that orbit in the outer solar system, beyond Neptune .", "features": [0.0, 0.0, 0, 1, 0.4, 0.27]}
-{"id": 27, "score": 1.66, "text": "By analyzing how these rings scatter light, researchers determined that the rings are composed of fine, dark particles similar in size to smoke particles.", "features": [0.08, 0.0, 0, 1, 0.54, 0.0]}
-{"id": 28, "score": 1.65, "text": "Requiring more than 29 Earth years to make one revolution, Saturn is almost twice as far from the Sun as Jupiter, yet their atmospheres, compositions, and internal structures are remarkably similar.", "features": [0.06, 0.0, 0, 1, 0.31, 0.25]}
-{"id": 29, "score": 1.65, "text": "Neptune also exhibits large dark spots, thought to be rotating storms similar to Jupiter\u2019s Great Red Spot.", "features": [0.08, 0.0, 0, 1, 0.15, 0.38]}
-{"id": 30, "score": 1.64, "text": "Observers saw the star \u201cwink\u201d briefly five times (meaning five rings) before the primary occultation and again five times afterward.", "features": [0.0, 0.0, 0, 1, 0.64, 0.0]}
-{"id": 31, "score": 1.63, "text": "The most striking feature of Saturn is its system of rings, first observed by Galileo in 1610 .", "features": [0.0, 0.0, 0, 1, 0.38, 0.25]}
-{"id": 32, "score": 1.62, "text": "The discovery was made as Uranus passed in front of a distant star and blocked its view, a process called occultation (occult = hidden).", "features": [0.0, 0.0, 0, 1, 0.54, 0.08]}
-{"id": 33, "score": 1.6, "text": "Their ring nature was determined 50 years later by Dutch astronomer Christian Huygens.", "features": [0.0, 0.0, 0, 1, 0.4, 0.2]}
-{"id": 34, "score": 1.58, "text": "Its orbital period averages 76 years, and every one of its 29 appearances since 240 b.c.e. has been recorded, thanks to ancient Chinese astronomers\u2014testimony to their dedication as astronomical observers and the endurance of Chinese culture.", "features": [0.05, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 35, "score": 1.58, "text": "Indirect evidence from meteorites suggests that some asteroids might have been heated by a large impact causing them to differentiate into a dense iron core and a rocky mantle.", "features": [0.07, 0.0, 0, 1, 0.47, 0.0]}
-{"id": 36, "score": 1.58, "text": "Twelve years and nearly 3 billion miles of Voyager 2 travel provided investigators an amazing opportunity to view the outermost planet.", "features": [0.07, 0.0, 0, 1, 0.4, 0.07]}
-{"id": 37, "score": 1.55, "text": "The bottom of the image shows Triton\u2019s wind- and sublimationeroded south polar cap.", "features": [0.0, 0.0, 0, 1, 0.33, 0.22]}
-{"id": 38, "score": 1.5, "text": "More recent ground- and space-based observations indicate that Uranus has at least 10 sharp-edged, distinct rings orbiting its equatorial region.", "features": [0.07, 0.0, 0, 1, 0.33, 0.07]}
-{"id": 39, "score": 1.5, "text": "Through his primitive telescope, the rings appeared as two small bodies adjacent to the planet.", "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 40, "score": 1.46, "text": "The gravitational effect of a distant passing star may send an occasional Oort cloud comet into a highly eccentric orbit that carries it toward the Sun.", "features": [0.0, 0.0, 0, 1, 0.33, 0.13]}
-{"id": 41, "score": 1.44, "text": "Furthermore, the faint nature of the rings indicates that these minute particles are widely dispersed.", "features": [0.0, 0.0, 0, 1, 0.44, 0.0]}
-{"id": 42, "score": 0.81, "text": "Although the atmosphere is about 93 percent hydrogen and 3 percent helium by volume, the clouds (or condensed gases) are composed of ammonia, ammonia hydrosulfide, and water, each segregated by temperature.", "features": [0.0, 0.0, 0, 0, 0.81, 0.0]}
-{"id": 43, "score": 0.8, "text": "Although the bands of clouds are fainter and wider near the equator, rotating \u201cstorms\u201d similar to Jupiter\u2019s Great Red Spot occur in Saturn\u2019s atmosphere, as does intense lightning.", "features": [0.11, 0.0, 0, 0, 0.37, 0.26]}
-{"id": 44, "score": 0.7, "text": "This image shows Comet Wild 2, as seen by NASA\u2019s Stardust spacecraft.", "features": [0.0, 0.1, 0, 0, 0.2, 0.4]}
-{"id": 45, "score": 0.68, "text": "This is analogous to what happens when a jar of sand and various-sized pebbles is shaken: The larger pebbles rise to the top, while the smaller sand grains settle to the bottom (sometimes referred to as the Brazil nut effect).", "features": [0.0, 0.0, 0, 0, 0.62, 0.06]}
-{"id": 46, "score": 0.68, "text": "Some, called micrometeorites, are so tiny and their rate of fall so slow that they drift to Earth continually as space dust.", "features": [0.09, 0.0, 0, 0, 0.45, 0.09]}
-{"id": 47, "score": 0.65, "text": "However, Neptune\u2019s storms appear to have comparatively short life spans\u2014usually only a few years.", "features": [0.1, 0.0, 0, 0, 0.4, 0.1]}
-{"id": 48, "score": 0.62, "text": "This disc-shaped structure is thought to contain about a billion objects over 1 kilometer (0.62 mile) in size.", "features": [0.08, 0.0, 0, 0, 0.5, 0.0]}
-{"id": 49, "score": -0.68, "text": "However, only a tiny fraction of Oort cloud comets have orbits that bring them into the inner solar system. \n\n", "features": [0.09, 0.0, 0, 0, 0.45, 0.09]}
-{"id": 50, "score": -0.76, "text": "This plume of volcanic gases and debris is rising more than 100 kilometers (60 miles) above Io\u2019s surface. \n\n", "features": [0.15, 0.0, 0, 0, 0.46, 0.08]}
-{"id": 51, "score": -1.0, "text": "This enhanced color image is used to detect differences in the composition and texture of Pluto\u2019s surface", "features": [0.2, 0.0, 0, 0, 0.6, 0.1]}
-{"id": 52, "score": -1.0, "text": "6.", "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
-{"id": 53, "score": -1.0, "text": "5.", "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
-{"id": 54, "score": -1.0, "text": "3.", "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
-{"id": 55, "score": -1.0, "text": "2.", "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
-{"id": 56, "score": -1.0, "text": "1.", "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
-{"id": 57, "score": -1.14, "text": "The Windy Planet Because of Neptune\u2019s great distance from Earth", "features": [0.29, 0.0, 0, 0, 0.14, 0.57]}
-{"id": 58, "score": -1.33, "text": "After sunset on a clear, dark night, many are bright enough to be seen with the naked eye. \n\n", "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
-{"id": 59, "score": -1.34, "text": "Hayabusa 2, launched in 2014, July 2018.", "features": [0.0, 0.0, 0, 1, 0.17, 0.17]}
-{"id": 60, "score": -1.4, "text": "(3) the rocky and/or metallic remains of comets that once ejected by a violent asteroid impact.", "features": [0.0, 0.0, 0, 1, 0.4, 0.0]}
-{"id": 61, "score": -1.4, "text": "List and describe the principal characteristics of the small bodies that inhabit the solar system. \n\n", "features": [0.0, 0.0, 0, 1, 0.3, 0.1]}
-{"id": 62, "score": -1.43, "text": "Also shown in red are the orbits of a few known nearEarth asteroids. \n\n", "features": [0.0, 0.0, 0, 1, 0.43, 0.0]}
-{"id": 63, "score": -1.43, "text": "Name three bodies in the solar system that exhibit active volcanism. \n\n", "features": [0.0, 0.0, 0, 1, 0.43, 0.0]}
-{"id": 64, "score": -1.43, "text": "Interspersed among these distinct structures are broad sheets of dust. \n\n", "features": [0.0, 0.0, 0, 1, 0.43, 0.0]}
-{"id": 65, "score": -1.5, "text": "Based on the amount of erosion observed on the crater rim, the impact likely occurred within the past 50,000 years. \n\n", "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 66, "score": -1.5, "text": "How are Jupiter and Saturn similar to one 4.", "features": [0.0, 0.0, 0, 1, 0.0, 0.5]}
-{"id": 67, "score": -1.5, "text": "Sublimation is the process whereby a solid (ice) changes directly to a gas. \n\n", "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 68, "score": -1.5, "text": "Titan was visited and photographed by the CassiniHuygens probe in 2005.", "features": [0.0, 0.0, 0, 1, 0.17, 0.33]}
-{"id": 69, "score": -1.54, "text": "As on Jupiter, the dynamics of Saturn\u2019s atmosphere are driven by the heat released by gravitational compression. \n\n", "features": [0.0, 0.0, 0, 1, 0.36, 0.18]}
-{"id": 70, "score": -1.56, "text": "during formation of the solar system, (2) material that is continually being ejected from the asteroid belt, or", "features": [0.0, 0.0, 0, 1, 0.56, 0.0]}
-{"id": 71, "score": -1.56, "text": "above the surface and were blown downwind for more than 100 kilometers (60 miles). \n\n", "features": [0.12, 0.0, 0, 1, 0.38, 0.0]}
-{"id": 72, "score": -1.57, "text": "More recently, the ring system was thoroughly investigated by the Galileo mission.", "features": [0.0, 0.0, 0, 1, 0.43, 0.14]}
-{"id": 73, "score": -1.6, "text": "What is distinctive about Jupiter\u2019s satellite Io?", "features": [0.0, 0.0, 0, 1, 0.2, 0.4]}
-{"id": 74, "score": -1.61, "text": "The inset shows an artist\u2019s depiction of jets of gas and dust erupting from Comet Wild 2. \n\n", "features": [0.0, 0.0, 0, 1, 0.46, 0.15]}
-{"id": 75, "score": -1.62, "text": "Twenty-three of the moons are \u201coriginal\u201d satellites that formed in tandem with their parent planet. \n\n", "features": [0.0, 0.0, 0, 1, 0.62, 0.0]}
-{"id": 76, "score": -1.65, "text": "number of short-period comets (those having orbital periods of less than 200 years), such as the famous Halley\u2019s Comet, make regular encounters with the inner solar system .", "features": [0.06, 0.0, 0, 1, 0.44, 0.12]}
-{"id": 77, "score": -1.65, "text": "The bright red area on the left side of the image (see arrow) is newly erupted lava. \n\n", "features": [0.1, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 78, "score": -1.66, "text": "Jupiter\u2019s four largest moons These moons are often referred to as the Galilean moons because Galileo discovered them. \n\n", "features": [0.0, 0.0, 1, 0, 0.33, 0.33]}
-{"id": 79, "score": -1.67, "text": "Comet Wild 2", "features": [0.0, 0.0, 0, 1, 0.0, 0.67]}
-{"id": 80, "score": -1.67, "text": "Saturn\u2019s atmosphere, like Jupiter\u2019s, is dynamic.", "features": [0.0, 0.0, 0, 1, 0.17, 0.5]}
-{"id": 81, "score": -1.68, "text": "that the coma contained a wide range of organic compounds and substantial amounts of silicate crystals. \n\n", "features": [0.09, 0.0, 0, 1, 0.55, 0.0]}
-{"id": 82, "score": -1.7, "text": ", astronomers knew very little about this planet until 1989.", "features": [0.2, 0.0, 0, 1, 0.4, 0.0]}
-{"id": 83, "score": -1.71, "text": "The outgassing, comprised mostly of water, is thought to be the source that replenishes the material areas called \u201ctiger stripes\u201d that consist of four large fractures with ridges on either side. \n\n", "features": [0.06, 0.0, 0, 1, 0.62, 0.0]}
-{"id": 84, "score": -1.74, "text": "Impacts on Jupiter\u2019s moons Amalthea and Thebe are believed to be the source of the debris from which the outer gossamer ring formed. \n\n", "features": [0.07, 0.0, 0, 1, 0.43, 0.21]}
-{"id": 85, "score": -1.78, "text": "Enceladus is another unique satellite of Saturn\u2014one of the few where active eruptions have been observed .", "features": [0.14, 0.0, 0, 1, 0.43, 0.14]}
-{"id": 86, "score": -1.78, "text": "In addition, the northern latitudes appear to have lakes of liquid methane.", "features": [0.14, 0.0, 0, 1, 0.57, 0.0]}
-{"id": 87, "score": -1.8, "text": "The nucleus of the comet is within the bright spot in the center.", "features": [0.0, 0.0, 0, 1, 0.8, 0.0]}
-{"id": 88, "score": -1.83, "text": "After exploring this asteroid by digging into its surface to extract fresh samples, it is scheduled to return to Earth in 2020. \n\n", "features": [0.33, 0.0, 0, 1, 0.25, 0.08]}
-{"id": 89, "score": -1.84, "text": "Halley\u2019s Comet originated in the Kuiper belt.", "features": [0.0, 0.0, 0, 1, 0.17, 0.67]}
-{"id": 90, "score": -1.85, "text": "Another feature that Neptune has in common with the other Jovian planets is layers of white, cirrus-like clouds (probably frozen methane) about 50 kilometers (30 miles) above the main cloud deck. \n\n", "features": [0.2, 0.0, 0, 1, 0.5, 0.05]}
-{"id": 91, "score": -1.86, "text": "How are Saturn\u2019s satellite Titan and Neptune\u2019s satellite Triton similar to one another?", "features": [0.0, 0.0, 0, 1, 0.29, 0.57]}
-{"id": 92, "score": -1.86, "text": "What two roles do ring moons play in the nature of planetary ring systems?", "features": [0.0, 0.0, 0, 1, 0.86, 0.0]}
-{"id": 93, "score": -1.92, "text": "Others, like Hyperion, are so porous that impacts punch into their surfaces .", "features": [0.17, 0.0, 0, 1, 0.5, 0.17]}
-{"id": 94, "score": -2.0, "text": "Neptune has a dynamic atmosphere, much like that of the other Jovian planets .", "features": [0.33, 0.0, 0, 1, 0.33, 0.17]}
-{"id": 95, "score": -2.0, "text": "More than 250 others may be of impact origin.", "features": [0.0, 0.0, 0, 1, 1.0, 0.0]}
-{"id": 96, "score": -2.0, "text": "Belt and Oort Cloud", "features": [0.0, 0.0, 0, 1, 0.0, 1.0]}
-{"id": 97, "score": -2.0, "text": "Holmes", "features": [0.0, 0.0, 0, 1, 0.0, 1.0]}
-{"id": 98, "score": -2.0, "text": "Neptune:", "features": [0.0, 0.0, 0, 1, 0.0, 1.0]}
-{"id": 99, "score": -2.0, "text": "system.", "features": [0.0, 0.0, 0, 1, 1.0, 0.0]}
-{"id": 100, "score": -2.0, "text": "whereas others possess large, smooth areas on otherwise crater-riddled surfaces.", "features": [0.29, 0.0, 0, 1, 0.57, 0.0]}
-{"id": 101, "score": -2.09, "text": "What is the nature of Jupiter\u2019s Great Red Spot?", "features": [0.17, 0.0, 0, 1, 0.17, 0.67]}
-{"id": 102, "score": -2.42, "text": "Comet Holmes, which orbits the Sun every 6 years, was uncharacteristically active during its most recent entry into the inner solar system. \n\n", "features": [0.0, 0.0, 1, 1, 0.21, 0.21]}
-{"id": 103, "score": -2.5, "text": "Uranus has a ring system.", "features": [0.33, 0.0, 0, 1, 0.67, 0.33]}
-{"id": 104, "score": -2.5, "text": "Studies conducted at NASA\u2019s Jet Propulsion Laboratory suggest that Miranda, the innermost of the five largest moons, was recently geologically active\u2014most likely driven by gravitational heating, as occurs on Io. \n\n", "features": [0.0, 0.05, 1, 1, 0.18, 0.27]}
-{"id": 105, "score": -2.6, "text": "Triton, Neptune\u2019s largest moon", "features": [0.0, 0.0, 1, 1, 0.2, 0.4]}
-{"id": 106, "score": -2.7, "text": "The shortest-period comet (Encke\u2019s Comet) orbits the Sun once every 3 years. \n\n", "features": [0.0, 0.0, 1, 1, 0.3, 0.4]}
-{"id": 107, "score": -2.8, "text": "The newest grouping, dwarf planets, includes Ceres, a body about 1000 kilometers (600 miles) in diameter and the largest known object in the asteroid belt, and Pluto, a former planet. \n\n", "features": [0.11, 0.0, 1, 1, 0.53, 0.11]}
-{"id": 108, "score": -2.86, "text": "Most comets originate in one of two regions: the Kuiper belt or the Oort cloud.", "features": [0.0, 0.0, 1, 1, 0.57, 0.29]}
-{"id": 109, "score": -3.0, "text": "The asteroid belt The orbits of most asteroids lie between Mars and Jupiter.", "features": [0.0, 0.0, 1, 1, 0.67, 0.33]}
+{"id": 1, "score": 2.51, "text": "Minerals are chemical compounds (or sometimes single elements), each with its own composition and physical properties.", "features": [0.38, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 2, "score": 2.06, "text": "In addition, minerals in granite result from the a rock\u2019s texture\u2014the size, shape, and/or slow cooling of molten rock deep arrangement of its constituent minerals\u2014 beneath the surface.", "features": [0.16, 0.0, 0, 1, 0.74, 0.0]}
+{"id": 3, "score": 2.0, "text": "The minerals that compose a rock strongly influA. The large crystals of light-colored ence its nature and appearance.", "features": [0.25, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 4, "score": 1.93, "text": "Consider the rock Next, the sediments undergo lithification, a term cycle to be a simplified but useful overview of physical meaning \u201cconversion into rock.", "features": [0.08, 0.0, 0, 1, 0.69, 0.08]}
+{"id": 5, "score": 1.92, "text": "The sedimentary called crystallization, may occur either beneath the surface rock reacts to the changing environment and turns into or, following a volcanic eruption, at the surface.", "features": [0.21, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 6, "score": 1.84, "text": "Geologists divide rocks into three major groups: igneous, sedicooling of molten rock at Earth\u2019s mentary, and metamorphic.", "features": [0.17, 0.0, 0, 1, 0.42, 0.08]}
+{"id": 7, "score": 1.79, "text": "Learn the rock cycle well; you will be examinlithified into sedimentary rock when compacted by ing its interrelationships in greater detail throughout the weight of overlying layers or when cemented as this book.", "features": [0.13, 0.0, 0, 1, 0.53, 0.0]}
+{"id": 8, "score": 1.78, "text": "Nowhere gravity before being picked up and transported by any is this idea better illustrated than when we examine the of a number of erosional agents, such as running water, rock cycle .", "features": [0.14, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 9, "score": 1.77, "text": "Earlier in this chapter, you learned that Earth is biosphere slowly disintegrate and decompose rocks.", "features": [0.22, 0.0, 0, 1, 0.22, 0.11]}
+{"id": 10, "score": 1.72, "text": "It helps us understand the origin of Although most sediment ultimately comes to rest in the igneous, sedimentary, and metamorphic rocks and to ocean, other sites of deposition include river floodplains, see that each type is linked to the others by processes desert basins, swamps, and sand dunes.", "features": [0.04, 0.0, 1, 0, 0.64, 0.0]}
+{"id": 11, "score": 1.72, "text": "If the resulting sedimentary rock is buried deep The Basic Cycle within Earth and involved in the dynamics of mountain Magma is molten rock that forms deep beneath Earth\u2019s sur- building or intruded by a mass of magma, it is subjected face.", "features": [0.09, 0.0, 0, 1, 0.36, 0.18]}
+{"id": 12, "score": 1.7, "text": "Eventually these particles and many of the interrelationships among different parts of dissolved substances, called sediment, are deposited.", "features": [0.1, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 13, "score": 1.7, "text": "When a rock is examined closely, we find that it usually consists of smaller crystals called minerals.", "features": [0.2, 0.0, 0, 1, 0.3, 0.0]}
+{"id": 14, "score": 1.38, "text": "The grains or crystals may be microscopically small or easily seen with the unaided eye.", "features": [0.0, 0.0, 0, 1, 0.38, 0.0]}
+{"id": 15, "score": 0.91, "text": "This understanding also has many practical applications, including finding energy and mineral resources and solving environmental problems.", "features": [0.18, 0.0, 0, 0, 0.55, 0.0]}
+{"id": 16, "score": 0.45, "text": "This means that our planet consists of many The materials that result are often moved downslope by interacting parts that form a complex whole.", "features": [0.0, 0.0, 0, 0, 0.45, 0.0]}
+{"id": 17, "score": -0.5, "text": "This process, to great pressures and/or intense heat.", "features": [0.0, 0.0, 0, 0, 0.5, 0.0]}
+{"id": 18, "score": -1.33, "text": "As microscopically small crystals.", "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
+{"id": 19, "score": -1.38, "text": "you will learn, each group is linked Oceanic crust is composed mainly of basalt.", "features": [0.0, 0.0, 0, 1, 0.38, 0.0]}
+{"id": 20, "score": -1.4, "text": "To a curious traveler, the variety seems nearly endless.", "features": [0.0, 0.0, 0, 1, 0.4, 0.0]}
+{"id": 21, "score": -1.5, "text": "that act upon and within the planet.", "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 22, "score": -1.5, "text": "Such analyses are critical to understanding our planet.", "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 23, "score": -1.67, "text": "Sediment is usually geology.", "features": [0.0, 0.0, 0, 1, 0.67, 0.0]}
+{"id": 24, "score": -1.67, "text": "and texture, in turn, reflect the geologic processes that created it .", "features": [0.0, 0.0, 0, 1, 0.67, 0.0]}
+{"id": 25, "score": -1.67, "text": "Granite is also has a significant effect on its appearabundant in the continental crust.", "features": [0.0, 0.0, 0, 1, 0.5, 0.17]}
+{"id": 26, "score": -1.75, "text": "Over time, magma cools and solidifies.", "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 27, "score": -1.76, "text": "morphic rock is subjected to additional pressure changes If igneous rocks are exposed at the surface, they or to still higher temperatures, it melts, creating magma, undergo weathering, in which the day-in and daywhich eventually crystallizes into igneous rock, starting out influences of the atmosphere, hydrosphere, and the cycle all over again.", "features": [0.12, 0.0, 0, 1, 0.52, 0.0]}
+{"id": 28, "score": -1.99, "text": "The rock cycle allows us to view glaciers, wind, or waves.", "features": [0.14, 0.0, 0, 1, 0.71, 0.0]}
+{"id": 29, "score": -2.0, "text": "When metasituation, the resulting rocks are called igneous rocks.", "features": [0.2, 0.0, 0, 1, 0.6, 0.0]}
+{"id": 30, "score": -2.0, "text": "percolating groundwater fills the pores with mineral", "features": [0.2, 0.0, 0, 1, 0.6, 0.0]}
+{"id": 31, "score": -2.0, "text": "a system.", "features": [0.0, 0.0, 0, 1, 1.0, 0.0]}
+{"id": 32, "score": -2.0, "text": "to the others by the processes that act upon and within the planet.", "features": [0.0, 0.0, 0, 1, 1.0, 0.0]}
+{"id": 33, "score": -2.01, "text": "Sketch, label, and explain the rock cycle. \n\n", "features": [0.17, 0.0, 0, 1, 0.67, 0.0]}
+{"id": 34, "score": -2.29, "text": "surface is responsible for the rock\u2019s 1.21 provides some examples.", "features": [0.43, 0.0, 0, 1, 0.43, 0.0]}
+{"id": 35, "score": -2.4, "text": "Rock is the most common and abundant material on Earth.", "features": [0.4, 0.0, 0, 1, 0.2, 0.4]}
+{"id": 36, "score": -2.66, "text": "In either the third rock type, metamorphic rock.", "features": [0.33, 0.0, 0, 1, 1.0, 0.0]}
+{"id": 37, "score": -3.0, "text": "the Earth system.", "features": [0.5, 0.0, 0, 1, 0.5, 0.5]}

@@ -59,4 +59,4 @@ def video_2book(video_id, path_to_book):
 
 
 if __name__ == '__main__':
-    video_2book(4588, 'tt_Earth_cleaned.json')
+    video_2book(4623, '../data/GEOL1330Fall18_Jinny/tt_Earth_cleaned.json')

@@ -1,0 +1,9 @@
+{"sent_id": 1, "key_list": [[8.5, "the pyrite samples", [1, 1, 6]], [4.5, "two or more characteristic crystal shapes", [1, 1, 2]], [4.5, "minerals", [3, 1, 0]], [3.5, "one common crystal shape", [1, 1, 1]]]}
+{"sent_id": 2, "key_list": [[7.5, "the common or characteristic shape", [1, 1, 5]], [5.5, "individual crystals", [1, 1, 3]], [4.5, "crystals", [3, 1, 0]], [3.5, "the term crystal shape", [1, 1, 1]], [3.0, "aggregates", [1, 0, 2]], [2.5, "habit", [1, 1, 0]], [1.0, "mineralogists", [1, 0, 0]]]}
+{"sent_id": 3, "key_list": [[4.5, "cubes", [1, 1, 2]], [4.5, "crystals", [3, 1, 0]], [3.5, "near-cubes", [1, 1, 1]], [3.5, "magnetite crystals", [1, 1, 1]], [2.5, "dodecahedrons", [1, 1, 0]], [2.5, "garnets", [1, 1, 0]], [2.5, "octahedrons", [1, 1, 0]], [2.0, "example", [2, 0, 0]]]}
+{"sent_id": 4, "key_list": [[10.5, "crystals", [3, 1, 6]], [5.0, "regular polygons", [1, 0, 4]], [3.5, "flattened minerals", [1, 1, 1]], [3.5, "some minerals", [1, 1, 1]], [2.0, "their identification", [1, 0, 1]], [2.0, "one direction", [1, 0, 1]], [2.0, "all three dimensions", [1, 0, 1]]]}
+{"sent_id": 5, "key_list": [[6.0, "the streak", [1, 0, 5]], [5.0, "the color", [2, 0, 3]], [5.0, "the color", [2, 0, 3]], [3.5, "the powdered mineral", [1, 1, 1]], [3.5, "a mineral", [1, 1, 1]], [1.0, "identification", [1, 0, 0]]]}
+{"sent_id": 6, "key_list": [[7.5, "minerals", [3, 1, 3]], [3.5, "metallic minerals", [1, 1, 1]], [3.0, "a light-colored streak", [1, 0, 2]], [3.0, "nonmetallic luster", [2, 0, 1]], [2.0, "a dense, dark streak", [1, 0, 1]]]}
+{"sent_id": 7, "key_list": [[5.0, "a streak", [1, 0, 4]], [2.0, "a streak plate", [1, 0, 1]]]}
+{"sent_id": 8, "key_list": [[10.5, "minerals", [3, 1, 6]], [5.0, "metallic luster", [1, 0, 4]], [3.0, "nonmetallic luster", [2, 0, 1]], [1.0, "streak", [1, 0, 0]]]}
+{"sent_id": 9, "key_list": [[3.0, "a porcelain streak plate", [1, 0, 2]], [2.0, "no streak", [1, 0, 1]], [2.0, "example", [2, 0, 0]], [1.0, "quartz", [1, 0, 0]]]}
