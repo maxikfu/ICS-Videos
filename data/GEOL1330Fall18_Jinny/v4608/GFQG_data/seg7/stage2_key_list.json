@@ -1,4 +1,4 @@
-{"sent_id": 1, "key_list": [[6.0, "sheets", [1, 0, 5]], [3.0, "very weak electrical forces", [1, 0, 2]], [2.0, "the carbon atoms", [1, 0, 1]], [1.0, "graphite", [1, 0, 0]]]}
+{"sent_id": 1, "key_list": [[7.5, "sheets", [1, 1, 5]], [4.5, "very weak electrical forces", [1, 1, 2]], [3.5, "the carbon atoms", [1, 1, 1]], [2.5, "graphite", [1, 1, 0]]]}
 {"sent_id": 2, "key_list": [[4.0, "some faces", [1, 0, 3]], [2.0, "a crystal", [1, 0, 1]], [1.0, "law", [1, 0, 0]], [1.0, "steno", [1, 0, 0]]]}
 {"sent_id": 3, "key_list": [[4.0, "the angles", [1, 0, 3]], [2.0, "equivalent faces", [1, 0, 1]]]}
-{"sent_id": 4, "key_list": [[4.0, "two crystals", [1, 0, 3]], [2.0, "identical shapes", [1, 0, 1]], [2.0, "the same mineral", [1, 0, 1]]]}
+{"sent_id": 4, "key_list": [[4.0, "two crystals", [1, 0, 3]], [3.5, "the same mineral", [1, 1, 1]], [2.0, "identical shapes", [1, 0, 1]]]}

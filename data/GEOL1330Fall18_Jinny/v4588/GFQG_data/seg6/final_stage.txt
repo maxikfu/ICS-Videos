@@ -1,7 +1,7 @@
 Question: Perhaps the easiest type of bond to visualize is ______________, in which one atom gives up one or more valence electrons to another atom to form ions—positively and negatively charged atoms.
 a) the ionic bond
-b) bond
-c) the ionic bonding
+b) the ionic bonding
+c) bond
 d) such a manner
 Answer: the ionic bond
 

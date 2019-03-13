@@ -1,7 +1,7 @@
 Question: Although the dark components generally make up ______________ of most granites, dark minerals appear to be more prominent than their percentage indicates.
-a) addition
+a) their percentage
 b) less than 10 percent
-c) a distance
-d) their percentage
+c) addition
+d) a distance
 Answer: less than 10 percent
 

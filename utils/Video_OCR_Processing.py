@@ -1,7 +1,7 @@
 import spacy
-import ocr2dic
+from utils import ocr2dic
 import json
-from GFQG_1 import is_stop
+from Feature_Extraction_Approach.GFQG import is_stop
 
 nlp = spacy.load('en_core_web_sm')
 # to speed up process I need only lemmas of the word count task, so i disable other parts of pipeline
