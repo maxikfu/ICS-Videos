@@ -16,6 +16,18 @@ def is_stop(word):
     return nlp.vocab[word.lower()].is_stop
 
 
+def min_max_normalize(list_of_scores):
+    """
+    Min Max normalization of the scores between 0 and 1
+    :param list_of_scores:
+    :return:
+    """
+    min_score = min(list_of_scores)
+    max_score = max(list_of_scores)
+    for i in range(len(list_of_scores)):
+        list_of_scores[i] = (list_of_scores[i] - min_score)/(max_score - min_score)
+
+
 def token_dep_height(tokens):
     """
     Calculates how height provided token in the syntactic tree of the sentence.
@@ -49,7 +61,7 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
         os.mkdir('GFQG_data')
     if not os.path.exists('GFQG_data/seg' + str(video_seg_id)):
         os.mkdir('GFQG_data/seg' + str(video_seg_id))
-    weights = [2, 1, 1, 1, 1, 1]
+    weights = [2, 1, 0.5, 1, 2, 0.5]
     subdir = 'GFQG_data/seg' + str(video_seg_id) + '/'
     path_stage1 = subdir + "stage1_imp_sent.json"
     text = book_segment_json['text']
@@ -65,8 +77,8 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
             # sentences with more then 4 tokens, starts with Uppercase word, ends with punctuation
             features = []
             pos_tags = [token.tag_ for token in sent]
-            f1 = len(set([str(i.lemma_).lower() for i in sent if
-                          str(i.lemma_).lower() in video_seg_text])) / number_of_words
+            common_words = set([str(i.lemma_).lower() for i in sent if str(i.lemma_).lower() in video_seg_text])
+            f1 = len(common_words) / number_of_words
             features.append(round(f1, 2))
             # f2 = len(set([str(i.lemma_).lower() for i in sentence if str(i.lemma_).lower() in important_words]))
             # features.append(round(f2, 2))
@@ -95,12 +107,13 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
             if number_of_words < 8 \
                     or not sent[0].text[0].isupper() \
                     or not sent[0].is_alpha \
-                    or not sent[-1].text == '.':
+                    or not sent.text.strip()[-1] == '.':
                 score = score * -1
             sent_scores.append(score)
             details.append(features)
             good_sent.append(sent)
     # in this step we do selection based on the score. At this moment max score selected
+    min_max_normalize(sent_scores)
     selection = [(y, x, z) for y, x, z in sorted(zip(sent_scores, good_sent, details), reverse=True)]
     id = 0
     output = []
@@ -126,7 +139,7 @@ def key_list_formation(video_seg_id, stage1_results, video_seg_words):
     path_stage2 = subdir + "stage2_key_list.json"
     output = []
     output_debug = []
-    weights = [1, 1.5, 1]
+    weights = [0.5, 1.5, 1]
     noun_ch_count = defaultdict(int)
     for dic in stage1_results:  # counting number of times this noun chunk occurs in text
         sent_id = dic['id']

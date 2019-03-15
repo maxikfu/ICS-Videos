@@ -6,8 +6,9 @@ from random import shuffle
 
 
 if __name__ == '__main__':
-    video_id = 4623
+    video_id = 4588
     video_directory = '../data/GEOL1330Fall18_Jinny/v' + str(video_id) + '/'
+    tt_book = '../tt_Earth_cleaned.json'
     os.chdir(video_directory)
     # loading file containing video segment to book segment link
     try:
@@ -35,7 +36,7 @@ if __name__ == '__main__':
 
     # load book
     try:
-        with open('../tt_Earth_cleaned.json', 'r') as f:
+        with open(tt_book, 'r') as f:
             raw_book_segs = f.readlines()
     except IOError:
         print("Error: Text book is not found.")
@@ -67,4 +68,5 @@ if __name__ == '__main__':
                  + 'Answer: ' + key_phrase.text + '\n' + '\n'
         with open(final_stage, 'w') as f:
             f.write(result)
+        exit()
 
