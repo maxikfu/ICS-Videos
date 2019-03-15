@@ -1,21 +1,21 @@
-{"sent_id": 1, "key_list": [[2.0, "the terrain", [1, 0, 1]], [2.0, "a striking beauty", [1, 0, 1]], [2.0, "desert scenery", [1, 0, 1]], [2.0, "many visitors", [1, 0, 1]]]}
-{"sent_id": 2, "key_list": [[6.0, "another excellent example", [1, 0, 5]], [5.0, "desert landscapes", [3, 0, 2]], [4.0, "the strong link", [1, 0, 3]], [2.0, "climate", [1, 0, 1]], [2.0, "their development", [1, 0, 1]], [1.0, "geology", [1, 0, 0]]]}
-{"sent_id": 3, "key_list": [[4.0, "the least familiar land areas", [1, 0, 3]], [3.0, "the world\u2019s dry regions", [1, 0, 2]], [2.5, "earth", [1, 1, 0]], [2.0, "the polar realm", [1, 0, 1]]]}
-{"sent_id": 4, "key_list": [[5.0, "a continuous carpet", [1, 0, 4]], [3.0, "soil", [1, 0, 2]], [2.0, "abundant plant life", [1, 0, 1]], [2.0, "their profiles", [1, 0, 1]]]}
-{"sent_id": 5, "key_list": [[6.0, "deserts", [4, 0, 2]], [2.0, "plants", [1, 0, 1]], [2.0, "an appropriate description", [1, 0, 1]], [2.0, "many dry regions", [1, 0, 1]], [1.0, "animals", [1, 0, 0]], [1.0, "water", [1, 0, 0]]]}
-{"sent_id": 6, "key_list": [[4.0, "rocky outcrops", [1, 0, 3]], [2.0, "steep, angular slopes", [1, 0, 1]]]}
-{"sent_id": 7, "key_list": [[7.0, "a single rainfall figure", [1, 0, 6]], [6.5, "25 centimeters", [1, 1, 4]], [4.5, "year", [1, 1, 2]], [2.0, "10 inches", [1, 0, 1]], [1.0, "precipitation", [1, 0, 0]]]}
-{"sent_id": 8, "key_list": [[7.0, "a relative one", [1, 0, 6]], [4.5, "the concept", [1, 1, 2]], [4.0, "any situation", [1, 0, 3]], [2.0, "an ongoing water deficiency", [1, 0, 1]], [1.0, "dryness", [1, 0, 0]]]}
-{"sent_id": 9, "key_list": [[5.0, "the boundary", [1, 0, 4]], [3.0, "humid and dry regions", [1, 0, 2]], [3.0, "how much rain", [1, 0, 2]]]}
-{"sent_id": 10, "key_list": [[4.0, "desert landscapes", [3, 0, 1]], [4.0, "the appearance", [1, 0, 3]], [4.0, "different ways", [1, 0, 3]], [2.0, "a great deal", [1, 0, 1]], [2.0, "place", [2, 0, 0]], [2.0, "place", [2, 0, 0]], [2.0, "these processes", [1, 0, 1]]]}
-{"sent_id": 11, "key_list": [[4.5, "the preceding chapter", [1, 1, 2]], [1.0, "glaciers", [1, 0, 0]]]}
-{"sent_id": 12, "key_list": [[2.0, "the word", [1, 0, 1]], [1.0, "desert", [1, 0, 0]]]}
-{"sent_id": 13, "key_list": [[4.0, "desert landscapes", [3, 0, 1]]]}
-{"sent_id": 14, "key_list": [[4.0, "deserts", [4, 0, 0]], [2.0, "the term", [1, 0, 1]], [2.0, "just what", [1, 0, 1]], [2.0, "dry places", [1, 0, 1]]]}
-{"sent_id": 15, "key_list": [[1.0, "black", [1, 0, 0]]]}
-{"sent_id": 16, "key_list": [[5.0, "the effects", [1, 0, 4]], [3.0, "tectonic forces", [1, 0, 2]], [2.0, "running water", [1, 0, 1]], [1.0, "wind", [1, 0, 0]]]}
-{"sent_id": 17, "key_list": [[7.0, "describe", [1, 0, 6]], [5.0, "the general distribution", [1, 0, 4]], [4.5, "earth\u2019s dry lands", [1, 1, 2]], [4.0, "deserts", [4, 0, 0]], [3.0, "the subtropics", [1, 0, 2]], [2.0, "middle latitudes", [1, 0, 1]]]}
-{"sent_id": 18, "key_list": [[2.0, "the rocks", [1, 0, 1]], [2.0, "some places", [1, 0, 1]], [1.0, "red", [1, 0, 0]]]}
-{"sent_id": 19, "key_list": [[7.0, "a strong influence", [1, 0, 6]], [5.0, "the nature", [1, 0, 4]], [4.5, "earth\u2019s external processes", [1, 1, 2]], [1.0, "intensity", [1, 0, 0]]]}
-{"sent_id": 20, "key_list": [[3.5, "arid regions", [1, 1, 1]], [2.0, "a single geologic process", [1, 0, 1]]]}
-{"sent_id": 21, "key_list": [[4.0, "the more humid places", [1, 0, 3]], [4.0, "deserts", [4, 0, 0]], [2.0, "most people", [1, 0, 1]], [2.0, "which feeling", [1, 0, 1]]]}
+{"sent_id": 1, "key_list": [[1.5, "the terrain", [1, 0, 1]], [1.5, "a striking beauty", [1, 0, 1]], [1.5, "desert scenery", [1, 0, 1]], [1.5, "many visitors", [1, 0, 1]]]}
+{"sent_id": 2, "key_list": [[5.5, "another excellent example", [1, 0, 5]], [3.5, "the strong link", [1, 0, 3]], [3.5, "desert landscapes", [3, 0, 2]], [1.5, "climate", [1, 0, 1]], [1.5, "their development", [1, 0, 1]], [0.5, "geology", [1, 0, 0]]]}
+{"sent_id": 3, "key_list": [[4.5, "a continuous carpet", [1, 0, 4]], [2.5, "soil", [1, 0, 2]], [1.5, "abundant plant life", [1, 0, 1]], [1.5, "their profiles", [1, 0, 1]]]}
+{"sent_id": 4, "key_list": [[3.5, "the more humid places", [1, 0, 3]], [2.0, "deserts", [4, 0, 0]], [1.5, "most people", [1, 0, 1]], [1.5, "which feeling", [1, 0, 1]]]}
+{"sent_id": 5, "key_list": [[4.0, "deserts", [4, 0, 2]], [1.5, "plants", [1, 0, 1]], [1.5, "an appropriate description", [1, 0, 1]], [1.5, "many dry regions", [1, 0, 1]], [0.5, "animals", [1, 0, 0]], [0.5, "water", [1, 0, 0]]]}
+{"sent_id": 6, "key_list": [[3.5, "the least familiar land areas", [1, 0, 3]], [2.5, "the world\u2019s dry regions", [1, 0, 2]], [2.0, "earth", [1, 1, 0]], [1.5, "the polar realm", [1, 0, 1]]]}
+{"sent_id": 7, "key_list": [[6.5, "describe", [1, 0, 6]], [4.5, "the general distribution", [1, 0, 4]], [4.0, "earth\u2019s dry lands", [1, 1, 2]], [2.5, "the subtropics", [1, 0, 2]], [2.0, "deserts", [4, 0, 0]], [1.5, "middle latitudes", [1, 0, 1]]]}
+{"sent_id": 8, "key_list": [[6.5, "a relative one", [1, 0, 6]], [4.0, "the concept", [1, 1, 2]], [3.5, "any situation", [1, 0, 3]], [1.5, "an ongoing water deficiency", [1, 0, 1]], [0.5, "dryness", [1, 0, 0]]]}
+{"sent_id": 9, "key_list": [[3.5, "rocky outcrops", [1, 0, 3]], [1.5, "steep, angular slopes", [1, 0, 1]]]}
+{"sent_id": 10, "key_list": [[6.5, "a single rainfall figure", [1, 0, 6]], [6.0, "25 centimeters", [1, 1, 4]], [4.0, "year", [1, 1, 2]], [1.5, "10 inches", [1, 0, 1]], [0.5, "precipitation", [1, 0, 0]]]}
+{"sent_id": 11, "key_list": [[3.5, "the appearance", [1, 0, 3]], [3.5, "different ways", [1, 0, 3]], [2.5, "desert landscapes", [3, 0, 1]], [1.5, "a great deal", [1, 0, 1]], [1.5, "these processes", [1, 0, 1]], [1.0, "place", [2, 0, 0]], [1.0, "place", [2, 0, 0]]]}
+{"sent_id": 12, "key_list": [[4.5, "the boundary", [1, 0, 4]], [2.5, "humid and dry regions", [1, 0, 2]], [2.5, "how much rain", [1, 0, 2]]]}
+{"sent_id": 13, "key_list": [[4.0, "the preceding chapter", [1, 1, 2]], [0.5, "glaciers", [1, 0, 0]]]}
+{"sent_id": 14, "key_list": [[2.5, "desert landscapes", [3, 0, 1]]]}
+{"sent_id": 15, "key_list": [[1.5, "the word", [1, 0, 1]], [0.5, "desert", [1, 0, 0]]]}
+{"sent_id": 16, "key_list": [[2.0, "deserts", [4, 0, 0]], [1.5, "the term", [1, 0, 1]], [1.5, "just what", [1, 0, 1]], [1.5, "dry places", [1, 0, 1]]]}
+{"sent_id": 17, "key_list": [[0.5, "black", [1, 0, 0]]]}
+{"sent_id": 18, "key_list": [[4.5, "the effects", [1, 0, 4]], [2.5, "tectonic forces", [1, 0, 2]], [1.5, "running water", [1, 0, 1]], [0.5, "wind", [1, 0, 0]]]}
+{"sent_id": 19, "key_list": [[6.5, "a strong influence", [1, 0, 6]], [4.5, "the nature", [1, 0, 4]], [4.0, "earth\u2019s external processes", [1, 1, 2]], [0.5, "intensity", [1, 0, 0]]]}
+{"sent_id": 20, "key_list": [[1.5, "the rocks", [1, 0, 1]], [1.5, "some places", [1, 0, 1]], [0.5, "red", [1, 0, 0]]]}
+{"sent_id": 21, "key_list": [[3.0, "arid regions", [1, 1, 1]], [1.5, "a single geologic process", [1, 0, 1]]]}

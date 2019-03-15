@@ -1,7 +1,7 @@
-Question: However, like most other clear minerals, quartz is often colored by ______________ of various ions (impurities) and forms without developing good crystal faces.
-a) the most common varieties
-b) inclusions
-c) forms
-d) various ions
-Answer: inclusions
+Question: Most Oort cloud comets orbit the Sun at distances ______________.
+a) greater than 10,000 times the earth–sun distance
+b) the galileo mission
+c) the atmospheric pressure
+d) nasa’s stardust spacecraft
+Answer: greater than 10,000 times the Earth–Sun distance
 

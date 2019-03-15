@@ -1,17 +1,17 @@
-{"sent_id": 1, "key_list": [[7.5, "temperature", [4, 1, 2]], [5.0, "an important factor", [1, 0, 4]], [4.5, "at which peridotite melts", [1, 1, 2]], [3.5, "the temperature", [1, 1, 1]], [2.5, "rock", [1, 1, 0]], [2.0, "its water content", [1, 0, 1]], [2.0, "the peridotite", [1, 0, 1]]]}
-{"sent_id": 2, "key_list": [[4.5, "wherever hot, solid mantle rock ascends", [1, 1, 2]], [4.5, "decompression melting", [2, 1, 1]], [4.0, "regions", [1, 0, 3]], [2.0, "lower pressure", [1, 0, 1]]]}
-{"sent_id": 3, "key_list": [[8.0, "a magma", [1, 0, 7]], [6.0, "the material", [1, 0, 5]], [2.5, "melts", [1, 1, 0]], [2.0, "the ridge axis", [1, 0, 1]], [2.0, "the ridge crest", [1, 0, 1]]]}
-{"sent_id": 4, "key_list": [[3.5, "the uppermost mantle", [1, 1, 1]], [3.5, "mantle plumes", [1, 1, 1]]]}
-{"sent_id": 5, "key_list": [[4.0, "workers", [1, 0, 3]], [3.0, "earth\u2019s surface", [1, 0, 2]], [2.5, "temperatures", [1, 1, 0]], [2.0, "underground mines", [1, 0, 1]]]}
-{"sent_id": 6, "key_list": [[8.0, "however, tectonic processes", [1, 0, 7]], [5.5, "temperature", [4, 1, 0]], [5.5, "the melting point", [1, 1, 3]], [3.5, "mantle rock", [1, 1, 1]]]}
-{"sent_id": 7, "key_list": [[4.0, "oceanic ridges", [1, 0, 3]], [3.0, "divergent plate boundaries", [1, 0, 2]], [2.0, "plates", [2, 0, 0]], [2.0, "this process", [1, 0, 1]]]}
-{"sent_id": 8, "key_list": [[4.0, "tensional forces", [1, 0, 3]], [2.0, "plates", [2, 0, 0]], [2.0, "chapter", [1, 0, 1]], [1.0, "centers", [1, 0, 0]]]}
-{"sent_id": 9, "key_list": [[3.0, "normal and other volatiles", [1, 0, 2]], [1.0, "ice", [1, 0, 0]], [1.0, "salt", [1, 0, 0]]]}
-{"sent_id": 10, "key_list": [[5.0, "an episode", [1, 0, 4]], [3.0, "hot-spot volcanism", [1, 0, 2]], [2.0, "the surface", [1, 0, 1]]]}
-{"sent_id": 11, "key_list": [[4.0, "kilometer", [1, 0, 3]], [2.0, "the upper crust", [1, 0, 1]]]}
-{"sent_id": 12, "key_list": [[4.5, "decompression melting", [2, 1, 1]], [2.0, "confining pressure", [1, 0, 1]]]}
-{"sent_id": 13, "key_list": [[3.5, "the mantle", [1, 1, 1]]]}
-{"sent_id": 14, "key_list": [[7.5, "temperature", [4, 1, 2]], [5.0, "this increase", [1, 0, 4]], [4.5, "the geothermal gradient", [2, 1, 1]], [2.5, "depth", [1, 1, 0]]]}
-{"sent_id": 15, "key_list": [[6.0, "water", [2, 0, 4]], [4.5, "the geothermal gradient", [2, 1, 1]]]}
-{"sent_id": 16, "key_list": [[6.5, "the melting point curve", [1, 1, 4]], [4.5, "the mantle rock addition", [1, 1, 2]], [3.5, "a typical geothermal gradient", [1, 1, 1]], [2.0, "water", [2, 0, 0]]]}
-{"sent_id": 17, "key_list": [[5.5, "temperature", [4, 1, 0]]]}
+{"sent_id": 1, "key_list": [[5.5, "temperature", [4, 1, 2]], [4.5, "an important factor", [1, 0, 4]], [4.0, "at which peridotite melts", [1, 1, 2]], [3.0, "the temperature", [1, 1, 1]], [2.0, "rock", [1, 1, 0]], [1.5, "its water content", [1, 0, 1]], [1.5, "the peridotite", [1, 0, 1]]]}
+{"sent_id": 2, "key_list": [[7.5, "a magma", [1, 0, 7]], [5.5, "the material", [1, 0, 5]], [2.0, "melts", [1, 1, 0]], [1.5, "the ridge axis", [1, 0, 1]], [1.5, "the ridge crest", [1, 0, 1]]]}
+{"sent_id": 3, "key_list": [[4.0, "wherever hot, solid mantle rock ascends", [1, 1, 2]], [3.5, "regions", [1, 0, 3]], [3.5, "decompression melting", [2, 1, 1]], [1.5, "lower pressure", [1, 0, 1]]]}
+{"sent_id": 4, "key_list": [[3.0, "the uppermost mantle", [1, 1, 1]], [3.0, "mantle plumes", [1, 1, 1]]]}
+{"sent_id": 5, "key_list": [[7.5, "however, tectonic processes", [1, 0, 7]], [5.0, "the melting point", [1, 1, 3]], [3.5, "temperature", [4, 1, 0]], [3.0, "mantle rock", [1, 1, 1]]]}
+{"sent_id": 6, "key_list": [[3.5, "workers", [1, 0, 3]], [2.5, "earth\u2019s surface", [1, 0, 2]], [2.0, "temperatures", [1, 1, 0]], [1.5, "underground mines", [1, 0, 1]]]}
+{"sent_id": 7, "key_list": [[4.5, "an episode", [1, 0, 4]], [2.5, "hot-spot volcanism", [1, 0, 2]], [1.5, "the surface", [1, 0, 1]]]}
+{"sent_id": 8, "key_list": [[3.5, "oceanic ridges", [1, 0, 3]], [2.5, "divergent plate boundaries", [1, 0, 2]], [1.5, "this process", [1, 0, 1]], [1.0, "plates", [2, 0, 0]]]}
+{"sent_id": 9, "key_list": [[3.5, "tensional forces", [1, 0, 3]], [1.5, "chapter", [1, 0, 1]], [1.0, "plates", [2, 0, 0]], [0.5, "centers", [1, 0, 0]]]}
+{"sent_id": 10, "key_list": [[2.5, "normal and other volatiles", [1, 0, 2]], [0.5, "ice", [1, 0, 0]], [0.5, "salt", [1, 0, 0]]]}
+{"sent_id": 11, "key_list": [[3.5, "decompression melting", [2, 1, 1]], [1.5, "confining pressure", [1, 0, 1]]]}
+{"sent_id": 12, "key_list": [[3.5, "kilometer", [1, 0, 3]], [1.5, "the upper crust", [1, 0, 1]]]}
+{"sent_id": 13, "key_list": [[3.0, "the mantle", [1, 1, 1]]]}
+{"sent_id": 14, "key_list": [[5.5, "temperature", [4, 1, 2]], [4.5, "this increase", [1, 0, 4]], [3.5, "the geothermal gradient", [2, 1, 1]], [2.0, "depth", [1, 1, 0]]]}
+{"sent_id": 15, "key_list": [[5.0, "water", [2, 0, 4]], [3.5, "the geothermal gradient", [2, 1, 1]]]}
+{"sent_id": 16, "key_list": [[6.0, "the melting point curve", [1, 1, 4]], [4.0, "the mantle rock addition", [1, 1, 2]], [3.0, "a typical geothermal gradient", [1, 1, 1]], [1.0, "water", [2, 0, 0]]]}
+{"sent_id": 17, "key_list": [[3.5, "temperature", [4, 1, 0]]]}

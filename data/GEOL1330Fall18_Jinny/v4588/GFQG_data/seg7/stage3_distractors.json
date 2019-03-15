@@ -28,6 +28,7 @@
 {"Score": 0.7, "Distractor": "work"}
 {"Score": 0.68, "Distractor": "a drop"}
 {"Score": 0.66, "Distractor": "gold"}
+{"Score": 0.63, "Distractor": "spectacular crystals"}
 {"Score": 0.61, "Distractor": "this one form"}
 {"Score": 0.61, "Distractor": "high evaporation rates"}
 {"Score": 0.6, "Distractor": "well-developed planar surfaces"}
@@ -37,7 +38,6 @@
 {"Score": 0.49, "Distractor": "crystalline solids"}
 {"Score": 0.48, "Distractor": "the great salt lake"}
 {"Score": 0.47, "Distractor": "ancient seas"}
-{"Score": 0.44, "Distractor": "inwardprojecting crystals"}
 {"Score": 0.44, "Distractor": "salar de uyuni"}
 {"Score": 0.42, "Distractor": "south africa"}
 {"Score": 0.38, "Distractor": "voids"}
@@ -51,5 +51,5 @@
 {"Score": 0.15, "Distractor": "sediments"}
 {"Score": 0.07, "Distractor": "deposits"}
 {"Score": 0.06, "Distractor": "minerals"}
-{"Score": 0.0, "Distractor": "geodes"}
 {"Score": 0.0, "Distractor": "hundreds"}
+{"Score": -0.08, "Distractor": "geodes"}

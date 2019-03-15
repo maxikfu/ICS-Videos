@@ -1,7 +1,7 @@
 Question: Of ______________ of minerals, their luster, their ability to transmit light, their color, and their streak are most frequently used for mineral identification.
-a) physical and chemical properties
+a) unique sets
 b) the many optical properties
-c) unique sets
-d) ionic substitutions
+c) ionic substitutions
+d) physical and chemical properties
 Answer: the many optical properties
 

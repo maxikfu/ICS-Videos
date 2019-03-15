@@ -1,9 +1,9 @@
-{"sent_id": 1, "key_list": [[7.0, "processes", [1, 0, 6]], [4.0, "the extent", [1, 0, 3]], [3.5, "these mineral resources", [1, 1, 1]], [2.0, "desirable materials", [1, 0, 1]], [2.0, "most others", [1, 0, 1]], [1.0, "extraction", [1, 0, 0]]]}
-{"sent_id": 2, "key_list": [[12.5, "the most important accumulations", [1, 1, 10]], [9.0, "metals", [1, 0, 8]], [7.0, "gold", [1, 0, 6]], [6.0, "silver", [1, 0, 5]], [5.0, "copper", [1, 0, 4]], [4.0, "mercury", [1, 0, 3]], [3.0, "igneous and metamorphic processes", [1, 0, 2]], [3.0, "lead", [1, 0, 2]], [2.0, "table", [1, 0, 1]], [2.0, "platinum", [1, 0, 1]], [1.0, "nickel", [1, 0, 0]]]}
-{"sent_id": 3, "key_list": []}
-{"sent_id": 4, "key_list": []}
-{"sent_id": 5, "key_list": [[4.5, "economically significant mineral deposits", [1, 1, 2]], [3.0, "how different igneous and metamorphic processes", [1, 0, 2]]]}
-{"sent_id": 6, "key_list": [[2.0, "an ore", [1, 0, 1]]]}
-{"sent_id": 7, "key_list": [[4.0, "concentrated accumulations", [1, 0, 3]], [2.0, "useful elements", [1, 0, 1]]]}
-{"sent_id": 8, "key_list": [[2.0, "contrast resource", [1, 0, 1]], [1.0, "reserve", [1, 0, 0]]]}
-{"sent_id": 9, "key_list": [[7.0, "another tool", [1, 0, 6]], [6.5, "the development", [1, 1, 4]], [4.5, "plate tectonics theory", [1, 1, 2]], [4.0, "the processes", [1, 0, 3]], [3.5, "one rock", [1, 1, 1]], [1.0, "geologists", [1, 0, 0]]]}
+{"sent_id": 1, "key_list": [[6.5, "another tool", [1, 0, 6]], [6.0, "the development", [1, 1, 4]], [4.0, "plate tectonics theory", [1, 1, 2]], [3.5, "the processes", [1, 0, 3]], [3.0, "one rock", [1, 1, 1]], [0.5, "geologists", [1, 0, 0]]]}
+{"sent_id": 2, "key_list": [[6.5, "processes", [1, 0, 6]], [3.5, "the extent", [1, 0, 3]], [3.0, "these mineral resources", [1, 1, 1]], [1.5, "desirable materials", [1, 0, 1]], [1.5, "most others", [1, 0, 1]], [0.5, "extraction", [1, 0, 0]]]}
+{"sent_id": 3, "key_list": [[4.0, "economically significant mineral deposits", [1, 1, 2]], [2.5, "how different igneous and metamorphic processes", [1, 0, 2]]]}
+{"sent_id": 4, "key_list": [[12.0, "the most important accumulations", [1, 1, 10]], [8.5, "metals", [1, 0, 8]], [6.5, "gold", [1, 0, 6]], [5.5, "silver", [1, 0, 5]], [4.5, "copper", [1, 0, 4]], [3.5, "mercury", [1, 0, 3]], [2.5, "igneous and metamorphic processes", [1, 0, 2]], [2.5, "lead", [1, 0, 2]], [1.5, "table", [1, 0, 1]], [1.5, "platinum", [1, 0, 1]], [0.5, "nickel", [1, 0, 0]]]}
+{"sent_id": 5, "key_list": []}
+{"sent_id": 6, "key_list": []}
+{"sent_id": 7, "key_list": [[1.5, "an ore", [1, 0, 1]]]}
+{"sent_id": 8, "key_list": [[3.5, "concentrated accumulations", [1, 0, 3]], [1.5, "useful elements", [1, 0, 1]]]}
+{"sent_id": 9, "key_list": [[1.5, "contrast resource", [1, 0, 1]], [0.5, "reserve", [1, 0, 0]]]}

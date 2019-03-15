@@ -1,13 +1,13 @@
-{"id": 1, "score": 2.6, "text": "Most pegmatites are granitic in composition and consist of unusually large crystals of quartz, feldspar, and muscovite.", "features": [0.0, 0.0, 1, 1, 0.6, 0.0]}
-{"id": 2, "score": 2.54, "text": "Most pegmatites are located within large igneous masses or as dikes or veins that cut into the host rock surrounding the magma chamber .", "features": [0.0, 0.0, 1, 1, 0.54, 0.0]}
-{"id": 3, "score": 2.2, "text": "Moreover, minerals containing the elements lithium, cesium, uranium, and the rare earths* are occasionally found .", "features": [0.3, 0.0, 0, 1, 0.6, 0.0]}
-{"id": 4, "score": 1.99, "text": "They are useful catalysts in petroleum refining and are used to manufacture strong magnets for turbines and rechargeable batteries for cell phones and computers.", "features": [0.15, 0.0, 0, 1, 0.69, 0.0]}
-{"id": 5, "score": 1.77, "text": "Crystallization in a fluid-rich environment, where ion migration is enhanced, results in the formation of crystals several centimeters, or even a few meters, in length.", "features": [0.0, 0.0, 0, 1, 0.77, 0.0]}
-{"id": 6, "score": 1.64, "text": "Further, because water and other volatile substances do not crystallize along with the bulk of the magma body, these fluids make up a high percentage of the melt during the final phase of solidification.", "features": [0.0, 0.0, 0, 1, 0.64, 0.0]}
-{"id": 7, "score": 1.62, "text": "Pegmatite Deposits Magmatic differentiation is important in the late stages of the magmatic process.", "features": [0.0, 0.0, 0, 1, 0.5, 0.12]}
-{"id": 8, "score": 1.38, "text": "The resulting rocks, called pegmatites, are composed of these unusually large crystals.", "features": [0.0, 0.0, 0, 1, 0.38, 0.0]}
-{"id": 9, "score": 0.9, "text": "This is particularly true of granitic magmas, in which the residual melt can become enriched in rare elements and heavy metals.", "features": [0.27, 0.0, 0, 0, 0.36, 0.0]}
-{"id": 10, "score": 0.7, "text": "Thus, in addition to the common silicates, some pegmatites include semiprecious gems such as beryl, topaz, and tourmaline.", "features": [0.0, 0.0, 0, 0, 0.7, 0.0]}
-{"id": 11, "score": -1.76, "text": "*The rare earths are a group of 15 elements (atomic numbers 57 through 71) that possess similar properties.", "features": [0.17, 0.0, 0, 1, 0.42, 0.0]}
-{"id": 12, "score": -1.86, "text": "Feldspar is used in the production of ceramics, and muscovite is used for electrical insulation and glitter.", "features": [0.0, 0.0, 0, 1, 0.86, 0.0]}
-{"id": 13, "score": -3.0, "text": "Further, pegmatites often contain some of the least abundant elements.", "features": [0.25, 0.0, 1, 1, 0.5, 0.0]}
+{"id": 1, "score": 1.0, "text": "Except for special types of cut stone used for building and monuments, transportation costs greatly limit the distance most building materials can be profitably moved.", "features": [0.14, 0.0, 1, 1, 0.71, 0.0]}
+{"id": 2, "score": 0.93, "text": "Cement and aggregate go into the making of concrete, a material that is essential to practically all construction.", "features": [0.25, 0.0, 0, 1, 0.62, 0.0]}
+{"id": 3, "score": 0.92, "text": "Aggregate gives concrete its strength and volume, and cement binds the mixture into a rock-hard substance.", "features": [0.09, 0.0, 0, 1, 0.73, 0.09]}
+{"id": 4, "score": 0.88, "text": "Besides aggregate, other important building materials include gypsum for plaster and wallboard, clay for tile and bricks, and limestone and shale, which combine to form cement.", "features": [0.12, 0.0, 0, 1, 0.62, 0.0]}
+{"id": 5, "score": 0.86, "text": "Aggregate is produced commercially in every state and is used in nearly all building construction and in most public works projects.", "features": [0.0, 0.0, 1, 1, 0.4, 0.1]}
+{"id": 6, "score": 0.81, "text": "Building an average six-room house requires 90 tons of aggregate.", "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 7, "score": 0.81, "text": "Building just 2 kilometers of fourlane highway requires more than 85 thousand tons of aggregate.", "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 8, "score": 0.81, "text": "The United States produces nearly 2 billion tons of aggregate per year, which represents about one-half of the country\u2019s entire nonenergy mining volume.", "features": [0.0, 0.0, 0, 1, 0.47, 0.12]}
+{"id": 9, "score": 0.73, "text": "Because most building materials are widely distributed and present in almost unlimited quantities, they have little intrinsic value.", "features": [0.1, 0.0, 1, 0, 0.4, 0.0]}
+{"id": 10, "score": 0.7, "text": "Since their per-ton value compared with the values of metals and industrial minerals is low, mining and quarrying operations are usually undertaken to satisfy local needs.", "features": [0.13, 0.0, 0, 0, 0.53, 0.0]}
+{"id": 11, "score": 0.14, "text": "Their economic worth comes only after the materials are removed from the ground and processed.", "features": [0.14, 0.0, 0, 1, 0.43, 0.0]}
+{"id": 12, "score": 0.0, "text": "From the standpoint of quantity and value, aggregate is a very important building material.", "features": [0.14, 0.0, 0, 1, 0.86, 0.0]}
+{"id": 13, "score": 0.0, "text": "Natural aggregate consists of crushed stone, sand, and gravel.", "features": [0.43, 0.0, 0, 1, 0.57, 0.0]}

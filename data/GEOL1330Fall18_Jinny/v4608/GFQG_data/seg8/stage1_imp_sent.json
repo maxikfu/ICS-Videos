@@ -1,13 +1,13 @@
-{"id": 1, "score": 2.08, "text": "During this time of intense heating, Earth became hot enough that elements including iron and nickel began to melt.", "features": [0.27, 0.0, 0, 1, 0.45, 0.09]}
-{"id": 2, "score": 1.99, "text": "These rocky materials were rich in oxygen and \u201coxygen-seeking\u201d elements, particularly silicon and aluminum, along with lesser amounts of calcium, sodium, potassium, iron, and magnesium.", "features": [0.62, 0.0, 0, 0, 0.75, 0.0]}
-{"id": 3, "score": 1.92, "text": "If a bottle filled with clay, iron filings, water, and air were shaken, it would appear to have a single, muddy composition.", "features": [0.17, 0.0, 0, 1, 0.58, 0.0]}
-{"id": 4, "score": 1.75, "text": "The early period of heating resulted in another process of chemical differentiation, whereby melting formed masses of less-dense, molten rock that buoyantly rose toward the surface and solidified to produce a primitive crust.", "features": [0.15, 0.0, 0, 1, 0.45, 0.0]}
-{"id": 5, "score": 1.7, "text": "As material accumulated to form Earth (and for a short period afterward), the high-velocity impact of nebular debris and the decay of radioactive elements caused the temperature of our planet to steadily increase.", "features": [0.1, 0.0, 0, 1, 0.45, 0.05]}
-{"id": 6, "score": 1.4, "text": "Melting produced liquid blobs of heavy metal that gravitationally sank toward the center of the planet.", "features": [0.0, 0.0, 0, 1, 0.4, 0.0]}
-{"id": 7, "score": 1.33, "text": "If that bottle were then allowed to sit undisturbed, the different materials would separate and settle into layers.", "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
-{"id": 8, "score": 0.76, "text": "This process occurred rapidly on the scale of geologic time and produced Earth\u2019s dense iron-rich core.", "features": [0.15, 0.0, 0, 0, 0.38, 0.08]}
-{"id": 9, "score": -1.17, "text": "Above the iron would be a layer of clay, then water, and, finally, air.", "features": [0.17, 0.0, 0, 0, 0.83, 0.0]}
-{"id": 10, "score": -1.75, "text": "The force of gravity is responsible for the layering in the bottle of muddy water, as well as the layering we detect in", "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
-{"id": 11, "score": -2.0, "text": "Earth\u2019s interior. \n\n", "features": [0.25, 0.0, 0, 1, 0.25, 0.25]}
-{"id": 12, "score": -2.6, "text": "Formation of Earth\u2019s Layered Structure", "features": [0.4, 0.0, 0, 1, 0.0, 0.8]}
-{"id": 13, "score": -3.25, "text": "The iron filings, which are the densest, would be the first to sink to the bottom.", "features": [0.25, 0.0, 1, 1, 0.75, 0.0]}
+{"id": 1, "score": 1.0, "text": "These rocky materials were rich in oxygen and \u201coxygen-seeking\u201d elements, particularly silicon and aluminum, along with lesser amounts of calcium, sodium, potassium, iron, and magnesium.", "features": [0.62, 0.0, 0, 0, 0.75, 0.0]}
+{"id": 2, "score": 0.96, "text": "If a bottle filled with clay, iron filings, water, and air were shaken, it would appear to have a single, muddy composition.", "features": [0.17, 0.0, 0, 1, 0.58, 0.0]}
+{"id": 3, "score": 0.96, "text": "During this time of intense heating, Earth became hot enough that elements including iron and nickel began to melt.", "features": [0.27, 0.0, 0, 1, 0.45, 0.09]}
+{"id": 4, "score": 0.91, "text": "The early period of heating resulted in another process of chemical differentiation, whereby melting formed masses of less-dense, molten rock that buoyantly rose toward the surface and solidified to produce a primitive crust.", "features": [0.15, 0.0, 0, 1, 0.45, 0.0]}
+{"id": 5, "score": 0.9, "text": "As material accumulated to form Earth (and for a short period afterward), the high-velocity impact of nebular debris and the decay of radioactive elements caused the temperature of our planet to steadily increase.", "features": [0.1, 0.0, 0, 1, 0.45, 0.05]}
+{"id": 6, "score": 0.85, "text": "Melting produced liquid blobs of heavy metal that gravitationally sank toward the center of the planet.", "features": [0.0, 0.0, 0, 1, 0.4, 0.0]}
+{"id": 7, "score": 0.83, "text": "If that bottle were then allowed to sit undisturbed, the different materials would separate and settle into layers.", "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
+{"id": 8, "score": 0.74, "text": "This process occurred rapidly on the scale of geologic time and produced Earth\u2019s dense iron-rich core.", "features": [0.15, 0.0, 0, 0, 0.38, 0.08]}
+{"id": 9, "score": 0.24, "text": "Above the iron would be a layer of clay, then water, and, finally, air.", "features": [0.17, 0.0, 0, 0, 0.83, 0.0]}
+{"id": 10, "score": 0.22, "text": "Earth\u2019s interior. \n\n", "features": [0.25, 0.0, 0, 1, 0.25, 0.25]}
+{"id": 11, "score": 0.21, "text": "Formation of Earth\u2019s Layered Structure", "features": [0.4, 0.0, 0, 1, 0.0, 0.8]}
+{"id": 12, "score": 0.16, "text": "The force of gravity is responsible for the layering in the bottle of muddy water, as well as the layering we detect in", "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 13, "score": 0.0, "text": "The iron filings, which are the densest, would be the first to sink to the bottom.", "features": [0.25, 0.0, 1, 1, 0.75, 0.0]}

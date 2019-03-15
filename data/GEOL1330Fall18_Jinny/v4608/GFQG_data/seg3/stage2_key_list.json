@@ -1,14 +1,14 @@
-{"sent_id": 1, "key_list": [[5.5, "irregular fracture", [1, 1, 3]], [4.5, "minerals", [3, 1, 0]], [4.0, "curved sur1 faces", [1, 0, 3]], [3.5, "broken glass", [1, 1, 1]], [3.5, "quartz", [2, 1, 0]], [3.0, "erals", [1, 0, 2]], [3.0, "not uneven surfaces", [1, 0, 2]], [2.5, "fracture", [1, 1, 0]]]}
-{"sent_id": 2, "key_list": [[9.5, "minerals", [3, 1, 5]], [3.5, "quartz", [2, 1, 0]], [3.0, "twice the specific gravity", [1, 0, 2]]]}
-{"sent_id": 3, "key_list": [[8.0, "example", [2, 0, 6]], [7.5, "muscovite chemical bonds", [1, 1, 5]], [3.5, "all directions", [1, 1, 1]], [3.0, "a property", [1, 0, 2]]]}
-{"sent_id": 4, "key_list": [[6.5, "minerals", [3, 1, 2]], [4.0, "thin shavings", [1, 0, 3]], [3.5, "a mineral", [1, 1, 1]], [3.5, "gypsum", [1, 1, 1]], [2.5, "talc", [1, 1, 0]], [2.0, "your hand", [1, 0, 1]], [2.0, "the specific", [1, 0, 1]], [2.0, "a little practice", [1, 0, 1]], [1.0, "addition", [1, 0, 0]]]}
-{"sent_id": 5, "key_list": [[8.5, "nonmetallic minerals", [1, 1, 6]], [6.5, "quartz and halite minerals", [1, 1, 4]], [3.5, "exhibit cleavage", [1, 1, 1]], [3.5, "native copper", [1, 1, 1]], [2.0, "contrast", [2, 0, 0]], [1.0, "magnetite", [1, 0, 0]]]}
-{"sent_id": 6, "key_list": [[4.0, "native metals", [1, 0, 3]], [3.5, "copper", [1, 1, 1]], [3.0, "a specific gravity", [2, 0, 1]], [2.0, "24-karat gold", [1, 0, 1]], [2.0, "contrast", [2, 0, 0]], [1.0, "gold", [1, 0, 0]]]}
-{"sent_id": 7, "key_list": [[6.0, "a specific gravity", [2, 0, 4]], [4.0, "galena", [1, 0, 3]], [3.0, "small pieces", [1, 0, 2]], [3.0, "an ore", [1, 0, 2]]]}
-{"sent_id": 8, "key_list": [[3.0, "still others", [1, 0, 2]], [2.0, "their original shape", [1, 0, 1]], [1.0, "stress", [1, 0, 0]]]}
-{"sent_id": 9, "key_list": []}
+{"sent_id": 1, "key_list": [[8.0, "minerals", [3, 1, 5]], [2.5, "quartz", [2, 1, 0]], [2.5, "twice the specific gravity", [1, 0, 2]]]}
+{"sent_id": 2, "key_list": [[5.0, "minerals", [3, 1, 2]], [3.5, "thin shavings", [1, 0, 3]], [3.0, "a mineral", [1, 1, 1]], [3.0, "gypsum", [1, 1, 1]], [2.0, "talc", [1, 1, 0]], [1.5, "your hand", [1, 0, 1]], [1.5, "the specific", [1, 0, 1]], [1.5, "a little practice", [1, 0, 1]], [0.5, "addition", [1, 0, 0]]]}
+{"sent_id": 3, "key_list": [[5.0, "irregular fracture", [1, 1, 3]], [3.5, "curved sur1 faces", [1, 0, 3]], [3.0, "broken glass", [1, 1, 1]], [3.0, "minerals", [3, 1, 0]], [2.5, "quartz", [2, 1, 0]], [2.5, "erals", [1, 0, 2]], [2.5, "not uneven surfaces", [1, 0, 2]], [2.0, "fracture", [1, 1, 0]]]}
+{"sent_id": 4, "key_list": [[7.0, "muscovite chemical bonds", [1, 1, 5]], [7.0, "example", [2, 0, 6]], [3.0, "all directions", [1, 1, 1]], [2.5, "a property", [1, 0, 2]]]}
+{"sent_id": 5, "key_list": [[8.0, "nonmetallic minerals", [1, 1, 6]], [6.0, "quartz and halite minerals", [1, 1, 4]], [3.0, "exhibit cleavage", [1, 1, 1]], [3.0, "native copper", [1, 1, 1]], [1.0, "contrast", [2, 0, 0]], [0.5, "magnetite", [1, 0, 0]]]}
+{"sent_id": 6, "key_list": [[3.0, "fibrous fracture", [1, 1, 1]], [1.5, "splinters", [1, 0, 1]], [1.5, "such breaks", [1, 0, 1]], [0.5, "fibers", [1, 0, 0]]]}
+{"sent_id": 7, "key_list": [[3.5, "native metals", [1, 0, 3]], [3.0, "copper", [1, 1, 1]], [2.0, "a specific gravity", [2, 0, 1]], [1.5, "24-karat gold", [1, 0, 1]], [1.0, "contrast", [2, 0, 0]], [0.5, "gold", [1, 0, 0]]]}
+{"sent_id": 8, "key_list": [[2.5, "still others", [1, 0, 2]], [1.5, "their original shape", [1, 0, 1]], [0.5, "stress", [1, 0, 0]]]}
+{"sent_id": 9, "key_list": [[5.0, "a specific gravity", [2, 0, 4]], [3.5, "galena", [1, 0, 3]], [2.5, "small pieces", [1, 0, 2]], [2.5, "an ore", [1, 0, 2]]]}
 {"sent_id": 10, "key_list": []}
-{"sent_id": 11, "key_list": [[3.0, "specific gravity", [1, 0, 2]]]}
-{"sent_id": 12, "key_list": [[9.5, "fluorite resistance", [1, 1, 7]], [3.0, "other forms", [1, 0, 2]], [1.0, "deformation", [1, 0, 0]]]}
-{"sent_id": 13, "key_list": [[3.5, "fibrous fracture", [1, 1, 1]], [2.0, "splinters", [1, 0, 1]], [2.0, "such breaks", [1, 0, 1]], [1.0, "fibers", [1, 0, 0]]]}
-{"sent_id": 14, "key_list": [[3.0, "example", [2, 0, 1]]]}
+{"sent_id": 11, "key_list": []}
+{"sent_id": 12, "key_list": [[2.5, "specific gravity", [1, 0, 2]]]}
+{"sent_id": 13, "key_list": [[9.0, "fluorite resistance", [1, 1, 7]], [2.5, "other forms", [1, 0, 2]], [0.5, "deformation", [1, 0, 0]]]}
+{"sent_id": 14, "key_list": [[2.0, "example", [2, 0, 1]]]}

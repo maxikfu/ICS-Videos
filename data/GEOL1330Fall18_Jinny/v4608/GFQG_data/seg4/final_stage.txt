@@ -1,7 +1,7 @@
-Question: Of the many optical properties of minerals, ______________, their ability to transmit light, their color, and their streak are most frequently used for mineral identification.
-a) their streak
-b) their ability
-c) their color
-d) their luster
-Answer: their luster
+Question: Many people associate the word crystal with ______________ or glassy objects with smooth sides and gem-like shapes.
+a) compositional and structural variations
+b) smooth sides
+c) crystalline solids
+d) delicate wine goblets
+Answer: delicate wine goblets
 

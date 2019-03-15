@@ -1,13 +1,13 @@
-{"sent_id": 1, "key_list": [[5.5, "potassium feldspar", [3, 1, 1]], [4.0, "one group", [1, 0, 3]], [3.5, "feldspar minerals", [1, 1, 1]], [2.0, "its structure", [1, 0, 1]], [2.0, "potassium ions", [1, 0, 1]]]}
-{"sent_id": 2, "key_list": [[5.5, "potassium feldspar", [3, 1, 1]], [5.5, "some cleavage planes", [1, 1, 3]], [3.5, "plagioclase feldspar", [1, 1, 1]], [1.0, "striations", [1, 0, 0]]]}
-{"sent_id": 3, "key_list": [[4.5, "color", [3, 1, 0]], [2.0, "the other hand", [1, 0, 1]], [2.0, "the plagioclase", [1, 0, 1]]]}
-{"sent_id": 4, "key_list": [[5.5, "salmon pink", [1, 1, 3]], [5.5, "potassium feldspar", [3, 1, 1]], [5.0, "light cream", [1, 0, 4]], [4.5, "color", [3, 1, 0]]]}
-{"sent_id": 5, "key_list": [[4.5, "their rectangular shape", [1, 1, 2]], [4.0, "a component", [1, 0, 3]], [3.5, "feldspar crystals", [1, 1, 1]], [3.5, "igneous rocks", [1, 1, 1]], [2.0, "shiny faces", [1, 0, 1]]]}
-{"sent_id": 6, "key_list": [[5.5, "a luster", [1, 1, 3]], [4.0, "two planes", [1, 0, 3]], [3.5, "the mohs scale", [1, 1, 1]], [3.5, "cleavage meeting", [1, 1, 1]], [2.0, "90-degree angles", [1, 0, 1]]]}
-{"sent_id": 7, "key_list": [[6.0, "both sodium and calcium ions", [1, 0, 5]], [4.0, "the other group", [1, 0, 3]], [2.0, "the environment", [1, 0, 1]], [1.0, "crystallization", [1, 0, 0]]]}
-{"sent_id": 8, "key_list": [[5.0, "a multitude", [1, 0, 4]], [4.0, "the only way", [1, 0, 3]], [3.5, "the feldspars", [1, 1, 1]], [3.0, "fine parallel lines", [1, 0, 2]]]}
-{"sent_id": 9, "key_list": [[4.5, "color", [3, 1, 0]], [2.0, "these groups", [1, 0, 1]]]}
-{"sent_id": 10, "key_list": [[5.0, "temperatures", [1, 0, 4]], [2.0, "their abundance", [1, 0, 1]], [1.0, "pressures", [1, 0, 0]]]}
-{"sent_id": 11, "key_list": [[3.5, "two different feldspar structures", [1, 1, 1]]]}
-{"sent_id": 12, "key_list": [[5.0, "common members", [1, 0, 4]], [4.5, "the potassium feldspar group", [1, 1, 2]], [2.0, "orthoclase", [1, 0, 1]], [1.0, "microcline", [1, 0, 0]]]}
-{"sent_id": 13, "key_list": [[3.5, "similar physical properties", [1, 1, 1]], [3.5, "all feldspar minerals", [1, 1, 1]], [2.0, "these differences", [1, 0, 1]]]}
+{"sent_id": 1, "key_list": [[4.0, "potassium feldspar", [3, 1, 1]], [3.5, "one group", [1, 0, 3]], [3.0, "feldspar minerals", [1, 1, 1]], [1.5, "its structure", [1, 0, 1]], [1.5, "potassium ions", [1, 0, 1]]]}
+{"sent_id": 2, "key_list": [[5.0, "some cleavage planes", [1, 1, 3]], [4.0, "potassium feldspar", [3, 1, 1]], [3.0, "plagioclase feldspar", [1, 1, 1]], [0.5, "striations", [1, 0, 0]]]}
+{"sent_id": 3, "key_list": [[5.0, "salmon pink", [1, 1, 3]], [4.5, "light cream", [1, 0, 4]], [4.0, "potassium feldspar", [3, 1, 1]], [3.0, "color", [3, 1, 0]]]}
+{"sent_id": 4, "key_list": [[4.0, "their rectangular shape", [1, 1, 2]], [3.5, "a component", [1, 0, 3]], [3.0, "feldspar crystals", [1, 1, 1]], [3.0, "igneous rocks", [1, 1, 1]], [1.5, "shiny faces", [1, 0, 1]]]}
+{"sent_id": 5, "key_list": [[3.0, "color", [3, 1, 0]], [1.5, "the other hand", [1, 0, 1]], [1.5, "the plagioclase", [1, 0, 1]]]}
+{"sent_id": 6, "key_list": [[5.5, "both sodium and calcium ions", [1, 0, 5]], [3.5, "the other group", [1, 0, 3]], [1.5, "the environment", [1, 0, 1]], [0.5, "crystallization", [1, 0, 0]]]}
+{"sent_id": 7, "key_list": [[5.0, "a luster", [1, 1, 3]], [3.5, "two planes", [1, 0, 3]], [3.0, "the mohs scale", [1, 1, 1]], [3.0, "cleavage meeting", [1, 1, 1]], [1.5, "90-degree angles", [1, 0, 1]]]}
+{"sent_id": 8, "key_list": [[4.5, "a multitude", [1, 0, 4]], [3.5, "the only way", [1, 0, 3]], [3.0, "the feldspars", [1, 1, 1]], [2.5, "fine parallel lines", [1, 0, 2]]]}
+{"sent_id": 9, "key_list": [[3.0, "color", [3, 1, 0]], [1.5, "these groups", [1, 0, 1]]]}
+{"sent_id": 10, "key_list": [[4.5, "temperatures", [1, 0, 4]], [1.5, "their abundance", [1, 0, 1]], [0.5, "pressures", [1, 0, 0]]]}
+{"sent_id": 11, "key_list": [[3.0, "two different feldspar structures", [1, 1, 1]]]}
+{"sent_id": 12, "key_list": [[4.5, "common members", [1, 0, 4]], [4.0, "the potassium feldspar group", [1, 1, 2]], [1.5, "orthoclase", [1, 0, 1]], [0.5, "microcline", [1, 0, 0]]]}
+{"sent_id": 13, "key_list": [[3.0, "similar physical properties", [1, 1, 1]], [3.0, "all feldspar minerals", [1, 1, 1]], [1.5, "these differences", [1, 0, 1]]]}

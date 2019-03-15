@@ -1,37 +1,109 @@
-{"sent_id": 1, "key_list": [[4.5, "earth", [3, 1, 0]], [3.5, "rocks", [2, 1, 0]], [3.5, "this chapter", [1, 1, 1]]]}
-{"sent_id": 2, "key_list": [[8.5, "three major groups", [1, 1, 6]], [5.5, "molten rock", [3, 1, 1]], [4.5, "earth\u2019s mentary", [1, 1, 2]], [3.5, "rocks", [2, 1, 0]], [1.0, "geologists", [1, 0, 0]]]}
-{"sent_id": 3, "key_list": [[6.0, "slow cooling", [1, 0, 5]], [5.5, "molten rock", [3, 1, 1]], [5.5, "the a rock\u2019s texture", [1, 1, 3]], [5.5, "minerals", [2, 1, 2]], [4.0, "the surface", [3, 0, 1]], [4.0, "deep arrangement", [1, 0, 3]], [3.5, "granite", [2, 1, 0]], [3.0, "the size", [1, 0, 2]], [2.0, "its constituent", [1, 0, 1]], [2.0, "shape", [1, 0, 1]], [1.0, "addition", [1, 0, 0]]]}
-{"sent_id": 4, "key_list": [[6.0, "chemical compounds", [1, 0, 5]], [3.5, "minerals", [2, 1, 0]], [3.0, "its own composition", [1, 0, 2]], [2.0, "physical properties", [1, 0, 1]], [2.0, "sometimes single elements", [1, 0, 1]]]}
-{"sent_id": 5, "key_list": [[5.5, "the igneous, sedimentary, and metamorphic rocks", [1, 1, 3]], [5.0, "processes", [1, 0, 4]], [4.0, "desert basins", [1, 0, 3]], [3.5, "sand dunes", [1, 1, 1]], [3.5, "each type", [1, 1, 1]], [3.0, "swamps", [1, 0, 2]], [3.0, "the others", [2, 0, 1]], [3.0, "other sites", [1, 0, 2]], [2.0, "river floodplains", [1, 0, 1]], [2.0, "most sediment", [1, 0, 1]], [2.0, "the origin", [1, 0, 1]], [1.0, "deposition", [1, 0, 0]]]}
-{"sent_id": 6, "key_list": [[7.0, "a term cycle", [1, 0, 6]], [5.0, "a simplified but useful overview", [1, 0, 4]], [4.5, "the rock", [2, 1, 1]], [3.5, "rock", [2, 1, 0]], [3.0, "\u201cconversion", [1, 0, 2]], [2.0, "physical meaning", [1, 0, 1]], [2.0, "the sediments", [1, 0, 1]], [1.0, "lithification", [1, 0, 0]]]}
-{"sent_id": 7, "key_list": [[10.5, "the minerals", [1, 1, 8]], [9.5, "a rock", [2, 1, 6]], [5.0, "the large crystals", [1, 0, 4]], [3.0, "light-colored ence", [1, 0, 2]], [2.0, "its nature", [1, 0, 1]], [1.0, "appearance", [1, 0, 0]]]}
-{"sent_id": 8, "key_list": [[10.5, "molten rock", [3, 1, 6]], [4.5, "earth\u2019s sur- building", [1, 1, 2]], [4.5, "earth", [3, 1, 0]], [4.0, "the dynamics", [1, 0, 3]], [3.5, "the resulting sedimentary rock", [1, 1, 1]], [3.0, "a mass", [1, 0, 2]], [3.0, "deep the basic cycle", [1, 0, 2]]]}
-{"sent_id": 9, "key_list": [[5.5, "the rock cycle", [3, 1, 1]], [4.0, "the weight", [1, 0, 3]], [3.5, "sedimentary rock", [1, 1, 1]], [2.0, "this book", [1, 0, 1]], [2.0, "greater detail", [1, 0, 1]], [2.0, "its interrelationships", [1, 0, 1]], [1.0, "layers", [1, 0, 0]]]}
-{"sent_id": 10, "key_list": [[4.5, "a rock", [2, 1, 1]], [3.0, "smaller crystals", [1, 0, 2]]]}
-{"sent_id": 11, "key_list": [[5.5, "the surface rock reacts", [1, 1, 3]], [4.0, "the surface", [3, 0, 1]], [2.0, "a volcanic eruption", [1, 0, 1]], [2.0, "the changing environment", [1, 0, 1]], [2.0, "the sedimentary called crystallization", [1, 0, 1]]]}
-{"sent_id": 12, "key_list": [[7.0, "a number", [1, 0, 6]], [6.0, "nowhere gravity", [1, 0, 5]], [5.0, "erosional agents", [1, 0, 4]], [3.5, "rock cycle", [1, 1, 1]], [3.0, "running water", [1, 0, 2]], [2.0, "this idea", [1, 0, 1]]]}
-{"sent_id": 13, "key_list": [[3.5, "the unaided eye", [1, 1, 1]], [2.0, "the grains", [1, 0, 1]], [1.0, "crystals", [1, 0, 0]]]}
-{"sent_id": 14, "key_list": [[9.0, "these particles", [1, 0, 8]], [6.0, "the interrelationships", [1, 0, 5]], [4.0, "different parts", [1, 0, 3]], [2.0, "dissolved substances", [1, 0, 1]]]}
-{"sent_id": 15, "key_list": [[6.0, "many practical applications", [1, 0, 5]], [3.5, "mineral resources", [1, 1, 1]], [3.0, "energy", [1, 0, 2]], [2.0, "environmental problems", [1, 0, 1]], [2.0, "this understanding", [1, 0, 1]]]}
-{"sent_id": 16, "key_list": [[4.0, "parts", [1, 0, 3]], [3.0, "our planet", [2, 0, 1]], [2.0, "a complex whole", [1, 0, 1]], [2.0, "many the materials", [1, 0, 1]], [1.0, "downslope", [1, 0, 0]]]}
-{"sent_id": 17, "key_list": [[5.0, "this process", [1, 0, 4]], [3.0, "great pressures", [1, 0, 2]], [2.0, "intense heat", [1, 0, 1]]]}
-{"sent_id": 18, "key_list": [[3.0, "as microscopically small crystals", [1, 0, 2]]]}
-{"sent_id": 19, "key_list": [[2.0, "the variety", [1, 0, 1]], [2.0, "a curious traveler", [1, 0, 1]]]}
-{"sent_id": 20, "key_list": [[3.0, "the planet", [2, 0, 1]]]}
-{"sent_id": 21, "key_list": [[3.0, "our planet", [2, 0, 1]], [2.0, "such analyses", [1, 0, 1]]]}
-{"sent_id": 22, "key_list": [[1.0, "geology", [1, 0, 0]], [1.0, "sediment", [1, 0, 0]]]}
-{"sent_id": 23, "key_list": [[3.0, "the geologic processes", [1, 0, 2]], [1.0, "turn", [1, 0, 0]], [1.0, "texture", [1, 0, 0]]]}
-{"sent_id": 24, "key_list": [[4.0, "influences", [1, 0, 3]], [4.0, "the surface", [3, 0, 1]], [3.5, "igneous rock", [1, 1, 1]], [3.5, "igneous rocks", [1, 1, 1]], [3.5, "morphic rock", [1, 1, 1]], [3.0, "still higher temperatures", [1, 0, 2]], [2.0, "the atmosphere", [1, 0, 1]], [2.0, "the day-in", [1, 0, 1]], [2.0, "additional pressure changes", [1, 0, 1]], [1.0, "weathering", [1, 0, 0]]]}
-{"sent_id": 25, "key_list": [[4.5, "the rock", [2, 1, 1]], [2.0, "some examples", [1, 0, 1]], [1.0, "surface", [1, 0, 0]]]}
-{"sent_id": 26, "key_list": [[1.0, "solidifies", [1, 0, 0]], [1.0, "time", [1, 0, 0]]]}
-{"sent_id": 27, "key_list": [[3.5, "each group", [1, 1, 1]], [2.0, "oceanic crust", [1, 0, 1]], [1.0, "basalt", [1, 0, 0]]]}
-{"sent_id": 28, "key_list": [[5.5, "the rock cycle", [3, 1, 1]], [3.0, "glaciers", [1, 0, 2]], [2.0, "wind", [1, 0, 1]], [1.0, "waves", [1, 0, 0]]]}
-{"sent_id": 29, "key_list": [[3.0, "the pores", [1, 0, 2]], [2.5, "mineral", [1, 1, 0]], [2.0, "percolating groundwater", [1, 0, 1]]]}
-{"sent_id": 30, "key_list": [[2.0, "a system", [1, 0, 1]]]}
-{"sent_id": 31, "key_list": [[9.0, "the others", [2, 0, 7]], [6.0, "the processes", [1, 0, 5]], [3.0, "the planet", [2, 0, 1]]]}
-{"sent_id": 32, "key_list": [[6.0, "a significant effect", [1, 0, 5]], [4.0, "its appearabundant", [1, 0, 3]], [3.5, "granite", [2, 1, 0]], [2.0, "the continental crust", [1, 0, 1]]]}
-{"sent_id": 33, "key_list": [[5.5, "the rock cycle", [3, 1, 1]], [5.0, "sketch", [1, 0, 4]], [4.0, "label", [1, 0, 3]]]}
-{"sent_id": 34, "key_list": [[3.5, "the resulting rocks", [1, 1, 1]]]}
-{"sent_id": 35, "key_list": [[4.5, "earth", [3, 1, 0]], [3.5, "rock", [2, 1, 0]], [3.0, "the most common and abundant material", [1, 0, 2]]]}
-{"sent_id": 36, "key_list": [[3.5, "the earth system", [1, 1, 1]]]}
-{"sent_id": 37, "key_list": [[4.5, "either the third rock type", [1, 1, 2]], [3.5, "metamorphic rock", [1, 1, 1]]]}
+{"sent_id": 1, "key_list": [[4.0, "the surface", [2, 0, 3]], [3.0, "analyzed samples", [1, 1, 1]], [2.5, "meteorites", [2, 1, 0]], [2.5, "composition", [1, 0, 2]], [1.5, "a larger asteroid", [1, 0, 1]], [1.5, "the asteroid", [1, 0, 1]]]}
+{"sent_id": 2, "key_list": [[4.0, "greater than 10,000 times the earth\u2013sun distance", [1, 1, 2]], [4.0, "the sun", [6, 0, 1]], [0.5, "distances", [1, 0, 0]]]}
+{"sent_id": 3, "key_list": [[9.0, "earth-like landforms", [1, 1, 7]], [5.5, "dune formation", [1, 0, 5]], [4.5, "streamlike erosion", [1, 0, 4]], [2.0, "titan", [4, 0, 0]], [1.5, "methane \u201crain", [1, 0, 1]], [1.5, "geologic processes", [1, 0, 1]]]}
+{"sent_id": 4, "key_list": [[5.5, "ceres", [1, 0, 5]], [4.5, "a body", [1, 0, 4]], [4.0, "the newest grouping", [1, 1, 2]], [3.5, "the largest known object", [1, 0, 3]], [2.5, "pluto", [1, 0, 2]], [2.5, "about 1000 kilometers", [1, 0, 2]], [2.0, "the asteroid belt", [2, 0, 1]], [1.5, "a former planet", [1, 0, 1]], [1.5, "diameter", [3, 0, 0]], [1.5, "600 miles", [1, 0, 1]], [1.5, "dwarf planets", [1, 0, 1]]]}
+{"sent_id": 5, "key_list": [[10.0, "neptune", [8, 0, 6]], [5.0, "the solar system", [8, 0, 1]], [4.5, "record wind speeds", [1, 0, 4]], [3.5, "the windiest places", [1, 0, 3]], [2.5, "2400 kilometers", [1, 0, 2]], [2.0, "the planet", [2, 0, 1]], [1.5, "1500 miles", [1, 0, 1]], [0.5, "hour", [1, 0, 0]]]}
+{"sent_id": 6, "key_list": [[3.0, "saturn", [6, 0, 0]], [2.5, "only a few tens", [1, 0, 2]], [1.5, "diameter", [3, 0, 0]], [1.5, "irregular shapes", [1, 0, 1]], [1.5, "smallest moons", [1, 0, 1]], [0.5, "kilometers", [1, 0, 0]]]}
+{"sent_id": 7, "key_list": [[9.5, "slightly elliptical orbits", [1, 0, 9]], [6.5, "the same plane kuiper belt comets", [1, 0, 6]], [5.5, "the gravitational influence", [1, 0, 5]], [3.5, "the asteroids", [1, 0, 3]], [3.0, "the inner solar system", [4, 0, 1]], [1.5, "our view", [1, 0, 1]], [1.5, "their orbits", [1, 0, 1]], [1.5, "the jovian planets", [1, 0, 1]], [1.5, "most kuiper", [1, 0, 1]]]}
+{"sent_id": 8, "key_list": [[4.0, "the sun", [6, 0, 1]], [3.5, "the shortest-period comet", [1, 0, 3]], [2.5, "(encke\u2019s comet", [1, 0, 2]]]}
+{"sent_id": 9, "key_list": [[4.5, "size", [3, 0, 3]], [2.5, "shape", [1, 0, 2]], [2.0, "the moons", [2, 0, 1]], [1.5, "surface age", [1, 0, 1]], [0.5, "origin", [1, 0, 0]]]}
+{"sent_id": 10, "key_list": [[4.5, "earth\u2019s surface", [2, 1, 2]], [4.5, "the atmospheric pressure", [1, 0, 4]], [3.5, "about 98 percent nitrogen", [1, 0, 3]], [2.5, "2 percent methane", [1, 0, 2]], [2.5, "titan\u2019s surface", [1, 0, 2]], [1.5, "trace organic compounds", [1, 0, 1]], [1.5, "the atmospheric composition", [1, 0, 1]]]}
+{"sent_id": 11, "key_list": [[4.0, "earth\u2019s atmosphere", [1, 1, 2]], [2.5, "thousands", [1, 0, 2]], [1.5, "meteoroids", [3, 0, 0]], [1.0, "researchers", [2, 0, 0]]]}
+{"sent_id": 12, "key_list": [[5.5, "evidence", [1, 0, 5]], [3.5, "tectonic activity", [1, 0, 3]], [2.5, "rhea", [1, 0, 2]], [1.5, "their icy surfaces", [1, 0, 1]], [1.5, "internal forces", [1, 0, 1]], [1.5, "dione", [1, 0, 1]], [0.5, "tethys", [1, 0, 0]]]}
+{"sent_id": 13, "key_list": [[4.5, "seismic shaking", [1, 0, 4]], [1.5, "the boulders", [1, 0, 1]], [1.5, "the boulderstrewn topography", [1, 0, 1]], [1.5, "several hypotheses", [1, 0, 1]]]}
+{"sent_id": 14, "key_list": [[1.5, "the primary occultation", [1, 0, 1]], [1.5, "five rings", [1, 0, 1]], [1.5, "the star", [1, 0, 1]], [0.5, "observers", [1, 0, 0]]]}
+{"sent_id": 15, "key_list": [[5.0, "the solar system", [8, 0, 1]], [3.5, "the second-largest satellite", [1, 0, 3]], [3.0, "saturn", [6, 0, 0]], [2.0, "titan", [4, 0, 0]], [1.5, "largest moon", [1, 0, 1]], [0.5, "mercury", [1, 0, 0]]]}
+{"sent_id": 16, "key_list": [[11.5, "the source", [3, 0, 10]], [8.5, "the material areas", [1, 0, 8]], [5.5, "four large fractures", [1, 0, 5]], [3.5, "ridges", [1, 0, 3]], [1.5, "either side", [1, 0, 1]], [1.5, "the outgassing", [1, 0, 1]], [1.0, "water", [2, 0, 0]]]}
+{"sent_id": 17, "key_list": [[6.5, "\u201coriginal\u201d satellites", [1, 0, 6]], [3.5, "tandem", [1, 0, 3]], [2.0, "the moons", [2, 0, 1]], [1.5, "their parent planet", [1, 0, 1]]]}
+{"sent_id": 18, "key_list": [[8.5, "\u2014testimony", [1, 0, 8]], [6.5, "their dedication", [1, 0, 6]], [4.5, "astronomical observers", [1, 0, 4]], [3.5, "the endurance", [1, 0, 3]], [3.5, "its 29 appearances", [1, 0, 3]], [3.0, "ancient chinese astronomers", [1, 1, 1]], [1.5, "chinese culture", [1, 0, 1]], [1.5, "its orbital period", [1, 0, 1]]]}
+{"sent_id": 19, "key_list": [[6.5, "a large impact", [1, 0, 6]], [4.0, "a dense iron core", [1, 1, 2]], [2.5, "meteorites", [2, 1, 0]], [2.5, "indirect evidence", [1, 0, 2]], [1.5, "a rocky mantle", [1, 0, 1]], [1.5, "some asteroids", [1, 0, 1]]]}
+{"sent_id": 20, "key_list": [[5.5, "the bright red area", [1, 0, 5]], [4.0, "newly erupted lava", [1, 1, 2]], [3.5, "the left side", [1, 0, 3]], [2.5, "the image", [3, 0, 1]], [0.5, "arrow", [1, 0, 0]]]}
+{"sent_id": 21, "key_list": [[9.5, "solar system objects", [1, 0, 9]], [6.5, "two broad categories", [1, 0, 6]], [5.5, "(1) small solar system bodies", [1, 0, 5]], [3.5, "comets", [3, 0, 2]], [3.5, "asteroids", [1, 0, 3]], [1.5, "(2) dwarf planets", [1, 0, 1]], [1.5, "meteoroids", [3, 0, 0]], [1.5, "planets", [1, 0, 1]], [1.5, "the international astronomical union", [1, 0, 1]], [1.0, "moons", [2, 0, 0]]]}
+{"sent_id": 22, "key_list": [[4.0, "the sun", [6, 0, 1]], [3.5, "its most recent entry", [1, 0, 3]], [3.5, "comet holmes", [1, 0, 3]], [3.0, "the inner solar system", [4, 0, 1]]]}
+{"sent_id": 23, "key_list": [[4.5, "the amount", [1, 0, 4]], [3.0, "the past 50,000 years", [1, 1, 1]], [1.5, "the impact", [1, 0, 1]], [1.5, "the crater rim", [1, 0, 1]], [0.5, "erosion", [1, 0, 0]]]}
+{"sent_id": 24, "key_list": [[7.5, "features", [1, 0, 7]], [4.5, "an explosive impact", [1, 0, 4]], [3.5, "at least 40 terrestrial craters", [1, 0, 3]], [2.5, "a large asteroid", [1, 0, 2]], [1.5, "perhaps even a comet nucleus", [1, 0, 1]]]}
+{"sent_id": 25, "key_list": [[1.5, "its view", [1, 0, 1]], [1.5, "a distant star", [1, 0, 1]], [1.5, "uranus", [3, 0, 0]], [1.5, "the discovery", [1, 0, 1]]]}
+{"sent_id": 26, "key_list": [[6.5, "countless chunks", [1, 0, 6]], [5.0, "the solar system", [8, 0, 1]], [3.5, "the outer reaches", [1, 0, 3]], [3.5, "the vast spaces", [1, 0, 3]], [1.5, "the eight planets", [1, 0, 1]], [1.0, "debris", [2, 0, 0]]]}
+{"sent_id": 27, "key_list": [[2.5, "dutch astronomer christian huygens", [1, 0, 2]], [1.5, "their ring nature", [1, 0, 1]]]}
+{"sent_id": 28, "key_list": [[3.5, "fine, dark particles", [1, 0, 3]], [2.5, "the rings", [3, 0, 1]], [1.5, "size", [3, 0, 0]], [1.5, "these rings", [1, 0, 1]], [1.0, "particles", [2, 0, 0]], [1.0, "researchers", [2, 0, 0]], [0.5, "light", [1, 0, 0]]]}
+{"sent_id": 29, "key_list": [[9.0, "list", [1, 1, 7]], [5.5, "the principal characteristics", [1, 0, 5]], [5.0, "the solar system", [8, 0, 1]], [3.5, "the small bodies", [1, 0, 3]]]}
+{"sent_id": 30, "key_list": [[5.5, "studies", [1, 0, 5]], [4.5, "miranda", [1, 0, 4]], [3.5, "the innermost", [1, 0, 3]], [2.5, "nasa\u2019s jet propulsion laboratory", [1, 0, 2]], [1.5, "gravitational heating", [1, 0, 1]], [1.5, "the five largest moons", [1, 0, 1]], [0.5, "io", [1, 0, 0]]]}
+{"sent_id": 31, "key_list": [[4.5, "earth\u2019s surface", [2, 1, 2]], [4.5, "meteoroids", [3, 0, 3]], [2.5, "less than about 1 meter", [1, 0, 2]], [1.5, "diameter", [3, 0, 0]], [1.5, "3 feet", [1, 0, 1]]]}
+{"sent_id": 32, "key_list": [[5.0, "earth", [7, 1, 0]], [4.5, "the only extraterrestrial materials", [1, 0, 4]], [1.5, "the laboratory", [1, 0, 1]], [1.5, "apollo astronauts", [1, 0, 1]]]}
+{"sent_id": 33, "key_list": [[6.5, "layers", [1, 0, 6]], [4.5, "white, cirrus-like clouds", [1, 0, 4]], [4.5, "another feature", [1, 0, 4]], [4.0, "neptune", [8, 0, 0]], [3.5, "(probably frozen methane", [1, 0, 3]], [2.5, "about 50 kilometers", [1, 0, 2]], [2.0, "the other jovian planets", [2, 0, 1]], [1.5, "the main cloud deck", [1, 0, 1]], [1.5, "30 miles", [1, 0, 1]]]}
+{"sent_id": 34, "key_list": [[3.5, "more than 30 tons", [1, 0, 3]], [3.0, "iron fragments", [1, 1, 1]], [1.5, "the main body", [1, 0, 1]], [1.5, "the immediate area", [1, 0, 1]]]}
+{"sent_id": 35, "key_list": [[1.5, "a gas", [1, 0, 1]], [1.5, "the process", [1, 0, 1]], [0.5, "sublimation", [1, 0, 0]]]}
+{"sent_id": 36, "key_list": [[4.5, "two small bodies", [1, 0, 4]], [2.5, "the rings", [3, 0, 1]], [2.0, "the planet", [2, 0, 1]], [1.5, "his primitive telescope", [1, 0, 1]]]}
+{"sent_id": 37, "key_list": [[5.5, "an artist\u2019s depiction", [1, 0, 5]], [3.5, "jets", [1, 0, 3]], [2.5, "comet wild", [3, 0, 1]], [1.5, "gas", [1, 0, 1]], [1.5, "the inset", [1, 0, 1]], [1.0, "dust", [2, 0, 0]]]}
+{"sent_id": 38, "key_list": [[4.0, "the sun", [6, 0, 1]], [4.0, "more than 29 earth years", [1, 1, 2]], [3.5, "their atmospheres", [1, 0, 3]], [3.5, "jupiter", [7, 0, 0]], [3.0, "saturn", [6, 0, 0]], [2.5, "compositions", [1, 0, 2]], [1.5, "internal structures", [1, 0, 1]], [1.5, "one revolution", [1, 0, 1]]]}
+{"sent_id": 39, "key_list": [[7.0, "twelve years", [1, 1, 5]], [4.5, "nearly 3 billion miles", [1, 0, 4]], [3.5, "an amazing opportunity", [1, 0, 3]], [2.5, "voyager 2 travel", [1, 0, 2]], [1.5, "the outermost planet", [1, 0, 1]], [0.5, "investigators", [1, 0, 0]]]}
+{"sent_id": 40, "key_list": [[6.5, "the source", [3, 0, 5]], [5.0, "impacts", [2, 0, 4]], [3.5, "the debris", [1, 0, 3]], [2.5, "jupiter\u2019s moons", [1, 0, 2]], [1.5, "the outer gossamer ring", [1, 0, 1]], [1.5, "amalthea", [1, 0, 1]], [0.5, "thebe", [1, 0, 0]]]}
+{"sent_id": 41, "key_list": [[5.5, "honor", [1, 0, 5]], [4.0, "neptune", [8, 0, 0]], [3.5, "astronomer gerald kuiper", [1, 0, 3]], [1.5, "the outer solar system", [1, 0, 1]], [1.5, "its existence", [1, 0, 1]]]}
+{"sent_id": 42, "key_list": [[11.5, "the source", [3, 0, 10]], [8.5, "exotic ices", [1, 0, 8]], [5.5, "the two bluish lobes", [1, 0, 5]], [4.5, "the bottom", [3, 0, 3]], [4.5, "the bright area", [1, 0, 4]], [4.0, "the heart", [2, 0, 3]], [2.5, "the image", [3, 0, 1]], [2.5, "the lower-central region", [1, 0, 2]], [2.0, "the heart", [2, 0, 1]]]}
+{"sent_id": 43, "key_list": [[3.0, "saturn", [6, 0, 0]], [2.5, "its system", [1, 0, 2]], [2.5, "the most striking feature", [1, 0, 2]], [1.0, "galileo", [2, 0, 0]], [0.5, "rings", [1, 0, 0]]]}
+{"sent_id": 44, "key_list": [[3.5, "sunset", [1, 0, 3]], [3.0, "the naked eye", [1, 1, 1]], [1.5, "a clear, dark night", [1, 0, 1]]]}
+{"sent_id": 45, "key_list": [[5.0, "earth", [7, 1, 0]], [3.0, "fresh samples", [1, 1, 1]], [1.5, "its surface", [1, 0, 1]], [1.5, "this asteroid", [1, 0, 1]]]}
+{"sent_id": 46, "key_list": [[3.5, "the faint nature", [1, 0, 3]], [2.5, "the rings", [3, 0, 1]], [1.5, "these minute particles", [1, 0, 1]]]}
+{"sent_id": 47, "key_list": [[10.0, "particles", [2, 0, 9]], [6.5, "fragments", [1, 0, 6]], [3.5, "jupiter", [7, 0, 0]], [3.5, "the surfaces", [1, 0, 3]], [2.5, "two small moons", [1, 0, 2]], [1.5, "metis", [1, 0, 1]], [1.5, "the main ring", [1, 0, 1]], [0.5, "adrastea", [1, 0, 0]]]}
+{"sent_id": 48, "key_list": [[6.5, "arizona\u2019s meteor crater", [1, 0, 6]], [4.5, "an upturned rim", [1, 0, 4]], [4.5, "a huge cavity", [1, 0, 4]], [1.5, "the surrounding countryside", [1, 0, 1]], [1.5, "560 feet", [1, 0, 1]], [1.5, "(0.6 mile", [1, 0, 1]]]}
+{"sent_id": 49, "key_list": [[4.5, "the heat", [1, 0, 4]], [4.5, "the dynamics", [1, 0, 4]], [3.5, "jupiter", [7, 0, 0]], [3.0, "saturn\u2019s atmosphere", [2, 0, 2]], [1.5, "gravitational compression", [1, 0, 1]]]}
+{"sent_id": 50, "key_list": [[7.5, "comets", [3, 0, 6]], [5.0, "the solar system", [8, 0, 1]], [5.0, "earth", [7, 1, 0]], [4.0, "the sun", [6, 0, 1]], [3.5, "a spherical shell", [1, 0, 3]], [3.5, "all directions", [1, 0, 3]], [3.0, "halley\u2019s comet", [2, 0, 2]], [2.5, "a very close approach", [1, 0, 2]], [2.0, "the oort cloud", [2, 0, 1]], [1.5, "dutch astronomer jan oort", [1, 0, 1]]]}
+{"sent_id": 51, "key_list": [[4.5, "the bottom", [3, 0, 3]], [2.5, "the image", [3, 0, 1]], [1.5, "south polar cap", [1, 0, 1]]]}
+{"sent_id": 52, "key_list": [[8.0, "the solar system", [8, 0, 4]], [6.5, "the only satellites", [1, 0, 6]], [5.0, "neptune", [8, 0, 1]], [4.0, "titan", [4, 0, 2]], [1.5, "substantial atmospheres", [1, 0, 1]], [1.0, "triton", [2, 0, 0]]]}
+{"sent_id": 53, "key_list": [[4.5, "a highly eccentric orbit", [1, 0, 4]], [4.0, "the sun", [6, 0, 1]], [3.5, "the gravitational effect", [1, 0, 3]], [2.5, "an occasional oort cloud comet", [1, 0, 2]], [1.5, "a distant passing star", [1, 0, 1]]]}
+{"sent_id": 54, "key_list": [[3.5, "at least 10 sharp-edged, distinct rings", [1, 0, 3]], [3.5, "more recent ground- and space-based observations", [1, 0, 3]], [1.5, "its equatorial region", [1, 0, 1]], [1.5, "uranus", [3, 0, 0]]]}
+{"sent_id": 55, "key_list": [[5.0, "earth", [7, 1, 0]], [5.0, "a small near-earth asteroid", [1, 1, 3]], [1.5, "june", [1, 0, 1]], [1.5, "the japanese probe", [1, 0, 1]], [1.5, "november", [1, 0, 1]], [0.5, "hayabusa", [1, 0, 0]]]}
+{"sent_id": 56, "key_list": [[3.5, "about 93 percent hydrogen", [1, 0, 3]], [2.5, "ammonia", [1, 0, 2]], [2.5, "the clouds", [1, 0, 2]], [2.5, "3 percent helium", [1, 0, 2]], [1.5, "ammonia hydrosulfide", [1, 0, 1]], [1.5, "condensed gases", [1, 0, 1]], [1.5, "the atmosphere", [1, 0, 1]], [1.0, "water", [2, 0, 0]], [0.5, "temperature", [1, 0, 0]], [0.5, "volume", [1, 0, 0]]]}
+{"sent_id": 57, "key_list": [[5.5, "the bottom", [3, 0, 4]], [3.5, "a jar", [1, 0, 3]], [3.0, "the smaller sand grains", [1, 1, 1]], [2.5, "various-sized pebbles", [1, 0, 2]], [2.0, "sand", [1, 1, 0]], [1.5, "nut effect", [1, 0, 1]], [1.5, "the brazil", [1, 0, 1]], [1.5, "the top", [1, 0, 1]], [1.5, "the larger pebbles", [1, 0, 1]]]}
+{"sent_id": 58, "key_list": [[5.5, "storms", [1, 0, 5]], [4.0, "neptune", [8, 0, 0]], [3.5, "jupiter\u2019s great red spot", [3, 0, 2]], [1.5, "large dark spots", [1, 0, 1]]]}
+{"sent_id": 59, "key_list": [[4.5, "four largest moons", [1, 0, 4]], [3.5, "jupiter", [7, 0, 0]], [1.5, "the galilean moons", [1, 0, 1]], [1.5, "these moons", [1, 0, 1]], [1.0, "galileo", [2, 0, 0]]]}
+{"sent_id": 60, "key_list": [[5.0, "earth", [7, 1, 0]], [2.0, "most comets", [2, 0, 1]], [1.5, "the hubble space telescope", [1, 0, 1]]]}
+{"sent_id": 61, "key_list": [[5.0, "earth", [7, 1, 0]], [2.5, "their rate", [1, 0, 2]], [1.5, "space dust", [1, 0, 1]], [0.5, "fall", [1, 0, 0]]]}
+{"sent_id": 62, "key_list": [[3.5, "this plume", [1, 0, 3]], [2.5, "io\u2019s surface", [1, 0, 2]], [2.0, "60 miles", [2, 0, 1]], [1.5, "volcanic gases", [1, 0, 1]], [1.0, "debris", [2, 0, 0]]]}
+{"sent_id": 63, "key_list": [[2.5, "comparatively short life", [1, 0, 2]], [2.5, "neptune\u2019s storms", [1, 0, 2]]]}
+{"sent_id": 64, "key_list": [[3.5, "about a billion objects", [1, 0, 3]], [2.5, "this disc-shaped structure", [1, 0, 2]], [1.5, "size", [3, 0, 0]], [1.5, "0.62 mile", [1, 0, 1]]]}
+{"sent_id": 65, "key_list": [[4.5, "orbits", [1, 0, 4]], [4.5, "only a tiny fraction", [1, 0, 4]], [3.0, "the inner solar system", [4, 0, 1]], [2.5, "oort cloud comets", [1, 0, 2]]]}
+{"sent_id": 66, "key_list": [[3.5, "jupiter\u2019s great red spot", [3, 0, 2]], [3.0, "saturn\u2019s atmosphere", [2, 0, 2]], [2.5, "the bands", [1, 0, 2]], [1.5, "intense lightning", [1, 0, 1]], [1.5, "\u201cstorms", [1, 0, 1]], [1.5, "the equator", [1, 0, 1]], [0.5, "clouds", [1, 0, 0]]]}
+{"sent_id": 67, "key_list": [[2.5, "nasa\u2019s stardust spacecraft", [1, 0, 2]], [2.5, "comet wild", [3, 0, 1]], [1.5, "this image", [1, 0, 1]]]}
+{"sent_id": 68, "key_list": [[5.0, "earth", [7, 1, 0]], [5.0, "neptune", [8, 0, 1]], [4.5, "the windy planet", [1, 0, 4]], [2.5, "great distance", [1, 0, 2]]]}
+{"sent_id": 69, "key_list": []}
+{"sent_id": 70, "key_list": []}
+{"sent_id": 71, "key_list": []}
+{"sent_id": 72, "key_list": []}
+{"sent_id": 73, "key_list": []}
+{"sent_id": 74, "key_list": [[6.5, "differences", [1, 0, 6]], [4.5, "the composition", [1, 0, 4]], [2.5, "pluto\u2019s surface", [1, 0, 2]], [1.5, "this enhanced color image", [1, 0, 1]], [0.5, "texture", [1, 0, 0]]]}
+{"sent_id": 75, "key_list": [[4.5, "jupiter", [7, 0, 1]], [3.0, "saturn", [6, 0, 0]]]}
+{"sent_id": 76, "key_list": [[2.5, "comet wild", [3, 0, 1]]]}
+{"sent_id": 77, "key_list": []}
+{"sent_id": 78, "key_list": [[2.5, "belt", [1, 0, 2]], [1.5, "oort cloud", [1, 0, 1]]]}
+{"sent_id": 79, "key_list": [[0.5, "holmes", [1, 0, 0]]]}
+{"sent_id": 80, "key_list": [[5.0, "neptune", [8, 0, 1]]]}
+{"sent_id": 81, "key_list": [[2.0, "titan", [4, 0, 0]], [1.5, "the cassinihuygens probe", [1, 0, 1]]]}
+{"sent_id": 82, "key_list": [[4.5, "jupiter", [7, 0, 1]], [3.0, "saturn", [6, 0, 0]], [0.5, "atmosphere", [1, 0, 0]]]}
+{"sent_id": 83, "key_list": [[2.5, "jupiter\u2019s satellite io", [1, 0, 2]]]}
+{"sent_id": 84, "key_list": [[3.0, "halley\u2019s comet", [2, 0, 2]], [2.0, "the kuiper belt", [2, 0, 1]]]}
+{"sent_id": 85, "key_list": [[5.0, "the nature", [2, 0, 4]], [3.5, "jupiter\u2019s great red spot", [3, 0, 2]]]}
+{"sent_id": 86, "key_list": [[4.0, "neptune", [8, 0, 0]], [2.0, "the other jovian planets", [2, 0, 1]], [1.5, "a dynamic atmosphere", [1, 0, 1]]]}
+{"sent_id": 87, "key_list": [[2.5, "more than 100 kilometers", [1, 0, 2]], [2.0, "60 miles", [2, 0, 1]], [2.0, "the surface", [2, 0, 1]]]}
+{"sent_id": 88, "key_list": [[6.5, "(3) the rocky and/or metallic remains", [1, 0, 6]], [5.5, "comets", [3, 0, 4]], [1.5, "a violent asteroid impact", [1, 0, 1]]]}
+{"sent_id": 89, "key_list": [[1.5, "this planet", [1, 0, 1]], [0.5, "astronomers", [1, 0, 0]]]}
+{"sent_id": 90, "key_list": [[4.0, "the orbits", [2, 0, 3]], [1.5, "a few known nearearth asteroids", [1, 0, 1]], [0.5, "red", [1, 0, 0]]]}
+{"sent_id": 91, "key_list": [[7.0, "the solar system", [8, 0, 3]], [1.5, "active volcanism", [1, 0, 1]], [1.5, "three bodies", [1, 0, 1]]]}
+{"sent_id": 92, "key_list": [[2.5, "broad sheets", [1, 0, 2]], [1.5, "these distinct structures", [1, 0, 1]], [1.0, "dust", [2, 0, 0]]]}
+{"sent_id": 93, "key_list": [[3.5, "saturn\u2019s satellite titan", [1, 0, 3]], [2.5, "neptune\u2019s satellite triton", [1, 0, 2]]]}
+{"sent_id": 94, "key_list": [[7.5, "another unique satellite", [1, 0, 7]], [1.5, "active eruptions", [1, 0, 1]], [0.5, "enceladus", [1, 0, 0]]]}
+{"sent_id": 95, "key_list": [[1.5, "the galileo mission", [1, 0, 1]], [1.5, "the ring system", [1, 0, 1]]]}
+{"sent_id": 96, "key_list": [[7.5, "number", [1, 0, 7]], [4.5, "orbital periods", [1, 0, 4]], [4.0, "less than 200 years", [1, 1, 2]], [3.0, "the inner solar system", [4, 0, 1]], [2.5, "the famous halley\u2019s comet", [1, 0, 2]], [2.5, "short-period comets", [1, 0, 2]], [1.5, "regular encounters", [1, 0, 1]]]}
+{"sent_id": 97, "key_list": [[1.5, "their surfaces", [1, 0, 1]], [1.0, "impacts", [2, 0, 0]], [0.5, "hyperion", [1, 0, 0]]]}
+{"sent_id": 98, "key_list": [[4.0, "triton", [2, 0, 3]], [2.5, "neptune\u2019s largest moon", [1, 0, 2]]]}
+{"sent_id": 99, "key_list": [[9.0, "the solar system", [8, 0, 5]], [7.5, "formation", [1, 0, 7]], [4.5, "(2) material", [1, 0, 4]], [2.0, "the asteroid belt", [2, 0, 1]]]}
+{"sent_id": 100, "key_list": [[4.5, "large, smooth areas", [1, 0, 4]], [2.5, "otherwise crater-riddled surfaces", [1, 0, 2]]]}
+{"sent_id": 101, "key_list": [[3.5, "lakes", [1, 0, 3]], [1.5, "liquid methane", [1, 0, 1]], [1.5, "the northern latitudes", [1, 0, 1]], [0.5, "addition", [1, 0, 0]]]}
+{"sent_id": 102, "key_list": [[6.5, "a wide range", [1, 0, 6]], [4.5, "organic compounds", [1, 0, 4]], [3.5, "substantial amounts", [1, 0, 3]], [3.0, "silicate crystals", [1, 1, 1]], [1.5, "the coma", [1, 0, 1]]]}
+{"sent_id": 103, "key_list": [[1.5, "a ring system", [1, 0, 1]], [1.5, "uranus", [3, 0, 0]]]}
+{"sent_id": 104, "key_list": [[3.5, "the bright spot", [1, 0, 3]], [3.5, "the nucleus", [1, 0, 3]], [1.5, "the center", [1, 0, 1]], [1.5, "the comet", [1, 0, 1]]]}
+{"sent_id": 105, "key_list": [[4.0, "the nature", [2, 0, 3]], [1.5, "planetary ring systems", [1, 0, 1]], [1.5, "what two roles", [1, 0, 1]], [1.0, "moons", [2, 0, 0]]]}
+{"sent_id": 106, "key_list": [[3.0, "the kuiper belt", [2, 0, 2]], [2.0, "the oort cloud", [2, 0, 1]], [2.0, "most comets", [2, 0, 1]], [1.5, "two regions", [1, 0, 1]]]}
+{"sent_id": 107, "key_list": [[2.5, "more than 250 others", [1, 0, 2]], [1.5, "impact origin", [1, 0, 1]]]}
+{"sent_id": 108, "key_list": [[1.5, "system", [1, 0, 1]]]}
+{"sent_id": 109, "key_list": [[4.0, "the orbits", [2, 0, 3]], [3.5, "jupiter", [7, 0, 0]], [1.5, "mars", [1, 0, 1]], [1.5, "most asteroids", [1, 0, 1]], [0.5, "asteroid", [1, 0, 0]]]}

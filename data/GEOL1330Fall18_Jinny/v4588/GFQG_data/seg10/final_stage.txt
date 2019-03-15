@@ -1,7 +1,7 @@
-Question: Layers of chromite, interbedded with other heavy minerals, are mined from ______________ in the Stillwater Complex of Montana.
-a) the igneous processes
-b) other heavy minerals
-c) such deposits
-d) some metal deposits
-Answer: such deposits
+Question: Record wind speeds exceeding 2400 kilometers (1500 miles) per hour encircle the planet, making ______________ one of the windiest places in the solar system.
+a) dione
+b) june
+c) neptune
+d) saturn
+Answer: Neptune
 

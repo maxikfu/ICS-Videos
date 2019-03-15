@@ -1,7 +1,7 @@
 Question: Although this chapter deals primarily with the nature of minerals, keep in mind that most rocks are simply ______________ of minerals.
-a) minerals
-b) aggregates
-c) most rocks
+a) aggregates
+b) most rocks
+c) minerals
 d) noncrystalline glassy substances
 Answer: aggregates
 

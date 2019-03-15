@@ -1,7 +1,7 @@
-Question: Similar groups of minerals are found in ______________ embodied by that rocks of all ages and in all parts of the world.
-a) the tectonic environments
-b) nature combinations
-c) these block diagrams
-d) the temperature and pressure ranges
-Answer: the temperature and pressure ranges
+Question: Minerals are ______________ (or sometimes single elements), each with its own composition and physical properties.
+a) erosional agents
+b) chemical compounds
+c) physical properties
+d) mineral resources
+Answer: chemical compounds
 

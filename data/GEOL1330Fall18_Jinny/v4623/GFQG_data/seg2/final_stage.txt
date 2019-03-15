@@ -1,7 +1,7 @@
-Question: The term foliation refers to any planar (nearly flat) arrangement of ______________ or crystals within a rock.
-a) mineral grains
-b) rock units
-c) metamorphic environments
-d) platy minerals
-Answer: mineral grains
+Question: As with slate, ______________ of most schists is shale that has undergone mediumto high-grade metamorphism during a major mountainbuilding episode.
+a) wavy surface
+b) phyllite exhibits rock cleavage
+c) the parent rock
+d) a major mountainbuilding episode
+Answer: the parent rock
 

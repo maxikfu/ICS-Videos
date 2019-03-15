@@ -1,21 +1,21 @@
-{"sent_id": 1, "key_list": [[4.0, "the vast basin and range region", [1, 0, 3]], [4.0, "the greatest concentration", [1, 0, 3]], [3.0, "pluvial lakes", [2, 0, 1]], [3.0, "the sediments", [1, 0, 2]], [2.0, "nevada", [1, 0, 1]], [2.0, "north america", [1, 0, 1]], [1.0, "utah", [1, 0, 0]]]}
-{"sent_id": 2, "key_list": [[2.5, "response", [1, 1, 0]], [2.0, "the lake levels", [1, 0, 1]], [2.0, "the climate", [1, 0, 1]], [2.0, "the ice sheets", [1, 0, 1]]]}
-{"sent_id": 3, "key_list": [[9.5, "importhe towering mass", [1, 1, 7]], [6.5, "an obvious response", [1, 1, 4]], [6.0, "layers", [1, 0, 5]], [5.0, "the formation", [2, 0, 3]], [4.0, "the regions", [1, 0, 3]], [4.0, "sediment tant climatic changes", [1, 0, 3]], [4.0, "the existence", [1, 0, 3]], [3.0, "the underlying layers", [1, 0, 2]], [3.0, "significant changes", [1, 0, 2]], [2.5, "basalt", [1, 1, 0]], [2.0, "their marchanneled scablands", [1, 0, 1]], [2.0, "deep canyons", [1, 0, 1]], [2.0, "each megaflood", [1, 0, 1]], [2.0, "water", [2, 0, 0]], [2.0, "the glaciers", [1, 0, 1]], [2.0, "climate", [2, 0, 0]], [2.0, "ice sheets", [1, 0, 1]], [1.0, "coulees", [1, 0, 0]], [1.0, "soil", [1, 0, 0]], [1.0, "growth", [1, 0, 0]]]}
-{"sent_id": 4, "key_list": [[5.0, "nearly the same size", [1, 0, 4]], [5.0, "a remnant", [1, 0, 4]], [4.0, "lake bonneville", [3, 0, 1]], [3.0, "present-day lake michigan", [1, 0, 2]], [3.0, "lake square kilometers", [1, 0, 2]], [3.0, "an area", [1, 0, 2]], [3.0, "300 meters", [1, 0, 2]], [3.0, "the great salt lake", [2, 0, 1]], [2.0, "20,000 square miles", [1, 0, 1]], [2.0, "1000 feet", [1, 0, 1]], [2.0, "maximum depths", [1, 0, 1]]]}
-{"sent_id": 5, "key_list": [[6.0, "several modern river valleys", [1, 0, 5]], [4.0, "areas", [1, 0, 3]], [3.0, "the red river", [1, 0, 2]], [2.0, "the lake", [1, 0, 1]], [2.0, "water", [2, 0, 0]], [2.0, "the same time", [1, 0, 1]], [2.0, "evaporation rates", [1, 0, 1]], [2.0, "the minnesota river", [1, 0, 1]], [2.0, "all the continents", [1, 0, 1]], [1.0, "temperatures", [1, 0, 0]]]}
-{"sent_id": 6, "key_list": [[4.0, "the flow", [1, 0, 3]], [2.0, "the ice age", [1, 0, 1]], [2.0, "the central united states", [1, 0, 1]], [2.0, "three major changes", [1, 0, 1]], [2.0, "the two parts", [1, 0, 1]], [1.0, "rivers", [1, 0, 0]]]}
-{"sent_id": 7, "key_list": [[4.0, "wetter", [1, 0, 3]], [3.0, "many pluvial lakes", [1, 0, 2]], [3.0, "lake winnipeg", [1, 0, 2]], [2.0, "pluvia = rain", [1, 0, 1]], [2.0, "climate", [2, 0, 0]], [2.0, "lake manitoba", [1, 0, 1]], [2.0, "lake agassiz", [1, 0, 1]], [2.0, "this cooler", [1, 0, 1]]]}
-{"sent_id": 8, "key_list": []}
-{"sent_id": 9, "key_list": []}
+{"sent_id": 1, "key_list": [[2.0, "response", [1, 1, 0]], [1.5, "the lake levels", [1, 0, 1]], [1.5, "the climate", [1, 0, 1]], [1.5, "the ice sheets", [1, 0, 1]]]}
+{"sent_id": 2, "key_list": [[9.0, "importhe towering mass", [1, 1, 7]], [6.0, "an obvious response", [1, 1, 4]], [5.5, "layers", [1, 0, 5]], [4.0, "the formation", [2, 0, 3]], [3.5, "the regions", [1, 0, 3]], [3.5, "sediment tant climatic changes", [1, 0, 3]], [3.5, "the existence", [1, 0, 3]], [2.5, "the underlying layers", [1, 0, 2]], [2.5, "significant changes", [1, 0, 2]], [2.0, "basalt", [1, 1, 0]], [1.5, "their marchanneled scablands", [1, 0, 1]], [1.5, "deep canyons", [1, 0, 1]], [1.5, "each megaflood", [1, 0, 1]], [1.5, "the glaciers", [1, 0, 1]], [1.5, "ice sheets", [1, 0, 1]], [1.0, "water", [2, 0, 0]], [1.0, "climate", [2, 0, 0]], [0.5, "coulees", [1, 0, 0]], [0.5, "soil", [1, 0, 0]], [0.5, "growth", [1, 0, 0]]]}
+{"sent_id": 3, "key_list": [[3.5, "the vast basin and range region", [1, 0, 3]], [3.5, "the greatest concentration", [1, 0, 3]], [2.5, "the sediments", [1, 0, 2]], [2.0, "pluvial lakes", [2, 0, 1]], [1.5, "nevada", [1, 0, 1]], [1.5, "north america", [1, 0, 1]], [0.5, "utah", [1, 0, 0]]]}
+{"sent_id": 4, "key_list": [[5.5, "several modern river valleys", [1, 0, 5]], [3.5, "areas", [1, 0, 3]], [2.5, "the red river", [1, 0, 2]], [1.5, "the lake", [1, 0, 1]], [1.5, "the same time", [1, 0, 1]], [1.5, "evaporation rates", [1, 0, 1]], [1.5, "the minnesota river", [1, 0, 1]], [1.5, "all the continents", [1, 0, 1]], [1.0, "water", [2, 0, 0]], [0.5, "temperatures", [1, 0, 0]]]}
+{"sent_id": 5, "key_list": [[4.5, "nearly the same size", [1, 0, 4]], [4.5, "a remnant", [1, 0, 4]], [2.5, "present-day lake michigan", [1, 0, 2]], [2.5, "lake bonneville", [3, 0, 1]], [2.5, "lake square kilometers", [1, 0, 2]], [2.5, "an area", [1, 0, 2]], [2.5, "300 meters", [1, 0, 2]], [2.0, "the great salt lake", [2, 0, 1]], [1.5, "20,000 square miles", [1, 0, 1]], [1.5, "1000 feet", [1, 0, 1]], [1.5, "maximum depths", [1, 0, 1]]]}
+{"sent_id": 6, "key_list": [[3.5, "the flow", [1, 0, 3]], [1.5, "the ice age", [1, 0, 1]], [1.5, "the central united states", [1, 0, 1]], [1.5, "three major changes", [1, 0, 1]], [1.5, "the two parts", [1, 0, 1]], [0.5, "rivers", [1, 0, 0]]]}
+{"sent_id": 7, "key_list": [[5.0, "the formation", [2, 0, 4]], [4.5, "five effects", [1, 0, 4]], [2.5, "major erosional and depositional features", [1, 0, 2]], [2.5, "ice age glaciers", [1, 0, 2]], [1.5, "list", [1, 0, 1]]]}
+{"sent_id": 8, "key_list": [[3.5, "wetter", [1, 0, 3]], [2.5, "many pluvial lakes", [1, 0, 2]], [2.5, "lake winnipeg", [1, 0, 2]], [1.5, "pluvia = rain", [1, 0, 1]], [1.5, "lake manitoba", [1, 0, 1]], [1.5, "lake agassiz", [1, 0, 1]], [1.5, "this cooler", [1, 0, 1]], [1.0, "climate", [2, 0, 0]]]}
+{"sent_id": 9, "key_list": [[3.5, "a few small remnants", [1, 0, 3]], [2.5, "lake bonneville", [3, 0, 1]], [2.0, "the great salt lake", [2, 0, 1]], [2.0, "the lakes", [2, 0, 1]]]}
 {"sent_id": 10, "key_list": []}
 {"sent_id": 11, "key_list": []}
-{"sent_id": 12, "key_list": [[3.0, "pluvial lakes", [2, 0, 1]], [3.0, "contrast proglacial lakes", [1, 0, 2]]]}
-{"sent_id": 13, "key_list": [[6.0, "the formation", [2, 0, 4]], [5.0, "five effects", [1, 0, 4]], [3.0, "major erosional and depositional features", [1, 0, 2]], [3.0, "ice age glaciers", [1, 0, 2]], [2.0, "list", [1, 0, 1]]]}
-{"sent_id": 14, "key_list": [[4.0, "lake bonneville", [3, 0, 1]], [4.0, "a few small remnants", [1, 0, 3]], [3.0, "the great salt lake", [2, 0, 1]], [3.0, "the lakes", [2, 0, 1]]]}
-{"sent_id": 15, "key_list": [[3.0, "how much sea level", [1, 0, 2]], [2.0, "the last glacial maximum", [1, 0, 1]]]}
-{"sent_id": 16, "key_list": [[4.0, "present-day remnants precipitation totals", [1, 0, 3]]]}
-{"sent_id": 17, "key_list": [[4.0, "arid", [1, 0, 3]], [2.0, "former shorelines", [1, 0, 1]]]}
-{"sent_id": 18, "key_list": [[3.0, "an example", [1, 0, 2]]]}
-{"sent_id": 19, "key_list": [[2.0, "gins", [1, 0, 1]]]}
-{"sent_id": 20, "key_list": [[4.0, "lake", [1, 0, 3]], [2.0, "the woods", [1, 0, 1]], [2.0, "lake winnipegosis", [1, 0, 1]]]}
-{"sent_id": 21, "key_list": [[5.0, "the lakes", [2, 0, 3]], [4.0, "lake bonneville", [3, 0, 1]], [2.0, "this region", [1, 0, 1]]]}
+{"sent_id": 12, "key_list": []}
+{"sent_id": 13, "key_list": []}
+{"sent_id": 14, "key_list": [[3.5, "lake", [1, 0, 3]], [1.5, "the woods", [1, 0, 1]], [1.5, "lake winnipegosis", [1, 0, 1]]]}
+{"sent_id": 15, "key_list": [[2.5, "how much sea level", [1, 0, 2]], [1.5, "the last glacial maximum", [1, 0, 1]]]}
+{"sent_id": 16, "key_list": [[2.5, "contrast proglacial lakes", [1, 0, 2]], [2.0, "pluvial lakes", [2, 0, 1]]]}
+{"sent_id": 17, "key_list": [[3.5, "present-day remnants precipitation totals", [1, 0, 3]]]}
+{"sent_id": 18, "key_list": [[3.5, "arid", [1, 0, 3]], [1.5, "former shorelines", [1, 0, 1]]]}
+{"sent_id": 19, "key_list": [[4.0, "the lakes", [2, 0, 3]], [2.5, "lake bonneville", [3, 0, 1]], [1.5, "this region", [1, 0, 1]]]}
+{"sent_id": 20, "key_list": [[2.5, "an example", [1, 0, 2]]]}
+{"sent_id": 21, "key_list": [[1.5, "gins", [1, 0, 1]]]}

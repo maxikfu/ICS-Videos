@@ -1,13 +1,13 @@
-{"id": 1, "score": 2.99, "text": "Striations are found on some cleavage planes of plagioclase feldspar but are not present on potassium feldspar .", "features": [0.62, 0.0, 0, 1, 0.75, 0.0]}
-{"id": 2, "score": 2.76, "text": "One group of feldspar minerals contains potassium ions in its structure and is therefore referred to as potassium feldspar.", "features": [0.38, 0.0, 0, 1, 1.0, 0.0]}
-{"id": 3, "score": 2.09, "text": "Potassium feldspar is usually light cream, salmon pink, or occasionally blue-green in color.", "features": [0.27, 0.0, 0, 1, 0.55, 0.0]}
-{"id": 4, "score": 2.09, "text": "As a component in igneous rocks, feldspar crystals can be identified by their rectangular shape and rather smooth, shiny faces .", "features": [0.27, 0.0, 0, 1, 0.55, 0.0]}
-{"id": 5, "score": 1.92, "text": "The other group, called plagioclase feldspar, contains both sodium and calcium ions that freely substitute for one another, depending on the environment during crystallization.", "features": [0.15, 0.0, 0, 1, 0.62, 0.0]}
-{"id": 6, "score": 1.88, "text": "The plagioclase feldspars, on the other hand, range in color from white to medium gray.", "features": [0.25, 0.0, 0, 1, 0.38, 0.0]}
-{"id": 7, "score": 1.81, "text": "The only way to distinguish the feldspars physically is to look for a multitude of fine parallel lines, called striations.", "features": [0.18, 0.0, 0, 1, 0.45, 0.0]}
-{"id": 8, "score": 1.61, "text": "They have two planes of cleavage meeting at or near 90-degree angles, are relatively hard (6 on the Mohs scale), and have a luster that ranges from glassy to pearly.", "features": [0.07, 0.0, 0, 1, 0.4, 0.07]}
-{"id": 9, "score": -0.67, "text": "However, color should not be used to distinguish these groups.", "features": [0.0, 0.0, 0, 0, 0.67, 0.0]}
-{"id": 10, "score": -1.6, "text": "temperatures and pressures, which partially accounts for their abundance .", "features": [0.0, 0.0, 0, 1, 0.6, 0.0]}
-{"id": 11, "score": -2.0, "text": "Two different feldspar structures exist.", "features": [0.25, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 12, "score": -2.15, "text": "Despite these differences, all feldspar minerals have similar physical properties.", "features": [0.29, 0.0, 0, 1, 0.57, 0.0]}
-{"id": 13, "score": -2.99, "text": "(Orthoclase and microcline are common members of the potassium feldspar group.)", "features": [0.57, 0.0, 0, 1, 0.71, 0.14]}
+{"id": 1, "score": 1.0, "text": "One group of feldspar minerals contains potassium ions in its structure and is therefore referred to as potassium feldspar.", "features": [0.38, 0.0, 0, 1, 1.0, 0.0]}
+{"id": 2, "score": 1.0, "text": "Striations are found on some cleavage planes of plagioclase feldspar but are not present on potassium feldspar .", "features": [0.62, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 3, "score": 0.85, "text": "Potassium feldspar is usually light cream, salmon pink, or occasionally blue-green in color.", "features": [0.27, 0.0, 0, 1, 0.55, 0.0]}
+{"id": 4, "score": 0.85, "text": "As a component in igneous rocks, feldspar crystals can be identified by their rectangular shape and rather smooth, shiny faces .", "features": [0.27, 0.0, 0, 1, 0.55, 0.0]}
+{"id": 5, "score": 0.83, "text": "The other group, called plagioclase feldspar, contains both sodium and calcium ions that freely substitute for one another, depending on the environment during crystallization.", "features": [0.15, 0.0, 0, 1, 0.62, 0.0]}
+{"id": 6, "score": 0.8, "text": "The only way to distinguish the feldspars physically is to look for a multitude of fine parallel lines, called striations.", "features": [0.18, 0.0, 0, 1, 0.45, 0.0]}
+{"id": 7, "score": 0.8, "text": "The plagioclase feldspars, on the other hand, range in color from white to medium gray.", "features": [0.25, 0.0, 0, 1, 0.38, 0.0]}
+{"id": 8, "score": 0.76, "text": "They have two planes of cleavage meeting at or near 90-degree angles, are relatively hard (6 on the Mohs scale), and have a luster that ranges from glassy to pearly.", "features": [0.07, 0.0, 0, 1, 0.4, 0.07]}
+{"id": 9, "score": 0.31, "text": "However, color should not be used to distinguish these groups.", "features": [0.0, 0.0, 0, 0, 0.67, 0.0]}
+{"id": 10, "score": 0.19, "text": "temperatures and pressures, which partially accounts for their abundance .", "features": [0.0, 0.0, 0, 1, 0.6, 0.0]}
+{"id": 11, "score": 0.15, "text": "Two different feldspar structures exist.", "features": [0.25, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 12, "score": 0.12, "text": "Despite these differences, all feldspar minerals have similar physical properties.", "features": [0.29, 0.0, 0, 1, 0.57, 0.0]}
+{"id": 13, "score": 0.0, "text": "(Orthoclase and microcline are common members of the potassium feldspar group.)", "features": [0.57, 0.0, 0, 1, 0.71, 0.14]}

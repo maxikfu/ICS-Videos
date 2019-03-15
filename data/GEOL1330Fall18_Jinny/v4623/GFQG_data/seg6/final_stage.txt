@@ -1,7 +1,7 @@
 Question: Most of the dense minerals, ______________ and pyroxene, sank, while less-dense silicate minerals floated to form the Moon’s crust.
-a) erosion
-b) pyroxene
-c) olivine
+a) olivine
+b) erosion
+c) pyroxene
 d) evidence
 Answer: olivine
 

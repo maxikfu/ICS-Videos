@@ -8,12 +8,12 @@ nlp = spacy.load('en_core_web_sm')
 nlp_light = spacy.load('en', disable=['ner'])
 
 
-def video_lecture_preproc(video_id):
+def video_lecture_preproc(video_id, path_to_video_folder):
     video_number = video_id
-    dict_ocr = ocr2dic.ocr2dict('../data/GEOL1330Fall18_Jinny/v' + str(video_number) + '/img_txt/Modi_all_'
-                                + str(video_number) + '.csv', '../data/GEOL1330Fall18_Jinny/v'
+    dict_ocr = ocr2dic.ocr2dict(path_to_video_folder + '/v' + str(video_number) + '/img_txt/Modi_all_'
+                                + str(video_number) + '.csv', path_to_video_folder + '/v'
                                 + str(video_number) + '/v' + str(video_number) + '_segments.csv')
-    folder = '../data/GEOL1330Fall18_Jinny/v' + str(video_number) + '/'
+    folder = path_to_video_folder + '/v' + str(video_number) + '/'
     f_name = 'v' + str(video_id) + '.json'
     list_dic = []
     for seg in dict_ocr:
@@ -36,4 +36,5 @@ def video_lecture_preproc(video_id):
 
 
 if __name__ == '__main__':
-    video_lecture_preproc(4623)
+    path_to_video_f = '../data/GEOL1330Fall18_Jinny'
+    video_lecture_preproc(4623, path_to_video_f)

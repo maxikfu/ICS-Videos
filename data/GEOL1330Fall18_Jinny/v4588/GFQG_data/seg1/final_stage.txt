@@ -1,7 +1,7 @@
 Question: For many visitors, desert scenery exhibits a striking beauty; to others, ______________ seems bleak.
-a) the terrain
+a) the appearance
 b) the nature
-c) the appearance
-d) the concept
+c) the concept
+d) the terrain
 Answer: the terrain
 

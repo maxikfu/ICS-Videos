@@ -13,7 +13,6 @@
 {"Score": 1.2, "Distractor": "the boundary"}
 {"Score": 1.18, "Distractor": "dryness"}
 {"Score": 1.17, "Distractor": "a continuous carpet"}
-{"Score": 1.15, "Distractor": "the world\u2019s dry regions"}
 {"Score": 1.14, "Distractor": "the polar realm"}
 {"Score": 1.14, "Distractor": "intensity"}
 {"Score": 1.12, "Distractor": "a single rainfall figure"}
@@ -36,7 +35,6 @@
 {"Score": 0.94, "Distractor": "geology"}
 {"Score": 0.91, "Distractor": "black"}
 {"Score": 0.89, "Distractor": "a great deal"}
-{"Score": 0.89, "Distractor": "place"}
 {"Score": 0.84, "Distractor": "how much rain"}
 {"Score": 0.84, "Distractor": "steep, angular slopes"}
 {"Score": 0.82, "Distractor": "their profiles"}
@@ -52,9 +50,11 @@
 {"Score": 0.67, "Distractor": "many visitors"}
 {"Score": 0.62, "Distractor": "glaciers"}
 {"Score": 0.6, "Distractor": "10 inches"}
+{"Score": 0.55, "Distractor": "deserts"}
+{"Score": 0.54, "Distractor": "the more humid places"}
 {"Score": 0.53, "Distractor": "earth\u2019s dry lands"}
 {"Score": 0.51, "Distractor": "most people"}
-{"Score": 0.5, "Distractor": "deserts"}
+{"Score": 0.47, "Distractor": "many dry regions"}
 {"Score": 0.42, "Distractor": "animals"}
 {"Score": 0.39, "Distractor": "desert landscapes"}
 {"Score": 0.33, "Distractor": "plants"}

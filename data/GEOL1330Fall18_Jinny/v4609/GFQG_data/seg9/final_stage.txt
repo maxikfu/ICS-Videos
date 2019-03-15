@@ -1,7 +1,7 @@
 Question: Minerals tend to have one common crystal shape, but a few, such as ______________ shown in have two or more characteristic crystal shapes.
-a) individual crystals
-b) all three dimensions
+a) the pyrite samples
+b) individual crystals
 c) regular polygons
-d) the pyrite samples
+d) all three dimensions
 Answer: the pyrite samples
 

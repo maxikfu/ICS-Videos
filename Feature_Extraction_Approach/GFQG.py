@@ -113,7 +113,7 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
             details.append(features)
             good_sent.append(sent)
     # in this step we do selection based on the score. At this moment max score selected
-    min_max_normalize(sent_scores)
+    # min_max_normalize(sent_scores)
     selection = [(y, x, z) for y, x, z in sorted(zip(sent_scores, good_sent, details), reverse=True)]
     id = 0
     output = []

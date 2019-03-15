@@ -1,10 +1,10 @@
-{"video_seg": 1, "book_seg": 734}
-{"video_seg": 2, "book_seg": 141}
-{"video_seg": 3, "book_seg": 75}
-{"video_seg": 4, "book_seg": 943}
-{"video_seg": 5, "book_seg": 13}
-{"video_seg": 6, "book_seg": 81}
-{"video_seg": 7, "book_seg": 88}
-{"video_seg": 8, "book_seg": 93}
-{"video_seg": 9, "book_seg": 91}
-{"video_seg": 10, "book_seg": 942}
+{"video_seg": 1, "book_seg": 734, "score": 5}
+{"video_seg": 2, "book_seg": 141, "score": 6}
+{"video_seg": 3, "book_seg": 75, "score": 8}
+{"video_seg": 4, "book_seg": 952, "score": 7}
+{"video_seg": 5, "book_seg": 13, "score": 13}
+{"video_seg": 6, "book_seg": 81, "score": 15}
+{"video_seg": 7, "book_seg": 88, "score": 9}
+{"video_seg": 8, "book_seg": 93, "score": 11}
+{"video_seg": 9, "book_seg": 91, "score": 6}
+{"video_seg": 10, "book_seg": 975, "score": 1}

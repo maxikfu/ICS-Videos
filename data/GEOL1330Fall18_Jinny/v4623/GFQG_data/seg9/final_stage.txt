@@ -1,7 +1,9 @@
-Question: In particular, scientists know ______________ that form in the same general temperature regime depicted in Bowen’s reaction series are found together in the same igneous rocks.
-a) crystals
-b) minerals
-c) these elements
-d) that minerals
-Answer: that minerals
+Question: Compare this figure to ______________ of the rock groups in Note that each rock group consists of minerals that crystallize in the same temperature range. 
+
+
+a) the composition
+b) the mineral composition
+c) the remaining liquid portion
+d) the same region
+Answer: the mineral composition
 
