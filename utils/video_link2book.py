@@ -1,6 +1,6 @@
 import spacy
 import json
-import pprint
+import os
 from collections import defaultdict
 nlp = spacy.load('en_core_web_sm')
 # to speed up process I need only lemmas of the word count task, so i disable other parts of pipeline
@@ -8,7 +8,7 @@ nlp_light = spacy.load('en', disable=['tagger', 'ner'])
 
 
 def video_2book(video_id, path_to_book):
-    folder = '../data/GEOL1330Fall18_Jinny/v' + str(video_id) + '/'
+    folder = os.path.dirname(os.path.abspath(path_to_book)) + '/v' + str(video_id) + '/'
     # loading video  OCR
     try:
         with open(folder + 'v' + str(video_id) + '.json', 'r') as f:
@@ -39,24 +39,27 @@ def video_2book(video_id, path_to_book):
         # at this moment we will choose 3 max score, can adapt it later
         seg_scores.append([(x, y) for y, x in sorted(zip(seg_score_list, seg_id_list), reverse=True)][:4])
         # print(str(video_seg_id), seg_scores[-1])
-    d = defaultdict(list)
-    # trying to identify unique book segment for video segment with max score
-    for i in range(len(seg_scores)-1, -1, -1):
-        for j in seg_scores[i]:
-                d[j[0]].append((j[1], i+1))
-    dd = defaultdict(list)
-    for k,v in d.items():
-            d[k] = sorted(d[k], reverse=True)[0]
-    for k,v in d.items():
-        dd[v[1]].append((v[0], k))
     res = []
-    for k, v in dd.items():
-        j = {"video_seg": k, "book_seg": v[0][1]}
+    for i in range(len(seg_scores)):
+        for j in seg_scores[i]:
+            res.append((j[1], j[0], i))
+    res.sort(reverse=True)
+    d = {}
+    used = set()
+    for r in res:
+        if r[1] not in used and r[2] not in d:
+            d[r[2]] = (r[0], r[1])
+            used.add(r[1])
+    res = []
+    for k, v in d.items():
+        j = {"video_seg": k+1, "book_seg": v[1], "score": v[0]}
         res.append((k, json.dumps(j)))
-    with open(folder + 'v'+ str(video_id) + '_2book.json', 'w') as f:
+    with open(folder + 'v' + str(video_id) + '_2book.json', 'w') as f:
         for e in sorted(res):
             f.write(e[1] + '\n')
 
 
 if __name__ == '__main__':
-    video_2book(4623, '../data/GEOL1330Fall18_Jinny/tt_Earth_cleaned.json')
+    videos_id = [4588, 4608, 4609, 4618, 4623]
+    for v in videos_id:
+        video_2book(v, '../data/GEOL1330Fall18_Jinny/tt_Earth_cleaned.json')
