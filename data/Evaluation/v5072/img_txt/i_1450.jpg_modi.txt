@@ -1,0 +1,1 @@
+Sporulation,21,HelveticaCentury,r,616,80,752,102,28,0,0,0; 

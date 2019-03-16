@@ -1,0 +1,10 @@
+Summary,41,HelveticaCentury,i,637,25,859,71,211,0,0,0; 
+of,41,HelveticaCentury,i,872,23,922,71,212,1,0,0; 
+Aerobic,41,HelveticaCentury,i,929,23,1107,61,210,2,0,0; 
+Respiration,41,HelveticaCentury,i,1121,23,1381,71,211,3,0,0; 
+Substratelevel,21,HelveticaCentury,r,284,140,453,159,194,4,1,1; 
+Glycolysis,21,HelveticaCentury,r,529,153,645,175,40,6,2,3; 
+Oxidative,21,HelveticaCentury,r,766,141,877,161,49,7,3,4; 
+phosphorylatlo,21,HelveticaCentury,r,726,170,905,195,27,8,3,5; 
+Glucose,21,HelveticaCentury,r,542,197,627,215,204,9,4,6; 
+Pyruvate,21,HelveticaCentury,r,539,282,630,303,127,11,4,8; 

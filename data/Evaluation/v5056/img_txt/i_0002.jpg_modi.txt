@@ -1,0 +1,7 @@
+WTechSmith,18,Helvetica,b,202,199,337,225,40,7,6,7; 
+Relay,18,Helvetica,b,346,204,399,226,210,8,6,7; 
+Recorder,18,Helvetica,b,407,204,497,221,210,9,6,7; 
+SelfHosted,18,Helvetica,b,505,204,635,225,205,10,6,7; 
+GB,14,Helvetica,r,335,421,354,433,201,12,7,8; 
+free,14,Helvetica,r,360,420,386,433,200,13,7,8; 
+PM,14,Helvetica,r,1866,1034,1889,1047,210,17,10,11; 

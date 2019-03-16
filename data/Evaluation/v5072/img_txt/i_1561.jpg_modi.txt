@@ -1,0 +1,10 @@
+Vegetative,22,HelveticaCentury,r,264,29,399,52,195,0,0,0; 
+growth,22,HelveticaCentury,r,408,29,496,52,209,1,0,0; 
+completely,35,HelveticaCentury,r,1181,187,1398,228,201,5,3,4; 
+vegetative,35,HelveticaCentury,r,1180,246,1383,286,210,6,3,5; 
+cell,35,HelveticaCentury,r,1398,245,1460,278,209,7,3,5; 
+free,35,HelveticaCentury,r,629,659,706,691,205,9,5,7; 
+endospore,35,HelveticaCentury,r,631,716,838,757,189,10,5,8; 
+vegetative,35,HelveticaCentury,r,1338,533,1541,573,212,11,6,9; 
+cell,35,HelveticaCentury,r,1556,532,1619,564,212,12,6,9; 
+wendospore,35,HelveticaCentury,r,1338,587,1602,630,159,13,6,10; 

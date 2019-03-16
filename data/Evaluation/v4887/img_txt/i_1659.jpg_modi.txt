@@ -1,0 +1,9 @@
+CH13,54,HelveticaCentury,i,372,79,557,127,61,0,0,0; 
+Part,54,HelveticaCentury,i,594,80,717,127,212,1,1,1; 
+En,54,HelveticaCentury,i,825,80,893,126,213,4,2,2; 
+erg,54,HelveticaCentury,i,898,90,992,139,211,5,2,2; 
+tics,54,HelveticaCentury,i,1032,78,1128,127,211,7,2,2; 
+Ca,54,HelveticaCentury,i,1216,79,1285,127,204,9,2,2; 
+ta,54,HelveticaCentury,i,1291,83,1347,127,119,10,2,2; 
+urn,66,HelveticaCentury,i,1426,76,1543,126,108,13,2,2; 
+Fi,8,Times,b,930,880,952,887,29,20,6,7; 

@@ -1,0 +1,2 @@
+TurningPoint,24,HelveticaCentury,r,808,375,975,404,36,0,0,0; 
+Exception,24,HelveticaCentury,r,986,375,1110,404,210,1,0,0; 

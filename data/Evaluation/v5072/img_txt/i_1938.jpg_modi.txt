@@ -1,0 +1,7 @@
+iD,24,HelveticaCentury,b,398,287,424,309,98,1,0,1; 
+II,13,Helvetica,b,312,414,338,425,25,4,0,4; 
+nw,46,HelveticaCentury,b,44,447,239,483,32,6,0,5; 
+w0w,34,HelveticaCentury,b,44,641,240,682,25,10,0,7; 
+iD,24,HelveticaCentury,b,531,869,558,891,58,20,0,12; 
+iD,24,HelveticaCentury,b,398,929,424,952,123,21,0,13; 
+1K,115,HelveticaCentury,b,398,1024,569,1132,148,25,0,16; 

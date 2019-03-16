@@ -1,0 +1,15 @@
+Channel,35,HelveticaCentury,r,1310,252,1463,285,211,5,4,5; 
+demonstrating,22,Times,b,280,921,463,951,117,9,5,7; 
+Sir,24,HelveticaCentury,b,480,888,512,911,188,10,6,8; 
+harlcs,24,HelveticaCentury,b,530,887,625,911,29,11,6,8; 
+IkIls,24,HelveticaCentury,b,644,887,706,911,25,12,6,8; 
+skcrsh,24,HelveticaCentury,b,723,887,800,911,31,13,6,8; 
+of,23,Times,r,819,887,846,911,192,14,6,8; 
+opisthotonos,24,HelveticaCentury,b,482,920,655,951,58,16,6,9; 
+From,24,HelveticaCentury,b,676,922,751,948,196,17,6,9; 
+Bchring,24,HelveticaCentury,b,775,921,871,950,44,18,6,9; 
+tetanUs,15,Helvetica,b,1067,895,1165,913,39,19,7,10; 
+Iihcr,23,Times,r,1105,918,1165,944,33,21,7,11; 
+soldier,24,HelveticaCentury,b,892,887,975,911,186,30,12,19; 
+with,23,Times,r,993,888,1047,911,196,31,12,19; 
+kr,24,HelveticaCentury,b,1013,954,1045,978,44,35,12,21; 

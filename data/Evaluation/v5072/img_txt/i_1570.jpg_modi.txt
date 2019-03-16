@@ -1,0 +1,13 @@
+Germination,20,HelveticaCentury,r,410,236,545,255,208,1,0,0; 
+Spore,20,HelveticaCentury,r,408,323,475,347,205,2,0,1; 
+Axial,20,HelveticaCentury,r,1368,140,1417,159,198,3,1,2; 
+filament,20,HelveticaCentury,r,1426,140,1511,159,205,4,1,2; 
+Sporulatlon,20,HelveticaCentury,r,616,80,752,102,24,5,2,3; 
+Spore,32,HelveticaCentury,r,420,496,527,535,210,9,5,6; 
+coat,32,HelveticaCentury,r,541,501,616,527,210,10,5,6; 
+Mother,20,HelveticaCentury,r,1512,268,1590,287,209,11,6,7; 
+cell1,20,HelveticaCentury,r,1598,269,1635,287,211,12,6,7; 
+V0,7,Helvetica,r,1506,390,1519,396,79,14,7,9; 
+Cortex,19,Helvetica,r,839,873,911,892,199,19,12,14; 
+Engulfment,20,HelveticaCentury,r,1467,715,1591,739,204,20,13,15; 
+Exosporangium,20,HelveticaCentury,r,349,983,519,1007,80,21,14,16; 

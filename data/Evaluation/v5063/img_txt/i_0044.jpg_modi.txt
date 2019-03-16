@@ -1,0 +1,9 @@
+it,12,Helvetica,i,38,352,51,363,177,6,2,4; 
+tkCh,12,Helvetica,i,54,352,92,363,93,7,2,4; 
+POWerPOInt,15,Helvetica,r,127,350,215,363,80,10,4,6; 
+Iyrt,17,Times,bi,960,504,997,527,24,16,6,10; 
+Th,7,Helvetica,r,52,850,64,856,66,18,7,11; 
+Stuff,17,HelveticaCentury,r,55,909,99,923,223,21,7,13; 
+as,28,HelveticaCentury,r,13,1031,55,1050,206,25,9,16; 
+sri,37,HelveticaCentury,r,330,1040,469,1078,20,28,11,19; 
+N1,26,HelveticaCentury,b,747,1047,778,1078,225,31,11,19; 

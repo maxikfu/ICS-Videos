@@ -1,0 +1,12 @@
+Ghroococcus,27,HelveticaCentury,bi,718,726,917,749,38,3,2,3; 
+Qsc,27,HelveticaCentury,bi,1405,726,1456,749,53,5,4,5; 
+to,27,HelveticaCentury,bi,1513,726,1541,749,208,7,4,5; 
+na,27,HelveticaCentury,b,1544,732,1587,749,29,8,4,5; 
+Tolypotknix,27,HelveticaCentury,b,707,1013,883,1042,23,9,5,6; 
+H4,10,HelveticaCentury,r,1099,931,1116,944,23,13,6,9; 
+4p11J,5,Helvetica,r,1034,226,1115,279,22,15,8,11; 
+Ph,52,HelveticaCentury,bi,280,576,349,623,214,16,9,12; 
+to,52,HelveticaCentury,bi,392,583,447,624,213,18,9,12; 
+trophy,52,HelveticaCentury,bi,452,576,640,636,212,19,9,12; 
+Ft,8,Helvetica,b,1163,880,1181,887,37,23,13,16; 
+Goeotnichia,27,HelveticaCentury,bi,1393,1013,1587,1037,28,26,15,19; 

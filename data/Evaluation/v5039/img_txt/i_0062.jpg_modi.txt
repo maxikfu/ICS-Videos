@@ -1,0 +1,13 @@
+ATPase,25,HelveticaCentury,r,1390,13,1487,36,77,0,0,0; 
+CH,25,HelveticaCentury,r,1498,13,1546,41,110,1,0,0; 
+File,21,HelveticaCentury,r,255,58,291,78,194,4,1,1; 
+View,21,HelveticaCentury,r,322,58,374,78,174,5,1,1; 
+Play,21,HelveticaCentury,r,405,58,449,84,207,6,2,2; 
+Help,21,HelveticaCentury,r,481,59,531,84,206,8,2,2; 
+fl,4,Helvetica,r,568,557,582,560,37,13,3,5; 
+ATPase,18,Helvetica,r,823,444,890,461,62,25,4,10; 
+CH,18,Helvetica,r,897,444,929,463,94,26,4,10; 
+Swift,18,HelveticaCentury,r,986,444,1031,460,74,29,4,10; 
+Player,18,HelveticaCentury,r,1039,444,1094,464,208,30,4,10; 
+ATP,57,HelveticaCentury,r,1186,192,1306,243,198,35,6,14; 
+Synthase,57,HelveticaCentury,r,1326,190,1617,259,192,36,6,14; 

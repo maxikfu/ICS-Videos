@@ -1,0 +1,17 @@
+Polling,19,Helvetica,b,1318,8,1392,31,171,0,0,0; 
+Closed,18,Times,b,1400,9,1470,26,192,1,0,0; 
+Responses,19,Helvetica,b,1472,88,1594,109,201,2,1,1; 
+Unknown,22,HelveticaCentury,b,774,498,887,519,211,6,2,4; 
+Error,22,HelveticaCentury,b,898,499,956,519,210,7,2,4; 
+Channel,62,HelveticaCentury,r,1192,269,1492,334,212,8,3,5; 
+TurningPoint,27,HelveticaCentury,b,1021,424,1205,456,54,10,3,6; 
+Exception,27,HelveticaCentury,b,1216,425,1352,455,175,11,3,6; 
+Details,19,Helvetica,b,816,642,888,659,185,12,4,7; 
+Copy,18,Times,b,950,641,1000,664,143,13,5,8; 
+Details,22,HelveticaCentury,b,1007,641,1074,659,204,14,5,8; 
+Continue,22,HelveticaCentury,b,1267,643,1381,663,199,15,6,9; 
+ft,81,HelveticaCentury,r,787,1000,895,1077,115,16,7,10; 
+It,38,HelveticaCentury,r,1220,1016,1231,1063,28,22,12,15; 
+11H1J1,19,Helvetica,b,1236,1020,1290,1059,21,23,12,15; 
+Th36,27,HelveticaCentury,b,1527,1003,1595,1035,30,24,13,16; 
+PM,19,Helvetica,b,1600,1015,1637,1035,196,25,13,16; 

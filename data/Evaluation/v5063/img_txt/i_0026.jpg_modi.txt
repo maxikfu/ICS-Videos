@@ -1,0 +1,5 @@
+ml,4,Helvetica,r,654,15,661,22,39,0,0,0; 
+Lii,36,HelveticaCentury,r,402,206,436,239,22,4,3,4; 
+Relay,22,HelveticaCentury,b,293,320,350,348,189,5,4,5; 
+Recording,17,Helvetica,r,819,215,918,234,156,7,5,6; 
+hi,12,HelveticaCentury,r,900,504,911,514,98,11,9,10; 

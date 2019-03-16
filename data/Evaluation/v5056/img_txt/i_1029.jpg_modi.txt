@@ -1,0 +1,11 @@
+Oxygenic,33,HelveticaCentury,r,321,33,498,72,211,1,0,0; 
+pathway,33,HelveticaCentury,r,546,31,725,72,205,3,0,0; 
+PS,33,HelveticaCentury,r,753,34,794,64,111,4,0,0; 
+and,33,HelveticaCentury,r,832,31,899,64,212,6,0,0; 
+PS,33,HelveticaCentury,r,917,34,958,64,193,7,0,0; 
+II,33,HelveticaCentury,r,974,34,1004,71,25,8,0,0; 
+water,33,HelveticaCentury,r,1019,35,1128,64,212,9,0,0; 
+is,33,HelveticaCentury,r,1144,32,1168,64,204,10,0,0; 
+photolyzed,33,HelveticaCentury,r,1184,31,1392,72,173,11,0,0; 
+forming,33,HelveticaCentury,r,1408,31,1557,72,211,12,0,0; 
+Cyanobacteria,33,HelveticaCentury,r,384,97,639,135,148,15,0,1; 

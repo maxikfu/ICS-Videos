@@ -1,0 +1,15 @@
+310PM,20,HelveticaCentury,b,1548,1015,1638,1035,172,2,2,2; 
+1I,12,Helvetica,r,1309,1031,1345,1055,35,5,3,3; 
+Results,26,HelveticaCentury,b,782,20,880,44,211,7,4,4; 
+for,26,HelveticaCentury,b,891,20,930,44,210,8,4,4; 
+Question,26,HelveticaCentury,b,940,19,1078,47,76,9,4,4; 
+87A,55,HelveticaCentury,b,884,171,998,222,41,11,4,5; 
+Polling,20,HelveticaCentury,b,1176,67,1250,90,167,12,5,6; 
+Closed,20,HelveticaCentury,b,1258,68,1328,85,188,13,5,6; 
+Responses,20,HelveticaCentury,b,1329,147,1452,167,188,14,6,7; 
+Channel,62,HelveticaCentury,b,1050,329,1350,394,214,18,6,10; 
+Oo,51,HelveticaCentury,r,1040,487,1136,539,34,20,7,11; 
+O1o,51,HelveticaCentury,r,496,483,728,537,45,21,8,12; 
+Oo,51,HelveticaCentury,r,1177,487,1273,539,36,24,11,15; 
+Oo,51,HelveticaCentury,r,1313,487,1409,539,58,25,11,15; 
+Oo,51,HelveticaCentury,r,1450,487,1546,539,54,26,11,15; 

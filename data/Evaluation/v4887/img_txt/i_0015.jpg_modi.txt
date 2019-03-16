@@ -1,0 +1,15 @@
+Polling,19,Helvetica,r,1318,8,1392,31,146,0,0,0; 
+Closed,19,Helvetica,r,1400,9,1470,26,169,1,0,0; 
+Just,47,HelveticaCentury,r,368,206,465,247,211,3,1,1; 
+added,47,HelveticaCentury,r,484,203,671,247,206,4,1,1; 
+Blackboard,47,HelveticaCentury,r,373,279,651,322,204,5,1,2; 
+Stuff,55,HelveticaCentury,r,868,61,1025,119,208,8,3,5; 
+if,47,HelveticaCentury,r,769,203,800,247,195,9,3,6; 
+you,47,HelveticaCentury,r,816,217,905,258,212,10,3,6; 
+do,47,HelveticaCentury,r,927,203,989,247,215,11,3,6; 
+not,47,HelveticaCentury,r,1010,208,1092,247,213,12,3,6; 
+email,47,HelveticaCentury,r,751,279,885,322,204,14,5,8; 
+me,47,HelveticaCentury,r,909,293,984,322,214,15,5,8; 
+rdkna,47,HelveticaCentury,r,1006,279,1141,322,48,16,5,8; 
+Channel,70,HelveticaCentury,r,1192,269,1492,334,211,18,7,10; 
+Responses,19,Helvetica,r,1472,88,1595,108,207,20,8,11; 

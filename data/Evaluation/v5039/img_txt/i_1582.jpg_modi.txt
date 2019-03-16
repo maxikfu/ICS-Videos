@@ -1,0 +1,17 @@
+NO2,41,HelveticaCentury,r,927,192,1017,241,110,2,2,2; 
+N20,41,HelveticaCentury,r,1320,192,1410,241,26,3,3,3; 
+Anaerobic,41,HelveticaCentury,r,982,353,1215,391,210,5,5,5; 
+Respiration,41,HelveticaCentury,r,1233,353,1489,401,210,6,5,5; 
+Denitrification,41,HelveticaCentury,r,902,421,1229,459,137,7,6,6; 
+dissimilation,41,HelveticaCentury,r,1248,419,1571,469,208,8,6,6; 
+NO2,41,HelveticaCentury,r,549,195,639,245,147,13,11,11; 
+4N0,41,HelveticaCentury,r,1055,187,1180,228,44,15,13,13; 
+Lithotrophy,41,HelveticaCentury,r,447,356,712,404,171,17,15,15; 
+Assimilation,41,HelveticaCentury,r,444,424,724,462,208,19,17,17; 
+y2,41,HelveticaCentury,r,1496,192,1531,229,44,20,18,18; 
+N2,41,HelveticaCentury,r,1550,192,1602,241,121,21,19,19; 
+sulfur,41,HelveticaCentury,r,338,650,469,688,212,23,21,21; 
+oxidation,41,HelveticaCentury,r,485,650,697,688,212,24,21,21; 
+Sn,42,HelveticaCentury,r,768,748,820,788,120,26,23,23; 
+Lithotrophy,41,HelveticaCentury,r,397,895,662,943,195,29,26,26; 
+Assimilation,41,HelveticaCentury,r,394,962,674,1000,195,30,27,27; 

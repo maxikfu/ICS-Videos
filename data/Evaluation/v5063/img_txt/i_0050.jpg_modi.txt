@@ -1,0 +1,4 @@
+Lecture,18,Helvetica,r,928,444,994,461,227,3,1,1; 
+PowerPoint,18,Helvetica,r,1015,444,1119,461,202,5,1,1; 
+taIv,35,HelveticaCentury,r,366,1014,414,1071,221,6,2,2; 
+ivnJ,35,HelveticaCentury,r,1161,1020,1230,1062,36,12,7,7; 

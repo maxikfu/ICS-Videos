@@ -1,0 +1,6 @@
+Sporulatlon,21,HelveticaCentury,r,616,80,752,102,24,0,0,0; 
+Axial,21,HelveticaCentury,r,1368,140,1417,159,185,1,1,1; 
+filament,21,HelveticaCentury,r,1426,140,1511,159,205,2,1,1; 
+Mother,21,HelveticaCentury,r,1512,268,1590,287,209,3,2,2; 
+cell,21,HelveticaCentury,r,1598,269,1635,287,211,4,2,2; 
+Engulfment,21,HelveticaCentury,r,1467,715,1590,739,194,7,5,5; 

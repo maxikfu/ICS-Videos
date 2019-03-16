@@ -1,0 +1,14 @@
+Chapter,54,HelveticaCentury,bi,369,99,602,162,212,0,0,0; 
+Bacterial,54,HelveticaCentury,bi,708,99,972,149,212,2,1,1; 
+Culture,54,HelveticaCentury,bi,991,99,1215,158,201,3,1,1; 
+Growth,54,HelveticaCentury,bi,1240,99,1475,158,208,4,1,1; 
+Deve,54,HelveticaCentury,bi,645,189,789,235,178,6,2,2; 
+ment,54,HelveticaCentury,bi,886,192,1039,235,186,7,3,3; 
+Part,54,HelveticaCentury,bi,1057,189,1219,235,157,8,4,4; 
+boLhavistrasI,18,Times,b,701,528,874,550,28,10,5,5; 
+Just,17,Helvetica,r,769,625,807,641,56,11,6,6; 
+would,17,Helvetica,r,783,647,828,664,163,13,6,7; 
+to,17,Helvetica,r,882,649,899,663,206,15,6,7; 
+reproduce,17,Helvetica,r,761,671,844,691,190,16,6,8; 
+yourself,17,Helvetica,b,853,670,921,690,173,17,6,8; 
+mlmiteil,17,Helvetica,b,849,692,917,710,32,20,6,9; 

@@ -1,0 +1,6 @@
+lycolysis,27,HelveticaCentury,r,875,21,996,53,89,2,1,1; 
+acid,27,HelveticaCentury,r,896,293,954,319,202,3,2,2; 
+NAD,27,HelveticaCentury,r,1039,38,1131,64,69,4,3,3; 
+ATP,27,HelveticaCentury,r,1081,176,1135,199,195,5,3,4; 
+Glucose,27,HelveticaCentury,r,865,101,981,127,202,30,5,29; 
+Pyruvic,27,HelveticaCentury,r,871,250,979,281,120,31,6,30; 

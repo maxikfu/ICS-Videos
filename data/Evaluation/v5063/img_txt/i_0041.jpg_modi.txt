@@ -1,0 +1,15 @@
+iS,87,HelveticaCentury,r,875,37,977,117,106,4,2,3; 
+PowerPOint,15,Helvetica,r,127,350,215,363,44,7,4,5; 
+2Q131,15,Helvetica,r,151,375,190,391,197,8,5,6; 
+Turning,16,Helvetica,b,627,257,701,278,180,9,6,7; 
+POint0,15,Helvetica,r,706,256,751,272,98,10,6,7; 
+TurningPoint,65,HelveticaCentury,b,781,352,1266,429,64,14,9,11; 
+Hello,36,HelveticaCentury,b,756,523,861,562,196,15,9,12; 
+Richard,36,HelveticaCentury,b,880,522,1018,557,194,16,9,12; 
+Knapp,36,HelveticaCentury,b,1037,525,1156,567,207,17,9,12; 
+Not,16,Times,r,650,690,682,704,209,18,9,13; 
+Richard,15,Helvetica,r,689,689,761,704,102,19,9,13; 
+Sign,15,Helvetica,r,768,689,805,708,201,20,9,13; 
+Out,15,Helvetica,r,812,690,844,704,208,21,9,13; 
+1k,6,Helvetica,r,178,1064,187,1071,29,30,13,21; 
+Iji,10,Helvetica,r,678,1035,715,1072,35,34,15,23; 

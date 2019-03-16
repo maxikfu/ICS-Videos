@@ -1,0 +1,15 @@
+CH13,54,HelveticaCentury,bi,372,79,557,127,61,0,0,0; 
+Part,54,HelveticaCentury,bi,594,80,717,127,212,1,1,1; 
+En,54,HelveticaCentury,bi,825,80,893,126,213,4,2,2; 
+erg,54,HelveticaCentury,bi,898,90,992,139,211,5,2,2; 
+tics,54,HelveticaCentury,bi,1032,78,1128,127,211,7,2,2; 
+Ca,54,HelveticaCentury,bi,1216,79,1285,127,204,9,2,2; 
+ta,54,HelveticaCentury,bi,1291,83,1347,127,119,10,2,2; 
+urn,66,HelveticaCentury,i,1426,76,1543,126,108,13,2,2; 
+El,69,HelveticaCentury,r,319,222,415,285,64,14,3,3; 
+Nucleic,17,Helvetica,i,328,291,404,307,188,15,3,4; 
+Lipids,18,Times,bi,471,342,531,363,193,16,4,5; 
+dczds,18,Helvetica,i,338,320,393,336,24,17,5,6; 
+Curb,17,Helvetica,i,305,459,352,475,192,19,5,8; 
+olijdraies,17,Helvetica,i,353,459,448,477,24,20,5,8; 
+Proteins,17,Helvetica,i,485,501,566,517,190,21,6,9; 

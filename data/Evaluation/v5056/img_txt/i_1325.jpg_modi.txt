@@ -1,0 +1,15 @@
+photolysis,28,HelveticaCentury,r,291,557,447,589,129,0,0,0; 
+NADP,28,HelveticaCentury,r,1183,253,1289,277,182,1,1,1; 
+Light,28,HelveticaCentury,r,1131,416,1204,448,123,2,2,2; 
+NADPH,28,HelveticaCentury,r,1227,341,1337,365,186,3,3,3; 
+Green,28,HelveticaCentury,r,957,752,1048,777,210,4,4,4; 
+sulfur,28,HelveticaCentury,r,1060,751,1148,777,210,5,4,4; 
+bacteria,28,HelveticaCentury,r,1160,751,1293,777,204,6,4,4; 
+PSi,28,HelveticaCentury,r,900,797,953,822,145,8,6,6; 
+only,28,HelveticaCentury,r,964,796,1029,828,210,9,6,6; 
+NADPH,28,HelveticaCentury,r,1076,798,1186,822,198,11,6,6; 
+formation,28,HelveticaCentury,r,1197,796,1351,822,212,12,6,6; 
+anoxygenic,28,HelveticaCentury,r,1033,844,1228,877,158,13,6,7; 
+CO2,37,HelveticaCentury,r,1440,457,1507,503,192,14,7,8; 
+fixation,39,HelveticaCentury,r,1520,456,1662,491,211,15,7,8; 
+Na,28,HelveticaCentury,r,1116,235,1158,260,75,16,8,9; 

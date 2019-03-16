@@ -1,0 +1,12 @@
+Acenaphthene,23,HelveticaCentury,b,276,326,472,353,78,0,0,0; 
+Catabolism,54,HelveticaCentury,bi,437,48,764,99,211,2,2,2; 
+of,54,HelveticaCentury,bi,786,47,850,111,215,3,2,2; 
+Aromatic,54,HelveticaCentury,bi,858,49,1134,99,211,4,2,2; 
+Compounds,54,HelveticaCentury,bi,1170,48,1515,111,207,5,2,2; 
+CM,12,Helvetica,r,548,445,575,457,25,6,2,3; 
+Lignin,54,HelveticaCentury,bi,559,204,713,260,151,7,3,4; 
+C40,12,Helvetica,r,984,460,1025,471,24,8,4,5; 
+Benzopyrene,23,HelveticaCentury,b,291,611,468,637,91,9,5,6; 
+Anthracene,23,HelveticaCentury,b,306,795,462,816,175,10,6,7; 
+HO,12,Helvetica,r,1136,906,1160,917,181,11,7,8; 
+Benzofluoranthene,23,HelveticaCentury,b,263,1003,520,1024,103,12,8,9; 

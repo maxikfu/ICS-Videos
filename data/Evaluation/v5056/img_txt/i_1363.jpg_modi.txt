@@ -1,0 +1,10 @@
+photolysis,28,HelveticaCentury,r,291,557,447,589,146,0,0,0; 
+Purple,28,HelveticaCentury,r,453,754,551,785,205,1,1,1; 
+nonsulfur,28,HelveticaCentury,r,563,754,722,778,202,2,1,1; 
+bacteria,28,HelveticaCentury,r,732,754,865,778,194,3,1,1; 
+P52,28,HelveticaCentury,r,462,799,515,823,191,4,1,2; 
+only,28,HelveticaCentury,r,526,797,591,829,210,5,1,2; 
+ATP,28,HelveticaCentury,r,636,799,691,823,198,7,1,2; 
+formation,28,HelveticaCentury,r,702,797,856,823,210,8,1,2; 
+anoxygenic,28,HelveticaCentury,r,559,845,753,878,120,9,1,3; 
+fixation,39,HelveticaCentury,r,1520,456,1662,491,200,10,2,4; 

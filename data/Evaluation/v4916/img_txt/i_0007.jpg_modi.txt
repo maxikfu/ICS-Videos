@@ -1,0 +1,15 @@
+Polling,13,Helvetica,b,1663,6,1715,22,176,0,0,0; 
+Closed,13,Times,r,1721,6,1770,18,199,1,0,0; 
+OOOOOcaI,71,HelveticaCentury,r,187,125,515,191,29,5,1,1; 
+PowerPoint,17,Helvetica,r,741,447,844,463,203,10,2,3; 
+Slide,17,Helvetica,r,851,447,894,463,195,11,2,3; 
+Show,17,Helvetica,r,901,447,950,463,212,12,2,3; 
+Lecture,17,Helvetica,r,1105,448,1176,466,207,16,2,3; 
+II,8,Helvetica,b,501,576,552,585,27,20,3,6; 
+Recording,17,Helvetica,r,346,52,463,74,200,25,6,9; 
+GB,14,Helvetica,r,183,269,202,281,206,30,7,11; 
+free,14,Helvetica,r,207,268,234,281,210,31,7,11; 
+Responses,13,Helvetica,b,1772,62,1859,77,203,35,10,14; 
+Channel,52,HelveticaCentury,r,1573,191,1786,237,213,38,13,17; 
+Respornei,6,Times,r,1179,553,1219,560,32,41,15,19; 
+PM,14,Helvetica,r,1866,1034,1889,1047,210,54,20,27; 

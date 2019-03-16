@@ -1,0 +1,10 @@
+Electron,29,HelveticaCentury,r,279,19,378,44,179,0,0,0; 
+acceptor,29,HelveticaCentury,r,386,20,491,49,210,1,0,0; 
+Electron,29,HelveticaCentury,r,567,18,666,43,176,3,0,0; 
+donor,29,HelveticaCentury,r,674,17,744,43,210,4,0,0; 
+mV2,29,HelveticaCentury,r,856,15,924,48,21,6,0,0; 
+Co2,32,HelveticaCentury,r,279,90,322,122,87,7,0,1; 
+4e,29,HelveticaCentury,r,418,91,445,114,44,11,0,1; 
+C14O1,29,HelveticaCentury,r,566,90,644,119,27,13,0,1; 
+HO,29,HelveticaCentury,r,761,90,805,116,32,16,0,1; 
+Fe2,29,HelveticaCentury,r,566,135,606,167,72,18,0,2; 

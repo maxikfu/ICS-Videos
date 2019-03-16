@@ -1,0 +1,16 @@
+Which,55,HelveticaCentury,bi,350,68,528,119,211,0,0,0; 
+is,55,HelveticaCentury,bi,550,69,593,118,212,1,0,0; 
+the,55,HelveticaCentury,bi,613,68,706,118,213,2,0,0; 
+false,55,HelveticaCentury,bi,718,66,863,131,212,3,0,0; 
+statement,55,HelveticaCentury,bi,881,75,1185,119,211,4,0,0; 
+among,55,HelveticaCentury,bi,1203,82,1408,131,213,5,0,0; 
+AD,55,HelveticaCentury,bi,1424,68,1570,119,28,6,0,0; 
+91O,52,HelveticaCentury,b,674,658,841,716,96,18,3,3; 
+years,44,Century,b,1439,525,1563,563,212,21,5,5; 
+Responses,19,Helvetica,b,1497,830,1620,851,191,22,5,6; 
+Channel,70,HelveticaCentury,b,1218,1013,1518,1078,212,25,7,9; 
+for,28,HelveticaCentury,b,648,271,687,295,205,29,9,11; 
+Question,28,HelveticaCentury,b,697,271,835,297,120,30,9,11; 
+lisease,44,Century,b,1379,691,1545,732,115,40,16,18; 
+Polling,19,Helvetica,b,1343,751,1418,774,191,41,17,19; 
+Closed,19,Helvetica,b,1425,751,1495,768,161,42,17,19; 

@@ -1,0 +1,11 @@
+Clicker,66,HelveticaCentury,r,660,100,890,162,208,0,0,0; 
+questions,66,HelveticaCentury,r,916,104,1254,178,212,1,0,0; 
+Microsoft,26,HelveticaCentury,r,823,451,956,476,195,2,1,1; 
+PowerPoint,26,HelveticaCentury,r,967,452,1127,476,178,3,1,1; 
+Want,19,Helvetica,r,847,550,898,566,210,5,3,3; 
+to,19,Helvetica,r,904,551,923,566,210,6,3,3; 
+keep,19,Helvetica,r,931,549,975,571,206,7,3,3; 
+your,19,Helvetica,r,982,554,1027,572,209,8,3,3; 
+ink,19,Helvetica,r,1034,548,1062,566,180,9,3,3; 
+annotations,19,Helvetica,r,1068,548,1192,566,201,10,3,3; 
+Qiscard,19,Helvetica,r,1019,631,1091,650,66,13,5,5; 

@@ -1,0 +1,16 @@
+Stuff,55,HelveticaCentury,r,868,61,1025,119,208,0,0,0; 
+Just,46,HelveticaCentury,r,368,206,465,247,212,2,0,1; 
+added,46,HelveticaCentury,r,484,203,671,247,208,3,0,1; 
+if,46,HelveticaCentury,r,769,203,800,247,208,5,0,1; 
+you,46,HelveticaCentury,r,816,217,905,258,212,6,0,1; 
+do,46,HelveticaCentury,r,927,203,989,247,213,7,0,1; 
+not,46,HelveticaCentury,r,1010,208,1092,247,212,8,0,1; 
+see,46,HelveticaCentury,r,1111,217,1194,246,213,9,0,1; 
+the,46,HelveticaCentury,r,1212,203,1295,247,214,10,0,1; 
+course,46,HelveticaCentury,r,1315,217,1481,247,212,11,0,1; 
+on,46,HelveticaCentury,r,1501,217,1561,247,213,12,0,1; 
+Blackboard,46,HelveticaCentury,r,373,279,651,322,210,13,0,2; 
+email,46,HelveticaCentury,r,751,279,885,322,206,15,0,2; 
+me,46,HelveticaCentury,r,909,293,984,322,214,16,0,2; 
+rdknappuhedu,46,HelveticaCentury,r,1006,279,1451,334,118,17,0,2; 
+LJ,87,HelveticaCentury,r,595,1000,898,1079,86,18,0,3; 

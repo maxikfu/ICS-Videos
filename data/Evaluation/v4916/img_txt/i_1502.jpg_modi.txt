@@ -1,0 +1,17 @@
+Fermentatio,33,HelveticaCentury,r,995,480,1214,508,31,3,2,3; 
+reactions,33,HelveticaCentury,r,995,532,1159,561,199,4,2,4; 
+regenerate,33,HelveticaCentury,r,995,587,1188,622,212,5,2,5; 
+NAD,33,HelveticaCentury,r,1203,585,1304,613,70,6,2,5; 
+needed,33,HelveticaCentury,r,995,636,1126,665,212,7,2,6; 
+for,33,HelveticaCentury,r,1139,636,1191,665,211,8,2,6; 
+glycolysis,33,HelveticaCentury,r,993,689,1161,727,52,9,2,7; 
+to,33,HelveticaCentury,r,1173,692,1208,719,213,10,2,7; 
+produce,33,HelveticaCentury,r,995,742,1140,779,211,11,2,8; 
+ATP,33,HelveticaCentury,r,1152,743,1218,771,199,12,2,8; 
+Anaerobic,33,HelveticaCentury,r,1299,31,1509,71,201,31,4,27; 
+no,33,HelveticaCentury,r,1526,41,1572,64,210,32,4,27; 
+Gil,26,HelveticaCentury,r,850,22,882,47,84,34,5,28; 
+Pyruvic,26,HelveticaCentury,r,872,250,979,281,109,35,6,29; 
+acid,26,HelveticaCentury,r,896,293,954,319,210,36,6,30; 
+Fermentation,41,HelveticaCentury,r,1256,165,1564,203,205,38,7,32; 
+NADH,26,HelveticaCentury,r,1354,322,1440,345,192,40,9,34; 

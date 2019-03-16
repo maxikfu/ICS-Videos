@@ -1,0 +1,1 @@
+Channel,25,HelveticaCentury,r,1740,98,1848,121,222,0,0,0; 

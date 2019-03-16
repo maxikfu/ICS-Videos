@@ -1,0 +1,8 @@
+Stuff,59,HelveticaCentury,r,868,38,1025,94,209,0,0,0; 
+Clicker,42,HelveticaCentury,r,370,164,516,203,207,2,0,1; 
+points,42,HelveticaCentury,r,535,166,669,212,212,3,0,1; 
+for,42,HelveticaCentury,r,686,163,748,203,213,4,0,1; 
+real,42,HelveticaCentury,r,767,164,844,203,211,5,0,1; 
+start,42,HelveticaCentury,r,863,169,963,203,212,6,0,1; 
+today,42,HelveticaCentury,r,979,164,1105,212,212,7,0,1; 
+Channel,42,HelveticaCentury,r,1123,163,1317,211,209,8,0,1; 

@@ -1,0 +1,16 @@
+hg,28,HelveticaCentury,r,320,393,359,423,27,0,0,0; 
+photolysis,28,HelveticaCentury,r,291,557,447,589,156,1,0,1; 
+anoxygenic,28,HelveticaCentury,r,559,845,753,878,132,4,2,4; 
+CO2,37,HelveticaCentury,r,1440,457,1507,503,192,5,3,5; 
+fixation,39,HelveticaCentury,r,1520,456,1662,491,211,6,3,5; 
+ATP,28,HelveticaCentury,r,636,529,692,553,199,10,5,9; 
+synthase,28,HelveticaCentury,r,704,528,839,560,190,11,5,9; 
+ATP,28,HelveticaCentury,r,636,574,692,598,196,12,5,10; 
+formation,28,HelveticaCentury,r,703,572,856,598,207,13,5,10; 
+Purple,28,HelveticaCentury,r,453,754,551,784,203,14,6,11; 
+nonsulfur,28,HelveticaCentury,r,563,754,722,778,199,15,6,11; 
+bacteria,28,HelveticaCentury,r,732,754,865,778,180,16,6,11; 
+P52,28,HelveticaCentury,r,462,799,515,823,192,17,6,12; 
+only,28,HelveticaCentury,r,526,797,591,830,211,18,6,12; 
+ATP,28,HelveticaCentury,r,636,799,691,823,198,20,6,12; 
+formation,28,HelveticaCentury,r,702,797,856,823,210,21,6,12; 

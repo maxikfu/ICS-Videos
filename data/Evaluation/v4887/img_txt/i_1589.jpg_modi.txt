@@ -1,0 +1,4 @@
+CH,54,HelveticaCentury,i,372,79,451,127,205,0,0,0; 
+Part,54,HelveticaCentury,i,594,80,717,127,212,2,0,0; 
+Energetics,54,HelveticaCentury,i,825,78,1128,139,83,5,0,0; 
+Catabolism,54,HelveticaCentury,i,1216,76,1543,127,211,7,0,0; 

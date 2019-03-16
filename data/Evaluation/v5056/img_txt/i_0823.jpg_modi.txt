@@ -1,0 +1,16 @@
+Oxygenic,32,HelveticaCentury,r,392,51,532,87,211,0,0,0; 
+photosynthesis,32,HelveticaCentury,r,543,50,779,87,210,1,0,0; 
+cya,32,HelveticaCentury,r,791,49,850,87,151,2,0,0; 
+nobacteria,32,HelveticaCentury,r,855,49,1031,87,134,3,0,0; 
+H20PS2PS1NADP,32,HelveticaCentury,r,1052,48,1378,91,30,4,0,0; 
+photolysis,32,HelveticaCentury,r,296,729,452,766,64,7,3,3; 
+H20,32,HelveticaCentury,r,343,787,401,826,35,8,3,4; 
+2e,32,HelveticaCentury,r,419,787,465,815,24,9,3,4; 
+2W,32,HelveticaCentury,r,303,896,379,926,24,11,3,6; 
+Lightdriven,49,HelveticaCentury,r,287,955,595,1011,189,12,4,7; 
+oxidation,49,HelveticaCentury,r,318,1032,561,1078,201,13,4,8; 
+hg,32,HelveticaCentury,r,326,441,365,476,39,17,8,12; 
+ATP,32,HelveticaCentury,r,641,597,697,625,201,20,11,15; 
+synthase,32,HelveticaCentury,r,709,596,844,632,178,21,11,15; 
+ATP,32,HelveticaCentury,r,642,648,697,676,196,22,12,16; 
+formation,32,HelveticaCentury,r,708,647,862,676,211,23,12,16; 

@@ -1,0 +1,6 @@
+Results,26,HelveticaCentury,b,782,20,880,44,210,1,1,1; 
+for,26,HelveticaCentury,b,891,20,930,44,210,2,1,1; 
+Question,26,HelveticaCentury,b,945,19,1078,47,185,3,1,1; 
+12151o,55,HelveticaCentury,b,616,403,880,470,32,5,2,2; 
+7o,47,HelveticaCentury,b,906,445,1001,497,38,6,2,2; 
+OoOo,55,HelveticaCentury,b,1177,487,1409,539,31,9,4,4; 

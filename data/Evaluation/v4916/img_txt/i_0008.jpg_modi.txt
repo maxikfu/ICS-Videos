@@ -1,0 +1,4 @@
+Polling,13,Helvetica,b,1663,6,1715,22,181,0,0,0; 
+Closed,13,Times,r,1721,6,1770,18,198,1,0,0; 
+Lt,19,Helvetica,b,1680,134,1701,151,44,5,1,1; 
+Channel,49,HelveticaCentury,r,1573,191,1786,237,213,6,1,2; 

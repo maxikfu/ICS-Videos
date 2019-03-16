@@ -1,0 +1,8 @@
+Sporulatlon,20,HelveticaCentury,b,616,80,752,102,24,0,0,0; 
+Axial,20,HelveticaCentury,b,1368,140,1417,159,185,1,1,1; 
+filament,20,HelveticaCentury,b,1426,140,1511,159,204,2,1,1; 
+Mother,20,HelveticaCentury,b,1512,269,1590,287,209,3,2,2; 
+cell,20,HelveticaCentury,b,1598,269,1635,287,210,4,2,2; 
+Cortex,20,HelveticaCentury,b,839,873,911,892,195,8,6,6; 
+Engulfment,20,HelveticaCentury,b,1467,715,1591,739,201,9,7,7; 
+Exosporangium,20,HelveticaCentury,b,349,983,519,1007,93,10,8,8; 

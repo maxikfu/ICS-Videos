@@ -1,0 +1,2 @@
+ojjj,34,HelveticaCentury,r,1537,43,1681,122,218,0,0,0; 
+Channel,35,HelveticaCentury,r,1427,138,1579,171,219,1,0,1; 

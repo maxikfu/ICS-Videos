@@ -1,0 +1,3 @@
+Growth,50,HelveticaCentury,r,772,44,967,89,211,7,1,6; 
+Patterns,50,HelveticaCentury,r,989,47,1204,89,212,8,1,6; 
+time,33,HelveticaCentury,r,558,498,643,525,141,10,3,8; 

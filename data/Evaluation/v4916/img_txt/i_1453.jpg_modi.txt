@@ -1,0 +1,10 @@
+Glycolysis,27,HelveticaCentury,r,850,22,996,53,108,1,1,1; 
+Glucose,27,HelveticaCentury,r,865,102,981,127,198,2,1,2; 
+NAD,27,HelveticaCentury,r,1039,38,1131,64,68,3,2,3; 
+ATP,27,HelveticaCentury,r,1081,176,1135,199,193,6,3,6; 
+Anaerobic,34,HelveticaCentury,r,1299,31,1509,71,201,7,4,7; 
+no,34,HelveticaCentury,r,1526,41,1572,64,212,8,4,7; 
+Fermentation,41,HelveticaCentury,r,1256,165,1564,203,204,10,4,8; 
+NADH,27,HelveticaCentury,r,1354,322,1440,345,193,12,4,10; 
+Pyruvic,27,HelveticaCentury,r,872,250,979,281,150,13,5,11; 
+acid,27,HelveticaCentury,r,896,294,954,319,203,14,5,12; 

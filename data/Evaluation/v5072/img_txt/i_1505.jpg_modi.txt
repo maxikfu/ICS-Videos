@@ -1,0 +1,7 @@
+Sporulatlon,20,HelveticaCentury,r,616,80,752,102,24,0,0,0; 
+Axial,20,HelveticaCentury,r,1368,140,1417,159,185,2,2,2; 
+filament,20,HelveticaCentury,r,1426,140,1511,159,205,3,2,2; 
+Mother,20,HelveticaCentury,r,1512,268,1590,287,209,4,3,3; 
+cell,20,HelveticaCentury,r,1598,269,1635,287,211,5,3,3; 
+Cortex,20,HelveticaCentury,r,839,873,911,892,190,6,4,4; 
+Engulfment,20,HelveticaCentury,r,1467,715,1590,739,203,9,7,7; 

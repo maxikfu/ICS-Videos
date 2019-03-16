@@ -1,0 +1,6 @@
+PoIHngf,14,Helvetica,b,1662,7,1733,22,31,3,1,2; 
+Responses,14,Helvetica,b,1772,62,1859,77,177,4,2,3; 
+Channel,44,HelveticaCentury,b,1573,191,1786,237,212,6,3,5; 
+2282OlO,16,Helvetica,r,1816,1059,1900,1075,26,18,8,15; 
+PowerPoint,15,Times,b,127,350,215,364,25,22,10,18; 
+mm,28,HelveticaCentury,r,13,1052,55,1072,33,26,13,21; 

@@ -1,0 +1,13 @@
+Polling,19,Helvetica,r,394,58,469,81,201,0,0,0; 
+Closed,19,Helvetica,r,476,58,546,75,186,1,0,0; 
+tion,51,HelveticaCentury,i,786,39,885,83,192,2,1,1; 
+anaerobic,51,HelveticaCentury,i,951,39,1213,83,210,3,1,1; 
+process,51,HelveticaCentury,i,1225,49,1423,95,212,4,1,1; 
+Responses,19,Helvetica,r,547,136,671,158,201,5,2,2; 
+for,27,HelveticaCentury,r,776,176,815,199,210,8,4,4; 
+Question,27,HelveticaCentury,r,827,176,964,201,83,9,4,4; 
+Channel,70,HelveticaCentury,r,268,319,568,384,214,11,5,5; 
+18o,56,HelveticaCentury,r,502,566,630,618,33,13,6,6; 
+Oo,56,HelveticaCentury,r,792,641,888,694,36,16,8,8; 
+Oo,56,HelveticaCentury,r,927,641,1023,694,38,17,8,8; 
+0o,56,HelveticaCentury,r,1336,642,1432,694,32,20,10,10; 

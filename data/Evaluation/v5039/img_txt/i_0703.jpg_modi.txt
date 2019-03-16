@@ -1,0 +1,13 @@
+CD,15,Helvetica,i,755,321,775,339,55,1,0,1; 
+CD,15,Helvetica,i,755,366,824,384,31,3,0,2; 
+Z30,26,HelveticaCentury,b,898,396,1038,426,26,5,0,4; 
+QVQ,15,Helvetica,i,661,485,690,504,24,11,0,7; 
+DJ,18,HelveticaCentury,r,803,484,824,501,42,12,0,7; 
+DV,18,HelveticaCentury,r,899,504,973,521,22,13,0,8; 
+ZOO,21,HelveticaCentury,b,898,888,1038,925,49,37,0,21; 
+CD,21,HelveticaCentury,b,803,972,823,989,26,41,0,24; 
+CD,18,HelveticaCentury,r,570,993,591,1011,20,42,0,25; 
+CD,21,HelveticaCentury,b,803,1104,823,1121,29,53,0,30; 
+DC,21,HelveticaCentury,b,529,1320,591,1344,22,61,0,34; 
+lCD,18,TimesCentury,b,675,1343,723,1360,169,63,0,35; 
+CD,21,HelveticaCentury,b,952,1408,973,1426,35,69,0,38; 

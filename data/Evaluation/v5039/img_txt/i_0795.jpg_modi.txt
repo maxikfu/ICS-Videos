@@ -1,0 +1,16 @@
+ri,29,HelveticaCentury,r,924,510,962,531,27,32,16,30; 
+fl,13,Helvetica,r,247,612,276,625,35,53,30,50; 
+Cu,20,HelveticaCentury,b,106,750,180,771,74,68,36,64; 
+w4U,17,Helvetica,b,41,883,180,905,28,75,36,70; 
+oE,36,HelveticaCentury,b,41,994,181,1030,25,78,36,73; 
+a40,20,HelveticaCentury,b,106,1097,181,1119,69,92,39,87; 
+OC,20,HelveticaCentury,b,106,1374,180,1396,106,117,45,111; 
+OEc,29,HelveticaCentury,b,41,1493,181,1523,38,128,48,121; 
+CD,20,HelveticaCentury,b,706,909,727,926,18,142,55,134; 
+en,17,HelveticaCentury,r,410,1087,431,1101,117,149,56,140; 
+CD,20,HelveticaCentury,b,488,1098,509,1115,19,154,57,145; 
+I0,13,Helvetica,r,967,1196,987,1208,30,157,58,148; 
+LI,15,Helvetica,r,442,1390,463,1404,32,169,60,159; 
+bO,20,HelveticaCentury,b,542,1488,571,1508,49,178,61,168; 
+CD,20,HelveticaCentury,b,713,1452,735,1469,22,184,62,174; 
+IL,15,Helvetica,r,706,1503,728,1518,35,185,62,175; 

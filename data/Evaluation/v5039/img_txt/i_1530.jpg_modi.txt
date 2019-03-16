@@ -1,0 +1,3 @@
+tT,41,HelveticaCentury,r,320,239,782,313,31,1,0,1; 
+Lithotrophy,41,HelveticaCentury,r,447,356,712,404,178,2,0,2; 
+Assimilation,41,HelveticaCentury,r,444,423,724,462,203,3,0,3; 

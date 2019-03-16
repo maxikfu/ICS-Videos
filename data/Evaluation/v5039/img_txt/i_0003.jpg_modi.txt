@@ -1,0 +1,4 @@
+Relay,15,Helvetica,r,581,504,620,520,175,1,0,0; 
+Recorder,15,Helvetica,r,626,503,692,517,198,2,0,0; 
+SelfHosted,15,Helvetica,r,698,503,807,519,47,3,0,0; 
+hiI,15,Helvetica,b,670,638,727,656,36,6,0,2; 

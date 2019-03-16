@@ -1,0 +1,5 @@
+Oxygenic,32,HelveticaCentury,r,392,51,532,87,218,0,0,0; 
+photosynthesis,32,HelveticaCentury,r,543,50,779,87,219,1,0,0; 
+cya,32,HelveticaCentury,r,791,49,850,87,219,2,0,0; 
+nobacteria,32,HelveticaCentury,r,855,49,1031,87,218,3,0,0; 
+H20PS2PS1NADP,32,HelveticaCentury,r,1052,48,1378,91,167,4,0,0; 

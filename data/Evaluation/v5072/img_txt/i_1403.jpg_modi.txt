@@ -1,0 +1,2 @@
+Vegetative,21,HelveticaCentury,b,264,29,399,52,195,0,0,0; 
+growth,21,HelveticaCentury,b,408,29,496,52,209,1,0,0; 

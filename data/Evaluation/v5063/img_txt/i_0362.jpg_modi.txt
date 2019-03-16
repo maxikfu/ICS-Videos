@@ -1,0 +1,10 @@
+Results,27,HelveticaCentury,r,782,20,880,44,209,0,0,0; 
+for,27,HelveticaCentury,r,891,20,930,44,211,1,0,0; 
+Question,27,HelveticaCentury,r,939,19,1078,47,182,2,0,0; 
+Polling,19,Helvetica,r,398,310,473,333,173,4,1,1; 
+Closed,19,Helvetica,r,480,310,550,327,204,5,1,1; 
+Channe,70,HelveticaCentury,r,272,571,554,636,190,6,2,2; 
+43o,48,HelveticaCentury,r,610,174,744,225,33,7,3,3; 
+Responses,19,Helvetica,r,552,388,674,410,202,8,4,4; 
+1o,48,HelveticaCentury,r,774,479,865,531,61,10,6,6; 
+0oOo,55,HelveticaCentury,r,1177,487,1409,539,31,14,9,10; 

@@ -1,0 +1,8 @@
+Results,26,HelveticaCentury,b,782,20,880,44,222,0,0,0; 
+for,26,HelveticaCentury,b,891,20,930,44,222,1,0,0; 
+Question,26,HelveticaCentury,b,940,20,1078,47,46,2,0,0; 
+25o,52,HelveticaCentury,b,612,382,744,433,181,5,2,2; 
+0o,52,HelveticaCentury,b,906,487,1001,539,184,7,4,4; 
+0o,52,HelveticaCentury,b,1177,487,1273,539,180,9,6,6; 
+0o,52,HelveticaCentury,b,1313,487,1409,539,182,10,7,7; 
+oil,49,HelveticaCentury,b,1528,0,1584,44,227,18,10,11; 

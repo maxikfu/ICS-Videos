@@ -1,0 +1,13 @@
+Raponsa,6,Helvetica,r,1179,553,1219,560,32,2,1,2; 
+Polling,13,Helvetica,b,1663,6,1715,22,212,7,3,5; 
+Closed,13,Helvetica,b,1721,6,1770,18,221,8,3,5; 
+Responses,13,Helvetica,b,1772,62,1859,77,219,12,5,7; 
+oIL,35,HelveticaCentury,r,1555,124,1591,159,168,14,6,9; 
+Channel,22,HelveticaCentury,b,1573,191,1786,237,217,15,7,10; 
+PowerPoint,17,Helvetica,r,741,447,844,463,222,17,8,11; 
+Slide,17,Helvetica,r,851,447,894,463,223,18,8,11; 
+Show,17,Helvetica,r,901,447,950,463,222,19,8,11; 
+Lecture,17,Helvetica,r,1105,448,1176,466,223,23,8,11; 
+Kanqa,5,Helvetica,b,729,528,748,531,34,26,9,12; 
+oQQoQQ,35,HelveticaCentury,r,710,547,803,567,25,30,10,13; 
+Olin,12,Helvetica,r,745,576,768,586,123,32,10,14; 

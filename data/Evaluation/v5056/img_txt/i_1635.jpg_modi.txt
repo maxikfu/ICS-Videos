@@ -1,0 +1,8 @@
+Growth,49,HelveticaCentury,b,772,44,967,89,211,13,2,11; 
+Patterns,49,HelveticaCentury,b,989,47,1204,89,212,14,2,11; 
+time,33,HelveticaCentury,b,558,498,643,525,141,30,6,25; 
+time,33,HelveticaCentury,b,1242,504,1321,532,202,36,11,30; 
+rnf,10,Helvetica,r,724,665,757,699,116,37,12,31; 
+rnc,49,HelveticaCentury,b,683,743,739,794,24,39,12,33; 
+time,33,HelveticaCentury,b,559,992,646,1023,202,47,18,39; 
+time,33,HelveticaCentury,b,1252,972,1340,1003,207,53,20,41; 

@@ -1,0 +1,15 @@
+Polling,19,Helvetica,r,1318,8,1392,31,62,0,0,0; 
+Closed,19,Helvetica,r,1400,8,1470,26,150,1,0,0; 
+Fermentation,51,HelveticaCentury,i,531,39,885,83,203,2,1,1; 
+anaero,51,HelveticaCentury,i,951,49,1135,83,97,3,1,1; 
+Results,27,HelveticaCentury,r,668,176,767,199,192,4,2,2; 
+for,27,HelveticaCentury,r,776,176,815,199,209,5,2,2; 
+Question,27,HelveticaCentury,r,826,176,964,201,181,6,2,2; 
+Channel,70,HelveticaCentury,r,1192,270,1492,335,210,8,3,3; 
+0o,56,HelveticaCentury,r,792,641,888,694,32,10,4,4; 
+Oo,56,HelveticaCentury,r,927,641,1022,694,37,11,4,4; 
+0o,56,HelveticaCentury,r,1200,641,1295,694,33,13,4,4; 
+0o,56,HelveticaCentury,r,1336,641,1432,694,35,14,4,4; 
+63o,56,HelveticaCentury,r,361,325,493,377,31,17,7,7; 
+Responses,19,Helvetica,r,1472,88,1595,109,192,18,8,8; 
+28o,56,HelveticaCentury,r,498,500,630,552,30,20,9,10; 

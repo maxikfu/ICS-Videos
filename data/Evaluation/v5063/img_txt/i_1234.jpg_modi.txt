@@ -1,0 +1,12 @@
+Results,26,HelveticaCentury,b,782,20,880,44,221,0,0,0; 
+for,26,HelveticaCentury,b,891,20,930,44,222,1,0,0; 
+Question,26,HelveticaCentury,b,940,20,1078,47,208,2,0,0; 
+oil,49,HelveticaCentury,b,1528,0,1584,44,227,4,1,1; 
+6o,54,HelveticaCentury,b,633,448,729,499,204,6,3,3; 
+0o,51,HelveticaCentury,b,1177,487,1273,539,179,12,8,8; 
+0o,51,HelveticaCentury,b,1313,487,1409,539,182,13,9,9; 
+ci,11,HelveticaCentury,b,1674,138,1679,145,21,16,12,12; 
+cm,7,Helvetica,b,1635,152,1649,157,29,17,12,13; 
+ii,7,Helvetica,b,1675,150,1679,157,27,18,12,13; 
+316PM,21,HelveticaCentury,b,1548,1015,1637,1035,223,19,13,14; 
+v2812a1w,31,HelveticaCentury,b,1535,1048,1660,1073,21,20,13,15; 

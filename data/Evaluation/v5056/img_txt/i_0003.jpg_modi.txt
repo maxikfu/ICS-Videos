@@ -1,0 +1,6 @@
+TechSmith,16,Helvetica,r,357,332,446,346,43,1,0,0; 
+Relay,16,Helvetica,r,454,332,499,351,210,2,0,0; 
+Recorder,16,Helvetica,r,506,332,583,346,209,3,0,0; 
+SelfHosted,16,Helvetica,r,589,332,700,350,205,4,0,0; 
+GB,12,Helvetica,b,444,517,460,527,31,15,1,3; 
+free,13,HelveticaCentury,r,466,516,488,527,209,16,1,3; 

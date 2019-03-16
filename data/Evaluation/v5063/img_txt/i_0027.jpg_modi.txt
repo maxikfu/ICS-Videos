@@ -1,0 +1,8 @@
+ii,6,Helvetica,r,779,219,780,231,27,11,3,6; 
+Tech,23,Times,r,263,285,312,306,188,13,4,7; 
+Sth,21,HelveticaCentury,b,315,287,350,306,39,14,4,7; 
+Relay,22,HelveticaCentury,b,293,320,350,347,179,16,4,8; 
+TumingPoint,18,Helvetica,b,851,444,968,465,36,18,6,10; 
+Exception,18,Helvetica,b,976,444,1065,464,143,19,6,10; 
+fic,23,Times,r,898,568,1010,608,33,23,9,13; 
+Quit,23,HelveticaCentury,b,1493,643,1546,666,179,27,12,17; 

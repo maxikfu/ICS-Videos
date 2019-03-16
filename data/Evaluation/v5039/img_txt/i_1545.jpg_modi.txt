@@ -1,0 +1,6 @@
+Lithotrophy,41,HelveticaCentury,r,447,356,712,404,180,3,2,2; 
+Assimilation,41,HelveticaCentury,r,444,424,724,462,204,4,2,3; 
+Anaerobic,41,HelveticaCentury,r,982,353,1215,391,210,5,3,4; 
+Respiration,41,HelveticaCentury,r,1233,353,1489,401,211,6,3,4; 
+Denitrification,41,HelveticaCentury,r,902,421,1230,459,147,7,3,5; 
+dissimilation,41,HelveticaCentury,r,1248,419,1571,469,205,8,3,5; 

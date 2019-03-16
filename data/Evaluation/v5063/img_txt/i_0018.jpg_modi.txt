@@ -1,0 +1,11 @@
+rn,80,HelveticaCentury,r,34,568,71,619,217,0,0,0; 
+IL,44,HelveticaCentury,r,218,839,243,879,214,11,2,5; 
+TumingPoint,18,Helvetica,r,834,15,967,37,113,13,4,7; 
+Dashboard,18,Helvetica,r,973,15,1081,32,222,14,4,7; 
+0I,38,HelveticaCentury,r,1567,7,1645,40,154,21,9,13; 
+ii,10,HelveticaCentury,r,1144,176,1151,191,22,26,12,18; 
+Th,7,Helvetica,r,52,849,64,856,35,33,16,25; 
+LJ,18,Helvetica,r,515,1054,551,1070,31,39,18,30; 
+fl,14,Helvetica,r,1737,1043,1757,1056,193,47,22,35; 
+PM,14,Helvetica,r,1865,1034,1889,1047,221,49,22,35; 
+228ZOfl,15,Helvetica,r,1816,1059,1900,1075,44,51,22,36; 

@@ -1,0 +1,4 @@
+Recording,26,HelveticaCentury,b,820,214,984,245,188,1,0,0; 
+OO02O5,95,HelveticaCentury,b,596,317,1058,404,22,3,2,2; 
+R111111J,15,Times,r,1161,1020,1230,1062,30,5,4,4; 
+DesftiLo,19,Times,r,921,444,984,461,34,7,5,5; 

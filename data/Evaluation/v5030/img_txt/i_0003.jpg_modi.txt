@@ -1,0 +1,5 @@
+GB,12,Helvetica,r,390,476,407,487,204,1,0,0; 
+free,12,Helvetica,r,412,475,434,487,198,2,0,0; 
+Relay,16,Helvetica,r,400,288,446,307,173,4,1,1; 
+Recorder,16,Helvetica,r,453,288,531,303,210,5,1,1; 
+SelfHosted,16,Helvetica,r,537,288,650,307,205,6,1,1; 
