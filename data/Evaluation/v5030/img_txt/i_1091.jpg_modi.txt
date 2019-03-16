@@ -1,0 +1,6 @@
+Clicker,66,HelveticaCentury,r,660,100,890,162,206,0,0,0; 
+questions,66,HelveticaCentury,r,916,104,1254,178,209,1,0,0; 
+Polling,18,Helvetica,r,747,371,822,394,204,2,1,1; 
+Closed,18,Times,r,829,371,899,389,189,3,1,1; 
+Responses,18,Helvetica,r,901,451,1023,471,188,5,3,3; 
+cdlii,23,HelveticaCentury,r,1370,1029,1402,1055,24,11,7,8; 

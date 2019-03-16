@@ -1,0 +1,5 @@
+Chemical,41,HelveticaCentury,i,273,48,488,88,195,0,0,0; 
+Agents,41,HelveticaCentury,i,499,51,665,97,211,1,0,0; 
+That,41,HelveticaCentury,i,683,48,789,87,210,2,0,0; 
+Kill,41,HelveticaCentury,i,804,48,877,87,212,3,0,0; 
+Microbes,41,HelveticaCentury,i,891,48,1108,87,210,4,0,0; 

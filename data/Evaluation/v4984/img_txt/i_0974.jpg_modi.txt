@@ -1,0 +1,7 @@
+14k,53,HelveticaCentury,r,752,267,880,319,215,2,1,2; 
+4k,53,HelveticaCentury,r,904,353,1001,405,215,3,2,3; 
+15o,53,HelveticaCentury,r,1024,261,1152,312,207,4,3,4; 
+11c,53,HelveticaCentury,r,1296,293,1415,345,215,6,4,5; 
+13C,17,Helvetica,r,938,999,1006,1015,26,9,6,7; 
+an,57,HelveticaCentury,r,1367,1023,1506,1063,222,10,7,8; 
+PM,22,HelveticaCentury,r,1603,1015,1637,1035,223,18,12,13; 

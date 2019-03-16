@@ -1,4 +1,4 @@
-Word, Fontsize, FontFamily, FontFaceStyle, Left, Top, Right, Bottom, RecognitionConfidence, Id, LineId, RegionId, ImageFile 
+Word,Fontsize,FontFamily,FontFaceStyle,Left,Top,Right,Bottom,RecognitionConfidence,Id,RegionId,LineId,imageFile
 LJThchsmith,18,Helvetica,b,243,171,375,199,25,1,1,1,i_0002.jpg 
 Relay,18,Helvetica,b,384,174,437,195,223,2,1,1,i_0002.jpg 
 Recorder,18,Helvetica,b,445,174,535,190,223,3,1,1,i_0002.jpg 
@@ -2445,7 +2445,7 @@ ci,10,HelveticaCentury,r,797,383,805,391,22,75,30,49,i_0184.jpg
 CI,5,Helvetica,r,782,440,790,450,28,77,30,50,i_0184.jpg 
 ca,8,Helvetica,r,622,537,642,543,53,88,34,57,i_0184.jpg 
 1K,10,HelveticaCentury,r,547,555,567,564,32,90,35,58,i_0184.jpg 
-4E1,13,Helvetica,b,1548,160,1581,176,33,95,36,62,i_0184.jpg 
+4.00E+01,13,Helvetica,b,1548,160,1581,176,33,95,36,62,i_0184.jpg 
 liLt,19,TimesCentury,r,1579,519,1623,547,56,101,36,68,i_0184.jpg 
 Ph,19,TimesCentury,r,1637,530,1658,551,55,102,36,68,i_0184.jpg 
 4i,13,Helvetica,b,641,642,685,655,31,108,39,72,i_0184.jpg 

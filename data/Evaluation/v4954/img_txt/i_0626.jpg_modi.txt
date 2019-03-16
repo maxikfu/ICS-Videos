@@ -1,0 +1,16 @@
+Ch,70,HelveticaCentury,r,1581,716,1673,781,173,0,0,0; 
+hand,13,Helvetica,r,1571,891,1623,903,26,2,1,1; 
+OuIr,13,Helvetica,r,1487,912,1527,923,34,3,1,2; 
+mmbnan,13,Helvetica,r,1531,911,1607,923,30,4,1,2; 
+Cfl,13,Helvetica,r,1486,929,1511,941,39,5,1,3; 
+wall,13,Helvetica,r,1516,929,1544,941,42,6,1,3; 
+Pniplaim,13,Helvetica,r,1487,947,1556,961,24,7,1,4; 
+mmbnan,13,Helvetica,r,1528,968,1603,978,31,9,1,5; 
+mmbran,13,Helvetica,r,1519,983,1599,995,27,11,1,6; 
+CH3,54,HelveticaCentury,bi,446,47,591,103,111,13,3,8; 
+Parti,54,HelveticaCentury,bi,614,48,807,95,98,14,3,8; 
+Prokaryote,54,HelveticaCentury,bi,402,129,727,193,183,15,3,9; 
+Cell,54,HelveticaCentury,bi,748,130,853,180,213,16,3,9; 
+Structure,54,HelveticaCentury,bi,320,218,592,266,211,17,3,10; 
+Function,54,HelveticaCentury,bi,679,217,929,266,210,19,3,10; 
+rnboom,13,Times,r,980,727,1052,739,21,23,6,13; 

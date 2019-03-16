@@ -1,0 +1,16 @@
+Inner,30,HelveticaCentury,r,1101,115,1232,145,103,0,0,0; 
+cell,30,HelveticaCentury,r,1247,116,1304,145,210,1,0,0; 
+membrane,30,HelveticaCentury,r,1320,115,1513,145,210,2,0,0; 
+Phospholipids,30,HelveticaCentury,r,1155,168,1383,201,133,4,0,1; 
+Proteins,30,HelveticaCentury,r,1155,216,1287,242,210,6,0,2; 
+transport,30,HelveticaCentury,r,1320,220,1482,249,210,8,0,2; 
+enzymes,30,HelveticaCentury,r,1495,224,1636,249,211,9,0,2; 
+Maintain,30,HelveticaCentury,r,1155,264,1299,290,211,11,0,3; 
+gradients,30,HelveticaCentury,r,1312,264,1463,297,209,12,0,3; 
+Model,50,HelveticaCentury,i,280,38,449,83,212,13,1,4; 
+of,50,HelveticaCentury,i,464,37,522,95,213,14,1,4; 
+Bacterial,50,HelveticaCentury,i,581,38,816,83,210,16,1,4; 
+Cell,50,HelveticaCentury,i,832,38,926,83,210,17,1,4; 
+Vjrulence,41,HelveticaCentury,r,1140,36,1381,75,29,19,2,6; 
+Factors,41,HelveticaCentury,r,1400,40,1560,75,211,20,2,6; 
+Ch,69,HelveticaCentury,r,1562,944,1654,1009,163,21,3,7; 

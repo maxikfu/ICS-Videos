@@ -1,0 +1,9 @@
+33o,42,HelveticaCentury,b,748,72,880,124,40,2,2,2; 
+flAJF,10,HelveticaCentury,r,734,335,877,455,32,3,2,3; 
+2o,42,HelveticaCentury,b,906,373,1001,425,31,4,2,3; 
+32o,42,HelveticaCentury,b,1292,83,1424,135,33,7,5,6; 
+Polling,18,Helvetica,b,1310,735,1384,757,205,11,8,10; 
+Closed,18,Helvetica,b,1392,735,1461,751,201,12,8,10; 
+it,24,HelveticaCentury,b,1334,913,1364,938,143,16,10,12; 
+Responses,18,Helvetica,b,1464,813,1586,834,199,18,12,14; 
+if,8,Helvetica,r,1550,1021,1566,1029,31,25,15,20; 

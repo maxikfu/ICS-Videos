@@ -1,0 +1,15 @@
+Question,21,HelveticaCentury,r,265,81,361,103,169,0,0,0; 
+Answer,20,Times,r,315,126,396,143,202,3,0,1; 
+Answer,20,Times,r,315,168,397,185,206,6,0,2; 
+Answer,20,Times,r,315,211,397,229,210,9,0,3; 
+Answer,20,Times,r,316,255,397,272,210,12,0,4; 
+Answer,20,Times,r,315,297,396,314,210,15,0,5; 
+Answer,20,HelveticaCentury,r,315,340,396,358,209,18,0,6; 
+Answer,20,HelveticaCentury,r,315,384,397,401,180,21,0,7; 
+Answer,21,Times,r,315,426,397,444,186,24,0,8; 
+Responses,19,Helvetica,b,1130,529,1253,550,208,26,1,9; 
+317PM,19,Helvetica,b,1548,1015,1637,1035,148,31,2,12; 
+TurningPoint,26,HelveticaCentury,r,771,19,956,51,139,34,3,14; 
+Presentation,26,HelveticaCentury,r,989,20,1164,44,196,36,3,14; 
+Polling,19,Helvetica,b,976,450,1051,473,185,38,5,16; 
+Closed,19,Helvetica,b,1058,450,1128,467,204,39,5,16; 

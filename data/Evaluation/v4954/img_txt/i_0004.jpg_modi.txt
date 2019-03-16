@@ -1,0 +1,7 @@
+Ez,33,HelveticaCentury,b,172,1029,218,1073,108,0,0,0; 
+2L,21,Times,r,588,1056,737,1079,119,2,0,0; 
+Polling,14,Helvetica,r,1724,21,1776,37,223,3,1,1; 
+Closed,14,Helvetica,r,1782,21,1831,33,228,4,1,1; 
+Responses,14,Helvetica,r,1833,77,1919,92,217,5,1,2; 
+Channel,50,HelveticaCentury,r,1634,206,1847,252,219,12,1,6; 
+ilI,14,Helvetica,r,1702,1045,1720,1060,21,16,1,8; 

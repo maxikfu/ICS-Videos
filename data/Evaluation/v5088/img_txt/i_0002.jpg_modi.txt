@@ -1,0 +1,8 @@
+Relay,18,Helvetica,r,346,204,399,226,223,1,0,0; 
+Recorder,18,Helvetica,r,407,204,497,221,223,2,0,0; 
+SelfHosted,18,Helvetica,r,505,204,635,225,210,3,0,0; 
+GB,13,Helvetica,r,335,421,354,433,217,5,0,1; 
+free,14,Helvetica,r,360,420,386,433,224,6,0,1; 
+Jift1j,42,HelveticaCentury,r,421,370,557,422,23,12,4,5; 
+Eg,18,Helvetica,r,1739,1043,1758,1061,26,20,9,10; 
+PM,14,Helvetica,r,1866,1034,1889,1047,220,22,10,11; 

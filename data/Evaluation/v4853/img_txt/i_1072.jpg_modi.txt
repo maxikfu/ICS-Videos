@@ -1,0 +1,9 @@
+dyin,54,HelveticaCentury,i,529,37,650,100,107,1,0,0; 
+To,54,HelveticaCentury,i,713,41,773,87,213,3,0,0; 
+Con,54,HelveticaCentury,i,937,40,1043,87,213,7,0,0; 
+cep,54,HelveticaCentury,i,1049,51,1146,100,201,8,0,0; 
+app,54,HelveticaCentury,i,1255,51,1363,100,210,11,0,0; 
+in,54,HelveticaCentury,i,1368,38,1418,86,159,12,0,0; 
+review,41,HelveticaCentury,r,988,950,1140,987,211,14,0,1; 
+sheet,41,HelveticaCentury,r,1157,950,1280,988,210,15,0,1; 
+outline,41,HelveticaCentury,r,1296,950,1456,987,208,16,0,1; 

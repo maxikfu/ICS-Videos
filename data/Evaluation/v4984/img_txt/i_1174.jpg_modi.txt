@@ -1,0 +1,6 @@
+Chapter,50,HelveticaCentury,i,281,46,489,102,212,0,0,0; 
+Viruses,50,HelveticaCentury,i,600,46,798,99,190,2,1,1; 
+Part,50,HelveticaCentury,i,818,48,929,90,212,3,1,1; 
+Structure,50,HelveticaCentury,i,278,124,533,176,204,5,2,2; 
+Function,50,HelveticaCentury,i,554,123,791,176,206,6,2,2; 
+Classification,50,HelveticaCentury,i,873,121,1216,179,210,8,2,2; 

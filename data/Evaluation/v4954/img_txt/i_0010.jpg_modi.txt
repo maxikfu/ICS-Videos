@@ -1,0 +1,5 @@
+Polling,19,Helvetica,r,1318,25,1392,48,221,2,1,1; 
+Closed,19,Helvetica,r,1400,26,1470,42,226,3,1,1; 
+Responses,19,Helvetica,r,1472,104,1594,125,219,6,2,2; 
+Channel,72,HelveticaCentury,r,1192,286,1492,351,214,8,4,4; 
+HON,72,HelveticaCentury,r,574,1003,695,1077,219,11,5,6; 

@@ -1,0 +1,14 @@
+oSO,18,Helvetica,r,289,417,335,434,44,3,0,3; 
+oI,9,Helvetica,r,291,552,303,559,23,11,0,11; 
+Pa,26,HelveticaCentury,r,289,621,335,654,68,15,0,15; 
+o20,18,Helvetica,r,293,724,335,740,48,19,0,19; 
+Cumulative,33,HelveticaCentury,r,586,56,770,87,208,22,1,22; 
+Number,33,HelveticaCentury,r,781,56,912,88,211,23,1,22; 
+of,33,HelveticaCentury,r,920,56,953,87,212,24,1,22; 
+LaboratoryConfirmed,33,HelveticaCentury,r,965,56,1322,95,194,25,1,22; 
+Influenza,33,HelveticaCentury,r,584,113,729,145,137,26,1,23; 
+Hospitalizations,33,HelveticaCentury,r,741,113,1006,152,198,27,1,23; 
+Seasons,33,HelveticaCentury,r,1199,115,1327,145,212,29,1,23; 
+iO,18,Times,r,1296,959,1315,976,27,61,5,27; 
+MMWR,17,Helvetica,r,927,999,993,1015,126,69,6,28; 
+Week,19,Times,r,1001,998,1049,1015,207,70,6,28; 

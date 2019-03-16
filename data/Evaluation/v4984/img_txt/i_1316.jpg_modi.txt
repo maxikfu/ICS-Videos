@@ -1,0 +1,9 @@
+oI,10,Helvetica,r,291,552,303,559,23,9,1,9; 
+Cumulative,33,HelveticaCentury,r,586,56,770,87,206,53,7,22; 
+Number,33,HelveticaCentury,r,781,56,912,88,211,54,7,22; 
+of,33,HelveticaCentury,r,920,56,953,87,212,55,7,22; 
+LaboratoryConfirmed,33,HelveticaCentury,r,965,56,1322,95,194,56,7,22; 
+Influenza,33,HelveticaCentury,r,584,113,729,145,184,57,7,23; 
+Hospitalizations,33,HelveticaCentury,r,741,113,1006,152,198,58,7,23; 
+Seasons,33,HelveticaCentury,r,1199,115,1327,145,206,69,11,27; 
+PM,23,HelveticaCentury,b,1603,1015,1637,1035,205,80,18,35; 

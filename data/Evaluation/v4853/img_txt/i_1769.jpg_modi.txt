@@ -1,0 +1,17 @@
+Micro,51,HelveticaCentury,bi,744,31,893,76,212,3,2,3; 
+defin,51,HelveticaCentury,bi,976,30,1106,87,115,6,2,3; 
+itlo,51,HelveticaCentury,bi,1110,31,1194,76,123,7,2,3; 
+contradictions,51,HelveticaCentury,bi,808,109,1181,154,207,9,2,4; 
+Connective,17,Helvetica,r,277,565,389,580,56,11,3,6; 
+tissue,17,Helvetica,r,397,566,454,580,41,12,3,6; 
+Nervous,17,Helvetica,r,290,986,370,1000,186,13,4,7; 
+sie,17,Helvetica,r,392,989,434,1000,37,15,4,7; 
+Thiomargarita,30,HelveticaCentury,bi,264,386,502,421,158,16,5,8; 
+namibiensis,30,HelveticaCentury,bi,510,386,706,414,183,17,5,8; 
+ttwe,17,Helvetica,b,385,846,442,859,26,19,6,9; 
+Tissues,35,HelveticaCentury,b,290,1031,431,1063,204,20,7,10; 
+coa,14,Helvetica,bi,881,901,903,912,46,22,8,11; 
+bactanum,15,Helvetica,r,976,905,1054,925,32,23,8,11; 
+Viruses,35,HelveticaCentury,b,582,934,724,973,194,24,8,12; 
+bacterial,35,HelveticaCentury,b,616,979,771,1019,100,26,8,13; 
+parasites,35,HelveticaCentury,b,785,991,983,1032,79,27,8,13; 

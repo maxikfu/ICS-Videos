@@ -1,0 +1,9 @@
+CLICKER,62,HelveticaCentury,r,628,108,916,168,214,0,0,0; 
+PRACTICE,62,HelveticaCentury,r,944,109,1285,168,214,1,0,0; 
+Clicker,46,HelveticaCentury,r,394,286,561,329,207,3,0,1; 
+Channel,46,HelveticaCentury,r,580,286,784,329,209,4,0,1; 
+for,46,HelveticaCentury,r,807,284,896,341,209,5,0,1; 
+handheld,46,HelveticaCentury,r,916,286,1170,329,202,6,0,1; 
+response,46,HelveticaCentury,r,1195,300,1422,341,212,7,0,1; 
+pads,46,HelveticaCentury,r,1444,286,1560,340,213,8,0,1; 
+only,46,HelveticaCentury,r,394,362,534,418,206,9,0,2; 

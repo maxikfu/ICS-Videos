@@ -1,0 +1,12 @@
+B1,46,HelveticaCentury,r,664,40,710,103,23,1,0,0; 
+Which,47,HelveticaCentury,i,265,418,424,463,210,9,0,5; 
+bacteria,47,HelveticaCentury,i,442,418,658,463,211,10,0,5; 
+do,47,HelveticaCentury,i,675,418,739,463,211,11,0,5; 
+not,47,HelveticaCentury,i,756,424,845,463,212,12,0,5; 
+have,47,HelveticaCentury,i,860,418,986,463,211,13,0,5; 
+SOD,47,HelveticaCentury,i,1002,419,1124,471,203,14,0,5; 
+catalase,47,HelveticaCentury,i,1145,418,1375,471,93,15,0,5; 
+or,47,HelveticaCentury,i,1397,429,1452,463,212,16,0,5; 
+peroxidase,47,HelveticaCentury,i,258,495,578,552,172,17,0,6; 
+or,47,HelveticaCentury,i,937,507,994,540,214,23,0,6; 
+of,52,HelveticaCentury,r,1264,490,1317,536,207,28,0,6; 

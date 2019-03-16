@@ -1,0 +1,6 @@
+ftnf,40,HelveticaCentury,b,419,62,513,102,47,2,0,0; 
+Results,26,HelveticaCentury,r,736,121,834,145,203,5,3,3; 
+osed,19,Times,r,239,247,287,265,100,11,7,8; 
+for,26,HelveticaCentury,r,844,121,883,145,209,12,8,9; 
+Responses,20,HelveticaCentury,b,289,327,411,348,200,15,10,11; 
+PM,20,HelveticaCentury,b,1603,1015,1637,1034,205,32,25,28; 

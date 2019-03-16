@@ -1,0 +1,4 @@
+Results,25,HelveticaCentury,b,602,144,701,167,186,4,4,4; 
+ction,46,HelveticaCentury,b,1454,508,1577,549,53,12,10,11; 
+PM,21,HelveticaCentury,b,1603,1015,1637,1034,211,16,13,14; 
+521J19,22,HelveticaCentury,b,1574,1049,1652,1073,30,18,13,15; 

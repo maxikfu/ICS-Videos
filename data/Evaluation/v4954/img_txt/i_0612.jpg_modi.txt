@@ -1,0 +1,7 @@
+CH3,54,HelveticaCentury,bi,446,47,591,103,52,0,0,0; 
+Parti,53,Times,bi,614,48,807,95,98,1,0,0; 
+Prokaryote,54,HelveticaCentury,bi,402,129,727,193,169,2,0,1; 
+Cell,54,HelveticaCentury,bi,748,130,853,180,213,3,0,1; 
+Structure,54,HelveticaCentury,bi,320,218,592,266,211,4,0,2; 
+Function,54,HelveticaCentury,bi,679,217,929,266,210,6,0,2; 
+Ch,69,HelveticaCentury,b,1581,716,1673,781,173,9,2,4; 

@@ -1,0 +1,9 @@
+Week,18,Times,r,1001,998,1049,1015,207,2,1,1; 
+Seasons,33,HelveticaCentury,r,1199,115,1327,145,199,3,2,2; 
+Cumulative,33,HelveticaCentury,r,586,56,770,87,208,5,3,3; 
+Number,33,HelveticaCentury,r,781,56,912,88,211,6,3,3; 
+of,33,HelveticaCentury,r,920,56,953,87,212,7,3,3; 
+LaboratoryConfirmed,33,HelveticaCentury,r,965,56,1322,95,194,8,3,3; 
+Influenza,33,HelveticaCentury,r,584,113,729,145,137,9,3,4; 
+Hospitalizations,33,HelveticaCentury,r,741,113,1006,152,198,10,3,4; 
+oI,9,Helvetica,r,291,552,303,559,23,36,6,21; 

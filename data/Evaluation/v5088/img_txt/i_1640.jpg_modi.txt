@@ -1,0 +1,14 @@
+Physical,42,HelveticaCentury,i,570,28,761,78,210,0,0,0; 
+Agents,42,HelveticaCentury,i,772,31,938,78,212,1,0,0; 
+That,42,HelveticaCentury,i,956,29,1062,68,212,2,0,0; 
+Kill,42,HelveticaCentury,i,1076,28,1150,68,209,3,0,0; 
+Microbes,42,HelveticaCentury,i,1164,28,1381,68,211,4,0,0; 
+Cold,35,HelveticaCentury,r,321,187,405,220,205,6,0,1; 
+temperature,35,HelveticaCentury,r,419,192,679,228,201,7,0,1; 
+food,35,HelveticaCentury,r,705,187,790,220,211,8,0,1; 
+reservation,35,HelveticaCentury,r,348,247,561,278,207,9,0,2; 
+refrigerate,35,HelveticaCentury,r,579,244,803,286,201,10,0,2; 
+or,35,HelveticaCentury,r,321,311,360,334,214,11,0,3; 
+freeze,35,HelveticaCentury,r,373,301,489,334,212,12,0,3; 
+20C,35,HelveticaCentury,r,504,302,615,340,182,13,0,3; 
+80C,32,HelveticaCentury,r,631,300,745,342,178,18,4,7; 

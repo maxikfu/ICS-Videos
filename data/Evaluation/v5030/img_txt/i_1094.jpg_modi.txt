@@ -1,0 +1,6 @@
+Clicker,66,HelveticaCentury,r,660,100,890,162,208,0,0,0; 
+questions,66,HelveticaCentury,r,916,104,1254,178,214,1,0,0; 
+II,31,HelveticaCentury,r,688,1002,695,1032,28,3,1,1; 
+LLU,32,HelveticaCentury,r,575,1038,667,1079,61,4,1,2; 
+Choice,19,Helvetica,r,1373,644,1445,662,188,10,3,4; 
+Responses,19,Helvetica,r,1442,723,1565,744,202,11,4,5; 

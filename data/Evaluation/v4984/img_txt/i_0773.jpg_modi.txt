@@ -1,0 +1,16 @@
+Chemotaxis,32,HelveticaCentury,b,898,179,1111,209,78,2,1,1; 
+File,21,HelveticaCentury,b,394,80,431,99,181,7,6,6; 
+View,21,HelveticaCentury,b,461,79,513,99,201,8,7,7; 
+Play,21,HelveticaCentury,b,544,79,589,105,172,9,7,7; 
+Help,21,HelveticaCentury,b,620,79,670,105,169,10,7,7; 
+CH,25,HelveticaCentury,b,795,24,834,49,194,11,8,8; 
+Chernotaxis,25,HelveticaCentury,b,872,24,1028,49,132,13,8,8; 
+Swiff,25,HelveticaCentury,b,1059,24,1123,48,135,15,8,8; 
+Player,25,HelveticaCentury,b,1135,24,1215,55,204,16,8,8; 
+Seek,21,HelveticaCentury,b,384,913,432,933,195,18,10,10; 
+Bar,21,HelveticaCentury,b,441,913,475,933,209,19,10,10; 
+Copyright,25,HelveticaCentury,b,729,764,863,795,180,20,11,11; 
+Norton,25,HelveticaCentury,b,1028,765,1121,789,181,24,11,11; 
+Company,25,HelveticaCentury,b,1156,766,1286,795,210,26,11,11; 
+fps,21,HelveticaCentury,b,1140,913,1173,939,68,31,15,15; 
+Frame,21,HelveticaCentury,b,1198,913,1267,933,103,32,16,16; 

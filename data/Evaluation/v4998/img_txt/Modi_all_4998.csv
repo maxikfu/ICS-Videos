@@ -1,4 +1,4 @@
-Word, Fontsize, FontFamily, FontFaceStyle, Left, Top, Right, Bottom, RecognitionConfidence, Id, LineId, RegionId, ImageFile 
+Word,Fontsize,FontFamily,FontFaceStyle,Left,Top,Right,Bottom,RecognitionConfidence,Id,RegionId,LineId,imageFile
 Upcoming,40,HelveticaCentury,r,560,127,789,175,211,0,0,0,i_0077.jpg 
 Schedule,40,HelveticaCentury,r,805,127,1010,165,208,1,0,0,i_0077.jpg 
 next,40,Century,r,1059,131,1155,165,212,3,0,0,i_0077.jpg 

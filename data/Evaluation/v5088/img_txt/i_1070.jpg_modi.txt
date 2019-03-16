@@ -1,0 +1,17 @@
+Actions,50,HelveticaCentury,bi,493,54,689,99,212,0,0,0; 
+of,50,HelveticaCentury,bi,706,52,764,110,214,1,0,0; 
+Microbial,50,HelveticaCentury,bi,775,54,1026,99,210,2,0,0; 
+Control,50,HelveticaCentury,bi,1042,54,1234,99,210,3,0,0; 
+Agen,50,HelveticaCentury,bi,1246,56,1383,110,194,4,0,0; 
+Thetargetsof,41,HelveticaCentury,b,332,165,645,213,179,5,0,1; 
+antimicrobial,41,HelveticaCentury,b,659,165,950,203,198,6,0,1; 
+agents,41,HelveticaCentury,b,969,169,1114,213,204,7,0,1; 
+are,41,HelveticaCentury,b,1132,176,1213,203,197,8,0,1; 
+Plasma,34,HelveticaCentury,b,310,259,446,291,210,9,0,2; 
+membrane,34,HelveticaCentury,b,463,259,675,291,210,10,0,2; 
+surlactait,16,Times,r,538,342,629,357,30,13,2,4; 
+15j,11,Helvetica,r,494,422,509,435,24,17,4,7; 
+FI,6,Helvetica,r,535,419,601,488,193,22,9,12; 
+I1,8,Helvetica,b,673,427,683,436,27,27,12,17; 
+cytoplasm,23,Times,r,292,539,395,558,160,29,14,19; 
+r31OPM,23,HelveticaCentury,b,1524,1003,1637,1043,37,35,18,23; 

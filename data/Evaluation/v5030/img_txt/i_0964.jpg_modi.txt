@@ -1,0 +1,11 @@
+Channel,29,HelveticaCentury,r,257,11,380,39,206,0,0,0; 
+Reversibility,41,HelveticaCentury,r,324,44,591,92,209,3,0,1; 
+of,41,HelveticaCentury,r,608,44,653,82,212,4,0,1; 
+reaction,41,HelveticaCentury,r,669,45,848,82,208,5,0,1; 
+Redox,40,HelveticaCentury,r,326,123,464,161,193,7,1,2; 
+couple,40,HelveticaCentury,r,480,123,645,170,202,8,1,2; 
+effect,41,HelveticaCentury,r,918,44,1042,82,210,12,2,3; 
+on,41,HelveticaCentury,r,1059,55,1111,82,212,13,2,3; 
+reduction,41,HelveticaCentury,r,1132,44,1343,82,210,14,2,3; 
+potential,41,HelveticaCentury,r,1364,44,1575,92,205,15,2,3; 
+mV,40,HelveticaCentury,r,1429,126,1503,161,141,18,3,4; 

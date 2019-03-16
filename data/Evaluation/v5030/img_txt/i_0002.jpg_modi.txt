@@ -1,0 +1,9 @@
+TechSmith,18,Helvetica,r,193,166,299,183,40,0,0,0; 
+Relay,18,Helvetica,r,308,166,361,188,210,1,0,0; 
+Recorder,18,Helvetica,r,369,166,459,183,210,2,0,0; 
+SelfHosted,18,Helvetica,r,467,166,597,187,206,3,0,0; 
+JIE,55,HelveticaCentury,r,509,332,550,382,45,9,0,3; 
+GB,14,Helvetica,r,297,383,316,395,206,11,0,4; 
+free,14,Helvetica,r,321,382,348,395,209,12,0,4; 
+iiI,13,Helvetica,b,1702,1045,1720,1060,24,19,5,9; 
+PM,14,Helvetica,r,1866,1034,1889,1047,210,22,6,10; 

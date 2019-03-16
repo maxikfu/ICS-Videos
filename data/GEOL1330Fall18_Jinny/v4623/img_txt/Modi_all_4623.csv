@@ -1,4 +1,4 @@
-Word,Fontsize,FontFamily,FontFaceStyle,Left,Top,Right,Bottom,RecognitionConfidence,Id,LineId,RegionId,imageFile
+Word,Fontsize,FontFamily,FontFaceStyle,Left,Top,Right,Bottom,RecognitionConfidence,Id,RegionId,LineId,imageFile
 Top,11,Helvetica,r,41,9,61,21,209,2,1,1,i_0002.jpg 
 Hat,11,Helvetica,r,66,9,83,18,199,3,1,1,i_0002.jpg 
 Secure,11,Helvetica,r,123,41,163,51,197,7,1,2,i_0002.jpg 

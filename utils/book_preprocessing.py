@@ -42,7 +42,7 @@ def clean(path):
                     block.append(l.strip() + ' ')
                     start = True
         if len(l.split()) == 0 and start and len(block) > 0:  # we met end of block
-            if str(block[-1].strip()[-1]) in ['.', '?']:  # if block ends with . ? valid block
+            if str(block[-1].strip()[-1]) in ['.', '?', '!']:  # if block ends with . ? valid block
                 raw4.append(block)
                 raw4.append('\n\n')
                 start = False
@@ -60,4 +60,4 @@ def clean(path):
 
 
 if __name__ == '__main__':
-    clean('Earth.txt')
+    clean('../data/Books/Microbiology_full.txt')

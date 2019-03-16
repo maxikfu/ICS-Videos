@@ -1,0 +1,17 @@
+Obligate,29,HelveticaCentury,r,412,364,562,397,198,1,0,1; 
+strict,29,HelveticaCentury,r,430,409,543,443,199,2,0,2; 
+aerobe,29,HelveticaCentury,r,424,456,550,482,189,3,0,3; 
+Obligate,29,HelveticaCentury,r,883,374,1033,407,206,4,1,4; 
+anaerobe,29,HelveticaCentury,r,873,420,1044,447,172,5,1,5; 
+Aerotolera,29,HelveticaCentury,r,1070,374,1261,400,108,6,2,6; 
+nt,29,HelveticaCentury,r,1267,377,1303,400,182,7,2,6; 
+anaerobe,29,HelveticaCentury,r,1101,420,1272,447,175,8,2,7; 
+Aerobe,35,HelveticaCentury,r,275,583,417,615,180,9,3,8; 
+Anaerobe,35,HelveticaCentury,r,275,805,466,837,178,11,3,10; 
+Obligate,29,HelveticaCentury,r,278,869,423,903,205,12,3,11; 
+Aerotolerant,29,HelveticaCentury,r,444,870,654,896,117,13,3,11; 
+Fa,35,HelveticaCentury,r,278,984,315,1015,193,14,3,12; 
+cultative,35,HelveticaCentury,r,320,982,488,1015,115,15,3,12; 
+Facultative,29,HelveticaCentury,r,632,374,829,400,42,16,4,13; 
+Li,63,HelveticaCentury,r,1416,277,1469,341,134,17,5,14; 
+Microaerophile,29,HelveticaCentury,r,1341,375,1538,400,28,18,5,15; 

@@ -1,0 +1,10 @@
+Antibiotics,42,HelveticaCentury,r,356,57,607,95,218,1,0,0; 
+natural,42,HelveticaCentury,r,641,56,794,95,219,2,0,0; 
+antimicrobial,42,HelveticaCentury,r,813,56,1104,95,218,3,0,0; 
+agents,42,HelveticaCentury,r,1123,61,1267,104,218,4,0,0; 
+produced,42,HelveticaCentury,r,1287,56,1495,104,218,5,0,0; 
+by,42,HelveticaCentury,r,1516,57,1565,104,218,6,0,0; 
+bacteria,42,HelveticaCentury,r,360,124,549,171,221,7,0,1; 
+fungi,42,HelveticaCentury,r,567,124,677,172,219,8,0,1; 
+II,20,HelveticaCentury,r,232,968,240,1000,19,9,0,2; 
+ILT,85,HelveticaCentury,r,785,1000,973,1079,219,12,0,3; 

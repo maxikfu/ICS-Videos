@@ -1,0 +1,6 @@
+Results,26,HelveticaCentury,r,782,20,880,44,211,0,0,0; 
+for,26,HelveticaCentury,r,891,20,930,44,210,1,0,0; 
+Question,26,HelveticaCentury,r,945,19,1078,47,185,2,0,0; 
+Polling,19,Helvetica,r,1204,75,1279,98,202,4,1,1; 
+Closed,19,Helvetica,r,1286,75,1356,92,208,5,1,1; 
+Responses,19,Helvetica,r,1358,153,1480,175,188,6,2,2; 

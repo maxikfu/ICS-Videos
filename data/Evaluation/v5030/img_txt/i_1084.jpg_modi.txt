@@ -1,0 +1,4 @@
+tia,75,HelveticaCentury,b,688,1003,780,1077,54,9,6,6; 
+PM,21,HelveticaCentury,b,1603,1015,1637,1034,213,12,8,8; 
+Polling,21,HelveticaCentury,b,671,792,743,816,207,15,10,11; 
+Closed,21,HelveticaCentury,b,753,792,827,811,205,16,10,11; 

@@ -1,0 +1,9 @@
+Flagellar,41,HelveticaCentury,r,347,68,538,115,72,1,0,0; 
+motion,41,HelveticaCentury,r,555,68,717,106,212,2,0,0; 
+Id,7,Helvetica,r,692,367,776,403,20,3,1,1; 
+to,35,HelveticaCentury,r,967,1014,1007,1042,210,5,2,2; 
+Biased,35,HelveticaCentury,r,1023,1010,1147,1043,209,6,2,2; 
+Receptors,13,Helvetica,r,866,223,962,239,115,10,6,6; 
+for,13,Helvetica,r,866,241,889,254,180,11,6,7; 
+uttractantii,12,Helvetica,r,866,261,964,271,33,12,6,8; 
+tLVO,29,HelveticaCentury,i,1074,688,1168,727,36,13,6,9; 

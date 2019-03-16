@@ -1,0 +1,7 @@
+Bacteria,66,HelveticaCentury,r,751,104,1028,162,206,0,0,0; 
+are,66,HelveticaCentury,r,1059,119,1166,162,214,1,0,0; 
+type,46,HelveticaCentury,r,643,279,756,327,209,4,1,1; 
+of,46,HelveticaCentury,r,775,273,826,317,212,5,1,1; 
+gen,44,HelveticaCentury,r,489,405,623,443,34,7,2,2; 
+ca,44,HelveticaCentury,r,822,520,871,548,205,16,7,7; 
+cut,44,HelveticaCentury,r,532,744,645,791,22,21,12,12; 

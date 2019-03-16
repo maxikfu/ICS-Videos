@@ -1,0 +1,15 @@
+IiLA,4,Helvetica,r,552,1051,736,1079,31,2,0,1; 
+Polling,13,Helvetica,r,1724,21,1776,37,223,3,1,2; 
+Closed,13,Helvetica,r,1782,21,1831,33,227,4,1,2; 
+ill,14,Helvetica,r,1702,1045,1720,1060,22,6,2,3; 
+Responses,14,Helvetica,r,1833,77,1919,92,217,8,3,4; 
+TechSmith,18,Helvetica,r,50,47,184,71,169,11,6,7; 
+Relay,18,Helvetica,r,194,52,247,74,223,12,6,7; 
+Recorder,18,Helvetica,r,255,52,345,69,223,13,6,7; 
+SelfHosted,18,Helvetica,r,353,52,483,73,201,14,6,7; 
+GB,13,Helvetica,r,183,269,202,281,217,27,6,10; 
+free,13,Helvetica,r,207,268,234,281,224,28,6,10; 
+DOD,26,HelveticaCentury,r,491,242,524,266,193,30,8,12; 
+Ii,22,HelveticaCentury,r,450,268,469,287,23,33,10,14; 
+Channel,49,HelveticaCentury,r,1634,206,1847,252,217,42,15,22; 
+PM,14,Helvetica,r,1866,1034,1889,1047,219,47,17,25; 

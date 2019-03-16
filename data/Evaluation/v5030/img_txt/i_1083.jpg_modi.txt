@@ -1,0 +1,7 @@
+questions,61,HelveticaCentury,r,916,104,1254,177,206,3,1,1; 
+rrjj,17,Helvetica,r,636,295,665,308,38,6,3,3; 
+Lc,13,HelveticaCentury,r,671,293,679,306,55,7,3,3; 
+1l,13,HelveticaCentury,r,536,668,562,684,24,16,6,8; 
+Polling,21,HelveticaCentury,b,671,792,743,816,210,20,10,12; 
+Closed,21,HelveticaCentury,b,753,792,827,811,208,21,10,12; 
+Ii,24,HelveticaCentury,r,917,1056,928,1079,26,26,14,16; 

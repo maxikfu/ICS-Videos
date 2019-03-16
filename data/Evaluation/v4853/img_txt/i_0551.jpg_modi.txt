@@ -1,0 +1,12 @@
+Clickers,55,HelveticaCentury,r,442,44,679,103,203,0,0,0; 
+aka,55,HelveticaCentury,r,701,44,798,95,200,1,0,0; 
+Student,55,HelveticaCentury,r,821,44,1052,95,212,2,0,0; 
+Response,55,HelveticaCentury,r,1075,48,1352,107,213,3,0,0; 
+Pads,55,HelveticaCentury,r,1376,44,1507,94,213,4,0,0; 
+Mobile,39,HelveticaCentury,r,284,176,436,213,210,5,1,1; 
+App,39,HelveticaCentury,r,452,179,539,221,212,6,1,1; 
+RepsonseWare,39,HelveticaCentury,r,557,176,916,223,128,7,1,1; 
+No,39,HelveticaCentury,r,1000,179,1058,213,213,9,3,3; 
+Longer,39,HelveticaCentury,r,1076,179,1223,221,210,10,3,3; 
+Allowed,39,HelveticaCentury,r,1238,176,1416,213,213,11,3,3; 
+WH,39,HelveticaCentury,r,1498,179,1576,213,64,13,5,5; 

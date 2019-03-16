@@ -1,0 +1,4 @@
+Polling,18,Helvetica,b,1567,13,1641,35,204,0,0,0; 
+Cic,18,Helvetica,b,1649,13,1679,30,102,1,0,0; 
+Chann,70,HelveticaCentury,r,1441,273,1675,338,196,2,1,1; 
+1J,85,HelveticaCentury,r,807,1002,895,1078,32,6,3,3; 

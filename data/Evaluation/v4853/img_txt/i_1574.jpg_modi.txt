@@ -1,0 +1,7 @@
+Resu,27,HelveticaCentury,r,438,183,501,207,159,3,1,2; 
+Its,27,HelveticaCentury,r,506,182,536,207,148,4,1,2; 
+for,27,HelveticaCentury,r,546,181,585,207,203,5,1,2; 
+Question,27,HelveticaCentury,r,596,183,734,208,135,6,1,2; 
+ILi,84,HelveticaCentury,r,908,1000,946,1078,40,19,10,12; 
+PM,21,HelveticaCentury,r,1603,1015,1637,1034,209,21,11,13; 
+hii,16,Helvetica,r,1533,1049,1569,1073,26,22,12,14; 

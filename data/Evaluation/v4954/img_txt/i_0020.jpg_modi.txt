@@ -1,0 +1,2 @@
+ToII,18,Helvetica,r,1639,14,1678,31,28,0,0,0; 
+Char,69,HelveticaCentury,r,1513,275,1676,339,205,2,1,1; 

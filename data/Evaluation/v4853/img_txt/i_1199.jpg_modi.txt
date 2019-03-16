@@ -1,0 +1,13 @@
+How,41,HelveticaCentury,r,293,936,391,971,213,1,0,1; 
+to,41,HelveticaCentury,r,406,937,450,971,212,2,0,1; 
+do,41,HelveticaCentury,r,468,933,535,971,206,3,0,1; 
+consult,41,HelveticaCentury,r,566,933,727,971,211,4,0,1; 
+blackboard,41,HelveticaCentury,r,745,933,989,971,212,5,0,1; 
+document,41,HelveticaCentury,r,1008,933,1248,971,209,6,0,1; 
+Study,41,HelveticaCentury,r,1281,932,1428,980,196,7,0,1; 
+Tips,41,HelveticaCentury,r,1442,934,1530,980,211,8,0,1; 
+for,41,HelveticaCentury,r,1546,933,1609,971,213,9,0,1; 
+Success,41,HelveticaCentury,r,290,1003,460,1038,213,10,0,2; 
+in,41,HelveticaCentury,r,479,1001,513,1038,210,11,0,2; 
+Biology,41,HelveticaCentury,r,534,1000,694,1048,211,12,0,2; 
+Courses,41,HelveticaCentury,r,711,1000,906,1038,202,13,0,2; 

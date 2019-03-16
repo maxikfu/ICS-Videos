@@ -1,0 +1,5 @@
+Clicker,66,HelveticaCentury,b,660,100,890,162,208,1,1,1; 
+questions,66,HelveticaCentury,b,916,104,1254,178,214,2,1,1; 
+Polling,18,Helvetica,b,893,444,955,465,194,3,1,2; 
+Closed,18,Helvetica,b,962,444,1024,461,107,4,1,2; 
+If,5,Helvetica,b,603,511,616,516,40,5,2,3; 

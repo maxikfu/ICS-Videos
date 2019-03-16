@@ -1,0 +1,8 @@
+Actions,50,HelveticaCentury,i,493,54,689,99,212,0,0,0; 
+of,50,HelveticaCentury,i,706,52,764,110,214,1,0,0; 
+Micro,50,HelveticaCentury,i,775,54,925,99,209,2,0,0; 
+Agents,50,HelveticaCentury,i,1246,56,1431,110,210,4,0,0; 
+Thetargetsof,41,HelveticaCentury,r,332,165,645,213,179,6,0,1; 
+antimicrobial,41,HelveticaCentury,r,659,165,950,203,198,7,0,1; 
+agents,41,HelveticaCentury,r,969,169,1114,213,204,8,0,1; 
+are,41,HelveticaCentury,r,1132,176,1213,203,197,9,0,1; 

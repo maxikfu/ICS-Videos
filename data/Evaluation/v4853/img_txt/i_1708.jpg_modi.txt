@@ -1,0 +1,6 @@
+Conriectre,17,Helvetica,r,277,565,389,580,30,2,0,1; 
+Micro,51,HelveticaCentury,bi,744,31,893,76,211,6,2,3; 
+defin,51,HelveticaCentury,bi,976,30,1106,87,127,9,2,3; 
+itlo,51,HelveticaCentury,bi,1110,31,1194,76,123,10,2,3; 
+contradictions,51,HelveticaCentury,bi,808,109,1181,154,209,12,2,4; 
+Eptheflal,17,Helvetica,r,281,844,376,862,28,13,3,5; 

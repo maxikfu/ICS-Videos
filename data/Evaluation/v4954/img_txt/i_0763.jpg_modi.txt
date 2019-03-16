@@ -1,0 +1,7 @@
+Model,50,HelveticaCentury,i,280,38,449,83,218,0,0,0; 
+of,50,HelveticaCentury,i,464,37,522,94,216,1,0,0; 
+Bacterial,50,HelveticaCentury,i,581,38,816,83,217,3,0,0; 
+Cell,50,HelveticaCentury,i,832,38,926,83,217,4,0,0; 
+Vjrulence,41,HelveticaCentury,r,1140,35,1381,75,216,5,0,0; 
+Factors,41,HelveticaCentury,r,1400,40,1560,75,222,6,0,0; 
+Ch,69,HelveticaCentury,r,1562,944,1654,1009,212,7,1,1; 

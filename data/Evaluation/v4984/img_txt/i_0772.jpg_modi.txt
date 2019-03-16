@@ -1,0 +1,16 @@
+File,21,HelveticaCentury,r,395,79,431,99,204,3,3,3; 
+View,21,HelveticaCentury,r,461,79,512,99,194,4,4,4; 
+Play,21,HelveticaCentury,r,544,79,589,105,210,5,5,5; 
+Help,21,HelveticaCentury,r,620,79,670,105,210,6,5,5; 
+CH,26,HelveticaCentury,r,796,24,834,48,197,7,6,6; 
+Chernotaxis,26,HelveticaCentury,r,871,24,1027,48,86,9,6,6; 
+Swiff,26,HelveticaCentury,r,1058,24,1124,49,157,11,6,6; 
+Player,26,HelveticaCentury,r,1135,24,1215,55,205,12,6,6; 
+Chemotaxis,33,HelveticaCentury,r,898,179,1111,209,172,13,7,7; 
+Ready,21,HelveticaCentury,r,384,913,450,939,205,15,9,9; 
+Copyright,26,HelveticaCentury,r,730,764,863,796,155,16,10,10; 
+Norton,26,HelveticaCentury,r,1028,765,1121,789,184,20,10,10; 
+Company,26,HelveticaCentury,r,1156,766,1286,796,212,22,10,10; 
+fps,21,HelveticaCentury,r,1140,913,1172,939,37,24,11,11; 
+Frame,21,HelveticaCentury,r,1198,913,1267,933,45,25,12,12; 
+0OOl,22,HelveticaCentury,r,1447,913,1520,935,22,27,13,13; 

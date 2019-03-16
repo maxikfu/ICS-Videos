@@ -1,0 +1,7 @@
+Cultivci,50,HelveticaCentury,bi,328,96,508,141,201,1,1,1; 
+tin,50,HelveticaCentury,bi,512,96,578,141,218,2,1,1; 
+viruses,50,HelveticaCentury,bi,632,96,811,141,218,4,1,1; 
+Win,10,Helvetica,i,1072,467,1101,476,58,5,2,2; 
+nbctlons,10,Helvetica,i,1109,467,1163,476,27,6,2,2; 
+aid,10,Helvetica,i,1167,467,1188,476,128,7,2,2; 
+dma,10,Helvetica,r,1192,467,1237,476,16,8,2,2; 

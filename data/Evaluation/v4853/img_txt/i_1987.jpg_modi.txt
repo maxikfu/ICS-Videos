@@ -1,0 +1,9 @@
+Hypothetically,60,HelveticaCentury,r,317,66,803,135,205,0,0,0; 
+could,60,HelveticaCentury,r,828,66,1002,123,213,1,0,0; 
+Results,26,HelveticaCentury,r,361,154,460,179,204,4,2,2; 
+for,26,HelveticaCentury,r,471,155,509,179,211,5,2,2; 
+Question,26,HelveticaCentury,r,520,155,658,182,136,6,2,2; 
+II,81,HelveticaCentury,r,807,1003,813,1077,30,8,3,3; 
+Polling,20,HelveticaCentury,r,776,451,851,474,171,9,4,4; 
+Closed,18,Times,r,859,451,928,469,202,10,4,4; 
+Responses,20,HelveticaCentury,r,930,530,1053,551,196,11,5,5; 

@@ -1,0 +1,5 @@
+TechSmith,13,Helvetica,r,510,503,588,515,35,1,0,0; 
+Relay,13,Helvetica,r,594,503,633,520,201,2,0,0; 
+Recorder,13,Helvetica,r,640,503,707,515,199,3,0,0; 
+Self,13,Helvetica,r,712,502,745,519,196,4,0,0; 
+Channel,35,HelveticaCentury,r,1427,138,1579,171,212,7,2,2; 

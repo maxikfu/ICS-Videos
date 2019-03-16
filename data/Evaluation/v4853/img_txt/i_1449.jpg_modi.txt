@@ -1,0 +1,12 @@
+Bacteria,68,HelveticaCentury,r,751,104,1028,162,206,0,0,0; 
+are,68,HelveticaCentury,r,1059,119,1166,162,214,1,0,0; 
+Results,27,HelveticaCentury,b,597,283,697,308,193,2,0,1; 
+for,27,HelveticaCentury,b,707,283,745,307,210,3,0,1; 
+lQuestiorl,27,HelveticaCentury,b,756,282,895,310,31,4,0,1; 
+Polling,18,Helvetica,b,1350,66,1424,89,154,7,1,2; 
+Closed,18,Helvetica,b,1432,66,1502,83,183,8,1,2; 
+Responses,19,Helvetica,bi,1504,145,1627,167,182,9,2,3; 
+Channel,68,HelveticaCentury,r,1225,327,1525,392,214,11,4,5; 
+ii,52,HelveticaCentury,r,1426,472,1446,549,32,17,9,10; 
+ction,46,HelveticaCentury,b,1454,508,1577,549,71,18,9,10; 
+PM,23,HelveticaCentury,b,1603,1015,1637,1034,199,20,10,11; 

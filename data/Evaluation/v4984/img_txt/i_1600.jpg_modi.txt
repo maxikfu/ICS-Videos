@@ -1,0 +1,17 @@
+The,35,HelveticaCentury,r,319,43,389,75,212,1,0,0; 
+virion,35,HelveticaCentury,r,403,44,514,75,117,2,0,0; 
+consists,35,HelveticaCentury,r,529,44,679,75,205,3,0,0; 
+of,35,HelveticaCentury,r,694,42,732,75,212,4,0,0; 
+nucleic,35,HelveticaCentury,r,745,42,877,75,209,5,0,0; 
+acid,35,HelveticaCentury,r,891,43,965,75,205,6,0,0; 
+DNARNA,35,HelveticaCentury,r,983,41,1196,83,150,7,0,0; 
+in,35,HelveticaCentury,r,1212,43,1242,75,201,8,0,0; 
+protein,35,HelveticaCentury,r,356,101,492,141,212,10,0,1; 
+shell,35,HelveticaCentury,r,509,100,593,133,213,11,0,1; 
+capsid,35,HelveticaCentury,r,700,100,833,141,169,14,0,1; 
+comprised,35,HelveticaCentury,r,849,100,1048,141,213,15,0,1; 
+of,35,HelveticaCentury,r,1064,100,1102,132,212,16,0,1; 
+repeating,35,HelveticaCentury,r,322,158,503,197,208,17,0,2; 
+protein,35,HelveticaCentury,r,519,158,654,197,212,18,0,2; 
+subunits,35,HelveticaCentury,r,671,156,842,196,210,19,0,2; 
+capsomeres,35,HelveticaCentury,r,857,166,1102,197,105,20,0,2; 

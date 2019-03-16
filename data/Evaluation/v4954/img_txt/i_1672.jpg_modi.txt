@@ -1,0 +1,1 @@
+Layer,66,HelveticaCentury,i,403,70,601,142,213,1,0,0; 

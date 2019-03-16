@@ -1,0 +1,5 @@
+Channel,29,HelveticaCentury,r,257,11,380,39,201,0,0,0; 
+Redox,40,HelveticaCentury,r,305,83,443,121,193,2,0,1; 
+couple,40,HelveticaCentury,r,459,83,623,131,204,3,0,1; 
+02H20,40,HelveticaCentury,r,642,80,810,134,32,4,0,1; 
+82OmV,40,HelveticaCentury,r,1015,87,1186,128,90,9,0,1; 

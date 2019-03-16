@@ -1,0 +1,10 @@
+Studying,54,HelveticaCentury,i,430,37,689,100,211,0,0,0; 
+Tool,54,HelveticaCentury,i,713,37,832,87,213,1,0,0; 
+Concept,54,HelveticaCentury,i,937,40,1174,100,213,3,0,0; 
+Mapping,54,HelveticaCentury,i,1192,38,1457,100,210,4,0,0; 
+Use,41,HelveticaCentury,r,752,952,832,987,211,5,0,1; 
+exam,41,HelveticaCentury,r,849,961,969,987,211,6,0,1; 
+review,41,HelveticaCentury,r,988,950,1140,987,211,7,0,1; 
+sheet,41,HelveticaCentury,r,1157,950,1280,988,212,8,0,1; 
+outline,41,HelveticaCentury,r,1296,950,1456,987,208,9,0,1; 
+PM,21,HelveticaCentury,r,1603,1015,1637,1034,211,11,1,2; 

@@ -1,0 +1,8 @@
+BBQuizl,48,HelveticaCentury,r,396,238,640,290,28,2,1,1; 
+CASA,48,HelveticaCentury,r,394,332,531,376,188,4,1,2; 
+Scheduler,48,HelveticaCentury,r,548,331,807,376,201,5,1,2; 
+Blackboard,48,HelveticaCentury,r,995,592,1291,634,211,7,3,4; 
+Quizzes,48,HelveticaCentury,r,1311,592,1517,637,212,8,3,4; 
+II,7,Helvetica,r,1528,24,1556,40,21,11,4,7; 
+Char,69,HelveticaCentury,r,1513,274,1676,339,204,12,5,8; 
+PM,20,HelveticaCentury,r,1604,1015,1637,1034,211,22,8,11; 

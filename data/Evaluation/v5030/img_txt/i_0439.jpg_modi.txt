@@ -1,0 +1,5 @@
+Channel,29,HelveticaCentury,r,257,11,380,39,202,0,0,0; 
+Cell,32,HelveticaCentury,r,339,279,401,308,202,2,0,1; 
+membrane,32,HelveticaCentury,r,274,320,468,349,206,3,0,2; 
+outside,32,HelveticaCentury,r,481,201,613,231,206,4,1,3; 
+inside,32,HelveticaCentury,r,482,383,585,413,206,5,2,4; 

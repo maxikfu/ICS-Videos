@@ -1,0 +1,7 @@
+Results,27,HelveticaCentury,r,361,155,461,180,206,0,0,0; 
+for,27,HelveticaCentury,r,471,155,509,179,210,1,0,0; 
+Polling,18,Helvetica,r,1522,226,1596,249,198,8,4,5; 
+Closed,18,Times,r,1604,227,1674,244,204,9,4,5; 
+reproduction,49,HelveticaCentury,r,1247,505,1577,560,207,21,15,16; 
+PM,22,HelveticaCentury,r,1603,1015,1637,1034,211,24,16,18; 
+ill,23,Times,i,1533,1051,1568,1074,42,25,16,19; 

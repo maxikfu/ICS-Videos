@@ -1,0 +1,4 @@
+fI,12,Helvetica,b,917,436,950,452,31,3,0,3; 
+DC,21,HelveticaCentury,b,917,452,1022,478,18,5,0,4; 
+C0,21,HelveticaCentury,b,984,1031,1022,1053,129,11,0,10; 
+CD,21,HelveticaCentury,b,984,1445,1011,1467,22,13,0,12; 

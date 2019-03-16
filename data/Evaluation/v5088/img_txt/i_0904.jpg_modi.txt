@@ -1,0 +1,15 @@
+Effect,34,HelveticaCentury,b,323,35,427,68,212,1,0,0; 
+of,34,HelveticaCentury,b,441,35,479,68,212,2,0,0; 
+antimicrobial,34,HelveticaCentury,b,492,35,741,68,211,3,0,0; 
+treatment,34,HelveticaCentury,b,320,97,526,126,198,4,0,1; 
+LogceII,17,HelveticaCentury,r,1160,178,1232,199,32,6,0,2; 
+Bacteriostatic,34,HelveticaCentury,b,394,186,639,214,40,8,0,3; 
+niimber,20,HelveticaCentury,b,1159,200,1231,218,33,9,0,3; 
+Bacteriocidal,34,HelveticaCentury,b,394,409,624,439,66,11,0,4; 
+Log,18,Times,r,1160,491,1195,512,194,12,0,5; 
+cell,18,Times,r,1200,491,1233,506,158,13,0,5; 
+number,21,Times,r,1159,513,1231,531,183,14,0,6; 
+Bacteriolytic,34,HelveticaCentury,b,394,633,617,671,61,16,0,7; 
+Log,18,Times,r,1160,815,1195,836,208,17,0,8; 
+cell,18,Times,r,1200,815,1233,831,149,18,0,8; 
+number,20,HelveticaCentury,b,1159,838,1231,855,200,19,0,9; 

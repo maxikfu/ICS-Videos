@@ -1,0 +1,12 @@
+tLL,35,HelveticaCentury,r,1074,688,1168,727,29,1,1,1; 
+Random,35,HelveticaCentury,r,689,1010,849,1042,210,3,2,2; 
+walk,35,HelveticaCentury,r,864,1010,955,1042,212,4,2,2; 
+to,35,HelveticaCentury,r,967,1014,1007,1042,211,5,2,2; 
+Biased,35,HelveticaCentury,r,1023,1010,1147,1042,210,6,2,2; 
+random,35,HelveticaCentury,r,1164,1010,1314,1042,210,7,2,2; 
+walk,35,HelveticaCentury,r,1328,1010,1419,1042,213,8,2,2; 
+Flagellar,40,HelveticaCentury,r,347,68,538,115,72,10,3,3; 
+motion,40,HelveticaCentury,r,555,68,717,106,212,11,3,3; 
+for,13,Helvetica,r,866,241,889,254,167,12,4,4; 
+attracti,12,Helvetica,r,866,261,929,271,36,13,4,5; 
+LA,40,HelveticaCentury,r,1246,620,1330,661,40,19,9,10; 

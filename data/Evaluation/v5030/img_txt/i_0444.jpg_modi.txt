@@ -1,0 +1,8 @@
+Channel,29,HelveticaCentury,r,257,11,380,39,206,0,0,0; 
+electron,33,HelveticaCentury,r,710,59,857,89,151,2,0,1; 
+transport,33,HelveticaCentury,r,699,115,867,151,204,3,0,2; 
+syste,33,HelveticaCentury,r,722,168,808,203,193,4,0,3; 
+outside,33,HelveticaCentury,r,481,201,613,231,205,6,0,4; 
+Cell,33,HelveticaCentury,r,339,279,401,308,204,8,0,5; 
+membrane,33,HelveticaCentury,r,274,320,468,349,206,9,0,6; 
+inside,33,HelveticaCentury,r,482,383,585,413,59,10,1,7; 

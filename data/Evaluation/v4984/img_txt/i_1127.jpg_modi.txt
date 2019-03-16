@@ -1,0 +1,10 @@
+Recording,26,HelveticaCentury,r,789,19,946,51,199,2,1,1; 
+GB,19,Helvetica,r,559,325,586,343,206,9,4,5; 
+free,21,HelveticaCentury,r,594,323,631,343,201,10,4,5; 
+WV,12,Helvetica,i,531,674,556,685,23,15,6,7; 
+PM,19,Helvetica,r,1603,1015,1637,1034,204,19,8,9; 
+11111100000,37,HelveticaCentury,r,1002,287,1108,322,33,22,10,12; 
+DUD,37,HelveticaCentury,r,1111,287,1138,321,166,23,10,12; 
+Recording,19,Helvetica,r,953,444,1060,465,162,27,11,14; 
+It,22,HelveticaCentury,b,912,579,946,599,42,39,13,21; 
+Li,33,HelveticaCentury,r,1305,578,1453,608,188,41,14,23; 

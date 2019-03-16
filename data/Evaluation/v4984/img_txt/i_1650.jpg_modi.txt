@@ -1,0 +1,13 @@
+rP,14,Helvetica,r,491,376,516,388,42,3,0,0; 
+fp,12,Helvetica,i,544,390,569,403,63,6,0,1; 
+DVi,14,Helvetica,r,333,447,406,464,26,15,0,4; 
+DD,18,Helvetica,r,439,504,510,528,35,19,0,6; 
+CD,18,Helvetica,r,491,563,510,581,23,22,0,8; 
+iD,18,Helvetica,r,259,400,278,417,34,25,1,10; 
+Lfi,14,Helvetica,r,259,451,278,464,32,29,1,12; 
+ZDCD,23,HelveticaCentury,r,205,486,287,513,44,35,1,15; 
+fN,9,HelveticaCentury,b,800,420,823,431,40,50,7,30; 
+DQ,21,HelveticaCentury,b,904,544,1026,571,26,64,8,41; 
+CD,18,Helvetica,r,890,600,912,619,20,67,10,44; 
+Dint,23,HelveticaCentury,r,890,766,1026,789,31,77,16,54; 
+CD,23,HelveticaCentury,r,946,1004,969,1023,26,90,19,64; 

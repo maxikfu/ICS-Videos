@@ -1,0 +1,17 @@
+Ask,60,HelveticaCentury,r,958,88,1084,154,204,2,2,2; 
+dont,60,HelveticaCentury,r,1112,86,1277,144,198,3,2,2; 
+tell,60,HelveticaCentury,r,1299,88,1394,144,214,4,2,2; 
+The,60,HelveticaCentury,r,845,183,961,239,212,6,4,4; 
+person,60,HelveticaCentury,r,988,200,1200,254,213,7,4,4; 
+doing,60,HelveticaCentury,r,1227,183,1403,253,211,8,4,4; 
+the,60,HelveticaCentury,r,1424,183,1528,239,215,9,4,4; 
+talking,60,HelveticaCentury,r,885,279,1097,349,208,10,4,5; 
+is,60,HelveticaCentury,r,1122,283,1163,335,212,11,4,5; 
+doing,60,HelveticaCentury,r,1188,279,1363,349,214,12,4,5; 
+the,60,HelveticaCentury,r,1385,279,1488,335,215,13,4,5; 
+learning,60,HelveticaCentury,r,840,375,1095,445,214,14,4,6; 
+because,60,HelveticaCentury,r,1121,375,1377,431,213,15,4,6; 
+they,60,HelveticaCentury,r,1400,375,1540,444,213,16,4,6; 
+are,60,HelveticaCentury,r,975,487,1072,526,212,17,4,7; 
+retrieving,60,HelveticaCentury,r,1099,474,1403,540,209,18,4,7; 
+information,60,HelveticaCentury,r,992,564,1383,622,151,19,4,8; 

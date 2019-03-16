@@ -1,0 +1,12 @@
+Hypothetically,61,HelveticaCentury,r,317,66,803,136,202,0,0,0; 
+could,61,HelveticaCentury,r,828,66,1002,123,212,1,0,0; 
+cell,61,HelveticaCentury,r,344,162,449,218,209,3,0,1; 
+exist,61,HelveticaCentury,r,475,163,623,218,207,4,0,1; 
+that,61,HelveticaCentury,r,645,162,778,218,209,5,0,1; 
+is,61,HelveticaCentury,r,803,163,847,218,209,6,0,1; 
+mm,61,HelveticaCentury,r,874,167,1029,217,22,7,0,1; 
+microns,61,HelveticaCentury,r,533,256,811,327,212,9,0,2; 
+in,61,HelveticaCentury,r,838,259,891,312,214,10,0,2; 
+size,61,HelveticaCentury,r,917,258,1069,314,210,11,0,2; 
+YES,50,HelveticaCentury,r,360,430,461,477,214,13,0,3; 
+BNO,50,HelveticaCentury,r,282,580,451,627,54,14,0,4; 

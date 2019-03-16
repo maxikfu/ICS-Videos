@@ -1,0 +1,8 @@
+Irradiation,35,HelveticaCentury,r,322,67,539,99,120,1,0,0; 
+used,35,HelveticaCentury,r,555,67,641,99,211,2,0,0; 
+to,35,HelveticaCentury,r,656,71,694,99,211,3,0,0; 
+sterilize,35,HelveticaCentury,r,709,66,853,99,208,4,0,0; 
+food,35,HelveticaCentury,r,868,66,952,99,212,5,0,0; 
+nonbiologicals,35,HelveticaCentury,r,1013,66,1312,107,161,7,0,0; 
+UV,40,HelveticaCentury,r,573,179,638,214,153,9,0,1; 
+GammaXrays,40,HelveticaCentury,r,1174,174,1534,224,36,10,0,1; 

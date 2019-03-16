@@ -1,0 +1,13 @@
+Syllabus,44,HelveticaCentury,i,751,52,993,116,210,0,0,0; 
+SW,44,HelveticaCentury,i,1010,55,1104,103,37,1,0,0; 
+Final,34,HelveticaCentury,r,326,416,423,452,207,4,0,1; 
+grades,34,HelveticaCentury,r,438,416,591,460,205,5,0,1; 
+exams,34,HelveticaCentury,r,620,428,748,452,212,6,0,1; 
+4quizzes,34,HelveticaCentury,r,765,414,989,460,207,7,0,1; 
+5Smartworkclickers,34,HelveticaCentury,r,1006,414,1481,460,30,8,0,1; 
+Quizzes,34,HelveticaCentury,r,387,549,522,583,201,14,0,3; 
+on,34,HelveticaCentury,r,535,557,577,578,211,15,0,3; 
+Blackboard,34,HelveticaCentury,r,593,549,791,578,210,16,0,3; 
+Calculating,34,HelveticaCentury,r,387,603,583,642,205,18,0,4; 
+your,34,HelveticaCentury,r,595,612,677,641,212,19,0,4; 
+grade,34,HelveticaCentury,r,688,603,788,641,212,20,0,4; 

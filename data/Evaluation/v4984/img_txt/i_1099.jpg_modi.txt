@@ -1,0 +1,1 @@
+motion,68,HelveticaCentury,i,731,0,1105,51,214,1,0,0; 

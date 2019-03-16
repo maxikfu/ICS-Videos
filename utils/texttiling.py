@@ -31,4 +31,4 @@ def text_tiling(path, word_window):
 
 
 if __name__ == '__main__':
-    text_tiling('Earth_cleaned.txt', 20)
+    text_tiling('../data/Books/Microbiology_full_cleaned.txt', 20)

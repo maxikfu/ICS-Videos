@@ -1,0 +1,14 @@
+Layer,48,HelveticaCentury,i,403,70,601,142,206,1,0,0; 
+SLayer,34,HelveticaCentury,r,544,165,695,203,201,3,0,1; 
+surface,35,HelveticaCentury,r,721,162,858,194,211,4,0,1; 
+layer,35,HelveticaCentury,r,876,162,976,203,205,5,0,1; 
+comprised,35,HelveticaCentury,r,992,162,1190,203,208,6,0,1; 
+of,35,HelveticaCentury,r,1206,162,1244,194,213,7,0,1; 
+crystalline,35,HelveticaCentury,r,1290,162,1482,203,192,9,0,1; 
+arrEay,35,HelveticaCentury,r,1498,165,1594,203,31,10,0,1; 
+of,35,HelveticaCentury,r,544,213,582,245,214,11,0,2; 
+protein,35,HelveticaCentury,r,596,214,731,253,208,12,0,2; 
+or,35,HelveticaCentury,r,747,223,786,245,213,13,0,2; 
+glycoprotein,35,HelveticaCentury,r,799,213,1048,254,145,14,0,2; 
+is,35,HelveticaCentury,r,1065,214,1090,245,192,15,0,2; 
+porous,35,HelveticaCentury,r,1106,223,1246,253,189,20,3,5; 

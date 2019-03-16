@@ -1,0 +1,5 @@
+Dm0,28,HelveticaCentury,r,699,350,881,390,24,2,1,2; 
+CD0,28,HelveticaCentury,r,852,652,959,685,21,16,7,15; 
+fl,28,HelveticaCentury,r,929,957,959,979,29,24,9,23; 
+II,14,Helvetica,r,929,1303,960,1321,22,34,15,33; 
+CD,28,HelveticaCentury,r,929,1429,959,1455,61,36,15,35; 

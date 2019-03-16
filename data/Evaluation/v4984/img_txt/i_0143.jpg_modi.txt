@@ -1,0 +1,15 @@
+Specialized,43,HelveticaCentury,i,280,27,573,83,209,0,0,0; 
+Structures,43,HelveticaCentury,i,585,28,854,72,212,1,0,0; 
+con,43,HelveticaCentury,i,871,38,959,72,206,2,0,0; 
+Magnetosomes,34,HelveticaCentury,r,329,117,630,152,114,4,1,1; 
+Magnetite,30,HelveticaCentury,r,386,214,564,251,196,6,2,2; 
+Fe304,30,HelveticaCentury,r,579,212,699,252,32,7,2,2; 
+crystals,30,HelveticaCentury,r,715,213,843,251,211,8,2,2; 
+of,30,HelveticaCentury,r,384,266,418,296,212,9,2,3; 
+magnetotactic,30,HelveticaCentury,r,432,267,682,304,192,10,2,3; 
+bacteria,30,HelveticaCentury,r,697,266,835,296,210,11,2,3; 
+eee,4,Helvetica,b,968,479,1014,482,29,15,5,7; 
+Ii,83,HelveticaCentury,r,912,1004,942,1078,32,18,7,9; 
+2f1f2019,22,HelveticaCentury,r,1543,1050,1645,1075,23,22,9,11; 
+Magnetosomes,30,HelveticaCentury,r,1397,88,1647,120,181,24,11,13; 
+PM,21,HelveticaCentury,r,1603,1015,1637,1034,209,29,14,16; 

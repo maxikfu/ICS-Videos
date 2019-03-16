@@ -1,0 +1,3 @@
+rn,30,HelveticaCentury,b,946,438,969,457,42,2,0,2; 
+0D,22,HelveticaCentury,b,890,552,969,580,29,7,0,5; 
+DVvI,5,Helvetica,b,890,630,1026,654,30,9,0,7; 
