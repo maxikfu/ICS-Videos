@@ -60,6 +60,7 @@ def video_2book(video_id, path_to_book):
 
 
 if __name__ == '__main__':
-    videos_id = [4853]
+    videos_id = [4853, 4887, 4916, 4954, 4984, 4998, 5019, 5030, 5039, 5056, 5063, 5072, 5088]
     for v in videos_id:
+        print(v)
         video_2book(v, '../data/Evaluation/tt_Microbiology_full_cleaned.json')
