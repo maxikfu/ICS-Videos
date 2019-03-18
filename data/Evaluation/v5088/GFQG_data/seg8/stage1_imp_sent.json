@@ -1,0 +1,17 @@
+{"id": 1, "score": 2.42, "relevant": "No", "text": "The D-value is the time required to kill 90% of cells (that is, the time it takes for the viable cell count to drop by one log10 unit). \n\n", "common_words": 2, "features": [0.14, 0.0, 0, 1, 0.57, 0.0]}
+{"id": 2, "score": 2.28, "relevant": "No", "text": "The food industry uses D-value and several other parameters to evaluate the efficiency of killing (see Section 16.5).", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.64, 0.0]}
+{"id": 3, "score": 2.28, "relevant": "No", "text": "Many public health standards are based on total numbers of microorganisms on an object, regardless of pathogenic potential.", "common_words": 1, "features": [0.09, 0.0, 0, 1, 0.55, 0.0]}
+{"id": 4, "score": 2.14, "relevant": "No", "text": "Antimicrobials can also be classified on the basis of the specific groups of microbes destroyed, leading to the terms \u201cmicrobicide,\u201d \u201cbactericide,\u201d \u201calgicide,\u201d \u201cfungicide,\u201d and \u201cvirucide.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.57, 0.0]}
+{"id": 5, "score": 2.12, "relevant": "No", "text": "Chemical substances are germicidal if they kill pathogens (and many nonpathogens), but germicidal agents do not necessarily kill spores.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.56, 0.0]}
+{"id": 6, "score": 1.24, "relevant": "No", "text": "For example, to gain public health certification, the restaurants we frequent must demonstrate low numbers of bacteria (pathogenic or not) in their food preparation areas. \n\n", "common_words": 1, "features": [0.06, 0.0, 0, 0, 0.56, 0.0]}
+{"id": 7, "score": 1.0, "relevant": "No", "text": "Although these descriptions emphasize the killing of pathogens, it is important to note that antimicrobial agents can also kill or prevent the growth of nonpathogens.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.5, 0.0]}
+{"id": 8, "score": 0.0, "relevant": "No", "text": "a little over 1 minute.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
+{"id": 9, "score": 0.0, "relevant": "No", "text": "survivors were measured by viable count.", "common_words": 1, "features": [0.25, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 10, "score": 0.0, "relevant": "No", "text": "Is the human body a quiet bystander during an infection? \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 11, "score": 0.0, "relevant": "No", "text": "Hint:", "common_words": 0, "features": [0.0, 0.0, 0, 1, 1.0, 0.0]}
+{"id": 12, "score": 0.0, "relevant": "No", "text": "Why are they nevertheless effective at treating bacterial infections?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.25, 0.0]}
+{"id": 13, "score": 0.0, "relevant": "No", "text": "5.10 Bacteriostatic antibiotics do not kill bacteria; they only inhibit their growth.", "common_words": 1, "features": [0.14, 0.0, 0, 1, 0.43, 0.0]}
+{"id": 14, "score": 0.0, "relevant": "No", "text": "For example, antibacterial agents may be bacteriostatic or bactericidal.", "common_words": 1, "features": [0.2, 0.0, 0, 0, 0.4, 0.0]}
+{"id": 15, "score": 0.0, "relevant": "No", "text": "(inhibiting growth) or \u201c-cidal\u201d (killing cells).", "common_words": 1, "features": [0.2, 0.0, 0, 1, 0.4, 0.0]}
+{"id": 16, "score": 0.0, "relevant": "No", "text": "-static\u201d", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
+{"id": 17, "score": 0.0, "relevant": "No", "text": "These agents can be classified further as either \u201c", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.5, 0.0]}

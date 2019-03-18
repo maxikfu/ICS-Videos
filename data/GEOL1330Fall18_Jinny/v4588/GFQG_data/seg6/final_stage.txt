@@ -1,7 +1,7 @@
-Question: Perhaps the easiest type of bond to visualize is ______________, in which one atom gives up one or more valence electrons to another atom to form ions—positively and negatively charged atoms.
-a) the other hand
-b) bond
-c) the ionic bonding
-d) the ionic bond
-Answer: the ionic bond
+Question: ______________, on the other hand, gains one electron and becomes a negatively charged chloride ion.
+a) chlorine
+b) a result
+c) sodium
+d) a pair
+Answer: Chlorine
 

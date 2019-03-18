@@ -1,7 +1,7 @@
-Question: Therefore, gneiss represents ______________ in the sequence of shale, slate, phyllite, schist, and gneiss.
-a) a gneissic texture
-b) an irregular fashion
+Question: The most common minerals in gneiss are quartz, potassium feldspar, and ______________.
+a) an irregular fashion
+b) plagioclase feldspar
 c) the highest-grade metamorphic rock
-d) high-grade metamorphism
-Answer: the highest-grade metamorphic rock
+d) phyllite
+Answer: plagioclase feldspar
 

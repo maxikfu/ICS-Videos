@@ -1,0 +1,5 @@
+{"id": 1, "score": 2.76, "relevant": "Yes", "text": "Proteobacteria (Gram-negative) have a thin cell wall with one or two layers of peptidoglycan, enclosed by an outer membrane.", "common_words": 4, "features": [0.36, 0.0, 0, 1, 0.45, 0.27]}
+{"id": 2, "score": 2.22, "relevant": "No", "text": "The phylum Proteobacteria consists of Gram-negative species such as Escherichia coli and nitrogen-fixing Sinorhizobium meliloti. \n\n", "common_words": 2, "features": [0.15, 0.0, 0, 1, 0.38, 0.31]}
+{"id": 3, "score": 1.43, "relevant": "No", "text": "Archaea have yet other diverse kinds of envelopes that cannot be distinguished by Gram stain (see Chapter 19).", "common_words": 2, "features": [0.22, 0.0, 0, 0, 0.44, 0.22]}
+{"id": 4, "score": 0.0, "relevant": "No", "text": "Chapter 18).", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.5, 0.0]}
+{"id": 5, "score": 0.0, "relevant": "No", "text": "the Gram-positive cell wall consist of glycerol or ribitol phosphodiester chains. \n\n", "common_words": 2, "features": [0.2, 0.0, 0, 1, 0.6, 0.1]}

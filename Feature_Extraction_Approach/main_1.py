@@ -6,12 +6,18 @@ from random import shuffle
 
 
 if __name__ == '__main__':
-    video_index = [4588]
+    # video_index = [4853, 4887, 4916, 4954, 4984, 4998, 5019, 5030, 5039, 5056, 5063, 5072, 5088]
+    video_index = [4588, 4608, 4609, 4618, 4623]
+    # video_index = [4608]
     main_directory = os.getcwd()
+    all_questions = []
+    # video_index = [4916]
     for video_id in video_index:
         print(video_id)
         video_directory = '../data/GEOL1330Fall18_Jinny/v' + str(video_id) + '/'
         tt_book = '../tt_Earth_cleaned.json'
+        # video_directory = '../data/Evaluation/v' + str(video_id) + '/'
+        # tt_book = '../tt_Microbiology_full_cleaned.json'
         os.chdir(video_directory)
         # loading file containing video segment to book segment link
         try:
@@ -46,32 +52,40 @@ if __name__ == '__main__':
             exit()
 
         for v_seg_id, book_seg_id in video_book_link.items():
+            # print(v_seg_id)
             book_seg_json = json.loads(raw_book_segs[book_seg_id - 1])
             video_seg_text = video_OCR[v_seg_id]
             # SENTENCE SELECTION PART
             sentences = GFQG.sentence_selection(v_seg_id, video_seg_text, book_seg_json)
 
             # if there are no relevant sentences we will not proceed
-            if sentences:
+            if [s for s in sentences if s["relevant"] == 'Yes']:
                 # GAP SELECTION PART
+                for s in sentences:
+                    if s["relevant"] == 'Yes':
+                        quest_sentence_id = s['id']
+                        break
                 key_list = GFQG.key_list_formation(v_seg_id, sentences, video_seg_text)
                 # DISTRACTOR SELECTION PART
-                key_phrase = key_list[0]['key_list'][0][1]
+                key_phrase = key_list[quest_sentence_id - 1]['key_list'][0][1]
                 distractors = GFQG.distractor_selection(v_seg_id, key_phrase, key_list)
                 # QUESTION FORMATION
-                quest_sentence = sentences[0]['text']
                 answers = [d[1].text.lower() for d in distractors[:3]]
                 answers.append(key_phrase.text.lower())
                 shuffle(answers)
+                quest_sentence = sentences[quest_sentence_id - 1]['text']
                 gap_question = str(quest_sentence.text).replace(str(key_phrase.text), '______________')
                 subdir = 'GFQG_data/seg' + str(v_seg_id) + '/'
                 final_stage = subdir + "final_stage.txt"
+                # print(answers)
                 result = 'Question: ' + gap_question + '\n' \
                          + 'a) ' + answers[0] + '\n' \
                          + 'b) ' + answers[1] + '\n' \
                          + 'c) ' + answers[2] + '\n' \
                          + 'd) ' + answers[3] + '\n' \
                          + 'Answer: ' + key_phrase.text + '\n' + '\n'
+                quest = {"video_id": video_id, "seg_id": v_seg_id, "text": result}
+                all_questions.append(quest)
                 with open(final_stage, 'w') as f:
                     f.write(result)
             else:
@@ -81,4 +95,10 @@ if __name__ == '__main__':
                     f.write('No relevant to video sentences were found. :(')
 
         os.chdir(main_directory)
+    # with open('../data/Evaluation/results.json', 'w') as f:
+    #     for q in all_questions:
+    #         f.write(json.dumps(q) + '\n')
+    with open('../data/GEOL1330Fall18_Jinny/results.json', 'w') as f:
+        for q in all_questions:
+            f.write(json.dumps(q) + '\n')
 

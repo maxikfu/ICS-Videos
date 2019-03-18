@@ -1,7 +1,7 @@
-Question: Minerals tend to have one common crystal shape, but a few, such as ______________ shown in have two or more characteristic crystal shapes.
-a) two or more characteristic crystal shapes
+Question: For example, magnetite ______________ sometimes occur as octahedrons, garnets often form dodecahedrons, and halite and fluorite ______________ tend to grow as cubes or near-cubes.
+a) aggregates
 b) octahedrons
-c) magnetite crystals
-d) the pyrite samples
-Answer: the pyrite samples
+c) crystals
+d) dodecahedrons
+Answer: crystals
 

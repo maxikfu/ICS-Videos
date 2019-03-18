@@ -1,9 +1,7 @@
-Question: Compare this figure to ______________ of the rock groups in Note that each rock group consists of minerals that crystallize in the same temperature range. 
-
-
-a) the composition
-b) the mineral composition
-c) the remaining liquid portion
-d) the same region
-Answer: the mineral composition
+Question: For example, notice in that the minerals quartz, potassium feldspar, and muscovite, which are located in the same region of Bowen’s diagram, are typically found together as major constituents of ______________.
+a) the same general temperature regime
+b) the intrusive igneous rock granite
+c) the same region
+d) the same temperature range
+Answer: the intrusive igneous rock granite
 

@@ -1,14 +1,14 @@
-{"sent_id": 1, "key_list": [[5.0, "amethyst", [1, 1, 3]], [4.5, "the presence", [1, 0, 4]], [4.0, "trace amounts", [1, 1, 2]], [4.0, "another variety", [1, 1, 2]], [2.5, "quartz", [2, 1, 0]], [2.0, "iron", [1, 1, 0]], [1.5, "its violet color", [1, 0, 1]]]}
-{"sent_id": 2, "key_list": [[8.0, "a collection", [1, 1, 6]], [6.0, "specimens", [1, 1, 4]], [4.0, "similar internal structures", [1, 1, 2]], [3.0, "chemical compositions", [1, 1, 1]], [3.0, "the term mineral species", [1, 1, 1]], [0.5, "mineralogists", [1, 0, 0]]]}
-{"sent_id": 3, "key_list": [[5.0, "the silicates", [1, 1, 3]], [4.0, "internal structures", [1, 1, 2]], [3.0, "some important mineral classes", [1, 1, 1]], [1.5, "hence, similar properties", [1, 0, 1]], [1.5, "(sio442", [1, 0, 1]]]}
-{"sent_id": 4, "key_list": [[5.0, "most specimens", [1, 1, 3]], [3.5, "individual plants", [1, 0, 3]], [3.0, "the same mineral", [1, 1, 1]], [1.5, "a species", [1, 0, 1]], [1.0, "animals", [2, 0, 0]]]}
-{"sent_id": 5, "key_list": [[5.0, "a variety", [1, 1, 3]], [4.0, "small amounts", [1, 1, 2]], [3.0, "its atomic structure", [1, 1, 1]], [2.5, "quartz", [2, 1, 0]], [2.0, "aluminum", [1, 1, 0]]]}
-{"sent_id": 6, "key_list": [[3.0, "the halide class", [1, 1, 1]], [3.0, "example", [3, 1, 0]], [2.5, "silvite", [1, 0, 2]], [1.5, "evaporite deposits", [1, 0, 1]], [1.5, "(kcl", [1, 0, 1]], [1.5, "nacl", [1, 0, 1]]]}
-{"sent_id": 7, "key_list": [[6.0, "minerals", [3, 1, 3]], [3.0, "the same class", [1, 1, 1]], [1.5, "the same rock", [1, 0, 1]]]}
-{"sent_id": 8, "key_list": [[1.5, "similar cleavage", [1, 0, 1]]]}
-{"sent_id": 9, "key_list": [[7.0, "minerals", [3, 1, 4]], [3.0, "the carbonate class", [1, 1, 1]], [3.0, "example", [3, 1, 0]], [1.5, "varying degrees", [1, 0, 1]]]}
-{"sent_id": 10, "key_list": [[3.0, "mineral classes", [1, 1, 1]], [3.0, "mineral species", [1, 1, 1]]]}
-{"sent_id": 11, "key_list": [[3.0, "pure quartz", [1, 1, 1]], [3.0, "example", [3, 1, 0]], [0.5, "sio2", [1, 0, 0]]]}
-{"sent_id": 12, "key_list": [[3.0, "mineral varieties", [1, 1, 1]], [3.0, "some mineral species", [1, 1, 1]]]}
-{"sent_id": 13, "key_list": [[3.0, "some common mineral species", [1, 1, 1]]]}
-{"sent_id": 14, "key_list": [[5.5, "categories", [1, 0, 5]], [3.5, "much the same way", [1, 0, 3]], [3.0, "minerals", [3, 1, 0]], [1.5, "plants", [1, 0, 1]], [1.0, "animals", [2, 0, 0]]]}
+{"sent_id": 1, "key_list": [[3.0, "quartz", [2, 1, 1.0]], [2.5, "iron", [1, 1, 1.0]], [1.833, "trace amounts", [1, 1, 0.3333333333333333]], [1.833, "another variety", [1, 1, 0.3333333333333333]], [1.75, "amethyst", [1, 1, 0.25]], [1.0, "its violet color", [1, 0, 0.5]], [0.7, "the presence", [1, 0, 0.2]]]}
+{"sent_id": 2, "key_list": [[2.0, "chemical compositions", [1, 1, 0.5]], [2.0, "the term mineral species", [1, 1, 0.5]], [1.833, "similar internal structures", [1, 1, 0.3333333333333333]], [1.7, "specimens", [1, 1, 0.2]], [1.643, "a collection", [1, 1, 0.14285714285714285]], [1.5, "mineralogists", [1, 0, 1.0]]]}
+{"sent_id": 3, "key_list": [[3.0, "quartz", [2, 1, 1.0]], [2.5, "aluminum", [1, 1, 1.0]], [2.0, "its atomic structure", [1, 1, 0.5]], [1.833, "small amounts", [1, 1, 0.3333333333333333]], [1.75, "a variety", [1, 1, 0.25]]]}
+{"sent_id": 4, "key_list": [[2.0, "the same mineral", [1, 1, 0.5]], [2.0, "animals", [2, 0, 1.0]], [1.75, "most specimens", [1, 1, 0.25]], [1.0, "a species", [1, 0, 0.5]], [0.75, "individual plants", [1, 0, 0.25]]]}
+{"sent_id": 5, "key_list": [[3.5, "example", [3, 1, 1.0]], [2.0, "the halide class", [1, 1, 0.5]], [1.0, "evaporite deposits", [1, 0, 0.5]], [1.0, "(kcl", [1, 0, 0.5]], [1.0, "nacl", [1, 0, 0.5]], [0.833, "silvite", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 6, "key_list": [[2.0, "some important mineral classes", [1, 1, 0.5]], [1.833, "internal structures", [1, 1, 0.3333333333333333]], [1.75, "the silicates", [1, 1, 0.25]], [1.0, "hence, similar properties", [1, 0, 0.5]], [1.0, "(sio442", [1, 0, 0.5]]]}
+{"sent_id": 7, "key_list": [[2.75, "minerals", [3, 1, 0.25]], [2.0, "the same class", [1, 1, 0.5]], [1.0, "the same rock", [1, 0, 0.5]]]}
+{"sent_id": 8, "key_list": [[1.0, "similar cleavage", [1, 0, 0.5]]]}
+{"sent_id": 9, "key_list": [[3.5, "example", [3, 1, 1.0]], [2.7, "minerals", [3, 1, 0.2]], [2.0, "the carbonate class", [1, 1, 0.5]], [1.0, "varying degrees", [1, 0, 0.5]]]}
+{"sent_id": 10, "key_list": [[2.0, "mineral classes", [1, 1, 0.5]], [2.0, "mineral species", [1, 1, 0.5]]]}
+{"sent_id": 11, "key_list": [[3.5, "example", [3, 1, 1.0]], [2.0, "pure quartz", [1, 1, 0.5]], [1.5, "sio2", [1, 0, 1.0]]]}
+{"sent_id": 12, "key_list": [[2.0, "mineral varieties", [1, 1, 0.5]], [2.0, "some mineral species", [1, 1, 0.5]]]}
+{"sent_id": 13, "key_list": [[2.0, "some common mineral species", [1, 1, 0.5]]]}
+{"sent_id": 14, "key_list": [[3.5, "minerals", [3, 1, 1.0]], [2.0, "animals", [2, 0, 1.0]], [1.0, "plants", [1, 0, 0.5]], [0.75, "much the same way", [1, 0, 0.25]], [0.667, "categories", [1, 0, 0.16666666666666666]]]}

@@ -46,15 +46,17 @@ def sentence_analysis():
             for line in raw:
                 dd = json.loads(line)
                 dd['video_id'] = video_id
-                all_sent.append(dd['text'])
-                all_scores.append(dd['score'])
+                if dd['text'] not in all_sent:
+                    all_sent.append(dd['text'])
+                    all_scores.append(dd['score'])
     min_max_normalize(all_scores)
-    data = sorted([(x, y) for x, y in zip(all_scores, all_sent)], reverse=True)
-    with open(root + 'all_sent_relevance_rated.json', 'w') as f:
+    data = set(sorted([(x, y) for x, y in zip(all_scores, all_sent)], reverse=True))
+    with open(root + 'all_sent.json', 'w') as f:
         for l in data:
-            d = {'rating': '', 'score': l[0], 'text': l[1]}
-            f.write(json.dumps(d) + '\n')
+            if l[0] > 0:
+                d = {'rating': '', 'text': l[1], 'score': round(l[0], 2)}
+                f.write(json.dumps(d) + '\n')
 
 
 if __name__ == '__main__':
-    relevance_analysis()
+    sentence_analysis()

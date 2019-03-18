@@ -1,7 +1,7 @@
-Question: Because the properties of rocks are determined largely by ______________ and crystalline structure of the minerals contained within them, we will first consider these Earth materials.
-a) the minerals
-b) the properties
+Question: Because the properties of rocks are determined largely by the chemical composition and ______________ of the minerals contained within them, we will first consider these Earth materials.
+a) an impure mass
+b) solid organic debris
 c) crystalline structure
-d) the chemical composition
-Answer: the chemical composition
+d) the nature
+Answer: crystalline structure
 

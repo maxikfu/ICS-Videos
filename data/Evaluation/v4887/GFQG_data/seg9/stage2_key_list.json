@@ -1,0 +1,10 @@
+{"sent_id": 1, "key_list": [[3.0, "edward jenner", [1, 1, 1]], [2.5, "smallpox", [2, 1, 0]], [2.5, "the practice", [1, 0, 2]], [2.0, "cowpox", [1, 1, 0]], [2.0, "vaccination", [1, 1, 0]]]}
+{"sent_id": 2, "key_list": [[8.0, "the first vaccines", [1, 1, 6]], [3.5, "attenuated strains", [1, 0, 3]], [3.0, "the rabies vaccine", [1, 1, 1]], [3.0, "louis pasteur", [1, 1, 1]]]}
+{"sent_id": 3, "key_list": [[4.5, "earlier observations", [1, 0, 4]], [4.0, "jenner\u2019s discovery", [1, 1, 2]], [2.5, "smallpox", [2, 1, 0]], [2.5, "a mild case", [1, 0, 2]], [1.5, "future cases", [1, 0, 1]], [1.5, "lady mary montagu", [1, 0, 1]]]}
+{"sent_id": 4, "key_list": [[2.5, "transmission", [1, 0, 2]], [2.5, "ignaz semmelweis", [1, 0, 2]], [2.0, "pathogens", [1, 1, 0]], [1.5, "joseph lister", [1, 0, 1]], [0.5, "doctor", [1, 0, 0]], [0.5, "antiseptics", [1, 0, 0]]]}
+{"sent_id": 5, "key_list": [[4.5, "a causative link", [1, 0, 4]], [3.0, "a disease", [1, 1, 1]], [2.5, "an infectious agent", [1, 0, 2]], [2.5, "a set", [1, 0, 2]], [2.5, "koch\u2019s postulates", [1, 0, 2]], [0.5, "criteria", [1, 0, 0]]]}
+{"sent_id": 6, "key_list": [[4.5, "container", [1, 0, 4]], [3.5, "techniques", [1, 0, 3]], [1.5, "julius petri", [1, 0, 1]], [1.5, "pure culture", [1, 0, 1]], [1.5, "robert koch", [1, 0, 1]]]}
+{"sent_id": 7, "key_list": [[4.5, "the substance penicillin", [1, 0, 4]], [3.5, "the first commercial antibiotic", [1, 0, 3]], [2.5, "howard florey", [1, 0, 2]], [1.5, "human lives", [1, 0, 1]], [1.5, "ernst chain", [1, 0, 1]]]}
+{"sent_id": 8, "key_list": [[2.5, "a substance", [1, 0, 2]], [1.5, "the penicillium mold", [1, 0, 1]], [1.5, "alexander fleming", [1, 0, 1]], [0.5, "bacteria", [1, 0, 0]]]}
+{"sent_id": 9, "key_list": [[2.5, "dmitri ivanovsky", [1, 0, 2]], [1.5, "filterable infective particles", [1, 0, 1]], [1.5, "martinus beijerinck", [1, 0, 1]], [1.0, "viruses", [2, 0, 0]]]}
+{"sent_id": 10, "key_list": [[4.0, "viruses", [2, 0, 3]], [2.5, "all kinds", [1, 0, 2]], [0.5, "cells", [1, 0, 0]]]}

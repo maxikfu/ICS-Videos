@@ -1,0 +1,6 @@
+{"sent_id": 1, "key_list": [[8.0, "membrane protein", [1, 1, 6]], [7.0, "promotes virion assembly", [1, 1, 5]], [6.0, "release", [1, 1, 4]], [2.5, "cell-surface tetherins", [1, 0, 2]], [0.5, "\u2022", [1, 0, 0]]]}
+{"sent_id": 2, "key_list": [[4.0, "host cell membrane", [1, 1, 2]], [3.0, "the envelope", [1, 1, 1]], [1.5, "the core", [1, 0, 1]]]}
+{"sent_id": 3, "key_list": [[8.0, "virion component", [1, 1, 6]], [7.0, "virions", [1, 1, 5]], [3.5, "immune response", [1, 0, 3]], [1.5, "the infected cell", [1, 0, 1]]]}
+{"sent_id": 4, "key_list": [[10.0, "vif, vpr, vpu, rev, tat, nef. \n\nvirion component", [1, 1, 8]], [2.5, "t-cell growth", [1, 0, 2]]]}
+{"sent_id": 5, "key_list": [[3.5, "cells", [1, 0, 3]], [3.0, "the nucleus", [1, 1, 1]], [0.5, "mitosis", [1, 0, 0]]]}
+{"sent_id": 6, "key_list": [[6.0, "spike proteins", [1, 1, 4]], [4.5, "electron-dense core particle", [1, 0, 4]], [3.0, "influenza virus", [1, 1, 1]], [3.0, "the membrane", [1, 1, 1]], [3.0, "capsid", [1, 1, 1]], [1.5, "the matrix", [1, 0, 1]], [1.5, "a the core", [1, 0, 1]]]}

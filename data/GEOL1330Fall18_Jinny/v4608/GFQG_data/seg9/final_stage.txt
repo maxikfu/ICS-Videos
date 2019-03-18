@@ -1,7 +1,7 @@
-Question: ______________, another variety of quartz, owes its violet color to the presence of trace amounts of iron.
-a) amethyst
+Question: Amethyst, another variety of ______________, owes its violet color to the presence of trace amounts of iron.
+a) example
 b) quartz
-c) nacl
-d) silvite
-Answer: Amethyst
+c) a species
+d) iron
+Answer: quartz
 

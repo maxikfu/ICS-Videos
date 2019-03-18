@@ -1,7 +1,7 @@
-Question: ______________ that are ionically bonded, such as fluorite twice the specific gravity of quartz.
-a) splinters
-b) erals
-c) minerals
-d) minerals
-Answer: Minerals
+Question: Minerals that are ionically bonded, such as fluorite twice the specific gravity of ______________.
+a) quartz
+b) deformation
+c) addition
+d) native copper
+Answer: quartz
 

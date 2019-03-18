@@ -1,0 +1,5 @@
+{"sent_id": 1, "key_list": [[8.0, "a thin cell wall", [1, 1, 6]], [4.5, "one or two layers", [1, 0, 4]], [3.0, "an outer membrane", [1, 1, 1]], [3.0, "proteobacteria", [2, 0, 2]], [2.0, "peptidoglycan", [1, 1, 0]], [1.5, "gram-negative", [1, 0, 1]]]}
+{"sent_id": 2, "key_list": [[4.5, "gram-negative species", [1, 0, 4]], [4.0, "escherichia coli", [1, 1, 2]], [1.5, "sinorhizobium meliloti", [1, 0, 1]], [1.5, "the phylum", [1, 0, 1]], [1.0, "proteobacteria", [2, 0, 0]]]}
+{"sent_id": 3, "key_list": [[8.0, "other diverse kinds", [1, 1, 6]], [3.5, "gram stain", [1, 0, 3]], [2.0, "envelopes", [1, 1, 0]], [0.5, "archaea", [1, 0, 0]]]}
+{"sent_id": 4, "key_list": [[1.5, "chapter", [1, 0, 1]]]}
+{"sent_id": 5, "key_list": [[4.0, "the gram-positive cell wall", [1, 1, 2]], [3.5, "glycerol", [1, 0, 3]], [2.5, "ribitol", [1, 0, 2]], [1.5, "phosphodiester chains", [1, 0, 1]]]}

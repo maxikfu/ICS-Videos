@@ -1,0 +1,16 @@
+{"id": 1, "score": 3.16, "relevant": "No", "text": "Within the cell membrane, the envelope complexed with their matrix and packaging proteins, completing the virion particle (step 15).", "common_words": 4, "features": [0.33, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 2, "score": 3.0, "relevant": "No", "text": "Virion buds out and neuraminidase cleaves sialic acid receptor, releasing virion.", "common_words": 2, "features": [0.25, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 3, "score": 3.0, "relevant": "No", "text": "Viral exit requires a final step of host release: link of the host glycoproteins (step 17), releasing the virion out into the bloodstream.", "common_words": 2, "features": [0.17, 0.0, 0, 1, 0.83, 0.0]}
+{"id": 4, "score": 2.7, "relevant": "No", "text": "How do researchers figure out all and labeled nucleic acid probes reveal the presence of viral within a cell, even tracking their motion over 14.", "common_words": 3, "features": [0.23, 0.0, 0, 1, 0.62, 0.0]}
+{"id": 5, "score": 1.88, "relevant": "No", "text": "Tamiflu remains useful today, but resistant strains of the 2009 Experimental evidence.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.44, 0.0]}
+{"id": 6, "score": 1.28, "relevant": "No", "text": "This host release activity of neuraminidase is inhibited by oseltamivir (Tamiflu), the main antiviral agent currently useful against influenza.", "common_words": 1, "features": [0.08, 0.0, 0, 0, 0.54, 0.08]}
+{"id": 7, "score": 0.0, "relevant": "No", "text": "16.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
+{"id": 8, "score": 0.0, "relevant": "No", "text": "Envelope proteins enter Golgi. \n\n", "common_words": 1, "features": [0.2, 0.0, 0, 1, 0.2, 0.4]}
+{"id": 9, "score": 0.0, "relevant": "No", "text": "13.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
+{"id": 10, "score": 0.0, "relevant": "No", "text": "Envelope coats capsid. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.25, 0.25]}
+{"id": 11, "score": 0.0, "relevant": "No", "text": "15.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
+{"id": 12, "score": 0.0, "relevant": "No", "text": "Envelope proteins transfer to cell membrane. \n\n", "common_words": 2, "features": [0.33, 0.0, 0, 1, 0.5, 0.17]}
+{"id": 13, "score": 0.0, "relevant": "No", "text": "11.18, step 16).", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
+{"id": 14, "score": 0.0, "relevant": "No", "text": "To exit the cell, the virion buds out (Fig.", "common_words": 2, "features": [0.4, 0.0, 0, 1, 0.4, 0.2]}
+{"id": 15, "score": 0.0, "relevant": "No", "text": "11.18, step 13) for export to the cell membrane (step 14).", "common_words": 1, "features": [0.14, 0.0, 0, 1, 0.71, 0.0]}
+{"id": 16, "score": 0.0, "relevant": "No", "text": "are glycosylated by host enzymes and then transferred to the Golgi (Fig.", "common_words": 1, "features": [0.17, 0.0, 0, 1, 0.33, 0.33]}

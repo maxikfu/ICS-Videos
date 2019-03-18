@@ -1,0 +1,7 @@
+Question: The only known form of phototrophy in archaea is that of ______________.
+a) 3-phosphoglycerate, energy-yielding reaction
+b) retinal-based ion pumps
+c) light-absorbing proton pumps
+d) membrane protein complexes
+Answer: retinal-based ion pumps
+

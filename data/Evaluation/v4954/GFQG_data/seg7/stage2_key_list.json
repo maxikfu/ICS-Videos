@@ -1,0 +1,22 @@
+{"sent_id": 1, "key_list": [[4.0, "the inner membrane, cell wall", [1, 1, 2]], [3.0, "the gramnegative cell envelope", [1, 1, 1]], [3.0, "outer membrane", [1, 1, 1]]]}
+{"sent_id": 2, "key_list": [[3.5, "the cell membrane", [2, 1, 1]], [3.5, "the cytoplasm", [2, 1, 1]], [3.5, "expansion", [1, 0, 3]], [3.0, "the wall material", [1, 1, 1]], [2.0, "water", [1, 1, 0]]]}
+{"sent_id": 3, "key_list": [[8.5, "cell-surface proteins", [2, 1, 6]], [3.5, "legume plants", [1, 0, 3]], [3.5, "the nitrogen-fixing symbiont sinorhizobium", [1, 0, 3]], [3.0, "the bacteria", [1, 1, 1]], [1.5, "nitrogen fixation", [1, 0, 1]]]}
+{"sent_id": 4, "key_list": [[10.5, "the flagellum", [1, 0, 10]], [9.5, "a helical protein filament", [1, 0, 9]], [6.5, "search", [1, 0, 6]], [6.0, "the cell", [7, 1, 1]], [3.0, "another common external structure", [1, 1, 1]], [2.5, "bacteroides and prevotella species", [1, 0, 2]], [1.5, "whose rotary motor", [1, 0, 1]], [1.5, "plural, flagella", [1, 0, 1]]]}
+{"sent_id": 5, "key_list": [[6.0, "a water-filled space", [1, 1, 4]], [4.0, "the cell wall", [3, 1, 1]], [2.5, "nutrientbinding proteins", [1, 0, 2]], [2.5, "a gram-negative bacterium", [1, 0, 2]], [1.5, "secretion machines", [1, 0, 1]], [1.5, "the periplasm", [1, 0, 1]]]}
+{"sent_id": 6, "key_list": [[11.0, "the cell wall", [3, 1, 8]], [9.0, "a fortress-like structure", [1, 1, 7]], [4.5, "sugar chains", [1, 0, 4]], [4.0, "the inner and outer membranes", [1, 1, 2]], [1.5, "peptides", [1, 0, 1]], [0.5, "peptidoglycan", [1, 0, 0]]]}
+{"sent_id": 7, "key_list": [[6.0, "the cell", [7, 1, 1]], [1.5, "electron microscopy", [1, 0, 1]], [1.5, "higher resolution", [1, 0, 1]], [1.5, "a whole", [1, 0, 1]]]}
+{"sent_id": 8, "key_list": [[5.5, "cell-surface proteins", [2, 1, 3]], [3.0, "the bacterial envelope", [1, 1, 1]], [1.5, "the human intestinal epithelium", [1, 0, 1]], [0.5, "bacterium", [1, 0, 0]]]}
+{"sent_id": 9, "key_list": [[6.5, "a system", [1, 0, 6]], [3.5, "the round, compact nucleus", [1, 0, 3]], [3.5, "looped coils", [1, 0, 3]], [3.5, "the cytoplasm", [2, 1, 1]], [3.0, "a membrane", [1, 1, 1]], [3.0, "the bacterial nucleoid", [1, 1, 1]], [3.0, "eukaryotic cells", [1, 1, 1]], [1.5, "the chromosome", [1, 0, 1]]]}
+{"sent_id": 10, "key_list": [[6.0, "the cell", [7, 1, 1]], [1.5, "the resulting turgor pressure", [1, 0, 1]], [1.5, "a balloon", [1, 0, 1]]]}
+{"sent_id": 11, "key_list": [[2.5, "protein complexes", [1, 0, 2]], [1.5, "their functional conformations", [1, 0, 1]], [1.5, "the polypeptides", [1, 0, 1]]]}
+{"sent_id": 12, "key_list": [[5.0, "gradients", [1, 1, 3]], [3.0, "ions", [1, 1, 1]], [3.0, "this membrane", [1, 1, 1]], [1.5, "cytoplasmic proteins", [1, 0, 1]], [0.5, "nutrients", [1, 0, 0]]]}
+{"sent_id": 13, "key_list": [[7.0, "a cell", [1, 1, 5]], [6.0, "the cell", [7, 1, 1]], [3.5, "the z-ring", [1, 0, 3]], [3.0, "a molecule", [1, 1, 1]], [2.0, "chapter", [2, 0, 1]], [1.5, "the current research highlight", [1, 0, 1]], [1.0, "fluorescence", [2, 0, 0]], [0.5, "complex", [1, 0, 0]]]}
+{"sent_id": 14, "key_list": [[6.0, "a slippery layer", [1, 1, 4]], [3.0, "the cell form", [1, 1, 1]], [2.5, "phagocytosis", [1, 0, 2]], [2.0, "chapter", [2, 0, 1]], [0.5, "macrophages", [1, 0, 0]]]}
+{"sent_id": 15, "key_list": [[6.0, "the cell", [7, 1, 1]], [4.0, "fluorescence", [2, 0, 3]]]}
+{"sent_id": 16, "key_list": [[5.0, "how all the cell parts", [1, 1, 3]], [0.5, "interact", [1, 0, 0]]]}
+{"sent_id": 17, "key_list": []}
+{"sent_id": 18, "key_list": [[1.5, "polypeptide chains", [1, 0, 1]], [0.5, "fact", [1, 0, 0]]]}
+{"sent_id": 19, "key_list": [[6.0, "the cell", [7, 1, 1]], [4.5, "an attachment point", [1, 0, 4]], [3.5, "the cell membrane", [2, 1, 1]], [2.5, "one or more chromosomes", [1, 0, 2]], [0.5, "envelope", [1, 0, 0]]]}
+{"sent_id": 20, "key_list": [[6.0, "the cell", [7, 1, 1]], [5.0, "a single molecule", [1, 1, 3]], [4.0, "the cell wall", [3, 1, 1]]]}
+{"sent_id": 21, "key_list": [[3.5, "phospholipids", [1, 0, 3]], [3.0, "other molecules", [1, 1, 1]], [3.0, "the inner membrane", [1, 1, 1]], [2.5, "transporter proteins", [1, 0, 2]]]}
+{"sent_id": 22, "key_list": [[3.0, "additional \u201couter membrane", [1, 1, 1]]]}

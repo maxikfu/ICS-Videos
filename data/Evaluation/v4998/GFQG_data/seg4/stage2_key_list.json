@@ -1,0 +1,19 @@
+{"sent_id": 1, "key_list": [[5.5, "the rate", [1, 0, 5]], [4.5, "host population density", [2, 1, 2]], [4.5, "an increase", [1, 0, 4]], [3.5, "transmission", [1, 0, 3]], [3.0, "viral pathogens", [1, 1, 1]]]}
+{"sent_id": 2, "key_list": [[4.0, "viruses", [5, 1, 0]], [3.5, "a community", [1, 0, 3]], [3.0, "host diversity", [1, 1, 1]], [3.0, "multiple host species", [1, 1, 1]], [2.5, "the overall effect", [1, 0, 2]]]}
+{"sent_id": 3, "key_list": [[3.0, "a limited host range", [1, 1, 1]], [3.0, "each viral species", [1, 1, 1]], [2.5, "the chain", [1, 0, 2]], [2.0, "infection", [1, 1, 0]], [1.5, "a critical population density", [1, 0, 1]]]}
+{"sent_id": 4, "key_list": [[4.0, "viruses", [5, 1, 0]], [3.5, "the host population", [2, 1, 1]], [3.0, "the remaining hosts", [1, 1, 1]], [3.0, "a new host", [1, 1, 1]], [2.5, "selection", [1, 0, 2]], [2.0, "infectivity", [1, 1, 0]], [0.5, "resistance", [1, 0, 0]]]}
+{"sent_id": 5, "key_list": [[4.0, "viruses", [5, 1, 0]], [2.5, "roles", [1, 0, 2]], [1.5, "biological entities", [1, 0, 1]], [0.5, "ecosystems", [1, 0, 0]]]}
+{"sent_id": 6, "key_list": [[5.0, "acute viruses", [1, 1, 3]], [3.5, "host population density", [2, 1, 1]], [3.0, "their hosts", [1, 1, 1]], [1.5, "predators", [1, 0, 1]], [0.5, "parasites", [1, 0, 0]]]}
+{"sent_id": 7, "key_list": [[9.5, "a population density", [1, 0, 9]], [4.5, "the available resources", [1, 0, 4]], [3.0, "its host species", [1, 1, 1]], [3.0, "a virus", [1, 1, 1]], [2.5, "light", [1, 0, 2]], [1.5, "marine phytoplankton", [1, 0, 1]], [0.5, "photosynthesis", [1, 0, 0]]]}
+{"sent_id": 8, "key_list": [[5.0, "(viruses", [1, 1, 3]], [3.5, "the host population", [2, 1, 1]], [3.5, "the host", [2, 1, 1]], [3.0, "persistent viruses", [1, 1, 1]]]}
+{"sent_id": 9, "key_list": [[5.5, "conferring traits", [1, 0, 5]], [4.0, "viruses", [5, 1, 0]], [3.5, "the ability", [1, 0, 3]], [2.0, "species", [1, 1, 0]], [1.5, "new food sources", [1, 0, 1]]]}
+{"sent_id": 10, "key_list": [[6.0, "other species", [1, 1, 4]], [3.0, "the given virus", [1, 1, 1]], [1.5, "other ones", [1, 0, 1]], [1.5, "the resources", [1, 0, 1]]]}
+{"sent_id": 11, "key_list": [[4.5, "a bioweapon", [1, 0, 4]], [4.0, "the virus", [3, 1, 1]], [3.0, "a persistent virus", [1, 1, 1]], [1.5, "competitor populations", [1, 0, 1]], [1.5, "natural mammal populations", [1, 0, 1]]]}
+{"sent_id": 12, "key_list": [[5.5, "the koala retrovirus", [1, 0, 5]], [2.5, "many koala populations", [1, 0, 2]], [1.5, "an example", [1, 0, 1]], [1.0, "korv", [2, 0, 0]], [0.5, "australia", [1, 0, 0]]]}
+{"sent_id": 13, "key_list": [[4.0, "the virus", [3, 1, 1]], [1.5, "the retrovirus", [1, 0, 1]], [1.0, "korv", [2, 0, 0]]]}
+{"sent_id": 14, "key_list": [[7.5, "the great diversity", [1, 0, 7]], [5.5, "phytoplankton", [1, 0, 5]], [3.5, "the continual threat", [1, 0, 3]], [3.0, "marine viral epidemics", [1, 1, 1]], [2.5, "toxin-producing dinoflagellates", [1, 0, 2]], [2.5, "silica-shelled diatoms", [1, 0, 2]]]}
+{"sent_id": 15, "key_list": [[5.5, "many obscure herpes", [1, 0, 5]], [4.0, "cold-type viruses", [1, 1, 2]], [3.5, "normal development", [1, 0, 3]], [2.0, "the immune system", [2, 0, 1]], [0.5, "humans", [1, 0, 0]]]}
+{"sent_id": 16, "key_list": [[3.5, "the evolution", [1, 0, 3]], [3.5, "the dominance", [1, 0, 3]], [3.0, "many distinct host species", [1, 1, 1]], [3.0, "any one species", [1, 1, 1]], [3.0, "marine viruses", [1, 1, 1]]]}
+{"sent_id": 17, "key_list": [[4.0, "the virus", [3, 1, 1]], [2.0, "the immune system", [2, 0, 1]], [1.5, "these infected animals", [1, 0, 1]]]}
+{"sent_id": 18, "key_list": [[4.0, "viruses", [5, 1, 0]], [3.5, "the host", [2, 1, 1]], [3.5, "extinction", [1, 0, 3]], [3.0, "host density", [1, 1, 1]]]}
+{"sent_id": 19, "key_list": [[3.0, "their host bodies", [1, 1, 1]], [0.5, "nutrients", [1, 0, 0]]]}

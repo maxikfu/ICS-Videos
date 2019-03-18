@@ -1,0 +1,15 @@
+{"id": 1, "score": 2.64, "relevant": "No", "text": "Endophytes are bacteria or fungi that grow within plant transport vessels, conferring benefits such as resistance to pathogens.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.82, 0.0]}
+{"id": 2, "score": 2.5, "relevant": "No", "text": "The soil food web includes a complex range of microbial producers, consumers, predators, decomposers, and mutualists.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 3, "score": 2.39, "relevant": "No", "text": "Microbial mats and biofilms are complex multispecies communities of bacteria, fungi, and other Fungi decompose lignin, a complex aromatic tree component that is challenging to digest.", "common_words": 2, "features": [0.12, 0.0, 0, 1, 0.56, 0.06]}
+{"id": 4, "score": 2.12, "relevant": "No", "text": "Certain fungi form symbiotic associations with plant roots called mycorrhizae.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.56, 0.0]}
+{"id": 5, "score": 1.72, "relevant": "No", "text": "Wetland soils alternate aerated (dry) with anoxic (water-saturated) conditions.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.11]}
+{"id": 6, "score": 1.7, "relevant": "No", "text": "Some fungi invade plants using haustoria, which grow into the plant cell by penetrating the cell wall and invaginating the cell membrane to avoid leakage of cytoplasm.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.85, 0.0]}
+{"id": 7, "score": 1.28, "relevant": "No", "text": "Some of the bacteria enter root cells and develop into nitrogen-fixing bacteroids, which gain energy from plant cell respiration but must remain anaerobic.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.64, 0.0]}
+{"id": 8, "score": 0.0, "relevant": "No", "text": "Some pathogens only mildly affect the plant, whereas others cause devastation.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.67, 0.0]}
+{"id": 9, "score": 0.0, "relevant": "No", "text": "Plant pathogens include bacteria, fungi, and viruses.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.83, 0.0]}
+{"id": 10, "score": 0.0, "relevant": "No", "text": "The bacteria enter the root as infection threads.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.8, 0.0]}
+{"id": 11, "score": 0.0, "relevant": "No", "text": "Rhizobia induce legume roots to nodulate for nitrogen fixation.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.57, 0.14]}
+{"id": 12, "score": 0.0, "relevant": "No", "text": "Wetland soils are among the most productive ecosystems.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 13, "score": 0.0, "relevant": "No", "text": "Anoxic wetland soil favors methanogenesis.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.6, 0.0]}
+{"id": 14, "score": 0.0, "relevant": "No", "text": "Mycorrhizae transport soil nutrients among many different kinds of plants.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.71, 0.14]}
+{"id": 15, "score": 0.0, "relevant": "No", "text": "Lignin decomposition forms humus.", "common_words": 1, "features": [0.25, 0.0, 0, 1, 0.75, 0.0]}

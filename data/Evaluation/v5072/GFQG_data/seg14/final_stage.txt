@@ -1,0 +1,7 @@
+Question: Nutrition is one factor, but ______________ such as temperature, pH, and osmolarity are equally important.
+a) “niche-mates
+b) elegant developmental processes
+c) the microbial communities
+d) niche-specific physical parameters
+Answer: niche-specific physical parameters
+

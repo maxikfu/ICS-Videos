@@ -1,19 +1,19 @@
-{"id": 1, "score": 2.28, "relevant": "0", "text": "Many people associate the word crystal with delicate wine goblets or glassy objects with smooth sides and gem-like shapes.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.64, 0.0]}
-{"id": 2, "score": 2.12, "relevant": "0", "text": "Therefore, all mineral samples are crystals or crystalline solids, even if they lack smooth-sided faces.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.56, 0.0]}
-{"id": 3, "score": 2.0, "relevant": "0", "text": "The specimen shown in for example, exhibits the characteristic crystal form associated with quartz\u2014a six-sided prismatic shape with pyramidal ends.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 4, "score": 2.0, "relevant": "0", "text": "If the answer is \u201cyes,\u201d the specific gravity of the sample will likely be between 2.5 and 3. \n\n2.", "common_words": 2, "features": [0.2, 0.0, 0, 1, 0.3, 0.0]}
-{"id": 5, "score": 1.9, "relevant": "0", "text": "In geology, the term crystal or crystalline refers to any natural solid with an orderly, repeating internal structure.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.45, 0.0]}
-{"id": 6, "score": 1.88, "relevant": "0", "text": "Describe a simple chemical test that is useful in identifying the mineral calcite. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.44, 0.0]}
-{"id": 7, "score": 1.82, "relevant": "0", "text": "Distinguish between compositional and structural variations in minerals and provide one example of each. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.38, 0.12]}
-{"id": 8, "score": 1.24, "relevant": "0", "text": "However, the quartz crystals in the sample of granite shown in do not display well-defined faces.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.62, 0.0]}
-{"id": 9, "score": 0.0, "relevant": "0", "text": "Both quartz samples are nonetheless crystalline.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 10, "score": 0.0, "relevant": "0", "text": "5.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
-{"id": 11, "score": 0.0, "relevant": "0", "text": "List three terms that describe tenacity.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
-{"id": 12, "score": 0.0, "relevant": "0", "text": "What is meant by a mineral\u2019s tenacity?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 13, "score": 0.0, "relevant": "0", "text": "4.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
-{"id": 14, "score": 0.0, "relevant": "0", "text": "What differentiates cleavage from fracture?", "common_words": 1, "features": [0.33, 0.0, 0, 1, 0.67, 0.0]}
-{"id": 15, "score": 0.0, "relevant": "0", "text": "3.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
-{"id": 16, "score": 0.0, "relevant": "0", "text": "Give an example of a mineral that supports your answer.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
-{"id": 17, "score": 0.0, "relevant": "0", "text": "Why is color not always a useful property in mineral identification?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.6, 0.0]}
-{"id": 18, "score": 0.0, "relevant": "0", "text": "(Photo by Chip Clark/Fundamental this mineral feel about as \u201cheavy\u201d as similarly sized rocks you have handled?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.27, 0.27]}
-{"id": 19, "score": 0.0, "relevant": "0", "text": "This sample of calcite exhibits double refraction.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.6, 0.0]}
+{"id": 1, "score": 2.28, "relevant": "No", "text": "Many people associate the word crystal with delicate wine goblets or glassy objects with smooth sides and gem-like shapes.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.64, 0.0]}
+{"id": 2, "score": 2.12, "relevant": "No", "text": "Therefore, all mineral samples are crystals or crystalline solids, even if they lack smooth-sided faces.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.56, 0.0]}
+{"id": 3, "score": 2.0, "relevant": "No", "text": "If the answer is \u201cyes,\u201d the specific gravity of the sample will likely be between 2.5 and 3. \n\n2.", "common_words": 2, "features": [0.2, 0.0, 0, 1, 0.3, 0.0]}
+{"id": 4, "score": 1.9, "relevant": "No", "text": "In geology, the term crystal or crystalline refers to any natural solid with an orderly, repeating internal structure.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.45, 0.0]}
+{"id": 5, "score": 1.88, "relevant": "No", "text": "Describe a simple chemical test that is useful in identifying the mineral calcite. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.44, 0.0]}
+{"id": 6, "score": 1.82, "relevant": "No", "text": "Distinguish between compositional and structural variations in minerals and provide one example of each. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.38, 0.12]}
+{"id": 7, "score": 1.24, "relevant": "No", "text": "However, the quartz crystals in the sample of granite shown in do not display well-defined faces.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.62, 0.0]}
+{"id": 8, "score": 1.0, "relevant": "No", "text": "The specimen shown in for example, exhibits the characteristic crystal form associated with quartz\u2014a six-sided prismatic shape with pyramidal ends.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.5, 0.0]}
+{"id": 9, "score": 0.0, "relevant": "No", "text": "Both quartz samples are nonetheless crystalline.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 10, "score": 0.0, "relevant": "No", "text": "5.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
+{"id": 11, "score": 0.0, "relevant": "No", "text": "List three terms that describe tenacity.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 12, "score": 0.0, "relevant": "No", "text": "What is meant by a mineral\u2019s tenacity?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 13, "score": 0.0, "relevant": "No", "text": "4.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
+{"id": 14, "score": 0.0, "relevant": "No", "text": "What differentiates cleavage from fracture?", "common_words": 1, "features": [0.33, 0.0, 0, 1, 0.67, 0.0]}
+{"id": 15, "score": 0.0, "relevant": "No", "text": "3.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
+{"id": 16, "score": 0.0, "relevant": "No", "text": "Give an example of a mineral that supports your answer.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 17, "score": 0.0, "relevant": "No", "text": "Why is color not always a useful property in mineral identification?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.6, 0.0]}
+{"id": 18, "score": 0.0, "relevant": "No", "text": "(Photo by Chip Clark/Fundamental this mineral feel about as \u201cheavy\u201d as similarly sized rocks you have handled?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.27, 0.27]}
+{"id": 19, "score": 0.0, "relevant": "No", "text": "This sample of calcite exhibits double refraction.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.6, 0.0]}

@@ -1,0 +1,15 @@
+{"id": 1, "score": 2.5, "relevant": "No", "text": "In addition, this streptomycete has an enzyme that inactivates anyy streptomycin that may leak back into the mycelium.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 2, "score": 2.06, "relevant": "No", "text": "Other organisms protect themselves by methylating key residues on their rRNA to prevent drug binding or by setting up permeability barriers that thwart reentry of the antibiotic.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.53, 0.0]}
+{"id": 3, "score": 1.88, "relevant": "No", "text": "Each specific antibiotic resistance gene product will use only one of the four mechanisms shown. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.44, 0.0]}
+{"id": 4, "score": 1.8, "relevant": "No", "text": "Unfortunately, these mechanisms have been shared via horizontal gene transfers, making many pathogens antibiotic resistant.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.4, 0.0]}
+{"id": 5, "score": 1.62, "relevant": "No", "text": "Horizontal gene transfers are discussed in Sections 9.6 and 25.2. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.25, 0.25]}
+{"id": 6, "score": 1.48, "relevant": "No", "text": "These and other strategies of self-preservation employed by antibiotic-producing microbes are clever.", "common_words": 1, "features": [0.12, 0.0, 0, 0, 0.62, 0.0]}
+{"id": 7, "score": 0.0, "relevant": "No", "text": "catalyzes ATP-dependent adenylylation (yellow) of a hydroxyl group.", "common_words": 0, "features": [0.0, 0.14, 0, 1, 0.43, 0.14]}
+{"id": 8, "score": 0.0, "relevant": "No", "text": "catalyzes ATP-dependent phosphorylation (yellow) of a hydroxyl group. \n\n", "common_words": 0, "features": [0.0, 0.12, 0, 1, 0.38, 0.12]}
+{"id": 9, "score": 0.0, "relevant": "No", "text": "These mutations occur spontaneously and are not typically transferred between organisms. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.29, 0.0]}
+{"id": 10, "score": 0.0, "relevant": "No", "text": "ribosomal proteins, for instance, can confer resistance to methicillin and streptomycin, respectively.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.62, 0.0]}
+{"id": 11, "score": 0.0, "relevant": "No", "text": "can be part of the chromosome.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 2.0, 0.0]}
+{"id": 12, "score": 0.0, "relevant": "No", "text": "Modify antibiotic. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.33]}
+{"id": 13, "score": 0.0, "relevant": "No", "text": "Degrade antibiotic. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
+{"id": 14, "score": 0.0, "relevant": "No", "text": "Alter target. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.33]}
+{"id": 15, "score": 0.0, "relevant": "No", "text": "organism synthesizes an inactive precursor of streptomycin, 6-phosphorylstreptomycin, which is secreted from the cell and, once outside the mycelium, becomes activated by a specific phosphatase.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.62, 0.0]}

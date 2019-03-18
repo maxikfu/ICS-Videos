@@ -1,0 +1,7 @@
+Question: Viral replication is largely inhibited until ______________ by host polymerases.
+a) the poliovirus replication cycle
+b) the exception
+c) the basal cells transcription
+d) transcription
+Answer: the basal cells transcription
+

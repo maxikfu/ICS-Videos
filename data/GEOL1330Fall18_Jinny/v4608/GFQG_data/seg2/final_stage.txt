@@ -1,7 +1,7 @@
-Question: Moreover, ______________ containing the elements lithium, cesium, uranium, and the rare earths* are occasionally found .
-a) heavy metals
-b) computers
-c) cell phones
-d) minerals
-Answer: minerals
+Question: Moreover, minerals containing the elements lithium, cesium, uranium, and ______________* are occasionally found .
+a) granitic magmas
+b) heavy metals
+c) the rare earths
+d) rare elements
+Answer: the rare earths
 

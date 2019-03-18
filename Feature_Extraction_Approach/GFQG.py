@@ -61,7 +61,7 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
         os.mkdir('GFQG_data')
     if not os.path.exists('GFQG_data/seg' + str(video_seg_id)):
         os.mkdir('GFQG_data/seg' + str(video_seg_id))
-    weights = [2, 1, 0.5, 1, 2, 0.5]
+    weights = [2, 1, 0.2, 1, 2, 0.5]
     subdir = 'GFQG_data/seg' + str(video_seg_id) + '/'
     path_stage1 = subdir + "stage1_imp_sent.json"
     text = book_segment_json['text']
@@ -91,7 +91,7 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
             features.append(f3)
             if any(discourse in sent.text for discourse in ['Because', 'Here’s',
                                                                         'Ultimately', 'Chapter', 'Finally', 'As described',
-                                                                        'The following', 'For example', 'So', 'Above',
+                                                                        'The following', 'So', 'Above',
                                                                         'Figure', 'like this one', 'fig.', 'These',
                                                                         'This', 'That', 'Thus', 'Although',
                                                                         'Since', 'As a result', 'shown in']):
@@ -122,10 +122,11 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
         for res in selection:
             id += 1
             dic = {"id": id, "score": round(res[0], 2), "relevant": "No", "text": res[1].text, "common_words": res[2][-1], "features": res[2][:-1]}
-            dic_1 = {"id": id, "score": round(res[0], 2), "text": res[1]}
+            dic_1 = {"id": id, "score": round(res[0], 2), "text": res[1], "relevant": "No"}
             if res[2][-1] >= 4 and res[2][0] >= 0.36:  # relevant criteria
-                output.append(dic_1)
                 dic['relevant'] = 'Yes'
+                dic_1['relevant'] = 'Yes'
+            output.append(dic_1)
             f.write(json.dumps(dic) + '\n')
     return output
 
@@ -142,7 +143,7 @@ def key_list_formation(video_seg_id, stage1_results, video_seg_words):
     path_stage2 = subdir + "stage2_key_list.json"
     output = []
     output_debug = []
-    weights = [0.5, 1.5, 1]
+    weights = [0.5, 1, 1]
     noun_ch_count = defaultdict(int)
     for dic in stage1_results:  # counting number of times this noun chunk occurs in text
         sent_id = dic['id']
@@ -165,7 +166,7 @@ def key_list_formation(video_seg_id, stage1_results, video_seg_words):
                 tokens_in_nch = [t.lemma_.strip().lower() for t in noun_chunk if not is_stop(t.text.lower())]
                 if any(x in video_seg_words for x in set(tokens_in_nch)):
                     f2 += 1
-                f3 = token_dep_height([noun_chunk.root]) - 1
+                f3 = 1/token_dep_height([noun_chunk.root])
                 features.append(f1)
                 features.append(f2)
                 features.append(f3)
@@ -195,7 +196,7 @@ def distractor_selection(video_seg_id, key_phrase, key_list):
         sim_score = 0
         sim_score += key_phrase.root.similarity(d.root)
         sim_score += key_phrase.similarity(d)
-        if sim_score != 2 and d.root.lemma_ not in exists:
+        if sim_score != 2 and d.root.lemma_ not in exists and key_phrase.root.lower_ != d.root.lower_:
             exists.add(d.root.lemma_)
             output.append((round(sim_score, 2), d))
     output.sort(reverse=True)

@@ -1,7 +1,7 @@
-Question: By contrast, rocks high in silica contain ______________, magnesium, or calcium but are enriched with sodium and potassium.
-a) very little iron
-b) a high silica content
-c) iron
-d) a systematic manner
-Answer: very little iron
+Question: By contrast, rocks high in ______________ contain very little iron, magnesium, or calcium but are enriched with sodium and potassium.
+a) a high silica content
+b) silica
+c) its behavior
+d) sodium
+Answer: silica
 
