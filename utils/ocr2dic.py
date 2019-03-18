@@ -26,7 +26,7 @@ def extract_sentences_from_ocr(data):
                 region_id = row['RegionId']
                 file_dict[file_name][region_id] = []  # list of sentences
                 line_id = row['LineId']
-            sentence.append(row['Word'])
+            sentence.append(str(row['Word']))
         if sentence:  # need ability to add last sentence
             file_dict[file_name][region_id].append(sentence)
     return file_dict
@@ -46,10 +46,11 @@ def segmentation(input_dict, path_to_segments):
     segment_file = segment_df['filename']
     new_dic = {}
     for seg_id, filename in zip(segment_index, segment_file):
-        if seg_id not in new_dic:
-            new_dic[seg_id] = {filename: input_dict[filename]}
-        else:
-            new_dic[seg_id][filename] = input_dict[filename]
+        if filename in input_dict:
+            if seg_id not in new_dic:
+                new_dic[seg_id] = {filename: input_dict[filename]}
+            elif filename in new_dic[seg_id]:
+                new_dic[seg_id][filename] = input_dict[filename]
     return new_dic
 
 
