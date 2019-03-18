@@ -60,6 +60,6 @@ def video_2book(video_id, path_to_book):
 
 
 if __name__ == '__main__':
-    videos_id = [4588, 4608, 4609, 4618, 4623]
+    videos_id = [4853]
     for v in videos_id:
-        video_2book(v, '../data/GEOL1330Fall18_Jinny/tt_Earth_cleaned.json')
+        video_2book(v, '../data/Evaluation/tt_Microbiology_full_cleaned.json')
