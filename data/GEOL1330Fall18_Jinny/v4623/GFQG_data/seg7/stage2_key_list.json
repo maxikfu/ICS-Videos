@@ -7,11 +7,11 @@
 {"sent_id": 7, "key_list": [[4.5, "an episode", [1, 0, 4]], [2.5, "hot-spot volcanism", [1, 0, 2]], [1.5, "the surface", [1, 0, 1]]]}
 {"sent_id": 8, "key_list": [[3.5, "oceanic ridges", [1, 0, 3]], [2.5, "divergent plate boundaries", [1, 0, 2]], [1.5, "this process", [1, 0, 1]], [1.0, "plates", [2, 0, 0]]]}
 {"sent_id": 9, "key_list": [[3.5, "tensional forces", [1, 0, 3]], [1.5, "chapter", [1, 0, 1]], [1.0, "plates", [2, 0, 0]], [0.5, "centers", [1, 0, 0]]]}
-{"sent_id": 10, "key_list": [[2.5, "normal and other volatiles", [1, 0, 2]], [0.5, "ice", [1, 0, 0]], [0.5, "salt", [1, 0, 0]]]}
-{"sent_id": 11, "key_list": [[3.5, "decompression melting", [2, 1, 1]], [1.5, "confining pressure", [1, 0, 1]]]}
-{"sent_id": 12, "key_list": [[3.5, "kilometer", [1, 0, 3]], [1.5, "the upper crust", [1, 0, 1]]]}
-{"sent_id": 13, "key_list": [[3.0, "the mantle", [1, 1, 1]]]}
+{"sent_id": 10, "key_list": [[3.0, "the mantle", [1, 1, 1]]]}
+{"sent_id": 11, "key_list": [[2.5, "normal and other volatiles", [1, 0, 2]], [0.5, "ice", [1, 0, 0]], [0.5, "salt", [1, 0, 0]]]}
+{"sent_id": 12, "key_list": [[5.0, "water", [2, 0, 4]], [3.5, "the geothermal gradient", [2, 1, 1]]]}
+{"sent_id": 13, "key_list": [[6.0, "the melting point curve", [1, 1, 4]], [4.0, "the mantle rock addition", [1, 1, 2]], [3.0, "a typical geothermal gradient", [1, 1, 1]], [1.0, "water", [2, 0, 0]]]}
 {"sent_id": 14, "key_list": [[5.5, "temperature", [4, 1, 2]], [4.5, "this increase", [1, 0, 4]], [3.5, "the geothermal gradient", [2, 1, 1]], [2.0, "depth", [1, 1, 0]]]}
-{"sent_id": 15, "key_list": [[5.0, "water", [2, 0, 4]], [3.5, "the geothermal gradient", [2, 1, 1]]]}
-{"sent_id": 16, "key_list": [[6.0, "the melting point curve", [1, 1, 4]], [4.0, "the mantle rock addition", [1, 1, 2]], [3.0, "a typical geothermal gradient", [1, 1, 1]], [1.0, "water", [2, 0, 0]]]}
+{"sent_id": 15, "key_list": [[3.5, "kilometer", [1, 0, 3]], [1.5, "the upper crust", [1, 0, 1]]]}
+{"sent_id": 16, "key_list": [[3.5, "decompression melting", [2, 1, 1]], [1.5, "confining pressure", [1, 0, 1]]]}
 {"sent_id": 17, "key_list": [[3.5, "temperature", [4, 1, 0]]]}

@@ -9,5 +9,5 @@
 {"sent_id": 9, "key_list": [[4.5, "semiprecious gems", [1, 0, 4]], [3.5, "addition", [1, 0, 3]], [2.5, "beryl", [1, 0, 2]], [1.5, "topaz", [1, 0, 1]], [1.5, "some pegmatites", [1, 0, 1]], [1.5, "the common silicates", [1, 0, 1]], [0.5, "tourmaline", [1, 0, 0]]]}
 {"sent_id": 10, "key_list": [[4.0, "rare elements", [1, 1, 2]], [3.0, "heavy metals", [1, 1, 1]], [1.5, "the residual melt", [1, 0, 1]], [1.5, "granitic magmas", [1, 0, 1]]]}
 {"sent_id": 11, "key_list": [[7.0, "a group", [1, 1, 5]], [5.0, "15 elements", [1, 1, 3]], [4.0, "atomic numbers", [1, 1, 2]], [3.5, "the rare earths", [2, 1, 1]], [1.5, "similar properties", [1, 0, 1]]]}
-{"sent_id": 12, "key_list": [[2.5, "the production", [1, 0, 2]], [2.5, "feldspar", [2, 1, 0]], [1.5, "electrical insulation", [1, 0, 1]], [1.0, "muscovite", [2, 0, 0]], [0.5, "glitter", [1, 0, 0]], [0.5, "ceramics", [1, 0, 0]]]}
-{"sent_id": 13, "key_list": [[4.0, "the least abundant elements", [1, 1, 2]], [0.5, "pegmatites", [1, 0, 0]]]}
+{"sent_id": 12, "key_list": [[4.0, "the least abundant elements", [1, 1, 2]], [0.5, "pegmatites", [1, 0, 0]]]}
+{"sent_id": 13, "key_list": [[2.5, "the production", [1, 0, 2]], [2.5, "feldspar", [2, 1, 0]], [1.5, "electrical insulation", [1, 0, 1]], [1.0, "muscovite", [2, 0, 0]], [0.5, "glitter", [1, 0, 0]], [0.5, "ceramics", [1, 0, 0]]]}

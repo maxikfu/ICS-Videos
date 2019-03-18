@@ -1,7 +1,7 @@
 Question: One group of feldspar minerals contains potassium ions in its structure and is therefore referred to as ______________.
-a) a component
-b) plagioclase feldspar
-c) crystallization
-d) potassium feldspar
+a) potassium feldspar
+b) crystallization
+c) plagioclase feldspar
+d) a component
 Answer: potassium feldspar
 

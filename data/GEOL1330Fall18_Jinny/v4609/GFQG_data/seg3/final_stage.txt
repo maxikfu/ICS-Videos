@@ -1,7 +1,7 @@
 Question: Images from Voyagers 1 and 2 revealed, to the surprise of most geoscientists, that each of ______________’s Rings One of the surprising aspects of the lean satellites is a unique world .
 a) earth’s moon
-b) the sun
-c) mercury
-d) the four galijupiter
+b) mercury
+c) the four galijupiter
+d) the sun
 Answer: the four GaliJupiter
 

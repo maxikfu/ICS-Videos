@@ -1,7 +1,7 @@
 Question: An important factor affecting the peridotite, the ______________ at which peridotite melts is melting ______________ of rock is its water content.
 a) the temperature
-b) rock
-c) temperature
+b) temperature
+c) rock
 d) depth
 Answer: temperature
 

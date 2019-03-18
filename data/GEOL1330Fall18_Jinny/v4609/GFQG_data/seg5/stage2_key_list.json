@@ -4,6 +4,6 @@
 {"sent_id": 4, "key_list": [[8.0, "igneous rocks", [1, 1, 6]], [4.5, "the dark portion", [1, 0, 4]], [4.0, "an otherwise light-colored rock", [1, 1, 2]], [0.5, "hornblende", [1, 0, 0]]]}
 {"sent_id": 5, "key_list": [[7.0, "a common igneous rock", [1, 1, 5]], [6.5, "basalt", [1, 0, 6]], [4.5, "up to 50 percent", [1, 0, 4]], [4.0, "olivine and related forms", [1, 1, 2]], [3.5, "the oceanic crust", [1, 0, 3]], [2.5, "earth\u2019s upper man tle", [1, 0, 2]], [1.5, "the continents", [1, 0, 1]], [1.5, "volcanic areas", [1, 0, 1]]]}
 {"sent_id": 6, "key_list": [[4.5, "pyroxene", [1, 0, 4]], [4.0, "rather blocky crystals", [1, 1, 2]]]}
-{"sent_id": 7, "key_list": [[1.5, "amphibole group", [1, 0, 1]]]}
-{"sent_id": 8, "key_list": [[3.0, "transparent olivine", [1, 1, 1]]]}
-{"sent_id": 9, "key_list": [[3.0, "a rock", [1, 1, 1]], [2.0, "crystals", [1, 1, 0]]]}
+{"sent_id": 7, "key_list": [[3.0, "a rock", [1, 1, 1]], [2.0, "crystals", [1, 1, 0]]]}
+{"sent_id": 8, "key_list": [[1.5, "amphibole group", [1, 0, 1]]]}
+{"sent_id": 9, "key_list": [[3.0, "transparent olivine", [1, 1, 1]]]}

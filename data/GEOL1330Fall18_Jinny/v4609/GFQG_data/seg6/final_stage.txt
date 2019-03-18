@@ -1,7 +1,7 @@
 Question: In high-grade metamorphism, such features as ______________, fossils, and vesicles that 1.
 a) denser forms
-b) bedding planes
-c) preexisting ones
-d) larger crystals
+b) larger crystals
+c) bedding planes
+d) preexisting ones
 Answer: bedding planes
 

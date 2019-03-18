@@ -9,7 +9,7 @@
 {"sent_id": 9, "key_list": [[4.5, "the modified mercalli intensity scale", [1, 0, 4]], [1.5, "its standard", [1, 0, 1]], [1.5, "california buildings", [1, 0, 1]], [1.5, "table", [1, 0, 1]]]}
 {"sent_id": 10, "key_list": [[2.5, "the washington monument", [1, 0, 2]], [1.5, "the epicenter", [1, 0, 1]], [1.5, "80 miles", [1, 0, 1]], [1.5, "the national cathedral", [1, 0, 1]], [1.5, "an national landmarks", [1, 0, 1]], [0.5, "florida", [1, 0, 0]], [0.5, "maine", [1, 0, 0]]]}
 {"sent_id": 11, "key_list": [[7.5, "a much larger area", [1, 0, 7]], [3.5, "similar magnitudes", [1, 0, 3]], [1.5, "the west", [1, 0, 1]], [1.5, "earthquakes", [3, 0, 0]], [1.5, "the rocky mountains", [1, 0, 1]]]}
-{"sent_id": 12, "key_list": [[1.5, "several magnitude scales", [1, 0, 1]], [1.5, "a result", [1, 0, 1]]]}
-{"sent_id": 13, "key_list": [[0.5, "everybody", [1, 0, 0]]]}
-{"sent_id": 14, "key_list": [[4.0, "questions", [1, 1, 2]], [2.5, "some well-built wood structures", [1, 0, 2]], [2.5, "the 12-point mercalli intensity scale", [1, 0, 2]], [2.0, "an earthquake", [2, 0, 1]], [1.5, "their zip code", [1, 0, 1]], [1.5, "the users", [1, 0, 1]], [1.5, "most masonry buildings", [1, 0, 1]], [0.5, "shelves", [1, 0, 0]], [0.5, "objects", [1, 0, 0]], [0.5, "example", [1, 0, 0]]]}
-{"sent_id": 15, "key_list": [[4.5, ", a community internet intensity map", [1, 0, 4]], [2.5, "the one", [1, 0, 2]], [1.5, "a few hours", [1, 0, 1]]]}
+{"sent_id": 12, "key_list": [[0.5, "everybody", [1, 0, 0]]]}
+{"sent_id": 13, "key_list": [[1.5, "several magnitude scales", [1, 0, 1]], [1.5, "a result", [1, 0, 1]]]}
+{"sent_id": 14, "key_list": [[4.5, ", a community internet intensity map", [1, 0, 4]], [2.5, "the one", [1, 0, 2]], [1.5, "a few hours", [1, 0, 1]]]}
+{"sent_id": 15, "key_list": [[4.0, "questions", [1, 1, 2]], [2.5, "some well-built wood structures", [1, 0, 2]], [2.5, "the 12-point mercalli intensity scale", [1, 0, 2]], [2.0, "an earthquake", [2, 0, 1]], [1.5, "their zip code", [1, 0, 1]], [1.5, "the users", [1, 0, 1]], [1.5, "most masonry buildings", [1, 0, 1]], [0.5, "shelves", [1, 0, 0]], [0.5, "objects", [1, 0, 0]], [0.5, "example", [1, 0, 0]]]}

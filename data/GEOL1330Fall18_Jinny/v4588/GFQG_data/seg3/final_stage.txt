@@ -1,7 +1,7 @@
-Question: Although this chapter deals primarily with the nature of minerals, keep in mind that most rocks are simply ______________ of minerals.
-a) aggregates
-b) most rocks
-c) minerals
-d) noncrystalline glassy substances
-Answer: aggregates
+Question: Because the properties of rocks are determined largely by ______________ and crystalline structure of the minerals contained within them, we will first consider these Earth materials.
+a) the minerals
+b) the properties
+c) crystalline structure
+d) the chemical composition
+Answer: the chemical composition
 

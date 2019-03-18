@@ -1,15 +1,2 @@
-{"sent_id": 1, "key_list": [[7.0, "slowly moving groundwater", [1, 1, 5]], [3.5, "rocks", [2, 1, 1]], [3.5, "fractures", [1, 0, 3]], [2.5, "minerals", [2, 1, 0]], [0.5, "sediments", [1, 0, 0]], [0.5, "voids", [1, 0, 0]]]}
-{"sent_id": 2, "key_list": [[8.0, "spectacular crystals", [1, 1, 6]], [4.5, "quartz", [1, 0, 4]], [4.0, "other less common minerals", [1, 1, 2]], [3.5, "calcite", [1, 0, 3]], [2.5, "geodes", [2, 1, 0]]]}
-{"sent_id": 3, "key_list": [[10.5, "geodes", [2, 1, 8]], [7.0, "quartz crystals", [1, 1, 5]], [4.0, "cavities", [1, 1, 2]], [3.0, "groundwater precipitates", [1, 1, 1]], [3.0, "this one form", [1, 1, 1]], [2.5, "rocks", [2, 1, 0]], [2.0, "silica", [1, 1, 0]]]}
-{"sent_id": 4, "key_list": [[5.5, "a somewhat spherically shaped object", [1, 0, 5]], [5.0, "inwardprojecting crystals", [1, 1, 3]], [3.5, "one interesting example", [1, 0, 3]], [2.0, "groundwater", [1, 1, 0]]]}
-{"sent_id": 5, "key_list": [[2.5, "the solution", [3, 0, 1]], [2.5, "crystalline solids", [1, 0, 2]], [1.5, "the ions", [1, 0, 1]], [1.0, "saturation", [2, 0, 0]], [0.5, "bond", [1, 0, 0]]]}
-{"sent_id": 6, "key_list": [[3.5, "an aqueous (water) solution", [1, 0, 3]], [3.5, "the most familiar way", [1, 0, 3]], [2.5, "minerals", [2, 1, 0]], [1.5, "dissolved material matter", [1, 0, 1]], [0.5, "ions", [1, 0, 0]]]}
-{"sent_id": 7, "key_list": [[4.5, "two factors", [1, 0, 4]], [3.5, "a drop", [1, 0, 3]], [2.5, "the solution", [3, 0, 1]], [1.5, "temperature", [1, 0, 1]], [1.0, "saturation", [2, 0, 0]], [0.5, "evaporation", [1, 0, 0]], [0.5, "water", [1, 0, 0]]]}
-{"sent_id": 8, "key_list": [[4.5, "evidence", [1, 0, 4]], [2.5, "ancient seas", [1, 0, 2]], [2.5, "hundreds", [1, 0, 2]], [1.5, "see page", [1, 0, 1]], [0.5, "thickness", [1, 0, 0]], [0.5, "meters", [1, 0, 0]], [0.5, "deposits", [1, 0, 0]]]}
-{"sent_id": 9, "key_list": [[3.5, "good examples", [1, 0, 3]], [3.5, "the great salt lake", [1, 0, 3]], [2.5, "bolivia\u2019s great salt", [1, 0, 2]], [2.0, "this process", [2, 0, 1]], [1.5, "salar de uyuni", [1, 0, 1]], [0.5, "work", [1, 0, 0]], [0.5, "utah", [1, 0, 0]]]}
-{"sent_id": 10, "key_list": [[3.5, "the motion", [1, 0, 3]], [2.5, "the solution", [3, 0, 1]], [1.5, "the dissolved ions", [1, 0, 1]]]}
-{"sent_id": 11, "key_list": [[3.5, "arid regions", [1, 0, 3]], [1.5, "other soluble salts", [1, 0, 1]], [1.5, "these water bodies", [1, 0, 1]], [1.5, "high evaporation rates", [1, 0, 1]]]}
-{"sent_id": 12, "key_list": [[2.5, "79%", [1, 0, 2]], [1.5, "the world", [1, 0, 1]], [1.5, "south africa", [1, 0, 1]], [0.5, "production", [1, 0, 0]]]}
-{"sent_id": 13, "key_list": [[2.0, "this process", [2, 0, 1]], [1.5, "chapter", [1, 0, 1]], [1.5, "greater detail", [1, 0, 1]]]}
-{"sent_id": 14, "key_list": [[3.5, "recorded history", [1, 0, 3]], [1.5, "its beauty", [1, 0, 1]], [0.5, "gold", [1, 0, 0]]]}
-{"sent_id": 15, "key_list": [[12.0, "igneous rocks", [1, 1, 10]], [7.0, "intergrown crystals", [1, 1, 5]], [2.5, "well-developed planar surfaces", [1, 0, 2]]]}
+{"sent_id": 1, "key_list": [[7.0, "slowly moving groundwater", [1, 1, 5]], [3.5, "rocks", [2, 1, 1]], [3.5, "fractures", [1, 0, 3]], [2.0, "minerals", [1, 1, 0]], [0.5, "sediments", [1, 0, 0]], [0.5, "voids", [1, 0, 0]]]}
+{"sent_id": 3, "key_list": [[10.0, "geodes", [1, 1, 8]], [7.0, "quartz crystals", [1, 1, 5]], [4.0, "cavities", [1, 1, 2]], [3.0, "groundwater precipitates", [1, 1, 1]], [3.0, "this one form", [1, 1, 1]], [2.5, "rocks", [2, 1, 0]], [2.0, "silica", [1, 1, 0]]]}

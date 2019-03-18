@@ -13,14 +13,14 @@
 {"sent_id": 13, "key_list": [[8.5, "heat", [1, 0, 8]], [5.5, "the backand-forth bending", [1, 0, 5]], [4.5, "results", [1, 0, 4]], [3.5, "a piece", [1, 0, 3]], [2.5, "io\u2019s spectacular sulfurous volcanic eruptions", [1, 0, 2]], [2.5, "io", [5, 0, 0]], [2.5, "this gravitational flexing", [1, 0, 2]], [1.5, "sheet metal", [1, 0, 1]]]}
 {"sent_id": 14, "key_list": [[3.5, "asteroids", [1, 0, 3]], [2.5, "a warm, mobile interior", [1, 0, 2]], [1.5, "perhaps an ocean", [1, 0, 1]], [1.5, "its icy shell", [1, 0, 1]], [1.0, "europa", [2, 0, 0]], [0.5, "comets", [1, 0, 0]]]}
 {"sent_id": 15, "key_list": [[6.5, "a dynamic core", [1, 0, 6]], [4.5, "a strong magnetic field", [1, 0, 4]], [1.5, "other satellites", [1, 0, 1]], [1.0, "ganymede", [2, 0, 0]], [1.0, "example", [2, 0, 0]]]}
-{"sent_id": 16, "key_list": []}
-{"sent_id": 17, "key_list": [[1.5, "these satellites", [1, 0, 1]]]}
-{"sent_id": 18, "key_list": [[5.5, "jupiter", [7, 0, 2]], [3.5, "the collisions", [1, 0, 3]], [2.5, "a necessity", [1, 0, 2]], [2.5, "liquid water", [3, 0, 1]], [1.5, "larger bodies", [1, 0, 1]], [1.5, "remnants", [1, 0, 1]], [1.0, "life", [2, 0, 0]]]}
-{"sent_id": 19, "key_list": [[2.5, "io", [5, 0, 0]]]}
-{"sent_id": 20, "key_list": [[2.5, "more than 80 active, sulfurous volcanic centers", [1, 0, 2]]]}
-{"sent_id": 21, "key_list": [[4.5, "\u2019s tidal bulge", [1, 0, 4]], [3.5, "jupiter", [7, 0, 0]], [2.5, "its slightly eccentric orbit", [1, 0, 2]]]}
-{"sent_id": 22, "key_list": [[5.5, "its the planets", [1, 0, 5]], [3.0, "the sun", [2, 0, 2]], [3.0, "silicate minerals", [1, 1, 1]], [2.5, "liquid water", [3, 0, 1]], [2.0, "the sun", [2, 0, 1]], [1.5, "abundant liquid satellite", [1, 0, 1]], [1.5, "lava", [1, 0, 1]], [1.0, "earth", [2, 0, 0]], [0.5, "mars", [1, 0, 0]]]}
-{"sent_id": 23, "key_list": [[6.5, ", eventually, a lander", [1, 0, 6]], [6.5, "considerable interest", [1, 0, 6]], [3.5, "an orbiter", [1, 0, 3]], [2.5, "a lars", [1, 0, 2]], [2.5, "the galilean moons", [3, 0, 1]], [1.5, "their own robotic submarine", [1, 0, 1]], [1.5, "a small telescope", [1, 0, 1]], [1.0, "life", [2, 0, 0]]]}
-{"sent_id": 24, "key_list": [[3.5, "jupiter", [7, 0, 0]], [2.5, "many field", [1, 0, 2]], [1.5, "the other nearby satellites", [1, 0, 1]], [0.5, "features", [1, 0, 0]]]}
-{"sent_id": 25, "key_list": [[5.5, "prospects", [1, 0, 5]], [2.5, "liquid water", [3, 0, 1]], [1.5, "numerous parallel grooves", [1, 0, 1]]]}
-{"sent_id": 26, "key_list": [[3.5, "some point", [1, 0, 3]], [2.0, "galilean satellites", [2, 0, 1]], [1.5, "its history", [1, 0, 1]], [1.5, "densely water", [1, 0, 1]], [1.0, "areas", [2, 0, 0]]]}
+{"sent_id": 16, "key_list": [[5.5, "prospects", [1, 0, 5]], [2.5, "liquid water", [3, 0, 1]], [1.5, "numerous parallel grooves", [1, 0, 1]]]}
+{"sent_id": 17, "key_list": [[3.5, "some point", [1, 0, 3]], [2.0, "galilean satellites", [2, 0, 1]], [1.5, "its history", [1, 0, 1]], [1.5, "densely water", [1, 0, 1]], [1.0, "areas", [2, 0, 0]]]}
+{"sent_id": 18, "key_list": [[5.5, "its the planets", [1, 0, 5]], [3.0, "the sun", [2, 0, 2]], [3.0, "silicate minerals", [1, 1, 1]], [2.5, "liquid water", [3, 0, 1]], [2.0, "the sun", [2, 0, 1]], [1.5, "abundant liquid satellite", [1, 0, 1]], [1.5, "lava", [1, 0, 1]], [1.0, "earth", [2, 0, 0]], [0.5, "mars", [1, 0, 0]]]}
+{"sent_id": 19, "key_list": [[4.5, "\u2019s tidal bulge", [1, 0, 4]], [3.5, "jupiter", [7, 0, 0]], [2.5, "its slightly eccentric orbit", [1, 0, 2]]]}
+{"sent_id": 20, "key_list": [[2.5, "io", [5, 0, 0]]]}
+{"sent_id": 21, "key_list": [[3.5, "jupiter", [7, 0, 0]], [2.5, "many field", [1, 0, 2]], [1.5, "the other nearby satellites", [1, 0, 1]], [0.5, "features", [1, 0, 0]]]}
+{"sent_id": 22, "key_list": [[2.5, "more than 80 active, sulfurous volcanic centers", [1, 0, 2]]]}
+{"sent_id": 23, "key_list": []}
+{"sent_id": 24, "key_list": [[6.5, ", eventually, a lander", [1, 0, 6]], [6.5, "considerable interest", [1, 0, 6]], [3.5, "an orbiter", [1, 0, 3]], [2.5, "a lars", [1, 0, 2]], [2.5, "the galilean moons", [3, 0, 1]], [1.5, "their own robotic submarine", [1, 0, 1]], [1.5, "a small telescope", [1, 0, 1]], [1.0, "life", [2, 0, 0]]]}
+{"sent_id": 25, "key_list": [[5.5, "jupiter", [7, 0, 2]], [3.5, "the collisions", [1, 0, 3]], [2.5, "a necessity", [1, 0, 2]], [2.5, "liquid water", [3, 0, 1]], [1.5, "larger bodies", [1, 0, 1]], [1.5, "remnants", [1, 0, 1]], [1.0, "life", [2, 0, 0]]]}
+{"sent_id": 26, "key_list": [[1.5, "these satellites", [1, 0, 1]]]}

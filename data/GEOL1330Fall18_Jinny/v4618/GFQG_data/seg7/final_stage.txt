@@ -1,7 +1,7 @@
 Question: As the ice sheets waned, the climate again grew more arid, and the lake levels lowered in ______________.
 a) response
-b) basalt
-c) an obvious response
-d) water
+b) water
+c) basalt
+d) an obvious response
 Answer: response
 

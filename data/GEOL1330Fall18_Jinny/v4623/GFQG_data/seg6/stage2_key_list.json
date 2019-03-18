@@ -14,5 +14,5 @@
 {"sent_id": 14, "key_list": [[2.5, "the moon", [3, 0, 1]], [1.5, "the lunar crust", [1, 0, 1]], [0.5, "debris", [1, 0, 0]]]}
 {"sent_id": 15, "key_list": [[3.0, "the magma ocean", [1, 1, 1]], [1.5, "chapter", [1, 0, 1]], [1.5, "magmatic differentiation", [1, 0, 1]]]}
 {"sent_id": 16, "key_list": [[1.5, "weathering", [1, 0, 1]], [0.5, "erosion", [1, 0, 0]], [0.5, "earth", [1, 0, 0]]]}
-{"sent_id": 17, "key_list": [[6.5, "(2) excavation", [1, 0, 6]], [5.5, "(4) formation", [1, 0, 5]], [5.0, "the large impact basins", [2, 0, 4]], [3.5, "the late stages", [1, 0, 3]], [2.5, "the moon\u2019s outer shell", [1, 0, 2]], [1.5, "its accretion", [1, 0, 1]], [1.5, "maria basins", [1, 0, 1]]]}
-{"sent_id": 18, "key_list": [[1.5, "several large impact basins", [1, 0, 1]], [1.5, "this time", [1, 0, 1]]]}
+{"sent_id": 17, "key_list": [[1.5, "several large impact basins", [1, 0, 1]], [1.5, "this time", [1, 0, 1]]]}
+{"sent_id": 18, "key_list": [[6.5, "(2) excavation", [1, 0, 6]], [5.5, "(4) formation", [1, 0, 5]], [5.0, "the large impact basins", [2, 0, 4]], [3.5, "the late stages", [1, 0, 3]], [2.5, "the moon\u2019s outer shell", [1, 0, 2]], [1.5, "its accretion", [1, 0, 1]], [1.5, "maria basins", [1, 0, 1]]]}

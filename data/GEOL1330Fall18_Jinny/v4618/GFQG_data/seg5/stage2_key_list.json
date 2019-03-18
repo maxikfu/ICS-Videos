@@ -16,10 +16,10 @@
 {"sent_id": 16, "key_list": [[4.5, "a prized material", [1, 0, 4]], [4.5, "its excellent conchoidal fracture", [1, 0, 4]], [3.5, "ability", [1, 0, 3]], [2.5, "native ameriobsidian arrowhead native cans", [1, 0, 2]], [1.5, "a sharp, hard edge", [1, 0, 1]], [1.0, "arrowheads", [2, 0, 0]], [1.0, "obsidian", [2, 0, 0]], [0.5, "tools", [1, 0, 0]], [0.5, "americans", [1, 0, 0]]]}
 {"sent_id": 17, "key_list": [[1.5, "a thin, glassy skin", [1, 0, 1]], [1.5, "its surface", [1, 0, 1]], [1.5, "the ocean", [1, 0, 1]], [1.5, "a basaltic lava flow", [1, 0, 1]]]}
 {"sent_id": 18, "key_list": [[3.5, "an extremely viscous mass", [1, 0, 3]], [1.0, "obsidian", [2, 0, 0]], [1.0, "silica", [2, 0, 0]]]}
-{"sent_id": 19, "key_list": [[4.0, "another common vesicular rock", [1, 1, 2]], [1.5, "glassy texture", [1, 0, 1]]]}
-{"sent_id": 20, "key_list": [[8.0, "arrowheads", [2, 0, 7]], [6.5, "obsidian flows", [1, 0, 6]], [5.5, "typically a cutting tools", [1, 0, 5]], [3.5, "a natuevidence", [1, 0, 3]], [2.0, "rapid cooling", [2, 0, 1]], [1.5, "ral glass", [1, 0, 1]]]}
-{"sent_id": 21, "key_list": [[1.5, "vesicular texture", [1, 0, 1]]]}
-{"sent_id": 22, "key_list": [[6.5, "(photo", [1, 0, 6]], [4.5, "the only mechanism", [1, 0, 4]], [2.5, "jeffrey scovil", [1, 0, 2]], [2.0, "a glassy texture", [2, 0, 1]]]}
-{"sent_id": 23, "key_list": [[6.0, "an orderly crystalline obsidian", [1, 1, 4]], [5.5, "appearance", [1, 0, 5]], [3.5, "dark chunks", [1, 0, 3]], [3.5, "a common type", [1, 0, 3]], [1.5, "manufactured glass", [1, 0, 1]], [1.5, "natural glass", [1, 0, 1]]]}
-{"sent_id": 24, "key_list": [[4.5, "a measure", [1, 0, 4]], [2.5, "a fluid\u2019s resistance", [1, 0, 2]], [0.5, "viscosity", [1, 0, 0]]]}
-{"sent_id": 25, "key_list": [[3.0, "unordered ions", [1, 1, 1]], [0.5, "place", [1, 0, 0]]]}
+{"sent_id": 19, "key_list": [[4.5, "a measure", [1, 0, 4]], [2.5, "a fluid\u2019s resistance", [1, 0, 2]], [0.5, "viscosity", [1, 0, 0]]]}
+{"sent_id": 20, "key_list": [[6.5, "(photo", [1, 0, 6]], [4.5, "the only mechanism", [1, 0, 4]], [2.5, "jeffrey scovil", [1, 0, 2]], [2.0, "a glassy texture", [2, 0, 1]]]}
+{"sent_id": 21, "key_list": [[8.0, "arrowheads", [2, 0, 7]], [6.5, "obsidian flows", [1, 0, 6]], [5.5, "typically a cutting tools", [1, 0, 5]], [3.5, "a natuevidence", [1, 0, 3]], [2.0, "rapid cooling", [2, 0, 1]], [1.5, "ral glass", [1, 0, 1]]]}
+{"sent_id": 22, "key_list": [[6.0, "an orderly crystalline obsidian", [1, 1, 4]], [5.5, "appearance", [1, 0, 5]], [3.5, "dark chunks", [1, 0, 3]], [3.5, "a common type", [1, 0, 3]], [1.5, "manufactured glass", [1, 0, 1]], [1.5, "natural glass", [1, 0, 1]]]}
+{"sent_id": 23, "key_list": [[3.0, "unordered ions", [1, 1, 1]], [0.5, "place", [1, 0, 0]]]}
+{"sent_id": 24, "key_list": [[4.0, "another common vesicular rock", [1, 1, 2]], [1.5, "glassy texture", [1, 0, 1]]]}
+{"sent_id": 25, "key_list": [[1.5, "vesicular texture", [1, 0, 1]]]}

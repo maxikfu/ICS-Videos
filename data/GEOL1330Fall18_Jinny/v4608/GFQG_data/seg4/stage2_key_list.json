@@ -6,14 +6,14 @@
 {"sent_id": 6, "key_list": [[6.5, "a simple chemical test", [1, 0, 6]], [1.5, "the mineral calcite", [1, 0, 1]]]}
 {"sent_id": 7, "key_list": [[4.5, "distinguish", [1, 0, 4]], [2.5, "one example", [1, 0, 2]], [2.5, "compositional and structural variations", [1, 0, 2]], [0.5, "minerals", [1, 0, 0]]]}
 {"sent_id": 8, "key_list": [[6.5, "the quartz crystals", [1, 0, 6]], [5.0, "the sample", [2, 0, 4]], [2.5, "well-defined faces", [1, 0, 2]], [2.5, "granite", [1, 0, 2]]]}
-{"sent_id": 9, "key_list": []}
+{"sent_id": 9, "key_list": [[1.5, "both quartz samples", [1, 0, 1]]]}
 {"sent_id": 10, "key_list": []}
-{"sent_id": 11, "key_list": []}
-{"sent_id": 12, "key_list": [[3.5, "this sample", [1, 0, 3]]]}
-{"sent_id": 13, "key_list": [[3.5, "(photo", [1, 0, 3]], [2.5, "similarly sized rocks", [1, 0, 2]], [1.5, "this mineral", [1, 0, 1]], [1.5, "chip clark/fundamental", [1, 0, 1]]]}
-{"sent_id": 14, "key_list": [[1.5, "both quartz samples", [1, 0, 1]]]}
-{"sent_id": 15, "key_list": [[2.5, "a mineral\u2019s tenacity", [1, 0, 2]]]}
-{"sent_id": 16, "key_list": [[3.5, "a useful property", [1, 0, 3]], [1.5, "mineral identification", [1, 0, 1]]]}
-{"sent_id": 17, "key_list": [[3.5, "list", [1, 0, 3]], [2.5, "three terms", [1, 0, 2]], [0.5, "tenacity", [1, 0, 0]]]}
-{"sent_id": 18, "key_list": [[5.5, "an example", [1, 0, 5]], [3.5, "a mineral", [1, 0, 3]], [1.5, "your answer", [1, 0, 1]]]}
-{"sent_id": 19, "key_list": [[2.5, "cleavage", [1, 0, 2]], [2.0, "fracture", [1, 1, 0]]]}
+{"sent_id": 11, "key_list": [[3.5, "list", [1, 0, 3]], [2.5, "three terms", [1, 0, 2]], [0.5, "tenacity", [1, 0, 0]]]}
+{"sent_id": 12, "key_list": [[2.5, "a mineral\u2019s tenacity", [1, 0, 2]]]}
+{"sent_id": 13, "key_list": []}
+{"sent_id": 14, "key_list": [[2.5, "cleavage", [1, 0, 2]], [2.0, "fracture", [1, 1, 0]]]}
+{"sent_id": 15, "key_list": []}
+{"sent_id": 16, "key_list": [[5.5, "an example", [1, 0, 5]], [3.5, "a mineral", [1, 0, 3]], [1.5, "your answer", [1, 0, 1]]]}
+{"sent_id": 17, "key_list": [[3.5, "a useful property", [1, 0, 3]], [1.5, "mineral identification", [1, 0, 1]]]}
+{"sent_id": 18, "key_list": [[3.5, "(photo", [1, 0, 3]], [2.5, "similarly sized rocks", [1, 0, 2]], [1.5, "this mineral", [1, 0, 1]], [1.5, "chip clark/fundamental", [1, 0, 1]]]}
+{"sent_id": 19, "key_list": [[3.5, "this sample", [1, 0, 3]]]}

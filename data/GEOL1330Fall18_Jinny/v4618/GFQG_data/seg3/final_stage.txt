@@ -1,7 +1,7 @@
 Question: Analyzed samples suggest that ______________ of the asteroid was identical in composition to meteorites and was once part of a larger asteroid.
 a) the surface
-b) the equator
+b) the amount
 c) the endurance
-d) the amount
+d) the equator
 Answer: the surface
 

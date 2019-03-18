@@ -93,8 +93,8 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
                                                                         'Ultimately', 'Chapter', 'Finally', 'As described',
                                                                         'The following', 'For example', 'So', 'Above',
                                                                         'Figure', 'like this one', 'fig.', 'These',
-                                                                        'This', 'That', 'However', 'Thus', 'Although',
-                                                                        'Since', 'As a result']):
+                                                                        'This', 'That', 'Thus', 'Although',
+                                                                        'Since', 'As a result', 'shown in']):
                 f4 = 0
             else:
                 f4 = 1
@@ -108,8 +108,9 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
                     or not sent[0].text[0].isupper() \
                     or not sent[0].is_alpha \
                     or not sent.text.strip()[-1] == '.':
-                score = score * -1
+                score = score * 0
             sent_scores.append(score)
+            features.append(len(common_words))
             details.append(features)
             good_sent.append(sent)
     # in this step we do selection based on the score. At this moment max score selected
@@ -120,9 +121,11 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
     with open(path_stage1, 'w') as f:
         for res in selection:
             id += 1
-            dic = {"id": id, "score": round(res[0], 2), "text": res[1].text, "features": res[2]}
+            dic = {"id": id, "score": round(res[0], 2), "relevant": "No", "text": res[1].text, "common_words": res[2][-1], "features": res[2][:-1]}
             dic_1 = {"id": id, "score": round(res[0], 2), "text": res[1]}
-            output.append(dic_1)
+            if res[2][-1] >= 4 and res[2][0] >= 0.36:  # relevant criteria
+                output.append(dic_1)
+                dic['relevant'] = 'Yes'
             f.write(json.dumps(dic) + '\n')
     return output
 

@@ -1,7 +1,7 @@
 Question: Minerals are ______________ (or sometimes single elements), each with its own composition and physical properties.
 a) erosional agents
 b) chemical compounds
-c) physical properties
-d) mineral resources
+c) mineral resources
+d) physical properties
 Answer: chemical compounds
 

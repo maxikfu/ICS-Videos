@@ -1,7 +1,7 @@
 Question: They provide us with iron and aluminum to build automobiles, gypsum for ______________ and drywall for home construction, and copper wire that carries electricity and connects us to the Internet.
-a) plaster
-b) iron
-c) oxygen
-d) home construction
+a) oxygen
+b) home construction
+c) plaster
+d) iron
 Answer: plaster
 

@@ -7,15 +7,15 @@
 {"sent_id": 7, "key_list": [[5.0, "the formation", [2, 0, 4]], [4.5, "five effects", [1, 0, 4]], [2.5, "major erosional and depositional features", [1, 0, 2]], [2.5, "ice age glaciers", [1, 0, 2]], [1.5, "list", [1, 0, 1]]]}
 {"sent_id": 8, "key_list": [[3.5, "wetter", [1, 0, 3]], [2.5, "many pluvial lakes", [1, 0, 2]], [2.5, "lake winnipeg", [1, 0, 2]], [1.5, "pluvia = rain", [1, 0, 1]], [1.5, "lake manitoba", [1, 0, 1]], [1.5, "lake agassiz", [1, 0, 1]], [1.5, "this cooler", [1, 0, 1]], [1.0, "climate", [2, 0, 0]]]}
 {"sent_id": 9, "key_list": [[3.5, "a few small remnants", [1, 0, 3]], [2.5, "lake bonneville", [3, 0, 1]], [2.0, "the great salt lake", [2, 0, 1]], [2.0, "the lakes", [2, 0, 1]]]}
-{"sent_id": 10, "key_list": []}
-{"sent_id": 11, "key_list": []}
+{"sent_id": 10, "key_list": [[2.5, "an example", [1, 0, 2]]]}
+{"sent_id": 11, "key_list": [[2.5, "contrast proglacial lakes", [1, 0, 2]], [2.0, "pluvial lakes", [2, 0, 1]]]}
 {"sent_id": 12, "key_list": []}
 {"sent_id": 13, "key_list": []}
-{"sent_id": 14, "key_list": [[3.5, "lake", [1, 0, 3]], [1.5, "the woods", [1, 0, 1]], [1.5, "lake winnipegosis", [1, 0, 1]]]}
-{"sent_id": 15, "key_list": [[2.5, "how much sea level", [1, 0, 2]], [1.5, "the last glacial maximum", [1, 0, 1]]]}
-{"sent_id": 16, "key_list": [[2.5, "contrast proglacial lakes", [1, 0, 2]], [2.0, "pluvial lakes", [2, 0, 1]]]}
-{"sent_id": 17, "key_list": [[3.5, "present-day remnants precipitation totals", [1, 0, 3]]]}
-{"sent_id": 18, "key_list": [[3.5, "arid", [1, 0, 3]], [1.5, "former shorelines", [1, 0, 1]]]}
-{"sent_id": 19, "key_list": [[4.0, "the lakes", [2, 0, 3]], [2.5, "lake bonneville", [3, 0, 1]], [1.5, "this region", [1, 0, 1]]]}
-{"sent_id": 20, "key_list": [[2.5, "an example", [1, 0, 2]]]}
+{"sent_id": 14, "key_list": [[2.5, "how much sea level", [1, 0, 2]], [1.5, "the last glacial maximum", [1, 0, 1]]]}
+{"sent_id": 15, "key_list": []}
+{"sent_id": 16, "key_list": []}
+{"sent_id": 17, "key_list": [[4.0, "the lakes", [2, 0, 3]], [2.5, "lake bonneville", [3, 0, 1]], [1.5, "this region", [1, 0, 1]]]}
+{"sent_id": 18, "key_list": [[3.5, "lake", [1, 0, 3]], [1.5, "the woods", [1, 0, 1]], [1.5, "lake winnipegosis", [1, 0, 1]]]}
+{"sent_id": 19, "key_list": [[3.5, "present-day remnants precipitation totals", [1, 0, 3]]]}
+{"sent_id": 20, "key_list": [[3.5, "arid", [1, 0, 3]], [1.5, "former shorelines", [1, 0, 1]]]}
 {"sent_id": 21, "key_list": [[1.5, "gins", [1, 0, 1]]]}

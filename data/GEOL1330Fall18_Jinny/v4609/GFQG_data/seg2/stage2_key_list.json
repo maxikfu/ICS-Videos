@@ -12,18 +12,18 @@
 {"sent_id": 12, "key_list": [[3.5, "portions", [1, 0, 3]], [1.5, "encroaching dunes", [1, 0, 1]], [1.5, "valuable oil rigs", [1, 0, 1]], [1.5, "the middle east", [1, 0, 1]]]}
 {"sent_id": 13, "key_list": [[5.5, "an obstruction", [1, 0, 5]], [5.0, "sand", [10, 0, 0]], [5.0, "sand", [10, 0, 0]], [5.0, "sand", [10, 0, 0]], [3.5, "the wind", [5, 0, 1]], [3.5, "the path", [1, 0, 3]], [3.5, "the wind", [5, 0, 1]], [2.5, "the mound", [1, 0, 2]], [2.5, "a long enough time", [1, 0, 2]], [2.5, "a sufficient supply", [1, 0, 2]], [1.5, "its movement", [1, 0, 1]]]}
 {"sent_id": 14, "key_list": [[6.0, "sand", [10, 0, 1]], [1.5, "these sloping layers", [1, 0, 1]]]}
-{"sent_id": 15, "key_list": []}
-{"sent_id": 16, "key_list": [[2.5, "the pull", [1, 0, 2]], [1.5, "the saltating sand", [1, 0, 1]], [0.5, "gravity", [1, 0, 0]]]}
-{"sent_id": 17, "key_list": [[1.5, "michael collier", [1, 0, 1]], [0.5, "http://goo.gl/m8eybh", [1, 0, 0]]]}
-{"sent_id": 18, "key_list": [[3.5, "the steepest angle", [1, 0, 3]], [3.0, "the angle", [2, 0, 2]], [1.5, "loose material", [1, 0, 1]], [1.5, "chapter", [1, 0, 1]], [1.0, "repose", [2, 0, 0]]]}
-{"sent_id": 19, "key_list": [[5.0, "sand", [10, 0, 0]], [1.5, "the the fences", [1, 0, 1]]]}
+{"sent_id": 15, "key_list": [[5.0, "sand", [10, 0, 0]], [1.5, "the the fences", [1, 0, 1]]]}
+{"sent_id": 16, "key_list": [[4.0, "irrigated fields", [1, 1, 2]], [0.5, "egypt", [1, 0, 0]], [0.5, "dunes", [1, 0, 0]]]}
+{"sent_id": 17, "key_list": [[5.0, "sand", [10, 0, 0]], [1.5, "some areas", [1, 0, 1]]]}
+{"sent_id": 18, "key_list": [[1.5, "michael collier", [1, 0, 1]], [0.5, "http://goo.gl/m8eybh", [1, 0, 0]]]}
+{"sent_id": 19, "key_list": [[2.5, "(photos", [1, 0, 2]], [0.5, "utah", [1, 0, 0]]]}
 {"sent_id": 20, "key_list": [[3.5, "landmark", [1, 0, 3]], [1.5, "southeastern new mexico", [1, 0, 1]], [0.5, "gypsum", [1, 0, 0]]]}
-{"sent_id": 21, "key_list": [[5.0, "sand", [10, 0, 0]], [1.5, "some areas", [1, 0, 1]]]}
-{"sent_id": 22, "key_list": [[0.5, "transport", [1, 0, 0]]]}
-{"sent_id": 23, "key_list": [[3.5, "an object", [1, 0, 3]], [3.0, "the dunes", [4, 0, 1]], [1.5, "a a good example", [1, 0, 1]], [1.5, "moving air", [1, 0, 1]]]}
-{"sent_id": 24, "key_list": [[4.5, "many deposits", [1, 0, 4]], [1.5, "a dune", [1, 0, 1]], [0.5, "silt", [1, 0, 0]]]}
-{"sent_id": 25, "key_list": [[2.5, "(photos", [1, 0, 2]], [0.5, "utah", [1, 0, 0]]]}
-{"sent_id": 26, "key_list": [[4.0, "irrigated fields", [1, 1, 2]], [0.5, "egypt", [1, 0, 0]], [0.5, "dunes", [1, 0, 0]]]}
-{"sent_id": 27, "key_list": [[3.5, "the monly deposit sand", [1, 0, 3]], [3.5, "blanketlike layers", [1, 0, 3]], [2.5, "(sheltered) slope", [1, 0, 2]], [1.5, "the windward", [1, 0, 1]], [1.5, "mounds", [1, 0, 1]], [1.5, "an asymmetrical profile", [1, 0, 1]], [1.5, "commany dunes", [1, 0, 1]], [1.5, "large areas", [1, 0, 1]], [0.5, "ridges", [1, 0, 0]]]}
-{"sent_id": 28, "key_list": [[4.5, "grains", [1, 0, 4]], [3.5, "the wind", [5, 0, 1]], [1.5, "these wind shadows", [1, 0, 1]]]}
-{"sent_id": 29, "key_list": [[2.0, "the obstacle", [2, 0, 1]]]}
+{"sent_id": 21, "key_list": [[3.5, "the steepest angle", [1, 0, 3]], [3.0, "the angle", [2, 0, 2]], [1.5, "loose material", [1, 0, 1]], [1.5, "chapter", [1, 0, 1]], [1.0, "repose", [2, 0, 0]]]}
+{"sent_id": 22, "key_list": [[2.5, "the pull", [1, 0, 2]], [1.5, "the saltating sand", [1, 0, 1]], [0.5, "gravity", [1, 0, 0]]]}
+{"sent_id": 23, "key_list": [[2.0, "the obstacle", [2, 0, 1]]]}
+{"sent_id": 24, "key_list": [[3.5, "an object", [1, 0, 3]], [3.0, "the dunes", [4, 0, 1]], [1.5, "a a good example", [1, 0, 1]], [1.5, "moving air", [1, 0, 1]]]}
+{"sent_id": 25, "key_list": []}
+{"sent_id": 26, "key_list": [[3.5, "the monly deposit sand", [1, 0, 3]], [3.5, "blanketlike layers", [1, 0, 3]], [2.5, "(sheltered) slope", [1, 0, 2]], [1.5, "the windward", [1, 0, 1]], [1.5, "mounds", [1, 0, 1]], [1.5, "an asymmetrical profile", [1, 0, 1]], [1.5, "commany dunes", [1, 0, 1]], [1.5, "large areas", [1, 0, 1]], [0.5, "ridges", [1, 0, 0]]]}
+{"sent_id": 27, "key_list": [[4.5, "many deposits", [1, 0, 4]], [1.5, "a dune", [1, 0, 1]], [0.5, "silt", [1, 0, 0]]]}
+{"sent_id": 28, "key_list": [[0.5, "transport", [1, 0, 0]]]}
+{"sent_id": 29, "key_list": [[4.5, "grains", [1, 0, 4]], [3.5, "the wind", [5, 0, 1]], [1.5, "these wind shadows", [1, 0, 1]]]}

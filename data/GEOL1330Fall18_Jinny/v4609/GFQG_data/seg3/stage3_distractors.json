@@ -27,7 +27,6 @@
 {"Score": 0.75, "Distractor": "\u2019s tidal bulge"}
 {"Score": 0.74, "Distractor": "lava"}
 {"Score": 0.73, "Distractor": "heat"}
-{"Score": 0.73, "Distractor": "life"}
 {"Score": 0.72, "Distractor": "a unique world"}
 {"Score": 0.71, "Distractor": "war"}
 {"Score": 0.69, "Distractor": "a different evolution"}
@@ -49,10 +48,10 @@
 {"Score": 0.59, "Distractor": "the lean satellites"}
 {"Score": 0.59, "Distractor": "considerable interest"}
 {"Score": 0.59, "Distractor": "remnants"}
+{"Score": 0.58, "Distractor": "liquid water"}
 {"Score": 0.58, "Distractor": "io\u2019s spectacular sulfurous volcanic eruptions"}
 {"Score": 0.58, "Distractor": "the other volcanically active bodies"}
 {"Score": 0.57, "Distractor": "some point"}
-{"Score": 0.52, "Distractor": "liquid water"}
 {"Score": 0.51, "Distractor": "images"}
 {"Score": 0.51, "Distractor": "asteroids"}
 {"Score": 0.5, "Distractor": "an orbiter"}
@@ -62,6 +61,7 @@
 {"Score": 0.48, "Distractor": "\u2019s ring position"}
 {"Score": 0.48, "Distractor": "their own robotic submarine"}
 {"Score": 0.47, "Distractor": "its icy shell"}
+{"Score": 0.43, "Distractor": "life"}
 {"Score": 0.43, "Distractor": "the icy surfaces"}
 {"Score": 0.41, "Distractor": "the innermost"}
 {"Score": 0.4, "Distractor": "the best smooth regions"}

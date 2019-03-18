@@ -1,12 +1,12 @@
 {"sent_id": 1, "key_list": [[4.0, "the flow", [1, 1, 2]], [3.0, "the crystallization process", [1, 1, 1]], [2.0, "silica", [1, 1, 0]], [1.5, "long chains", [1, 0, 1]], [1.5, "silicate structures", [1, 0, 1]]]}
-{"sent_id": 2, "key_list": [[4.5, "the primary factors", [1, 0, 4]], [3.5, "the amount", [1, 0, 3]], [2.5, "the behavior", [1, 0, 2]], [2.0, "composition", [1, 1, 0]], [1.5, "dissolved gases", [1, 0, 1]], [1.5, "a lesser extent", [1, 0, 1]], [1.5, "its temperature", [1, 0, 1]]]}
-{"sent_id": 3, "key_list": [[8.0, "molten rock", [1, 1, 6]], [4.5, "some solid crystalline material", [1, 0, 4]], [3.5, "varying amounts", [1, 0, 3]], [3.5, "the source material", [1, 0, 3]], [3.0, "volcanic eruptions", [1, 1, 1]], [1.5, "dissolved gas", [1, 0, 1]]]}
+{"sent_id": 2, "key_list": [[8.0, "molten rock", [1, 1, 6]], [4.5, "some solid crystalline material", [1, 0, 4]], [3.5, "varying amounts", [1, 0, 3]], [3.5, "the source material", [1, 0, 3]], [3.0, "volcanic eruptions", [1, 1, 1]], [1.5, "dissolved gas", [1, 0, 1]]]}
+{"sent_id": 3, "key_list": [[4.5, "the primary factors", [1, 0, 4]], [3.5, "the amount", [1, 0, 3]], [2.5, "the behavior", [1, 0, 2]], [2.0, "composition", [1, 1, 0]], [1.5, "dissolved gases", [1, 0, 1]], [1.5, "a lesser extent", [1, 0, 1]], [1.5, "its temperature", [1, 0, 1]]]}
 {"sent_id": 4, "key_list": [[5.0, ", mafic (basaltic) lavas", [1, 1, 3]], [3.5, "300 kilometers", [1, 0, 3]], [3.0, "less silica", [1, 1, 1]], [1.5, "180 miles", [1, 0, 1]], [0.5, "contrast", [1, 0, 0]]]}
 {"sent_id": 5, "key_list": [[2.5, "a magma\u2019s mobility", [1, 0, 2]], [1.5, "these factors", [1, 0, 1]], [1.5, "varying degrees", [1, 0, 1]], [0.5, "viscosity", [1, 0, 0]]]}
 {"sent_id": 6, "key_list": [[4.0, "comparatively short, thick flows", [1, 1, 2]], [3.0, "felsic (rhyolitic) lavas", [1, 1, 1]]]}
-{"sent_id": 7, "key_list": [[0.5, "water", [1, 0, 0]], [0.5, "syrup", [1, 0, 0]], [0.5, "example", [1, 0, 0]]]}
-{"sent_id": 8, "key_list": []}
-{"sent_id": 9, "key_list": [[4.0, "intermediate rock types", [1, 1, 2]], [3.5, "about 60 percent content", [1, 0, 3]]]}
-{"sent_id": 10, "key_list": [[3.5, "the more viscous the material", [1, 0, 3]], [2.5, "the greater its resistance", [1, 0, 2]]]}
-{"sent_id": 11, "key_list": [[5.0, "the more silica", [1, 1, 3]], [2.5, "the greater its viscosity", [1, 0, 2]]]}
-{"sent_id": 12, "key_list": [[9.0, "50 percent silica", [1, 1, 7]], [5.5, "magmas", [1, 0, 5]], [5.0, "more than 70 percent silica", [1, 1, 3]], [5.0, "felsic rocks", [1, 1, 3]], [2.5, "granite", [1, 0, 2]], [1.5, "its extrusive equivalent, rhyolite", [1, 0, 1]]]}
+{"sent_id": 7, "key_list": [[5.0, "the more silica", [1, 1, 3]], [2.5, "the greater its viscosity", [1, 0, 2]]]}
+{"sent_id": 8, "key_list": [[4.0, "intermediate rock types", [1, 1, 2]], [3.5, "about 60 percent content", [1, 0, 3]]]}
+{"sent_id": 9, "key_list": [[9.0, "50 percent silica", [1, 1, 7]], [5.5, "magmas", [1, 0, 5]], [5.0, "more than 70 percent silica", [1, 1, 3]], [5.0, "felsic rocks", [1, 1, 3]], [2.5, "granite", [1, 0, 2]], [1.5, "its extrusive equivalent, rhyolite", [1, 0, 1]]]}
+{"sent_id": 10, "key_list": [[0.5, "water", [1, 0, 0]], [0.5, "syrup", [1, 0, 0]], [0.5, "example", [1, 0, 0]]]}
+{"sent_id": 11, "key_list": [[3.5, "the more viscous the material", [1, 0, 3]], [2.5, "the greater its resistance", [1, 0, 2]]]}
+{"sent_id": 12, "key_list": []}

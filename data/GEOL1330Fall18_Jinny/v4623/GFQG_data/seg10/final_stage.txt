@@ -1,7 +1,7 @@
 Question: Silica impedes ______________ of magma because silicate structures begin to link together into long chains early in the crystallization process.
-a) the behavior
-b) the flow
-c) the greater its resistance
-d) the amount
+a) the crystallization process
+b) the behavior
+c) the flow
+d) the greater its resistance
 Answer: the flow
 

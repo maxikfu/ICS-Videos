@@ -4,7 +4,7 @@
 {"sent_id": 4, "key_list": [[2.5, "the most common mineral group", [1, 0, 2]], [2.0, "the silicates", [2, 0, 1]], [1.5, "the basic \u201cbuilding block", [1, 0, 1]], [1.5, "these two elements", [1, 0, 1]]]}
 {"sent_id": 5, "key_list": [[4.5, "the most common elements", [1, 0, 4]], [3.0, "earth\u2019s crust", [2, 0, 2]], [1.5, "oxygen", [1, 0, 1]], [0.5, "silicon", [1, 0, 0]]]}
 {"sent_id": 6, "key_list": [[4.5, "more than 90 percent", [1, 0, 4]], [3.0, "earth\u2019s crust", [2, 0, 2]], [2.5, "more than 800 silicate minerals", [1, 0, 2]]]}
-{"sent_id": 7, "key_list": [[1.5, "other mineral groups", [1, 0, 1]], [0.5, "earth", [1, 0, 0]]]}
-{"sent_id": 8, "key_list": [[1.5, "some nonsilicate minerals", [1, 0, 1]], [0.5, "silicates", [1, 0, 0]]]}
-{"sent_id": 9, "key_list": [[1.5, "magnesium", [1, 0, 1]], [0.5, "mg", [1, 0, 0]]]}
-{"sent_id": 10, "key_list": [[2.0, "the silicates", [2, 0, 1]], [1.5, "the heading nonsilicates", [1, 0, 1]]]}
+{"sent_id": 7, "key_list": [[1.5, "some nonsilicate minerals", [1, 0, 1]], [0.5, "silicates", [1, 0, 0]]]}
+{"sent_id": 8, "key_list": [[2.0, "the silicates", [2, 0, 1]], [1.5, "the heading nonsilicates", [1, 0, 1]]]}
+{"sent_id": 9, "key_list": [[1.5, "other mineral groups", [1, 0, 1]], [0.5, "earth", [1, 0, 0]]]}
+{"sent_id": 10, "key_list": [[1.5, "magnesium", [1, 0, 1]], [0.5, "mg", [1, 0, 0]]]}

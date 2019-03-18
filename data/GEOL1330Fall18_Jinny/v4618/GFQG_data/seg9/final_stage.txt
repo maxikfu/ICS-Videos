@@ -1,7 +1,7 @@
-Question: ______________
+Question: Vesicles are ______________ left by escaping gas bubbles.
 a) gas bubbles
-b) volcanic rocks
+b) vesicles
 c) small holes
-d) common vesicular rocks
-Answer: Common vesicular rocks
+d) volcanic rocks
+Answer: small holes
 

@@ -1,7 +1,7 @@
 Question: In graphite the carbon atoms are bonded into ______________ that are joined together by very weak electrical forces.
-a) identical shapes
-b) sheets
-c) the angles
-d) the carbon atoms
+a) equivalent faces
+b) two crystals
+c) the carbon atoms
+d) sheets
 Answer: sheets
 

@@ -16,7 +16,6 @@
 {"Score": 0.87, "Distractor": "the mineral calcite"}
 {"Score": 0.84, "Distractor": "a simple chemical test"}
 {"Score": 0.84, "Distractor": "the specific gravity"}
-{"Score": 0.83, "Distractor": "a mineral\u2019s tenacity"}
 {"Score": 0.83, "Distractor": "a useful property"}
 {"Score": 0.82, "Distractor": "example"}
 {"Score": 0.79, "Distractor": "quartz"}
@@ -25,6 +24,7 @@
 {"Score": 0.68, "Distractor": "geology"}
 {"Score": 0.63, "Distractor": "the word crystal"}
 {"Score": 0.6, "Distractor": "fracture"}
+{"Score": 0.58, "Distractor": "tenacity"}
 {"Score": 0.51, "Distractor": "distinguish"}
 {"Score": 0.51, "Distractor": "(photo"}
 {"Score": 0.46, "Distractor": "crystalline"}

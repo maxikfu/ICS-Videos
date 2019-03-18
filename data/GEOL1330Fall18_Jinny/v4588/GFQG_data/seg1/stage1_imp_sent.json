@@ -1,21 +1,21 @@
-{"id": 1, "score": 1.0, "text": "For many visitors, desert scenery exhibits a striking beauty; to others, the terrain seems bleak.", "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
-{"id": 2, "score": 0.98, "text": "Desert landscapes and their development provide another excellent example of the strong link between climate and geology.", "features": [0.0, 0.0, 0, 1, 0.7, 0.0]}
-{"id": 3, "score": 0.95, "text": "Their profiles are not softened by a continuous carpet of soil and abundant plant life.", "features": [0.0, 0.0, 0, 1, 0.62, 0.0]}
-{"id": 4, "score": 0.95, "text": "No matter which feeling is elicited, it is clear that deserts are very different from the more humid places where most people live. \n\n", "features": [0.0, 0.0, 1, 1, 0.36, 0.0]}
-{"id": 5, "score": 0.94, "text": "For many dry regions this is an appropriate description, although where water is available in deserts, plants and animals thrive.", "features": [0.0, 0.0, 0, 1, 0.6, 0.0]}
-{"id": 6, "score": 0.91, "text": "Nevertheless, the world\u2019s dry regions are probably the least familiar land areas on Earth outside the polar realm.", "features": [0.08, 0.0, 0, 1, 0.42, 0.08]}
-{"id": 7, "score": 0.9, "text": "Describe the general distribution of Earth\u2019s dry lands and explain why deserts form in the subtropics and middle latitudes. \n\n", "features": [0.07, 0.0, 0, 1, 0.36, 0.21]}
-{"id": 8, "score": 0.82, "text": "However, the concept of dryness is a relative one that refers to any situation in which an ongoing water deficiency exists.", "features": [0.11, 0.0, 0, 0, 0.67, 0.0]}
-{"id": 9, "score": 0.81, "text": "Instead, barren rocky outcrops with steep, angular slopes are common.", "features": [0.0, 0.0, 0, 1, 0.25, 0.0]}
-{"id": 10, "score": 0.8, "text": "Sometimes it is arbitrarily defined by a single rainfall figure, such as 25 centimeters (10 inches) per year of precipitation.", "features": [0.18, 0.0, 0, 0, 0.55, 0.0]}
-{"id": 11, "score": 0.78, "text": "Because these processes combine in different ways from place to place, the appearance of desert landscapes varies a great deal as well. \n\n", "features": [0.0, 0.0, 0, 0, 0.67, 0.0]}
-{"id": 12, "score": 0.32, "text": "That is, how much rain defines the boundary between humid and dry regions?", "features": [0.0, 0.0, 0, 0, 0.5, 0.0]}
-{"id": 13, "score": 0.29, "text": "This was clearly demonstrated in the preceding chapter on glaciers.", "features": [0.2, 0.0, 0, 0, 0.4, 0.0]}
-{"id": 14, "score": 0.23, "text": "Desert landscapes frequently appear stark.", "features": [0.0, 0.0, 0, 1, 0.2, 0.2]}
-{"id": 15, "score": 0.2, "text": "The word desert literally means \u201cdeserted\u201d or \u201cunoccupied.", "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
-{"id": 16, "score": 0.13, "text": "We all recognize that deserts are dry places, but just what is meant by the term dry?", "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 17, "score": 0.13, "text": "At others they are gray and brown and streaked with black.", "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 18, "score": 0.1, "text": "Rather, the effects of tectonic forces, running water, and wind are all apparent.", "features": [0.0, 0.0, 0, 1, 0.57, 0.0]}
-{"id": 19, "score": 0.07, "text": "a strong influence on the nature and intensity of Earth\u2019s external processes.", "features": [0.12, 0.0, 0, 1, 0.5, 0.12]}
-{"id": 20, "score": 0.02, "text": "At some places the rocks are tinted orange and red.", "features": [0.0, 0.0, 0, 1, 0.8, 0.0]}
-{"id": 21, "score": 0.0, "text": "As you will see, arid regions are not dominated by a single geologic process.", "features": [0.17, 0.0, 0, 1, 0.67, 0.0]}
+{"id": 1, "score": 2.56, "relevant": "No", "text": "However, the concept of dryness is a relative one that refers to any situation in which an ongoing water deficiency exists.", "common_words": 1, "features": [0.11, 0.0, 0, 1, 0.67, 0.0]}
+{"id": 2, "score": 2.5, "relevant": "No", "text": "For many visitors, desert scenery exhibits a striking beauty; to others, the terrain seems bleak.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
+{"id": 3, "score": 2.4, "relevant": "No", "text": "Desert landscapes and their development provide another excellent example of the strong link between climate and geology.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.7, 0.0]}
+{"id": 4, "score": 2.24, "relevant": "No", "text": "Their profiles are not softened by a continuous carpet of soil and abundant plant life.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.62, 0.0]}
+{"id": 5, "score": 2.22, "relevant": "No", "text": "No matter which feeling is elicited, it is clear that deserts are very different from the more humid places where most people live. \n\n", "common_words": 0, "features": [0.0, 0.0, 1, 1, 0.36, 0.0]}
+{"id": 6, "score": 2.2, "relevant": "No", "text": "For many dry regions this is an appropriate description, although where water is available in deserts, plants and animals thrive.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.6, 0.0]}
+{"id": 7, "score": 2.04, "relevant": "No", "text": "Nevertheless, the world\u2019s dry regions are probably the least familiar land areas on Earth outside the polar realm.", "common_words": 1, "features": [0.08, 0.0, 0, 1, 0.42, 0.08]}
+{"id": 8, "score": 1.96, "relevant": "No", "text": "Describe the general distribution of Earth\u2019s dry lands and explain why deserts form in the subtropics and middle latitudes. \n\n", "common_words": 1, "features": [0.07, 0.0, 0, 1, 0.36, 0.21]}
+{"id": 9, "score": 1.5, "relevant": "No", "text": "Instead, barren rocky outcrops with steep, angular slopes are common.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.25, 0.0]}
+{"id": 10, "score": 1.46, "relevant": "No", "text": "Sometimes it is arbitrarily defined by a single rainfall figure, such as 25 centimeters (10 inches) per year of precipitation.", "common_words": 2, "features": [0.18, 0.0, 0, 0, 0.55, 0.0]}
+{"id": 11, "score": 1.34, "relevant": "No", "text": "Because these processes combine in different ways from place to place, the appearance of desert landscapes varies a great deal as well. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.67, 0.0]}
+{"id": 12, "score": 0.0, "relevant": "No", "text": "That is, how much rain defines the boundary between humid and dry regions?", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.5, 0.0]}
+{"id": 13, "score": 0.0, "relevant": "No", "text": "We all recognize that deserts are dry places, but just what is meant by the term dry?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 14, "score": 0.0, "relevant": "No", "text": "At others they are gray and brown and streaked with black.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 15, "score": 0.0, "relevant": "No", "text": "At some places the rocks are tinted orange and red.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.8, 0.0]}
+{"id": 16, "score": 0.0, "relevant": "No", "text": "Desert landscapes frequently appear stark.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.2, 0.2]}
+{"id": 17, "score": 0.0, "relevant": "No", "text": "Rather, the effects of tectonic forces, running water, and wind are all apparent.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.57, 0.0]}
+{"id": 18, "score": 0.0, "relevant": "No", "text": "As you will see, arid regions are not dominated by a single geologic process.", "common_words": 1, "features": [0.17, 0.0, 0, 1, 0.67, 0.0]}
+{"id": 19, "score": 0.0, "relevant": "No", "text": "The word desert literally means \u201cdeserted\u201d or \u201cunoccupied.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
+{"id": 20, "score": 0.0, "relevant": "No", "text": "This was clearly demonstrated in the preceding chapter on glaciers.", "common_words": 1, "features": [0.2, 0.0, 0, 0, 0.4, 0.0]}
+{"id": 21, "score": 0.0, "relevant": "No", "text": "a strong influence on the nature and intensity of Earth\u2019s external processes.", "common_words": 1, "features": [0.12, 0.0, 0, 1, 0.5, 0.12]}

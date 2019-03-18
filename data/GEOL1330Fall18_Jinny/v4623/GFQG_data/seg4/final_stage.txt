@@ -1,7 +1,7 @@
 Question: As you can see in rocks with ______________ between granitic and basaltic rocks are said to have an andesitic composition, or intermediate composition, after the common volcanic rock andesite.
-a) volcanic activity
-b) this important category
-c) a composition
+a) a composition
+b) volcanic activity
+c) this important category
 d) an andesitic composition
 Answer: a composition
 
