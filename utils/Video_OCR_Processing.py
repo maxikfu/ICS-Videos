@@ -36,5 +36,9 @@ def video_lecture_preproc(video_id, path_to_video_folder):
 
 
 if __name__ == '__main__':
-    path_to_video_f = '../data/GEOL1330Fall18_Jinny'
-    video_lecture_preproc(4623, path_to_video_f)
+    path_to_video_f = '../data/Evaluation'
+    videos = [4853, 4887, 4916, 4954, 4984, 4998, 5019, 5030, 5039, 5056, 5063, 5072, 5088]
+    # videos = [4984]
+    for v in videos:
+        print(v)
+        video_lecture_preproc(v, path_to_video_f)
