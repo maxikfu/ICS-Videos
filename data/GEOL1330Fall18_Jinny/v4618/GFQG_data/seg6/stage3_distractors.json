@@ -1,27 +1,3471 @@
-{"Score": 1.4, "Distractor": "variable mineral composition"}
-{"Score": 1.35, "Distractor": "another clay-rich rock"}
+{"Score": 1.52, "Distractor": "daughter product"}
+{"Score": 1.48, "Distractor": "mineral identification"}
+{"Score": 1.46, "Distractor": "seafloor production"}
+{"Score": 1.46, "Distractor": "satellite imagery"}
+{"Score": 1.46, "Distractor": "nuclear power generation"}
+{"Score": 1.46, "Distractor": "sea stack"}
+{"Score": 1.45, "Distractor": "the reference chronology"}
+{"Score": 1.44, "Distractor": "plate convergence"}
+{"Score": 1.44, "Distractor": "interior drainage"}
+{"Score": 1.43, "Distractor": "stone"}
+{"Score": 1.42, "Distractor": "the melting point curve"}
+{"Score": 1.42, "Distractor": "electron capture"}
+{"Score": 1.41, "Distractor": "oil recovery"}
+{"Score": 1.41, "Distractor": "water retention"}
+{"Score": 1.41, "Distractor": "revision"}
+{"Score": 1.41, "Distractor": "modern depth-sounding equipment"}
+{"Score": 1.41, "Distractor": "earth\u2019s changing climate"}
+{"Score": 1.41, "Distractor": "plate motion"}
+{"Score": 1.41, "Distractor": "the rock layer"}
+{"Score": 1.4, "Distractor": "the nuclear reactor"}
+{"Score": 1.4, "Distractor": "nuclear fission"}
+{"Score": 1.39, "Distractor": "seismology"}
+{"Score": 1.39, "Distractor": "wave action"}
+{"Score": 1.39, "Distractor": "cement"}
+{"Score": 1.39, "Distractor": "radioactivity"}
+{"Score": 1.39, "Distractor": "a new ocean-drilling program"}
+{"Score": 1.39, "Distractor": "dirt"}
+{"Score": 1.39, "Distractor": "soil degradation"}
+{"Score": 1.39, "Distractor": "river channelization"}
+{"Score": 1.39, "Distractor": "magnesium"}
+{"Score": 1.38, "Distractor": "earth\u2019s magnetic field"}
+{"Score": 1.38, "Distractor": "land form"}
+{"Score": 1.38, "Distractor": "water vapor"}
+{"Score": 1.37, "Distractor": "uranium"}
+{"Score": 1.37, "Distractor": "carbon dioxide"}
+{"Score": 1.37, "Distractor": "explanation"}
+{"Score": 1.37, "Distractor": "giant bison"}
+{"Score": 1.37, "Distractor": "an iron nail"}
+{"Score": 1.37, "Distractor": "human intervention"}
+{"Score": 1.36, "Distractor": "property damage"}
+{"Score": 1.36, "Distractor": "groundwater contamination"}
+{"Score": 1.36, "Distractor": "competition"}
+{"Score": 1.36, "Distractor": "whole-mantle convection model"}
+{"Score": 1.36, "Distractor": "agriculture"}
+{"Score": 1.36, "Distractor": "radiation"}
+{"Score": 1.36, "Distractor": "vegetative cover"}
+{"Score": 1.36, "Distractor": "a clock pendulum"}
+{"Score": 1.36, "Distractor": "extreme flooding"}
+{"Score": 1.36, "Distractor": "coal"}
+{"Score": 1.36, "Distractor": "the mantle rock peridotite"}
+{"Score": 1.36, "Distractor": "this group"}
+{"Score": 1.36, "Distractor": "currency"}
+{"Score": 1.35, "Distractor": "potassium"}
+{"Score": 1.35, "Distractor": "sodium"}
+{"Score": 1.35, "Distractor": "pottery"}
+{"Score": 1.35, "Distractor": "precession"}
+{"Score": 1.35, "Distractor": "storm surge"}
+{"Score": 1.35, "Distractor": "supply"}
+{"Score": 1.35, "Distractor": "the dynamic interface"}
+{"Score": 1.35, "Distractor": "widespread fame"}
+{"Score": 1.35, "Distractor": "a granite intrusion"}
+{"Score": 1.35, "Distractor": "this spiral galaxy"}
+{"Score": 1.35, "Distractor": "court"}
+{"Score": 1.35, "Distractor": "the flow idity"}
+{"Score": 1.35, "Distractor": "a narrow time frame"}
+{"Score": 1.35, "Distractor": "solifluction"}
+{"Score": 1.35, "Distractor": "investment"}
+{"Score": 1.34, "Distractor": "the sedimentary rock conglomerate"}
+{"Score": 1.34, "Distractor": "modern geology"}
+{"Score": 1.34, "Distractor": "toothpaste"}
+{"Score": 1.34, "Distractor": "flood stage"}
+{"Score": 1.34, "Distractor": "hydraulic conductivity"}
+{"Score": 1.34, "Distractor": "the molten rock determine"}
+{"Score": 1.34, "Distractor": "a vital transportation corridor"}
+{"Score": 1.34, "Distractor": "similarity"}
+{"Score": 1.34, "Distractor": "isostatic adjustment"}
+{"Score": 1.34, "Distractor": "compaction"}
+{"Score": 1.34, "Distractor": "slope"}
+{"Score": 1.34, "Distractor": "their explosive character"}
+{"Score": 1.34, "Distractor": "sound floodplain management"}
+{"Score": 1.34, "Distractor": "classical mythology"}
+{"Score": 1.34, "Distractor": "last major ice sheet advance"}
+{"Score": 1.33, "Distractor": "the ocean floor"}
+{"Score": 1.33, "Distractor": "flow resistance"}
+{"Score": 1.33, "Distractor": "cliff"}
+{"Score": 1.33, "Distractor": "a rapid energy loss"}
+{"Score": 1.33, "Distractor": "a weather chart"}
+{"Score": 1.33, "Distractor": "natural variability"}
+{"Score": 1.33, "Distractor": "geologic makeup"}
+{"Score": 1.33, "Distractor": "a nuclear fuel"}
+{"Score": 1.33, "Distractor": "the transportation sector"}
+{"Score": 1.33, "Distractor": "this difference"}
+{"Score": 1.33, "Distractor": "ruggedness"}
+{"Score": 1.33, "Distractor": "disorder"}
+{"Score": 1.32, "Distractor": "a rock outcrop consis-"}
+{"Score": 1.32, "Distractor": "desert scenery"}
+{"Score": 1.32, "Distractor": "the metamorphic grade"}
+{"Score": 1.32, "Distractor": "magnetization"}
+{"Score": 1.32, "Distractor": "landscape modification"}
+{"Score": 1.32, "Distractor": "the equatorial low-pressure belt"}
+{"Score": 1.32, "Distractor": "iron"}
+{"Score": 1.32, "Distractor": "light-colored silicates\u2014quartz and potassium feldspar"}
+{"Score": 1.32, "Distractor": "deposition"}
+{"Score": 1.32, "Distractor": "opinion"}
+{"Score": 1.32, "Distractor": "common salt"}
+{"Score": 1.32, "Distractor": "petroleum"}
+{"Score": 1.31, "Distractor": "the dam\u2019s foundation"}
+{"Score": 1.31, "Distractor": "reevaluation"}
+{"Score": 1.31, "Distractor": "the thick rhyolite lava"}
+{"Score": 1.31, "Distractor": "its neutron population"}
+{"Score": 1.31, "Distractor": "evapotranspiration"}
+{"Score": 1.31, "Distractor": "a time perspective"}
+{"Score": 1.31, "Distractor": "cleavage meeting"}
+{"Score": 1.31, "Distractor": "storage"}
+{"Score": 1.31, "Distractor": "debate"}
+{"Score": 1.31, "Distractor": "respect"}
+{"Score": 1.31, "Distractor": "fertilization"}
+{"Score": 1.31, "Distractor": "tremendous industrialization"}
+{"Score": 1.31, "Distractor": "the crystal lattice"}
+{"Score": 1.31, "Distractor": "the recurrence interval"}
+{"Score": 1.31, "Distractor": "solidification"}
+{"Score": 1.31, "Distractor": "balance"}
+{"Score": 1.31, "Distractor": "the compositional spectrum"}
+{"Score": 1.31, "Distractor": "the declination"}
+{"Score": 1.31, "Distractor": "the asthenosphere called slab suction"}
+{"Score": 1.3, "Distractor": "potential envicarry"}
+{"Score": 1.3, "Distractor": "cesium"}
+{"Score": 1.3, "Distractor": "chemical convection"}
+{"Score": 1.3, "Distractor": "elastic strain"}
+{"Score": 1.3, "Distractor": "the disk"}
+{"Score": 1.3, "Distractor": "a simple chemical test"}
+{"Score": 1.3, "Distractor": "photosynthesis"}
+{"Score": 1.3, "Distractor": "the village\u2019s church"}
+{"Score": 1.3, "Distractor": "mountainous terrain"}
+{"Score": 1.3, "Distractor": "human ingenuity"}
+{"Score": 1.3, "Distractor": "hour"}
+{"Score": 1.3, "Distractor": "a copper penny"}
+{"Score": 1.3, "Distractor": "greater rigidity"}
+{"Score": 1.3, "Distractor": "soda straw"}
+{"Score": 1.3, "Distractor": "descent"}
+{"Score": 1.3, "Distractor": "the boiling point"}
+{"Score": 1.29, "Distractor": "instability"}
+{"Score": 1.29, "Distractor": "helium"}
+{"Score": 1.29, "Distractor": "ecology"}
+{"Score": 1.29, "Distractor": "polarity"}
+{"Score": 1.29, "Distractor": "the seafloor substantiate wegener\u2019s contention"}
+{"Score": 1.29, "Distractor": "work"}
+{"Score": 1.29, "Distractor": "modern society"}
+{"Score": 1.29, "Distractor": "the hawaiian chain"}
+{"Score": 1.29, "Distractor": "a given wind velocity"}
+{"Score": 1.29, "Distractor": "a landscape characterbicarbonate"}
+{"Score": 1.29, "Distractor": "data transmission"}
+{"Score": 1.29, "Distractor": "ferrum"}
+{"Score": 1.29, "Distractor": "a systematic fashion"}
+{"Score": 1.29, "Distractor": "foliation"}
+{"Score": 1.29, "Distractor": "the axial plane"}
+{"Score": 1.28, "Distractor": "a fourfold division"}
+{"Score": 1.28, "Distractor": "the change phism"}
+{"Score": 1.28, "Distractor": "son"}
+{"Score": 1.28, "Distractor": "a weather balloon"}
+{"Score": 1.28, "Distractor": "beryl"}
+{"Score": 1.28, "Distractor": "aerial photography"}
+{"Score": 1.28, "Distractor": "fissility"}
+{"Score": 1.28, "Distractor": "valuable farmland"}
+{"Score": 1.28, "Distractor": "disturbance"}
+{"Score": 1.28, "Distractor": "dolostone"}
+{"Score": 1.28, "Distractor": "chlorine"}
+{"Score": 1.28, "Distractor": "tenacity"}
+{"Score": 1.28, "Distractor": "halite (sodium chloride"}
+{"Score": 1.28, "Distractor": "destructive tsunamis"}
+{"Score": 1.28, "Distractor": "a modern-day sleuth"}
+{"Score": 1.28, "Distractor": "arizona tion"}
+{"Score": 1.28, "Distractor": "hot-spot volcanism"}
+{"Score": 1.28, "Distractor": "oxidation"}
+{"Score": 1.28, "Distractor": "unusual water chemistry"}
+{"Score": 1.28, "Distractor": "the design"}
+{"Score": 1.28, "Distractor": "surface tension"}
+{"Score": 1.28, "Distractor": "vertebrate"}
+{"Score": 1.27, "Distractor": "too cold (mama bear\u2019s porridge"}
+{"Score": 1.27, "Distractor": "relation"}
+{"Score": 1.27, "Distractor": "relative ease"}
+{"Score": 1.27, "Distractor": "fine ash"}
+{"Score": 1.27, "Distractor": "a refrigerator"}
+{"Score": 1.27, "Distractor": "hot mantle rock"}
+{"Score": 1.27, "Distractor": "a form lution"}
+{"Score": 1.27, "Distractor": "flint"}
+{"Score": 1.27, "Distractor": "classification"}
 {"Score": 1.27, "Distractor": "the vicinity"}
-{"Score": 1.27, "Distractor": "a description"}
-{"Score": 1.26, "Distractor": "contrast marble"}
-{"Score": 1.24, "Distractor": "igneous activity"}
-{"Score": 1.22, "Distractor": "describe slate"}
-{"Score": 1.15, "Distractor": "subduction zone"}
-{"Score": 1.14, "Distractor": "conchoidal fracture"}
-{"Score": 1.11, "Distractor": "burial"}
-{"Score": 1.11, "Distractor": "color"}
-{"Score": 1.11, "Distractor": "a hot intruding magma body"}
-{"Score": 1.09, "Distractor": "this graph"}
-{"Score": 1.08, "Distractor": "the appearance"}
-{"Score": 1.05, "Distractor": "regional metamorphism"}
-{"Score": 1.01, "Distractor": "plate margins"}
-{"Score": 0.92, "Distractor": "contact"}
-{"Score": 0.85, "Distractor": "schist"}
-{"Score": 0.83, "Distractor": "gneiss"}
-{"Score": 0.78, "Distractor": "phyllite"}
-{"Score": 0.59, "Distractor": "these metamorphic environments"}
-{"Score": 0.51, "Distractor": "a few types"}
-{"Score": 0.45, "Distractor": "the temperatures"}
-{"Score": 0.4, "Distractor": "terms"}
-{"Score": 0.32, "Distractor": "relatively small quantities"}
-{"Score": 0.24, "Distractor": "most hornfels"}
-{"Score": 0.07, "Distractor": "pressures"}
+{"Score": 1.27, "Distractor": "open-pit mining"}
+{"Score": 1.27, "Distractor": "the integration"}
+{"Score": 1.27, "Distractor": "earth\u2019s advantageous position"}
+{"Score": 1.27, "Distractor": "inception"}
+{"Score": 1.27, "Distractor": "effective communication"}
+{"Score": 1.27, "Distractor": "phosphate"}
+{"Score": 1.27, "Distractor": "a profit"}
+{"Score": 1.27, "Distractor": "foraminifera"}
+{"Score": 1.27, "Distractor": "pulp/paper"}
+{"Score": 1.27, "Distractor": "the confining pressure"}
+{"Score": 1.27, "Distractor": "charcoal"}
+{"Score": 1.27, "Distractor": "fire"}
+{"Score": 1.27, "Distractor": "60 percent sand"}
+{"Score": 1.27, "Distractor": "record keeping"}
+{"Score": 1.27, "Distractor": "the dime coin"}
+{"Score": 1.27, "Distractor": "this gap"}
+{"Score": 1.27, "Distractor": "general conversation"}
+{"Score": 1.26, "Distractor": "honor"}
+{"Score": 1.26, "Distractor": "seiscomposition"}
+{"Score": 1.26, "Distractor": "a pair"}
+{"Score": 1.26, "Distractor": "machinery"}
+{"Score": 1.26, "Distractor": "intense lightning"}
+{"Score": 1.26, "Distractor": "petroleum refining"}
+{"Score": 1.26, "Distractor": "each whole number increment"}
+{"Score": 1.26, "Distractor": "this differential wave attack"}
+{"Score": 1.26, "Distractor": "earth\u2019s orbit"}
+{"Score": 1.26, "Distractor": "nuclear fusion"}
+{"Score": 1.26, "Distractor": "human knowledge"}
+{"Score": 1.26, "Distractor": "daughter"}
+{"Score": 1.26, "Distractor": "nitrous oxide"}
+{"Score": 1.26, "Distractor": "disaster"}
+{"Score": 1.26, "Distractor": "this gigantic volcano"}
+{"Score": 1.26, "Distractor": "most recent eruptive phase"}
+{"Score": 1.26, "Distractor": "rubble"}
+{"Score": 1.26, "Distractor": "an important role"}
+{"Score": 1.26, "Distractor": "jewelry"}
+{"Score": 1.26, "Distractor": "elastic rebound"}
+{"Score": 1.26, "Distractor": "cementation"}
+{"Score": 1.26, "Distractor": "the upward and downward circulation"}
+{"Score": 1.26, "Distractor": "original horizontality"}
+{"Score": 1.26, "Distractor": "an ice core"}
+{"Score": 1.26, "Distractor": "a swiss engineer"}
+{"Score": 1.26, "Distractor": "reproduction"}
+{"Score": 1.26, "Distractor": "intensity"}
+{"Score": 1.26, "Distractor": "an iron\u2013nickel alloy"}
+{"Score": 1.25, "Distractor": "dryness"}
+{"Score": 1.25, "Distractor": "peat"}
+{"Score": 1.25, "Distractor": "specialization"}
+{"Score": 1.25, "Distractor": "alkalinity"}
+{"Score": 1.25, "Distractor": "continental drift"}
+{"Score": 1.25, "Distractor": "one 60-watt light bulb"}
+{"Score": 1.25, "Distractor": "its violet color"}
+{"Score": 1.25, "Distractor": "extraction"}
+{"Score": 1.25, "Distractor": "one complete revolution"}
+{"Score": 1.25, "Distractor": "the orange line"}
+{"Score": 1.25, "Distractor": "subsoil"}
+{"Score": 1.25, "Distractor": "fanfare"}
+{"Score": 1.25, "Distractor": "recent memory"}
+{"Score": 1.25, "Distractor": "subsidence"}
+{"Score": 1.25, "Distractor": "this definition"}
+{"Score": 1.25, "Distractor": "the mother lode"}
+{"Score": 1.25, "Distractor": "addition"}
+{"Score": 1.25, "Distractor": "trunk"}
+{"Score": 1.25, "Distractor": "great magnification"}
+{"Score": 1.25, "Distractor": "security"}
+{"Score": 1.25, "Distractor": "birth"}
+{"Score": 1.25, "Distractor": "low- and high-intensity magnetism"}
+{"Score": 1.25, "Distractor": "the stone trade"}
+{"Score": 1.25, "Distractor": "gravitation"}
+{"Score": 1.25, "Distractor": "the iceberg"}
+{"Score": 1.25, "Distractor": "competence"}
+{"Score": 1.25, "Distractor": "the eruption"}
+{"Score": 1.24, "Distractor": "the greenhouse effect"}
+{"Score": 1.24, "Distractor": "antiquity"}
+{"Score": 1.24, "Distractor": "one particular bridge"}
+{"Score": 1.24, "Distractor": "his primitive telescope"}
+{"Score": 1.24, "Distractor": "erosion"}
+{"Score": 1.24, "Distractor": "the beach face"}
+{"Score": 1.24, "Distractor": "a raw material"}
+{"Score": 1.24, "Distractor": "the increase"}
+{"Score": 1.24, "Distractor": "moisture"}
+{"Score": 1.24, "Distractor": "the transfer"}
+{"Score": 1.24, "Distractor": "ice"}
+{"Score": 1.24, "Distractor": "a tidal mill"}
+{"Score": 1.24, "Distractor": "a cork"}
+{"Score": 1.24, "Distractor": "steel"}
+{"Score": 1.24, "Distractor": "equal or greater magnitude"}
+{"Score": 1.24, "Distractor": "chemical bonding"}
+{"Score": 1.24, "Distractor": "time"}
+{"Score": 1.24, "Distractor": "precipitation"}
+{"Score": 1.24, "Distractor": "reserve"}
+{"Score": 1.24, "Distractor": "long-lasting magmatic activity"}
+{"Score": 1.24, "Distractor": "our everyday experience"}
+{"Score": 1.24, "Distractor": "natural gas"}
+{"Score": 1.24, "Distractor": "this depletion"}
+{"Score": 1.24, "Distractor": "coastal vulnerability"}
+{"Score": 1.24, "Distractor": "duration"}
+{"Score": 1.24, "Distractor": "trash"}
+{"Score": 1.24, "Distractor": "disintegration"}
+{"Score": 1.24, "Distractor": "an obvious reference"}
+{"Score": 1.23, "Distractor": "heat"}
+{"Score": 1.23, "Distractor": "regard"}
+{"Score": 1.23, "Distractor": "chile\u2019s border"}
+{"Score": 1.23, "Distractor": "this quantitative measurement"}
+{"Score": 1.23, "Distractor": "the engine"}
+{"Score": 1.23, "Distractor": "dip"}
+{"Score": 1.23, "Distractor": "sustainability"}
+{"Score": 1.23, "Distractor": "equal importance"}
+{"Score": 1.23, "Distractor": "the story"}
+{"Score": 1.23, "Distractor": "the term tower"}
+{"Score": 1.23, "Distractor": "navigation"}
+{"Score": 1.23, "Distractor": "industry"}
+{"Score": 1.23, "Distractor": "the canyon"}
+{"Score": 1.23, "Distractor": "weight"}
+{"Score": 1.23, "Distractor": "garbage"}
+{"Score": 1.23, "Distractor": "science source) package"}
+{"Score": 1.22, "Distractor": "this book"}
+{"Score": 1.22, "Distractor": "\u201cconversion"}
+{"Score": 1.22, "Distractor": "a house"}
+{"Score": 1.22, "Distractor": "rock weathering"}
+{"Score": 1.22, "Distractor": "mark sissippi"}
+{"Score": 1.22, "Distractor": "the chocolate"}
+{"Score": 1.22, "Distractor": "record"}
+{"Score": 1.22, "Distractor": "sphericity"}
+{"Score": 1.22, "Distractor": "purity"}
+{"Score": 1.22, "Distractor": "sufficient infiltration"}
+{"Score": 1.22, "Distractor": "drywall"}
+{"Score": 1.22, "Distractor": "salmon pink"}
+{"Score": 1.22, "Distractor": "electrical insulation"}
+{"Score": 1.22, "Distractor": "crust"}
+{"Score": 1.22, "Distractor": "pyroxene silica"}
+{"Score": 1.22, "Distractor": "a granitic rock called granodiorite"}
+{"Score": 1.22, "Distractor": "manganese"}
+{"Score": 1.22, "Distractor": "the outer edge"}
+{"Score": 1.22, "Distractor": "glacial abrasion"}
+{"Score": 1.22, "Distractor": "a requirement"}
+{"Score": 1.22, "Distractor": "access"}
+{"Score": 1.22, "Distractor": "the volcanic conduit"}
+{"Score": 1.22, "Distractor": "thumb"}
+{"Score": 1.22, "Distractor": "(image courtesy"}
+{"Score": 1.22, "Distractor": "royal gardens subdivision"}
+{"Score": 1.22, "Distractor": "the rift"}
+{"Score": 1.22, "Distractor": "superposition"}
+{"Score": 1.22, "Distractor": "diorite"}
+{"Score": 1.22, "Distractor": "this manner"}
+{"Score": 1.22, "Distractor": "the main shock"}
+{"Score": 1.22, "Distractor": "a chemical guideline"}
+{"Score": 1.22, "Distractor": "waste"}
+{"Score": 1.22, "Distractor": "saturation"}
+{"Score": 1.22, "Distractor": "chert"}
+{"Score": 1.22, "Distractor": "a supercontinent"}
+{"Score": 1.22, "Distractor": "oxygen"}
+{"Score": 1.22, "Distractor": "the suture"}
+{"Score": 1.22, "Distractor": "crop failure"}
+{"Score": 1.22, "Distractor": "coloration"}
+{"Score": 1.22, "Distractor": "a short-range prediction scheme"}
+{"Score": 1.21, "Distractor": "science"}
+{"Score": 1.21, "Distractor": "this evidence"}
+{"Score": 1.21, "Distractor": "a catastrophic release"}
+{"Score": 1.21, "Distractor": "the mineral sylvite"}
+{"Score": 1.21, "Distractor": "a survey"}
+{"Score": 1.21, "Distractor": "the crystallization"}
+{"Score": 1.21, "Distractor": "(reflectivity"}
+{"Score": 1.21, "Distractor": "the aid"}
+{"Score": 1.21, "Distractor": "verification"}
+{"Score": 1.21, "Distractor": "a serious issue"}
+{"Score": 1.21, "Distractor": "transit"}
+{"Score": 1.21, "Distractor": "diameter"}
+{"Score": 1.21, "Distractor": "annual amount"}
+{"Score": 1.21, "Distractor": "the abundance"}
+{"Score": 1.21, "Distractor": "cropland"}
+{"Score": 1.21, "Distractor": "very thick pancake batter"}
+{"Score": 1.21, "Distractor": "biology"}
+{"Score": 1.21, "Distractor": "the scientific consensus"}
+{"Score": 1.21, "Distractor": "a bottleneck"}
+{"Score": 1.21, "Distractor": "association"}
+{"Score": 1.21, "Distractor": "room"}
+{"Score": 1.21, "Distractor": "beryllium"}
+{"Score": 1.21, "Distractor": "a province"}
+{"Score": 1.21, "Distractor": "loess"}
+{"Score": 1.21, "Distractor": "this venture"}
+{"Score": 1.21, "Distractor": "the latter convention"}
+{"Score": 1.21, "Distractor": "strength"}
+{"Score": 1.21, "Distractor": "increasing altitude"}
+{"Score": 1.21, "Distractor": "system"}
+{"Score": 1.21, "Distractor": "pyroxene"}
+{"Score": 1.21, "Distractor": "bark"}
+{"Score": 1.21, "Distractor": "nickel"}
+{"Score": 1.21, "Distractor": "cobalt"}
+{"Score": 1.21, "Distractor": "the formidable threat"}
+{"Score": 1.21, "Distractor": "a small electric generator"}
+{"Score": 1.21, "Distractor": "search"}
+{"Score": 1.21, "Distractor": "aluminum"}
+{"Score": 1.21, "Distractor": "ethanol"}
+{"Score": 1.21, "Distractor": "comparison"}
+{"Score": 1.21, "Distractor": "direct experimentation"}
+{"Score": 1.21, "Distractor": "the soil texture diagram"}
+{"Score": 1.21, "Distractor": "fact"}
+{"Score": 1.21, "Distractor": "the conventional wisdom"}
+{"Score": 1.21, "Distractor": "a massive slide"}
+{"Score": 1.21, "Distractor": "irrigation"}
+{"Score": 1.21, "Distractor": "an aqueous (water) solution"}
+{"Score": 1.21, "Distractor": "porous tissue"}
+{"Score": 1.21, "Distractor": "decomposition"}
+{"Score": 1.2, "Distractor": "a tent"}
+{"Score": 1.2, "Distractor": "about 1 percent argon"}
+{"Score": 1.2, "Distractor": "rain forest vegetation anchor"}
+{"Score": 1.2, "Distractor": "thermal resetting"}
+{"Score": 1.2, "Distractor": "a possible contributor"}
+{"Score": 1.2, "Distractor": "current thought"}
+{"Score": 1.2, "Distractor": "andy selinger/age fotostock"}
+{"Score": 1.2, "Distractor": "tourmaline"}
+{"Score": 1.2, "Distractor": "corundum"}
+{"Score": 1.2, "Distractor": "the village"}
+{"Score": 1.2, "Distractor": "the actual procedure"}
+{"Score": 1.2, "Distractor": "chromium"}
+{"Score": 1.2, "Distractor": "this narrower usage"}
+{"Score": 1.2, "Distractor": "large and extensive, rapidly melting snowpack"}
+{"Score": 1.2, "Distractor": "a thunderous roar"}
+{"Score": 1.2, "Distractor": "magmatic differentiation"}
+{"Score": 1.2, "Distractor": "the slipperiness"}
+{"Score": 1.2, "Distractor": "evaporation"}
+{"Score": 1.2, "Distractor": "the recorder"}
+{"Score": 1.2, "Distractor": "an indication"}
+{"Score": 1.2, "Distractor": "rotation"}
+{"Score": 1.2, "Distractor": "the manufacture"}
+{"Score": 1.2, "Distractor": "fluidity"}
+{"Score": 1.2, "Distractor": "a false sense"}
+{"Score": 1.2, "Distractor": "the accuracy"}
+{"Score": 1.2, "Distractor": "chaos"}
+{"Score": 1.2, "Distractor": "difficulty"}
+{"Score": 1.2, "Distractor": "an estuary"}
+{"Score": 1.2, "Distractor": "symmetry"}
+{"Score": 1.2, "Distractor": "the frequency"}
+{"Score": 1.2, "Distractor": "tidal power"}
+{"Score": 1.19, "Distractor": "the opportunity rover"}
+{"Score": 1.19, "Distractor": "the capillary fringe"}
+{"Score": 1.19, "Distractor": "inertia"}
+{"Score": 1.19, "Distractor": "contraction"}
+{"Score": 1.19, "Distractor": "the repulsion"}
+{"Score": 1.19, "Distractor": "night"}
+{"Score": 1.19, "Distractor": "the afternoon"}
+{"Score": 1.19, "Distractor": "the recrystallization"}
+{"Score": 1.19, "Distractor": "a metal frying pan"}
+{"Score": 1.19, "Distractor": "the longterm effectiveness"}
+{"Score": 1.19, "Distractor": "kyanite"}
+{"Score": 1.19, "Distractor": "calcium"}
+{"Score": 1.19, "Distractor": "brick"}
+{"Score": 1.19, "Distractor": "an atmospheric diving suit"}
+{"Score": 1.19, "Distractor": "pulp"}
+{"Score": 1.19, "Distractor": "the retreat"}
+{"Score": 1.19, "Distractor": "a brief moment"}
+{"Score": 1.19, "Distractor": "recent sedimentation"}
+{"Score": 1.19, "Distractor": "exploration"}
+{"Score": 1.19, "Distractor": "ozone"}
+{"Score": 1.19, "Distractor": "the 1943 agreement"}
+{"Score": 1.19, "Distractor": "unpleasant odor"}
+{"Score": 1.19, "Distractor": "a thinner film"}
+{"Score": 1.19, "Distractor": "tidal energy utilization"}
+{"Score": 1.19, "Distractor": "accretionary prism"}
+{"Score": 1.19, "Distractor": "icy"}
+{"Score": 1.19, "Distractor": "a log"}
+{"Score": 1.19, "Distractor": "a simplicity"}
+{"Score": 1.19, "Distractor": "a steady decline"}
+{"Score": 1.19, "Distractor": "prisoner"}
+{"Score": 1.19, "Distractor": "a general term"}
+{"Score": 1.19, "Distractor": "an appropriate description"}
+{"Score": 1.19, "Distractor": "fault breccia"}
+{"Score": 1.19, "Distractor": "all land-dwelling vertebrate species"}
+{"Score": 1.19, "Distractor": "the total volume"}
+{"Score": 1.19, "Distractor": "the liquid portion"}
+{"Score": 1.18, "Distractor": "a thin, glassy skin"}
+{"Score": 1.18, "Distractor": "a reliable guide"}
+{"Score": 1.18, "Distractor": "the bedrock"}
+{"Score": 1.18, "Distractor": "every living thing"}
+{"Score": 1.18, "Distractor": "nitrogen"}
+{"Score": 1.18, "Distractor": "a mirror image"}
+{"Score": 1.18, "Distractor": "a striking beauty"}
+{"Score": 1.18, "Distractor": "an ongoing struggle"}
+{"Score": 1.18, "Distractor": "a synthetic crude"}
+{"Score": 1.18, "Distractor": "fluid basaltic lavas"}
+{"Score": 1.18, "Distractor": "a drill"}
+{"Score": 1.18, "Distractor": "the exception"}
+{"Score": 1.18, "Distractor": "another vehicle"}
+{"Score": 1.18, "Distractor": "the organization"}
+{"Score": 1.18, "Distractor": "channel shortening"}
+{"Score": 1.18, "Distractor": "obliquity"}
+{"Score": 1.18, "Distractor": "fornia"}
+{"Score": 1.18, "Distractor": "domestic use"}
+{"Score": 1.18, "Distractor": "the porosity"}
+{"Score": 1.18, "Distractor": "fiber"}
+{"Score": 1.18, "Distractor": "the troublesome task"}
+{"Score": 1.18, "Distractor": "the proliferation"}
+{"Score": 1.18, "Distractor": "pumice"}
+{"Score": 1.18, "Distractor": "native sulfur"}
+{"Score": 1.18, "Distractor": "platinum"}
+{"Score": 1.18, "Distractor": "long history"}
+{"Score": 1.18, "Distractor": "the equator"}
+{"Score": 1.18, "Distractor": "equilibrium"}
+{"Score": 1.18, "Distractor": "the swash"}
+{"Score": 1.18, "Distractor": "traffic"}
+{"Score": 1.18, "Distractor": "the budget"}
+{"Score": 1.18, "Distractor": "a limit"}
+{"Score": 1.18, "Distractor": "the annual per capita consumption"}
+{"Score": 1.18, "Distractor": "echo sounder an echo sounder"}
+{"Score": 1.17, "Distractor": "the surrounding countryside"}
+{"Score": 1.17, "Distractor": "lithification"}
+{"Score": 1.17, "Distractor": "proximity"}
+{"Score": 1.17, "Distractor": "its violence"}
+{"Score": 1.17, "Distractor": "the fate"}
+{"Score": 1.17, "Distractor": "your hand"}
+{"Score": 1.17, "Distractor": "a mute reminder"}
+{"Score": 1.17, "Distractor": "lignite"}
+{"Score": 1.17, "Distractor": "the desert"}
+{"Score": 1.17, "Distractor": "a person"}
+{"Score": 1.17, "Distractor": "their diet"}
+{"Score": 1.17, "Distractor": "chaotic topography"}
+{"Score": 1.17, "Distractor": "small concentration"}
+{"Score": 1.17, "Distractor": "slate"}
+{"Score": 1.17, "Distractor": "an economic standpoint"}
+{"Score": 1.17, "Distractor": "an irregular coastline"}
+{"Score": 1.17, "Distractor": "predation"}
+{"Score": 1.17, "Distractor": "a salty taste"}
+{"Score": 1.17, "Distractor": "the dominant agent"}
+{"Score": 1.17, "Distractor": "the consolidation"}
+{"Score": 1.17, "Distractor": "an astronomical rise"}
+{"Score": 1.17, "Distractor": "the chief focus"}
+{"Score": 1.17, "Distractor": "the weaker quake"}
+{"Score": 1.17, "Distractor": "tremendous leverage"}
+{"Score": 1.17, "Distractor": "tourism"}
+{"Score": 1.17, "Distractor": "the compression"}
+{"Score": 1.17, "Distractor": "a measure"}
+{"Score": 1.17, "Distractor": "a fingernail"}
+{"Score": 1.17, "Distractor": "other malfunction"}
+{"Score": 1.17, "Distractor": "the staggering death toll"}
+{"Score": 1.17, "Distractor": "this practice"}
+{"Score": 1.17, "Distractor": "all human-generated greenhouse"}
+{"Score": 1.16, "Distractor": "the base"}
+{"Score": 1.16, "Distractor": "the exciting concept"}
+{"Score": 1.16, "Distractor": "downstream compensate"}
+{"Score": 1.16, "Distractor": "this large jump"}
+{"Score": 1.16, "Distractor": "humidity"}
+{"Score": 1.16, "Distractor": "a bowl"}
+{"Score": 1.16, "Distractor": "wet an examination"}
+{"Score": 1.16, "Distractor": "radio"}
+{"Score": 1.16, "Distractor": "isolation"}
+{"Score": 1.16, "Distractor": "personal safety"}
+{"Score": 1.16, "Distractor": "the terminus"}
+{"Score": 1.16, "Distractor": "the blast"}
+{"Score": 1.16, "Distractor": "their absence"}
+{"Score": 1.16, "Distractor": "the interpretation"}
+{"Score": 1.16, "Distractor": "the morning"}
+{"Score": 1.16, "Distractor": "an important planetary function"}
+{"Score": 1.16, "Distractor": "a spoon"}
+{"Score": 1.16, "Distractor": "a sequence"}
+{"Score": 1.16, "Distractor": "a bathtub"}
+{"Score": 1.16, "Distractor": "the complex interplay"}
+{"Score": 1.16, "Distractor": "sphalerite"}
+{"Score": 1.16, "Distractor": "microcline"}
+{"Score": 1.16, "Distractor": "total yearly output"}
+{"Score": 1.16, "Distractor": "a spout"}
+{"Score": 1.16, "Distractor": "the hawaiian goddess"}
+{"Score": 1.16, "Distractor": "(1800 mile-) thick mantle"}
+{"Score": 1.16, "Distractor": "the magma chamber"}
+{"Score": 1.16, "Distractor": "platy"}
+{"Score": 1.15, "Distractor": "sunset"}
+{"Score": 1.15, "Distractor": "chinese culture"}
+{"Score": 1.15, "Distractor": "bombardment"}
+{"Score": 1.15, "Distractor": "an ongoing water deficiency"}
+{"Score": 1.15, "Distractor": "a gigantic vise"}
+{"Score": 1.15, "Distractor": "the continental shelf"}
+{"Score": 1.15, "Distractor": "the job"}
+{"Score": 1.15, "Distractor": "downward-sweeping rainwater"}
+{"Score": 1.15, "Distractor": "a rainshadow"}
+{"Score": 1.15, "Distractor": "topaz"}
+{"Score": 1.15, "Distractor": "considof"}
+{"Score": 1.15, "Distractor": "a cushion"}
+{"Score": 1.15, "Distractor": "a relatively steep dropoff"}
+{"Score": 1.15, "Distractor": "exfoliation"}
+{"Score": 1.15, "Distractor": "the proportion"}
+{"Score": 1.15, "Distractor": "the end"}
+{"Score": 1.15, "Distractor": "fe2sio4"}
+{"Score": 1.15, "Distractor": "the sea"}
+{"Score": 1.15, "Distractor": "conduction"}
+{"Score": 1.15, "Distractor": "availability"}
+{"Score": 1.15, "Distractor": "a solid state"}
+{"Score": 1.15, "Distractor": "\u201cblack liquor"}
+{"Score": 1.15, "Distractor": "an excruciatingly slow pace"}
+{"Score": 1.15, "Distractor": "the development"}
+{"Score": 1.15, "Distractor": "coarser"}
+{"Score": 1.15, "Distractor": "the southern tip"}
+{"Score": 1.15, "Distractor": "view"}
+{"Score": 1.15, "Distractor": "the proterozoic eon"}
+{"Score": 1.15, "Distractor": "a host"}
+{"Score": 1.15, "Distractor": "a water softener"}
+{"Score": 1.15, "Distractor": "the reptile embryo"}
+{"Score": 1.15, "Distractor": "their vertical dimension"}
+{"Score": 1.15, "Distractor": "the agricultural productivity"}
+{"Score": 1.15, "Distractor": "the vertical drop"}
+{"Score": 1.15, "Distractor": "soap"}
+{"Score": 1.15, "Distractor": "this statement"}
+{"Score": 1.15, "Distractor": "the case"}
+{"Score": 1.15, "Distractor": "a reflection"}
+{"Score": 1.15, "Distractor": "a crater"}
+{"Score": 1.15, "Distractor": "landscape evolution"}
+{"Score": 1.15, "Distractor": "the gravitational segregation"}
+{"Score": 1.15, "Distractor": "the severity"}
+{"Score": 1.15, "Distractor": "formation"}
+{"Score": 1.15, "Distractor": "weakness"}
+{"Score": 1.15, "Distractor": "polymorph"}
+{"Score": 1.14, "Distractor": "sublimation"}
+{"Score": 1.14, "Distractor": "capacity"}
+{"Score": 1.14, "Distractor": "tandem"}
+{"Score": 1.14, "Distractor": "news"}
+{"Score": 1.14, "Distractor": "the same general temperature regime"}
+{"Score": 1.14, "Distractor": "an oblate spheroid"}
+{"Score": 1.14, "Distractor": "the recent detection"}
+{"Score": 1.14, "Distractor": "this equation"}
+{"Score": 1.14, "Distractor": "a modest project"}
+{"Score": 1.14, "Distractor": "glaciation"}
+{"Score": 1.14, "Distractor": "this expression"}
+{"Score": 1.14, "Distractor": "a multitude"}
+{"Score": 1.14, "Distractor": "the degree"}
+{"Score": 1.14, "Distractor": "the salinity"}
+{"Score": 1.14, "Distractor": "deflation"}
+{"Score": 1.14, "Distractor": "great demand"}
+{"Score": 1.14, "Distractor": "the acceptance"}
+{"Score": 1.14, "Distractor": "interruption"}
+{"Score": 1.14, "Distractor": "the narrow passage"}
+{"Score": 1.14, "Distractor": "a limited period"}
+{"Score": 1.14, "Distractor": "archaeology"}
+{"Score": 1.14, "Distractor": "a reversal"}
+{"Score": 1.14, "Distractor": "possible configuration"}
+{"Score": 1.14, "Distractor": "a fundamental link"}
+{"Score": 1.14, "Distractor": "earth\u2019s upper man tle"}
+{"Score": 1.14, "Distractor": "swamp"}
+{"Score": 1.14, "Distractor": "wondrous diversity"}
+{"Score": 1.14, "Distractor": "the solar system ideal"}
+{"Score": 1.14, "Distractor": "milk"}
+{"Score": 1.14, "Distractor": "the backwash"}
+{"Score": 1.14, "Distractor": "the cone"}
+{"Score": 1.14, "Distractor": "the water table"}
+{"Score": 1.14, "Distractor": "the epicenter"}
+{"Score": 1.14, "Distractor": "a spreading center"}
+{"Score": 1.14, "Distractor": "a maze"}
+{"Score": 1.14, "Distractor": "their own accord"}
+{"Score": 1.14, "Distractor": "dispersal"}
+{"Score": 1.14, "Distractor": "the storm"}
+{"Score": 1.14, "Distractor": "steam"}
+{"Score": 1.14, "Distractor": "ablation"}
+{"Score": 1.14, "Distractor": "the onset"}
+{"Score": 1.14, "Distractor": "dripstone"}
+{"Score": 1.14, "Distractor": "the discovery"}
+{"Score": 1.14, "Distractor": "wonder"}
+{"Score": 1.14, "Distractor": "a jigsaw puzzle"}
+{"Score": 1.14, "Distractor": "the erodibility"}
+{"Score": 1.14, "Distractor": "the warmth"}
+{"Score": 1.14, "Distractor": "the paint"}
+{"Score": 1.14, "Distractor": "a marine terrace"}
+{"Score": 1.13, "Distractor": "its imprint"}
+{"Score": 1.13, "Distractor": "southern migrate"}
+{"Score": 1.13, "Distractor": "this protection"}
+{"Score": 1.13, "Distractor": "excessive stress"}
+{"Score": 1.13, "Distractor": "inactivity"}
+{"Score": 1.13, "Distractor": "the radioactive parent"}
+{"Score": 1.13, "Distractor": "the obstacle"}
+{"Score": 1.13, "Distractor": "a result"}
+{"Score": 1.13, "Distractor": "earth\u2019s mentary"}
+{"Score": 1.13, "Distractor": "the element iridium"}
+{"Score": 1.13, "Distractor": "volcatrench nism"}
+{"Score": 1.13, "Distractor": "the limestone decorations"}
+{"Score": 1.13, "Distractor": "a valley"}
+{"Score": 1.13, "Distractor": "serious consideration"}
+{"Score": 1.13, "Distractor": "a series"}
+{"Score": 1.13, "Distractor": "alcohol"}
+{"Score": 1.13, "Distractor": "this information"}
+{"Score": 1.13, "Distractor": "a negatively charged chloride ion"}
+{"Score": 1.13, "Distractor": "an exfoliation dome"}
+{"Score": 1.13, "Distractor": "clarity"}
+{"Score": 1.13, "Distractor": "crystalline igneous rocks\u2014"}
+{"Score": 1.13, "Distractor": "vegetation"}
+{"Score": 1.13, "Distractor": "the constant cycling"}
+{"Score": 1.13, "Distractor": "the absorption"}
+{"Score": 1.13, "Distractor": "the growing season"}
+{"Score": 1.13, "Distractor": "an advancing bulldozer"}
+{"Score": 1.13, "Distractor": "the surface"}
+{"Score": 1.13, "Distractor": "a standard toe count"}
+{"Score": 1.13, "Distractor": "a hillside"}
+{"Score": 1.13, "Distractor": "acid leaching"}
+{"Score": 1.13, "Distractor": "elevation"}
+{"Score": 1.13, "Distractor": "the resin"}
+{"Score": 1.13, "Distractor": "turn"}
+{"Score": 1.13, "Distractor": "flesh"}
+{"Score": 1.13, "Distractor": "a bunsen burner"}
+{"Score": 1.13, "Distractor": "a valuable lesson"}
+{"Score": 1.13, "Distractor": "(crustal sliding"}
+{"Score": 1.13, "Distractor": "the harbor"}
+{"Score": 1.13, "Distractor": "the assistance"}
+{"Score": 1.13, "Distractor": "the tamination"}
+{"Score": 1.13, "Distractor": "groundwater inflow"}
+{"Score": 1.13, "Distractor": "a mask"}
+{"Score": 1.13, "Distractor": "silicon"}
+{"Score": 1.13, "Distractor": "tillite"}
+{"Score": 1.13, "Distractor": "a \u201clayer cake"}
+{"Score": 1.13, "Distractor": "a receiver"}
+{"Score": 1.13, "Distractor": "conjunction"}
+{"Score": 1.13, "Distractor": "the inscription"}
+{"Score": 1.12, "Distractor": "a canopy"}
+{"Score": 1.12, "Distractor": "seven coalescing subdeltas"}
+{"Score": 1.12, "Distractor": "the atmosphere"}
+{"Score": 1.12, "Distractor": "the central theme"}
+{"Score": 1.12, "Distractor": "buoyant lifting"}
+{"Score": 1.12, "Distractor": "awesome fury"}
+{"Score": 1.12, "Distractor": "both the town"}
+{"Score": 1.12, "Distractor": "the response"}
+{"Score": 1.12, "Distractor": "the carbonate class"}
+{"Score": 1.12, "Distractor": "\u2020eccentricity"}
+{"Score": 1.12, "Distractor": "a calendar"}
+{"Score": 1.12, "Distractor": "the roman fire god"}
+{"Score": 1.12, "Distractor": "granite"}
+{"Score": 1.12, "Distractor": "the vertical extent"}
+{"Score": 1.12, "Distractor": "a deposit"}
+{"Score": 1.12, "Distractor": "global cooling (\u201cimpact winter"}
+{"Score": 1.12, "Distractor": "transpiration"}
+{"Score": 1.12, "Distractor": "exhibit"}
+{"Score": 1.12, "Distractor": "ground shaking"}
+{"Score": 1.12, "Distractor": "a range"}
+{"Score": 1.12, "Distractor": "enough buoyancy"}
+{"Score": 1.12, "Distractor": "severe frost heaving"}
+{"Score": 1.12, "Distractor": "repose (reposen"}
+{"Score": 1.12, "Distractor": "the container"}
+{"Score": 1.12, "Distractor": "advice"}
+{"Score": 1.12, "Distractor": "a vast, nearly flat-bottomed pit"}
+{"Score": 1.12, "Distractor": "the bulk"}
+{"Score": 1.12, "Distractor": "wood"}
+{"Score": 1.12, "Distractor": "a headland unite"}
+{"Score": 1.12, "Distractor": "hard stabilization"}
+{"Score": 1.12, "Distractor": "electron sharing"}
+{"Score": 1.12, "Distractor": "high-temperature combustion"}
+{"Score": 1.12, "Distractor": "assimilation"}
+{"Score": 1.12, "Distractor": "the final crashing blow"}
+{"Score": 1.12, "Distractor": "sea spray"}
+{"Score": 1.12, "Distractor": "a more gradual incline"}
+{"Score": 1.12, "Distractor": "a dark groundmass"}
+{"Score": 1.12, "Distractor": "a hornless rhinoceros"}
+{"Score": 1.12, "Distractor": "what analogy"}
+{"Score": 1.12, "Distractor": "the aridity"}
+{"Score": 1.12, "Distractor": "a welded tuff"}
+{"Score": 1.12, "Distractor": "the preceding discussion"}
+{"Score": 1.12, "Distractor": "the trail"}
+{"Score": 1.12, "Distractor": "priest"}
+{"Score": 1.12, "Distractor": "the famous candy-striped landmark"}
+{"Score": 1.11, "Distractor": "a wavecut platform"}
+{"Score": 1.11, "Distractor": "rain forest clearing"}
+{"Score": 1.11, "Distractor": "cold wax"}
+{"Score": 1.11, "Distractor": "timber"}
+{"Score": 1.11, "Distractor": "the com- voyager 1 mission"}
+{"Score": 1.11, "Distractor": "critical testing"}
+{"Score": 1.11, "Distractor": "the surprise"}
+{"Score": 1.11, "Distractor": "fog"}
+{"Score": 1.11, "Distractor": "daylight"}
+{"Score": 1.11, "Distractor": "the caramel"}
+{"Score": 1.11, "Distractor": "the planets\u2019 inclination"}
+{"Score": 1.11, "Distractor": "accretion"}
+{"Score": 1.11, "Distractor": "a good solvent"}
+{"Score": 1.11, "Distractor": "the name"}
+{"Score": 1.11, "Distractor": "their solubility"}
+{"Score": 1.11, "Distractor": "its full complexity"}
+{"Score": 1.11, "Distractor": "wiring"}
+{"Score": 1.11, "Distractor": "a patch"}
+{"Score": 1.11, "Distractor": "cardboard"}
+{"Score": 1.11, "Distractor": "plaster"}
+{"Score": 1.11, "Distractor": "a slow upheaval"}
+{"Score": 1.11, "Distractor": "its internal cohesion"}
+{"Score": 1.11, "Distractor": "(eccentricity"}
+{"Score": 1.11, "Distractor": "the jar"}
+{"Score": 1.11, "Distractor": "the introduction"}
+{"Score": 1.11, "Distractor": "the discharge"}
+{"Score": 1.11, "Distractor": "a significant correlation"}
+{"Score": 1.11, "Distractor": "its ultimate destination"}
+{"Score": 1.11, "Distractor": "the rest"}
+{"Score": 1.11, "Distractor": "a particular combination"}
+{"Score": 1.11, "Distractor": "the vast expanse"}
+{"Score": 1.11, "Distractor": "a magnet"}
+{"Score": 1.11, "Distractor": "the mineral apatite"}
+{"Score": 1.11, "Distractor": "boston\u2019s flour"}
+{"Score": 1.11, "Distractor": "hydrolysis"}
+{"Score": 1.11, "Distractor": "ore"}
+{"Score": 1.11, "Distractor": "positum"}
+{"Score": 1.11, "Distractor": "silver"}
+{"Score": 1.11, "Distractor": "the disposal"}
+{"Score": 1.11, "Distractor": "the remainder"}
+{"Score": 1.11, "Distractor": "considerable skepticism"}
+{"Score": 1.11, "Distractor": "the distribution"}
+{"Score": 1.11, "Distractor": "instance"}
+{"Score": 1.11, "Distractor": "a very simple rule"}
+{"Score": 1.11, "Distractor": "small craft"}
+{"Score": 1.11, "Distractor": "the organic litter"}
+{"Score": 1.11, "Distractor": "a brief look"}
+{"Score": 1.11, "Distractor": "the nature"}
+{"Score": 1.11, "Distractor": "the scientist"}
+{"Score": 1.11, "Distractor": "his inability"}
+{"Score": 1.11, "Distractor": "a curious traveler"}
+{"Score": 1.11, "Distractor": "any location"}
+{"Score": 1.11, "Distractor": "a spinning top"}
+{"Score": 1.11, "Distractor": "this tongue"}
+{"Score": 1.1, "Distractor": "an upturned rim"}
+{"Score": 1.1, "Distractor": "the endurance"}
+{"Score": 1.1, "Distractor": "a detailed picture"}
+{"Score": 1.1, "Distractor": "worm"}
+{"Score": 1.1, "Distractor": "the distant dwarf planet pluto"}
+{"Score": 1.1, "Distractor": "a process"}
+{"Score": 1.1, "Distractor": "the decay"}
+{"Score": 1.1, "Distractor": "the material downslope"}
+{"Score": 1.1, "Distractor": "a barrier"}
+{"Score": 1.1, "Distractor": "an automobile\u2019s fender"}
+{"Score": 1.1, "Distractor": "nebular debris"}
+{"Score": 1.1, "Distractor": "the sorting, roundness"}
+{"Score": 1.1, "Distractor": "reality"}
+{"Score": 1.1, "Distractor": "oceanic lithosphere bend"}
+{"Score": 1.1, "Distractor": "the eastern branch"}
+{"Score": 1.1, "Distractor": "a pearl"}
+{"Score": 1.1, "Distractor": "the lip"}
+{"Score": 1.1, "Distractor": "our reliance"}
+{"Score": 1.1, "Distractor": "the fragmentation"}
+{"Score": 1.1, "Distractor": "a dull appearance"}
+{"Score": 1.1, "Distractor": "a large kink"}
+{"Score": 1.1, "Distractor": "a underlain"}
+{"Score": 1.1, "Distractor": "their hesitation"}
+{"Score": 1.1, "Distractor": "sugarcane or sugar beets"}
+{"Score": 1.1, "Distractor": "the subcontinent"}
+{"Score": 1.1, "Distractor": "our imagination"}
+{"Score": 1.1, "Distractor": "the demolition"}
+{"Score": 1.1, "Distractor": "thawing permafrost"}
+{"Score": 1.1, "Distractor": "the basis"}
+{"Score": 1.1, "Distractor": "a strong coupling"}
+{"Score": 1.1, "Distractor": "the closure"}
+{"Score": 1.1, "Distractor": "differential"}
+{"Score": 1.1, "Distractor": "an unconformity"}
+{"Score": 1.1, "Distractor": "a stove"}
+{"Score": 1.1, "Distractor": "either roll"}
+{"Score": 1.1, "Distractor": "the logic"}
+{"Score": 1.1, "Distractor": "a limber wooden stick"}
+{"Score": 1.1, "Distractor": "the magnetic alignment"}
+{"Score": 1.1, "Distractor": "a negative electrical charge"}
+{"Score": 1.1, "Distractor": "protective clothing"}
+{"Score": 1.1, "Distractor": "the calcite (calcium cardissolution"}
+{"Score": 1.1, "Distractor": "glass tubing"}
+{"Score": 1.1, "Distractor": "an adjacent tetrahedron"}
+{"Score": 1.1, "Distractor": "the mobility"}
+{"Score": 1.1, "Distractor": "the zone"}
+{"Score": 1.1, "Distractor": "the mouth"}
+{"Score": 1.1, "Distractor": "the injection"}
+{"Score": 1.1, "Distractor": "define bathymetry"}
+{"Score": 1.09, "Distractor": "one simple safeguard"}
+{"Score": 1.09, "Distractor": "the attraction"}
+{"Score": 1.09, "Distractor": "a high percentage"}
+{"Score": 1.09, "Distractor": "a full complement"}
+{"Score": 1.09, "Distractor": "an important limitation"}
+{"Score": 1.09, "Distractor": "the shore"}
+{"Score": 1.09, "Distractor": "rigid outer shell"}
+{"Score": 1.09, "Distractor": "this economic context"}
+{"Score": 1.09, "Distractor": "refraction"}
+{"Score": 1.09, "Distractor": "this upward migration"}
+{"Score": 1.09, "Distractor": "dry belief"}
+{"Score": 1.09, "Distractor": "a solid connection"}
+{"Score": 1.09, "Distractor": "the deterioration"}
+{"Score": 1.09, "Distractor": "the melt"}
+{"Score": 1.09, "Distractor": "the acidity"}
+{"Score": 1.09, "Distractor": "a biological origin"}
+{"Score": 1.09, "Distractor": "the ground"}
+{"Score": 1.09, "Distractor": "other freshwater"}
+{"Score": 1.09, "Distractor": "cultivation"}
+{"Score": 1.09, "Distractor": "the deepest spot"}
+{"Score": 1.09, "Distractor": "an opportunity"}
+{"Score": 1.09, "Distractor": "its construction"}
+{"Score": 1.09, "Distractor": "the voyage"}
+{"Score": 1.09, "Distractor": "the ultimate driver"}
+{"Score": 1.09, "Distractor": "the conclusion"}
+{"Score": 1.09, "Distractor": "this deck"}
+{"Score": 1.09, "Distractor": "the integrity"}
+{"Score": 1.09, "Distractor": "a decrease"}
+{"Score": 1.09, "Distractor": "the answer"}
+{"Score": 1.09, "Distractor": "the foreground"}
+{"Score": 1.09, "Distractor": "the mother\u2019s pouch"}
+{"Score": 1.09, "Distractor": "the northern coniferous forest"}
+{"Score": 1.09, "Distractor": "the breakup"}
+{"Score": 1.09, "Distractor": "greenschist"}
+{"Score": 1.09, "Distractor": "this hypothetical ber"}
+{"Score": 1.09, "Distractor": "the entire globe"}
+{"Score": 1.08, "Distractor": "the rope"}
+{"Score": 1.08, "Distractor": "the likelihood"}
+{"Score": 1.08, "Distractor": "a landslide"}
+{"Score": 1.08, "Distractor": "dendritic drainage networks"}
+{"Score": 1.08, "Distractor": "fer"}
+{"Score": 1.08, "Distractor": "the tropopause"}
+{"Score": 1.08, "Distractor": "uplift"}
+{"Score": 1.08, "Distractor": "one option"}
+{"Score": 1.08, "Distractor": "this generalization"}
+{"Score": 1.08, "Distractor": "the sudden infusion"}
+{"Score": 1.08, "Distractor": "stoping"}
+{"Score": 1.08, "Distractor": "marble crags"}
+{"Score": 1.08, "Distractor": "turbulence"}
+{"Score": 1.08, "Distractor": "this section"}
+{"Score": 1.08, "Distractor": "a disconformity"}
+{"Score": 1.08, "Distractor": "waste matter"}
+{"Score": 1.08, "Distractor": "an average single-family home"}
+{"Score": 1.08, "Distractor": "its angularity"}
+{"Score": 1.08, "Distractor": "the geometry"}
+{"Score": 1.08, "Distractor": "the sour mash"}
+{"Score": 1.08, "Distractor": "the impactor"}
+{"Score": 1.08, "Distractor": "a fumarole"}
+{"Score": 1.08, "Distractor": "talc"}
+{"Score": 1.08, "Distractor": "the grass"}
+{"Score": 1.08, "Distractor": "plateaus"}
+{"Score": 1.08, "Distractor": "its load"}
+{"Score": 1.08, "Distractor": "a surplus"}
+{"Score": 1.08, "Distractor": "fluorine"}
+{"Score": 1.08, "Distractor": "detail"}
+{"Score": 1.08, "Distractor": "quartz"}
+{"Score": 1.08, "Distractor": "biodiversity"}
+{"Score": 1.08, "Distractor": "lumber"}
+{"Score": 1.08, "Distractor": "a 100-meter (300-foot) high \u201ccurtain"}
+{"Score": 1.08, "Distractor": "a thin blanket"}
+{"Score": 1.08, "Distractor": "the campfire"}
+{"Score": 1.08, "Distractor": "r wood biomass"}
+{"Score": 1.08, "Distractor": "nasa\u2019s messenger spacecraft"}
+{"Score": 1.08, "Distractor": "rice paddies"}
+{"Score": 1.08, "Distractor": "the saltwater"}
+{"Score": 1.08, "Distractor": "eclogite"}
+{"Score": 1.08, "Distractor": "the alternating expansion"}
+{"Score": 1.08, "Distractor": "fertility"}
+{"Score": 1.08, "Distractor": "the resulting distortion"}
+{"Score": 1.08, "Distractor": "this graphic portrayal"}
+{"Score": 1.08, "Distractor": "what share"}
+{"Score": 1.08, "Distractor": "the ratio"}
+{"Score": 1.08, "Distractor": "their channel"}
+{"Score": 1.08, "Distractor": "a maximum fetch"}
+{"Score": 1.08, "Distractor": "a family"}
+{"Score": 1.08, "Distractor": "desertification"}
+{"Score": 1.07, "Distractor": "the inset"}
+{"Score": 1.07, "Distractor": "the identity"}
+{"Score": 1.07, "Distractor": "a ride"}
+{"Score": 1.07, "Distractor": "the leeward"}
+{"Score": 1.07, "Distractor": "its designation"}
+{"Score": 1.07, "Distractor": "the scientific literature"}
+{"Score": 1.07, "Distractor": "the vivid glow"}
+{"Score": 1.07, "Distractor": "energy"}
+{"Score": 1.07, "Distractor": "snow"}
+{"Score": 1.07, "Distractor": "landfall"}
+{"Score": 1.07, "Distractor": "muscovite"}
+{"Score": 1.07, "Distractor": "the 60th parallel"}
+{"Score": 1.07, "Distractor": "compositional banding"}
+{"Score": 1.07, "Distractor": "a tornado"}
+{"Score": 1.07, "Distractor": "its existence"}
+{"Score": 1.07, "Distractor": "low organic content"}
+{"Score": 1.07, "Distractor": "their presence"}
+{"Score": 1.07, "Distractor": "the basic glacial vocabulary"}
+{"Score": 1.07, "Distractor": "another glance"}
+{"Score": 1.07, "Distractor": "the vitality"}
+{"Score": 1.07, "Distractor": "each site"}
+{"Score": 1.07, "Distractor": "the warmest year"}
+{"Score": 1.07, "Distractor": "the march 2011 emergency"}
+{"Score": 1.07, "Distractor": "the pollution"}
+{"Score": 1.07, "Distractor": "order"}
+{"Score": 1.07, "Distractor": "the subduction"}
+{"Score": 1.07, "Distractor": "their visit"}
+{"Score": 1.07, "Distractor": "an expedition"}
+{"Score": 1.07, "Distractor": "the constant recycling"}
+{"Score": 1.07, "Distractor": "an interesting paradox"}
+{"Score": 1.07, "Distractor": "recharge"}
+{"Score": 1.07, "Distractor": "overuse"}
+{"Score": 1.07, "Distractor": "your choice"}
+{"Score": 1.07, "Distractor": "soapstone"}
+{"Score": 1.07, "Distractor": "temperature"}
+{"Score": 1.07, "Distractor": "calcium carbonate"}
+{"Score": 1.07, "Distractor": "the laboratory"}
+{"Score": 1.07, "Distractor": "a bottle"}
+{"Score": 1.06, "Distractor": "their dedication"}
+{"Score": 1.06, "Distractor": "a simplified but useful overview"}
+{"Score": 1.06, "Distractor": "arroyo"}
+{"Score": 1.06, "Distractor": "the solar wind"}
+{"Score": 1.06, "Distractor": "the survival"}
+{"Score": 1.06, "Distractor": "a natuevidence"}
+{"Score": 1.06, "Distractor": "matrix"}
+{"Score": 1.06, "Distractor": "the carbon"}
+{"Score": 1.06, "Distractor": "emit"}
+{"Score": 1.06, "Distractor": "considerable interest"}
+{"Score": 1.06, "Distractor": "ology"}
+{"Score": 1.06, "Distractor": "the orientation"}
+{"Score": 1.06, "Distractor": "calcite"}
+{"Score": 1.06, "Distractor": "this graph"}
+{"Score": 1.06, "Distractor": "separation"}
+{"Score": 1.06, "Distractor": "a kiln"}
+{"Score": 1.06, "Distractor": "extensive drought"}
+{"Score": 1.06, "Distractor": "the mesozoic era"}
+{"Score": 1.06, "Distractor": "commonly called potash"}
+{"Score": 1.06, "Distractor": "the creation"}
+{"Score": 1.06, "Distractor": "the taffy"}
+{"Score": 1.06, "Distractor": "the best-known fossil occurrence"}
+{"Score": 1.06, "Distractor": "electricity"}
+{"Score": 1.06, "Distractor": "beeswax"}
+{"Score": 1.06, "Distractor": "an evolving planet"}
+{"Score": 1.06, "Distractor": "air"}
+{"Score": 1.06, "Distractor": "a smaller wetted perimeter"}
+{"Score": 1.06, "Distractor": "a frozen cinder"}
+{"Score": 1.06, "Distractor": "a baseball"}
+{"Score": 1.06, "Distractor": "a sufficient quantity"}
+{"Score": 1.06, "Distractor": "liquefaction"}
+{"Score": 1.06, "Distractor": "the previous situation"}
+{"Score": 1.06, "Distractor": "tory"}
+{"Score": 1.06, "Distractor": "the lack"}
+{"Score": 1.06, "Distractor": "a campground"}
+{"Score": 1.06, "Distractor": "snowmelt"}
+{"Score": 1.06, "Distractor": "one such cluster"}
+{"Score": 1.06, "Distractor": "fireplace"}
+{"Score": 1.06, "Distractor": "logging"}
+{"Score": 1.06, "Distractor": "the relationship"}
+{"Score": 1.06, "Distractor": "backward tilting"}
+{"Score": 1.06, "Distractor": "independent tetrahedra"}
+{"Score": 1.06, "Distractor": "and maintenance"}
+{"Score": 1.06, "Distractor": "why does oceanic lithosphere subduct"}
+{"Score": 1.06, "Distractor": "the inner gorge"}
+{"Score": 1.06, "Distractor": "the wedge"}
+{"Score": 1.06, "Distractor": "the mississippi watershed"}
+{"Score": 1.06, "Distractor": "their mode"}
+{"Score": 1.06, "Distractor": "the mechanism"}
+{"Score": 1.06, "Distractor": "a great deal"}
+{"Score": 1.05, "Distractor": "the naked eye"}
+{"Score": 1.05, "Distractor": "wet mud"}
+{"Score": 1.05, "Distractor": "a snowfield"}
+{"Score": 1.05, "Distractor": "page"}
+{"Score": 1.05, "Distractor": "the thickness"}
+{"Score": 1.05, "Distractor": "arid"}
+{"Score": 1.05, "Distractor": "the bottom"}
+{"Score": 1.05, "Distractor": "the right side"}
+{"Score": 1.05, "Distractor": "the realm"}
+{"Score": 1.05, "Distractor": "the knickpoint"}
+{"Score": 1.05, "Distractor": "slip"}
+{"Score": 1.05, "Distractor": "note"}
+{"Score": 1.05, "Distractor": "grass clippings"}
+{"Score": 1.05, "Distractor": "a serious geologic"}
+{"Score": 1.05, "Distractor": "tekto"}
+{"Score": 1.05, "Distractor": "the proof"}
+{"Score": 1.05, "Distractor": "folium"}
+{"Score": 1.05, "Distractor": "the threshold"}
+{"Score": 1.05, "Distractor": "the coral atoll"}
+{"Score": 1.05, "Distractor": "a sphere"}
+{"Score": 1.05, "Distractor": "the emptiness"}
+{"Score": 1.05, "Distractor": "the withdrawal"}
+{"Score": 1.05, "Distractor": "a needle"}
+{"Score": 1.05, "Distractor": "anthracite"}
+{"Score": 1.05, "Distractor": "the same cemetery"}
+{"Score": 1.05, "Distractor": "marble"}
+{"Score": 1.05, "Distractor": "sudden slippage"}
+{"Score": 1.05, "Distractor": "a pot"}
+{"Score": 1.05, "Distractor": "an advancing hurricane"}
+{"Score": 1.05, "Distractor": "the significance"}
+{"Score": 1.05, "Distractor": "an aircraft"}
+{"Score": 1.05, "Distractor": "appreciable overlap"}
+{"Score": 1.05, "Distractor": "schistosity"}
+{"Score": 1.05, "Distractor": "the geologic past"}
+{"Score": 1.05, "Distractor": "\"piggyback\" style"}
+{"Score": 1.05, "Distractor": "a slice"}
+{"Score": 1.05, "Distractor": "the biosphere meet"}
+{"Score": 1.05, "Distractor": "research"}
+{"Score": 1.05, "Distractor": "the quality"}
+{"Score": 1.05, "Distractor": "the cross bedding"}
+{"Score": 1.05, "Distractor": "the removal"}
+{"Score": 1.05, "Distractor": "the world\u2019s largest producer"}
+{"Score": 1.05, "Distractor": "the rapid mammal diversification"}
+{"Score": 1.04, "Distractor": "the primary occultation"}
+{"Score": 1.04, "Distractor": "methane"}
+{"Score": 1.04, "Distractor": "seawater"}
+{"Score": 1.04, "Distractor": "capillus = hair"}
+{"Score": 1.04, "Distractor": "leakage"}
+{"Score": 1.04, "Distractor": "a hydraulic jack"}
+{"Score": 1.04, "Distractor": "its normal schedule"}
+{"Score": 1.04, "Distractor": "an important scientific achievement"}
+{"Score": 1.04, "Distractor": "the mineralogy"}
+{"Score": 1.04, "Distractor": "a rupture"}
+{"Score": 1.04, "Distractor": "the buildup"}
+{"Score": 1.04, "Distractor": "seismic imaging"}
+{"Score": 1.04, "Distractor": "the land"}
+{"Score": 1.04, "Distractor": "the cyclone"}
+{"Score": 1.04, "Distractor": "the internet"}
+{"Score": 1.04, "Distractor": "this shortcoming"}
+{"Score": 1.04, "Distractor": "polar wandering"}
+{"Score": 1.04, "Distractor": "its utility"}
+{"Score": 1.04, "Distractor": "the necessity"}
+{"Score": 1.04, "Distractor": "certain marine"}
+{"Score": 1.04, "Distractor": "the crest"}
+{"Score": 1.04, "Distractor": "gravity"}
+{"Score": 1.04, "Distractor": "an obstruction"}
+{"Score": 1.04, "Distractor": "iceland\u2019s capital"}
+{"Score": 1.04, "Distractor": "a metaconglomerate"}
+{"Score": 1.04, "Distractor": "oblique"}
+{"Score": 1.04, "Distractor": "a lower density"}
+{"Score": 1.04, "Distractor": "the continuum"}
+{"Score": 1.04, "Distractor": "sediment"}
+{"Score": 1.04, "Distractor": "any imbalance"}
+{"Score": 1.04, "Distractor": "travel"}
+{"Score": 1.04, "Distractor": "each megaflood"}
+{"Score": 1.04, "Distractor": "the demise"}
+{"Score": 1.04, "Distractor": "a nonstructural approach"}
+{"Score": 1.04, "Distractor": "this claim"}
+{"Score": 1.04, "Distractor": "the floodplain"}
+{"Score": 1.04, "Distractor": "its usefulness"}
+{"Score": 1.04, "Distractor": "a wheel"}
+{"Score": 1.04, "Distractor": "a continuation"}
+{"Score": 1.04, "Distractor": "the waterline"}
+{"Score": 1.04, "Distractor": "suspension"}
+{"Score": 1.04, "Distractor": "crater lake\u2013type calderas"}
+{"Score": 1.04, "Distractor": "iron filings"}
+{"Score": 1.04, "Distractor": "vesicular texture"}
+{"Score": 1.03, "Distractor": "the magma\u2019s viscosity"}
+{"Score": 1.03, "Distractor": "all rivers noise"}
+{"Score": 1.03, "Distractor": "faulting"}
+{"Score": 1.03, "Distractor": "the deepest and widest part"}
+{"Score": 1.03, "Distractor": "quieter air mulates"}
+{"Score": 1.03, "Distractor": "the irregularity"}
+{"Score": 1.03, "Distractor": "recreation"}
+{"Score": 1.03, "Distractor": "the risk"}
+{"Score": 1.03, "Distractor": "the north"}
+{"Score": 1.03, "Distractor": "its final journey"}
+{"Score": 1.03, "Distractor": "the composition"}
+{"Score": 1.03, "Distractor": "the remarkable fit"}
+{"Score": 1.03, "Distractor": "their success"}
+{"Score": 1.03, "Distractor": "the heart"}
+{"Score": 1.03, "Distractor": "prevention"}
+{"Score": 1.03, "Distractor": "a minimum"}
+{"Score": 1.03, "Distractor": "the water"}
+{"Score": 1.03, "Distractor": "a reasonable calculation"}
+{"Score": 1.03, "Distractor": "that figure"}
+{"Score": 1.03, "Distractor": "mass wasting"}
+{"Score": 1.03, "Distractor": "e gro alon"}
+{"Score": 1.03, "Distractor": "the distinction"}
+{"Score": 1.03, "Distractor": "the summit"}
+{"Score": 1.03, "Distractor": "amphibole"}
+{"Score": 1.03, "Distractor": "ebb"}
+{"Score": 1.03, "Distractor": "the protosun"}
+{"Score": 1.03, "Distractor": "gravel"}
+{"Score": 1.03, "Distractor": "a continental volcanic"}
+{"Score": 1.03, "Distractor": "the influx"}
+{"Score": 1.03, "Distractor": "such enrichment"}
+{"Score": 1.03, "Distractor": "a consequence"}
+{"Score": 1.03, "Distractor": "a loosening"}
+{"Score": 1.03, "Distractor": "basaltic (mafic"}
+{"Score": 1.03, "Distractor": "broad assortment"}
+{"Score": 1.03, "Distractor": "an ancient (permian-age) reef complex"}
+{"Score": 1.03, "Distractor": "a piston"}
+{"Score": 1.03, "Distractor": "the common volcanic rock andesite"}
+{"Score": 1.03, "Distractor": "slaty"}
+{"Score": 1.03, "Distractor": "fluid mudflow"}
+{"Score": 1.03, "Distractor": "decompression melting"}
+{"Score": 1.03, "Distractor": "immediate speculation"}
+{"Score": 1.03, "Distractor": "the background"}
+{"Score": 1.02, "Distractor": "the coma"}
+{"Score": 1.02, "Distractor": "its most recent entry"}
+{"Score": 1.02, "Distractor": "this gravitational flexing"}
+{"Score": 1.02, "Distractor": "some regularity"}
+{"Score": 1.02, "Distractor": "stability"}
+{"Score": 1.02, "Distractor": "the health"}
+{"Score": 1.02, "Distractor": "the efficiency"}
+{"Score": 1.02, "Distractor": "ad"}
+{"Score": 1.02, "Distractor": "a major cause"}
+{"Score": 1.02, "Distractor": "a hot griddle"}
+{"Score": 1.02, "Distractor": "the cost"}
+{"Score": 1.02, "Distractor": "the backshore"}
+{"Score": 1.02, "Distractor": "concordant (concordare"}
+{"Score": 1.02, "Distractor": "tile"}
+{"Score": 1.02, "Distractor": "light-colored ence"}
+{"Score": 1.02, "Distractor": "favor"}
+{"Score": 1.02, "Distractor": "silt"}
+{"Score": 1.02, "Distractor": "the consistency"}
+{"Score": 1.02, "Distractor": "no single locale"}
+{"Score": 1.02, "Distractor": "staurolite"}
+{"Score": 1.02, "Distractor": "2013 2014 commercial wind turbines"}
+{"Score": 1.02, "Distractor": "this phenomenon"}
+{"Score": 1.02, "Distractor": "a 6-kilometer ( 4 mile) fissure"}
+{"Score": 1.02, "Distractor": "the deep abyss"}
+{"Score": 1.02, "Distractor": "ionic, covalent"}
+{"Score": 1.02, "Distractor": "occasionally copper"}
+{"Score": 1.02, "Distractor": "assume"}
+{"Score": 1.02, "Distractor": "the assembly"}
+{"Score": 1.02, "Distractor": "our attention"}
+{"Score": 1.02, "Distractor": "a magnifying glass"}
+{"Score": 1.02, "Distractor": "this episode"}
+{"Score": 1.02, "Distractor": "a probability"}
+{"Score": 1.02, "Distractor": "the backside"}
+{"Score": 1.02, "Distractor": "each dot"}
+{"Score": 1.02, "Distractor": "the majority"}
+{"Score": 1.01, "Distractor": "the outflow"}
+{"Score": 1.01, "Distractor": "this target"}
+{"Score": 1.01, "Distractor": "the second-largest satellite"}
+{"Score": 1.01, "Distractor": "the notch"}
+{"Score": 1.01, "Distractor": "a complex whole"}
+{"Score": 1.01, "Distractor": "the stratopause"}
+{"Score": 1.01, "Distractor": "his surfer"}
+{"Score": 1.01, "Distractor": "hydroelectricity"}
+{"Score": 1.01, "Distractor": "tiny chlosediment"}
+{"Score": 1.01, "Distractor": "0.64 mya"}
+{"Score": 1.01, "Distractor": "a strand"}
+{"Score": 1.01, "Distractor": "induced seismicity"}
+{"Score": 1.01, "Distractor": "physics"}
+{"Score": 1.01, "Distractor": "ridge push"}
+{"Score": 1.01, "Distractor": "the limesurface"}
+{"Score": 1.01, "Distractor": "virtue"}
+{"Score": 1.01, "Distractor": "a wave front"}
+{"Score": 1.01, "Distractor": "the mineral pyrite"}
+{"Score": 1.01, "Distractor": "a long trip"}
+{"Score": 1.01, "Distractor": "the rising standard"}
+{"Score": 1.01, "Distractor": "each dragon"}
+{"Score": 1.01, "Distractor": "syrup"}
+{"Score": 1.01, "Distractor": "garnet"}
+{"Score": 1.01, "Distractor": "this notion"}
+{"Score": 1.01, "Distractor": "the mind"}
+{"Score": 1.01, "Distractor": "the lifetime"}
+{"Score": 1.01, "Distractor": "cloth"}
+{"Score": 1.01, "Distractor": "the scene"}
+{"Score": 1.01, "Distractor": "algae"}
+{"Score": 1.01, "Distractor": "bryttian"}
+{"Score": 1.01, "Distractor": "support"}
+{"Score": 1.01, "Distractor": "the continuity"}
+{"Score": 1.01, "Distractor": "the pounding surf"}
+{"Score": 1.01, "Distractor": "today"}
+{"Score": 1.01, "Distractor": "a low angle"}
+{"Score": 1.01, "Distractor": "gradient"}
+{"Score": 1.01, "Distractor": "the collection"}
+{"Score": 1.0, "Distractor": "the rockslide"}
+{"Score": 1.0, "Distractor": "war"}
+{"Score": 1.0, "Distractor": "hematite"}
+{"Score": 1.0, "Distractor": "a sufficiently large tank"}
+{"Score": 1.0, "Distractor": "its wake"}
+{"Score": 1.0, "Distractor": "the world"}
+{"Score": 1.0, "Distractor": "a ladle"}
+{"Score": 1.0, "Distractor": "packaging"}
+{"Score": 1.0, "Distractor": "common iron sulfides"}
+{"Score": 1.0, "Distractor": "only an occasional glimpse"}
+{"Score": 1.0, "Distractor": "ever-increasing vigor"}
+{"Score": 1.0, "Distractor": "steepness"}
+{"Score": 1.0, "Distractor": "his pursuit"}
+{"Score": 1.0, "Distractor": ", spiro"}
+{"Score": 1.0, "Distractor": "concern"}
+{"Score": 1.0, "Distractor": "a superplume"}
+{"Score": 1.0, "Distractor": "the apparent polar wander"}
+{"Score": 1.0, "Distractor": "strip"}
+{"Score": 1.0, "Distractor": "a huge mass"}
+{"Score": 1.0, "Distractor": "the long-term average"}
+{"Score": 1.0, "Distractor": "the weather"}
+{"Score": 1.0, "Distractor": "u, ulna, or lower arm"}
+{"Score": 1.0, "Distractor": "a height"}
+{"Score": 1.0, "Distractor": "the oligocene epoch"}
+{"Score": 1.0, "Distractor": "havoc"}
+{"Score": 1.0, "Distractor": "a funnel"}
+{"Score": 1.0, "Distractor": "the streak"}
+{"Score": 1.0, "Distractor": "the hub"}
+{"Score": 1.0, "Distractor": "fracturing"}
+{"Score": 1.0, "Distractor": "the largest installation"}
+{"Score": 1.0, "Distractor": "impact"}
+{"Score": 0.99, "Distractor": "the innermost"}
+{"Score": 0.99, "Distractor": "channel roughness"}
+{"Score": 0.99, "Distractor": "springen"}
+{"Score": 0.99, "Distractor": "the trauma"}
+{"Score": 0.99, "Distractor": "cell phones"}
+{"Score": 0.99, "Distractor": "light cream"}
+{"Score": 0.99, "Distractor": "the emergence"}
+{"Score": 0.99, "Distractor": "p."}
+{"Score": 0.99, "Distractor": "zinc"}
+{"Score": 0.99, "Distractor": "this topic"}
+{"Score": 0.99, "Distractor": "the airflow"}
+{"Score": 0.99, "Distractor": "a web"}
+{"Score": 0.99, "Distractor": "chalk"}
+{"Score": 0.99, "Distractor": "this attitude"}
+{"Score": 0.99, "Distractor": "an informal metaphor"}
+{"Score": 0.99, "Distractor": "stew"}
+{"Score": 0.99, "Distractor": "the lunar regolith"}
+{"Score": 0.99, "Distractor": "deformation"}
+{"Score": 0.99, "Distractor": "a 600-kilometer loop"}
+{"Score": 0.99, "Distractor": "the reign"}
+{"Score": 0.99, "Distractor": "english engineer and canal builder william smith"}
+{"Score": 0.99, "Distractor": "this small sinkhole"}
+{"Score": 0.99, "Distractor": "longrange forecasts"}
+{"Score": 0.99, "Distractor": "this massive granitic monolith"}
+{"Score": 0.99, "Distractor": "a subject"}
+{"Score": 0.99, "Distractor": "the endowment"}
+{"Score": 0.99, "Distractor": "wegener\u2019s hypothantarctica esis"}
+{"Score": 0.99, "Distractor": "permineralization"}
+{"Score": 0.99, "Distractor": "ariner"}
+{"Score": 0.98, "Distractor": "everybody"}
+{"Score": 0.98, "Distractor": "repose"}
+{"Score": 0.98, "Distractor": "corrosion"}
+{"Score": 0.98, "Distractor": "their own robotic submarine"}
+{"Score": 0.98, "Distractor": "the pull"}
+{"Score": 0.98, "Distractor": "crack"}
+{"Score": 0.98, "Distractor": "the geotherm"}
+{"Score": 0.98, "Distractor": "the permeable bed"}
+{"Score": 0.98, "Distractor": "fore"}
+{"Score": 0.98, "Distractor": "the shoreline"}
+{"Score": 0.98, "Distractor": "highgrade metamorphism"}
+{"Score": 0.98, "Distractor": "inadequate or nonexistent building codes"}
+{"Score": 0.98, "Distractor": "glitter"}
+{"Score": 0.98, "Distractor": "these subsurface"}
+{"Score": 0.98, "Distractor": "earth\u2019s interior"}
+{"Score": 0.98, "Distractor": "millennia"}
+{"Score": 0.98, "Distractor": "the erosional wrath"}
+{"Score": 0.98, "Distractor": "the nearby outlet"}
+{"Score": 0.98, "Distractor": "a dry, saltencrusted playa"}
+{"Score": 0.98, "Distractor": "the pause"}
+{"Score": 0.98, "Distractor": "the meager rainfall"}
+{"Score": 0.98, "Distractor": "our ability"}
+{"Score": 0.98, "Distractor": "the bursting"}
+{"Score": 0.98, "Distractor": "a species"}
+{"Score": 0.98, "Distractor": "the monastery"}
+{"Score": 0.98, "Distractor": "plankton"}
+{"Score": 0.98, "Distractor": "cooking"}
+{"Score": 0.98, "Distractor": "maximum bending"}
+{"Score": 0.98, "Distractor": "olivine"}
+{"Score": 0.98, "Distractor": "the greatest destruction"}
+{"Score": 0.98, "Distractor": "beach nourishment"}
+{"Score": 0.98, "Distractor": "glacial meltwater"}
+{"Score": 0.98, "Distractor": "a tsunami"}
+{"Score": 0.98, "Distractor": "preservation"}
+{"Score": 0.98, "Distractor": "the wadi"}
+{"Score": 0.98, "Distractor": "an inclined aquifer"}
+{"Score": 0.98, "Distractor": "a mollisol"}
+{"Score": 0.98, "Distractor": "a danish anatomist"}
+{"Score": 0.98, "Distractor": "emplacement"}
+{"Score": 0.97, "Distractor": "the japanese probe"}
+{"Score": 0.97, "Distractor": "offshore wind farms"}
+{"Score": 0.97, "Distractor": "medical tomography"}
+{"Score": 0.97, "Distractor": "a good absorber"}
+{"Score": 0.97, "Distractor": "the stratosphere"}
+{"Score": 0.97, "Distractor": "arkose"}
+{"Score": 0.97, "Distractor": "a string"}
+{"Score": 0.97, "Distractor": "water shortages"}
+{"Score": 0.97, "Distractor": "irish elk"}
+{"Score": 0.97, "Distractor": "the gas giants"}
+{"Score": 0.97, "Distractor": "a clockwise spiral"}
+{"Score": 0.97, "Distractor": "thawing"}
+{"Score": 0.97, "Distractor": "excessive pumping"}
+{"Score": 0.97, "Distractor": "habit"}
+{"Score": 0.97, "Distractor": "the closing"}
+{"Score": 0.97, "Distractor": "sugar"}
+{"Score": 0.97, "Distractor": "the coalescence"}
+{"Score": 0.97, "Distractor": "sp ectio"}
+{"Score": 0.97, "Distractor": "an ellipse"}
+{"Score": 0.97, "Distractor": "the opening"}
+{"Score": 0.97, "Distractor": "dia"}
+{"Score": 0.97, "Distractor": "this pattern"}
+{"Score": 0.97, "Distractor": "the midst"}
+{"Score": 0.97, "Distractor": "seaward"}
+{"Score": 0.97, "Distractor": "\u201crust"}
+{"Score": 0.97, "Distractor": "the hardness"}
+{"Score": 0.97, "Distractor": "the transformation"}
+{"Score": 0.96, "Distractor": "rifting"}
+{"Score": 0.96, "Distractor": "seismographs"}
+{"Score": 0.96, "Distractor": "the potential"}
+{"Score": 0.96, "Distractor": "avatar"}
+{"Score": 0.96, "Distractor": "the mississippi delta"}
+{"Score": 0.96, "Distractor": "the parvein ent"}
+{"Score": 0.96, "Distractor": "a good \u201cclock"}
+{"Score": 0.96, "Distractor": "the steppe"}
+{"Score": 0.96, "Distractor": "1 g/cm3"}
+{"Score": 0.96, "Distractor": "saturn"}
+{"Score": 0.96, "Distractor": "whitewater rafting"}
+{"Score": 0.96, "Distractor": "a span"}
+{"Score": 0.96, "Distractor": "high evaporation rates"}
+{"Score": 0.96, "Distractor": "a simple sketch"}
+{"Score": 0.96, "Distractor": "a radius"}
+{"Score": 0.96, "Distractor": "snowfall"}
+{"Score": 0.96, "Distractor": "a much better approximation"}
+{"Score": 0.96, "Distractor": "sewage"}
+{"Score": 0.96, "Distractor": "nuclear meltdowns"}
+{"Score": 0.96, "Distractor": "when the bulbous head"}
+{"Score": 0.96, "Distractor": "a medium"}
+{"Score": 0.96, "Distractor": "a wide variety"}
+{"Score": 0.96, "Distractor": "schist"}
+{"Score": 0.96, "Distractor": "vertical mixing"}
+{"Score": 0.96, "Distractor": "the tundra"}
+{"Score": 0.96, "Distractor": "length"}
+{"Score": 0.96, "Distractor": "the predominance"}
+{"Score": 0.96, "Distractor": "the bottom water flashes"}
+{"Score": 0.95, "Distractor": "dutch astronomer jan oort"}
+{"Score": 0.95, "Distractor": "the surface rock reacts"}
+{"Score": 0.95, "Distractor": "shaping"}
+{"Score": 0.95, "Distractor": "the emission"}
+{"Score": 0.95, "Distractor": "displacement"}
+{"Score": 0.95, "Distractor": "the same assemblage"}
+{"Score": 0.95, "Distractor": "coastal land-use policies"}
+{"Score": 0.95, "Distractor": "more than one hypothesis"}
+{"Score": 0.95, "Distractor": "the forearc"}
+{"Score": 0.95, "Distractor": "oil"}
+{"Score": 0.95, "Distractor": "ment"}
+{"Score": 0.95, "Distractor": "the human suffering"}
+{"Score": 0.95, "Distractor": "visible dust"}
+{"Score": 0.95, "Distractor": "the mineral zircon"}
+{"Score": 0.95, "Distractor": "(km/sec"}
+{"Score": 0.95, "Distractor": "his 1836 fieldwork"}
+{"Score": 0.95, "Distractor": "heating"}
+{"Score": 0.95, "Distractor": "phosphorus"}
+{"Score": 0.95, "Distractor": "the maximum spread"}
+{"Score": 0.95, "Distractor": "some other terminology"}
+{"Score": 0.95, "Distractor": "deep orange"}
+{"Score": 0.95, "Distractor": "the positioning"}
+{"Score": 0.95, "Distractor": "shearing"}
+{"Score": 0.95, "Distractor": "the continued growth"}
+{"Score": 0.95, "Distractor": "the underworld"}
+{"Score": 0.95, "Distractor": "amplification"}
+{"Score": 0.95, "Distractor": "notoriety"}
+{"Score": 0.95, "Distractor": "lobe-finned fish"}
+{"Score": 0.95, "Distractor": "this drawing"}
+{"Score": 0.95, "Distractor": "the physical breakdown"}
+{"Score": 0.95, "Distractor": "diagenesis"}
+{"Score": 0.94, "Distractor": "a huge cavity"}
+{"Score": 0.94, "Distractor": "valuable oil rigs"}
+{"Score": 0.94, "Distractor": "a lubricant"}
+{"Score": 0.94, "Distractor": "the hinge"}
+{"Score": 0.94, "Distractor": "burial"}
+{"Score": 0.94, "Distractor": "caco3"}
+{"Score": 0.94, "Distractor": "lithium"}
+{"Score": 0.94, "Distractor": "(lick observatory publications office"}
+{"Score": 0.94, "Distractor": "rounding"}
+{"Score": 0.94, "Distractor": "step"}
+{"Score": 0.94, "Distractor": "a silky luster"}
+{"Score": 0.94, "Distractor": "the vertical axis"}
+{"Score": 0.94, "Distractor": "wollastonite"}
+{"Score": 0.94, "Distractor": "situ"}
+{"Score": 0.94, "Distractor": "wetting"}
+{"Score": 0.94, "Distractor": "*thorium"}
+{"Score": 0.94, "Distractor": "the aftermath"}
+{"Score": 0.94, "Distractor": "a broad array"}
+{"Score": 0.94, "Distractor": "a lot"}
+{"Score": 0.94, "Distractor": "the mesopause"}
+{"Score": 0.94, "Distractor": "new supporting data"}
+{"Score": 0.94, "Distractor": "a magnetometer"}
+{"Score": 0.94, "Distractor": "wet concrete"}
+{"Score": 0.93, "Distractor": "only a tiny fraction"}
+{"Score": 0.93, "Distractor": "\u201cacceleration"}
+{"Score": 0.93, "Distractor": "ammonia hydrosulfide"}
+{"Score": 0.93, "Distractor": "that limestone"}
+{"Score": 0.93, "Distractor": "lapilli"}
+{"Score": 0.93, "Distractor": "the global profiling"}
+{"Score": 0.93, "Distractor": "surface albedo"}
+{"Score": 0.93, "Distractor": "deforestation"}
+{"Score": 0.93, "Distractor": "creep"}
+{"Score": 0.93, "Distractor": "plate tectonics"}
+{"Score": 0.93, "Distractor": "a glacial trough"}
+{"Score": 0.93, "Distractor": "inflation"}
+{"Score": 0.93, "Distractor": "one layer nestle"}
+{"Score": 0.93, "Distractor": "a clamshell"}
+{"Score": 0.93, "Distractor": "downward flow"}
+{"Score": 0.93, "Distractor": "smoggy"}
+{"Score": 0.93, "Distractor": "a riverbed"}
+{"Score": 0.93, "Distractor": "gypsum"}
+{"Score": 0.93, "Distractor": "very thick oatmeal"}
+{"Score": 0.93, "Distractor": "fibrous asbestos"}
+{"Score": 0.93, "Distractor": "vertical exaggeration"}
+{"Score": 0.93, "Distractor": "the mainland"}
+{"Score": 0.93, "Distractor": "drinking"}
+{"Score": 0.93, "Distractor": "modern cyanobacteria"}
+{"Score": 0.93, "Distractor": "alpine"}
+{"Score": 0.93, "Distractor": "widening"}
+{"Score": 0.93, "Distractor": "the uprush"}
+{"Score": 0.93, "Distractor": "our basic understanding"}
+{"Score": 0.93, "Distractor": "the highest carbon content\u201486"}
+{"Score": 0.93, "Distractor": "all research stations"}
+{"Score": 0.93, "Distractor": "the universe"}
+{"Score": 0.93, "Distractor": "the juan de fuca ridge moves southeastward"}
+{"Score": 0.93, "Distractor": "the scarcity"}
+{"Score": 0.93, "Distractor": "the profile"}
+{"Score": 0.92, "Distractor": "enceladus"}
+{"Score": 0.92, "Distractor": "tilt"}
+{"Score": 0.92, "Distractor": "the naples skyline"}
+{"Score": 0.92, "Distractor": "excess"}
+{"Score": 0.92, "Distractor": "an orbiter"}
+{"Score": 0.92, "Distractor": "largest depository"}
+{"Score": 0.92, "Distractor": "light"}
+{"Score": 0.92, "Distractor": "biogas"}
+{"Score": 0.92, "Distractor": "atmospheric fallout"}
+{"Score": 0.92, "Distractor": "display"}
+{"Score": 0.92, "Distractor": "ocean basins"}
+{"Score": 0.92, "Distractor": "therefore less frictional drag"}
+{"Score": 0.92, "Distractor": "flattening"}
+{"Score": 0.92, "Distractor": "cleavage"}
+{"Score": 0.92, "Distractor": "the prod"}
+{"Score": 0.92, "Distractor": "just a coincidence"}
+{"Score": 0.92, "Distractor": "gold"}
+{"Score": 0.92, "Distractor": "(fes2"}
+{"Score": 0.92, "Distractor": "the overburden"}
+{"Score": 0.92, "Distractor": "some certainty"}
+{"Score": 0.92, "Distractor": "conblueschist venient labels"}
+{"Score": 0.92, "Distractor": "saltation"}
+{"Score": 0.92, "Distractor": "a lifeboat"}
+{"Score": 0.92, "Distractor": "71%"}
+{"Score": 0.92, "Distractor": "their splendor"}
+{"Score": 0.92, "Distractor": "any crystalline"}
+{"Score": 0.92, "Distractor": "the triassic"}
+{"Score": 0.92, "Distractor": "this kind"}
+{"Score": 0.92, "Distractor": "the seismograph"}
+{"Score": 0.92, "Distractor": "short-range earthquake predictions"}
+{"Score": 0.92, "Distractor": "deception"}
+{"Score": 0.91, "Distractor": "oceanside"}
+{"Score": 0.91, "Distractor": "graywacke"}
+{"Score": 0.91, "Distractor": "the haze"}
+{"Score": 0.91, "Distractor": "the end product yields"}
+{"Score": 0.91, "Distractor": "nineteenth-century excavators"}
+{"Score": 0.91, "Distractor": "a repository"}
+{"Score": 0.91, "Distractor": "a record high"}
+{"Score": 0.91, "Distractor": "other research vessels"}
+{"Score": 0.91, "Distractor": "the future"}
+{"Score": 0.91, "Distractor": "frost"}
+{"Score": 0.91, "Distractor": "a rumpled carpet"}
+{"Score": 0.91, "Distractor": "tephra"}
+{"Score": 0.91, "Distractor": "single-celled protozoa"}
+{"Score": 0.91, "Distractor": "corn"}
+{"Score": 0.91, "Distractor": "tooth enamel"}
+{"Score": 0.91, "Distractor": "uncertainty"}
+{"Score": 0.91, "Distractor": "decorative facing"}
+{"Score": 0.91, "Distractor": "topsoil"}
+{"Score": 0.91, "Distractor": "chalcopyrite"}
+{"Score": 0.91, "Distractor": "processing"}
+{"Score": 0.91, "Distractor": "the breaking"}
+{"Score": 0.91, "Distractor": "gas bubbles"}
+{"Score": 0.91, "Distractor": "a single acre"}
+{"Score": 0.91, "Distractor": "chapter"}
+{"Score": 0.91, "Distractor": "(lever"}
+{"Score": 0.91, "Distractor": "the dominant force"}
+{"Score": 0.91, "Distractor": "the inward rush"}
+{"Score": 0.91, "Distractor": "uranium-235"}
+{"Score": 0.9, "Distractor": "4 perannual average wind speed"}
+{"Score": 0.9, "Distractor": "the other set"}
+{"Score": 0.9, "Distractor": "summary"}
+{"Score": 0.9, "Distractor": "essence"}
+{"Score": 0.9, "Distractor": "the hypocenter"}
+{"Score": 0.9, "Distractor": "an aureole"}
+{"Score": 0.9, "Distractor": "europa"}
+{"Score": 0.9, "Distractor": "greater competency"}
+{"Score": 0.9, "Distractor": "the middle"}
+{"Score": 0.9, "Distractor": "the best strategy"}
+{"Score": 0.9, "Distractor": "the south"}
+{"Score": 0.9, "Distractor": "siltstone"}
+{"Score": 0.9, "Distractor": "farming"}
+{"Score": 0.9, "Distractor": "serpentine"}
+{"Score": 0.9, "Distractor": "the water plunges"}
+{"Score": 0.9, "Distractor": "overall electrical neutrality"}
+{"Score": 0.9, "Distractor": "submergent or emergent coasts"}
+{"Score": 0.9, "Distractor": "chromite"}
+{"Score": 0.9, "Distractor": "a thin veneer"}
+{"Score": 0.9, "Distractor": "a few dozen"}
+{"Score": 0.9, "Distractor": "groundwater"}
+{"Score": 0.9, "Distractor": "the backyard"}
+{"Score": 0.9, "Distractor": "the beginning"}
+{"Score": 0.9, "Distractor": "steel wires"}
+{"Score": 0.89, "Distractor": "consider- mine"}
+{"Score": 0.89, "Distractor": "the public"}
+{"Score": 0.89, "Distractor": "the refuse"}
+{"Score": 0.89, "Distractor": "molten rock erupts"}
+{"Score": 0.89, "Distractor": "red"}
+{"Score": 0.89, "Distractor": "some form molecules"}
+{"Score": 0.89, "Distractor": "denser"}
+{"Score": 0.89, "Distractor": "the general anatomy"}
+{"Score": 0.89, "Distractor": "an increasingly serious problem"}
+{"Score": 0.89, "Distractor": "more than 25 centio"}
+{"Score": 0.89, "Distractor": "gneiss"}
+{"Score": 0.89, "Distractor": "frost wedging"}
+{"Score": 0.89, "Distractor": "shallow ponds"}
+{"Score": 0.89, "Distractor": "the other parts\u2014"}
+{"Score": 0.89, "Distractor": "the intrusive equivalent"}
+{"Score": 0.89, "Distractor": "earth's axis wobbles"}
+{"Score": 0.88, "Distractor": "physical meaning"}
+{"Score": 0.88, "Distractor": "emergent"}
+{"Score": 0.88, "Distractor": "this orderly packing"}
+{"Score": 0.88, "Distractor": "purification"}
+{"Score": 0.88, "Distractor": "error"}
+{"Score": 0.88, "Distractor": "a mere 0.5 millimeter"}
+{"Score": 0.88, "Distractor": "the land subsides"}
+{"Score": 0.88, "Distractor": "the wobbling"}
+{"Score": 0.88, "Distractor": "the timing"}
+{"Score": 0.88, "Distractor": "the cross-over"}
+{"Score": 0.88, "Distractor": "a far more encompassing theory"}
+{"Score": 0.88, "Distractor": "paleomagnetism"}
+{"Score": 0.88, "Distractor": "a status"}
+{"Score": 0.88, "Distractor": "film makers"}
+{"Score": 0.88, "Distractor": "present"}
+{"Score": 0.88, "Distractor": "the close"}
+{"Score": 0.88, "Distractor": "jellyfish"}
+{"Score": 0.88, "Distractor": "the phrase"}
+{"Score": 0.88, "Distractor": "plucking"}
+{"Score": 0.88, "Distractor": "marble benches"}
+{"Score": 0.88, "Distractor": "the sediment-filled beaker"}
+{"Score": 0.88, "Distractor": "any planar"}
+{"Score": 0.88, "Distractor": "the sedimentary strata"}
+{"Score": 0.88, "Distractor": "convergent plate boundaries"}
+{"Score": 0.88, "Distractor": "deep-sea buoys"}
+{"Score": 0.87, "Distractor": "current ripples"}
+{"Score": 0.87, "Distractor": "more resistant rock protrudes"}
+{"Score": 0.87, "Distractor": "film director james cameron"}
+{"Score": 0.87, "Distractor": "landslide specialists"}
+{"Score": 0.87, "Distractor": "neutron-absorbing rods"}
+{"Score": 0.87, "Distractor": "this newly formed mineral disintegrates"}
+{"Score": 0.87, "Distractor": "citrine"}
+{"Score": 0.87, "Distractor": "purple"}
+{"Score": 0.87, "Distractor": "seafloor"}
+{"Score": 0.87, "Distractor": "these scape"}
+{"Score": 0.87, "Distractor": "sedimenure"}
+{"Score": 0.87, "Distractor": "hybrid autos"}
+{"Score": 0.87, "Distractor": "\u201cbiodiesel"}
+{"Score": 0.87, "Distractor": "10 kilometers lowstone"}
+{"Score": 0.87, "Distractor": "luxury resorts"}
+{"Score": 0.87, "Distractor": "rob marmion/shutterstock"}
+{"Score": 0.87, "Distractor": "hornblende"}
+{"Score": 0.87, "Distractor": "magnesium (mg21"}
+{"Score": 0.87, "Distractor": "sillimanite"}
+{"Score": 0.87, "Distractor": "the impetus"}
+{"Score": 0.87, "Distractor": "the sinking"}
+{"Score": 0.87, "Distractor": "a metazeolite hornfels facies bas e derived specifialt"}
+{"Score": 0.87, "Distractor": "a composite"}
+{"Score": 0.87, "Distractor": "sandwich"}
+{"Score": 0.86, "Distractor": "parasitus"}
+{"Score": 0.86, "Distractor": "80 meters cent"}
+{"Score": 0.86, "Distractor": "a volcano matures"}
+{"Score": 0.86, "Distractor": "holding"}
+{"Score": 0.86, "Distractor": "western cuba"}
+{"Score": 0.86, "Distractor": "the one"}
+{"Score": 0.86, "Distractor": "the plagioclase"}
+{"Score": 0.86, "Distractor": "loading"}
+{"Score": 0.86, "Distractor": "the windward"}
+{"Score": 0.86, "Distractor": "the metal balls"}
+{"Score": 0.86, "Distractor": "sculpt"}
+{"Score": 0.86, "Distractor": "ammonia"}
+{"Score": 0.86, "Distractor": "the west"}
+{"Score": 0.86, "Distractor": "ionic substitutions"}
+{"Score": 0.86, "Distractor": "the fluid"}
+{"Score": 0.86, "Distractor": "a maximum"}
+{"Score": 0.86, "Distractor": "magnetite"}
+{"Score": 0.86, "Distractor": "the prominent physicist"}
+{"Score": 0.86, "Distractor": "the principle"}
+{"Score": 0.86, "Distractor": "width"}
+{"Score": 0.86, "Distractor": "eruption columns"}
+{"Score": 0.86, "Distractor": "an unprepared galveston"}
+{"Score": 0.86, "Distractor": "the water vapor condenses"}
+{"Score": 0.86, "Distractor": "previously deposited alluvium"}
+{"Score": 0.86, "Distractor": "the continental slope merges"}
+{"Score": 0.86, "Distractor": "edward suess"}
+{"Score": 0.86, "Distractor": "calcium-41"}
+{"Score": 0.86, "Distractor": "the arch"}
+{"Score": 0.85, "Distractor": "a coil"}
+{"Score": 0.85, "Distractor": "vesuvius"}
+{"Score": 0.85, "Distractor": "the refreezing"}
+{"Score": 0.85, "Distractor": "india\u2019s northward trek"}
+{"Score": 0.85, "Distractor": "seawater circulates"}
+{"Score": 0.85, "Distractor": "vesicular ejecta"}
+{"Score": 0.85, "Distractor": "huge petrified logs lie"}
+{"Score": 0.85, "Distractor": "great ice accumulations"}
+{"Score": 0.85, "Distractor": "the water percolates"}
+{"Score": 0.85, "Distractor": "mylo"}
+{"Score": 0.85, "Distractor": "the tail feathers marine plesiosaurs"}
+{"Score": 0.85, "Distractor": "shorten"}
+{"Score": 0.85, "Distractor": "fissilis"}
+{"Score": 0.85, "Distractor": "the foreshore"}
+{"Score": 0.85, "Distractor": "al31"}
+{"Score": 0.85, "Distractor": "the solum"}
+{"Score": 0.85, "Distractor": "fra"}
+{"Score": 0.85, "Distractor": "(ft3"}
+{"Score": 0.85, "Distractor": "a dungeon"}
+{"Score": 0.85, "Distractor": "saw blades"}
+{"Score": 0.85, "Distractor": "shale"}
+{"Score": 0.85, "Distractor": "the splitting"}
+{"Score": 0.85, "Distractor": "notice"}
+{"Score": 0.85, "Distractor": "their ongoing quest"}
+{"Score": 0.84, "Distractor": "the sippi"}
+{"Score": 0.84, "Distractor": "second (km/s"}
+{"Score": 0.84, "Distractor": "black"}
+{"Score": 0.84, "Distractor": "earth"}
+{"Score": 0.84, "Distractor": "at which peridotite melts"}
+{"Score": 0.84, "Distractor": "that pavement"}
+{"Score": 0.84, "Distractor": "southern utah"}
+{"Score": 0.84, "Distractor": "sorting"}
+{"Score": 0.84, "Distractor": "wetter"}
+{"Score": 0.84, "Distractor": "freeze"}
+{"Score": 0.84, "Distractor": "aerial photographs"}
+{"Score": 0.84, "Distractor": "darcy"}
+{"Score": 0.84, "Distractor": "downtown anchorage"}
+{"Score": 0.84, "Distractor": "a superb"}
+{"Score": 0.84, "Distractor": "human fatalities"}
+{"Score": 0.84, "Distractor": "masonry"}
+{"Score": 0.84, "Distractor": "a 1200-kilometer traverse"}
+{"Score": 0.84, "Distractor": "bathing"}
+{"Score": 0.84, "Distractor": "many ancient sedimentary rock successions"}
+{"Score": 0.84, "Distractor": "oldham"}
+{"Score": 0.84, "Distractor": "the lab"}
+{"Score": 0.84, "Distractor": "these active continental margins"}
+{"Score": 0.84, "Distractor": "rock cools"}
+{"Score": 0.84, "Distractor": "tendency"}
+{"Score": 0.84, "Distractor": "aircraft reconnaissance"}
+{"Score": 0.83, "Distractor": "list"}
+{"Score": 0.83, "Distractor": "some important and well-known mountain passes"}
+{"Score": 0.83, "Distractor": "the more compressure"}
+{"Score": 0.83, "Distractor": "nearly 40 percent"}
+{"Score": 0.83, "Distractor": "this wastewater"}
+{"Score": 0.83, "Distractor": "tropical rainforest"}
+{"Score": 0.83, "Distractor": "an aquitard"}
+{"Score": 0.83, "Distractor": "greater permeability"}
+{"Score": 0.83, "Distractor": "a cool \u201cicehouse"}
+{"Score": 0.83, "Distractor": "delicate wine goblets"}
+{"Score": 0.83, "Distractor": "a well-developed mat"}
+{"Score": 0.83, "Distractor": "the present-day american southwest"}
+{"Score": 0.83, "Distractor": "silica-rich pumice newly formed caldera fills"}
+{"Score": 0.83, "Distractor": "the making"}
+{"Score": 0.83, "Distractor": "gilbert"}
+{"Score": 0.83, "Distractor": "numerous land dwellers"}
+{"Score": 0.83, "Distractor": "the potentially harmful filter"}
+{"Score": 0.83, "Distractor": "western greenland"}
+{"Score": 0.83, "Distractor": "fe21"}
+{"Score": 0.83, "Distractor": "considerable stretching"}
+{"Score": 0.83, "Distractor": "beverage cans"}
+{"Score": 0.83, "Distractor": "friction"}
+{"Score": 0.82, "Distractor": "the day-in"}
+{"Score": 0.82, "Distractor": "the dynamics"}
+{"Score": 0.82, "Distractor": "motionless"}
+{"Score": 0.82, "Distractor": "the three bears\u201d fable"}
+{"Score": 0.82, "Distractor": "comparicm"}
+{"Score": 0.82, "Distractor": "chemical reactions"}
+{"Score": 0.82, "Distractor": "cave-like dwellings"}
+{"Score": 0.82, "Distractor": "amethyst"}
+{"Score": 0.82, "Distractor": "relative dating"}
+{"Score": 0.82, "Distractor": "vancouver"}
+{"Score": 0.82, "Distractor": "electronics"}
+{"Score": 0.82, "Distractor": "watering lawns"}
+{"Score": 0.82, "Distractor": "all monitoring"}
+{"Score": 0.82, "Distractor": "port-au-prince"}
+{"Score": 0.82, "Distractor": "associated flora"}
+{"Score": 0.82, "Distractor": "poleward"}
+{"Score": 0.82, "Distractor": "thickening"}
+{"Score": 0.82, "Distractor": "nuclear facilities"}
+{"Score": 0.82, "Distractor": "water ceases"}
+{"Score": 0.82, "Distractor": "tarnish"}
+{"Score": 0.82, "Distractor": "sulfuric-acid droplets"}
+{"Score": 0.82, "Distractor": "the primary means"}
+{"Score": 0.82, "Distractor": "abyssal"}
+{"Score": 0.82, "Distractor": "minute chlorite and mica flakes"}
+{"Score": 0.82, "Distractor": "these wind shadows"}
+{"Score": 0.81, "Distractor": "warming"}
+{"Score": 0.81, "Distractor": "maui"}
+{"Score": 0.81, "Distractor": "even hydrogen"}
+{"Score": 0.81, "Distractor": "external conditions"}
+{"Score": 0.81, "Distractor": "their economic worth"}
+{"Score": 0.81, "Distractor": "one ductile"}
+{"Score": 0.81, "Distractor": "yokohama"}
+{"Score": 0.81, "Distractor": "coeur d\u2019alene"}
+{"Score": 0.81, "Distractor": "the message"}
+{"Score": 0.81, "Distractor": "quartzite"}
+{"Score": 0.81, "Distractor": "reconstruction"}
+{"Score": 0.81, "Distractor": "the contrary"}
+{"Score": 0.81, "Distractor": "northern minnesota"}
+{"Score": 0.81, "Distractor": "yellowstone"}
+{"Score": 0.81, "Distractor": "averby waterwheels"}
+{"Score": 0.81, "Distractor": "venetz"}
+{"Score": 0.81, "Distractor": "a \u201cprivate aquarium"}
+{"Score": 0.81, "Distractor": "physical properties"}
+{"Score": 0.81, "Distractor": "radar altimeters"}
+{"Score": 0.81, "Distractor": "barrier islands"}
+{"Score": 0.81, "Distractor": "the titanic"}
+{"Score": 0.81, "Distractor": "the past cen260"}
+{"Score": 0.81, "Distractor": "humerus"}
+{"Score": 0.81, "Distractor": "settling"}
+{"Score": 0.8, "Distractor": "the quaternary"}
+{"Score": 0.8, "Distractor": "which feeling"}
+{"Score": 0.8, "Distractor": "a stranger"}
+{"Score": 0.8, "Distractor": "the descending accumulating"}
+{"Score": 0.8, "Distractor": ", the descending slab detaches"}
+{"Score": 0.8, "Distractor": "two huge ice sheets"}
+{"Score": 0.8, "Distractor": "field studies"}
+{"Score": 0.8, "Distractor": "the key"}
+{"Score": 0.8, "Distractor": "uniformitarianism"}
+{"Score": 0.8, "Distractor": "the overgrazing"}
+{"Score": 0.8, "Distractor": "the december 26, 1776 battle"}
+{"Score": 0.8, "Distractor": "the highest peak"}
+{"Score": 0.8, "Distractor": "three-dimensional frameworks"}
+{"Score": 0.8, "Distractor": "aviation"}
+{"Score": 0.8, "Distractor": "glass manufacturers"}
+{"Score": 0.8, "Distractor": "a more uniform"}
+{"Score": 0.8, "Distractor": "a skylight"}
+{"Score": 0.8, "Distractor": "recall"}
+{"Score": 0.8, "Distractor": "the stripes"}
+{"Score": 0.8, "Distractor": "the ascent"}
+{"Score": 0.8, "Distractor": "an unsorted jumble"}
+{"Score": 0.8, "Distractor": "hot-spot tracks"}
+{"Score": 0.79, "Distractor": "offshore wind technologies"}
+{"Score": 0.79, "Distractor": "divergent"}
+{"Score": 0.79, "Distractor": "how strike"}
+{"Score": 0.79, "Distractor": "176 earth days"}
+{"Score": 0.79, "Distractor": "potential contaminants"}
+{"Score": 0.79, "Distractor": "their chemical formulas"}
+{"Score": 0.79, "Distractor": "a high-"}
+{"Score": 0.79, "Distractor": "spreading"}
+{"Score": 0.79, "Distractor": "bolivia\u2019s salar de uyuni"}
+{"Score": 0.79, "Distractor": "unloading"}
+{"Score": 0.79, "Distractor": "the uranium isotopes"}
+{"Score": 0.79, "Distractor": "this sandstone"}
+{"Score": 0.79, "Distractor": "homo"}
+{"Score": 0.79, "Distractor": "the unknown"}
+{"Score": 0.79, "Distractor": "infrared cameras remote-sensing cameras"}
+{"Score": 0.79, "Distractor": "the tropics"}
+{"Score": 0.79, "Distractor": "a plunging anticline"}
+{"Score": 0.79, "Distractor": "amphibolite"}
+{"Score": 0.79, "Distractor": "imagesources/glow genetic blueprints"}
+{"Score": 0.78, "Distractor": "neptune"}
+{"Score": 0.78, "Distractor": "hyperion"}
+{"Score": 0.78, "Distractor": "a while"}
+{"Score": 0.78, "Distractor": "oregon"}
+{"Score": 0.78, "Distractor": "large bed pillows"}
+{"Score": 0.78, "Distractor": "the susquehanna"}
+{"Score": 0.78, "Distractor": "the downwarping"}
+{"Score": 0.78, "Distractor": "warm, shallow marine environments"}
+{"Score": 0.78, "Distractor": "padang"}
+{"Score": 0.78, "Distractor": "so much rebuilding"}
+{"Score": 0.78, "Distractor": "water soaks"}
+{"Score": 0.78, "Distractor": "economics"}
+{"Score": 0.78, "Distractor": "an isolated happening"}
+{"Score": 0.78, "Distractor": "the arctic"}
+{"Score": 0.78, "Distractor": "ceramics"}
+{"Score": 0.78, "Distractor": "the european space agency"}
+{"Score": 0.78, "Distractor": "2014 ranking"}
+{"Score": 0.78, "Distractor": "a \u201ccrystalline mush"}
+{"Score": 0.78, "Distractor": "bath powders"}
+{"Score": 0.78, "Distractor": "pollen"}
+{"Score": 0.78, "Distractor": "the nineteenth"}
+{"Score": 0.78, "Distractor": "require"}
+{"Score": 0.78, "Distractor": "and spheroidal"}
+{"Score": 0.78, "Distractor": "ice caps"}
+{"Score": 0.77, "Distractor": "sheep"}
+{"Score": 0.77, "Distractor": "silvite"}
+{"Score": 0.77, "Distractor": "transform"}
+{"Score": 0.77, "Distractor": "the filling"}
+{"Score": 0.77, "Distractor": "venezuela"}
+{"Score": 0.77, "Distractor": "river ecosystems"}
+{"Score": 0.77, "Distractor": "the compacting"}
+{"Score": 0.77, "Distractor": "saber-toothed cats"}
+{"Score": 0.77, "Distractor": "convection cells"}
+{"Score": 0.77, "Distractor": "the fundamental organic compounds"}
+{"Score": 0.77, "Distractor": "a low"}
+{"Score": 0.77, "Distractor": "human-generated aerosols"}
+{"Score": 0.77, "Distractor": "any longer-term lowering"}
+{"Score": 0.77, "Distractor": "its glossy sheen"}
+{"Score": 0.77, "Distractor": "biotite"}
+{"Score": 0.77, "Distractor": "the spacing"}
+{"Score": 0.77, "Distractor": "the alleghanian orogeny"}
+{"Score": 0.77, "Distractor": "single discrete breaks"}
+{"Score": 0.77, "Distractor": "deepening"}
+{"Score": 0.77, "Distractor": "(amplitude"}
+{"Score": 0.77, "Distractor": "the conbefore"}
+{"Score": 0.76, "Distractor": "the best know"}
+{"Score": 0.76, "Distractor": "hotter"}
+{"Score": 0.76, "Distractor": "thin shavings"}
+{"Score": 0.76, "Distractor": "capita"}
+{"Score": 0.76, "Distractor": "important time indicators"}
+{"Score": 0.76, "Distractor": "our burning"}
+{"Score": 0.76, "Distractor": "scoria"}
+{"Score": 0.76, "Distractor": "cape cod"}
+{"Score": 0.76, "Distractor": "one plate \u201cscrapes"}
+{"Score": 0.76, "Distractor": "its appearabundant"}
+{"Score": 0.76, "Distractor": "west-central india"}
+{"Score": 0.76, "Distractor": "an electromagnet"}
+{"Score": 0.76, "Distractor": "giant rafts"}
+{"Score": 0.76, "Distractor": "amphitheater-shaped depressions"}
+{"Score": 0.76, "Distractor": "the rupture surface propagates"}
+{"Score": 0.76, "Distractor": "layering"}
+{"Score": 0.76, "Distractor": "uraninite"}
+{"Score": 0.76, "Distractor": "the crumbling"}
+{"Score": 0.76, "Distractor": "appropriate zoning regulations"}
+{"Score": 0.76, "Distractor": "inc."}
+{"Score": 0.76, "Distractor": "broken water mains"}
+{"Score": 0.76, "Distractor": "the western one-third"}
+{"Score": 0.76, "Distractor": "wood chips"}
+{"Score": 0.76, "Distractor": "its course"}
+{"Score": 0.76, "Distractor": "ice lenses"}
+{"Score": 0.76, "Distractor": "fig200 ure"}
+{"Score": 0.76, "Distractor": "namib"}
+{"Score": 0.76, "Distractor": "(phaner"}
+{"Score": 0.76, "Distractor": "a \u201cgusher"}
+{"Score": 0.76, "Distractor": "small, lightcolored feldspar phenocrysts"}
+{"Score": 0.76, "Distractor": "law"}
+{"Score": 0.76, "Distractor": "terrae"}
+{"Score": 0.76, "Distractor": "the library"}
+{"Score": 0.76, "Distractor": "the subducting plate sinks"}
+{"Score": 0.76, "Distractor": "switzerland"}
+{"Score": 0.75, "Distractor": "a tightly squeezed tube"}
+{"Score": 0.75, "Distractor": "arth"}
+{"Score": 0.75, "Distractor": "pol-"}
+{"Score": 0.75, "Distractor": "some sort"}
+{"Score": 0.75, "Distractor": "h1 2 h2"}
+{"Score": 0.75, "Distractor": "finnish geologist pentti eskola"}
+{"Score": 0.75, "Distractor": "the uniqueness"}
+{"Score": 0.75, "Distractor": "a close-up"}
+{"Score": 0.75, "Distractor": "human well-being"}
+{"Score": 0.75, "Distractor": "the upper asthenosphere"}
+{"Score": 0.75, "Distractor": "the hollows"}
+{"Score": 0.75, "Distractor": "tive"}
+{"Score": 0.75, "Distractor": "the cryosphere"}
+{"Score": 0.75, "Distractor": "mozambique"}
+{"Score": 0.75, "Distractor": "late october"}
+{"Score": 0.75, "Distractor": "memorable blizzards"}
+{"Score": 0.75, "Distractor": "septic"}
+{"Score": 0.75, "Distractor": "narrow inlets"}
+{"Score": 0.75, "Distractor": "basalt"}
+{"Score": 0.75, "Distractor": "pele\u2019s tears"}
+{"Score": 0.75, "Distractor": "just a sampling"}
+{"Score": 0.75, "Distractor": ". \n\npar\u00edcutin"}
+{"Score": 0.75, "Distractor": "mica"}
+{"Score": 0.75, "Distractor": "madagascar"}
+{"Score": 0.75, "Distractor": "no 40ar"}
+{"Score": 0.75, "Distractor": "floods human interference"}
+{"Score": 0.75, "Distractor": "microscopic marine organisms"}
+{"Score": 0.75, "Distractor": "a a dull coating"}
+{"Score": 0.75, "Distractor": "(photo"}
+{"Score": 0.75, "Distractor": "september"}
+{"Score": 0.75, "Distractor": "mount st. augustine"}
+{"Score": 0.75, "Distractor": "the canadian shield"}
+{"Score": 0.74, "Distractor": "other cross-checks"}
+{"Score": 0.74, "Distractor": "pahoa"}
+{"Score": 0.74, "Distractor": "major breakthroughs"}
+{"Score": 0.74, "Distractor": "ionic radii"}
+{"Score": 0.74, "Distractor": "stegosaurus"}
+{"Score": 0.74, "Distractor": "present-day shorelines"}
+{"Score": 0.74, "Distractor": "local gravity anomalies"}
+{"Score": 0.74, "Distractor": "similar mineral constituents"}
+{"Score": 0.74, "Distractor": "\u201cscum"}
+{"Score": 0.74, "Distractor": "mercury"}
+{"Score": 0.74, "Distractor": "radiometric methods"}
+{"Score": 0.74, "Distractor": "kaimu"}
+{"Score": 0.74, "Distractor": "the outside"}
+{"Score": 0.74, "Distractor": "these highly folded strata"}
+{"Score": 0.74, "Distractor": "either a gelisol"}
+{"Score": 0.74, "Distractor": "a cloudburst"}
+{"Score": 0.73, "Distractor": "an orderly crystalline obsidian"}
+{"Score": 0.73, "Distractor": "the pleistocene"}
+{"Score": 0.73, "Distractor": "cacti"}
+{"Score": 0.73, "Distractor": "metamorphic facies"}
+{"Score": 0.73, "Distractor": "indonesia"}
+{"Score": 0.73, "Distractor": "france"}
+{"Score": 0.73, "Distractor": "aragonite"}
+{"Score": 0.73, "Distractor": "the distributaries"}
+{"Score": 0.73, "Distractor": "a solid consisting"}
+{"Score": 0.73, "Distractor": "other mammalian adaptations"}
+{"Score": 0.73, "Distractor": "large slumps"}
+{"Score": 0.73, "Distractor": "mastodons"}
+{"Score": 0.73, "Distractor": "limited biological niches"}
+{"Score": 0.73, "Distractor": "shell fragments"}
+{"Score": 0.73, "Distractor": "san juan parangaricutiro"}
+{"Score": 0.73, "Distractor": "your fellow rafters"}
+{"Score": 0.73, "Distractor": "living accommodations"}
+{"Score": 0.73, "Distractor": "contrast"}
+{"Score": 0.73, "Distractor": "compare"}
+{"Score": 0.73, "Distractor": "(radius images/ alamy"}
+{"Score": 0.73, "Distractor": "boreal"}
+{"Score": 0.73, "Distractor": "concrete floodwalls"}
+{"Score": 0.73, "Distractor": "galena"}
+{"Score": 0.73, "Distractor": "gourmet foods"}
+{"Score": 0.73, "Distractor": "whitecaps"}
+{"Score": 0.73, "Distractor": "potassium compounds\u2014"}
+{"Score": 0.73, "Distractor": "the extremities"}
+{"Score": 0.73, "Distractor": "the finer particles"}
+{"Score": 0.73, "Distractor": "nasa/jpl-caltech/msss"}
+{"Score": 0.73, "Distractor": "nitrogen fertilizers"}
+{"Score": 0.73, "Distractor": "aluminum-26"}
+{"Score": 0.72, "Distractor": "ganymede"}
+{"Score": 0.72, "Distractor": "our intuitive assumptions"}
+{"Score": 0.72, "Distractor": "the lake levels"}
+{"Score": 0.72, "Distractor": "the troposphere"}
+{"Score": 0.72, "Distractor": "any type ers"}
+{"Score": 0.72, "Distractor": "giant upwellings"}
+{"Score": 0.72, "Distractor": "the bitumen"}
+{"Score": 0.72, "Distractor": "black smokers"}
+{"Score": 0.72, "Distractor": "\u00a9 woods hole oceanographic institute"}
+{"Score": 0.72, "Distractor": "the flying pterosaurs"}
+{"Score": 0.72, "Distractor": "pulse"}
+{"Score": 0.72, "Distractor": "the specific ways"}
+{"Score": 0.72, "Distractor": "new hampshire"}
+{"Score": 0.72, "Distractor": "one or more berms"}
+{"Score": 0.72, "Distractor": "many identical organisms called polyps"}
+{"Score": 0.72, "Distractor": "the yukon territory"}
+{"Score": 0.72, "Distractor": "the influmust"}
+{"Score": 0.72, "Distractor": "no doubt"}
+{"Score": 0.72, "Distractor": "grand saline"}
+{"Score": 0.72, "Distractor": "hydroelectric sources"}
+{"Score": 0.72, "Distractor": "the main objections"}
+{"Score": 0.72, "Distractor": "handsaws"}
+{"Score": 0.72, "Distractor": "long, narrow creases"}
+{"Score": 0.72, "Distractor": "the seaward extensions"}
+{"Score": 0.71, "Distractor": "quartz and sparkling bits"}
+{"Score": 0.71, "Distractor": "dissolution"}
+{"Score": 0.71, "Distractor": "diverse structures"}
+{"Score": 0.71, "Distractor": "the presence sists"}
+{"Score": 0.71, "Distractor": "japan\u2019s mount ontake"}
+{"Score": 0.71, "Distractor": "curiosity"}
+{"Score": 0.71, "Distractor": "t-shaped symbols"}
+{"Score": 0.71, "Distractor": "oman"}
+{"Score": 0.71, "Distractor": "slow cooling permits"}
+{"Score": 0.71, "Distractor": "simply outwash"}
+{"Score": 0.71, "Distractor": "their \u201cspin"}
+{"Score": 0.71, "Distractor": "thinning"}
+{"Score": 0.71, "Distractor": "inc-liaison"}
+{"Score": 0.71, "Distractor": "the congo"}
+{"Score": 0.71, "Distractor": "the magmas"}
+{"Score": 0.71, "Distractor": "environmental drawbacks"}
+{"Score": 0.71, "Distractor": "about 180 to 300 ppm"}
+{"Score": 0.71, "Distractor": "gabbro gabbro"}
+{"Score": 0.71, "Distractor": "paleozoic the silurian"}
+{"Score": 0.7, "Distractor": "groundwater precipitates"}
+{"Score": 0.7, "Distractor": "radiometric ages"}
+{"Score": 0.7, "Distractor": "the lithosphere"}
+{"Score": 0.7, "Distractor": "semiprecious gems"}
+{"Score": 0.7, "Distractor": "the subducting tures"}
+{"Score": 0.7, "Distractor": "the objective"}
+{"Score": 0.7, "Distractor": "the cooling"}
+{"Score": 0.7, "Distractor": "bumping"}
+{"Score": 0.7, "Distractor": "saltating"}
+{"Score": 0.7, "Distractor": "the dark silicates"}
+{"Score": 0.7, "Distractor": "poor fishing hamlets"}
+{"Score": 0.7, "Distractor": "fizzing"}
+{"Score": 0.7, "Distractor": "the superior and hearnerae cratons"}
+{"Score": 0.7, "Distractor": "several large dragon figurines"}
+{"Score": 0.7, "Distractor": "decompose"}
+{"Score": 0.7, "Distractor": "their lofty perches"}
+{"Score": 0.7, "Distractor": "these seed ferns"}
+{"Score": 0.7, "Distractor": "power gristmills"}
+{"Score": 0.7, "Distractor": "new england"}
+{"Score": 0.7, "Distractor": "new york city"}
+{"Score": 0.7, "Distractor": "tonga"}
+{"Score": 0.7, "Distractor": "the sur31,100"}
+{"Score": 0.7, "Distractor": "drilling"}
+{"Score": 0.7, "Distractor": "vermont"}
+{"Score": 0.7, "Distractor": "the joining"}
+{"Score": 0.7, "Distractor": "reykjavik"}
+{"Score": 0.7, "Distractor": "tom bochsler"}
+{"Score": 0.7, "Distractor": "the basic building blocks"}
+{"Score": 0.7, "Distractor": "mesosaurus"}
+{"Score": 0.69, "Distractor": "tive fences"}
+{"Score": 0.69, "Distractor": "several different scenarios"}
+{"Score": 0.69, "Distractor": "the guts"}
+{"Score": 0.69, "Distractor": "shallow excavations"}
+{"Score": 0.69, "Distractor": "the sun"}
+{"Score": 0.69, "Distractor": "10 cubic yards"}
+{"Score": 0.69, "Distractor": "the specific"}
+{"Score": 0.69, "Distractor": "brooks"}
+{"Score": 0.69, "Distractor": "uranium-234"}
+{"Score": 0.69, "Distractor": "curved (refracting) paths"}
+{"Score": 0.69, "Distractor": "their arms extended spinning"}
+{"Score": 0.69, "Distractor": "extensive and far-reaching effects\u2014"}
+{"Score": 0.69, "Distractor": "the magnetosphere"}
+{"Score": 0.69, "Distractor": "the poorest soils"}
+{"Score": 0.69, "Distractor": "the precambrian"}
+{"Score": 0.69, "Distractor": "the massive 210-meter-long (nearly 690-foot-long) chikyu"}
+{"Score": 0.69, "Distractor": "new zealand"}
+{"Score": 0.69, "Distractor": "a serious accidents"}
+{"Score": 0.69, "Distractor": "the cooler"}
+{"Score": 0.69, "Distractor": "some island arcs"}
+{"Score": 0.69, "Distractor": "deimos"}
+{"Score": 0.69, "Distractor": "the northeast"}
+{"Score": 0.69, "Distractor": "fe)2sio4 \u2014which"}
+{"Score": 0.69, "Distractor": "heavy but brief tropical showers"}
+{"Score": 0.69, "Distractor": "the folding"}
+{"Score": 0.69, "Distractor": "practically none"}
+{"Score": 0.69, "Distractor": "the magnetic field reverses"}
+{"Score": 0.69, "Distractor": "lower right"}
+{"Score": 0.69, "Distractor": "mg"}
+{"Score": 0.69, "Distractor": "many rock outcrops"}
+{"Score": 0.68, "Distractor": "shortly insula"}
+{"Score": 0.68, "Distractor": "wegener\u2019s contemporaries"}
+{"Score": 0.68, "Distractor": "other misconceptions"}
+{"Score": 0.68, "Distractor": "a l"}
+{"Score": 0.68, "Distractor": "caverns"}
+{"Score": 0.68, "Distractor": "contracts"}
+{"Score": 0.68, "Distractor": "summarize"}
+{"Score": 0.68, "Distractor": "spectacular cave paintings"}
+{"Score": 0.68, "Distractor": "more efficient water fixtures"}
+{"Score": 0.68, "Distractor": "a substantial natural levee"}
+{"Score": 0.68, "Distractor": "the inside"}
+{"Score": 0.68, "Distractor": "whose modern descendants"}
+{"Score": 0.68, "Distractor": "crop residues"}
+{"Score": 0.68, "Distractor": "honolulu"}
+{"Score": 0.68, "Distractor": "rodinia"}
+{"Score": 0.68, "Distractor": "giant beavers"}
+{"Score": 0.68, "Distractor": "broad upwarping"}
+{"Score": 0.68, "Distractor": "vine"}
+{"Score": 0.68, "Distractor": "transporting"}
+{"Score": 0.68, "Distractor": "3.7 to 3.8 b.y"}
+{"Score": 0.68, "Distractor": "newfoundland"}
+{"Score": 0.68, "Distractor": "lake missoula"}
+{"Score": 0.68, "Distractor": "al2sio5"}
+{"Score": 0.68, "Distractor": "the hills"}
+{"Score": 0.68, "Distractor": "freezing"}
+{"Score": 0.68, "Distractor": "woonsocket"}
+{"Score": 0.68, "Distractor": "hurricane irene"}
+{"Score": 0.68, "Distractor": "tracking"}
+{"Score": 0.68, "Distractor": "ner"}
+{"Score": 0.67, "Distractor": "miranda"}
+{"Score": 0.67, "Distractor": "triton"}
+{"Score": 0.67, "Distractor": "the merging"}
+{"Score": 0.67, "Distractor": "alberta"}
+{"Score": 0.67, "Distractor": "a blowout"}
+{"Score": 0.67, "Distractor": "lake winnipegosis"}
+{"Score": 0.67, "Distractor": "soil horizons"}
+{"Score": 0.67, "Distractor": "peru"}
+{"Score": 0.67, "Distractor": "1 angstrom"}
+{"Score": 0.67, "Distractor": "southeast asia"}
+{"Score": 0.67, "Distractor": "graphical depictions"}
+{"Score": 0.67, "Distractor": "the unfolding"}
+{"Score": 0.67, "Distractor": "st. louis"}
+{"Score": 0.67, "Distractor": "eurasia"}
+{"Score": 0.67, "Distractor": "whiskeys"}
+{"Score": 0.67, "Distractor": "nuclear weapons"}
+{"Score": 0.67, "Distractor": "southc."}
+{"Score": 0.67, "Distractor": "central myanmar"}
+{"Score": 0.67, "Distractor": "upstate new york"}
+{"Score": 0.67, "Distractor": "proficient swimmers"}
+{"Score": 0.67, "Distractor": "graphite"}
+{"Score": 0.67, "Distractor": "televisions"}
+{"Score": 0.67, "Distractor": "haiti"}
+{"Score": 0.67, "Distractor": "these picturesque"}
+{"Score": 0.67, "Distractor": "lateral moraines"}
+{"Score": 0.67, "Distractor": "sinking creek"}
+{"Score": 0.67, "Distractor": "upper penn"}
+{"Score": 0.66, "Distractor": "august"}
+{"Score": 0.66, "Distractor": "about 3.0 g/cm"}
+{"Score": 0.66, "Distractor": "several isolated pockets"}
+{"Score": 0.66, "Distractor": "these amphitheater-shaped scars"}
+{"Score": 0.66, "Distractor": "deposc."}
+{"Score": 0.66, "Distractor": "the thermosphere"}
+{"Score": 0.66, "Distractor": "the pesticides"}
+{"Score": 0.66, "Distractor": "well-defined lobes"}
+{"Score": 0.66, "Distractor": "the valley walls"}
+{"Score": 0.66, "Distractor": "no new sediment accumulates"}
+{"Score": 0.66, "Distractor": "vegetation changes"}
+{"Score": 0.66, "Distractor": "the passing"}
+{"Score": 0.66, "Distractor": "tungsten"}
+{"Score": 0.66, "Distractor": "the liquid and gaseous hydrocarbons"}
+{"Score": 0.66, "Distractor": "infrared (heat) sensors"}
+{"Score": 0.66, "Distractor": "rotten egg spring"}
+{"Score": 0.66, "Distractor": "el salvador"}
+{"Score": 0.66, "Distractor": "the sahara"}
+{"Score": 0.66, "Distractor": "the missouri river"}
+{"Score": 0.66, "Distractor": "which gravity propels"}
+{"Score": 0.66, "Distractor": "fishing boats"}
+{"Score": 0.66, "Distractor": "major geologic hazards"}
+{"Score": 0.66, "Distractor": "the protoplanets"}
+{"Score": 0.66, "Distractor": "great depths"}
+{"Score": 0.66, "Distractor": "new mexico"}
+{"Score": 0.66, "Distractor": "rochester"}
+{"Score": 0.66, "Distractor": "dust devils"}
+{"Score": 0.66, "Distractor": "aeolus"}
+{"Score": 0.66, "Distractor": "basic food crops"}
+{"Score": 0.66, "Distractor": "orogenesis"}
+{"Score": 0.65, "Distractor": "the gros ventre"}
+{"Score": 0.65, "Distractor": "donga"}
+{"Score": 0.65, "Distractor": "mohorovic\u0302i c\u0301"}
+{"Score": 0.65, "Distractor": "mauna loa observatory"}
+{"Score": 0.65, "Distractor": "the subtropics"}
+{"Score": 0.65, "Distractor": "the teton dam"}
+{"Score": 0.65, "Distractor": "two small bodies"}
+{"Score": 0.65, "Distractor": "surrounding lowlands"}
+{"Score": 0.65, "Distractor": "eismitte"}
+{"Score": 0.65, "Distractor": "st. lawrence"}
+{"Score": 0.65, "Distractor": "the specimen"}
+{"Score": 0.65, "Distractor": "streambeds"}
+{"Score": 0.65, "Distractor": "humus"}
+{"Score": 0.65, "Distractor": "most biofuel"}
+{"Score": 0.65, "Distractor": "30 mm"}
+{"Score": 0.65, "Distractor": "differentiate"}
+{"Score": 0.65, "Distractor": "many thrust"}
+{"Score": 0.65, "Distractor": "relatively few crystal nuclei"}
+{"Score": 0.65, "Distractor": "the heading nonsilicates"}
+{"Score": 0.65, "Distractor": "the small entrances"}
+{"Score": 0.65, "Distractor": "southern florida"}
+{"Score": 0.65, "Distractor": "santa clarita"}
+{"Score": 0.65, "Distractor": "more than 20 unsuspecting campers"}
+{"Score": 0.65, "Distractor": "mark watry"}
+{"Score": 0.65, "Distractor": "captain robert scott"}
+{"Score": 0.65, "Distractor": "author bill bryson"}
+{"Score": 0.65, "Distractor": "demetrio carrasco/ dorling kindersley, ltd"}
+{"Score": 0.65, "Distractor": "northern nevada"}
+{"Score": 0.65, "Distractor": "the pigments"}
+{"Score": 0.65, "Distractor": "the goals"}
+{"Score": 0.65, "Distractor": "earth unique"}
+{"Score": 0.64, "Distractor": "about 6 km"}
+{"Score": 0.64, "Distractor": "the headstones"}
+{"Score": 0.64, "Distractor": "the sangre de cristo"}
+{"Score": 0.64, "Distractor": "the contacts"}
+{"Score": 0.64, "Distractor": "washington university"}
+{"Score": 0.64, "Distractor": "humic acids"}
+{"Score": 0.64, "Distractor": "the southern hemisphere"}
+{"Score": 0.64, "Distractor": "batteries"}
+{"Score": 0.64, "Distractor": "volcanic settings"}
+{"Score": 0.64, "Distractor": "rapidly\u2014"}
+{"Score": 0.64, "Distractor": "20\u00b0"}
+{"Score": 0.64, "Distractor": "currents"}
+{"Score": 0.64, "Distractor": "cosmetics"}
+{"Score": 0.64, "Distractor": "continental colliamerica sions"}
+{"Score": 0.64, "Distractor": "sio2"}
+{"Score": 0.64, "Distractor": "the merits"}
+{"Score": 0.64, "Distractor": "other diamonds"}
+{"Score": 0.64, "Distractor": "the describe"}
+{"Score": 0.64, "Distractor": "important prerequisites"}
+{"Score": 0.64, "Distractor": "chile"}
+{"Score": 0.64, "Distractor": "the gymnosperms"}
+{"Score": 0.64, "Distractor": "the dinosaurs"}
+{"Score": 0.64, "Distractor": "aggregate"}
+{"Score": 0.64, "Distractor": "parentheses"}
+{"Score": 0.64, "Distractor": "milwaukee"}
+{"Score": 0.64, "Distractor": "the late archean"}
+{"Score": 0.64, "Distractor": "cape wanbrow"}
+{"Score": 0.64, "Distractor": ", termed drawdown"}
+{"Score": 0.64, "Distractor": "kaolinite"}
+{"Score": 0.64, "Distractor": "scotland"}
+{"Score": 0.64, "Distractor": "slightly more than 1 kilogram"}
+{"Score": 0.64, "Distractor": "he middle fork"}
+{"Score": 0.63, "Distractor": "the northern latitudes"}
+{"Score": 0.63, "Distractor": "mount silverthrone"}
+{"Score": 0.63, "Distractor": "the ripple marks"}
+{"Score": 0.63, "Distractor": "roofs"}
+{"Score": 0.63, "Distractor": "lake erie"}
+{"Score": 0.63, "Distractor": "arizona"}
+{"Score": 0.63, "Distractor": "long-term trends"}
+{"Score": 0.63, "Distractor": "a rock\u201d\u2014meaning"}
+{"Score": 0.63, "Distractor": "cancer"}
+{"Score": 0.63, "Distractor": "oversteepening"}
+{"Score": 0.63, "Distractor": "major contributions"}
+{"Score": 0.63, "Distractor": "volcanic bombs"}
+{"Score": 0.63, "Distractor": "the light, highly cratered highlands"}
+{"Score": 0.63, "Distractor": "rapid types"}
+{"Score": 0.63, "Distractor": "the falls"}
+{"Score": 0.63, "Distractor": "the big bang"}
+{"Score": 0.63, "Distractor": "the devastating gujarat"}
+{"Score": 0.63, "Distractor": "shiprock"}
+{"Score": 0.63, "Distractor": "the r"}
+{"Score": 0.63, "Distractor": "a cavern collapses"}
+{"Score": 0.63, "Distractor": "iowa"}
+{"Score": 0.63, "Distractor": "three different scales"}
+{"Score": 0.63, "Distractor": "temperature projections"}
+{"Score": 0.63, "Distractor": "orthoclase"}
+{"Score": 0.63, "Distractor": "empty spaces"}
+{"Score": 0.63, "Distractor": "roadcuts"}
+{"Score": 0.63, "Distractor": "carbon-12"}
+{"Score": 0.63, "Distractor": "oceanic ridges"}
+{"Score": 0.63, "Distractor": "shannon county"}
+{"Score": 0.63, "Distractor": "chip clark/fundamental"}
+{"Score": 0.63, "Distractor": "computer simulations"}
+{"Score": 0.62, "Distractor": "apollo astronauts"}
+{"Score": 0.62, "Distractor": "dover"}
+{"Score": 0.62, "Distractor": "tethys"}
+{"Score": 0.62, "Distractor": "rhea"}
+{"Score": 0.62, "Distractor": "the valtypes"}
+{"Score": 0.62, "Distractor": "siberia"}
+{"Score": 0.62, "Distractor": "regular polygons"}
+{"Score": 0.62, "Distractor": "discuss"}
+{"Score": 0.62, "Distractor": "the geosciences"}
+{"Score": 0.62, "Distractor": "granitic"}
+{"Score": 0.62, "Distractor": "these fractures"}
+{"Score": 0.62, "Distractor": "cl"}
+{"Score": 0.62, "Distractor": "na"}
+{"Score": 0.62, "Distractor": "martha\u2019s vineyard"}
+{"Score": 0.62, "Distractor": "the grasslands"}
+{"Score": 0.62, "Distractor": "predictable yet unwanted outcomes"}
+{"Score": 0.62, "Distractor": "reliable numerical dates"}
+{"Score": 0.62, "Distractor": "14.7 pounds"}
+{"Score": 0.62, "Distractor": "the american cordillera"}
+{"Score": 0.62, "Distractor": "the grand"}
+{"Score": 0.62, "Distractor": "north carolina"}
+{"Score": 0.61, "Distractor": "the bands"}
+{"Score": 0.61, "Distractor": "cocos"}
+{"Score": 0.61, "Distractor": "sag"}
+{"Score": 0.61, "Distractor": "rainfall totals"}
+{"Score": 0.61, "Distractor": "explain"}
+{"Score": 0.61, "Distractor": "the trenches"}
+{"Score": 0.61, "Distractor": "pipes"}
+{"Score": 0.61, "Distractor": "the conifers"}
+{"Score": 0.61, "Distractor": "objects"}
+{"Score": 0.61, "Distractor": "trenton"}
+{"Score": 0.61, "Distractor": "the nile"}
+{"Score": 0.61, "Distractor": "pennsylvania"}
+{"Score": 0.61, "Distractor": "durango"}
+{"Score": 0.61, "Distractor": "other benefits"}
+{"Score": 0.61, "Distractor": "several terranes"}
+{"Score": 0.61, "Distractor": "the opposite"}
+{"Score": 0.61, "Distractor": "the occurs"}
+{"Score": 0.61, "Distractor": "wooden bookshelves"}
+{"Score": 0.61, "Distractor": "christchurch"}
+{"Score": 0.61, "Distractor": "large, thick units"}
+{"Score": 0.61, "Distractor": "flagstaff"}
+{"Score": 0.61, "Distractor": "bones"}
+{"Score": 0.61, "Distractor": "john grotzinger"}
+{"Score": 0.61, "Distractor": "energy resources"}
+{"Score": 0.61, "Distractor": "these deep, narrow furrows"}
+{"Score": 0.61, "Distractor": "without a steady supturns"}
+{"Score": 0.61, "Distractor": "northwestern armenia"}
+{"Score": 0.61, "Distractor": "port-auprince"}
+{"Score": 0.61, "Distractor": "hese"}
+{"Score": 0.6, "Distractor": "november"}
+{"Score": 0.6, "Distractor": "the outer reaches"}
+{"Score": 0.6, "Distractor": "the cylinders"}
+{"Score": 0.6, "Distractor": "earth\u2014"}
+{"Score": 0.6, "Distractor": "the four galijupiter"}
+{"Score": 0.6, "Distractor": "any alterations"}
+{"Score": 0.6, "Distractor": "messenger"}
+{"Score": 0.6, "Distractor": "limbs"}
+{"Score": 0.6, "Distractor": "more recent versions"}
+{"Score": 0.6, "Distractor": "near-cubes"}
+{"Score": 0.6, "Distractor": "the sizes"}
+{"Score": 0.6, "Distractor": "huge sums"}
+{"Score": 0.6, "Distractor": "taliang"}
+{"Score": 0.6, "Distractor": "the routes"}
+{"Score": 0.6, "Distractor": "the homestake mine"}
+{"Score": 0.6, "Distractor": "somalia"}
+{"Score": 0.6, "Distractor": "the vibrations"}
+{"Score": 0.6, "Distractor": "colorado"}
+{"Score": 0.6, "Distractor": "the pacific northwest"}
+{"Score": 0.6, "Distractor": "placental mammals"}
+{"Score": 0.6, "Distractor": "lay-"}
+{"Score": 0.6, "Distractor": "biosphere"}
+{"Score": 0.6, "Distractor": "the bounds"}
+{"Score": 0.6, "Distractor": "yellowstone national park"}
+{"Score": 0.6, "Distractor": "taung kalat"}
+{"Score": 0.6, "Distractor": "liquids"}
+{"Score": 0.6, "Distractor": "cape horn"}
+{"Score": 0.6, "Distractor": "people"}
+{"Score": 0.59, "Distractor": "\u2014testimony"}
+{"Score": 0.59, "Distractor": "regular encounters"}
+{"Score": 0.59, "Distractor": "http://goo.gl/m8eybh"}
+{"Score": 0.59, "Distractor": "hydrated sulfates"}
+{"Score": 0.59, "Distractor": "former peoria"}
+{"Score": 0.59, "Distractor": "sandblasting"}
+{"Score": 0.59, "Distractor": "about 87 trillion gallons"}
+{"Score": 0.59, "Distractor": ", eventually, a lander"}
+{"Score": 0.59, "Distractor": "dutch astronomer christian huygens"}
+{"Score": 0.59, "Distractor": "bird kills"}
+{"Score": 0.59, "Distractor": "the long, narrow plumes"}
+{"Score": 0.59, "Distractor": "drainage west virginia"}
+{"Score": 0.59, "Distractor": "the circumstances"}
+{"Score": 0.59, "Distractor": "semiarid"}
+{"Score": 0.59, "Distractor": "the authors"}
+{"Score": 0.59, "Distractor": "rosary beads"}
+{"Score": 0.59, "Distractor": "puerto rico"}
+{"Score": 0.59, "Distractor": "nu\u00e9e ardentes"}
+{"Score": 0.59, "Distractor": "the bering strait"}
+{"Score": 0.59, "Distractor": "capricorn"}
+{"Score": 0.59, "Distractor": "darwin"}
+{"Score": 0.59, "Distractor": "enclosed bays"}
+{"Score": 0.59, "Distractor": "pangaea"}
+{"Score": 0.59, "Distractor": "such disciplines"}
+{"Score": 0.59, "Distractor": "vulcan"}
+{"Score": 0.59, "Distractor": "unique archives"}
+{"Score": 0.59, "Distractor": "mount kilimanjaro"}
+{"Score": 0.59, "Distractor": "optical microscopes"}
+{"Score": 0.59, "Distractor": "the continental army"}
+{"Score": 0.59, "Distractor": "mudstones"}
+{"Score": 0.59, "Distractor": "the economic uses"}
+{"Score": 0.59, "Distractor": "the lakes"}
+{"Score": 0.59, "Distractor": "louisiana"}
+{"Score": 0.59, "Distractor": "these muddy slurries"}
+{"Score": 0.59, "Distractor": "periodic reports"}
+{"Score": 0.59, "Distractor": "four regions"}
+{"Score": 0.59, "Distractor": "the needs"}
+{"Score": 0.59, "Distractor": "clams"}
+{"Score": 0.59, "Distractor": "the magnetic poles"}
+{"Score": 0.59, "Distractor": "nonconformities"}
+{"Score": 0.59, "Distractor": "artificial cutoffs"}
+{"Score": 0.59, "Distractor": "callisto"}
+{"Score": 0.59, "Distractor": "africa"}
+{"Score": 0.59, "Distractor": "the evaporites"}
+{"Score": 0.59, "Distractor": "the collisions"}
+{"Score": 0.59, "Distractor": "a likely feedback acts"}
+{"Score": 0.58, "Distractor": "hayabusa"}
+{"Score": 0.58, "Distractor": "the teton and snake rivers"}
+{"Score": 0.58, "Distractor": "suspended material transwinds"}
+{"Score": 0.58, "Distractor": "april"}
+{"Score": 0.58, "Distractor": "a lars"}
+{"Score": 0.58, "Distractor": "the plants"}
+{"Score": 0.58, "Distractor": "lighter solids"}
+{"Score": 0.58, "Distractor": "the interactions"}
+{"Score": 0.58, "Distractor": "the entrenchment"}
+{"Score": 0.58, "Distractor": "baton rouge"}
+{"Score": 0.58, "Distractor": "slabs"}
+{"Score": 0.58, "Distractor": "clint farlinger"}
+{"Score": 0.58, "Distractor": "hutton"}
+{"Score": 0.58, "Distractor": "walden"}
+{"Score": 0.58, "Distractor": "diatoms"}
+{"Score": 0.58, "Distractor": "runoff"}
+{"Score": 0.58, "Distractor": "mount sinabung"}
+{"Score": 0.58, "Distractor": "60 miles"}
+{"Score": 0.58, "Distractor": "new jersey"}
+{"Score": 0.58, "Distractor": "iceland"}
+{"Score": 0.58, "Distractor": "photomicrographs"}
+{"Score": 0.58, "Distractor": "the bars"}
+{"Score": 0.58, "Distractor": "rhyolite rhyolite"}
+{"Score": 0.58, "Distractor": "lahars"}
+{"Score": 0.58, "Distractor": "*bernard hallet"}
+{"Score": 0.58, "Distractor": "the atacama"}
+{"Score": 0.58, "Distractor": "the pros"}
+{"Score": 0.58, "Distractor": "large trees"}
+{"Score": 0.58, "Distractor": "schist medium-"}
+{"Score": 0.58, "Distractor": "fossils"}
+{"Score": 0.58, "Distractor": "hubcaps"}
+{"Score": 0.58, "Distractor": "arthropods"}
+{"Score": 0.58, "Distractor": "5 h12h2"}
+{"Score": 0.58, "Distractor": "pakistan"}
+{"Score": 0.58, "Distractor": "texas"}
+{"Score": 0.58, "Distractor": "scraps"}
+{"Score": 0.58, "Distractor": "shale crumbles"}
+{"Score": 0.58, "Distractor": "when storms are frequent and more powerful, strong wave activity erodes"}
+{"Score": 0.58, "Distractor": "australia"}
+{"Score": 0.58, "Distractor": "false alarms"}
+{"Score": 0.58, "Distractor": "many specific subenvironments"}
+{"Score": 0.58, "Distractor": "h"}
+{"Score": 0.58, "Distractor": "orlando barria/efe/newscom"}
+{"Score": 0.58, "Distractor": "chlorite"}
+{"Score": 0.58, "Distractor": "several months"}
+{"Score": 0.58, "Distractor": "river channels moves"}
+{"Score": 0.57, "Distractor": "monuments"}
+{"Score": 0.57, "Distractor": "highways"}
+{"Score": 0.57, "Distractor": "these dikes"}
+{"Score": 0.57, "Distractor": "various observers"}
+{"Score": 0.57, "Distractor": "mount shasta"}
+{"Score": 0.57, "Distractor": "cairo"}
+{"Score": 0.57, "Distractor": "tokyo"}
+{"Score": 0.57, "Distractor": "the moho"}
+{"Score": 0.57, "Distractor": "high\u2014"}
+{"Score": 0.57, "Distractor": "stilts"}
+{"Score": 0.57, "Distractor": "animal fats"}
+{"Score": 0.57, "Distractor": "adjacent plates"}
+{"Score": 0.57, "Distractor": "dreamstime"}
+{"Score": 0.57, "Distractor": "the various components"}
+{"Score": 0.57, "Distractor": "important insights"}
+{"Score": 0.57, "Distractor": "mount pel\u00e9e"}
+{"Score": 0.57, "Distractor": "many other reptiles"}
+{"Score": 0.57, "Distractor": "hay"}
+{"Score": 0.57, "Distractor": "various adjectives"}
+{"Score": 0.57, "Distractor": "snails"}
+{"Score": 0.57, "Distractor": "rock avalanches"}
+{"Score": 0.57, "Distractor": "the canals"}
+{"Score": 0.57, "Distractor": "jetties"}
+{"Score": 0.57, "Distractor": "covered seeds"}
+{"Score": 0.57, "Distractor": "chloroplasts"}
+{"Score": 0.57, "Distractor": "the strong skeletons"}
+{"Score": 0.57, "Distractor": "large thrust faults"}
+{"Score": 0.57, "Distractor": "ph"}
+{"Score": 0.57, "Distractor": "about half"}
+{"Score": 0.57, "Distractor": "kilauea"}
+{"Score": 0.57, "Distractor": "internal workings"}
+{"Score": 0.57, "Distractor": "the national park service"}
+{"Score": 0.57, "Distractor": "life explodes"}
+{"Score": 0.57, "Distractor": "both the maria"}
+{"Score": 0.56, "Distractor": "comet wild"}
+{"Score": 0.56, "Distractor": "the newest grouping"}
+{"Score": 0.56, "Distractor": "critics"}
+{"Score": 0.56, "Distractor": "lagoons"}
+{"Score": 0.56, "Distractor": "many nonmetallics"}
+{"Score": 0.56, "Distractor": "idaho"}
+{"Score": 0.56, "Distractor": "nazca"}
+{"Score": 0.56, "Distractor": "the 130,000-acre birds point-new madrid floodway"}
+{"Score": 0.56, "Distractor": "the tongas"}
+{"Score": 0.56, "Distractor": "teeth"}
+{"Score": 0.56, "Distractor": "clinkers"}
+{"Score": 0.56, "Distractor": "new habitats"}
+{"Score": 0.56, "Distractor": "norway"}
+{"Score": 0.56, "Distractor": "the axes"}
+{"Score": 0.56, "Distractor": "the stable isotope lead-206"}
+{"Score": 0.56, "Distractor": "mount"}
+{"Score": 0.56, "Distractor": "that the ice age pacemaker"}
+{"Score": 0.56, "Distractor": "the seams"}
+{"Score": 0.56, "Distractor": "mammoths"}
+{"Score": 0.56, "Distractor": "isostasy"}
+{"Score": 0.56, "Distractor": "cards"}
+{"Score": 0.56, "Distractor": "builds"}
+{"Score": 0.56, "Distractor": "burma"}
+{"Score": 0.56, "Distractor": "the secrets"}
+{"Score": 0.56, "Distractor": "wyoming"}
+{"Score": 0.56, "Distractor": "synclines"}
+{"Score": 0.56, "Distractor": "southern montana"}
+{"Score": 0.56, "Distractor": "wegener"}
+{"Score": 0.56, "Distractor": "its inselbergs"}
+{"Score": 0.56, "Distractor": "cyprus"}
+{"Score": 0.56, "Distractor": "new colonies"}
+{"Score": 0.56, "Distractor": "seismic soundings"}
+{"Score": 0.56, "Distractor": "nova friburgo"}
+{"Score": 0.56, "Distractor": "outgassing"}
+{"Score": 0.56, "Distractor": "phyllite phyllite"}
+{"Score": 0.55, "Distractor": "the nebraskan"}
+{"Score": 0.55, "Distractor": "dione"}
+{"Score": 0.55, "Distractor": "that exhibit signs"}
+{"Score": 0.55, "Distractor": "the voids"}
+{"Score": 0.55, "Distractor": "oahu"}
+{"Score": 0.55, "Distractor": "newly cut tunnels"}
+{"Score": 0.55, "Distractor": "small brains"}
+{"Score": 0.55, "Distractor": "mexico\u2019s baja peninsula"}
+{"Score": 0.55, "Distractor": "etna"}
+{"Score": 0.55, "Distractor": "mount pinatubo"}
+{"Score": 0.55, "Distractor": "characteristics"}
+{"Score": 0.55, "Distractor": "the 1960s"}
+{"Score": 0.55, "Distractor": "northern michigan"}
+{"Score": 0.55, "Distractor": "the placers"}
+{"Score": 0.55, "Distractor": "maps"}
+{"Score": 0.55, "Distractor": "many unsuspecting residents"}
+{"Score": 0.55, "Distractor": "early may."}
+{"Score": 0.55, "Distractor": "the tangshan"}
+{"Score": 0.55, "Distractor": "july"}
+{"Score": 0.55, "Distractor": "land animals"}
+{"Score": 0.55, "Distractor": "kaibab monocline"}
+{"Score": 0.55, "Distractor": "gradations"}
+{"Score": 0.55, "Distractor": "zhang heng"}
+{"Score": 0.55, "Distractor": "afghanistan"}
+{"Score": 0.55, "Distractor": "its aftershocks"}
+{"Score": 0.55, "Distractor": "kalapana"}
+{"Score": 0.55, "Distractor": "professors teresa tarbuck"}
+{"Score": 0.55, "Distractor": "bengal"}
+{"Score": 0.55, "Distractor": "jurassic"}
+{"Score": 0.55, "Distractor": "tidal gauges"}
+{"Score": 0.55, "Distractor": "jupiter\u2019s auroras"}
+{"Score": 0.55, "Distractor": "mount hood"}
+{"Score": 0.55, "Distractor": "the outline"}
+{"Score": 0.55, "Distractor": "st. pierre"}
+{"Score": 0.54, "Distractor": "the pores"}
+{"Score": 0.54, "Distractor": "the potomac"}
+{"Score": 0.54, "Distractor": "quarries"}
+{"Score": 0.54, "Distractor": "dodecahedrons"}
+{"Score": 0.54, "Distractor": "different specimens"}
+{"Score": 0.54, "Distractor": "georgia"}
+{"Score": 0.54, "Distractor": "molten blobs"}
+{"Score": 0.54, "Distractor": "fundy"}
+{"Score": 0.54, "Distractor": "the bonds"}
+{"Score": 0.54, "Distractor": "laurasia"}
+{"Score": 0.54, "Distractor": "gullies"}
+{"Score": 0.54, "Distractor": "instruments"}
+{"Score": 0.54, "Distractor": "the chances"}
+{"Score": 0.54, "Distractor": "california"}
+{"Score": 0.54, "Distractor": "meteorologists"}
+{"Score": 0.54, "Distractor": "the few hardy survivors"}
+{"Score": 0.54, "Distractor": "february"}
+{"Score": 0.54, "Distractor": "grassed waterways"}
+{"Score": 0.54, "Distractor": "greek"}
+{"Score": 0.54, "Distractor": "other influences"}
+{"Score": 0.54, "Distractor": "these late arrivals"}
+{"Score": 0.54, "Distractor": "noah berger/reuters"}
+{"Score": 0.54, "Distractor": "nebraska officials"}
+{"Score": 0.54, "Distractor": "harold urey"}
+{"Score": 0.54, "Distractor": "the cenozoic"}
+{"Score": 0.54, "Distractor": "fruits"}
+{"Score": 0.54, "Distractor": "yungay"}
+{"Score": 0.54, "Distractor": "ga"}
+{"Score": 0.54, "Distractor": "the most important and dramatic triggers"}
+{"Score": 0.54, "Distractor": "marli miller"}
+{"Score": 0.54, "Distractor": "young marsupials"}
+{"Score": 0.54, "Distractor": "500 fathoms"}
+{"Score": 0.54, "Distractor": "the only accounts"}
+{"Score": 0.53, "Distractor": "asteroids"}
+{"Score": 0.53, "Distractor": "such events"}
+{"Score": 0.53, "Distractor": "signals"}
+{"Score": 0.53, "Distractor": "\u201cwithtrend"}
+{"Score": 0.53, "Distractor": "the rings"}
+{"Score": 0.53, "Distractor": "piles"}
+{"Score": 0.53, "Distractor": "russia"}
+{"Score": 0.53, "Distractor": "popusions"}
+{"Score": 0.53, "Distractor": "gardens"}
+{"Score": 0.53, "Distractor": "sunlight"}
+{"Score": 0.53, "Distractor": "helen\u2019s"}
+{"Score": 0.53, "Distractor": "venus"}
+{"Score": 0.53, "Distractor": "100 feet"}
+{"Score": 0.53, "Distractor": "abrasives"}
+{"Score": 0.53, "Distractor": "the intergovernmental panel"}
+{"Score": 0.53, "Distractor": "san francisco"}
+{"Score": 0.53, "Distractor": "halem\u00e1um\u00e1u"}
+{"Score": 0.53, "Distractor": "his colleagues"}
+{"Score": 0.53, "Distractor": "24 countries"}
+{"Score": 0.53, "Distractor": "white"}
+{"Score": 0.53, "Distractor": "only about six-tenths"}
+{"Score": 0.53, "Distractor": "the remains"}
+{"Score": 0.52, "Distractor": "the headlands"}
+{"Score": 0.52, "Distractor": "no more than a few kilometers"}
+{"Score": 0.52, "Distractor": "the millions"}
+{"Score": 0.52, "Distractor": "neutrons"}
+{"Score": 0.52, "Distractor": "lake manitoba"}
+{"Score": 0.52, "Distractor": "the pilots"}
+{"Score": 0.52, "Distractor": "asama"}
+{"Score": 0.52, "Distractor": "14.1 locate"}
+{"Score": 0.52, "Distractor": "lake huron"}
+{"Score": 0.52, "Distractor": "the jaws"}
+{"Score": 0.52, "Distractor": "tennessee"}
+{"Score": 0.52, "Distractor": "crabs"}
+{"Score": 0.52, "Distractor": "its own peculiarities"}
+{"Score": 0.52, "Distractor": "their neighbors"}
+{"Score": 0.52, "Distractor": "the joint oceanographic institutions"}
+{"Score": 0.52, "Distractor": "january"}
+{"Score": 0.52, "Distractor": "old faithful"}
+{"Score": 0.52, "Distractor": "boiling mudpots"}
+{"Score": 0.52, "Distractor": "franklin roosevelt"}
+{"Score": 0.52, "Distractor": "a 600 meter-"}
+{"Score": 0.52, "Distractor": "(visualize"}
+{"Score": 0.52, "Distractor": "two tidal bulges"}
+{"Score": 0.52, "Distractor": "fujiyama"}
+{"Score": 0.52, "Distractor": "their rays"}
+{"Score": 0.52, "Distractor": "phobos"}
+{"Score": 0.52, "Distractor": "december"}
+{"Score": 0.52, "Distractor": "seismometers"}
+{"Score": 0.52, "Distractor": "movement perpendicular"}
+{"Score": 0.51, "Distractor": "uranus"}
+{"Score": 0.51, "Distractor": "compasses"}
+{"Score": 0.51, "Distractor": "gills"}
+{"Score": 0.51, "Distractor": "witwatersrand"}
+{"Score": 0.51, "Distractor": "the mid-1980s"}
+{"Score": 0.51, "Distractor": "paris"}
+{"Score": 0.51, "Distractor": "lake winnipeg"}
+{"Score": 0.51, "Distractor": "concord"}
+{"Score": 0.51, "Distractor": "a magma reservoir"}
+{"Score": 0.51, "Distractor": "chemical analyses"}
+{"Score": 0.51, "Distractor": "the causes"}
+{"Score": 0.51, "Distractor": "mauna loa"}
+{"Score": 0.51, "Distractor": "brittany"}
+{"Score": 0.51, "Distractor": "most other regional floods"}
+{"Score": 0.51, "Distractor": "cannons"}
+{"Score": 0.51, "Distractor": "mountain belts"}
+{"Score": 0.51, "Distractor": "the predators"}
+{"Score": 0.51, "Distractor": "toilets"}
+{"Score": 0.51, "Distractor": "1.94 square"}
+{"Score": 0.51, "Distractor": "northern quebec"}
+{"Score": 0.51, "Distractor": "the esti120,715"}
+{"Score": 0.51, "Distractor": "vast outpourings"}
+{"Score": 0.51, "Distractor": "surface manifestations"}
+{"Score": 0.5, "Distractor": "jeffrey scovil"}
+{"Score": 0.5, "Distractor": "mount rainier"}
+{"Score": 0.5, "Distractor": "5.2 million barrels"}
+{"Score": 0.5, "Distractor": "clouds"}
+{"Score": 0.5, "Distractor": "transports"}
+{"Score": 0.5, "Distractor": "leaks"}
+{"Score": 0.5, "Distractor": "comets"}
+{"Score": 0.5, "Distractor": "sumatra"}
+{"Score": 0.5, "Distractor": "vesicular texture common"}
+{"Score": 0.5, "Distractor": "the 1840s"}
+{"Score": 0.5, "Distractor": "pompeii"}
+{"Score": 0.5, "Distractor": "henry david thoreau"}
+{"Score": 0.5, "Distractor": "16 inches"}
+{"Score": 0.5, "Distractor": "lake agassiz"}
+{"Score": 0.5, "Distractor": "nyamuragira"}
+{"Score": 0.5, "Distractor": "the scratches"}
+{"Score": 0.5, "Distractor": "frank lowenstein"}
+{"Score": 0.5, "Distractor": "volcanologist david johnston"}
+{"Score": 0.5, "Distractor": "hurricane katrina"}
+{"Score": 0.5, "Distractor": "these devices"}
+{"Score": 0.5, "Distractor": "conflicts"}
+{"Score": 0.5, "Distractor": "its surroundings"}
+{"Score": 0.5, "Distractor": "the well"}
+{"Score": 0.5, "Distractor": "[camg(co3)2"}
+{"Score": 0.5, "Distractor": "hurricane sandy"}
+{"Score": 0.5, "Distractor": "such large numbers"}
+{"Score": 0.5, "Distractor": "montserrat"}
+{"Score": 0.5, "Distractor": "reasons"}
+{"Score": 0.5, "Distractor": "gently curved joints"}
+{"Score": 0.49, "Distractor": "io"}
+{"Score": 0.49, "Distractor": "small spherical concretions"}
+{"Score": 0.49, "Distractor": "timaru"}
+{"Score": 0.49, "Distractor": "missouri"}
+{"Score": 0.49, "Distractor": "improvements"}
+{"Score": 0.49, "Distractor": "operations"}
+{"Score": 0.49, "Distractor": "miltethys sea lions"}
+{"Score": 0.49, "Distractor": "these smooth plains"}
+{"Score": 0.49, "Distractor": "10 kilobars"}
+{"Score": 0.49, "Distractor": "these different wave behaviors"}
+{"Score": 0.49, "Distractor": "halides"}
+{"Score": 0.49, "Distractor": "thebe"}
+{"Score": 0.49, "Distractor": "rounded cobbles"}
+{"Score": 0.49, "Distractor": "several nations"}
+{"Score": 0.49, "Distractor": "different localities"}
+{"Score": 0.49, "Distractor": "the charleston"}
+{"Score": 0.49, "Distractor": "the late paleozoic"}
+{"Score": 0.49, "Distractor": "the 1930s"}
+{"Score": 0.49, "Distractor": "cars"}
+{"Score": 0.49, "Distractor": "potassium-40"}
+{"Score": 0.49, "Distractor": "at least 80 commercial jets"}
+{"Score": 0.49, "Distractor": "the headwaters"}
+{"Score": 0.49, "Distractor": "bouncing microwaves"}
+{"Score": 0.49, "Distractor": "pools"}
+{"Score": 0.49, "Distractor": "the continents"}
+{"Score": 0.49, "Distractor": "bitumen"}
+{"Score": 0.49, "Distractor": "better controls"}
+{"Score": 0.49, "Distractor": "the kalahari"}
+{"Score": 0.49, "Distractor": "the standard five toes"}
+{"Score": 0.49, "Distractor": "stalagmites"}
+{"Score": 0.49, "Distractor": "important nutrients"}
+{"Score": 0.49, "Distractor": "some beaches"}
+{"Score": 0.49, "Distractor": "human440"}
+{"Score": 0.49, "Distractor": "illustration"}
+{"Score": 0.48, "Distractor": "the national cathedral"}
+{"Score": 0.48, "Distractor": "its discovering boundaries"}
+{"Score": 0.48, "Distractor": "radiosondes"}
+{"Score": 0.48, "Distractor": "dominates"}
+{"Score": 0.48, "Distractor": "the fiords"}
+{"Score": 0.48, "Distractor": "authorities"}
+{"Score": 0.48, "Distractor": "nevado del ruiz"}
+{"Score": 0.48, "Distractor": "peratures"}
+{"Score": 0.48, "Distractor": "alternatives"}
+{"Score": 0.48, "Distractor": "venus express"}
+{"Score": 0.48, "Distractor": "skaters"}
+{"Score": 0.48, "Distractor": "van ness avenue"}
+{"Score": 0.48, "Distractor": "about 6 centimeters"}
+{"Score": 0.48, "Distractor": "east antarctica"}
+{"Score": 0.48, "Distractor": "sir charles lyell"}
+{"Score": 0.48, "Distractor": "directions"}
+{"Score": 0.48, "Distractor": "geographics"}
+{"Score": 0.48, "Distractor": "soils"}
+{"Score": 0.48, "Distractor": "santa tecla"}
+{"Score": 0.48, "Distractor": "arabia"}
+{"Score": 0.48, "Distractor": "south dakota"}
+{"Score": 0.48, "Distractor": "brazil"}
+{"Score": 0.48, "Distractor": "reefs"}
+{"Score": 0.48, "Distractor": "prismatic and blocky peds"}
+{"Score": 0.48, "Distractor": "the ingredients"}
+{"Score": 0.48, "Distractor": "the techniques"}
+{"Score": 0.48, "Distractor": "geophysical observations"}
+{"Score": 0.48, "Distractor": "ichthyosaurs"}
+{"Score": 0.48, "Distractor": "the dangers"}
+{"Score": 0.48, "Distractor": "pele"}
+{"Score": 0.48, "Distractor": "the lincoln memorial taj mahal"}
+{"Score": 0.48, "Distractor": "eggs"}
+{"Score": 0.48, "Distractor": "matthews"}
+{"Score": 0.48, "Distractor": "these pollutants"}
+{"Score": 0.47, "Distractor": "jupiter"}
+{"Score": 0.47, "Distractor": "nacl"}
+{"Score": 0.47, "Distractor": "the mississippi"}
+{"Score": 0.47, "Distractor": "the possibilities"}
+{"Score": 0.47, "Distractor": "uranium-238"}
+{"Score": 0.47, "Distractor": "the contours"}
+{"Score": 0.47, "Distractor": "june"}
+{"Score": 0.47, "Distractor": "the tropics"}
+{"Score": 0.47, "Distractor": "seamounts"}
+{"Score": 0.47, "Distractor": "our resources"}
+{"Score": 0.47, "Distractor": "slickensides"}
+{"Score": 0.47, "Distractor": "the ob"}
+{"Score": 0.47, "Distractor": "the upper midwest"}
+{"Score": 0.47, "Distractor": "st. george"}
+{"Score": 0.47, "Distractor": "yemen"}
+{"Score": 0.47, "Distractor": "the remaining ties"}
+{"Score": 0.47, "Distractor": "streets"}
+{"Score": 0.47, "Distractor": "the anthropocene"}
+{"Score": 0.47, "Distractor": "negative charges arrangements"}
+{"Score": 0.47, "Distractor": "five modern landmasses\u2014"}
+{"Score": 0.47, "Distractor": "the 1950s"}
+{"Score": 0.47, "Distractor": "ranrahirca"}
+{"Score": 0.47, "Distractor": "substantial efforts"}
+{"Score": 0.47, "Distractor": "iran"}
+{"Score": 0.47, "Distractor": "the americas"}
+{"Score": 0.47, "Distractor": "railroads"}
+{"Score": 0.47, "Distractor": "gently sloping flanks"}
+{"Score": 0.47, "Distractor": "si41"}
+{"Score": 0.47, "Distractor": "the 1920s"}
+{"Score": 0.47, "Distractor": "scandinavia"}
+{"Score": 0.47, "Distractor": "hurricane ike"}
+{"Score": 0.47, "Distractor": "lahars"}
+{"Score": 0.46, "Distractor": "volcanic crises"}
+{"Score": 0.46, "Distractor": "former pathways"}
+{"Score": 0.46, "Distractor": "the paleogene"}
+{"Score": 0.46, "Distractor": "good emitters"}
+{"Score": 0.46, "Distractor": "tails"}
+{"Score": 0.46, "Distractor": "our father"}
+{"Score": 0.46, "Distractor": "shrubs"}
+{"Score": 0.46, "Distractor": "sir edward bullard"}
+{"Score": 0.46, "Distractor": "british columbia"}
+{"Score": 0.46, "Distractor": "tidal flats"}
+{"Score": 0.46, "Distractor": "volcanic necks"}
+{"Score": 0.46, "Distractor": "fungi"}
+{"Score": 0.46, "Distractor": "ohio"}
+{"Score": 0.46, "Distractor": "hong kong"}
+{"Score": 0.46, "Distractor": "these extrusions"}
+{"Score": 0.46, "Distractor": "dangerous torrents"}
+{"Score": 0.46, "Distractor": "the victims"}
+{"Score": 0.46, "Distractor": "washington"}
+{"Score": 0.46, "Distractor": "the mediterranean"}
+{"Score": 0.46, "Distractor": "clumps"}
+{"Score": 0.46, "Distractor": "north america"}
+{"Score": 0.46, "Distractor": "angiosperms"}
+{"Score": 0.46, "Distractor": "foreshocks"}
+{"Score": 0.46, "Distractor": "brian roman"}
+{"Score": 0.46, "Distractor": "the late 1800s"}
+{"Score": 0.46, "Distractor": "the physical landscapes"}
+{"Score": 0.46, "Distractor": "march"}
+{"Score": 0.45, "Distractor": "only a few major ideas"}
+{"Score": 0.45, "Distractor": "long distances"}
+{"Score": 0.45, "Distractor": "northern vietnam"}
+{"Score": 0.45, "Distractor": "the remaining volatiles"}
+{"Score": 0.45, "Distractor": "the atlantic"}
+{"Score": 0.45, "Distractor": "several cycles"}
+{"Score": 0.45, "Distractor": "illinois"}
+{"Score": 0.45, "Distractor": "kelly"}
+{"Score": 0.45, "Distractor": "smaller, less dramatic downslope movements"}
+{"Score": 0.45, "Distractor": "late may"}
+{"Score": 0.45, "Distractor": "lake superior"}
+{"Score": 0.45, "Distractor": "italy"}
+{"Score": 0.45, "Distractor": "roads"}
+{"Score": 0.45, "Distractor": "brachiosaurus"}
+{"Score": 0.45, "Distractor": "el chich\u00f3n"}
+{"Score": 0.45, "Distractor": "elephants"}
+{"Score": 0.45, "Distractor": "natural drainageways"}
+{"Score": 0.45, "Distractor": "vinson massif"}
+{"Score": 0.45, "Distractor": "illustrates"}
+{"Score": 0.45, "Distractor": "goods"}
+{"Score": 0.45, "Distractor": "other words"}
+{"Score": 0.45, "Distractor": "weeks"}
+{"Score": 0.45, "Distractor": "corals"}
+{"Score": 0.45, "Distractor": "the neanderthals (homo neanderthalis"}
+{"Score": 0.45, "Distractor": "slovenia"}
+{"Score": 0.45, "Distractor": "ml"}
+{"Score": 0.45, "Distractor": "sunday"}
+{"Score": 0.45, "Distractor": "pierre perrault"}
+{"Score": 0.45, "Distractor": "raindrops"}
+{"Score": 0.45, "Distractor": "the cenozoic angiosperms"}
+{"Score": 0.45, "Distractor": "electrons"}
+{"Score": 0.45, "Distractor": "active and inactive cones"}
+{"Score": 0.45, "Distractor": "ocean basins"}
+{"Score": 0.45, "Distractor": "discharge streams"}
+{"Score": 0.44, "Distractor": "meteorites"}
+{"Score": 0.44, "Distractor": "(blue"}
+{"Score": 0.44, "Distractor": "arrowheads"}
+{"Score": 0.44, "Distractor": "(southern) himalayas"}
+{"Score": 0.44, "Distractor": "eskers"}
+{"Score": 0.44, "Distractor": "maine"}
+{"Score": 0.44, "Distractor": "fluctuations"}
+{"Score": 0.44, "Distractor": "metamorphic facies"}
+{"Score": 0.44, "Distractor": "lake bonneville"}
+{"Score": 0.44, "Distractor": "indonesia\u2019s mount tambora"}
+{"Score": 0.44, "Distractor": "some segments"}
+{"Score": 0.44, "Distractor": "yenisei"}
+{"Score": 0.44, "Distractor": "the following paragraphs"}
+{"Score": 0.44, "Distractor": "stakes"}
+{"Score": 0.44, "Distractor": "coal swamps"}
+{"Score": 0.44, "Distractor": "more than 300 passengers"}
+{"Score": 0.44, "Distractor": "alabama"}
+{"Score": 0.44, "Distractor": "good conductors"}
+{"Score": 0.44, "Distractor": "the andes"}
+{"Score": 0.44, "Distractor": "extremes"}
+{"Score": 0.44, "Distractor": "porphyroblasts"}
+{"Score": 0.44, "Distractor": "mollusks"}
+{"Score": 0.44, "Distractor": "several factors"}
+{"Score": 0.44, "Distractor": "snowflakes"}
+{"Score": 0.44, "Distractor": "hydrated\u2014"}
+{"Score": 0.44, "Distractor": "bacteria"}
+{"Score": 0.44, "Distractor": "chemicals"}
+{"Score": 0.44, "Distractor": "interfoto"}
+{"Score": 0.44, "Distractor": "gutenberg"}
+{"Score": 0.44, "Distractor": "the late 1700s"}
+{"Score": 0.44, "Distractor": "some returns"}
+{"Score": 0.44, "Distractor": "fins"}
+{"Score": 0.44, "Distractor": "fault zones"}
+{"Score": 0.44, "Distractor": "granitic (felsic"}
+{"Score": 0.43, "Distractor": "most kuiper"}
+{"Score": 0.43, "Distractor": "prospects"}
+{"Score": 0.43, "Distractor": "the middle east"}
+{"Score": 0.43, "Distractor": "polymers"}
+{"Score": 0.43, "Distractor": "many mounregions"}
+{"Score": 0.43, "Distractor": "what new findings"}
+{"Score": 0.43, "Distractor": "the roots"}
+{"Score": 0.43, "Distractor": "many visitors"}
+{"Score": 0.43, "Distractor": "roughly three-quarters"}
+{"Score": 0.43, "Distractor": "arkansas"}
+{"Score": 0.43, "Distractor": "lake ontario"}
+{"Score": 0.43, "Distractor": "leads"}
+{"Score": 0.43, "Distractor": "geographics"}
+{"Score": 0.43, "Distractor": "junipers"}
+{"Score": 0.43, "Distractor": "reptiles"}
+{"Score": 0.43, "Distractor": "metis"}
+{"Score": 0.43, "Distractor": "the colorado plateau"}
+{"Score": 0.43, "Distractor": "china"}
+{"Score": 0.43, "Distractor": "murmansk"}
+{"Score": 0.43, "Distractor": "grooves"}
+{"Score": 0.43, "Distractor": "new york\u2019s finger lakes"}
+{"Score": 0.43, "Distractor": "the drumlins"}
+{"Score": 0.43, "Distractor": "these depreswhen"}
+{"Score": 0.43, "Distractor": "minerals"}
+{"Score": 0.43, "Distractor": "lizards"}
+{"Score": 0.43, "Distractor": "stretches"}
+{"Score": 0.43, "Distractor": "edwin drake"}
+{"Score": 0.43, "Distractor": "oppositely charged particles\u2014 positively charged protons"}
+{"Score": 0.43, "Distractor": "lifeforms"}
+{"Score": 0.43, "Distractor": "egypt"}
+{"Score": 0.43, "Distractor": "indochina"}
+{"Score": 0.43, "Distractor": "the 1600s"}
+{"Score": 0.43, "Distractor": "shapes"}
+{"Score": 0.43, "Distractor": "alluvial fans"}
+{"Score": 0.43, "Distractor": "two examples"}
+{"Score": 0.43, "Distractor": "the two criteria"}
+{"Score": 0.43, "Distractor": "glaciers"}
+{"Score": 0.43, "Distractor": "el capitan"}
+{"Score": 0.43, "Distractor": "clear skies"}
+{"Score": 0.43, "Distractor": "seismograms"}
+{"Score": 0.43, "Distractor": "three-dimensional frameworks"}
+{"Score": 0.43, "Distractor": "rock types"}
+{"Score": 0.43, "Distractor": "reid"}
+{"Score": 0.42, "Distractor": "comet holmes"}
+{"Score": 0.42, "Distractor": "voyagers"}
+{"Score": 0.42, "Distractor": "their investigations"}
+{"Score": 0.42, "Distractor": "the decades"}
+{"Score": 0.42, "Distractor": "hauula"}
+{"Score": 0.42, "Distractor": "households"}
+{"Score": 0.42, "Distractor": "pipelines"}
+{"Score": 0.42, "Distractor": "still deeper cuts"}
+{"Score": 0.42, "Distractor": "the pines"}
+{"Score": 0.42, "Distractor": "stromboli"}
+{"Score": 0.42, "Distractor": "inclusions"}
+{"Score": 0.42, "Distractor": "oceanus"}
+{"Score": 0.42, "Distractor": "these circles"}
+{"Score": 0.42, "Distractor": "only three one-thousandths"}
+{"Score": 0.42, "Distractor": "eddies"}
+{"Score": 0.42, "Distractor": "the philippines"}
+{"Score": 0.42, "Distractor": "the late devonian"}
+{"Score": 0.42, "Distractor": "quarrying"}
+{"Score": 0.42, "Distractor": "atmospheric basics"}
+{"Score": 0.42, "Distractor": "their lanterns"}
+{"Score": 0.42, "Distractor": "cfcs"}
+{"Score": 0.42, "Distractor": "milliwatts"}
+{"Score": 0.42, "Distractor": "the amazon"}
+{"Score": 0.42, "Distractor": "carbon-14"}
+{"Score": 0.42, "Distractor": "mount st. helens"}
+{"Score": 0.41, "Distractor": "kuwait"}
+{"Score": 0.41, "Distractor": "large nullah"}
+{"Score": 0.41, "Distractor": "these proposals"}
+{"Score": 0.41, "Distractor": "com-"}
+{"Score": 0.41, "Distractor": "all argon escapes"}
+{"Score": 0.41, "Distractor": "prospectors"}
+{"Score": 0.41, "Distractor": "perfect radiators"}
+{"Score": 0.41, "Distractor": "most pegmatites"}
+{"Score": 0.41, "Distractor": "the matterhorn"}
+{"Score": 0.41, "Distractor": "new guinea"}
+{"Score": 0.41, "Distractor": "xenoliths"}
+{"Score": 0.41, "Distractor": "the continental"}
+{"Score": 0.41, "Distractor": "fishes"}
+{"Score": 0.41, "Distractor": "carlsbad caverns"}
+{"Score": 0.41, "Distractor": "streams"}
+{"Score": 0.41, "Distractor": "the adirondacks"}
+{"Score": 0.41, "Distractor": "the wetlands"}
+{"Score": 0.41, "Distractor": "strong modern amphibians"}
+{"Score": 0.41, "Distractor": "michael"}
+{"Score": 0.41, "Distractor": "insects"}
+{"Score": 0.41, "Distractor": "whirlpools"}
+{"Score": 0.41, "Distractor": "deforms"}
+{"Score": 0.41, "Distractor": "the resistant waterfalls"}
+{"Score": 0.41, "Distractor": "uplifting"}
+{"Score": 0.41, "Distractor": "lungs"}
+{"Score": 0.41, "Distractor": "la plata"}
+{"Score": 0.41, "Distractor": "the two plots"}
+{"Score": 0.41, "Distractor": "winnemucca"}
+{"Score": 0.41, "Distractor": "mountaintops"}
+{"Score": 0.41, "Distractor": "newton"}
+{"Score": 0.41, "Distractor": "\u2206"}
+{"Score": 0.41, "Distractor": "perceptions"}
+{"Score": 0.4, "Distractor": "pinnacles"}
+{"Score": 0.4, "Distractor": "new madrid"}
+{"Score": 0.4, "Distractor": "the two meanders"}
+{"Score": 0.4, "Distractor": "many variables"}
+{"Score": 0.4, "Distractor": "europe"}
+{"Score": 0.4, "Distractor": "flights"}
+{"Score": 0.4, "Distractor": "gcms"}
+{"Score": 0.4, "Distractor": "contributes"}
+{"Score": 0.4, "Distractor": "rills"}
+{"Score": 0.4, "Distractor": "the mesozoic"}
+{"Score": 0.4, "Distractor": "carlsbad"}
+{"Score": 0.4, "Distractor": "workers"}
+{"Score": 0.4, "Distractor": "arica"}
+{"Score": 0.4, "Distractor": "migmatites"}
+{"Score": 0.4, "Distractor": "floodwaters"}
+{"Score": 0.4, "Distractor": "cons"}
+{"Score": 0.4, "Distractor": "roadways"}
+{"Score": 0.4, "Distractor": "chert nodules"}
+{"Score": 0.4, "Distractor": "glossopteris"}
+{"Score": 0.4, "Distractor": "mixtures"}
+{"Score": 0.4, "Distractor": "wages"}
+{"Score": 0.4, "Distractor": "such tides"}
+{"Score": 0.4, "Distractor": "opossums"}
+{"Score": 0.4, "Distractor": "(diamonds)\u2014"}
+{"Score": 0.4, "Distractor": "remnants"}
+{"Score": 0.4, "Distractor": "the sahara and arabian deserts"}
+{"Score": 0.4, "Distractor": "kiruna"}
+{"Score": 0.4, "Distractor": "backbones"}
+{"Score": 0.4, "Distractor": "breakwaters"}
+{"Score": 0.4, "Distractor": "pulverizes"}
+{"Score": 0.4, "Distractor": "nebraska"}
+{"Score": 0.4, "Distractor": "shifts"}
+{"Score": 0.39, "Distractor": "illinoian"}
+{"Score": 0.39, "Distractor": "volcanoes"}
+{"Score": 0.39, "Distractor": "termites"}
+{"Score": 0.39, "Distractor": "new orleans"}
+{"Score": 0.39, "Distractor": "crystals"}
+{"Score": 0.39, "Distractor": "the marianas"}
+{"Score": 0.39, "Distractor": "the most accommodating"}
+{"Score": 0.39, "Distractor": "communities"}
+{"Score": 0.39, "Distractor": "10 micrometers"}
+{"Score": 0.39, "Distractor": "britain"}
+{"Score": 0.39, "Distractor": "the tiny invertebrates"}
+{"Score": 0.39, "Distractor": "dissolves"}
+{"Score": 0.39, "Distractor": "manatees"}
+{"Score": 0.39, "Distractor": "yel0"}
+{"Score": 0.39, "Distractor": "ferromagnesians"}
+{"Score": 0.39, "Distractor": "spores"}
+{"Score": 0.39, "Distractor": "the phanerozoic"}
+{"Score": 0.39, "Distractor": "trucks"}
+{"Score": 0.39, "Distractor": "the ross"}
+{"Score": 0.39, "Distractor": "farmers"}
+{"Score": 0.39, "Distractor": "purposes"}
+{"Score": 0.39, "Distractor": "these opponents"}
+{"Score": 0.39, "Distractor": "more than 50 kilomantle"}
+{"Score": 0.39, "Distractor": "(broadway books"}
+{"Score": 0.39, "Distractor": "the three categories"}
+{"Score": 0.39, "Distractor": "ooids"}
+{"Score": 0.39, "Distractor": "nitrogen-14"}
+{"Score": 0.39, "Distractor": "these moons"}
+{"Score": 0.39, "Distractor": "some plutons"}
+{"Score": 0.38, "Distractor": "ceres"}
+{"Score": 0.38, "Distractor": "mates"}
+{"Score": 0.38, "Distractor": "these wavelengths"}
+{"Score": 0.38, "Distractor": "utah\u2019s bonneville salt flats"}
+{"Score": 0.38, "Distractor": "useful catalysts"}
+{"Score": 0.38, "Distractor": "protuberances"}
+{"Score": 0.38, "Distractor": "los alamos"}
+{"Score": 0.38, "Distractor": "legs"}
+{"Score": 0.38, "Distractor": "adults"}
+{"Score": 0.38, "Distractor": "furnaces"}
+{"Score": 0.38, "Distractor": "caves"}
+{"Score": 0.38, "Distractor": "hikers"}
+{"Score": 0.38, "Distractor": "the gulf"}
+{"Score": 0.38, "Distractor": "these newcomers"}
+{"Score": 0.38, "Distractor": "a microorganisms"}
+{"Score": 0.38, "Distractor": "kentucky"}
+{"Score": 0.38, "Distractor": "turtles"}
+{"Score": 0.38, "Distractor": "nearly 17 centuries"}
+{"Score": 0.38, "Distractor": "splinters"}
+{"Score": 0.38, "Distractor": "micrometeorites"}
+{"Score": 0.38, "Distractor": "possible precursors"}
+{"Score": 0.38, "Distractor": "aerosols"}
+{"Score": 0.38, "Distractor": "your companions"}
+{"Score": 0.38, "Distractor": "kalgoorlie"}
+{"Score": 0.38, "Distractor": "wildfires"}
+{"Score": 0.38, "Distractor": "huang ho"}
+{"Score": 0.38, "Distractor": "statues"}
+{"Score": 0.38, "Distractor": "the alps"}
+{"Score": 0.38, "Distractor": "the caribbean"}
+{"Score": 0.38, "Distractor": "south pacific"}
+{"Score": 0.37, "Distractor": "several occasions"}
+{"Score": 0.37, "Distractor": "brittle"}
+{"Score": 0.37, "Distractor": "the bighorns"}
+{"Score": 0.37, "Distractor": "10 \u00d7"}
+{"Score": 0.37, "Distractor": "barrow"}
+{"Score": 0.37, "Distractor": "planetesimals"}
+{"Score": 0.37, "Distractor": "these variants"}
+{"Score": 0.37, "Distractor": "firs"}
+{"Score": 0.37, "Distractor": "these exposures"}
+{"Score": 0.37, "Distractor": "giuseppe mercalli"}
+{"Score": 0.37, "Distractor": "apatosaurus"}
+{"Score": 0.37, "Distractor": "the folded appalachian mountains"}
+{"Score": 0.37, "Distractor": "defects"}
+{"Score": 0.37, "Distractor": "snakes"}
+{"Score": 0.37, "Distractor": "such bursts"}
+{"Score": 0.37, "Distractor": "relatively small areas"}
+{"Score": 0.37, "Distractor": "dominoes"}
+{"Score": 0.37, "Distractor": "divides"}
+{"Score": 0.37, "Distractor": "oo"}
+{"Score": 0.37, "Distractor": "kangaroos"}
+{"Score": 0.37, "Distractor": "two samples"}
+{"Score": 0.37, "Distractor": "the impressions"}
+{"Score": 0.37, "Distractor": "erals"}
+{"Score": 0.37, "Distractor": "jim west/alamy images"}
+{"Score": 0.37, "Distractor": "warnings"}
+{"Score": 0.36, "Distractor": "the hadean"}
+{"Score": 0.36, "Distractor": "the san andreas"}
+{"Score": 0.36, "Distractor": "cals"}
+{"Score": 0.36, "Distractor": "the international international union"}
+{"Score": 0.36, "Distractor": "plays"}
+{"Score": 0.36, "Distractor": "vegetables"}
+{"Score": 0.36, "Distractor": "minor tremors"}
+{"Score": 0.36, "Distractor": "\u201cvertical movements"}
+{"Score": 0.36, "Distractor": "distinguish"}
+{"Score": 0.36, "Distractor": "initiates"}
+{"Score": 0.36, "Distractor": "these questions"}
+{"Score": 0.36, "Distractor": "easily and downward strokes"}
+{"Score": 0.36, "Distractor": "traps"}
+{"Score": 0.36, "Distractor": "writers"}
+{"Score": 0.36, "Distractor": "their banks"}
+{"Score": 0.36, "Distractor": "the few remaining buildings"}
+{"Score": 0.36, "Distractor": "swells"}
+{"Score": 0.36, "Distractor": "warm breezes"}
+{"Score": 0.36, "Distractor": "these dunes"}
+{"Score": 0.35, "Distractor": "mount garibaldi"}
+{"Score": 0.35, "Distractor": "miami"}
+{"Score": 0.35, "Distractor": "the cascades"}
+{"Score": 0.35, "Distractor": "barbados"}
+{"Score": 0.35, "Distractor": "d. wells"}
+{"Score": 0.35, "Distractor": "two associates"}
+{"Score": 0.35, "Distractor": "sunbathers"}
+{"Score": 0.35, "Distractor": "horses"}
+{"Score": 0.35, "Distractor": "formerly brontosaurus"}
+{"Score": 0.35, "Distractor": "evaluations"}
+{"Score": 0.35, "Distractor": "the deccan traps"}
+{"Score": 0.35, "Distractor": "canada"}
+{"Score": 0.35, "Distractor": "chunks"}
+{"Score": 0.35, "Distractor": "breakers"}
+{"Score": 0.35, "Distractor": "pb-206"}
+{"Score": 0.35, "Distractor": "the black hills"}
+{"Score": 0.35, "Distractor": "their marchanneled scablands"}
+{"Score": 0.35, "Distractor": "many other applications"}
+{"Score": 0.35, "Distractor": "mount everest"}
+{"Score": 0.35, "Distractor": "many rockfalls"}
+{"Score": 0.35, "Distractor": "the largest barchans"}
+{"Score": 0.35, "Distractor": "the likely ancestors"}
+{"Score": 0.35, "Distractor": "cattle"}
+{"Score": 0.35, "Distractor": "very large earthquakes"}
+{"Score": 0.35, "Distractor": "star dunes"}
+{"Score": 0.34, "Distractor": "cumstances"}
+{"Score": 0.34, "Distractor": "minutes"}
+{"Score": 0.34, "Distractor": "downwellings"}
+{"Score": 0.34, "Distractor": "indiana"}
+{"Score": 0.34, "Distractor": "sharp corners"}
+{"Score": 0.34, "Distractor": "slightly more than 1000 millibars"}
+{"Score": 0.34, "Distractor": "rows"}
+{"Score": 0.34, "Distractor": "microbes"}
+{"Score": 0.34, "Distractor": "pieces"}
+{"Score": 0.34, "Distractor": "ophiolites"}
+{"Score": 0.34, "Distractor": "vegdays"}
+{"Score": 0.34, "Distractor": "stars"}
+{"Score": 0.34, "Distractor": "rapids"}
+{"Score": 0.34, "Distractor": "ten thousand smokes"}
+{"Score": 0.34, "Distractor": "passageways"}
+{"Score": 0.34, "Distractor": "crustaceans"}
+{"Score": 0.34, "Distractor": "crevices"}
+{"Score": 0.34, "Distractor": "most manuscripts"}
+{"Score": 0.34, "Distractor": "some yardangs"}
+{"Score": 0.34, "Distractor": "our lives"}
+{"Score": 0.34, "Distractor": "wide swings"}
+{"Score": 0.33, "Distractor": "the oceans"}
+{"Score": 0.33, "Distractor": "apples"}
+{"Score": 0.33, "Distractor": "computers"}
+{"Score": 0.33, "Distractor": "tugs"}
+{"Score": 0.33, "Distractor": "these elements"}
+{"Score": 0.33, "Distractor": "stocks"}
+{"Score": 0.33, "Distractor": "5 to 10 meters"}
+{"Score": 0.33, "Distractor": "gondwana"}
+{"Score": 0.33, "Distractor": "japan"}
+{"Score": 0.33, "Distractor": "seeps"}
+{"Score": 0.33, "Distractor": "many intermediate stops"}
+{"Score": 0.33, "Distractor": "hades"}
+{"Score": 0.33, "Distractor": "the memphis"}
+{"Score": 0.33, "Distractor": "submersibles"}
+{"Score": 0.33, "Distractor": "swarms"}
+{"Score": 0.33, "Distractor": "coulees"}
+{"Score": 0.33, "Distractor": "the mariana"}
+{"Score": 0.33, "Distractor": "stalactites"}
+{"Score": 0.33, "Distractor": "pea-"}
+{"Score": 0.33, "Distractor": "offsets"}
+{"Score": 0.33, "Distractor": "vents"}
+{"Score": 0.33, "Distractor": "songwriters"}
+{"Score": 0.33, "Distractor": "early prokaryotes"}
+{"Score": 0.33, "Distractor": "historical documents historical documents"}
+{"Score": 0.32, "Distractor": "supercomputers"}
+{"Score": 0.32, "Distractor": "astronomers"}
+{"Score": 0.32, "Distractor": "ventifacts"}
+{"Score": 0.32, "Distractor": "mariner"}
+{"Score": 0.32, "Distractor": "airlines"}
+{"Score": 0.32, "Distractor": "trilobites"}
+{"Score": 0.32, "Distractor": "radiolarians"}
+{"Score": 0.32, "Distractor": "lena"}
+{"Score": 0.32, "Distractor": "icebreakers"}
+{"Score": 0.32, "Distractor": "bottomlands"}
+{"Score": 0.32, "Distractor": "crocodiles"}
+{"Score": 0.32, "Distractor": "huge mounds"}
+{"Score": 0.32, "Distractor": "cyclone favio"}
+{"Score": 0.32, "Distractor": "closely spaced isobars"}
+{"Score": 0.32, "Distractor": "niagara falls"}
+{"Score": 0.32, "Distractor": "called eukaryotes"}
+{"Score": 0.32, "Distractor": "dollars"}
+{"Score": 0.32, "Distractor": "the aleutian islands"}
+{"Score": 0.32, "Distractor": "inferences"}
+{"Score": 0.32, "Distractor": "sheltered coves"}
+{"Score": 0.32, "Distractor": "effects"}
+{"Score": 0.32, "Distractor": "cocktails"}
+{"Score": 0.32, "Distractor": "sponges"}
+{"Score": 0.32, "Distractor": "lowers"}
+{"Score": 0.32, "Distractor": "environments"}
+{"Score": 0.32, "Distractor": "nonmetals"}
+{"Score": 0.31, "Distractor": "the lesser"}
+{"Score": 0.31, "Distractor": "microplates"}
+{"Score": 0.31, "Distractor": "veins"}
+{"Score": 0.31, "Distractor": "threads"}
+{"Score": 0.31, "Distractor": "fountains"}
+{"Score": 0.31, "Distractor": "earthquake hazards"}
+{"Score": 0.31, "Distractor": "widely used substances"}
+{"Score": 0.31, "Distractor": "sea level rises"}
+{"Score": 0.31, "Distractor": "dredges"}
+{"Score": 0.31, "Distractor": "archaeologists"}
+{"Score": 0.31, "Distractor": "\u201ccauses"}
+{"Score": 0.31, "Distractor": "humid places"}
+{"Score": 0.31, "Distractor": "sweden"}
+{"Score": 0.31, "Distractor": "naples"}
+{"Score": 0.31, "Distractor": "oxisols"}
+{"Score": 0.31, "Distractor": "summers"}
+{"Score": 0.31, "Distractor": "explosives"}
+{"Score": 0.31, "Distractor": "two aspects"}
+{"Score": 0.3, "Distractor": "most atlases"}
+{"Score": 0.3, "Distractor": "tributaries"}
+{"Score": 0.3, "Distractor": "memorials"}
+{"Score": 0.3, "Distractor": "dishes"}
+{"Score": 0.3, "Distractor": "coastal massachusetts"}
+{"Score": 0.3, "Distractor": "seawalls"}
+{"Score": 0.3, "Distractor": "los angeles"}
+{"Score": 0.3, "Distractor": "ronne-filchner ice shelves"}
+{"Score": 0.29, "Distractor": "titan"}
+{"Score": 0.29, "Distractor": "flames"}
+{"Score": 0.29, "Distractor": "amalthea"}
+{"Score": 0.29, "Distractor": "transitions"}
+{"Score": 0.29, "Distractor": "steppes"}
+{"Score": 0.29, "Distractor": "monkeys"}
+{"Score": 0.29, "Distractor": "gravestones"}
+{"Score": 0.29, "Distractor": "neanderthals"}
+{"Score": 0.29, "Distractor": "clays"}
+{"Score": 0.29, "Distractor": "nuggets"}
+{"Score": 0.29, "Distractor": "miners"}
+{"Score": 0.29, "Distractor": "poets"}
+{"Score": 0.29, "Distractor": "jetties"}
+{"Score": 0.29, "Distractor": "these relatives"}
+{"Score": 0.29, "Distractor": "metamorphic versus sedimentary"}
+{"Score": 0.29, "Distractor": "magnetic reversals"}
+{"Score": 0.28, "Distractor": "ngorongoro"}
+{"Score": 0.28, "Distractor": "octahedrons"}
+{"Score": 0.28, "Distractor": "(sio442"}
+{"Score": 0.28, "Distractor": "the ice ages"}
+{"Score": 0.28, "Distractor": "stream valleys"}
+{"Score": 0.28, "Distractor": "clean"}
+{"Score": 0.28, "Distractor": "the highest mountains"}
+{"Score": 0.28, "Distractor": "explosions"}
+{"Score": 0.28, "Distractor": "more than 12,800 megawatts"}
+{"Score": 0.28, "Distractor": "ascends"}
+{"Score": 0.27, "Distractor": "wisconsinan"}
+{"Score": 0.27, "Distractor": "the coast ranges"}
+{"Score": 0.27, "Distractor": "the grains"}
+{"Score": 0.27, "Distractor": "saratoga springs"}
+{"Score": 0.27, "Distractor": "kansas"}
+{"Score": 0.27, "Distractor": "frogs"}
+{"Score": 0.27, "Distractor": "eutherians"}
+{"Score": 0.27, "Distractor": "groins"}
+{"Score": 0.27, "Distractor": "seismologists"}
+{"Score": 0.27, "Distractor": "ues"}
+{"Score": 0.27, "Distractor": "terranes"}
+{"Score": 0.27, "Distractor": "the mid-1800s"}
+{"Score": 0.27, "Distractor": "continental margins"}
+{"Score": 0.27, "Distractor": "seismic gaps seismologists"}
+{"Score": 0.26, "Distractor": "spits"}
+{"Score": 0.26, "Distractor": "the cretaceous"}
+{"Score": 0.26, "Distractor": "geodes"}
+{"Score": 0.26, "Distractor": "sloths"}
+{"Score": 0.26, "Distractor": "casts"}
+{"Score": 0.26, "Distractor": "landfills"}
+{"Score": 0.26, "Distractor": "the woods"}
+{"Score": 0.26, "Distractor": "folds"}
+{"Score": 0.26, "Distractor": "arrows"}
+{"Score": 0.26, "Distractor": "mount rushmore"}
+{"Score": 0.26, "Distractor": "metamorphic rocks"}
+{"Score": 0.26, "Distractor": "solidifies"}
+{"Score": 0.26, "Distractor": "the mid-1970s"}
+{"Score": 0.26, "Distractor": "krakatau"}
+{"Score": 0.26, "Distractor": "michael collier"}
+{"Score": 0.26, "Distractor": "researchers"}
+{"Score": 0.26, "Distractor": "the challenger deep"}
+{"Score": 0.26, "Distractor": "alaska"}
+{"Score": 0.26, "Distractor": "ships"}
+{"Score": 0.26, "Distractor": "small holes"}
+{"Score": 0.26, "Distractor": "folds"}
+{"Score": 0.26, "Distractor": "early investigators"}
+{"Score": 0.26, "Distractor": "sea arches"}
+{"Score": 0.26, "Distractor": "hydrothermal vein deposits"}
+{"Score": 0.25, "Distractor": "waves"}
+{"Score": 0.25, "Distractor": "the users"}
+{"Score": 0.25, "Distractor": "dry lands"}
+{"Score": 0.25, "Distractor": "geological sciences"}
+{"Score": 0.25, "Distractor": "these exchanges"}
+{"Score": 0.25, "Distractor": "birds"}
+{"Score": 0.25, "Distractor": "bats"}
+{"Score": 0.25, "Distractor": "weakly"}
+{"Score": 0.25, "Distractor": "toads"}
+{"Score": 0.25, "Distractor": "sills"}
+{"Score": 0.25, "Distractor": "koalas"}
+{"Score": 0.25, "Distractor": "firefighters"}
+{"Score": 0.25, "Distractor": "businesses"}
+{"Score": 0.25, "Distractor": "batholiths"}
+{"Score": 0.25, "Distractor": "ruins"}
+{"Score": 0.24, "Distractor": "contamisometimes"}
+{"Score": 0.24, "Distractor": "the geosphere"}
+{"Score": 0.24, "Distractor": "terraces"}
+{"Score": 0.24, "Distractor": "rains"}
+{"Score": 0.24, "Distractor": "clues"}
+{"Score": 0.24, "Distractor": "the united states"}
+{"Score": 0.24, "Distractor": "members"}
+{"Score": 0.24, "Distractor": "the dominant geologists"}
+{"Score": 0.24, "Distractor": "gases"}
+{"Score": 0.24, "Distractor": "although geoscientists"}
+{"Score": 0.24, "Distractor": "mars"}
+{"Score": 0.24, "Distractor": "the juan de fuca"}
+{"Score": 0.24, "Distractor": "students"}
+{"Score": 0.24, "Distractor": "laccoliths"}
+{"Score": 0.24, "Distractor": "the bahamas"}
+{"Score": 0.24, "Distractor": "about 40 seconds"}
+{"Score": 0.24, "Distractor": "maat mons"}
+{"Score": 0.23, "Distractor": "the larger pebbles"}
+{"Score": 0.23, "Distractor": "sailors"}
+{"Score": 0.23, "Distractor": "(kcl"}
+{"Score": 0.23, "Distractor": "chemically interacts"}
+{"Score": 0.23, "Distractor": "some kames"}
+{"Score": 0.23, "Distractor": "urals"}
+{"Score": 0.23, "Distractor": "meteoroids"}
+{"Score": 0.23, "Distractor": "very tiny flowers"}
+{"Score": 0.23, "Distractor": "stratovolcanoes"}
+{"Score": 0.23, "Distractor": "glacial"}
+{"Score": 0.23, "Distractor": "consists"}
+{"Score": 0.23, "Distractor": "gentle slopes"}
+{"Score": 0.23, "Distractor": "fluorocarbons"}
+{"Score": 0.23, "Distractor": "mesosphere"}
+{"Score": 0.22, "Distractor": "shows"}
+{"Score": 0.22, "Distractor": "fortunately, no yellowstonewere"}
+{"Score": 0.22, "Distractor": "more than 100,000 deaths"}
+{"Score": 0.22, "Distractor": "extinctions"}
+{"Score": 0.22, "Distractor": "paleontologists"}
+{"Score": 0.22, "Distractor": "the interrelationships"}
+{"Score": 0.22, "Distractor": "coquina"}
+{"Score": 0.21, "Distractor": "c.e"}
+{"Score": 0.21, "Distractor": "\u201csupercontinents"}
+{"Score": 0.21, "Distractor": "striations"}
+{"Score": 0.21, "Distractor": "potholes"}
+{"Score": 0.21, "Distractor": "leaves"}
+{"Score": 0.21, "Distractor": "bedrooms"}
+{"Score": 0.21, "Distractor": "landmasses"}
+{"Score": 0.21, "Distractor": "the rockies"}
+{"Score": 0.21, "Distractor": "experiments"}
+{"Score": 0.21, "Distractor": "faults"}
+{"Score": 0.21, "Distractor": "bauxite"}
+{"Score": 0.2, "Distractor": "genergases"}
+{"Score": 0.2, "Distractor": "\u2021includes"}
+{"Score": 0.2, "Distractor": "the matterhorn horns"}
+{"Score": 0.2, "Distractor": "sinkholes"}
+{"Score": 0.2, "Distractor": "lifestyles"}
+{"Score": 0.2, "Distractor": "adrastea"}
+{"Score": 0.2, "Distractor": "millipedes"}
+{"Score": 0.2, "Distractor": "researchers"}
+{"Score": 0.2, "Distractor": "waterfalls"}
+{"Score": 0.2, "Distractor": "metals"}
+{"Score": 0.2, "Distractor": "the northwest territories"}
+{"Score": 0.2, "Distractor": "hornfels"}
+{"Score": 0.2, "Distractor": "crevasses"}
+{"Score": 0.2, "Distractor": "locations"}
+{"Score": 0.19, "Distractor": "washes"}
+{"Score": 0.19, "Distractor": "the appalachians"}
+{"Score": 0.19, "Distractor": "values"}
+{"Score": 0.19, "Distractor": "firn"}
+{"Score": 0.19, "Distractor": "most skyscrapers"}
+{"Score": 0.19, "Distractor": "gneissic"}
+{"Score": 0.19, "Distractor": "gins"}
+{"Score": 0.19, "Distractor": "thousands"}
+{"Score": 0.19, "Distractor": "countertops"}
+{"Score": 0.18, "Distractor": "the white cliffs"}
+{"Score": 0.18, "Distractor": "estimates"}
+{"Score": 0.18, "Distractor": "only trickles"}
+{"Score": 0.18, "Distractor": "mammals"}
+{"Score": 0.18, "Distractor": "expands"}
+{"Score": 0.18, "Distractor": "koji"}
+{"Score": 0.18, "Distractor": "geologists"}
+{"Score": 0.17, "Distractor": "ates"}
+{"Score": 0.17, "Distractor": "joggers"}
+{"Score": 0.17, "Distractor": "regions"}
+{"Score": 0.17, "Distractor": "the geysers"}
+{"Score": 0.17, "Distractor": "vesicles"}
+{"Score": 0.17, "Distractor": "marin headlands"}
+{"Score": 0.17, "Distractor": "oceanic ridges"}
+{"Score": 0.17, "Distractor": "riverbanks"}
+{"Score": 0.17, "Distractor": "tower karst"}
+{"Score": 0.17, "Distractor": "oceanographers"}
+{"Score": 0.16, "Distractor": "the classic \u201cgoldilocks"}
+{"Score": 0.16, "Distractor": "redeposits"}
+{"Score": 0.16, "Distractor": "marshes"}
+{"Score": 0.16, "Distractor": "tools"}
+{"Score": 0.16, "Distractor": "automobiles"}
+{"Score": 0.16, "Distractor": "trilobites"}
+{"Score": 0.16, "Distractor": "impurities"}
+{"Score": 0.16, "Distractor": "journalists"}
+{"Score": 0.16, "Distractor": "harold jeffreys"}
+{"Score": 0.16, "Distractor": "trans"}
+{"Score": 0.16, "Distractor": "eukaryotes"}
+{"Score": 0.16, "Distractor": "biochemists"}
+{"Score": 0.16, "Distractor": "https://goo.gl/frsgzk"}
+{"Score": 0.16, "Distractor": "steno"}
+{"Score": 0.16, "Distractor": "horizontal variations"}
+{"Score": 0.15, "Distractor": "rilles"}
+{"Score": 0.15, "Distractor": "variations"}
+{"Score": 0.15, "Distractor": "galileo"}
+{"Score": 0.15, "Distractor": "halite"}
+{"Score": 0.15, "Distractor": "painters"}
+{"Score": 0.15, "Distractor": "just random heaps"}
+{"Score": 0.14, "Distractor": "tadpoles"}
+{"Score": 0.14, "Distractor": "earthworms"}
+{"Score": 0.14, "Distractor": "atoms"}
+{"Score": 0.13, "Distractor": "bears"}
+{"Score": 0.13, "Distractor": "volcanologists"}
+{"Score": 0.13, "Distractor": "eventually empties"}
+{"Score": 0.13, "Distractor": "slivers"}
+{"Score": 0.13, "Distractor": "clothes"}
+{"Score": 0.13, "Distractor": "the great plains"}
+{"Score": 0.13, "Distractor": "crystallizes"}
+{"Score": 0.13, "Distractor": "reductions"}
+{"Score": 0.13, "Distractor": "buffers"}
+{"Score": 0.13, "Distractor": "some disconformities"}
+{"Score": 0.13, "Distractor": "portions"}
+{"Score": 0.13, "Distractor": "longitudinal dunes long"}
+{"Score": 0.12, "Distractor": "relatively subdued undulations"}
+{"Score": 0.12, "Distractor": "cols"}
+{"Score": 0.12, "Distractor": "many tons"}
+{"Score": 0.12, "Distractor": "billions"}
+{"Score": 0.12, "Distractor": "decomposes"}
+{"Score": 0.12, "Distractor": "feedbacks"}
+{"Score": 0.12, "Distractor": "most magma originates"}
+{"Score": 0.12, "Distractor": "offshoots"}
+{"Score": 0.12, "Distractor": "the same sediments"}
+{"Score": 0.12, "Distractor": "landforms"}
+{"Score": 0.11, "Distractor": "only a few tens"}
+{"Score": 0.11, "Distractor": "these features"}
+{"Score": 0.11, "Distractor": "burrows"}
+{"Score": 0.11, "Distractor": "dissinkholes"}
+{"Score": 0.11, "Distractor": "the british isles"}
+{"Score": 0.11, "Distractor": "traces"}
+{"Score": 0.1, "Distractor": "challenges"}
+{"Score": 0.1, "Distractor": "r biofuels"}
+{"Score": 0.1, "Distractor": "unconformities"}
+{"Score": 0.1, "Distractor": "dry climates climatologists"}
+{"Score": 0.1, "Distractor": "fossils"}
+{"Score": 0.1, "Distractor": "numerical dates"}
+{"Score": 0.09, "Distractor": "trillions"}
+{"Score": 0.09, "Distractor": "continents"}
+{"Score": 0.09, "Distractor": "microcontinents"}
+{"Score": 0.09, "Distractor": "batholiths"}
+{"Score": 0.09, "Distractor": "creatures"}
+{"Score": 0.08, "Distractor": "kansan"}
+{"Score": 0.08, "Distractor": "leys"}
+{"Score": 0.08, "Distractor": "earthflows"}
+{"Score": 0.08, "Distractor": "the italians"}
+{"Score": 0.08, "Distractor": "ountains"}
+{"Score": 0.07, "Distractor": "white sands national"}
+{"Score": 0.07, "Distractor": "mineralogists"}
+{"Score": 0.06, "Distractor": "funds"}
+{"Score": 0.06, "Distractor": "simultaneously smooths"}
+{"Score": 0.06, "Distractor": "sandbars"}
+{"Score": 0.06, "Distractor": "geysers"}
+{"Score": 0.05, "Distractor": "subsystems"}
+{"Score": 0.04, "Distractor": "cycads"}
+{"Score": 0.04, "Distractor": "toys"}
+{"Score": 0.03, "Distractor": "windbreaks"}
+{"Score": 0.03, "Distractor": "salamanders"}
+{"Score": 0.03, "Distractor": "attempts"}
+{"Score": 0.02, "Distractor": "spokes"}
+{"Score": 0.02, "Distractor": "sea stacks waves"}
+{"Score": 0.01, "Distractor": "shrinks"}
+{"Score": 0.01, "Distractor": "the aleutians"}
+{"Score": 0.01, "Distractor": "wolves"}
+{"Score": 0.01, "Distractor": "hawaii"}
+{"Score": 0.0, "Distractor": "\u201cbeaches"}
+{"Score": -0.0, "Distractor": "oceans"}
+{"Score": 0.0, "Distractor": "sawmills"}
+{"Score": -0.0, "Distractor": "ediacarans"}
+{"Score": -0.01, "Distractor": "boulders"}
+{"Score": -0.01, "Distractor": "we humans"}
+{"Score": -0.01, "Distractor": "evaporates"}
+{"Score": -0.03, "Distractor": "americans"}
+{"Score": -0.03, "Distractor": "\u201csandstorms"}
+{"Score": -0.04, "Distractor": "stromatolites"}
+{"Score": -0.04, "Distractor": "historians"}
+{"Score": -0.05, "Distractor": "\u201cwindows"}
+{"Score": -0.05, "Distractor": "spherically shaped grains mechanisms"}
+{"Score": -0.07, "Distractor": "dentists"}
+{"Score": -0.07, "Distractor": "hybrids"}
+{"Score": -0.08, "Distractor": "sunspots"}
+{"Score": -0.09, "Distractor": "hundreds"}
+{"Score": -0.13, "Distractor": "still others"}
+{"Score": -0.14, "Distractor": "anthropologists"}
+{"Score": -0.23, "Distractor": "just what"}

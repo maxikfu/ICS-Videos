@@ -1,7 +1,7 @@
 Question: Striations are found on some cleavage planes of plagioclase feldspar but are not present on ______________ .
-a) potassium feldspar
-b) crystallization
-c) the environment
-d) a multitude
+a) calcium-rich plagioclase
+b) the mineral calcite
+c) potassium feldspar
+d) the feldspars
 Answer: potassium feldspar
 

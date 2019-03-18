@@ -1,4 +1,4 @@
-{"id": 1, "score": 3.68, "relevant": "Yes", "text": "In graphite the carbon atoms are bonded into sheets that are joined together by very weak electrical forces.", "common_words": 7, "features": [0.78, 0.0, 0, 1, 0.56, 0.0]}
-{"id": 2, "score": 0.0, "relevant": "No", "text": "Nevertheless, the angles between equivalent faces are remarkably consistent. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
-{"id": 3, "score": 0.0, "relevant": "No", "text": "two crystals of the same mineral may not have identical shapes.", "common_words": 1, "features": [0.25, 0.0, 0, 1, 0.75, 0.0]}
-{"id": 4, "score": 0.0, "relevant": "No", "text": "Steno\u2019s Law Because some faces of a crystal may grow larger than others,", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.43, 0.29]}
+{"id": 1, "score": 2.4, "relevant": "Yes", "text": "In graphite the carbon atoms are bonded into sheets that are joined together by very weak electrical forces.", "common_words": 7, "features": [0.41, 0.0, 0, 1, 0.29, 0.0]}
+{"id": 2, "score": 1.4, "relevant": "No", "text": "Nevertheless, the angles between equivalent faces are remarkably consistent. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.2, 0.0]}
+{"id": 3, "score": 0.74, "relevant": "No", "text": "Because some faces of a crystal may grow larger than others, two crystals of the same mineral may not have identical shapes.", "common_words": 1, "features": [0.05, 0.0, 0, 0, 0.32, 0.0]}
+{"id": 4, "score": 0.0, "relevant": "No", "text": "Steno\u2019s Law", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.33]}

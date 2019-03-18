@@ -1,21 +1,21 @@
-{"sent_id": 1, "key_list": [[4.0, "the slow-release replication cycle", [1, 1, 2]], [3.0, "the cell", [1, 1, 1]], [3.0, "phage particles", [1, 1, 1]], [3.0, "a filamentous phage", [1, 1, 1]]]}
-{"sent_id": 2, "key_list": [[3.0, "new host cells", [1, 1, 1]], [3.0, "the host cell", [1, 1, 1]], [3.0, "progeny phages", [1, 1, 1]]]}
-{"sent_id": 3, "key_list": [[8.0, "phage recombines", [1, 1, 6]], [5.5, "by re-joining the ends", [1, 0, 5]], [3.0, "the lytic cycle", [1, 1, 1]], [1.5, "its genome", [1, 0, 1]]]}
-{"sent_id": 4, "key_list": [[3.5, "phages", [4, 1, 0]], [3.0, "uninfected cells", [1, 1, 1]], [3.0, "the host", [1, 1, 1]], [1.5, "its resources", [1, 0, 1]]]}
-{"sent_id": 5, "key_list": [[3.5, "various kinds", [1, 0, 3]], [3.0, "host molecules", [1, 1, 1]], [2.5, "membrane proteins", [1, 0, 2]], [1.5, "flagellar proteins", [1, 0, 1]], [0.5, "tolc", [1, 0, 0]], [0.5, "complexes", [1, 0, 0]]]}
-{"sent_id": 6, "key_list": [[3.5, "its pale appearance", [1, 0, 3]], [1.5, "an electron micrograph", [1, 0, 1]], [1.5, "the empty capsid", [1, 0, 1]]]}
-{"sent_id": 7, "key_list": [[2.5, "(fig", [1, 0, 2]], [2.5, "thermal tolerance", [1, 0, 2]], [2.5, "this fungus-plant pair", [1, 0, 2]], [1.5, "heat resistance", [1, 0, 1]], [1.5, "each partner", [1, 0, 1]]]}
-{"sent_id": 8, "key_list": [[3.5, "the joining", [1, 0, 3]], [1.5, "their parts", [1, 0, 1]], [0.5, "components", [1, 0, 0]]]}
-{"sent_id": 9, "key_list": [[7.5, "temperatures", [1, 0, 7]], [4.5, "the vicinity", [1, 0, 4]], [2.5, "yellowstone\u2019s thermal springs", [1, 0, 2]], [1.5, "the plant", [1, 0, 1]], [0.5, "\u00b0", [1, 0, 0]], [0.5, "fungus", [1, 0, 0]]]}
-{"sent_id": 10, "key_list": [[6.5, "curvularia protuberata", [1, 0, 6]], [4.5, "a highly common form", [1, 0, 4]], [3.5, "the vasculature", [1, 0, 3]], [1.5, "chapter", [1, 0, 1]], [1.5, "the grass", [1, 0, 1]], [1.5, "an \u201cendophyte", [1, 0, 1]], [1.5, "dichanthelium lanuginosum", [1, 0, 1]], [1.5, "a panic grass", [1, 0, 1]], [1.5, "a fungus", [1, 0, 1]], [1.5, "a mysterious virus", [1, 0, 1]], [1.5, "redman", [1, 0, 1]], [0.5, "symbiosis", [1, 0, 0]], [0.5, "roossinck", [1, 0, 0]]]}
-{"sent_id": 11, "key_list": [[3.5, "separately, the fungus", [1, 0, 3]], [1.5, "their species", [1, 0, 1]]]}
-{"sent_id": 12, "key_list": [[1.5, "regina redman", [1, 0, 1]]]}
-{"sent_id": 13, "key_list": [[4.5, "exit", [2, 1, 2]], [3.5, "phages", [4, 1, 0]], [1.0, "lysis", [2, 0, 0]]]}
-{"sent_id": 14, "key_list": [[8.0, "the strategy", [1, 1, 6]], [6.0, "a temperate phage", [1, 1, 4]], [4.0, "the slow-release strategy", [1, 1, 2]], [2.0, "lysis", [2, 0, 1]], [1.5, "a virus", [1, 0, 1]]]}
-{"sent_id": 15, "key_list": [[3.5, "exit", [2, 1, 1]], [0.5, "transmission", [1, 0, 0]]]}
-{"sent_id": 16, "key_list": [[3.0, "phage components", [1, 1, 1]]]}
-{"sent_id": 17, "key_list": [[3.5, "phages", [4, 1, 0]], [2.5, "assembly", [1, 0, 2]]]}
-{"sent_id": 18, "key_list": [[3.0, "the cell surface", [1, 1, 1]]]}
-{"sent_id": 19, "key_list": [[2.5, "cell", [2, 1, 0]], [2.0, "phage", [1, 1, 0]], [0.5, "capsids", [1, 0, 0]]]}
-{"sent_id": 20, "key_list": [[2.5, "cell", [2, 1, 0]], [1.5, "capsid proteins", [1, 0, 1]]]}
-{"sent_id": 21, "key_list": [[3.5, "phages", [4, 1, 0]], [1.5, "salmonella receptors", [1, 0, 1]]]}
+{"sent_id": 1, "key_list": [[2.0, "the cell", [1, 1, 0.5]], [2.0, "phage particles", [1, 1, 0.5]], [2.0, "a filamentous phage", [1, 1, 0.5]], [1.833, "the slow-release replication cycle", [1, 1, 0.3333333333333333]]]}
+{"sent_id": 2, "key_list": [[2.0, "new host cells", [1, 1, 0.5]], [2.0, "the host cell", [1, 1, 0.5]], [2.0, "progeny phages", [1, 1, 0.5]]]}
+{"sent_id": 3, "key_list": [[2.0, "host molecules", [1, 1, 0.5]], [1.5, "tolc", [1, 0, 1.0]], [1.5, "complexes", [1, 0, 1.0]], [1.0, "flagellar proteins", [1, 0, 0.5]], [1.0, "ompf", [1, 0, 0.5]], [0.833, "membrane proteins", [1, 0, 0.3333333333333333]], [0.75, "various kinds", [1, 0, 0.25]]]}
+{"sent_id": 4, "key_list": [[3.0, "phage", [2, 1, 1.0]], [2.0, "the lytic cycle", [1, 1, 0.5]], [1.0, "its genome", [1, 0, 0.5]], [0.667, "by re-joining the ends", [1, 0, 0.16666666666666666]]]}
+{"sent_id": 5, "key_list": [[4.0, "phages", [4, 1, 1.0]], [2.0, "uninfected cells", [1, 1, 0.5]], [2.0, "the host", [1, 1, 0.5]], [1.5, "itself", [1, 0, 1.0]], [1.0, "its resources", [1, 0, 0.5]]]}
+{"sent_id": 6, "key_list": [[1.0, "an electron micrograph", [1, 0, 0.5]], [1.0, "the empty capsid", [1, 0, 0.5]], [0.75, "its pale appearance", [1, 0, 0.25]]]}
+{"sent_id": 7, "key_list": [[1.5, "what", [1, 0, 1.0]], [1.0, "heat resistance", [1, 0, 0.5]], [1.0, "each partner", [1, 0, 0.5]], [0.833, "(fig", [1, 0, 0.3333333333333333]], [0.833, "thermal tolerance", [1, 0, 0.3333333333333333]], [0.833, "this fungus-plant pair", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 8, "key_list": [[1.5, "fungus", [1, 0, 1.0]], [1.0, "the plant", [1, 0, 0.5]], [0.833, "yellowstone\u2019s thermal springs", [1, 0, 0.3333333333333333]], [0.833, "temperatures", [1, 0, 0.3333333333333333]], [0.7, "the vicinity", [1, 0, 0.2]]]}
+{"sent_id": 9, "key_list": [[1.0, "their parts", [1, 0, 0.5]], [0.833, "self-assemble\u201d", [1, 0, 0.3333333333333333]], [0.75, "components", [1, 0, 0.25]]]}
+{"sent_id": 10, "key_list": [[1.5, "symbiosis", [1, 0, 1.0]], [1.5, "roossinck", [1, 0, 1.0]], [1.0, "chapter", [1, 0, 0.5]], [1.0, "the grass", [1, 0, 0.5]], [1.0, "dichanthelium lanuginosum", [1, 0, 0.5]], [1.0, "a fungus", [1, 0, 0.5]], [1.0, "a mysterious virus", [1, 0, 0.5]], [1.0, "redman", [1, 0, 0.5]], [0.833, "a panic grass", [1, 0, 0.3333333333333333]], [0.75, "the vasculature", [1, 0, 0.25]], [0.7, "a highly common form", [1, 0, 0.2]], [0.667, "an \u201cendophyte\u201d", [1, 0, 0.16666666666666666]], [0.667, "curvularia protuberata", [1, 0, 0.16666666666666666]]]}
+{"sent_id": 11, "key_list": [[1.0, "their species", [1, 0, 0.5]], [0.75, "separately, the fungus", [1, 0, 0.25]]]}
+{"sent_id": 12, "key_list": [[1.0, "regina redman", [1, 0, 0.5]]]}
+{"sent_id": 13, "key_list": [[3.0, "phages", [4, 0, 1.0]], [2.333, "exit", [2, 1, 0.3333333333333333]], [1.5, "lysis", [1, 0, 1.0]]]}
+{"sent_id": 14, "key_list": [[1.833, "the slow-release strategy", [1, 1, 0.3333333333333333]], [1.75, "lysis and lysogeny? \n\nrelease", [1, 1, 0.25]], [1.643, "a temperate phage", [1, 1, 0.14285714285714285]], [1.611, "the strategy", [1, 1, 0.1111111111111111]], [1.0, "a virus", [1, 0, 0.5]]]}
+{"sent_id": 15, "key_list": [[2.5, "exit", [2, 1, 0.5]], [1.5, "transmission", [1, 0, 1.0]]]}
+{"sent_id": 16, "key_list": [[2.0, "phage components", [1, 1, 0.5]]]}
+{"sent_id": 17, "key_list": [[4.0, "phages", [4, 1, 1.0]], [0.833, "assembly", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 18, "key_list": [[2.0, "the cell surface", [1, 1, 0.5]], [2.0, "the phage capsid", [1, 1, 0.5]]]}
+{"sent_id": 19, "key_list": [[3.0, "phage", [2, 1, 1.0]], [3.0, "cell", [2, 1, 1.0]], [1.5, "capsids", [1, 0, 1.0]]]}
+{"sent_id": 20, "key_list": [[3.0, "cell", [2, 1, 1.0]], [1.0, "capsid proteins", [1, 0, 0.5]]]}
+{"sent_id": 21, "key_list": [[4.0, "phages", [4, 1, 1.0]], [1.0, "salmonella receptors", [1, 0, 0.5]]]}

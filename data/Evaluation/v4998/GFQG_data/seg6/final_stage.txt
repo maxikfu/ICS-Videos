@@ -1,7 +1,7 @@
 Question: ______________ associated with human brain disease are thought to be aberrantly folded forms of a normal brain protein (PrPC).
-a) brain cells
-b) procedures
-c) prions
-d) prpsc aggregates
+a) phage infectivity
+b) scrapie
+c) the prion
+d) prions
 Answer: Prions
 

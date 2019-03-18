@@ -1,7 +1,7 @@
-Question: In this case, Na+ moves back into ______________ down its gradient, and the energy released is tied to the import of an amino acid against its gradient.
-a) the energy
-b) the cell
-c) the cell
-d) the import
-Answer: the cell
+Question: ______________ is called proton motive force.
+a) the growth curve
+b) the inwardly directed proton gradient
+c) opposite one lesser amplitude
+d) gradients
+Answer: The inwardly directed proton gradient
 

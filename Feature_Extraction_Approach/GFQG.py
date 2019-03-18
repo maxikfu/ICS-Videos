@@ -4,7 +4,8 @@ import numpy as np
 import json
 from collections import defaultdict
 
-nlp = spacy.load('en_core_web_sm')
+
+nlp = spacy.load('en_core_web_lg')
 
 
 def is_stop(word):
@@ -14,6 +15,25 @@ def is_stop(word):
     :return: True if it is stop word, False otherwise
     """
     return nlp.vocab[word.lower()].is_stop
+
+
+def distr_extraction(path_to_book):
+    # load tt book
+    try:
+        with open(path_to_book, 'r') as f:
+            raw_book_segs = f.readlines()
+    except IOError:
+        print("Error: Text book is not found.")
+        exit()
+    potential_distractors = set()
+    for book_seg in raw_book_segs:
+        print(json.loads(book_seg)['id'])
+        text = json.loads(book_seg)['text']
+        doc = nlp(text)
+        for noun_phrase in doc.noun_chunks:
+            if not is_stop(noun_phrase.lower_):
+                potential_distractors.add(noun_phrase.lower_)
+    return potential_distractors
 
 
 def min_max_normalize(list_of_scores):
@@ -183,16 +203,13 @@ def key_list_formation(video_seg_id, stage1_results, video_seg_words):
     return output
 
 
-def distractor_selection(video_seg_id, key_phrase, key_list):
+def distractor_selection(video_seg_id, key_phrase, poten_distr):
     subdir = 'GFQG_data/seg' + str(video_seg_id) + '/'
     path_stage3 = subdir + "stage3_distractors.json"
-    list_distractors = []
-    for x in key_list:
-        list_distractors += x['key_list']
-    list_distractors = [x[1] for x in list_distractors]
+    set_distractors = poten_distr
     output = []
     exists = set()
-    for d in list_distractors:
+    for d in set_distractors:
         sim_score = 0
         sim_score += key_phrase.root.similarity(d.root)
         sim_score += key_phrase.similarity(d)

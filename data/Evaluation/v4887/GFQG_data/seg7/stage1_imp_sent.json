@@ -1,12 +1,11 @@
-{"id": 1, "score": 2.5, "relevant": "No", "text": "After the examination, the physician asked the patient to collect a midstream urine sample that would be sent to the lab across town for analysis.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.75, 0.0]}
-{"id": 2, "score": 2.24, "relevant": "No", "text": "Three hours later, a courier service picked up the specimen and transported it to the laboratory.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.62, 0.0]}
-{"id": 3, "score": 2.2, "relevant": "No", "text": "Level 3 procedures plus one-piece positivepressure suits; lab is completely isolated from other areas present in the same building or is in a separate building. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.6, 0.0]}
-{"id": 4, "score": 2.04, "relevant": "No", "text": "Level 2 procedures plus ventilation providing directional airflow into room, exhaust air directed outdoors; restricted access to lab (no unauthorized persons). \n\n", "common_words": 1, "features": [0.05, 0.0, 0, 1, 0.47, 0.0]}
-{"id": 5, "score": 2.0, "relevant": "No", "text": "Dangerous and exotic pathogens with high risk of aerosol transmission; only 11 labs in the United States handle these. \n\n", "common_words": 1, "features": [0.08, 0.0, 0, 1, 0.38, 0.15]}
-{"id": 6, "score": 0.0, "relevant": "No", "text": "\u201d Why was this determination made?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 1.0, 0.0]}
-{"id": 7, "score": 0.0, "relevant": "No", "text": "\u201cgreater than 200,000 CFUs/ml; multiple colony types; sample unsuitable for analysis.", "common_words": 2, "features": [0.2, 0.0, 0, 1, 0.6, 0.0]}
-{"id": 8, "score": 0.0, "relevant": "No", "text": "The next day, the report came back:", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.67, 0.0]}
-{"id": 9, "score": 0.0, "relevant": "No", "text": "The nurse placed the cup on a table at the nurses\u2019 station.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.67, 0.0]}
-{"id": 10, "score": 0.0, "relevant": "No", "text": "The woman complied and handed the collection cup to the nurse.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.67, 0.0]}
-{"id": 11, "score": 0.0, "relevant": "No", "text": "her physician.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 1.0, 0.0]}
-{"id": 12, "score": 0.0, "relevant": "No", "text": "Agents may cause disease by inhalation route. \n\n", "common_words": 1, "features": [0.17, 0.0, 0, 1, 0.67, 0.0]}
+{"id": 1, "score": 2.24, "relevant": "No", "text": "Agents may cause disease by inhalation route. \n\n", "common_words": 1, "features": [0.12, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 2, "score": 2.1, "relevant": "No", "text": "The next day, the report came back: \u201cgreater than 200,000 CFUs/ml; multiple colony types; sample unsuitable for analysis.", "common_words": 2, "features": [0.11, 0.0, 0, 1, 0.44, 0.0]}
+{"id": 3, "score": 1.88, "relevant": "No", "text": "The woman complied and handed the collection cup to the nurse.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.44, 0.0]}
+{"id": 4, "score": 1.85, "relevant": "No", "text": "The nurse placed the cup on a table at the nurses\u2019 station.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.4, 0.1]}
+{"id": 5, "score": 1.84, "relevant": "No", "text": "Level 2 procedures plus ventilation providing directional airflow into room, exhaust air directed outdoors; restricted access to lab (no unauthorized persons). \n\n", "common_words": 1, "features": [0.05, 0.0, 0, 1, 0.36, 0.05]}
+{"id": 6, "score": 1.76, "relevant": "No", "text": "After the examination, the physician asked the patient to collect a midstream urine sample that would be sent to the lab across town for analysis.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.38, 0.0]}
+{"id": 7, "score": 1.68, "relevant": "No", "text": "Level 3 procedures plus one-piece positivepressure suits; lab is completely isolated from other areas present in the same building or is in a separate building. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.04]}
+{"id": 8, "score": 1.66, "relevant": "No", "text": "Three hours later, a courier service picked up the specimen and transported it to the laboratory.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
+{"id": 9, "score": 1.65, "relevant": "No", "text": "Dangerous and exotic pathogens with high risk of aerosol transmission; only 11 labs in the United States handle these. \n\n", "common_words": 1, "features": [0.05, 0.0, 0, 1, 0.25, 0.1]}
+{"id": 10, "score": 0.0, "relevant": "No", "text": "\u201d Why was this determination made?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.2, 0.0]}
+{"id": 11, "score": 0.0, "relevant": "No", "text": "her physician.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}

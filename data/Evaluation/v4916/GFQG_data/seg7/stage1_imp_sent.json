@@ -1,17 +1,14 @@
-{"id": 1, "score": 2.38, "relevant": "No", "text": "Most haloarchaeal proteins are highly acidic, with an exceptional density of negative charges at their surface.", "common_words": 0, "features": [0.0, 0.0, 1, 1, 0.44, 0.0]}
-{"id": 2, "score": 2.24, "relevant": "No", "text": "Methanogens have rigid cell walls of diverse composition in different species, including pseudopeptidoglycan, protein, and sulfated polysaccharides.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.62, 0.0]}
-{"id": 3, "score": 2.16, "relevant": "No", "text": "Methanogens inhabit anaerobic environments such as wetland soil, marine benthic sediment, and animal digestive organs.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.58, 0.0]}
-{"id": 4, "score": 2.08, "relevant": "No", "text": "Species of methanogens show a wide range of different shapes, including rods (single or filamentous), cocci (single or clumped), and spirals.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.54, 0.0]}
-{"id": 5, "score": 2.0, "relevant": "No", "text": "Biochemical pathways of methanogenesis involve transfer of the increasingly reduced carbon to cofactors that are unique to methanogens. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 6, "score": 1.84, "relevant": "No", "text": "Aharon Oren, The order Halobacteriales, The Prokaryotes, Springer-Verlag; the Halorubrum lacusprofundi growth temperature range comes from Ricardo Cavicchioli.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.27, 0.6]}
-{"id": 7, "score": 1.0, "relevant": "No", "text": "This unusual hydration layer keeps the acidic proteins soluble in the high salt within the cytoplasm.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.5, 0.0]}
-{"id": 8, "score": 0.0, "relevant": "No", "text": "The high negative charge maintains a layer", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.4, 0.0]}
+{"id": 1, "score": 1.94, "relevant": "No", "text": "Methanogens inhabit anaerobic environments such as wetland soil, marine benthic sediment, and animal digestive organs.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.47, 0.0]}
+{"id": 2, "score": 1.94, "relevant": "No", "text": "Methanogens have rigid cell walls of diverse composition in different species, including pseudopeptidoglycan, protein, and sulfated polysaccharides.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.47, 0.0]}
+{"id": 3, "score": 1.82, "relevant": "No", "text": "Most haloarchaeal proteins are highly acidic, with an exceptional density of negative charges at their surface.", "common_words": 0, "features": [0.0, 0.0, 1, 1, 0.31, 0.0]}
+{"id": 4, "score": 1.7, "relevant": "No", "text": "Biochemical pathways of methanogenesis involve transfer of the increasingly reduced carbon to cofactors that are unique to methanogens. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.35, 0.0]}
+{"id": 5, "score": 1.66, "relevant": "No", "text": "Species of methanogens show a wide range of different shapes, including rods (single or filamentous), cocci (single or clumped), and spirals.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
+{"id": 6, "score": 1.54, "relevant": "No", "text": "They require association with bacterial species that generate the needed substrates.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.27, 0.0]}
+{"id": 7, "score": 0.78, "relevant": "No", "text": "The high negative charge maintains a layer This unusual hydration layer keeps the acidic proteins soluble in the high salt within the cytoplasm.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.39, 0.0]}
+{"id": 8, "score": 0.72, "relevant": "No", "text": "Sources: Aharon Oren, The order Halobacteriales, The Prokaryotes, Springer-Verlag; the Halorubrum lacusprofundi growth temperature range comes from Ricardo Cavicchioli.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.22, 0.56]}
 {"id": 9, "score": 0.0, "relevant": "No", "text": "Acidic proteins.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 10, "score": 0.0, "relevant": "No", "text": "4:331. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
-{"id": 11, "score": 0.0, "relevant": "No", "text": "Rev. Microbiol.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 1.0]}
-{"id": 12, "score": 0.0, "relevant": "No", "text": "Nat.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 1.0]}
-{"id": 13, "score": 0.0, "relevant": "No", "text": "2006.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
-{"id": 14, "score": 0.0, "relevant": "No", "text": "Sources:", "common_words": 0, "features": [0.0, 0.0, 0, 0, 1.0, 0.0]}
-{"id": 15, "score": 0.0, "relevant": "No", "text": "effortlessly floats with her head up in the highly concentrated brine of the Dead Sea, in Israel. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.2, 0.3]}
-{"id": 16, "score": 0.0, "relevant": "No", "text": "They require association with bacterial species that generate the needed substrates.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.43, 0.0]}
-{"id": 17, "score": 0.0, "relevant": "No", "text": "Methanogens gain energy through redox reactions acetate.", "common_words": 3, "features": [0.5, 0.0, 0, 1, 0.83, 0.0]}
+{"id": 10, "score": 0.0, "relevant": "No", "text": "Rev. Microbiol. 4:331. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.5]}
+{"id": 11, "score": 0.0, "relevant": "No", "text": "Nat.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 1.0]}
+{"id": 12, "score": 0.0, "relevant": "No", "text": "2006.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
+{"id": 13, "score": 0.0, "relevant": "No", "text": "effortlessly floats with her head up in the highly concentrated brine of the Dead Sea, in Israel. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.12, 0.19]}
+{"id": 14, "score": 0.0, "relevant": "No", "text": "Methanogens gain energy through redox reactions acetate.", "common_words": 3, "features": [0.43, 0.0, 0, 1, 0.71, 0.0]}

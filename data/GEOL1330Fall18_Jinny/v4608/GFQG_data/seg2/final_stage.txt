@@ -1,7 +1,7 @@
 Question: Moreover, minerals containing the elements lithium, cesium, uranium, and ______________* are occasionally found .
-a) granitic magmas
-b) heavy metals
-c) the rare earths
-d) rare elements
+a) the copper ores
+b) the rare earths
+c) the slightly larger terrestrial planets
+d) earth
 Answer: the rare earths
 

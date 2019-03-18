@@ -1,14 +1,12 @@
-{"id": 1, "score": 3.44, "relevant": "No", "text": "Caulobacter cells convert from the swimming form to the holdfast form before cell division (see Section 3.5).", "common_words": 2, "features": [0.22, 0.0, 0, 1, 1.0, 0.0]}
-{"id": 2, "score": 3.0, "relevant": "No", "text": "Each cell cycle then produces one sessile cell attached to its substrate by a holdfast, while its sister cell swims off in search of another habitat.", "common_words": 1, "features": [0.09, 0.0, 0, 1, 0.91, 0.0]}
-{"id": 3, "score": 2.16, "relevant": "No", "text": "Many bacteria faced with environmental stress undergo complex molecular reprogramming that includes changes in cell structure.", "common_words": 1, "features": [0.08, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 4, "score": 2.16, "relevant": "No", "text": "However, select species, such as Caulobacter crescentus, undergo elaborate cell differentiation processes.", "common_words": 1, "features": [0.11, 0.0, 0, 1, 0.44, 0.11]}
-{"id": 5, "score": 1.52, "relevant": "No", "text": "The cells are blue, whereas the spores are stain in which spores appear blue-green is shown in of Connecticut figured out how proteins regulate the stages of endospore formation. \n\n", "common_words": 4, "features": [0.27, 0.0, 0, 0, 0.47, 0.07]}
-{"id": 6, "score": 1.08, "relevant": "No", "text": "For example, Dictyostelium discoideum is a seemingly unremarkable ameba that grows as separate, independent cells. \n\n", "common_words": 1, "features": [0.09, 0.0, 0, 0, 0.45, 0.0]}
-{"id": 7, "score": 0.0, "relevant": "No", "text": "separates forespore pumped through septum until each compartment gets a chromosome.", "common_words": 3, "features": [0.43, 0.0, 0, 1, 0.71, 0.0]}
-{"id": 8, "score": 0.0, "relevant": "No", "text": "cell releases spore. \n\n", "common_words": 3, "features": [0.75, 0.0, 0, 1, 0.75, 0.0]}
-{"id": 9, "score": 0.0, "relevant": "No", "text": "extends into an axial filament.", "common_words": 2, "features": [0.67, 0.0, 0, 1, 0.67, 0.0]}
-{"id": 10, "score": 0.0, "relevant": "No", "text": "3 \u00b5m long) are stained with crystal violet.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 11, "score": 0.0, "relevant": "No", "text": "The cells (approx.", "common_words": 1, "features": [0.5, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 12, "score": 0.0, "relevant": "No", "text": "Eukaryotic microbes also have highly complex life cycles.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 13, "score": 0.0, "relevant": "No", "text": "Some species, structure, such as the formation of smaller cells or thicker cell surfaces.", "common_words": 2, "features": [0.29, 0.0, 0, 0, 0.86, 0.0]}
-{"id": 14, "score": 0.0, "relevant": "No", "text": "Can bacteria change shape?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.67, 0.0]}
+{"id": 1, "score": 2.28, "relevant": "No", "text": "Caulobacter cells convert from the swimming form to the holdfast form before cell division (see Section 3.5).", "common_words": 2, "features": [0.14, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 2, "score": 2.04, "relevant": "No", "text": "However, select species, such as Caulobacter crescentus, undergo elaborate cell differentiation processes.", "common_words": 1, "features": [0.08, 0.0, 0, 1, 0.42, 0.08]}
+{"id": 3, "score": 1.9, "relevant": "No", "text": "The cells (approx. 3 \u00b5m long) are stained with crystal violet.", "common_words": 1, "features": [0.09, 0.0, 0, 1, 0.36, 0.0]}
+{"id": 4, "score": 1.88, "relevant": "No", "text": "Many bacteria faced with environmental stress undergo complex molecular reprogramming that includes changes in cell structure.", "common_words": 1, "features": [0.06, 0.0, 0, 1, 0.38, 0.0]}
+{"id": 5, "score": 1.86, "relevant": "No", "text": "Each cell cycle then produces one sessile cell attached to its substrate by a holdfast, while its sister cell swims off in search of another habitat.", "common_words": 1, "features": [0.04, 0.0, 0, 1, 0.39, 0.0]}
+{"id": 6, "score": 1.76, "relevant": "No", "text": "Eukaryotic microbes also have highly complex life cycles.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.38, 0.0]}
+{"id": 7, "score": 1.65, "relevant": "No", "text": "For example, Dictyostelium discoideum is a seemingly unremarkable ameba that grows as separate, independent cells. \n\n", "common_words": 1, "features": [0.06, 0.0, 0, 1, 0.25, 0.06]}
+{"id": 8, "score": 1.22, "relevant": "No", "text": "Some species, structure, such as the formation of smaller cells or thicker cell surfaces.", "common_words": 2, "features": [0.15, 0.0, 0, 0, 0.46, 0.0]}
+{"id": 9, "score": 1.08, "relevant": "No", "text": "The cells are blue, whereas the spores are stain in which spores appear blue-green is shown in of Connecticut figured out how proteins regulate the stages of endospore formation. \n\nextends into an axial filament.", "common_words": 6, "features": [0.21, 0.0, 0, 0, 0.32, 0.04]}
+{"id": 10, "score": 0.0, "relevant": "No", "text": "spore. \n\nseparates forespore pumped through septum until each compartment gets a chromosome.", "common_words": 4, "features": [0.31, 0.0, 0, 1, 0.38, 0.0]}
+{"id": 11, "score": 0.0, "relevant": "No", "text": "cell releases", "common_words": 2, "features": [1.0, 0.0, 0, 1, 1.0, 0.0]}
+{"id": 12, "score": 0.0, "relevant": "No", "text": "Can bacteria change shape?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}

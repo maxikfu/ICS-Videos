@@ -1,51 +1,51 @@
-{"Score": 1.34, "Distractor": "some critics"}
-{"Score": 1.23, "Distractor": "the virions"}
-{"Score": 1.19, "Distractor": "many kinds"}
-{"Score": 1.13, "Distractor": "the integrated viral genome expresses"}
-{"Score": 1.1, "Distractor": "gene transfer vectors"}
-{"Score": 1.1, "Distractor": "the geminiviruses"}
-{"Score": 1.03, "Distractor": "transgenic crops"}
-{"Score": 1.0, "Distractor": "the prevalence"}
-{"Score": 1.0, "Distractor": "an abnormal form"}
-{"Score": 0.97, "Distractor": "the camv promoter"}
-{"Score": 0.96, "Distractor": "the field"}
-{"Score": 0.95, "Distractor": "tumors"}
-{"Score": 0.94, "Distractor": "plasmodesmata"}
-{"Score": 0.92, "Distractor": "a nuclear pore"}
-{"Score": 0.9, "Distractor": "grasshoppers"}
-{"Score": 0.9, "Distractor": "a host protein"}
-{"Score": 0.89, "Distractor": "the cell nucleus"}
-{"Score": 0.89, "Distractor": "the cytoplasm"}
-{"Score": 0.88, "Distractor": "cruciferous vegetables"}
-{"Score": 0.87, "Distractor": "an adjacent cell"}
-{"Score": 0.87, "Distractor": "the seed"}
-{"Score": 0.85, "Distractor": "damaged tissues"}
-{"Score": 0.83, "Distractor": "the evolution"}
-{"Score": 0.83, "Distractor": "the next generation"}
-{"Score": 0.83, "Distractor": "host cell division"}
-{"Score": 0.82, "Distractor": "the gene"}
-{"Score": 0.82, "Distractor": "nonspecific entry"}
-{"Score": 0.81, "Distractor": "aphids"}
-{"Score": 0.8, "Distractor": "beetles"}
-{"Score": 0.8, "Distractor": "insects"}
-{"Score": 0.8, "Distractor": "a host chromosome"}
-{"Score": 0.78, "Distractor": "gene technology"}
-{"Score": 0.78, "Distractor": "the host"}
-{"Score": 0.78, "Distractor": "human papillomavirus"}
-{"Score": 0.77, "Distractor": "nematodes"}
-{"Score": 0.76, "Distractor": "plant biotechnology"}
-{"Score": 0.73, "Distractor": "aphid bite"}
-{"Score": 0.73, "Distractor": "growth"}
-{"Score": 0.7, "Distractor": "pesticide resistance"}
-{"Score": 0.68, "Distractor": "10%"}
-{"Score": 0.68, "Distractor": "reverse transcriptase"}
-{"Score": 0.67, "Distractor": "example"}
-{"Score": 0.66, "Distractor": "an oncogene"}
-{"Score": 0.65, "Distractor": "viruses"}
-{"Score": 0.63, "Distractor": "new dsdna genome"}
-{"Score": 0.6, "Distractor": "cell proliferation"}
-{"Score": 0.59, "Distractor": "contact"}
-{"Score": 0.57, "Distractor": "transcription"}
-{"Score": 0.49, "Distractor": "fig"}
-{"Score": 0.41, "Distractor": "planteating"}
-{"Score": 0.24, "Distractor": "transmission"}
+{"Score": 1.62, "Distractor": "host cell division"}
+{"Score": 1.5, "Distractor": "pesticide resistance"}
+{"Score": 1.5, "Distractor": "plant biotechnology"}
+{"Score": 1.48, "Distractor": "gene technology"}
+{"Score": 1.35, "Distractor": "a host protein"}
+{"Score": 1.29, "Distractor": "aphid bite"}
+{"Score": 1.26, "Distractor": "nonspecific entry"}
+{"Score": 1.26, "Distractor": "a host chromosome"}
+{"Score": 1.25, "Distractor": "transcription"}
+{"Score": 1.25, "Distractor": "an adjacent cell"}
+{"Score": 1.25, "Distractor": "the cell nucleus"}
+{"Score": 1.21, "Distractor": "a nuclear pore"}
+{"Score": 1.2, "Distractor": "tobacco mosaic virus"}
+{"Score": 1.17, "Distractor": "an abnormal form"}
+{"Score": 1.16, "Distractor": "reverse transcriptase"}
+{"Score": 1.16, "Distractor": "the next generation"}
+{"Score": 1.16, "Distractor": "human papillomavirus"}
+{"Score": 1.15, "Distractor": "the host"}
+{"Score": 1.14, "Distractor": "the seed"}
+{"Score": 1.12, "Distractor": "the evolution"}
+{"Score": 1.1, "Distractor": "contact"}
+{"Score": 1.09, "Distractor": "growth"}
+{"Score": 1.07, "Distractor": "the gene"}
+{"Score": 1.06, "Distractor": "the camv promoter"}
+{"Score": 1.06, "Distractor": "the prevalence"}
+{"Score": 1.06, "Distractor": "example"}
+{"Score": 1.05, "Distractor": "the field"}
+{"Score": 1.02, "Distractor": "transmission"}
+{"Score": 0.94, "Distractor": "an oncogene"}
+{"Score": 0.91, "Distractor": "10%"}
+{"Score": 0.9, "Distractor": "the cytoplasm"}
+{"Score": 0.88, "Distractor": "gene transfer vectors"}
+{"Score": 0.76, "Distractor": "planteating"}
+{"Score": 0.73, "Distractor": "new dsdna genome"}
+{"Score": 0.68, "Distractor": "plasmodesmata"}
+{"Score": 0.6, "Distractor": "the camv genome moves"}
+{"Score": 0.57, "Distractor": "some critics"}
+{"Score": 0.52, "Distractor": "fig"}
+{"Score": 0.52, "Distractor": "insects"}
+{"Score": 0.5, "Distractor": "cruciferous vegetables"}
+{"Score": 0.47, "Distractor": "damaged tissues"}
+{"Score": 0.47, "Distractor": "the integrated viral genome expresses"}
+{"Score": 0.44, "Distractor": "beetles"}
+{"Score": 0.43, "Distractor": "transgenic crops"}
+{"Score": 0.42, "Distractor": "aphids"}
+{"Score": 0.4, "Distractor": "virions"}
+{"Score": 0.38, "Distractor": "many kinds"}
+{"Score": 0.34, "Distractor": "tumors"}
+{"Score": 0.33, "Distractor": "the geminiviruses"}
+{"Score": 0.23, "Distractor": "grasshoppers"}
+{"Score": 0.1, "Distractor": "nematodes"}

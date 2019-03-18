@@ -1,15 +1,13 @@
-{"id": 1, "score": 3.0, "relevant": "No", "text": "The peptide contains two amino acids in the unusual amino acid, m-diaminopimelic acid, has an extra amine group, which forms an amide link to a cross-bridged peptide.", "common_words": 2, "features": [0.13, 0.0, 0, 1, 0.87, 0.0]}
-{"id": 2, "score": 2.78, "relevant": "No", "text": "The cross-linked peptides of neighboring glycan strands form the cage of the sacculus.", "common_words": 2, "features": [0.22, 0.0, 0, 1, 0.67, 0.0]}
-{"id": 3, "score": 2.74, "relevant": "No", "text": "The amide link forms with the fourth amino acid of end of the chain.", "common_words": 1, "features": [0.12, 0.0, 0, 1, 0.75, 0.0]}
-{"id": 4, "score": 2.64, "relevant": "No", "text": "Nevertheless, a few prokaryotes, such as the mycoplasmas, have a cell membrane with no outer layers, depending on host fluids for osmotic balance.", "common_words": 1, "features": [0.09, 0.0, 0, 1, 0.73, 0.0]}
-{"id": 5, "score": 2.48, "relevant": "No", "text": "The peptide extension can form crossbridges connecting parallel strands of glycan.", "common_words": 1, "features": [0.12, 0.0, 0, 1, 0.62, 0.0]}
-{"id": 6, "score": 2.24, "relevant": "No", "text": "Many species possess additional coverings, such as an outer membrane or an S-layer.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.62, 0.0]}
-{"id": 7, "score": 1.84, "relevant": "No", "text": "Archaeal membranes have ether-linked terpenoids, which confer increased stability at high temperature and extreme acidity.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.42, 0.0]}
-{"id": 8, "score": 0.9, "relevant": "No", "text": "Some archaea with only a cell membrane grow in extreme acid (pH zero); how they survive is unknown. \n\n", "common_words": 2, "features": [0.18, 0.0, 0, 0, 0.27, 0.0]}
-{"id": 9, "score": 0.0, "relevant": "No", "text": "lactate group of muramic acid forms an amide link with the amino terminus of a short peptide containing four to six amino acid residues.", "common_words": 2, "features": [0.15, 0.0, 0, 1, 0.77, 0.0]}
-{"id": 10, "score": 0.0, "relevant": "No", "text": "Terminal D-alanine was released. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.4, 0.2]}
-{"id": 11, "score": 0.0, "relevant": "No", "text": "Ala and blocks cross-bridge formation. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.17]}
-{"id": 12, "score": 0.0, "relevant": "No", "text": "D-Ala-D-", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.5]}
-{"id": 13, "score": 0.0, "relevant": "No", "text": "3.1).", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.0]}
-{"id": 14, "score": 0.0, "relevant": "No", "text": "structural support is the cell wall (see Fig.", "common_words": 3, "features": [0.6, 0.0, 0, 1, 0.6, 0.2]}
-{"id": 15, "score": 0.0, "relevant": "No", "text": "Some archaea have diglycerol tetraethers, which form a monolayer. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.67, 0.0]}
+{"id": 1, "score": 2.46, "relevant": "No", "text": "The cross-linked peptides of neighboring glycan strands form the cage of the sacculus.", "common_words": 2, "features": [0.18, 0.0, 0, 1, 0.55, 0.0]}
+{"id": 2, "score": 2.46, "relevant": "No", "text": "The amide link forms with the fourth amino acid of end of the chain.", "common_words": 1, "features": [0.09, 0.0, 0, 1, 0.64, 0.0]}
+{"id": 3, "score": 2.22, "relevant": "No", "text": "The peptide contains two amino acids in the unusual amino acid, m-diaminopimelic acid, has an extra amine group, which forms an amide link to a cross-bridged peptide.", "common_words": 2, "features": [0.09, 0.0, 0, 1, 0.52, 0.0]}
+{"id": 4, "score": 2.19, "relevant": "No", "text": "D-Ala-D-Ala and blocks cross-bridge formation. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.38]}
+{"id": 5, "score": 2.08, "relevant": "No", "text": "The peptide extension can form crossbridges connecting parallel strands of glycan.", "common_words": 1, "features": [0.09, 0.0, 0, 1, 0.45, 0.0]}
+{"id": 6, "score": 1.82, "relevant": "No", "text": "Nevertheless, a few prokaryotes, such as the mycoplasmas, have a cell membrane with no outer layers, depending on host fluids for osmotic balance.", "common_words": 1, "features": [0.05, 0.0, 0, 1, 0.36, 0.0]}
+{"id": 7, "score": 1.76, "relevant": "No", "text": "Many species possess additional coverings, such as an outer membrane or an S-layer.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.38, 0.0]}
+{"id": 8, "score": 1.76, "relevant": "No", "text": "Archaeal membranes have ether-linked terpenoids, which confer increased stability at high temperature and extreme acidity.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.38, 0.0]}
+{"id": 9, "score": 0.8, "relevant": "No", "text": "Some archaea have diglycerol tetraethers, which form a monolayer. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.4, 0.0]}
+{"id": 10, "score": 0.57, "relevant": "No", "text": "Some archaea with only a cell membrane grow in extreme acid (pH zero); how they survive is unknown. \n\n", "common_words": 2, "features": [0.11, 0.0, 0, 0, 0.16, 0.05]}
+{"id": 11, "score": 0.0, "relevant": "No", "text": "lactate group of muramic acid forms an amide link with the amino terminus of a short peptide containing four to six amino acid residues.", "common_words": 2, "features": [0.1, 0.0, 0, 1, 0.48, 0.0]}
+{"id": 12, "score": 0.0, "relevant": "No", "text": "Terminal D-alanine was released. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.0, 0.5]}
+{"id": 13, "score": 0.0, "relevant": "No", "text": "structural support is the cell wall (see Fig. 3.1).", "common_words": 3, "features": [0.33, 0.0, 0, 1, 0.33, 0.11]}

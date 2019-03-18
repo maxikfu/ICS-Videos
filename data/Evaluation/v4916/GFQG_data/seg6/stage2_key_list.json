@@ -1,11 +1,9 @@
-{"sent_id": 1, "key_list": [[3.5, "cell components", [1, 0, 3]], [3.0, "specific energy carriers", [1, 1, 1]], [1.5, "amino acids", [1, 0, 1]], [0.5, "lipids", [1, 0, 0]]]}
-{"sent_id": 2, "key_list": [[6.5, "its extra phosphate", [1, 0, 6]], [3.5, "the 2\u2032 carbon", [1, 0, 3]], [2.5, "the amount", [1, 0, 2]], [2.0, "energy", [1, 1, 0]], [1.5, "adenine nucleotide", [1, 0, 1]]]}
-{"sent_id": 3, "key_list": [[3.0, "energy input", [1, 1, 1]], [3.0, "the reaction", [1, 1, 1]], [3.0, "two electrons", [1, 1, 1]], [0.5, "example", [1, 0, 0]]]}
-{"sent_id": 4, "key_list": [[4.0, "electron transport", [1, 1, 2]], [3.5, "reduction potentials", [1, 0, 3]], [2.0, "chapter", [2, 0, 1]], [1.5, "proton motive force", [1, 0, 1]]]}
-{"sent_id": 5, "key_list": [[1.5, "regulation", [1, 0, 1]], [0.5, "specificity", [1, 0, 0]]]}
-{"sent_id": 6, "key_list": [[1.5, "some other enzymes", [1, 0, 1]]]}
-{"sent_id": 7, "key_list": [[4.0, "other energy carriers", [1, 1, 2]]]}
-{"sent_id": 8, "key_list": [[2.5, "the \u201ctower", [1, 0, 2]], [1.5, "table", [1, 0, 1]], [1.5, "examples", [1, 0, 1]], [0.5, "power", [1, 0, 0]]]}
-{"sent_id": 9, "key_list": [[6.5, "a series", [1, 0, 6]], [6.0, "electron carrier molecules", [1, 1, 4]], [4.0, "the electron transport chain", [1, 1, 2]], [3.0, "its electrons", [1, 1, 1]], [2.5, "electricity", [1, 0, 2]], [2.0, "chapter", [2, 0, 1]], [0.5, "como", [1, 0, 0]]]}
-{"sent_id": 10, "key_list": [[2.0, "electrons", [1, 1, 0]]]}
-{"sent_id": 11, "key_list": [[3.0, "higher energy", [1, 1, 1]], [1.5, "heteroaromatic ring", [1, 0, 1]]]}
+{"sent_id": 1, "key_list": [[2.0, "specific energy carriers", [1, 1, 0.5]], [1.5, "lipids", [1, 0, 1.0]], [1.0, "amino acids", [1, 0, 0.5]], [0.75, "cell components", [1, 0, 0.25]]]}
+{"sent_id": 2, "key_list": [[2.5, "energy", [1, 1, 1.0]], [1.0, "adenine nucleotide", [1, 0, 0.5]], [0.833, "the amount", [1, 0, 0.3333333333333333]], [0.75, "the 2\u2032 carbon", [1, 0, 0.25]]]}
+{"sent_id": 3, "key_list": [[2.0, "the reaction", [1, 1, 0.5]], [2.0, "two electrons", [1, 1, 0.5]], [1.833, "electron transport", [1, 1, 0.3333333333333333]], [1.75, "energy input. \n\nreduction potentials", [1, 1, 0.25]], [1.5, "example", [1, 0, 1.0]], [1.333, "chapter", [2, 0, 0.3333333333333333]], [1.0, "proton motive force", [1, 0, 0.5]]]}
+{"sent_id": 4, "key_list": [[1.5, "power", [1, 0, 1.0]], [1.0, "table", [1, 0, 0.5]], [1.0, "examples", [1, 0, 0.5]], [0.833, "the \u201ctower", [1, 0, 0.3333333333333333]], [0.75, "\u201d", [1, 0, 0.25]]]}
+{"sent_id": 5, "key_list": [[1.5, "specificity", [1, 0, 1.0]], [1.0, "some other enzymes", [1, 0, 0.5]], [0.833, "the other. \n\nregulation", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 6, "key_list": [[3.0, "electrons", [2, 1, 1.0]], [1.833, "other energy carriers", [1, 1, 0.3333333333333333]]]}
+{"sent_id": 7, "key_list": [[2.0, "its electrons", [1, 1, 0.5]], [1.833, "electron carrier molecules", [1, 1, 0.3333333333333333]], [1.5, "chapter", [2, 0, 0.5]], [1.5, "como", [1, 0, 1.0]], [1.5, "electricity", [1, 0, 1.0]], [0.7, "a series", [1, 0, 0.2]]]}
+{"sent_id": 8, "key_list": [[3.0, "electrons", [2, 1, 1.0]]]}
+{"sent_id": 9, "key_list": [[2.0, "higher energy", [1, 1, 0.5]], [1.0, "heteroaromatic ring", [1, 0, 0.5]]]}

@@ -1,23 +1,22 @@
-{"sent_id": 1, "key_list": [[5.0, "the basal cells transcription", [1, 1, 3]], [3.5, "host polymerases", [2, 1, 1]], [3.0, "viral replication", [1, 1, 1]]]}
-{"sent_id": 2, "key_list": [[3.5, "the cytoplasm", [5, 0, 1]], [3.5, "host ribosomes", [2, 1, 1]], [3.0, "the capsids", [1, 1, 1]], [3.0, "capsid proteins", [1, 1, 1]]]}
-{"sent_id": 3, "key_list": [[5.0, "translation", [1, 1, 3]], [3.5, "the cytoplasm", [5, 0, 1]], [3.0, "the nuclear pores", [1, 1, 1]], [1.5, "the mrna transcripts", [1, 0, 1]]]}
-{"sent_id": 4, "key_list": [[4.0, "endocytosis", [2, 0, 3]], [2.5, "low-ph induction", [1, 0, 2]], [2.5, "the role", [1, 0, 2]], [1.5, "the rhinovirus", [1, 0, 1]], [1.5, "no endocytosis", [1, 0, 1]], [1.0, "endocytosis", [2, 0, 0]], [0.5, "poliovirus", [1, 0, 0]]]}
-{"sent_id": 5, "key_list": [[3.0, "the cell membrane", [1, 1, 1]], [2.0, "virions", [1, 1, 0]]]}
-{"sent_id": 6, "key_list": [[3.5, "increased expression", [1, 0, 3]], [2.5, "cancer-causing genes", [1, 0, 2]], [2.5, "cells", [2, 1, 0]], [1.5, "viral oncogenes", [1, 0, 1]], [1.0, "cancer", [2, 0, 0]]]}
-{"sent_id": 7, "key_list": [[4.5, "greater detail", [1, 0, 4]], [4.0, "the poliovirus replication cycle", [1, 1, 2]]]}
-{"sent_id": 8, "key_list": [[7.0, "virus-induced vesicles", [1, 1, 5]], [6.0, "replication complexes", [1, 1, 4]], [3.5, "a template", [1, 0, 3]], [3.5, "host ribosomes", [2, 1, 1]], [1.5, "the endoplasmic reticulum", [1, 0, 1]]]}
-{"sent_id": 9, "key_list": []}
-{"sent_id": 10, "key_list": [[5.0, "any the cell membrane", [1, 1, 3]], [3.5, "its genome", [2, 1, 1]], [3.5, "the cytoplasm", [5, 0, 1]], [3.5, "the cytoplasm", [5, 0, 1]], [3.0, "a cell", [1, 1, 1]], [3.0, "the virus", [1, 1, 1]], [1.5, "a bacteriophage", [1, 0, 1]], [0.5, "fig", [1, 0, 0]]]}
-{"sent_id": 11, "key_list": [[2.5, "the most common strains", [1, 0, 2]], [1.5, "the gardasil vaccine", [1, 0, 1]]]}
-{"sent_id": 12, "key_list": [[4.5, "the expression", [1, 0, 4]], [4.0, "host tumor suppressor", [1, 1, 2]], [1.5, "the oncogenes", [1, 0, 1]]]}
-{"sent_id": 13, "key_list": [[3.0, "cancer cells", [1, 1, 1]], [3.0, "host cells", [1, 1, 1]], [3.0, "the integrated genome", [1, 1, 1]]]}
-{"sent_id": 14, "key_list": [[12.5, "the exception", [1, 0, 12]], [10.5, "poxviruses", [1, 0, 10]], [7.5, "the an alternative pathway", [1, 0, 7]], [3.5, "its genome", [2, 1, 1]], [3.0, "the host", [1, 1, 1]]]}
-{"sent_id": 15, "key_list": [[6.0, "the nucleus", [2, 0, 5]], [5.0, "assembly", [1, 1, 3]], [3.0, "the virion", [1, 1, 1]], [3.0, "the translated capsid proteins", [1, 1, 1]]]}
-{"sent_id": 16, "key_list": [[3.5, "host polymerases", [2, 1, 1]], [2.0, "transcription", [1, 1, 0]]]}
-{"sent_id": 17, "key_list": [[5.5, "the cytoplasm", [5, 0, 3]], [3.0, "the protein coat", [1, 1, 1]], [2.0, "virus", [1, 1, 0]]]}
-{"sent_id": 18, "key_list": [[5.0, "epithelial cells release virions", [1, 1, 3]]]}
-{"sent_id": 19, "key_list": [[2.5, "cells", [2, 1, 0]], [2.0, "genome", [1, 1, 0]], [1.0, "cancer", [2, 0, 0]]]}
-{"sent_id": 20, "key_list": [[3.0, "virus replication", [1, 1, 1]]]}
-{"sent_id": 21, "key_list": []}
-{"sent_id": 22, "key_list": [[6.0, "host transcription factors", [1, 1, 4]], [5.5, "packing", [1, 0, 5]], [2.0, "the nucleus", [2, 0, 1]]]}
-{"sent_id": 23, "key_list": [[1.5, "endosome membrane", [1, 0, 1]], [1.5, "viral envelope", [1, 0, 1]]]}
+{"sent_id": 1, "key_list": [[2.0, "cancer cells", [1, 1, 0.5]], [2.0, "host cells", [1, 1, 0.5]], [2.0, "the integrated genome", [1, 1, 0.5]]]}
+{"sent_id": 2, "key_list": [[2.5, "host polymerases", [2, 1, 0.5]], [2.0, "viral replication", [1, 1, 0.5]], [1.75, "the basal cells transcription", [1, 1, 0.25]]]}
+{"sent_id": 3, "key_list": [[2.5, "host polymerases", [2, 1, 0.5]], [2.5, "transcription", [1, 1, 1.0]]]}
+{"sent_id": 4, "key_list": [[2.0, "the virion", [1, 1, 0.5]], [2.0, "the translated capsid proteins", [1, 1, 0.5]], [1.75, "assembly", [1, 1, 0.25]], [1.167, "the nucleus", [2, 0, 0.16666666666666666]]]}
+{"sent_id": 5, "key_list": [[3.0, "the cytoplasm", [5, 0, 0.5]], [2.0, "the capsids", [1, 1, 0.5]], [2.0, "host ribosomes", [1, 1, 0.5]], [2.0, "capsid proteins", [1, 1, 0.5]]]}
+{"sent_id": 6, "key_list": [[1.833, "host tumor suppressor", [1, 1, 0.3333333333333333]], [1.5, "others", [1, 0, 1.0]], [1.0, "the oncogenes", [1, 0, 0.5]], [0.7, "the expression", [1, 0, 0.2]]]}
+{"sent_id": 7, "key_list": [[3.0, "the cytoplasm", [5, 0, 0.5]], [3.0, "host", [2, 1, 1.0]], [2.0, "the nuclear pores", [1, 1, 0.5]], [1.75, "translation", [1, 1, 0.25]], [1.0, "the mrna transcripts", [1, 0, 0.5]]]}
+{"sent_id": 8, "key_list": [[2.0, "the rhinovirus genome", [1, 1, 0.5]], [2.0, "endocytosis", [2, 0, 1.0]], [1.5, "poliovirus", [1, 0, 1.0]], [1.25, "endocytosis", [2, 0, 0.25]], [1.0, "no endocytosis", [1, 0, 0.5]], [0.833, "low-ph induction", [1, 0, 0.3333333333333333]], [0.833, "the role", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 9, "key_list": [[2.0, "the poliovirus replication cycle", [1, 1, 0.5]], [1.5, "etopic", [2, 0, 0.5]], [0.75, "greater detail", [1, 0, 0.25]]]}
+{"sent_id": 10, "key_list": [[3.0, "cells", [2, 1, 1.0]], [2.0, "cancer", [2, 0, 1.0]], [1.5, "etopic", [2, 0, 0.5]], [0.833, "cancer-causing genes", [1, 0, 0.3333333333333333]], [0.75, "viral oncogenes", [1, 0, 0.25]], [0.667, "increased expression", [1, 0, 0.16666666666666666]]]}
+{"sent_id": 11, "key_list": [[2.5, "virions", [1, 1, 1.0]], [2.0, "the cell membrane", [1, 1, 0.5]], [1.5, "them", [1, 0, 1.0]], [0.75, "lysosomes", [1, 0, 0.25]]]}
+{"sent_id": 12, "key_list": [[1.0, "the gardasil vaccine", [1, 0, 0.5]], [0.833, "the most common strains", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 13, "key_list": [[3.0, "host", [2, 1, 1.0]], [2.0, "replication complexes", [1, 1, 0.5]], [1.7, "virus-induced vesicles", [1, 1, 0.2]], [1.0, "the endoplasmic reticulum", [1, 0, 0.5]], [0.75, "a template", [1, 0, 0.25]]]}
+{"sent_id": 14, "key_list": []}
+{"sent_id": 15, "key_list": [[3.0, "the cytoplasm", [5, 0, 0.5]], [3.0, "the cytoplasm", [5, 0, 0.5]], [2.5, "its genome", [2, 1, 0.5]], [2.0, "a cell", [1, 1, 0.5]], [2.0, "the virus", [1, 1, 0.5]], [1.75, "any the cell membrane", [1, 1, 0.25]], [1.5, "fig", [1, 0, 1.0]], [1.0, "a bacteriophage", [1, 0, 0.5]]]}
+{"sent_id": 16, "key_list": [[2.5, "its genome", [2, 1, 0.5]], [1.75, "the host", [1, 1, 0.25]], [1.5, "phage", [1, 0, 1.0]], [0.6, "the an alternative pathway", [1, 0, 0.1]], [0.577, "poxviruses", [1, 0, 0.07692307692307693]], [0.567, "the exception", [1, 0, 0.06666666666666667]]]}
+{"sent_id": 17, "key_list": [[2.75, "the cytoplasm", [5, 0, 0.25]], [2.5, "virus", [1, 1, 1.0]], [2.0, "the protein coat", [1, 1, 0.5]]]}
+{"sent_id": 18, "key_list": [[1.75, "only shedding epithelial cells release virions", [1, 1, 0.25]]]}
+{"sent_id": 19, "key_list": [[3.0, "cells", [2, 1, 1.0]], [2.5, "genome", [1, 1, 1.0]], [2.0, "cancer", [2, 0, 1.0]]]}
+{"sent_id": 20, "key_list": [[2.0, "virus replication", [1, 1, 0.5]], [1.5, "keratinocytes", [1, 0, 1.0]]]}
+{"sent_id": 21, "key_list": [[1.7, "host transcription factors", [1, 1, 0.2]], [1.5, "the nucleus", [2, 0, 0.5]], [0.667, "packing", [1, 0, 0.16666666666666666]]]}
+{"sent_id": 22, "key_list": [[1.0, "endosome membrane", [1, 0, 0.5]], [0.75, "viral envelope fuses", [1, 0, 0.25]]]}

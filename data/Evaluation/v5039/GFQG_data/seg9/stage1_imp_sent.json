@@ -1,6 +1,6 @@
-{"id": 1, "score": 2.2, "relevant": "No", "text": "The cell assimilates carbon and nitrogen into small molecules and then assembles more complex structures using many enzymes.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.6, 0.0]}
-{"id": 2, "score": 2.1, "relevant": "No", "text": "New genomes reveal new microbial capacities for biosynthesis, ranging from antibiotics and pesticides to surgical materials.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.55, 0.0]}
-{"id": 3, "score": 1.2, "relevant": "No", "text": "Some bacteria and archaea build themselves entirely from carbon dioxide and nitrogen gas, plus a few salts.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.6, 0.0]}
-{"id": 4, "score": 0.0, "relevant": "No", "text": "How do bacteria avoid wasting energy on excess production?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 5, "score": 0.0, "relevant": "No", "text": "How do cells organize their biosynthesis to build precisely the forms they need?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.43, 0.0]}
-{"id": 6, "score": 0.0, "relevant": "No", "text": "ow do microbes build their cells?", "common_words": 1, "features": [0.25, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 1, "score": 1.8, "relevant": "No", "text": "New genomes reveal new microbial capacities for biosynthesis, ranging from antibiotics and pesticides to surgical materials.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.4, 0.0]}
+{"id": 2, "score": 1.7, "relevant": "No", "text": "The cell assimilates carbon and nitrogen into small molecules and then assembles more complex structures using many enzymes.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.35, 0.0]}
+{"id": 3, "score": 0.88, "relevant": "No", "text": "Some bacteria and archaea build themselves entirely from carbon dioxide and nitrogen gas, plus a few salts.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.44, 0.0]}
+{"id": 4, "score": 0.0, "relevant": "No", "text": "How do bacteria avoid wasting energy on excess production?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
+{"id": 5, "score": 0.0, "relevant": "No", "text": "How do cells organize their biosynthesis to build precisely the forms they need?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.25, 0.0]}
+{"id": 6, "score": 0.0, "relevant": "No", "text": "ow do microbes build their cells?", "common_words": 1, "features": [0.17, 0.0, 0, 1, 0.33, 0.0]}

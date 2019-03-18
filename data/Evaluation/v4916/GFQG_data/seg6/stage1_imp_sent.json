@@ -1,11 +1,9 @@
-{"id": 1, "score": 3.0, "relevant": "No", "text": "Specific energy carriers can of cell components such as amino acids and lipids.", "common_words": 2, "features": [0.25, 0.0, 0, 1, 0.75, 0.0]}
-{"id": 2, "score": 2.4, "relevant": "No", "text": "Different its extra phosphate attached to the 2\u2032 carbon of adenine nucleotide; the amount of energy carried is the same.", "common_words": 1, "features": [0.1, 0.0, 0, 1, 0.6, 0.0]}
-{"id": 3, "score": 2.0, "relevant": "No", "text": "For example, adding two electrons that the reaction requires energy input. \n\n", "common_words": 3, "features": [0.38, 0.0, 0, 0, 0.62, 0.0]}
-{"id": 4, "score": 1.64, "relevant": "No", "text": "Reduction potentials, electron transport, and proton motive force are discussed further in Chapter 14. \n\n", "common_words": 1, "features": [0.09, 0.0, 0, 0, 0.73, 0.0]}
-{"id": 5, "score": 0.0, "relevant": "No", "text": "Regulation and specificity.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 1.0, 0.0]}
-{"id": 6, "score": 0.0, "relevant": "No", "text": "Some other enzymes use only one or the other. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.33, 0.0]}
-{"id": 7, "score": 0.0, "relevant": "Yes", "text": "Other energy carriers that transfer electrons.", "common_words": 4, "features": [1.0, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 8, "score": 0.0, "relevant": "No", "text": "Examples of are shown in the \u201ctower of power\u201d in Table 13.4.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.5, 0.17]}
-{"id": 9, "score": 0.0, "relevant": "No", "text": "transfer its electrons to one of a series of electron carrier molecules known as also called the electron transport chain be used to generate electricity for comO in Chapter 14).", "common_words": 4, "features": [0.29, 0.0, 0, 0, 0.79, 0.0]}
-{"id": 10, "score": 0.0, "relevant": "No", "text": "accepts electrons.", "common_words": 1, "features": [0.5, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 11, "score": 0.0, "relevant": "No", "text": "Heteroaromatic ring has higher energy.", "common_words": 1, "features": [0.25, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 1, "score": 2.22, "relevant": "No", "text": "Specific energy carriers can of cell components such as amino acids and lipids.", "common_words": 2, "features": [0.15, 0.0, 0, 1, 0.46, 0.0]}
+{"id": 2, "score": 1.82, "relevant": "No", "text": "Different its extra phosphate attached to the 2\u2032 carbon of adenine nucleotide; the amount of energy carried is the same.", "common_words": 1, "features": [0.06, 0.0, 0, 1, 0.35, 0.0]}
+{"id": 3, "score": 1.22, "relevant": "No", "text": "For example, adding two electrons that the reaction requires energy input. \n\nReduction potentials, electron transport, and proton motive force are discussed further in Chapter 14. \n\n", "common_words": 3, "features": [0.12, 0.0, 0, 0, 0.48, 0.04]}
+{"id": 4, "score": 1.0, "relevant": "No", "text": "Examples of are shown in the \u201ctower of power\u201d in Table 13.4.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.5, 0.0]}
+{"id": 5, "score": 0.38, "relevant": "No", "text": "Some other enzymes use only one or the other. \n\nRegulation and specificity.", "common_words": 0, "features": [0.0, 0.0, 0, 0, 0.17, 0.08]}
+{"id": 6, "score": 0.0, "relevant": "Yes", "text": "Other energy carriers that transfer electrons.", "common_words": 4, "features": [0.67, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 7, "score": 0.0, "relevant": "No", "text": "transfer its electrons to one of a series of electron carrier molecules known as also called the electron transport chain be used to generate electricity for comO in Chapter 14).", "common_words": 4, "features": [0.15, 0.0, 0, 0, 0.42, 0.0]}
+{"id": 8, "score": 0.0, "relevant": "No", "text": "accepts electrons.", "common_words": 1, "features": [0.5, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 9, "score": 0.0, "relevant": "No", "text": "Heteroaromatic ring has higher energy.", "common_words": 1, "features": [0.2, 0.0, 0, 1, 0.4, 0.0]}

@@ -1,7 +1,7 @@
-Question: ______________, and outer membrane constitute the Gramnegative cell envelope.
-a) the inner membrane, cell wall
-b) a helical protein filament
-c) the cell wall
-d) the resulting turgor pressure
-Answer: The inner membrane, cell wall
+Question: ______________, cell wall, and outer membrane constitute the Gramnegative cell envelope.
+a) inner membrane insertion
+b) the inner membrane
+c) the other hydrophobic
+d) their granule membranes
+Answer: The inner membrane
 
