@@ -1,7 +1,7 @@
 Question: These rocky materials were rich in oxygen and “oxygen-seeking” elements, particularly silicon and aluminum, along with lesser amounts of calcium, sodium, potassium, iron, and ______________.
 a) calcium
-b) magnesium
+b) potassium
 c) zinc
-d) potassium
+d) magnesium
 Answer: magnesium
 

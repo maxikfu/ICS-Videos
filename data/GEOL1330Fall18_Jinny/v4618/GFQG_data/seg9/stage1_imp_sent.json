@@ -1,2 +1,2 @@
-{"id": 1, "score": 2.32, "relevant": "No", "text": "Vesicles are small holes left by escaping gas bubbles.", "common_words": 2, "features": [0.22, 0.0, 0, 1, 0.44, 0.0]}
-{"id": 2, "score": 2.04, "relevant": "No", "text": "Common vesicular rocks Scoria and pumice are volcanic rocks that exhibit a vesicular texture.", "common_words": 3, "features": [0.25, 0.0, 0, 1, 0.25, 0.08]}
+{"id": 1, "score": 2.32, "relevant": "1", "text": "Vesicles are small holes left by escaping gas bubbles.", "common_words": 2, "features": [0.22, 0.0, 0, 1, 0.44, 0.0]}
+{"id": 2, "score": 2.04, "relevant": "1", "text": "Common vesicular rocks Scoria and pumice are volcanic rocks that exhibit a vesicular texture.", "common_words": 3, "features": [0.25, 0.0, 0, 1, 0.25, 0.08]}

@@ -1,7 +1,7 @@
 Question: ______________ is called proton motive force.
-a) the growth curve
+a) the optical density
 b) the inwardly directed proton gradient
-c) opposite one lesser amplitude
-d) gradients
+c) the standard curve
+d) steep temperature gradients
 Answer: The inwardly directed proton gradient
 

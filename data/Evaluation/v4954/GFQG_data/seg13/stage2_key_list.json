@@ -1,8 +1,0 @@
-{"sent_id": 1, "key_list": [[2.5, "the s-layer", [2, 1, 0.5]], [2.0, "a cell wall", [1, 1, 0.5]], [1.5, "archaea", [1, 0, 1.0]], [0.75, "the structural function", [1, 0, 0.25]]]}
-{"sent_id": 2, "key_list": [[2.5, "peptidoglycan", [1, 1, 1.0]], [2.0, "teichoic acids", [1, 1, 0.5]], [1.833, "the gram-positive cell envelope", [1, 1, 0.3333333333333333]], [1.7, "multiple layers", [1, 1, 0.2]]]}
-{"sent_id": 3, "key_list": [[2.5, "the cell wall", [2, 1, 0.5]], [2.0, "the cell", [1, 1, 0.5]], [1.2, "turgor pressure", [2, 0, 0.2]], [1.0, "osmotic shock", [1, 0, 0.5]], [1.0, "covalent bonds", [1, 0, 0.5]], [0.75, "its network", [1, 0, 0.25]]]}
-{"sent_id": 4, "key_list": [[2.333, "the s-layer", [2, 1, 0.3333333333333333]], [2.25, "cells", [2, 1, 0.25]], [1.5, "proteins", [1, 0, 1.0]], [1.0, "extreme environments", [1, 0, 0.5]], [0.667, "phagocytosis", [1, 0, 0.16666666666666666]]]}
-{"sent_id": 5, "key_list": [[1.0, "the rod shape", [1, 0, 0.5]], [0.833, "a membrane-specific fluorophore", [1, 0, 0.3333333333333333]], [0.833, "the inner curve", [1, 0, 0.3333333333333333]], [0.7, ", polymerizes", [1, 0, 0.2]]]}
-{"sent_id": 6, "key_list": [[3.0, "cells", [2, 1, 1.0]], [2.5, "bacteria", [1, 1, 1.0]], [1.0, "other species", [1, 0, 0.5]], [0.833, "the shapes", [1, 0, 0.3333333333333333]], [0.7, "their variants", [1, 0, 0.2]], [0.667, "these cytoskeletal proteins", [1, 0, 0.16666666666666666]]]}
-{"sent_id": 7, "key_list": [[2.5, "the cell wall", [2, 1, 0.5]], [1.5, "turgor pressure", [2, 0, 0.5]]]}
-{"sent_id": 8, "key_list": [[2.0, "cell wall", [1, 1, 0.5]], [0.75, "strands", [1, 0, 0.25]]]}

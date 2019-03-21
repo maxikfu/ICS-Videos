@@ -1,7 +1,7 @@
 Question: Viral replication is largely inhibited until the basal cells transcription by ______________.
-a) host macromolecules
+a) the 3′-to-5′ exonuclease
 b) host polymerases
-c) fluorescence taq polymerase
-d) the 3′-to-5′ exonuclease
+c) host kinases
+d) polymerase
 Answer: host polymerases
 

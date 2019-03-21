@@ -1,0 +1,981 @@
+video_id$video_seg_id$sent_id$relevant$score$f1$f2$f3$f4$f5$f6$common words$text
+4588$1$1$0$2.5$0.0$0.0$0$1$0.75$0.0$0$For many visitors, desert scenery exhibits a striking beauty; to others, the terrain seems bleak.
+4588$2$2$0$2.4$0.0$0.0$0$1$0.7$0.0$0$Desert landscapes and their development provide another excellent example of the strong link between climate and geology.
+4588$3$3$0$2.24$0.0$0.0$0$1$0.62$0.0$0$Their profiles are not softened by a continuous carpet of soil and abundant plant life.
+4588$4$4$0$2.22$0.0$0.0$1$1$0.36$0.0$0$No matter which feeling is elicited, it is clear that deserts are very different from the more humid places where most people live.
+4588$5$5$0$2.2$0.0$0.0$0$1$0.6$0.0$0$For many dry regions this is an appropriate description, although where water is available in deserts, plants and animals thrive.
+4588$6$6$0$2.04$0.08$0.0$0$1$0.42$0.08$1$Nevertheless, the world’s dry regions are probably the least familiar land areas on Earth outside the polar realm.
+4588$7$7$0$1.96$0.07$0.0$0$1$0.36$0.21$1$Describe the general distribution of Earth’s dry lands and explain why deserts form in the subtropics and middle latitudes.
+4588$8$8$0$1.56$0.11$0.0$0$0$0.67$0.0$1$However, the concept of dryness is a relative one that refers to any situation in which an ongoing water deficiency exists.
+4588$9$9$0$1.5$0.0$0.0$0$1$0.25$0.0$0$Instead, barren rocky outcrops with steep, angular slopes are common.
+4588$10$10$0$1.46$0.18$0.0$0$0$0.55$0.0$2$Sometimes it is arbitrarily defined by a single rainfall figure, such as 25 centimeters (10 inches) per year of precipitation.
+4588$11$11$0$1.34$0.0$0.0$0$0$0.67$0.0$0$Because these processes combine in different ways from place to place, the appearance of desert landscapes varies a great deal as well.
+4588$12$12$0$0.0$0.0$0.0$0$0$0.5$0.0$0$That is, how much rain defines the boundary between humid and dry regions?
+4588$13$13$0$0.0$0.0$0.0$0$1$0.5$0.0$0$We all recognize that deserts are dry places, but just what is meant by the term dry?
+4588$14$14$0$0.0$0.0$0.0$0$1$0.5$0.0$0$At others they are gray and brown and streaked with black.
+4588$15$15$0$0.0$0.0$0.0$0$1$0.8$0.0$0$At some places the rocks are tinted orange and red.
+4588$16$16$0$0.0$0.0$0.0$0$1$0.2$0.2$0$Desert landscapes frequently appear stark.
+4588$17$17$0$0.0$0.0$0.0$0$1$0.57$0.0$0$Rather, the effects of tectonic forces, running water, and wind are all apparent.
+4588$18$18$0$0.0$0.17$0.0$0$1$0.67$0.0$1$As you will see, arid regions are not dominated by a single geologic process.
+4588$19$19$0$0.0$0.0$0.0$0$1$0.33$0.0$0$The word desert literally means “deserted” or “unoccupied.
+4588$20$20$0$0.0$0.2$0.0$0$0$0.4$0.0$1$This was clearly demonstrated in the preceding chapter on glaciers.
+4588$21$21$0$0.0$0.12$0.0$0$1$0.5$0.12$1$a strong influence on the nature and intensity of Earth’s external processes.
+4588$1$1$0$2.71$0.0$0.0$1$1$0.59$0.06$0$Record wind speeds exceeding 2400 kilometers (1500 miles) per hour encircle the planet, making Neptune one of the windiest places in the solar system.
+4588$2$2$0$2.7$0.0$0.0$1$1$0.5$0.4$0$Most Oort cloud comets orbit the Sun at distances greater than 10,000 times the Earth–Sun distance.
+4588$3$3$0$2.68$0.0$0.0$1$1$0.56$0.11$0$Many of Saturn’s smallest moons have irregular shapes and are only a few tens of kilometers in diameter.
+4588$4$4$0$2.62$0.0$0.0$1$1$0.53$0.11$0$The newest grouping, dwarf planets, includes Ceres, a body about 1000 kilometers (600 miles) in diameter and the largest known object in the asteroid belt, and Pluto, a former planet.
+4588$5$5$0$2.58$0.0$0.0$1$1$0.52$0.09$0$Like the asteroids in the inner solar system, most Kuiper belt comets move in slightly elliptical orbits that lie roughly in the same plane Kuiper belt comets or the gravitational influence of one of the Jovian planets occasionally alters their orbits sufficiently to send them into our view.
+4588$6$6$0$2.58$0.0$0.0$0$1$0.77$0.08$0$Titan has Earth-like landforms and geologic processes, such as dune formation and streamlike erosion caused by methane “rain.
+4588$7$7$0$2.56$0.0$0.0$0$1$0.78$0.0$0$Analyzed samples suggest that the surface of the asteroid was identical in composition to meteorites and was once part of a larger asteroid.
+4588$8$8$0$2.5$0.0$0.0$0$1$0.75$0.0$0$The moons vary significantly in size, shape, surface age, and origin.
+4588$9$9$0$2.38$0.0$0.0$1$1$0.38$0.23$0$At least 3 (Rhea, Dione, and Tethys) show evidence of tectonic activity, where internal forces have ripped apart their icy surfaces.
+4588$10$10$0$2.36$0.0$0.0$0$1$0.65$0.12$0$The atmospheric pressure at Titan’s surface is about 1.5 times that at Earth’s surface, and the atmospheric composition is about 98 percent nitrogen and 2 percent methane, with trace organic compounds.
+4588$11$11$0$2.3$0.0$0.0$1$1$0.3$0.4$0$The shortest-period comet (Encke’s Comet) orbits the Sun once every 3 years.
+4588$12$12$0$2.28$0.0$0.0$0$1$0.64$0.0$0$Observers saw the star “wink” briefly five times (meaning five rings) before the primary occultation and again five times afterward.
+4588$13$13$0$2.25$0.0$0.0$1$1$0.3$0.3$0$Saturn’s largest moon, Titan, is larger than Mercury and is the second-largest satellite in the solar system.
+4588$14$14$0$2.24$0.0$0.0$0$1$0.62$0.0$0$The outgassing, comprised mostly of water, is thought to be the source that replenishes the material areas called “tiger stripes” that consist of four large fractures with ridges on either side.
+4588$15$15$0$2.24$0.0$0.0$0$1$0.62$0.0$0$Twenty-three of the moons are “original” satellites that formed in tandem with their parent planet.
+4588$16$16$0$2.18$0.0$0.0$0$1$0.56$0.11$0$Researchers estimate that thousands of meteoroids enter Earth’s atmosphere every day.
+4588$17$17$0$2.17$0.0$0.0$0$1$0.55$0.14$0$In 2006, the International Astronomical Union organized solar system objects not classified as planets or moons into two broad categories: (1) small solar system bodies, including asteroids, comets, and meteoroids, and (2) dwarf planets.
+4588$18$18$0$2.16$0.0$0.0$0$1$0.58$0.0$0$At least 40 terrestrial craters exhibit features that could be produced only by an explosive impact of a large asteroid or perhaps even a comet nucleus.
+4588$19$19$0$2.16$0.0$0.0$0$1$0.58$0.0$0$One of several hypotheses to explain the boulderstrewn topography is seismic shaking, which would cause the boulders to move upward as the finer materials sink.
+4588$20$20$0$2.12$0.0$0.0$0$1$0.54$0.08$0$The discovery was made as Uranus passed in front of a distant star and blocked its view, a process called occultation (occult = hidden).
+4588$21$21$0$2.1$0.0$0.0$0$1$0.55$0.0$0$There are countless chunks of debris in the vast spaces separating the eight planets and in the outer reaches of the solar system.
+4588$22$22$0$2.08$0.0$0.0$0$1$0.54$0.0$0$By analyzing how these rings scatter light, researchers determined that the rings are composed of fine, dark particles similar in size to smoke particles.
+4588$23$23$0$2.04$0.0$0.05$1$1$0.18$0.27$0$Studies conducted at NASA’s Jet Propulsion Laboratory suggest that Miranda, the innermost of the five largest moons, was recently geologically active—most likely driven by gravitational heating, as occurs on Io.
+4588$24$24$0$2.02$0.0$0.0$1$1$0.21$0.21$0$Comet Holmes, which orbits the Sun every 6 years, was uncharacteristically active during its most recent entry into the inner solar system.
+4588$25$25$0$2.02$0.0$0.0$0$1$0.5$0.05$0$Another feature that Neptune has in common with the other Jovian planets is layers of white, cirrus-like clouds (probably frozen methane) about 50 kilometers (30 miles) above the main cloud deck.
+4588$26$26$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Based on the amount of erosion observed on the crater rim, the impact likely occurred within the past 50,000 years.
+4588$27$27$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Its orbital period averages 76 years, and every one of its 29 appearances since 240 b.c.e. has been recorded, thanks to ancient Chinese astronomers—testimony to their dedication as astronomical observers and the endurance of Chinese culture.
+4588$28$28$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Sublimation is the process whereby a solid (ice) changes directly to a gas.
+4588$29$29$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Through his primitive telescope, the rings appeared as two small bodies adjacent to the planet.
+4588$30$30$0$2.0$0.0$0.0$0$1$0.5$0.0$0$The bright red area on the left side of the image (see arrow) is newly erupted lava.
+4588$31$31$0$2.0$0.0$0.0$0$1$0.46$0.15$0$The inset shows an artist’s depiction of jets of gas and dust erupting from Comet Wild 2.
+4588$32$32$0$1.96$0.0$0.0$0$1$0.43$0.21$0$Impacts on Jupiter’s moons Amalthea and Thebe are believed to be the source of the debris from which the outer gossamer ring formed.
+4588$33$33$0$1.94$0.0$0.0$0$1$0.47$0.0$0$Indirect evidence from meteorites suggests that some asteroids might have been heated by a large impact causing them to differentiate into a dense iron core and a rocky mantle.
+4588$34$34$0$1.94$0.0$0.0$0$1$0.4$0.27$0$Named in honor of astronomer Gerald Kuiper, who predicted its existence, the Kuiper belt hosts comets that orbit in the outer solar system, beyond Neptune .
+4588$35$35$0$1.91$0.0$0.0$0$1$0.43$0.1$0$The bright area in the lower-central region, sometimes referred to as “the heart of the heart” is formally named Sputnik Planum and is thought to be the source of exotic ices that flowed to produce the two bluish lobes near the bottom of the image.
+4588$36$36$0$1.9$0.0$0.0$0$1$0.4$0.2$0$Their ring nature was determined 50 years later by Dutch astronomer Christian Huygens.
+4588$37$37$0$1.88$0.0$0.0$0$1$0.38$0.25$0$The most striking feature of Saturn is its system of rings, first observed by Galileo in 1610 .
+4588$38$38$0$1.88$0.0$0.0$0$1$0.42$0.08$0$Meteoroids less than about 1 meter (3 feet) in diameter generally vaporize before reaching Earth’s surface.
+4588$39$39$0$1.88$0.0$0.0$0$1$0.44$0.0$0$Furthermore, the faint nature of the rings indicates that these minute particles are widely dispersed.
+4588$40$40$0$1.88$0.0$0.0$0$1$0.38$0.23$0$The main ring is composed of particles believed to be fragments blasted from the surfaces of Metis and Adrastea, two small moons of Jupiter.
+4588$41$41$0$1.84$0.0$0.0$0$1$0.42$0.0$0$More than 30 tons of iron fragments have been found in the immediate area, but attempts to locate the main body have been unsuccessful.
+4588$42$42$0$1.84$0.0$0.0$0$1$0.4$0.07$0$Twelve years and nearly 3 billion miles of Voyager 2 travel provided investigators an amazing opportunity to view the outermost planet.
+4588$43$43$0$1.81$0.0$0.0$0$1$0.36$0.18$0$As on Jupiter, the dynamics of Saturn’s atmosphere are driven by the heat released by gravitational compression.
+4588$44$44$0$1.77$0.0$0.0$0$1$0.33$0.22$0$The bottom of the image shows Triton’s wind- and sublimationeroded south polar cap.
+4588$45$45$0$1.75$0.0$0.0$0$1$0.3$0.3$0$Titan and Neptune’s Triton are the only satellites in the solar system known to have substantial atmospheres.
+4588$46$46$0$1.74$0.0$0.0$0$1$0.31$0.25$0$Requiring more than 29 Earth years to make one revolution, Saturn is almost twice as far from the Sun as Jupiter, yet their atmospheres, compositions, and internal structures are remarkably similar.
+4588$47$47$0$1.72$0.0$0.0$0$1$0.33$0.13$0$The gravitational effect of a distant passing star may send an occasional Oort cloud comet into a highly eccentric orbit that carries it toward the Sun.
+4588$48$48$0$1.72$0.0$0.0$0$1$0.29$0.29$0$In 1910, Halley’s Comet made a very close approach to Earth, making for a spectacular Named for Dutch astronomer Jan Oort, the Oort cloud consists of comets that are distributed in all directions from the Sun, forming a spherical shell around the solar system.
+4588$49$49$0$1.71$0.0$0.0$0$1$0.32$0.14$0$Notable among them is Arizona’s Meteor Crater, a huge cavity more than 1 kilometer (0.6 mile) wide and 170 meters (560 feet) deep, with an upturned rim that rises above the surrounding countryside .
+4588$50$50$0$1.7$0.0$0.0$0$1$0.33$0.07$0$More recent ground- and space-based observations indicate that Uranus has at least 10 sharp-edged, distinct rings orbiting its equatorial region.
+4588$51$51$0$1.68$0.0$0.0$0$1$0.27$0.27$0$Before Apollo astronauts brought Moon rocks back to Earth, meteorites were the only extraterrestrial materials that could be studied in the laboratory.
+4588$52$52$0$1.66$0.0$0.0$0$1$0.33$0.0$0$After sunset on a clear, dark night, many are bright enough to be seen with the naked eye.
+4588$53$53$0$1.65$0.0$0.0$0$1$0.3$0.1$0$List and describe the principal characteristics of the small bodies that inhabit the solar system.
+4588$54$54$0$1.62$0.0$0.0$0$0$0.81$0.0$0$Although the atmosphere is about 93 percent hydrogen and 3 percent helium by volume, the clouds (or condensed gases) are composed of ammonia, ammonia hydrosulfide, and water, each segregated by temperature.
+4588$55$55$0$1.54$0.0$0.0$0$1$0.25$0.08$0$After exploring this asteroid by digging into its surface to extract fresh samples, it is scheduled to return to Earth in 2020.
+4588$56$56$0$1.54$0.0$0.0$0$1$0.19$0.31$0$In November 2005, the Japanese probe Hayabusa landed on a small near-Earth asteroid named 25143 Itokawa; it returned to Earth in June 2010.
+4588$57$57$0$1.49$0.0$0.0$0$1$0.15$0.38$0$Neptune also exhibits large dark spots, thought to be rotating storms similar to Jupiter’s Great Red Spot.
+4588$58$58$0$1.33$0.0$0.0$1$0$0.33$0.33$0$Jupiter’s four largest moons These moons are often referred to as the Galilean moons because Galileo discovered them.
+4588$59$59$0$1.27$0.0$0.0$0$0$0.62$0.06$0$This is analogous to what happens when a jar of sand and various-sized pebbles is shaken: The larger pebbles rise to the top, while the smaller sand grains settle to the bottom (sometimes referred to as the Brazil nut effect).
+4588$60$60$0$1.0$0.0$0.0$0$0$0.5$0.0$0$This disc-shaped structure is thought to contain about a billion objects over 1 kilometer (0.62 mile) in size.
+4588$61$61$0$0.99$0.0$0.0$1$0$0.12$0.5$0$However, most comets are too small and too distant to be observed from Earth, even using the Hubble Space Telescope.
+4588$62$62$0$0.96$0.0$0.0$0$0$0.46$0.08$0$This plume of volcanic gases and debris is rising more than 100 kilometers (60 miles) above Io’s surface.
+4588$63$63$0$0.94$0.0$0.0$0$0$0.45$0.09$0$Some, called micrometeorites, are so tiny and their rate of fall so slow that they drift to Earth continually as space dust.
+4588$64$64$0$0.94$0.0$0.0$0$0$0.45$0.09$0$However, only a tiny fraction of Oort cloud comets have orbits that bring them into the inner solar system.
+4588$65$65$0$0.87$0.0$0.0$0$0$0.37$0.26$0$Although the bands of clouds are fainter and wider near the equator, rotating “storms” similar to Jupiter’s Great Red Spot occur in Saturn’s atmosphere, as does intense lightning.
+4588$66$66$0$0.85$0.0$0.0$0$0$0.4$0.1$0$However, Neptune’s storms appear to have comparatively short life spans—usually only a few years.
+4588$67$67$0$0.7$0.0$0.1$0$0$0.2$0.4$0$This image shows Comet Wild 2, as seen by NASA’s Stardust spacecraft.
+4588$68$68$0$0.0$0.0$0.0$0$0$0.6$0.1$0$This enhanced color image is used to detect differences in the composition and texture of Pluto’s surface
+4588$69$69$0$0.0$0.0$0.0$0$1$1.0$0.0$0$More than 250 others may be of impact origin.
+4588$70$70$0$0.0$0.0$0.0$0$1$0.4$0.0$0$(3) the rocky and/or metallic remains of comets that once ejected by a violent asteroid impact.
+4588$71$71$0$0.0$0.0$0.0$0$1$0.56$0.0$0$during formation of the solar system, (2) material that is continually being ejected from the asteroid belt, or
+4588$72$72$0$0.0$0.0$0.0$0$1$0.17$0.67$0$Halley’s Comet originated in the Kuiper belt.
+4588$73$73$0$0.0$0.0$0.0$1$1$0.57$0.29$0$Most comets originate in one of two regions: the Kuiper belt or the Oort cloud.
+4588$74$74$0$0.0$0.0$0.0$0$1$0.0$1.0$0$Belt and Oort Cloud
+4588$75$75$0$0.0$0.0$0.0$0$1$0.0$0.67$0$Comet Wild 2
+4588$76$76$0$0.0$0.09$0.0$0$1$0.55$0.0$1$that the coma contained a wide range of organic compounds and substantial amounts of silicate crystals.
+4588$77$77$0$0.0$0.0$0.0$0$1$0.44$0.12$0$number of short-period comets (those having orbital periods of less than 200 years), such as the famous Halley’s Comet, make regular encounters with the inner solar system .
+4588$78$78$0$0.0$0.0$0.0$0$1$0.8$0.0$0$The nucleus of the comet is within the bright spot in the center.
+4588$79$79$0$0.0$0.0$0.0$0$1$0.0$1.0$0$Holmes
+4588$80$80$0$0.0$0.0$0.0$0$1$0.17$0.17$0$Hayabusa 2, launched in 2014, July 2018.
+4588$81$81$0$0.0$0.0$0.0$0$1$0.43$0.0$0$Also shown in red are the orbits of a few known nearEarth asteroids.
+4588$82$82$0$0.0$0.0$0.0$1$1$0.67$0.33$0$The asteroid belt The orbits of most asteroids lie between Mars and Jupiter.
+4588$83$83$0$0.0$0.0$0.0$0$1$0.43$0.0$0$Name three bodies in the solar system that exhibit active volcanism.
+4588$84$84$0$0.0$0.0$0.0$0$1$0.0$0.0$0$6.
+4588$85$85$0$0.0$0.0$0.0$0$1$0.29$0.57$0$How are Saturn’s satellite Titan and Neptune’s satellite Triton similar to one another?
+4588$86$86$0$0.0$0.0$0.0$0$1$0.0$0.0$0$5.
+4588$87$87$0$0.0$0.0$0.0$0$1$0.86$0.0$0$What two roles do ring moons play in the nature of planetary ring systems?
+4588$88$88$0$0.0$0.0$0.0$0$1$0.0$0.5$0$How are Jupiter and Saturn similar to one 4.
+4588$89$89$0$0.0$0.0$0.0$0$1$0.0$0.0$0$3.
+4588$90$90$0$0.0$0.0$0.0$0$1$0.2$0.4$0$What is distinctive about Jupiter’s satellite Io?
+4588$91$91$0$0.0$0.0$0.0$0$1$0.0$0.0$0$2.
+4588$92$92$0$0.0$0.0$0.0$0$1$0.17$0.67$0$What is the nature of Jupiter’s Great Red Spot?
+4588$93$93$0$0.0$0.0$0.0$0$1$0.0$0.0$0$1.
+4588$94$94$0$0.0$0.0$0.0$1$1$0.2$0.4$0$Triton, Neptune’s largest moon
+4588$95$95$0$0.0$0.0$0.0$0$1$0.38$0.0$0$above the surface and were blown downwind for more than 100 kilometers (60 miles).
+4588$96$96$0$0.0$0.0$0.0$0$1$0.33$0.17$0$Neptune has a dynamic atmosphere, much like that of the other Jovian planets .
+4588$97$97$0$0.0$0.0$0.0$0$1$0.4$0.0$0$, astronomers knew very little about this planet until 1989.
+4588$98$98$0$0.0$0.0$0.0$0$0$0.14$0.57$0$The Windy Planet Because of Neptune’s great distance from Earth
+4588$99$99$0$0.0$0.0$0.0$0$1$0.0$1.0$0$Neptune:
+4588$100$100$0$0.0$0.0$0.0$0$1$0.43$0.0$0$Interspersed among these distinct structures are broad sheets of dust.
+4588$101$101$0$0.0$0.0$0.0$0$1$0.67$0.33$0$Uranus has a ring system.
+4588$102$102$0$0.0$0.0$0.0$0$1$0.57$0.0$0$whereas others possess large, smooth areas on otherwise crater-riddled surfaces.
+4588$103$103$0$0.0$0.0$0.0$0$1$0.43$0.14$0$Enceladus is another unique satellite of Saturn—one of the few where active eruptions have been observed .
+4588$104$104$0$0.0$0.0$0.0$0$1$0.57$0.0$0$In addition, the northern latitudes appear to have lakes of liquid methane.
+4588$105$105$0$0.0$0.0$0.0$0$1$0.17$0.33$0$Titan was visited and photographed by the CassiniHuygens probe in 2005.
+4588$106$106$0$0.0$0.0$0.0$0$1$0.5$0.17$0$Others, like Hyperion, are so porous that impacts punch into their surfaces .
+4588$107$107$0$0.0$0.0$0.0$0$1$0.17$0.5$0$Saturn’s atmosphere, like Jupiter’s, is dynamic.
+4588$108$108$0$0.0$0.0$0.0$0$1$0.43$0.14$0$More recently, the ring system was thoroughly investigated by the Galileo mission.
+4588$109$109$0$0.0$0.0$0.0$0$1$1.0$0.0$0$system.
+4588$1$1$0$2.2$0.0$0.0$0$1$0.54$0.23$0$The thick rhyolite lava flows and extensive ash deposits in and around Yellowstone National Park are well-known exceptions to this generalization.
+4588$2$2$0$2.0$0.08$0.0$0$1$0.42$0.0$1$In contrast to granite, which is widely distributed as large intrusive masses, rhyolite deposits are less common and generally less voluminous.
+4588$3$3$0$1.99$0.09$0.0$0$1$0.36$0.18$1$Rhyolite Rhyolite is the fine-grained equivalent of granite and, like granite, is composed essentially of the light-colored silicates .
+4588$4$4$0$1.89$0.0$0.0$0$1$0.43$0.07$0$Rhyolite is fine-grained and frequently contains glass fragments and voids, indicating that it cooled rapidly in a surface, or near-surface, environment.
+4588$5$5$0$1.84$0.25$0.0$0$0$0.67$0.0$3$These specimens contain elongated feldspar crystals a few centimeters in length that are scattered among smaller crystals of quartz and amphibole .
+4588$6$6$0$1.76$0.18$0.0$1$0$0.45$0.0$2$Although the dark components generally make up less than 10 percent of most granites, dark minerals appear to be more prominent than their percentage indicates.
+4588$7$7$0$1.32$0.22$0.0$0$0$0.44$0.0$2$However, when composed of dark pink feldspar grains, granite can exhibit a reddish color.
+4588$8$8$0$0.66$0.0$0.0$0$0$0.33$0.0$0$This fact accounts for its color, which is usually buff to pink or occasionally light gray.
+4588$9$9$0$0.0$0.25$0.0$0$1$0.75$0.0$1$In addition, some granites have a porphyritic texture.
+4588$10$10$0$0.0$0.17$0.0$1$1$0.5$0.0$1$At a distance, most granitic rocks appear gray in color .
+4588$11$11$0$0.0$0.0$0.0$0$1$0.38$0.0$0$small amounts of dark silicates, particularly biotite and amphibole, and sometimes muscovite.
+4588$1$1$0$2.5$0.22$0.0$1$0$0.78$0.0$2$Although this chapter deals primarily with the nature of minerals, keep in mind that most rocks are simply aggregates of minerals.
+4588$2$2$0$2.5$0.25$0.0$0$0$1.0$0.0$2$However, some rocks example is the sedimentary rock limestone, which is an impure mass of the mineral calcite.
+4588$3$3$1$2.04$0.38$0.0$0$0$0.62$0.08$5$Because the properties of rocks are determined largely by the chemical composition and crystalline structure of the minerals contained within them, we will first consider these Earth materials.
+4588$4$4$0$1.08$0.08$0.0$0$0$0.46$0.0$1$These include the volcanic rocks obsidian and pumice, which are noncrystalline glassy substances, and coal, which consists of solid organic debris.
+4588$5$5$0$0.0$0.0$0.0$0$1$0.6$0.0$0$In addition, some rocks are composed of nonmineral matter.
+4588$6$6$0$0.0$0.17$0.0$0$1$0.33$0.0$1$Note that the different minerals that make up granite can be easily identified.
+4588$7$7$0$0.0$0.0$0.0$0$1$0.5$0.0$0$in such a way that their individual properties are retained.
+4588$1$1$0$3.2$0.14$0.0$1$1$0.71$0.0$2$Except for special types of cut stone used for building and monuments, transportation costs greatly limit the distance most building materials can be profitably moved.
+4588$2$2$0$2.74$0.25$0.0$0$1$0.62$0.0$2$Cement and aggregate go into the making of concrete, a material that is essential to practically all construction.
+4588$3$3$0$2.68$0.09$0.0$0$1$0.73$0.09$1$Aggregate gives concrete its strength and volume, and cement binds the mixture into a rock-hard substance.
+4588$4$4$0$2.48$0.12$0.0$0$1$0.62$0.0$2$Besides aggregate, other important building materials include gypsum for plaster and wallboard, clay for tile and bricks, and limestone and shale, which combine to form cement.
+4588$5$5$0$2.35$0.0$0.0$1$1$0.4$0.1$0$Aggregate is produced commercially in every state and is used in nearly all building construction and in most public works projects.
+4588$6$6$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Building an average six-room house requires 90 tons of aggregate.
+4588$7$7$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Building just 2 kilometers of fourlane highway requires more than 85 thousand tons of aggregate.
+4588$8$8$0$2.0$0.0$0.0$0$1$0.47$0.12$0$The United States produces nearly 2 billion tons of aggregate per year, which represents about one-half of the country’s entire nonenergy mining volume.
+4588$9$9$0$1.5$0.1$0.0$1$0$0.4$0.0$1$Because most building materials are widely distributed and present in almost unlimited quantities, they have little intrinsic value.
+4588$10$10$0$1.32$0.13$0.0$0$0$0.53$0.0$2$Since their per-ton value compared with the values of metals and industrial minerals is low, mining and quarrying operations are usually undertaken to satisfy local needs.
+4588$11$11$0$0.0$0.14$0.0$0$1$0.43$0.0$1$Their economic worth comes only after the materials are removed from the ground and processed.
+4588$12$12$0$0.0$0.14$0.0$0$1$0.86$0.0$1$From the standpoint of quantity and value, aggregate is a very important building material.
+4588$13$13$0$0.0$0.43$0.0$0$1$0.57$0.0$3$Natural aggregate consists of crushed stone, sand, and gravel.
+4588$1$1$0$3.26$0.38$0.0$0$1$0.75$0.0$3$Minerals are chemical compounds (or sometimes single elements), each with its own composition and physical properties.
+4588$2$2$0$2.8$0.16$0.0$0$1$0.74$0.0$3$In addition, minerals in granite result from the a rock’s texture—the size, shape, and/or slow cooling of molten rock deep arrangement of its constituent minerals— beneath the surface.
+4588$3$3$0$2.58$0.08$0.0$0$1$0.69$0.08$1$Consider the rock Next, the sediments undergo lithification, a term cycle to be a simplified but useful overview of physical meaning “conversion into rock.
+4588$4$4$0$2.5$0.25$0.0$0$1$0.5$0.0$3$The minerals that compose a rock strongly influA. The large crystals of light-colored ence its nature and appearance.
+4588$5$5$0$2.42$0.21$0.0$0$1$0.5$0.0$3$The sedimentary called crystallization, may occur either beneath the surface rock reacts to the changing environment and turns into or, following a volcanic eruption, at the surface.
+4588$6$6$0$2.32$0.13$0.0$0$1$0.53$0.0$2$Learn the rock cycle well; you will be examinlithified into sedimentary rock when compacted by ing its interrelationships in greater detail throughout the weight of overlying layers or when cemented as this book.
+4588$7$7$0$2.28$0.14$0.0$0$1$0.5$0.0$2$Nowhere gravity before being picked up and transported by any is this idea better illustrated than when we examine the of a number of erosional agents, such as running water, rock cycle .
+4588$8$8$0$2.22$0.17$0.0$0$1$0.42$0.08$2$Geologists divide rocks into three major groups: igneous, sedicooling of molten rock at Earth’s mentary, and metamorphic.
+4588$9$9$0$2.2$0.1$0.0$0$1$0.5$0.0$1$Eventually these particles and many of the interrelationships among different parts of dissolved substances, called sediment, are deposited.
+4588$10$10$0$2.0$0.2$0.0$0$1$0.3$0.0$2$When a rock is examined closely, we find that it usually consists of smaller crystals called minerals.
+4588$11$11$0$1.99$0.09$0.0$0$1$0.36$0.18$2$If the resulting sedimentary rock is buried deep The Basic Cycle within Earth and involved in the dynamics of mountain Magma is molten rock that forms deep beneath Earth’s sur- building or intruded by a mass of magma, it is subjected face.
+4588$12$12$0$1.93$0.22$0.0$0$1$0.22$0.11$2$Earlier in this chapter, you learned that Earth is biosphere slowly disintegrate and decompose rocks.
+4588$13$13$0$1.86$0.04$0.0$1$0$0.64$0.0$1$It helps us understand the origin of Although most sediment ultimately comes to rest in the igneous, sedimentary, and metamorphic rocks and to ocean, other sites of deposition include river floodplains, see that each type is linked to the others by processes desert basins, swamps, and sand dunes.
+4588$14$14$0$1.76$0.0$0.0$0$1$0.38$0.0$0$The grains or crystals may be microscopically small or easily seen with the unaided eye.
+4588$15$15$0$1.46$0.18$0.0$0$0$0.55$0.0$2$This understanding also has many practical applications, including finding energy and mineral resources and solving environmental problems.
+4588$16$16$0$0.9$0.0$0.0$0$0$0.45$0.0$0$This means that our planet consists of many The materials that result are often moved downslope by interacting parts that form a complex whole.
+4588$17$17$0$0.0$0.12$0.0$0$1$0.52$0.0$3$morphic rock is subjected to additional pressure changes If igneous rocks are exposed at the surface, they or to still higher temperatures, it melts, creating magma, undergo weathering, in which the day-in and daywhich eventually crystallizes into igneous rock, starting out influences of the atmosphere, hydrosphere, and the cycle all over again.
+4588$18$18$0$0.0$0.2$0.0$0$1$0.6$0.0$1$When metasituation, the resulting rocks are called igneous rocks.
+4588$19$19$0$0.0$0.33$0.0$0$1$1.0$0.0$1$In either the third rock type, metamorphic rock.
+4588$20$20$0$0.0$0.0$0.0$0$0$0.5$0.0$0$This process, to great pressures and/or intense heat.
+4588$21$21$0$0.0$0.0$0.0$0$1$0.75$0.0$0$Over time, magma cools and solidifies.
+4588$22$22$0$0.0$0.2$0.0$0$1$0.6$0.0$1$percolating groundwater fills the pores with mineral
+4588$23$23$0$0.0$0.0$0.0$0$1$0.67$0.0$0$Sediment is usually geology.
+4588$24$24$0$0.0$0.0$0.0$0$1$0.5$0.0$0$that act upon and within the planet.
+4588$25$25$0$0.0$0.5$0.0$0$1$0.5$0.5$1$the Earth system.
+4588$26$26$0$0.0$0.14$0.0$0$1$0.71$0.0$1$The rock cycle allows us to view glaciers, wind, or waves.
+4588$27$27$0$0.0$0.0$0.0$0$1$1.0$0.0$0$a system.
+4588$28$28$0$0.0$0.0$0.0$0$1$1.0$0.0$0$to the others by the processes that act upon and within the planet.
+4588$29$29$0$0.0$0.0$0.0$0$1$0.38$0.0$0$you will learn, each group is linked Oceanic crust is composed mainly of basalt.
+4588$30$30$0$0.0$0.0$0.0$0$1$0.33$0.0$0$As microscopically small crystals.
+4588$31$31$0$0.0$0.43$0.0$0$1$0.43$0.0$3$surface is responsible for the rock’s 1.21 provides some examples.
+4588$32$32$0$0.0$0.0$0.0$0$1$0.5$0.0$0$Such analyses are critical to understanding our planet.
+4588$33$33$0$0.0$0.0$0.0$0$1$0.67$0.0$0$and texture, in turn, reflect the geologic processes that created it .
+4588$34$34$0$0.0$0.0$0.0$0$1$0.5$0.17$0$Granite is also has a significant effect on its appearabundant in the continental crust.
+4588$35$35$0$0.0$0.0$0.0$0$1$0.4$0.0$0$To a curious traveler, the variety seems nearly endless.
+4588$36$36$0$0.0$0.4$0.0$0$1$0.2$0.4$2$Rock is the most common and abundant material on Earth.
+4588$37$37$0$0.0$0.17$0.0$0$1$0.67$0.0$1$Sketch, label, and explain the rock cycle.
+4588$1$1$1$3.36$0.36$0.0$1$1$0.57$0.0$5$Perhaps the easiest type of bond to visualize is the ionic bond, in which one atom gives up one or more valence electrons to another atom to form ions—positively and negatively charged atoms.
+4588$2$2$1$3.24$0.62$0.0$0$1$0.5$0.0$5$Chlorine, on the other hand, gains one electron and becomes a negatively charged chloride ion.
+4588$3$3$1$3.15$0.5$0.0$0$1$0.56$0.06$8$In other words, the two electrons are shared by both hydrogen atoms and are attracted simultaneously by the positive in the solid ionic compound sodium chloride (NaCl), table salt.
+4588$4$4$1$3.0$0.31$0.0$0$1$0.69$0.0$4$Imagine two hydrogen atoms (each with one proton and one electron) approaching one another, as shown in Once they meet, the electron configuration will change so that both electrons will primarily occupy the space between the atoms.
+4588$5$5$1$3.0$0.2$0.0$0$1$0.8$0.0$3$The strong attractive force that holds two hydrogen atoms together results from a covalent bond, a chemical bond formed by the sharing of one or more valence electrons between a pair of atoms.
+4588$6$6$1$2.84$0.36$0.0$0$1$0.54$0.07$10$Oppositely charged ions are strongly attracted to one another and join to form ionic Consider the ionic bonding that occurs between sodium (Na) and chlorine (Cl) to produce the solid ionic compound sodium chloride—the mineral halite atom gives up its single valence electron to chlorine and, as a result, becomes a positively charged sodium ion.
+4588$7$7$0$2.44$0.44$0.0$0$0$0.78$0.0$4$This arrangement maximizes the attraction between ions with opposite charges while minimizing the repulsion between ions with identical charges.
+4588$8$8$0$2.39$0.12$0.0$0$1$0.56$0.06$2$Notice that salt consists of alternating sodium and chlorine ions, positioned in such a manner that each positive ion is attracted to and surrounded on all sides by negative ions and vice versa.
+4588$9$9$0$2.0$0.44$0.0$0$0$0.56$0.0$4$Sometimes the forces that hold atoms together cannot be understood on the basis of the attraction of oppositely charged ions.
+4588$10$10$1$1.8$0.5$0.0$0$0$0.4$0.0$5$Thus, an ionic bond is the attraction of oppositely charged ions to one another, and it produces an electrically neutral ionic compound.
+4588$11$11$1$1.24$0.31$0.0$0$0$0.31$0.0$5$Thus, ionic compounds consist of an orderly arrangement of oppositely charged ions assembled in a definite ratio that provides overall electrical neutrality.
+4588$12$12$0$0.0$0.5$0.0$0$1$0.67$0.0$3$One example is the hydrogen molecule tightly and no ions are present.
+4588$13$13$0$0.0$0.4$0.0$0$1$0.8$0.0$2$chlorine ions in ordinary table salt.
+4588$14$14$1$0.0$0.33$0.0$0$1$0.33$0.0$2$We know that ions having unlike charges attract.
+4588$15$15$1$0.0$0.57$0.0$0$1$0.86$0.0$4$The atom that loses electrons becomes a positive ion, and the atom that gains electrons becomes a negative ion.
+4588$1$1$1$3.0$0.4$0.0$0$1$0.6$0.0$4$Minerals can also precipitate from slowly moving groundwater filling in fractures and voids in rocks and sediments.
+4588$2$2$1$2.78$0.33$0.0$0$1$0.56$0.0$3$Geodes sometimes contain spectacular crystals of quartz, calcite, or other less common minerals.
+4588$3$3$1$2.62$0.62$0.0$0$0$0.69$0.0$8$Geodes like this one form when silica dissolved in groundwater precipitates to form quartz crystals that grow within cavities in rocks.
+4588$4$4$1$2.38$0.23$0.0$0$1$0.46$0.0$3$One interesting example, called a geode, is a somewhat spherically shaped object with inwardprojecting crystals that were gradually deposited by groundwater .
+4588$5$5$0$2.38$0.15$0.0$0$1$0.54$0.0$2$Once saturation is reached, the ions begin to bond, forming crystalline solids (called salts) that precipitate from (settle out of) the solution.
+4588$6$6$1$2.32$0.08$0.0$0$1$0.58$0.0$1$Perhaps the most familiar way in which minerals grow is from an aqueous (water) solution containing dissolved material matter (ions).
+4588$7$7$0$2.28$0.0$0.0$0$1$0.64$0.0$0$Two factors—a drop in temperature and water lost through evaporation—cause the solution to become closer to reaching saturation.
+4588$8$8$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Worldwide, extensive evaporite deposits, some exceeding hundreds of meters in thickness, provide evidence of ancient seas that have long since evaporated (see page 100).
+4588$9$9$0$1.81$0.0$0.0$0$1$0.27$0.53$0$The Great Salt Lake in Utah and Bolivia’s great salt flat, Salar de Uyuni, provide good examples of this process at work .
+4588$10$10$0$1.76$0.0$0.0$0$1$0.38$0.0$0$As long as the solution is not saturated, the motion of the dissolved ions keeps them from joining together.
+4588$11$11$0$1.28$0.11$0.0$0$0$0.53$0.0$2$Because they are located in arid regions with high evaporation rates, these water bodies regularly precipitate the minerals halite, sylvite, and gypsum, as well as other soluble salts, called evaporite deposits.
+4588$12$12$0$1.1$0.0$0.0$0$0$0.5$0.2$0$In 1970, South Africa dominated global gold production—accounting for 79% of production throughout the world.
+4588$13$13$0$0.0$0.0$0.0$0$1$0.29$0.14$0$Gold has been treasured since long before recorded history for its beauty.
+4588$14$14$0$0.0$0.0$0.0$0$0$0.43$0.0$0$This process is discussed in greater detail in Chapter 4.
+4588$15$15$0$0.0$0.17$0.0$0$1$0.33$0.0$2$igneous rocks that consist of a mosaic of intergrown crystals that tend to lack well-developed planar surfaces, or faces .
+4588$1$1$1$3.44$0.44$0.0$0$1$0.78$0.0$4$Minerals tend to have one common crystal shape, but a few, such as the pyrite samples shown in have two or more characteristic crystal shapes.
+4588$2$2$1$3.18$0.27$0.0$0$1$0.82$0.0$3$Mineralogists use the term crystal shape, or habit, to refer to the common or characteristic shape of individual crystals or aggregates of crystals.
+4588$3$3$1$2.14$0.5$0.0$0$0$0.57$0.0$7$For example, magnetite crystals sometimes occur as octahedrons, garnets often form dodecahedrons, and halite and fluorite crystals tend to grow as cubes or near-cubes.
+4588$4$4$1$2.0$0.08$0.0$0$1$0.42$0.0$1$Metallic minerals generally have a dense, dark streak, whereas minerals with nonmetallic luster typically have a light-colored streak.
+4588$5$5$1$1.74$0.12$0.0$0$0$0.75$0.0$1$Although the color of a mineral is not always helpful in identification, the streak, which is the color of the powdered mineral, can be very useful.
+4588$6$6$1$1.42$0.14$0.0$0$0$0.57$0.0$2$Some minerals tend to grow equally in all three dimensions, whereas others tend to be elongated in one direction or flattened minerals have crystals that exhibit regular polygons that are helpful in their identification.
+4588$7$7$0$0.0$0.14$0.0$0$1$0.43$0.14$1$Streak can also help distinguish between minerals with metallic luster and those with nonmetallic luster.
+4588$8$8$0$0.0$0.0$0.0$0$1$0.71$0.14$0$Quartz, for example, is harder than a porcelain streak plate and therefore leaves no streak.)
+4588$9$9$0$0.0$0.0$0.0$0$1$0.67$0.0$0$a streak when rubbed across a streak plate.
+4588$1$1$1$3.36$0.36$0.0$0$1$0.82$0.0$4$Of the many optical properties of minerals, their luster, their ability to transmit light, their color, and their streak are most frequently used for mineral identification.
+4588$2$2$0$2.7$0.14$0.0$0$1$0.71$0.0$2$Minerals have definite crystalline structures and chemical compositions that give them unique sets of physical and chemical properties shared by all specimens of that mineral, regardless of when or where they formed.
+4588$3$3$0$1.4$0.2$0.0$0$0$0.5$0.0$2$For example, two samples of the mineral quartz will be equally hard and equally dense, and they will break in a similar manner.
+4588$4$4$0$1.24$0.12$0.0$0$0$0.5$0.0$1$Because so few minerals share this property, a salty taste is considered a diagnostic property of halite.
+4588$5$5$1$1.24$0.12$0.0$0$0$0.5$0.0$1$Some mineral properties, called diagnostic properties, are particularly useful in identifying an unknown mineral.
+4588$6$6$0$1.18$0.0$0.0$0$0$0.59$0.0$0$However, the physical properties of individual samples may vary within specific limits due to ionic substitutions, inclusions of foreign elements (impurities), and defects in the crystalline structure.
+4588$7$7$0$0.0$0.0$0.0$0$0$0.5$0.0$0$These properties are referred to as ambiguous properties.
+4588$8$8$0$0.0$0.17$0.0$0$1$0.67$0.0$1$Other properties of certain minerals vary among different specimens of the same mineral.
+4588$9$9$0$0.0$0.2$0.0$0$1$0.6$0.0$1$The mineral halite, for example has a salty taste.
+4588$10$10$0$0.0$0.29$0.0$0$1$0.57$0.29$2$of Minerals 3.5 Properties List and describe the properties used in mineral identification.
+4608$1$1$0$3.0$0.33$0.0$0$1$0.67$0.0$4$Moreover, with the development of plate tectonics theory, geologists added yet another tool for understanding the processes by which one rock is transformed into another.
+4608$2$2$0$1.82$0.08$0.0$1$0$0.58$0.0$1$These mineral resources, like most others, result from processes that concentrate desirable materials to the extent that extraction is economically feasible.
+4608$3$3$0$1.72$0.09$0.0$0$1$0.27$0.0$1$Explain how different igneous and metamorphic processes produce economically significant mineral deposits.
+4608$4$4$0$1.39$0.06$0.0$0$0$0.62$0.06$1$Some of the most important accumulations of metals, such as gold, silver, copper, mercury, lead, platinum, and nickel, are produced by igneous and metamorphic processes (see Table 23.1).
+4608$5$5$0$0.0$0.0$0.0$0$1$0.5$0.0$0$What is an ore?
+4608$6$6$0$0.0$0.0$0.0$0$1$0.0$0.0$0$2.
+4608$7$7$0$0.0$0.0$0.0$0$1$1.0$0.0$0$Contrast resource and reserve.
+4608$8$8$0$0.0$0.0$0.0$0$1$0.0$0.0$0$1.
+4608$9$9$0$0.0$0.0$0.0$0$1$0.5$0.0$0$concentrated accumulations of useful elements.
+4608$1$1$0$3.4$0.6$0.0$0$1$0.6$0.0$6$Moreover, minerals containing the elements lithium, cesium, uranium, and the rare earths* are occasionally found .
+4608$2$2$0$3.3$0.3$0.0$1$1$0.6$0.0$3$Most pegmatites are granitic in composition and consist of unusually large crystals of quartz, feldspar, and muscovite.
+4608$3$3$0$2.74$0.08$0.0$1$1$0.54$0.0$1$Most pegmatites are located within large igneous masses or as dikes or veins that cut into the host rock surrounding the magma chamber .
+4608$4$4$0$2.7$0.08$0.0$0$1$0.77$0.0$1$Crystallization in a fluid-rich environment, where ion migration is enhanced, results in the formation of crystals several centimeters, or even a few meters, in length.
+4608$5$5$0$2.68$0.15$0.0$0$1$0.69$0.0$2$They are useful catalysts in petroleum refining and are used to manufacture strong magnets for turbines and rechargeable batteries for cell phones and computers.
+4608$6$6$0$2.28$0.0$0.0$0$1$0.64$0.0$0$Further, because water and other volatile substances do not crystallize along with the bulk of the magma body, these fluids make up a high percentage of the melt during the final phase of solidification.
+4608$7$7$0$2.26$0.25$0.0$0$1$0.38$0.0$2$The resulting rocks, called pegmatites, are composed of these unusually large crystals.
+4608$8$8$0$2.06$0.0$0.0$0$1$0.5$0.12$0$Pegmatite Deposits Magmatic differentiation is important in the late stages of the magmatic process.
+4608$9$9$0$1.4$0.0$0.0$0$0$0.7$0.0$0$Thus, in addition to the common silicates, some pegmatites include semiprecious gems such as beryl, topaz, and tourmaline.
+4608$10$10$0$1.26$0.27$0.0$0$0$0.36$0.0$3$This is particularly true of granitic magmas, in which the residual melt can become enriched in rare elements and heavy metals.
+4608$11$11$0$0.0$0.5$0.0$0$1$0.42$0.0$6$*The rare earths are a group of 15 elements (atomic numbers 57 through 71) that possess similar properties.
+4608$12$12$0$0.0$0.5$0.0$1$1$0.5$0.0$2$Further, pegmatites often contain some of the least abundant elements.
+4608$13$13$0$0.0$0.14$0.0$0$1$0.86$0.0$1$Feldspar is used in the production of ceramics, and muscovite is used for electrical insulation and glitter.
+4608$1$1$0$2.76$0.5$0.0$0$1$0.38$0.0$4$Minerals that are ionically bonded, such as fluorite twice the specific gravity of quartz.
+4608$2$2$0$2.7$0.21$0.0$0$1$0.64$0.0$3$In addition, minerals that can With a little practice, you can estimate the specific be cut into thin shavings, including gypsum and talc, are of a mineral by hefting it in your hand.
+4608$3$3$0$2.68$0.21$0.0$1$1$0.37$0.05$4$When minerals fracture, most produce Fracture not uneven surfaces and are described as exhibiting irregular fracture ( erals, including quartz, can break into smooth, curved sur1 faces resembling broken glass.
+4608$4$4$0$2.66$0.33$0.0$0$1$0.5$0.0$4$Example: Muscovite chemical bonds that are equally, or nearly equally, strong in all directions exhibit a property called fracture.
+4608$5$5$0$2.48$0.32$0.0$0$1$0.42$0.0$6$By contrast, some metallic earlier, nonmetallic minerals such as quartz and halite minerals, such as pyrite, native copper, and magnetite, tend to be brittle and fracture or exhibit cleavage when are more than twice as dense and thus have more than struck.
+4608$6$6$0$2.42$0.14$0.0$0$1$0.57$0.0$2$Such breaks are called conchoi2 other minerals exhibit fractures that produce splinters or fibers, referred to as splintery fracture and fibrous fracture, respectively.
+4608$7$7$0$2.08$0.08$0.0$0$1$0.46$0.0$1$By contrast, native metals, such as copper 7.5, whereas 24-karat gold has a specific gravity of and gold, are malleable, which means they can be hamapproximately 20.
+4608$8$8$0$1.66$0.0$0.0$0$1$0.33$0.0$0$Still others, notably the micas, are elastic and will bend and snap back to their original shape after stress is released.
+4608$9$9$0$1.6$0.07$0.0$0$1$0.21$0.07$1$Galena, an ore from and halite, tend to be brittle and shatter into small pieces which lead is extracted, has a specific gravity of roughly when struck.
+4608$10$10$0$0.0$0.0$0.0$0$1$0.0$0.0$0$Does described as sectile.
+4608$11$11$0$0.0$0.0$0.0$0$1$0.0$0.0$0$mered without breaking.
+4608$12$12$0$0.0$0.0$0.0$0$1$0.25$0.0$0$As mentioned specific gravity of 2.65.
+4608$13$13$0$0.0$0.14$0.0$0$1$0.43$0.0$1$Fluorite resistance to breaking, bending, cutting, or other forms of deformation.
+4608$14$14$0$0.0$0.0$0.0$0$1$1.0$0.0$0$Example:
+4608$1$1$0$2.28$0.0$0.0$0$1$0.64$0.0$0$Many people associate the word crystal with delicate wine goblets or glassy objects with smooth sides and gem-like shapes.
+4608$2$2$0$2.12$0.0$0.0$0$1$0.56$0.0$0$Therefore, all mineral samples are crystals or crystalline solids, even if they lack smooth-sided faces.
+4608$3$3$0$2.0$0.0$0.0$0$1$0.5$0.0$0$The specimen shown in for example, exhibits the characteristic crystal form associated with quartz—a six-sided prismatic shape with pyramidal ends.
+4608$4$4$0$2.0$0.2$0.0$0$1$0.3$0.0$2$If the answer is “yes,” the specific gravity of the sample will likely be between 2.5 and 3.
+4608$5$5$0$1.9$0.0$0.0$0$1$0.45$0.0$0$In geology, the term crystal or crystalline refers to any natural solid with an orderly, repeating internal structure.
+4608$6$6$0$1.88$0.0$0.0$0$1$0.44$0.0$0$Describe a simple chemical test that is useful in identifying the mineral calcite.
+4608$7$7$0$1.82$0.0$0.0$0$1$0.38$0.12$0$Distinguish between compositional and structural variations in minerals and provide one example of each.
+4608$8$8$0$1.24$0.0$0.0$0$0$0.62$0.0$0$However, the quartz crystals in the sample of granite shown in do not display well-defined faces.
+4608$9$9$0$0.0$0.0$0.0$0$1$0.5$0.0$0$Both quartz samples are nonetheless crystalline.
+4608$10$10$0$0.0$0.0$0.0$0$1$0.0$0.0$0$5.
+4608$11$11$0$0.0$0.0$0.0$0$1$0.75$0.0$0$List three terms that describe tenacity.
+4608$12$12$0$0.0$0.0$0.0$0$1$0.5$0.0$0$What is meant by a mineral’s tenacity?
+4608$13$13$0$0.0$0.0$0.0$0$1$0.0$0.0$0$4.
+4608$14$14$0$0.0$0.33$0.0$0$1$0.67$0.0$1$What differentiates cleavage from fracture?
+4608$15$15$0$0.0$0.0$0.0$0$1$0.0$0.0$0$3.
+4608$16$16$0$0.0$0.0$0.0$0$1$0.75$0.0$0$Give an example of a mineral that supports your answer.
+4608$17$17$0$0.0$0.0$0.0$0$1$0.6$0.0$0$Why is color not always a useful property in mineral identification?
+4608$18$18$0$0.0$0.0$0.0$0$1$0.27$0.27$0$(Photo by Chip Clark/Fundamental this mineral feel about as “heavy” as similarly sized rocks you have handled?
+4608$19$19$0$0.0$0.0$0.0$0$0$0.6$0.0$0$This sample of calcite exhibits double refraction.
+4608$1$1$1$3.5$0.25$0.0$0$1$1.0$0.0$2$One group of feldspar minerals contains potassium ions in its structure and is therefore referred to as potassium feldspar.
+4608$2$2$1$3.0$0.25$0.0$0$1$0.75$0.0$2$Striations are found on some cleavage planes of plagioclase feldspar but are not present on potassium feldspar .
+4608$3$3$1$2.64$0.27$0.0$0$1$0.55$0.0$3$Potassium feldspar is usually light cream, salmon pink, or occasionally blue-green in color.
+4608$4$4$1$2.64$0.27$0.0$0$1$0.55$0.0$3$As a component in igneous rocks, feldspar crystals can be identified by their rectangular shape and rather smooth, shiny faces .
+4608$5$5$1$2.52$0.38$0.0$0$1$0.38$0.0$3$The plagioclase feldspars, on the other hand, range in color from white to medium gray.
+4608$6$6$1$2.4$0.08$0.0$0$1$0.62$0.0$1$The other group, called plagioclase feldspar, contains both sodium and calcium ions that freely substitute for one another, depending on the environment during crystallization.
+4608$7$7$0$2.24$0.2$0.0$0$1$0.4$0.07$3$They have two planes of cleavage meeting at or near 90-degree angles, are relatively hard (6 on the Mohs scale), and have a luster that ranges from glassy to pearly.
+4608$8$8$1$2.08$0.09$0.0$0$1$0.45$0.0$1$The only way to distinguish the feldspars physically is to look for a multitude of fine parallel lines, called striations.
+4608$9$9$0$0.0$0.33$0.0$0$0$0.67$0.0$1$However, color should not be used to distinguish these groups.
+4608$10$10$0$0.0$0.43$0.0$0$1$0.57$0.0$3$Despite these differences, all feldspar minerals have similar physical properties.
+4608$11$11$0$0.0$0.14$0.0$0$1$0.71$0.14$1$(Orthoclase and microcline are common members of the potassium feldspar group.)
+4608$12$12$0$0.0$0.25$0.0$0$1$0.5$0.0$1$Two different feldspar structures exist.
+4608$13$13$0$0.0$0.0$0.0$0$1$0.6$0.0$0$temperatures and pressures, which partially accounts for their abundance .
+4608$1$1$1$3.0$0.22$0.0$0$1$0.78$0.0$2$Minerals tend to have one common crystal shape, but a few, such as the pyrite samples shown in have two or more characteristic crystal shapes.
+4608$2$2$1$2.82$0.09$0.0$0$1$0.82$0.0$1$Mineralogists use the term crystal shape, or habit, to refer to the common or characteristic shape of individual crystals or aggregates of crystals.
+4608$3$3$1$2.14$0.5$0.0$0$0$0.57$0.0$7$For example, magnetite crystals sometimes occur as octahedrons, garnets often form dodecahedrons, and halite and fluorite crystals tend to grow as cubes or near-cubes.
+4608$4$4$1$2.0$0.08$0.0$0$1$0.42$0.0$1$Metallic minerals generally have a dense, dark streak, whereas minerals with nonmetallic luster typically have a light-colored streak.
+4608$5$5$0$1.74$0.12$0.0$0$0$0.75$0.0$1$Although the color of a mineral is not always helpful in identification, the streak, which is the color of the powdered mineral, can be very useful.
+4608$6$6$0$1.42$0.14$0.0$0$0$0.57$0.0$2$Some minerals tend to grow equally in all three dimensions, whereas others tend to be elongated in one direction or flattened minerals have crystals that exhibit regular polygons that are helpful in their identification.
+4608$7$7$0$0.0$0.14$0.0$0$1$0.43$0.14$1$Streak can also help distinguish between minerals with metallic luster and those with nonmetallic luster.
+4608$8$8$0$0.0$0.14$0.0$0$1$0.71$0.14$1$Quartz, for example, is harder than a porcelain streak plate and therefore leaves no streak.)
+4608$9$9$0$0.0$0.0$0.0$0$1$0.67$0.0$0$a streak when rubbed across a streak plate.
+4608$1$1$1$3.68$0.78$0.0$0$1$0.56$0.0$7$In graphite the carbon atoms are bonded into sheets that are joined together by very weak electrical forces.
+4608$2$2$0$0.0$0.0$0.0$0$1$0.33$0.0$0$Nevertheless, the angles between equivalent faces are remarkably consistent.
+4608$3$3$0$0.0$0.25$0.0$0$1$0.75$0.0$1$two crystals of the same mineral may not have identical shapes.
+4608$4$4$0$0.0$0.0$0.0$0$0$0.43$0.29$0$Steno’s Law Because some faces of a crystal may grow larger than others,
+4608$1$1$0$2.74$0.62$0.0$0$0$0.75$0.0$10$These rocky materials were rich in oxygen and “oxygen-seeking” elements, particularly silicon and aluminum, along with lesser amounts of calcium, sodium, potassium, iron, and magnesium.
+4608$2$2$0$2.5$0.17$0.0$0$1$0.58$0.0$2$If a bottle filled with clay, iron filings, water, and air were shaken, it would appear to have a single, muddy composition.
+4608$3$3$0$2.48$0.27$0.0$0$1$0.45$0.09$3$During this time of intense heating, Earth became hot enough that elements including iron and nickel began to melt.
+4608$4$4$0$2.2$0.15$0.0$0$1$0.45$0.0$3$The early period of heating resulted in another process of chemical differentiation, whereby melting formed masses of less-dense, molten rock that buoyantly rose toward the surface and solidified to produce a primitive crust.
+4608$5$5$0$2.12$0.1$0.0$0$1$0.45$0.05$2$As material accumulated to form Earth (and for a short period afterward), the high-velocity impact of nebular debris and the decay of radioactive elements caused the temperature of our planet to steadily increase.
+4608$6$6$0$1.8$0.0$0.0$0$1$0.4$0.0$0$Melting produced liquid blobs of heavy metal that gravitationally sank toward the center of the planet.
+4608$7$7$0$1.66$0.0$0.0$0$1$0.33$0.0$0$If that bottle were then allowed to sit undisturbed, the different materials would separate and settle into layers.
+4608$8$8$0$1.1$0.15$0.0$0$0$0.38$0.08$2$This process occurred rapidly on the scale of geologic time and produced Earth’s dense iron-rich core.
+4608$9$9$0$0.0$0.4$0.0$0$1$0.0$0.8$2$Formation of Earth’s Layered Structure
+4608$10$10$0$0.0$0.25$0.0$0$1$0.25$0.25$1$Earth’s interior.
+4608$11$11$0$0.0$0.0$0.0$0$1$0.75$0.0$0$The force of gravity is responsible for the layering in the bottle of muddy water, as well as the layering we detect in
+4608$12$12$0$0.0$0.17$0.0$0$0$0.83$0.0$1$Above the iron would be a layer of clay, then water, and, finally, air.
+4608$13$13$0$0.0$0.25$0.0$1$1$0.75$0.0$1$The iron filings, which are the densest, would be the first to sink to the bottom.
+4608$1$1$1$3.85$0.6$0.0$0$1$0.8$0.1$6$Amethyst, another variety of quartz, owes its violet color to the presence of trace amounts of iron.
+4608$2$2$1$3.46$0.54$0.0$0$1$0.69$0.0$7$Mineralogists use the term mineral species for a collection of specimens that exhibit similar internal structures and chemical compositions.
+4608$3$3$1$2.3$0.56$0.0$0$0$0.56$0.11$5$Some important mineral classes are the silicates (SiO442), internal structures and, hence, similar properties.
+4608$4$4$$2.24$0.25$0.0$1$0$0.62$0.0$2$However, just as individual plants and animals within a species differ somewhat from one another, so do most specimens of the same mineral.
+4608$5$5$1$2.0$0.5$0.0$0$0$0.5$0.0$6$However, when small amounts of aluminum are incorporated into its atomic structure, quartz appears quite dark, in a variety called smoky quartz.
+4608$6$6$0$1.42$0.25$0.0$0$0$0.42$0.17$3$For example, halite (NaCl) and silvite (KCl) belong to the halide class and commonly occur together in evaporite deposits.
+4608$7$7$0$0.0$0.4$0.0$0$1$0.6$0.0$2$Furthermore, minerals within the same class are often found together in the same rock.
+4608$8$8$0$0.0$0.0$0.0$0$1$0.33$0.0$0$—and many exhibit similar cleavage.
+4608$9$9$1$0.0$0.27$0.0$0$0$0.55$0.0$3$For example, minerals belonging to the carbonate class react chemically with acid—albeit to varying degrees
+4608$10$10$1$0.0$0.75$0.0$0$1$1.0$0.0$3$Mineral species are assigned to mineral classes.
+4608$11$11$0$0.0$0.33$0.0$0$0$0.5$0.17$2$For example, pure quartz (SiO2) is colorless and transparent.
+4608$12$12$1$0.0$0.75$0.0$0$0$1.0$0.0$3$Some mineral species are further subdivided into mineral varieties.
+4608$13$13$1$0.0$0.43$0.0$0$0$0.86$0.0$3$Some common mineral species are quartz, calcite, galena, and pyrite.
+4608$14$14$0$0.0$0.14$0.0$0$1$0.71$0.0$1$Minerals are placed into categories in much the same way that plants and animals are classified.
+4609$1$1$0$2.9$0.1$0.0$1$1$0.5$0.4$1$Most Oort cloud comets orbit the Sun at distances greater than 10,000 times the Earth–Sun distance.
+4609$2$2$0$2.9$0.11$0.0$1$1$0.56$0.11$1$Many of Saturn’s smallest moons have irregular shapes and are only a few tens of kilometers in diameter.
+4609$3$3$0$2.74$0.08$0.0$0$1$0.77$0.08$1$Titan has Earth-like landforms and geologic processes, such as dune formation and streamlike erosion caused by methane “rain.
+4609$4$4$0$2.74$0.12$0.0$0$1$0.75$0.0$1$The moons vary significantly in size, shape, surface age, and origin.
+4609$5$5$0$2.71$0.0$0.0$1$1$0.59$0.06$0$Record wind speeds exceeding 2400 kilometers (1500 miles) per hour encircle the planet, making Neptune one of the windiest places in the solar system.
+4609$6$6$0$2.66$0.04$0.0$1$1$0.52$0.09$1$Like the asteroids in the inner solar system, most Kuiper belt comets move in slightly elliptical orbits that lie roughly in the same plane Kuiper belt comets or the gravitational influence of one of the Jovian planets occasionally alters their orbits sufficiently to send them into our view.
+4609$7$7$0$2.62$0.0$0.0$1$1$0.53$0.11$0$The newest grouping, dwarf planets, includes Ceres, a body about 1000 kilometers (600 miles) in diameter and the largest known object in the asteroid belt, and Pluto, a former planet.
+4609$8$8$0$2.56$0.0$0.0$0$1$0.78$0.0$0$Analyzed samples suggest that the surface of the asteroid was identical in composition to meteorites and was once part of a larger asteroid.
+4609$9$9$0$2.54$0.08$0.0$1$1$0.38$0.23$1$At least 3 (Rhea, Dione, and Tethys) show evidence of tectonic activity, where internal forces have ripped apart their icy surfaces.
+4609$10$10$0$2.48$0.12$0.0$0$1$0.62$0.0$2$The outgassing, comprised mostly of water, is thought to be the source that replenishes the material areas called “tiger stripes” that consist of four large fractures with ridges on either side.
+4609$11$11$0$2.48$0.06$0.0$0$1$0.65$0.12$1$The atmospheric pressure at Titan’s surface is about 1.5 times that at Earth’s surface, and the atmospheric composition is about 98 percent nitrogen and 2 percent methane, with trace organic compounds.
+4609$12$12$0$2.48$0.12$0.0$0$1$0.62$0.0$1$Twenty-three of the moons are “original” satellites that formed in tandem with their parent planet.
+4609$13$13$0$2.42$0.15$0.0$0$1$0.54$0.08$2$The discovery was made as Uranus passed in front of a distant star and blocked its view, a process called occultation (occult = hidden).
+4609$14$14$0$2.4$0.11$0.0$0$1$0.56$0.11$1$Researchers estimate that thousands of meteoroids enter Earth’s atmosphere every day.
+4609$15$15$0$2.32$0.08$0.0$0$1$0.58$0.0$1$One of several hypotheses to explain the boulderstrewn topography is seismic shaking, which would cause the boulders to move upward as the finer materials sink.
+4609$16$16$0$2.3$0.0$0.0$1$1$0.3$0.4$0$The shortest-period comet (Encke’s Comet) orbits the Sun once every 3 years.
+4609$17$17$0$2.28$0.0$0.0$0$1$0.64$0.0$0$Observers saw the star “wink” briefly five times (meaning five rings) before the primary occultation and again five times afterward.
+4609$18$18$0$2.25$0.0$0.0$1$1$0.3$0.3$0$Saturn’s largest moon, Titan, is larger than Mercury and is the second-largest satellite in the solar system.
+4609$19$19$0$2.22$0.1$0.0$0$1$0.5$0.05$2$Another feature that Neptune has in common with the other Jovian planets is layers of white, cirrus-like clouds (probably frozen methane) about 50 kilometers (30 miles) above the main cloud deck.
+4609$20$20$0$2.22$0.27$0.0$0$1$0.27$0.27$3$Before Apollo astronauts brought Moon rocks back to Earth, meteorites were the only extraterrestrial materials that could be studied in the laboratory.
+4609$21$21$0$2.17$0.0$0.0$0$1$0.55$0.14$0$In 2006, the International Astronomical Union organized solar system objects not classified as planets or moons into two broad categories: (1) small solar system bodies, including asteroids, comets, and meteoroids, and (2) dwarf planets.
+4609$22$22$0$2.16$0.0$0.0$0$1$0.58$0.0$0$At least 40 terrestrial craters exhibit features that could be produced only by an explosive impact of a large asteroid or perhaps even a comet nucleus.
+4609$23$23$0$2.1$0.07$0.0$0$1$0.43$0.21$1$Impacts on Jupiter’s moons Amalthea and Thebe are believed to be the source of the debris from which the outer gossamer ring formed.
+4609$24$24$0$2.1$0.0$0.0$0$1$0.55$0.0$0$There are countless chunks of debris in the vast spaces separating the eight planets and in the outer reaches of the solar system.
+4609$25$25$0$2.08$0.0$0.0$0$1$0.54$0.0$0$By analyzing how these rings scatter light, researchers determined that the rings are composed of fine, dark particles similar in size to smoke particles.
+4609$26$26$0$2.04$0.0$0.05$1$1$0.18$0.27$0$Studies conducted at NASA’s Jet Propulsion Laboratory suggest that Miranda, the innermost of the five largest moons, was recently geologically active—most likely driven by gravitational heating, as occurs on Io.
+4609$27$27$0$2.04$0.08$0.0$0$1$0.42$0.08$1$Meteoroids less than about 1 meter (3 feet) in diameter generally vaporize before reaching Earth’s surface.
+4609$28$28$0$2.02$0.0$0.0$1$1$0.21$0.21$0$Comet Holmes, which orbits the Sun every 6 years, was uncharacteristically active during its most recent entry into the inner solar system.
+4609$29$29$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Based on the amount of erosion observed on the crater rim, the impact likely occurred within the past 50,000 years.
+4609$30$30$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Its orbital period averages 76 years, and every one of its 29 appearances since 240 b.c.e. has been recorded, thanks to ancient Chinese astronomers—testimony to their dedication as astronomical observers and the endurance of Chinese culture.
+4609$31$31$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Sublimation is the process whereby a solid (ice) changes directly to a gas.
+4609$32$32$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Through his primitive telescope, the rings appeared as two small bodies adjacent to the planet.
+4609$33$33$0$2.0$0.0$0.0$0$1$0.5$0.0$0$The bright red area on the left side of the image (see arrow) is newly erupted lava.
+4609$34$34$0$2.0$0.0$0.0$0$1$0.46$0.15$0$The inset shows an artist’s depiction of jets of gas and dust erupting from Comet Wild 2.
+4609$35$35$0$1.98$0.07$0.0$0$1$0.4$0.07$1$Twelve years and nearly 3 billion miles of Voyager 2 travel provided investigators an amazing opportunity to view the outermost planet.
+4609$36$36$0$1.96$0.12$0.0$0$1$0.29$0.29$3$In 1910, Halley’s Comet made a very close approach to Earth, making for a spectacular Named for Dutch astronomer Jan Oort, the Oort cloud consists of comets that are distributed in all directions from the Sun, forming a spherical shell around the solar system.
+4609$37$37$0$1.94$0.0$0.0$0$1$0.47$0.0$0$Indirect evidence from meteorites suggests that some asteroids might have been heated by a large impact causing them to differentiate into a dense iron core and a rocky mantle.
+4609$38$38$0$1.94$0.0$0.0$0$1$0.4$0.27$0$Named in honor of astronomer Gerald Kuiper, who predicted its existence, the Kuiper belt hosts comets that orbit in the outer solar system, beyond Neptune .
+4609$39$39$0$1.91$0.0$0.0$0$1$0.43$0.1$0$The bright area in the lower-central region, sometimes referred to as “the heart of the heart” is formally named Sputnik Planum and is thought to be the source of exotic ices that flowed to produce the two bluish lobes near the bottom of the image.
+4609$40$40$0$1.9$0.0$0.0$0$1$0.4$0.2$0$Their ring nature was determined 50 years later by Dutch astronomer Christian Huygens.
+4609$41$41$0$1.88$0.0$0.0$0$1$0.38$0.25$0$The most striking feature of Saturn is its system of rings, first observed by Galileo in 1610 .
+4609$42$42$0$1.88$0.11$0.0$0$1$0.33$0.0$1$After sunset on a clear, dark night, many are bright enough to be seen with the naked eye.
+4609$43$43$0$1.88$0.0$0.0$0$1$0.44$0.0$0$Furthermore, the faint nature of the rings indicates that these minute particles are widely dispersed.
+4609$44$44$0$1.88$0.0$0.0$0$1$0.38$0.23$0$The main ring is composed of particles believed to be fragments blasted from the surfaces of Metis and Adrastea, two small moons of Jupiter.
+4609$45$45$0$1.87$0.06$0.0$0$1$0.31$0.25$1$Requiring more than 29 Earth years to make one revolution, Saturn is almost twice as far from the Sun as Jupiter, yet their atmospheres, compositions, and internal structures are remarkably similar.
+4609$46$46$0$1.84$0.0$0.0$0$1$0.42$0.0$0$More than 30 tons of iron fragments have been found in the immediate area, but attempts to locate the main body have been unsuccessful.
+4609$47$47$0$1.81$0.0$0.0$0$1$0.36$0.18$0$As on Jupiter, the dynamics of Saturn’s atmosphere are driven by the heat released by gravitational compression.
+4609$48$48$0$1.77$0.0$0.0$0$1$0.33$0.22$0$The bottom of the image shows Triton’s wind- and sublimationeroded south polar cap.
+4609$49$49$0$1.75$0.0$0.0$0$1$0.3$0.3$0$Titan and Neptune’s Triton are the only satellites in the solar system known to have substantial atmospheres.
+4609$50$50$0$1.72$0.0$0.0$0$1$0.33$0.13$0$The gravitational effect of a distant passing star may send an occasional Oort cloud comet into a highly eccentric orbit that carries it toward the Sun.
+4609$51$51$0$1.71$0.0$0.0$0$1$0.32$0.14$0$Notable among them is Arizona’s Meteor Crater, a huge cavity more than 1 kilometer (0.6 mile) wide and 170 meters (560 feet) deep, with an upturned rim that rises above the surrounding countryside .
+4609$52$52$0$1.7$0.08$0.0$0$1$0.25$0.08$1$After exploring this asteroid by digging into its surface to extract fresh samples, it is scheduled to return to Earth in 2020.
+4609$53$53$0$1.7$0.0$0.0$0$1$0.33$0.07$0$More recent ground- and space-based observations indicate that Uranus has at least 10 sharp-edged, distinct rings orbiting its equatorial region.
+4609$54$54$0$1.66$0.06$0.0$0$1$0.19$0.31$1$In November 2005, the Japanese probe Hayabusa landed on a small near-Earth asteroid named 25143 Itokawa; it returned to Earth in June 2010.
+4609$55$55$0$1.65$0.0$0.0$0$1$0.3$0.1$0$List and describe the principal characteristics of the small bodies that inhabit the solar system.
+4609$56$56$0$1.62$0.0$0.0$0$0$0.81$0.0$0$Although the atmosphere is about 93 percent hydrogen and 3 percent helium by volume, the clouds (or condensed gases) are composed of ammonia, ammonia hydrosulfide, and water, each segregated by temperature.
+4609$57$57$0$1.49$0.0$0.0$0$1$0.15$0.38$0$Neptune also exhibits large dark spots, thought to be rotating storms similar to Jupiter’s Great Red Spot.
+4609$58$58$0$1.39$0.06$0.0$0$0$0.62$0.06$1$This is analogous to what happens when a jar of sand and various-sized pebbles is shaken: The larger pebbles rise to the top, while the smaller sand grains settle to the bottom (sometimes referred to as the Brazil nut effect).
+4609$59$59$0$1.33$0.0$0.0$1$0$0.33$0.33$0$Jupiter’s four largest moons These moons are often referred to as the Galilean moons because Galileo discovered them.
+4609$60$60$0$1.3$0.18$0.0$0$0$0.45$0.09$2$Some, called micrometeorites, are so tiny and their rate of fall so slow that they drift to Earth continually as space dust.
+4609$61$61$0$1.23$0.12$0.0$1$0$0.12$0.5$1$However, most comets are too small and too distant to be observed from Earth, even using the Hubble Space Telescope.
+4609$62$62$0$1.16$0.08$0.0$0$0$0.5$0.0$1$This disc-shaped structure is thought to contain about a billion objects over 1 kilometer (0.62 mile) in size.
+4609$63$63$0$1.05$0.1$0.0$0$0$0.4$0.1$1$However, Neptune’s storms appear to have comparatively short life spans—usually only a few years.
+4609$64$64$0$0.96$0.0$0.0$0$0$0.46$0.08$0$This plume of volcanic gases and debris is rising more than 100 kilometers (60 miles) above Io’s surface.
+4609$65$65$0$0.94$0.0$0.0$0$0$0.45$0.09$0$However, only a tiny fraction of Oort cloud comets have orbits that bring them into the inner solar system.
+4609$66$66$0$0.87$0.0$0.0$0$0$0.37$0.26$0$Although the bands of clouds are fainter and wider near the equator, rotating “storms” similar to Jupiter’s Great Red Spot occur in Saturn’s atmosphere, as does intense lightning.
+4609$67$67$0$0.7$0.0$0.1$0$0$0.2$0.4$0$This image shows Comet Wild 2, as seen by NASA’s Stardust spacecraft.
+4609$68$68$0$0.0$0.0$0.0$0$0$0.6$0.1$0$This enhanced color image is used to detect differences in the composition and texture of Pluto’s surface
+4609$69$69$0$0.0$0.0$0.0$0$1$1.0$0.0$0$More than 250 others may be of impact origin.
+4609$70$70$0$0.0$0.0$0.0$0$1$0.4$0.0$0$(3) the rocky and/or metallic remains of comets that once ejected by a violent asteroid impact.
+4609$71$71$0$0.0$0.11$0.0$0$1$0.56$0.0$1$during formation of the solar system, (2) material that is continually being ejected from the asteroid belt, or
+4609$72$72$0$0.0$0.0$0.0$0$1$0.17$0.67$0$Halley’s Comet originated in the Kuiper belt.
+4609$73$73$0$0.0$0.0$0.0$1$1$0.57$0.29$0$Most comets originate in one of two regions: the Kuiper belt or the Oort cloud.
+4609$74$74$0$0.0$0.0$0.0$0$1$0.0$1.0$0$Belt and Oort Cloud
+4609$75$75$0$0.0$0.0$0.0$0$1$0.0$0.67$0$Comet Wild 2
+4609$76$76$0$0.0$0.09$0.0$0$1$0.55$0.0$1$that the coma contained a wide range of organic compounds and substantial amounts of silicate crystals.
+4609$77$77$0$0.0$0.0$0.0$0$1$0.44$0.12$0$number of short-period comets (those having orbital periods of less than 200 years), such as the famous Halley’s Comet, make regular encounters with the inner solar system .
+4609$78$78$0$0.0$0.0$0.0$0$1$0.8$0.0$0$The nucleus of the comet is within the bright spot in the center.
+4609$79$79$0$0.0$0.0$0.0$0$1$0.0$1.0$0$Holmes
+4609$80$80$0$0.0$0.0$0.0$0$1$0.17$0.17$0$Hayabusa 2, launched in 2014, July 2018.
+4609$81$81$0$0.0$0.0$0.0$0$1$0.43$0.0$0$Also shown in red are the orbits of a few known nearEarth asteroids.
+4609$82$82$0$0.0$0.0$0.0$1$1$0.67$0.33$0$The asteroid belt The orbits of most asteroids lie between Mars and Jupiter.
+4609$83$83$0$0.0$0.0$0.0$0$1$0.43$0.0$0$Name three bodies in the solar system that exhibit active volcanism.
+4609$84$84$0$0.0$0.0$0.0$0$1$0.0$0.0$0$6.
+4609$85$85$0$0.0$0.0$0.0$0$1$0.29$0.57$0$How are Saturn’s satellite Titan and Neptune’s satellite Triton similar to one another?
+4609$86$86$0$0.0$0.0$0.0$0$1$0.0$0.0$0$5.
+4609$87$87$0$0.0$0.0$0.0$0$1$0.86$0.0$0$What two roles do ring moons play in the nature of planetary ring systems?
+4609$88$88$0$0.0$0.0$0.0$0$1$0.0$0.5$0$How are Jupiter and Saturn similar to one 4.
+4609$89$89$0$0.0$0.0$0.0$0$1$0.0$0.0$0$3.
+4609$90$90$0$0.0$0.0$0.0$0$1$0.2$0.4$0$What is distinctive about Jupiter’s satellite Io?
+4609$91$91$0$0.0$0.0$0.0$0$1$0.0$0.0$0$2.
+4609$92$92$0$0.0$0.0$0.0$0$1$0.17$0.67$0$What is the nature of Jupiter’s Great Red Spot?
+4609$93$93$0$0.0$0.0$0.0$0$1$0.0$0.0$0$1.
+4609$94$94$0$0.0$0.0$0.0$1$1$0.2$0.4$0$Triton, Neptune’s largest moon
+4609$95$95$0$0.0$0.0$0.0$0$1$0.38$0.0$0$above the surface and were blown downwind for more than 100 kilometers (60 miles).
+4609$96$96$0$0.0$0.0$0.0$0$1$0.33$0.17$0$Neptune has a dynamic atmosphere, much like that of the other Jovian planets .
+4609$97$97$0$0.0$0.0$0.0$0$1$0.4$0.0$0$, astronomers knew very little about this planet until 1989.
+4609$98$98$0$0.0$0.14$0.0$0$0$0.14$0.57$1$The Windy Planet Because of Neptune’s great distance from Earth
+4609$99$99$0$0.0$0.0$0.0$0$1$0.0$1.0$0$Neptune:
+4609$100$100$0$0.0$0.0$0.0$0$1$0.43$0.0$0$Interspersed among these distinct structures are broad sheets of dust.
+4609$101$101$0$0.0$0.0$0.0$0$1$0.67$0.33$0$Uranus has a ring system.
+4609$102$102$0$0.0$0.0$0.0$0$1$0.57$0.0$0$whereas others possess large, smooth areas on otherwise crater-riddled surfaces.
+4609$103$103$0$0.0$0.0$0.0$0$1$0.43$0.14$0$Enceladus is another unique satellite of Saturn—one of the few where active eruptions have been observed .
+4609$104$104$0$0.0$0.0$0.0$0$1$0.57$0.0$0$In addition, the northern latitudes appear to have lakes of liquid methane.
+4609$105$105$0$0.0$0.0$0.0$0$1$0.17$0.33$0$Titan was visited and photographed by the CassiniHuygens probe in 2005.
+4609$106$106$0$0.0$0.0$0.0$0$1$0.5$0.17$0$Others, like Hyperion, are so porous that impacts punch into their surfaces .
+4609$107$107$0$0.0$0.0$0.0$0$1$0.17$0.5$0$Saturn’s atmosphere, like Jupiter’s, is dynamic.
+4609$108$108$0$0.0$0.0$0.0$0$1$0.43$0.14$0$More recently, the ring system was thoroughly investigated by the Galileo mission.
+4609$109$109$0$0.0$0.0$0.0$0$1$1.0$0.0$0$system.
+4609$1$1$0$2.5$0.06$0.0$0$1$0.69$0.0$1$They provide us with iron and aluminum to build automobiles, gypsum for plaster and drywall for home construction, and copper wire that carries electricity and connects us to the Internet.
+4609$2$2$0$2.28$0.0$0.0$0$1$0.64$0.0$0$In addition to their economic importance, these groups include minerals that are major constituents in sediments and sedimentary rocks.
+4609$3$3$0$2.24$0.12$0.0$0$1$0.5$0.0$1$Common nonsilicate mineral groups include the carbonates, sulfates, and halides.
+4609$4$4$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Furthermore, these two elements readily combine to form the basic “building block” for the most common mineral group, the silicates.
+4609$5$5$0$1.93$0.0$0.0$0$1$0.44$0.11$0$As shown in oxygen and silicon are by far the most common elements in Earth’s crust.
+4609$6$6$0$1.85$0.0$0.0$0$1$0.4$0.1$0$More than 800 silicate minerals are known, and they account for more than 90 percent of Earth’s crust.
+4609$7$7$0$0.0$0.17$0.0$0$0$0.33$0.0$1$Although not as common as silicates, some nonsilicate minerals are very important economically.
+4609$8$8$0$0.0$0.0$0.0$0$1$0.67$0.0$0$’s crust than the silicates, they are often grouped together under the heading nonsilicates.
+4609$9$9$0$0.0$0.0$0.0$0$0$0.4$0.2$0$Because other mineral groups are far less abundant in Earth
+4609$10$10$0$0.0$0.0$0.0$0$1$0.5$0.5$0$magnesium (Mg).
+4609$1$1$0$2.68$0.05$0.0$0$1$0.79$0.0$1$As the accumulation of sand continAs is the case with running water, wind drops its load of ues, it becomes a more imposing barrier to the wind sediment when velocity falls and the energy available for and thus a more efficient trap for even more sand.
+4609$2$2$0$2.6$0.1$0.0$0$1$0.7$0.0$1$Sand moves up the gentler slope on the clump of vegetation or a rock, sweeps around and over windward side by saltation.
+4609$3$3$0$2.48$0.07$0.0$0$1$0.67$0.0$1$Continued sand accumulation, coupled with periodic slides down the slip face, results in the slow migration of the dune in the direction of air movement.
+4609$4$4$0$2.44$0.0$0.0$0$1$0.72$0.0$0$Just beyond the crest of the the object, leaving a “shadow” of slower-moving air dune, where the wind velocity is reduced, the sand accubehind the obstacle and a smaller zone of quieter air mulates.
+4609$5$5$0$2.34$0.0$0.0$0$1$0.67$0.0$0$In some cases, fences are As sand built sufficiently upwind of the dunes to stop their at the dune migration.
+4609$6$6$0$2.34$0.0$0.0$0$1$0.67$0.0$0$In this way, the leeward slope of the dune, called the slip face, maintains an angle of about 34 degrees, the angle of repose for loose dry sand.
+4609$7$7$0$2.33$0.04$0.0$0$1$0.58$0.17$1$When the dunes are relatively gentle windward slope. eventually buried under other layers of sediment and become part of the sedimentary rock record, White Sands National their asymmetrical shape is destroyed, but the Monument The dunes at this cross-beds remain as testimony to their origin.
+4609$8$8$0$2.24$0.07$0.0$0$1$0.53$0.07$1$In Kuwait protecslope steepens and some of tive fences extend for almost 10 kilometers the sand slides (6 miles) around one important oil field.
+4609$9$9$0$2.23$0.0$0.0$0$1$0.56$0.22$0$The dunes slowly in the sandstone walls of Zion Canyon in southern migrate with the wind.
+4609$10$10$0$2.2$0.1$0.0$0$1$0.5$0.0$1$As sand is deposited on the slip face, layers form that are inclined in the direction the wind is blowing.
+4609$11$11$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Migrating down the steep dunes can also pose a problem to the construction slip face.
+4609$12$12$0$1.99$0.0$0.0$0$1$0.44$0.22$0$In portions of the Middle East, valuable oil rigs must be protected from encroaching dunes.
+4609$13$13$0$1.46$0.0$0.0$0$0$0.73$0.0$0$Thus, sand begins to accumulate there is a sufficient supply of sand and the wind blows wherever an obstruction across the path of the wind steadily for a long enough time, the mound of sand slows its movement.
+4609$14$14$0$1.24$0.0$0.0$0$0$0.62$0.0$0$These sloping layers are called Strong winds move sand up the cross-beds .
+4609$15$15$0$0.0$0.0$0.0$0$1$0.29$0.0$0$As sand continues to collect, however, crest, the the fences must be built higher.
+4609$16$16$0$0.0$0.2$0.0$0$1$0.4$0.2$1$In dunes are advancing across irrigated fields in Egypt.
+4609$17$17$0$0.0$0.0$0.0$0$1$0.5$0.0$0$For some areas, moving sand is troublesome.
+4609$18$18$0$0.0$0.0$0.0$0$1$0.0$1.0$0$Michael Collier) (http://goo.gl/m8eYBH)
+4609$19$19$0$0.0$0.0$0.0$0$1$0.5$0.5$0$(Photos by Utah .
+4609$20$20$0$0.0$0.0$0.0$0$1$0.33$0.22$0$landmark in southeastern New Mexico are composed Nowhere is cross-bedding more prominent than of gypsum.
+4609$21$21$0$0.0$0.0$0.0$1$0$0.5$0.0$0$(Recall from Chapter 15 that the angle of repose is the steepest angle at which loose material remains stable.)
+4609$22$22$0$0.0$0.0$0.0$0$0$0.67$0.0$0$Some of the saltating sand eventually some of it slides under the pull of gravity.
+4609$23$23$0$0.0$0.0$0.0$0$1$0.8$0.0$0$As more sand collects, the slope steepens, and just in front of the obstacle.
+4609$24$24$0$0.0$0.0$0.0$0$1$0.57$0.0$0$The dunes in are Moving air encountering an object, such as a a good example.
+4609$25$25$0$0.0$0.0$0.0$0$1$0.0$0.0$0$slope more gently inclined.
+4609$26$26$0$0.0$0.0$0.0$0$1$0.67$0.0$0$form blanketlike layers over large areas, winds comMany dunes have an asymmetrical profile, with the monly deposit sand in mounds or ridges called dunes leeward (sheltered) slope being steep and the windward .
+4609$27$27$0$0.0$0.0$0.0$0$1$0.6$0.0$0$Unlike many deposits of silt, which grows into a dune.
+4609$28$28$0$0.0$0.0$0.0$0$1$0.5$0.0$0$If transport diminishes.
+4609$29$29$0$0.0$0.0$0.0$0$1$0.67$0.0$0$grains moving with the wind come to rest in these wind shadows.
+4609$1$1$0$2.36$0.0$0.0$1$1$0.38$0.19$0$Images from Voyagers 1 and 2 revealed, to the surprise of most geoscientists, that each of the four GaliJupiter’s Rings One of the surprising aspects of the lean satellites is a unique world .
+4609$2$2$0$2.23$0.0$0.0$1$1$0.23$0.54$0$The two largest, Ganymede and Callisto, are roughly the size of Mercury, whereas the two smaller ones, Europa and Io, are about the size of Earth’s Moon.
+4609$3$3$0$2.18$0.0$0.0$0$1$0.56$0.11$0$Jupiter also has many very small satellites (about solar system lie beneath the icy surfaces of some of Jupi20 kilometers [12 miles] in diameter) that revolve in ter’s moons.
+4609$4$4$0$2.12$0.0$0.0$1$1$0.25$0.25$0$Galileo discovered the 4 largest satellites, referred to as Galilean satellites, in 1610 .
+4609$5$5$0$2.11$0.0$0.0$0$1$0.52$0.14$0$Umbrella-shaped plumes have been source for volcanic activity is tidal energy generated by a relentless “tug of war” between Jupiter and the other volcanically active bodies of the Galilean moons, Galilean satellites—with Io as the rope.
+4609$6$6$0$2.06$0.0$0.0$1$1$0.25$0.12$0$The eight largest moons appear to have formed around Jupiter as the solar system condensed.
+4609$7$7$0$2.03$0.0$0.0$0$1$0.47$0.18$0$The Galileo mission also unexpectedly revealed that the com- Voyager 1 mission was the discovery of Jupiter’s ring position of each satellite is strikingly different, implying a different evolution for each.
+4609$8$8$0$2.0$0.0$0.0$1$1$0.2$0.2$0$The best smooth regions, and areas covered cratered, much like Earth’s Moon.
+4609$9$9$0$1.99$0.0$0.0$0$1$0.44$0.22$0$The innermost of the Galilean moons, Io, is perhaps the most volcanically active body in our solar system.
+4609$10$10$0$1.82$0.0$0.0$0$1$0.38$0.12$0$The gravitational other than Earth known has an icy surface that to exist in the solar system.
+4609$11$11$0$1.74$0.0$0.0$0$1$0.31$0.23$0$Jupiter’s Moons Jupiter’s satellite system, consisting of 67 moons discovered thus far, resembles a miniature solar system.
+4609$12$12$0$1.34$0.0$0.0$1$0$0.4$0.07$0$For example, detailed images from Galileo the opposite direction (retrograde motion) of the larghave revealed that Europa’s icy surface is quite young est moons and have eccentric (elongated) orbits steeply and exhibits cracks apparently filled with dark fluid from inclined to the Jovian equator.
+4609$13$13$0$1.18$0.0$0.0$0$0$0.56$0.11$0$This gravitational flexing of Io is transformed into heat (similar to the backand-forth bending of a piece of sheet metal) and results in Io’s spectacular sulfurous volcanic eruptions.
+4609$14$14$0$1.04$0.0$0.0$0$0$0.5$0.08$0$This suggests that under its icy shell, Europa to be asteroids or comets that passed near enough to be must have a warm, mobile interior—perhaps an ocean.
+4609$15$15$0$0.85$0.0$0.0$0$0$0.4$0.1$0$For example, Ganymede has a dynamic core that generates a strong magnetic field not observed in other satellites.
+4609$16$16$0$0.0$0.0$0.0$0$1$0.43$0.0$0$prospects of finding liquid water within our by numerous parallel grooves.
+4609$17$17$0$0.0$0.0$0.0$0$1$0.56$0.11$0$exhibits cratered areas, Galilean satellites, is densely water at some point in its history).
+4609$18$18$0$0.0$0.04$0.0$0$1$0.24$0.2$1$Lava, thought to be mainly composed of silicate minerals, regularly erupts on its The planets closer to the Sun than Earth are considered too warm to contain liquid water, and those farther from the Sun are generally too cold (although recall that Mars probably had abundant liquid satellite,
+4609$19$19$0$0.0$0.0$0.0$0$1$0.18$0.09$0$’s tidal bulge as its slightly eccentric orbit takes it alternately closer to and farther from Jupiter.
+4609$20$20$0$0.0$0.0$0.0$0$1$0.0$0.5$0$push on Io
+4609$21$21$0$0.0$0.0$0.0$0$1$0.38$0.12$0$is crisscrossed by many field of Jupiter and the other nearby satellites pull and linear features.
+4609$22$22$0$0.0$0.0$0.0$0$1$0.17$0.0$0$More than 80 active, sulfurous volcanic centers have been discovered.
+4609$23$23$0$0.0$0.0$0.0$0$1$0.0$0.0$0$right.
+4609$24$24$0$0.0$0.0$0.0$0$1$0.38$0.05$0$it, there is considerable interest in sending an orbiter to The Galilean moons can be observed with binocuEuropa—and, eventually, a lander capable of launching a lars or a small telescope and are interesting in their own robotic submarine—to determine whether it harbors life.
+4609$25$25$0$0.0$0.0$0.0$0$0$0.5$0.08$0$either gravitationally captured by Jupiter or remnants of Because liquid water is a necessity for life as we know the collisions of larger bodies.
+4609$26$26$0$0.0$0.0$0.0$0$0$0.5$0.0$0$These satellites appear below.
+4609$1$1$0$3.22$0.29$0.0$1$1$0.57$0.0$4$Perhaps the easiest type of bond to visualize is the ionic bond, in which one atom gives up one or more valence electrons to another atom to form ions—positively and negatively charged atoms.
+4609$2$2$0$3.0$0.2$0.0$0$1$0.8$0.0$3$The strong attractive force that holds two hydrogen atoms together results from a covalent bond, a chemical bond formed by the sharing of one or more valence electrons between a pair of atoms.
+4609$3$3$0$2.5$0.25$0.0$0$1$0.5$0.0$2$Chlorine, on the other hand, gains one electron and becomes a negatively charged chloride ion.
+4609$4$4$0$2.4$0.14$0.0$0$1$0.54$0.07$4$Oppositely charged ions are strongly attracted to one another and join to form ionic Consider the ionic bonding that occurs between sodium (Na) and chlorine (Cl) to produce the solid ionic compound sodium chloride—the mineral halite atom gives up its single valence electron to chlorine and, as a result, becomes a positively charged sodium ion.
+4609$5$5$0$2.39$0.12$0.0$0$1$0.56$0.06$2$In other words, the two electrons are shared by both hydrogen atoms and are attracted simultaneously by the positive in the solid ionic compound sodium chloride (NaCl), table salt.
+4609$6$6$0$2.39$0.12$0.0$0$1$0.56$0.06$2$Notice that salt consists of alternating sodium and chlorine ions, positioned in such a manner that each positive ion is attracted to and surrounded on all sides by negative ions and vice versa.
+4609$7$7$0$2.38$0.0$0.0$0$1$0.69$0.0$0$Imagine two hydrogen atoms (each with one proton and one electron) approaching one another, as shown in Once they meet, the electron configuration will change so that both electrons will primarily occupy the space between the atoms.
+4609$8$8$0$2.0$0.22$0.0$0$0$0.78$0.0$2$This arrangement maximizes the attraction between ions with opposite charges while minimizing the repulsion between ions with identical charges.
+4609$9$9$0$1.6$0.4$0.0$0$0$0.4$0.0$4$Thus, an ionic bond is the attraction of oppositely charged ions to one another, and it produces an electrically neutral ionic compound.
+4609$10$10$0$1.56$0.22$0.0$0$0$0.56$0.0$2$Sometimes the forces that hold atoms together cannot be understood on the basis of the attraction of oppositely charged ions.
+4609$11$11$0$1.0$0.19$0.0$0$0$0.31$0.0$3$Thus, ionic compounds consist of an orderly arrangement of oppositely charged ions assembled in a definite ratio that provides overall electrical neutrality.
+4609$12$12$0$0.0$0.17$0.0$0$1$0.67$0.0$1$One example is the hydrogen molecule tightly and no ions are present.
+4609$13$13$0$0.0$0.2$0.0$0$1$0.8$0.0$1$chlorine ions in ordinary table salt.
+4609$14$14$0$0.0$0.33$0.0$0$1$0.33$0.0$2$We know that ions having unlike charges attract.
+4609$15$15$0$0.0$0.29$0.0$0$1$0.86$0.0$2$The atom that loses electrons becomes a positive ion, and the atom that gains electrons becomes a negative ion.
+4609$1$1$0$2.56$0.2$0.0$0$1$0.53$0.2$3$Olivine Group Olivine, a family of high-temperature silicate minerals, is black to olive green in color and has a glassy luster and a conchoidal fracture .
+4609$2$2$0$2.5$0.25$0.0$0$1$0.5$0.0$3$Rather than develop large crystals, olivine commonly forms small, rounded crystals that give olivine-rich rocks a granular appearance .
+4609$3$3$0$2.26$0.16$0.0$0$1$0.47$0.0$3$The most common member of a chemically complex group of minerals called amphiboles green to black in color, and except for its cleavage angles, which are about 60 degrees and 120 degrees, it is very similar in appearance to augite.
+4609$4$4$0$2.16$0.22$0.0$0$1$0.33$0.11$2$Hornblende is found in igneous rocks, where it often makes up the dark portion of an otherwise light-colored rock .
+4609$5$5$0$2.1$0.12$0.0$0$1$0.42$0.04$3$Olivine and related forms are typically found in basalt, a common igneous rock of the oceanic crust and volcanic areas on the continents, and are thought to constitute up to 50 percent of Earth’s upper man tle.
+4609$6$6$0$0.0$0.17$0.0$0$0$0.33$0.0$1$This helps distinguish it from pyroxene, which forms rather blocky crystals.
+4609$7$7$0$0.0$0.4$0.0$0$1$0.6$0.0$2$In a rock, hornblende often forms elongated crystals.
+4609$8$8$0$0.0$0.0$0.0$0$1$0.0$1.0$0$Amphibole Group
+4609$9$9$0$0.0$0.5$0.0$0$1$0.33$0.0$3$Transparent olivine is occasionally used as a gemstone called peridot.
+4609$1$1$0$2.78$0.11$0.0$0$1$0.78$0.0$1$In high-grade metamorphism, such features as bedding planes, fossils, and vesicles that 1.
+4609$2$2$0$2.44$0.08$0.0$0$1$0.62$0.08$1$When clay minerals are buried to Surface conditions a depth where temperatures they are transformed into converted to the minerals chlorite and/or muscovite mica.
+4609$3$3$0$2.42$0.07$0.0$0$1$0.64$0.0$1$The degree to which a parent rock changes during and temperatures approaching those at which rocks metamorphism is called its metamorphic grade, and it ing metamorphism, the rock remains essentially solid.
+4609$4$4$0$2.4$0.08$0.0$0$1$0.62$0.0$1$In environments where temperatures and pressures are more extreme, metamorphism causes a transformation so complete that the identity of the parent rock cannot be easily determined.
+4609$5$5$0$2.24$0.1$0.0$0$1$0.52$0.0$2$Hand samples of these involved in metamorphism are even greater—sufficient rocks are sometimes difficult to distinguish from one to convert mineral matter into denser forms having another, illustrating that the transition from sedimentary more compact crystalline structures.
+4609$6$6$0$2.03$0.06$0.0$0$1$0.44$0.06$1$Metamorphism also alters Metamorphism occurs over a range of temperatures a rock’s texture, producing larger crystals and sometimes that lie between those experienced during the formaa distinct layered or banded appearance.
+4609$7$7$0$1.66$0.18$0.0$0$0$0.65$0.0$3$Although confining pressure acts to compact the clay minerals in shale are transformed into tiny chlosediment to form sedimentary rocks, the pressures rite and muscovite mica flakes.
+4609$8$8$0$1.36$0.12$0.0$0$0$0.56$0.0$2$For If complete melting occurs, the rock has entered the example, in low-grade metamorphic environments, the realm of igneous activity, as discussed in Chapter 4.
+4609$9$9$0$1.16$0.08$0.0$0$0$0.5$0.0$1$Thus, metamorto metamorphic rock is often gradual and the change phism involves the formation of new minerals from preexisting ones.
+4609$10$10$0$0.0$0.0$0.0$0$1$0.33$0.0$0$illustrates the relationships among metamorphic, sedimentary, and igneous environments.
+4609$11$11$0$0.0$0.0$0.0$0$1$0.33$0.0$0$Define metamorphic grade.
+4609$12$12$0$0.0$0.0$0.0$0$1$0.0$0.0$0$3.
+4609$13$13$0$0.0$0.1$0.0$0$1$0.5$0.0$1$Every stress (like being placed in a giant vise), the entire mass metamorphic rock has a parent rock”?
+4609$14$14$0$0.0$0.0$0.0$0$1$0.5$0.0$0$What is meant by the statement
+4609$15$15$0$0.0$0.17$0.0$0$1$0.33$0.0$1$rocks deep in the crust are subjected to compressional 2.
+4609$16$16$0$0.0$0.33$0.0$0$1$0.67$0.0$1$Further, when how a rock may change during metamorphism.
+4609$17$17$0$0.0$0.2$0.0$0$1$0.4$0.2$1$Describe existed in the parent rock are obliterated.
+4609$18$18$0$0.0$0.0$0.0$0$1$0.5$0.0$0$Metamorphism means to “change form.
+4609$19$19$0$0.0$0.0$0.0$0$1$1.0$0.0$0$During this transformation, phism.
+4609$20$20$0$0.0$0.09$0.0$0$1$0.55$0.0$1$common sedimentary rock shale becomes the more comPressure also plays an important role in metamorpact metamorphic rock slate.
+4609$21$21$0$0.0$0.0$0.0$0$1$0.75$0.0$0$to high grade (high temperatures and pressures).
+4609$22$22$0$0.0$0.0$0.0$0$1$0.4$0.0$0$Under more extreme conditions, chlorite becomes biotite mica.
+4609$23$23$0$0.0$0.08$0.0$0$1$0.54$0.08$1$(Chlorite is Increasing temperature a mica-like mineral formed and pressure by the metamorphism of dark iron- and magnesiumrich silicate minerals.)
+4609$24$24$0$0.0$0.14$0.0$0$1$0.57$0.14$1$(Kaolinite is one example of a clay mineral; refer to page 97.)
+4609$25$25$0$0.0$0.0$0.0$0$1$0.0$0.8$0$Metamorphic Versus Sedimentary and Igneous Environments
+4609$1$1$0$2.31$0.29$0.0$0$1$0.35$0.06$5$The most common varieties of quartz are milky (white), smoky (gray), rose (pink), amethyst (purple), citrine (yellow to brown), and rock crystal (clear) .
+4609$2$2$0$2.04$0.15$0.0$1$0$0.62$0.0$2$However, like most other clear minerals, quartz is often colored by inclusions of various ions (impurities) and forms without developing good crystal faces.
+4609$3$3$0$2.0$0.08$0.0$0$1$0.42$0.0$1$When pure, quartz is clear and, if allowed to grow without interference, will develop hexagonal crystals with pyramid-shaped ends.
+4609$4$4$0$1.5$0.13$0.0$0$0$0.6$0.07$2$Because quartz ion (Si41), no other positive ions are needed to attain In quartz, a three-dimensional framework is developed through the complete sharing of oxygen by adjacent silicon atoms.
+4609$5$5$0$0.0$0.5$0.0$0$1$0.33$0.0$3$When broken, quartz generally exhibits conchoidal fracture.
+4609$6$6$0$0.0$0.17$0.0$0$1$0.5$0.0$1$Consequently, quartz is hard, resists weathering, and does not have cleavage.
+4609$7$7$0$0.0$0.17$0.0$0$0$0.83$0.0$1$Thus, all the bonds in quartz are of the strong silicon–oxygen type.
+4609$8$8$0$0.0$0.25$0.0$0$1$0.75$0.0$1$As such, the term silica is applied to quartz.
+4609$9$9$0$0.0$0.0$0.0$0$1$0.6$0.0$0$mineral that consists entirely of silicon and oxygen.
+4609$1$1$1$3.76$0.38$0.0$0$1$1.0$0.0$3$One group of feldspar minerals contains potassium ions in its structure and is therefore referred to as potassium feldspar.
+4609$2$2$1$3.74$0.62$0.0$0$1$0.75$0.0$5$Striations are found on some cleavage planes of plagioclase feldspar but are not present on potassium feldspar .
+4609$3$3$1$2.64$0.27$0.0$0$1$0.55$0.0$3$Potassium feldspar is usually light cream, salmon pink, or occasionally blue-green in color.
+4609$4$4$1$2.64$0.27$0.0$0$1$0.55$0.0$3$As a component in igneous rocks, feldspar crystals can be identified by their rectangular shape and rather smooth, shiny faces .
+4609$5$5$1$2.54$0.15$0.0$0$1$0.62$0.0$2$The other group, called plagioclase feldspar, contains both sodium and calcium ions that freely substitute for one another, depending on the environment during crystallization.
+4609$6$6$0$2.26$0.18$0.0$0$1$0.45$0.0$2$The only way to distinguish the feldspars physically is to look for a multitude of fine parallel lines, called striations.
+4609$7$7$0$2.26$0.25$0.0$0$1$0.38$0.0$2$The plagioclase feldspars, on the other hand, range in color from white to medium gray.
+4609$8$8$0$1.98$0.07$0.0$0$1$0.4$0.07$1$They have two planes of cleavage meeting at or near 90-degree angles, are relatively hard (6 on the Mohs scale), and have a luster that ranges from glassy to pearly.
+4609$9$9$0$0.0$0.0$0.0$0$0$0.67$0.0$0$However, color should not be used to distinguish these groups.
+4609$10$10$0$0.0$0.29$0.0$0$1$0.57$0.0$2$Despite these differences, all feldspar minerals have similar physical properties.
+4609$11$11$0$0.0$0.57$0.0$0$1$0.71$0.14$4$(Orthoclase and microcline are common members of the potassium feldspar group.)
+4609$12$12$0$0.0$0.25$0.0$0$1$0.5$0.0$1$Two different feldspar structures exist.
+4609$13$13$0$0.0$0.0$0.0$0$1$0.6$0.0$0$temperatures and pressures, which partially accounts for their abundance .
+4609$1$1$0$3.0$0.22$0.0$0$1$0.78$0.0$2$Minerals tend to have one common crystal shape, but a few, such as the pyrite samples shown in have two or more characteristic crystal shapes.
+4609$2$2$0$2.82$0.09$0.0$0$1$0.82$0.0$1$Mineralogists use the term crystal shape, or habit, to refer to the common or characteristic shape of individual crystals or aggregates of crystals.
+4609$3$3$0$2.0$0.08$0.0$0$1$0.42$0.0$1$Metallic minerals generally have a dense, dark streak, whereas minerals with nonmetallic luster typically have a light-colored streak.
+4609$4$4$0$1.74$0.12$0.0$0$0$0.75$0.0$1$Although the color of a mineral is not always helpful in identification, the streak, which is the color of the powdered mineral, can be very useful.
+4609$5$5$0$1.42$0.14$0.0$0$0$0.57$0.0$2$For example, magnetite crystals sometimes occur as octahedrons, garnets often form dodecahedrons, and halite and fluorite crystals tend to grow as cubes or near-cubes.
+4609$6$6$0$1.42$0.14$0.0$0$0$0.57$0.0$2$Some minerals tend to grow equally in all three dimensions, whereas others tend to be elongated in one direction or flattened minerals have crystals that exhibit regular polygons that are helpful in their identification.
+4609$7$7$0$0.0$0.14$0.0$0$1$0.43$0.14$1$Streak can also help distinguish between minerals with metallic luster and those with nonmetallic luster.
+4609$8$8$0$0.0$0.0$0.0$0$1$0.71$0.14$0$Quartz, for example, is harder than a porcelain streak plate and therefore leaves no streak.)
+4609$9$9$0$0.0$0.0$0.0$0$1$0.67$0.0$0$a streak when rubbed across a streak plate.
+4618$1$1$0$2.74$0.12$0.0$0$1$0.75$0.0$1$Minerals are chemical compounds (or sometimes single elements), each with its own composition and physical properties.
+4618$2$2$0$2.58$0.05$0.0$0$1$0.74$0.0$1$In addition, minerals in granite result from the a rock’s texture—the size, shape, and/or slow cooling of molten rock deep arrangement of its constituent minerals— beneath the surface.
+4618$3$3$0$2.42$0.0$0.0$0$1$0.69$0.08$0$Consider the rock Next, the sediments undergo lithification, a term cycle to be a simplified but useful overview of physical meaning “conversion into rock.
+4618$4$4$0$2.22$0.17$0.0$0$1$0.42$0.08$2$Geologists divide rocks into three major groups: igneous, sedicooling of molten rock at Earth’s mentary, and metamorphic.
+4618$5$5$0$2.16$0.08$0.0$0$1$0.5$0.0$1$The minerals that compose a rock strongly influA. The large crystals of light-colored ence its nature and appearance.
+4618$6$6$0$2.06$0.0$0.0$0$1$0.53$0.0$0$Learn the rock cycle well; you will be examinlithified into sedimentary rock when compacted by ing its interrelationships in greater detail throughout the weight of overlying layers or when cemented as this book.
+4618$7$7$0$2.0$0.0$0.0$0$1$0.5$0.0$0$The sedimentary called crystallization, may occur either beneath the surface rock reacts to the changing environment and turns into or, following a volcanic eruption, at the surface.
+4618$8$8$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Eventually these particles and many of the interrelationships among different parts of dissolved substances, called sediment, are deposited.
+4618$9$9$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Nowhere gravity before being picked up and transported by any is this idea better illustrated than when we examine the of a number of erosional agents, such as running water, rock cycle .
+4618$10$10$0$2.0$0.12$0.0$0$1$0.38$0.0$1$The grains or crystals may be microscopically small or easily seen with the unaided eye.
+4618$11$11$0$1.94$0.08$0.0$1$0$0.64$0.0$2$It helps us understand the origin of Although most sediment ultimately comes to rest in the igneous, sedimentary, and metamorphic rocks and to ocean, other sites of deposition include river floodplains, see that each type is linked to the others by processes desert basins, swamps, and sand dunes.
+4618$12$12$0$1.93$0.22$0.0$0$1$0.22$0.11$2$Earlier in this chapter, you learned that Earth is biosphere slowly disintegrate and decompose rocks.
+4618$13$13$0$1.91$0.05$0.0$0$1$0.36$0.18$1$If the resulting sedimentary rock is buried deep The Basic Cycle within Earth and involved in the dynamics of mountain Magma is molten rock that forms deep beneath Earth’s sur- building or intruded by a mass of magma, it is subjected face.
+4618$14$14$0$1.8$0.1$0.0$0$1$0.3$0.0$1$When a rock is examined closely, we find that it usually consists of smaller crystals called minerals.
+4618$15$15$0$1.28$0.09$0.0$0$0$0.55$0.0$1$This understanding also has many practical applications, including finding energy and mineral resources and solving environmental problems.
+4618$16$16$0$0.9$0.0$0.0$0$0$0.45$0.0$0$This means that our planet consists of many The materials that result are often moved downslope by interacting parts that form a complex whole.
+4618$17$17$0$0.0$0.08$0.0$0$1$0.52$0.0$2$morphic rock is subjected to additional pressure changes If igneous rocks are exposed at the surface, they or to still higher temperatures, it melts, creating magma, undergo weathering, in which the day-in and daywhich eventually crystallizes into igneous rock, starting out influences of the atmosphere, hydrosphere, and the cycle all over again.
+4618$18$18$0$0.0$0.2$0.0$0$1$0.6$0.0$1$When metasituation, the resulting rocks are called igneous rocks.
+4618$19$19$0$0.0$0.33$0.0$0$1$1.0$0.0$1$In either the third rock type, metamorphic rock.
+4618$20$20$0$0.0$0.0$0.0$0$0$0.5$0.0$0$This process, to great pressures and/or intense heat.
+4618$21$21$0$0.0$0.0$0.0$0$1$0.75$0.0$0$Over time, magma cools and solidifies.
+4618$22$22$0$0.0$0.2$0.0$0$1$0.6$0.0$1$percolating groundwater fills the pores with mineral
+4618$23$23$0$0.0$0.33$0.0$0$1$0.67$0.0$1$Sediment is usually geology.
+4618$24$24$0$0.0$0.0$0.0$0$1$0.5$0.0$0$that act upon and within the planet.
+4618$25$25$0$0.0$0.5$0.0$0$1$0.5$0.5$1$the Earth system.
+4618$26$26$0$0.0$0.0$0.0$0$1$0.71$0.0$0$The rock cycle allows us to view glaciers, wind, or waves.
+4618$27$27$0$0.0$0.0$0.0$0$1$1.0$0.0$0$a system.
+4618$28$28$0$0.0$0.0$0.0$0$1$1.0$0.0$0$to the others by the processes that act upon and within the planet.
+4618$29$29$0$0.0$0.0$0.0$0$1$0.38$0.0$0$you will learn, each group is linked Oceanic crust is composed mainly of basalt.
+4618$30$30$0$0.0$0.0$0.0$0$1$0.33$0.0$0$As microscopically small crystals.
+4618$31$31$0$0.0$0.14$0.0$0$1$0.43$0.0$1$surface is responsible for the rock’s 1.21 provides some examples.
+4618$32$32$0$0.0$0.0$0.0$0$1$0.5$0.0$0$Such analyses are critical to understanding our planet.
+4618$33$33$0$0.0$0.17$0.0$0$1$0.67$0.0$1$and texture, in turn, reflect the geologic processes that created it .
+4618$34$34$0$0.0$0.0$0.0$0$1$0.5$0.17$0$Granite is also has a significant effect on its appearabundant in the continental crust.
+4618$35$35$0$0.0$0.0$0.0$0$1$0.4$0.0$0$To a curious traveler, the variety seems nearly endless.
+4618$36$36$0$0.0$0.2$0.0$0$1$0.2$0.4$1$Rock is the most common and abundant material on Earth.
+4618$37$37$0$0.0$0.0$0.0$0$1$0.67$0.0$0$Sketch, label, and explain the rock cycle.
+4618$1$1$0$2.88$0.0$0.0$1$1$0.69$0.0$0$Using this technique, zones of intensity were identified, with the zone of highest intensity located near the center of maximum ground shaking and often (but not always) the earthquake epicenter.
+4618$2$2$0$2.42$0.06$0.0$0$1$0.65$0.0$1$To more accurately compare earthquakes around the globe, scientists searched for a way to describe the energy released by earthquakes that did not rely on factors such as building practices, which vary considerably from one part of the world to another.
+4618$3$3$0$2.34$0.0$0.0$0$1$0.67$0.0$0$By systematically mapping effects of the earthquake, a measure of the intensity of ground shaking was established.
+4618$4$4$0$2.34$0.0$0.0$0$1$0.67$0.0$0$Until the mid-1800s, historical records provided the only accounts of the severity of earthquake shaking and destruction.
+4618$5$5$0$2.2$0.0$0.0$0$1$0.6$0.0$0$The map generated by this study used lines to connect places of equal damage and hence equal ground shaking.
+4618$6$6$0$1.9$0.0$0.0$0$1$0.4$0.2$0$In 1902, Giuseppe Mercalli developed a more reliable intensity scale, which is still used today in a modified form.
+4618$7$7$0$1.86$0.0$0.0$0$1$0.43$0.0$0$Damage negligible in buildings of good design and construction; slight to moderate in well-built ordinary structures; considerable in poorly built or badly designed structures.
+4618$8$8$0$1.8$0.0$0.0$0$1$0.4$0.0$0$Perhaps the first attempt to scientifically describe the aftermath of an earthquake came following the great Italian earthquake of 1857.
+4618$9$9$0$1.76$0.0$0.0$0$1$0.27$0.45$0$The Modified Mercalli Intensity scale, shown in Table 11.1, was developed using California buildings as its standard.
+4618$10$10$0$1.72$0.06$0.0$0$1$0.22$0.33$1$Shaking was reported from Maine to Florida, an national landmarks were damaged, including the Washington Monument and the National Cathedral located about 130 kilometers (80 miles) away from the epicenter.
+4618$11$11$0$0.6$0.0$0.0$0$0$0.27$0.13$0$Because the crustal rocks east of the Rocky Mountains are cool and strong, earthquakes are felt over a much larger area than those of similar magnitudes in the west .
+4618$12$12$0$0.0$0.0$0.0$0$1$0.33$0.0$0$Everybody runs outdoors.
+4618$13$13$0$0.0$0.0$0.0$0$0$0.6$0.0$0$As a result, several magnitude scales were developed.
+4618$14$14$0$0.0$0.0$0.0$0$1$0.29$0.57$0$Within a few hours, a Community Internet Intensity Map, like the one in generated.
+4618$15$15$0$0.0$0.05$0.0$1$0$0.57$0.1$1$For example, on the 12-point Mercalli Intensity scale, when some well-built wood structures and most masonry buildings are destroyed by an earthquake, the users enter their zip code and answer questions such as “Did objects fall off shelves?
+4618$1$1$0$3.0$0.22$0.0$0$1$0.78$0.0$2$Analyzed samples suggest that the surface of the asteroid was identical in composition to meteorites and was once part of a larger asteroid.
+4618$2$2$0$2.9$0.1$0.0$1$1$0.5$0.4$1$Most Oort cloud comets orbit the Sun at distances greater than 10,000 times the Earth–Sun distance.
+4618$3$3$0$2.74$0.08$0.0$0$1$0.77$0.08$1$Titan has Earth-like landforms and geologic processes, such as dune formation and streamlike erosion caused by methane “rain.
+4618$4$4$0$2.72$0.05$0.0$1$1$0.53$0.11$1$The newest grouping, dwarf planets, includes Ceres, a body about 1000 kilometers (600 miles) in diameter and the largest known object in the asteroid belt, and Pluto, a former planet.
+4618$5$5$0$2.71$0.0$0.0$1$1$0.59$0.06$0$Record wind speeds exceeding 2400 kilometers (1500 miles) per hour encircle the planet, making Neptune one of the windiest places in the solar system.
+4618$6$6$0$2.68$0.0$0.0$1$1$0.56$0.11$0$Many of Saturn’s smallest moons have irregular shapes and are only a few tens of kilometers in diameter.
+4618$7$7$0$2.58$0.0$0.0$1$1$0.52$0.09$0$Like the asteroids in the inner solar system, most Kuiper belt comets move in slightly elliptical orbits that lie roughly in the same plane Kuiper belt comets or the gravitational influence of one of the Jovian planets occasionally alters their orbits sufficiently to send them into our view.
+4618$8$8$0$2.5$0.1$0.0$1$1$0.3$0.4$1$The shortest-period comet (Encke’s Comet) orbits the Sun once every 3 years.
+4618$9$9$0$2.5$0.0$0.0$0$1$0.75$0.0$0$The moons vary significantly in size, shape, surface age, and origin.
+4618$10$10$0$2.48$0.06$0.0$0$1$0.65$0.12$1$The atmospheric pressure at Titan’s surface is about 1.5 times that at Earth’s surface, and the atmospheric composition is about 98 percent nitrogen and 2 percent methane, with trace organic compounds.
+4618$11$11$0$2.4$0.11$0.0$0$1$0.56$0.11$1$Researchers estimate that thousands of meteoroids enter Earth’s atmosphere every day.
+4618$12$12$0$2.38$0.0$0.0$1$1$0.38$0.23$0$At least 3 (Rhea, Dione, and Tethys) show evidence of tectonic activity, where internal forces have ripped apart their icy surfaces.
+4618$13$13$0$2.32$0.08$0.0$0$1$0.58$0.0$1$One of several hypotheses to explain the boulderstrewn topography is seismic shaking, which would cause the boulders to move upward as the finer materials sink.
+4618$14$14$0$2.28$0.0$0.0$0$1$0.64$0.0$0$Observers saw the star “wink” briefly five times (meaning five rings) before the primary occultation and again five times afterward.
+4618$15$15$0$2.25$0.0$0.0$1$1$0.3$0.3$0$Saturn’s largest moon, Titan, is larger than Mercury and is the second-largest satellite in the solar system.
+4618$16$16$0$2.24$0.0$0.0$0$1$0.62$0.0$0$The outgassing, comprised mostly of water, is thought to be the source that replenishes the material areas called “tiger stripes” that consist of four large fractures with ridges on either side.
+4618$17$17$0$2.24$0.0$0.0$0$1$0.62$0.0$0$Twenty-three of the moons are “original” satellites that formed in tandem with their parent planet.
+4618$18$18$0$2.2$0.1$0.0$0$1$0.5$0.0$2$Its orbital period averages 76 years, and every one of its 29 appearances since 240 b.c.e. has been recorded, thanks to ancient Chinese astronomers—testimony to their dedication as astronomical observers and the endurance of Chinese culture.
+4618$19$19$0$2.2$0.13$0.0$0$1$0.47$0.0$2$Indirect evidence from meteorites suggests that some asteroids might have been heated by a large impact causing them to differentiate into a dense iron core and a rocky mantle.
+4618$20$20$0$2.2$0.1$0.0$0$1$0.5$0.0$1$The bright red area on the left side of the image (see arrow) is newly erupted lava.
+4618$21$21$0$2.17$0.0$0.0$0$1$0.55$0.14$0$In 2006, the International Astronomical Union organized solar system objects not classified as planets or moons into two broad categories: (1) small solar system bodies, including asteroids, comets, and meteoroids, and (2) dwarf planets.
+4618$22$22$0$2.16$0.07$0.0$1$1$0.21$0.21$1$Comet Holmes, which orbits the Sun every 6 years, was uncharacteristically active during its most recent entry into the inner solar system.
+4618$23$23$0$2.16$0.08$0.0$0$1$0.5$0.0$1$Based on the amount of erosion observed on the crater rim, the impact likely occurred within the past 50,000 years.
+4618$24$24$0$2.16$0.0$0.0$0$1$0.58$0.0$0$At least 40 terrestrial craters exhibit features that could be produced only by an explosive impact of a large asteroid or perhaps even a comet nucleus.
+4618$25$25$0$2.12$0.0$0.0$0$1$0.54$0.08$0$The discovery was made as Uranus passed in front of a distant star and blocked its view, a process called occultation (occult = hidden).
+4618$26$26$0$2.1$0.0$0.0$0$1$0.55$0.0$0$There are countless chunks of debris in the vast spaces separating the eight planets and in the outer reaches of the solar system.
+4618$27$27$0$2.1$0.1$0.0$0$1$0.4$0.2$1$Their ring nature was determined 50 years later by Dutch astronomer Christian Huygens.
+4618$28$28$0$2.08$0.0$0.0$0$1$0.54$0.0$0$By analyzing how these rings scatter light, researchers determined that the rings are composed of fine, dark particles similar in size to smoke particles.
+4618$29$29$0$2.05$0.2$0.0$0$1$0.3$0.1$2$List and describe the principal characteristics of the small bodies that inhabit the solar system.
+4618$30$30$0$2.04$0.0$0.05$1$1$0.18$0.27$0$Studies conducted at NASA’s Jet Propulsion Laboratory suggest that Miranda, the innermost of the five largest moons, was recently geologically active—most likely driven by gravitational heating, as occurs on Io.
+4618$31$31$0$2.04$0.08$0.0$0$1$0.42$0.08$1$Meteoroids less than about 1 meter (3 feet) in diameter generally vaporize before reaching Earth’s surface.
+4618$32$32$0$2.04$0.18$0.0$0$1$0.27$0.27$2$Before Apollo astronauts brought Moon rocks back to Earth, meteorites were the only extraterrestrial materials that could be studied in the laboratory.
+4618$33$33$0$2.02$0.0$0.0$0$1$0.5$0.05$0$Another feature that Neptune has in common with the other Jovian planets is layers of white, cirrus-like clouds (probably frozen methane) about 50 kilometers (30 miles) above the main cloud deck.
+4618$34$34$0$2.0$0.08$0.0$0$1$0.42$0.0$1$More than 30 tons of iron fragments have been found in the immediate area, but attempts to locate the main body have been unsuccessful.
+4618$35$35$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Sublimation is the process whereby a solid (ice) changes directly to a gas.
+4618$36$36$0$2.0$0.0$0.0$0$1$0.5$0.0$0$Through his primitive telescope, the rings appeared as two small bodies adjacent to the planet.
+4618$37$37$0$2.0$0.0$0.0$0$1$0.46$0.15$0$The inset shows an artist’s depiction of jets of gas and dust erupting from Comet Wild 2.
+4618$38$38$0$1.98$0.12$0.0$0$1$0.31$0.25$2$Requiring more than 29 Earth years to make one revolution, Saturn is almost twice as far from the Sun as Jupiter, yet their atmospheres, compositions, and internal structures are remarkably similar.
+4618$39$39$0$1.98$0.07$0.0$0$1$0.4$0.07$1$Twelve years and nearly 3 billion miles of Voyager 2 travel provided investigators an amazing opportunity to view the outermost planet.
+4618$40$40$0$1.96$0.0$0.0$0$1$0.43$0.21$0$Impacts on Jupiter’s moons Amalthea and Thebe are believed to be the source of the debris from which the outer gossamer ring formed.
+4618$41$41$0$1.94$0.0$0.0$0$1$0.4$0.27$0$Named in honor of astronomer Gerald Kuiper, who predicted its existence, the Kuiper belt hosts comets that orbit in the outer solar system, beyond Neptune .
+4618$42$42$0$1.91$0.0$0.0$0$1$0.43$0.1$0$The bright area in the lower-central region, sometimes referred to as “the heart of the heart” is formally named Sputnik Planum and is thought to be the source of exotic ices that flowed to produce the two bluish lobes near the bottom of the image.
+4618$43$43$0$1.88$0.0$0.0$0$1$0.38$0.25$0$The most striking feature of Saturn is its system of rings, first observed by Galileo in 1610 .
+4618$44$44$0$1.88$0.17$0.0$0$1$0.25$0.08$2$After exploring this asteroid by digging into its surface to extract fresh samples, it is scheduled to return to Earth in 2020.
+4618$45$45$0$1.88$0.11$0.0$0$1$0.33$0.0$1$After sunset on a clear, dark night, many are bright enough to be seen with the naked eye.
+4618$46$46$0$1.88$0.0$0.0$0$1$0.44$0.0$0$Furthermore, the faint nature of the rings indicates that these minute particles are widely dispersed.
+4618$47$47$0$1.88$0.0$0.0$0$1$0.38$0.23$0$The main ring is composed of particles believed to be fragments blasted from the surfaces of Metis and Adrastea, two small moons of Jupiter.
+4618$48$48$0$1.81$0.05$0.0$0$1$0.32$0.14$1$Notable among them is Arizona’s Meteor Crater, a huge cavity more than 1 kilometer (0.6 mile) wide and 170 meters (560 feet) deep, with an upturned rim that rises above the surrounding countryside .
+4618$49$49$0$1.81$0.0$0.0$0$1$0.36$0.18$0$As on Jupiter, the dynamics of Saturn’s atmosphere are driven by the heat released by gravitational compression.
+4618$50$50$0$1.81$0.04$0.0$0$1$0.29$0.29$1$In 1910, Halley’s Comet made a very close approach to Earth, making for a spectacular Named for Dutch astronomer Jan Oort, the Oort cloud consists of comets that are distributed in all directions from the Sun, forming a spherical shell around the solar system.
+4618$51$51$0$1.77$0.0$0.0$0$1$0.33$0.22$0$The bottom of the image shows Triton’s wind- and sublimationeroded south polar cap.
+4618$52$52$0$1.75$0.0$0.0$0$1$0.3$0.3$0$Titan and Neptune’s Triton are the only satellites in the solar system known to have substantial atmospheres.
+4618$53$53$0$1.72$0.0$0.0$0$1$0.33$0.13$0$The gravitational effect of a distant passing star may send an occasional Oort cloud comet into a highly eccentric orbit that carries it toward the Sun.
+4618$54$54$0$1.7$0.0$0.0$0$1$0.33$0.07$0$More recent ground- and space-based observations indicate that Uranus has at least 10 sharp-edged, distinct rings orbiting its equatorial region.
+4618$55$55$0$1.66$0.06$0.0$0$1$0.19$0.31$1$In November 2005, the Japanese probe Hayabusa landed on a small near-Earth asteroid named 25143 Itokawa; it returned to Earth in June 2010.
+4618$56$56$0$1.62$0.0$0.0$0$0$0.81$0.0$0$Although the atmosphere is about 93 percent hydrogen and 3 percent helium by volume, the clouds (or condensed gases) are composed of ammonia, ammonia hydrosulfide, and water, each segregated by temperature.
+4618$57$57$0$1.51$0.12$0.0$0$0$0.62$0.06$2$This is analogous to what happens when a jar of sand and various-sized pebbles is shaken: The larger pebbles rise to the top, while the smaller sand grains settle to the bottom (sometimes referred to as the Brazil nut effect).
+4618$58$58$0$1.49$0.0$0.0$0$1$0.15$0.38$0$Neptune also exhibits large dark spots, thought to be rotating storms similar to Jupiter’s Great Red Spot.
+4618$59$59$0$1.33$0.0$0.0$1$0$0.33$0.33$0$Jupiter’s four largest moons These moons are often referred to as the Galilean moons because Galileo discovered them.
+4618$60$60$0$1.23$0.12$0.0$1$0$0.12$0.5$1$However, most comets are too small and too distant to be observed from Earth, even using the Hubble Space Telescope.
+4618$61$61$0$1.12$0.09$0.0$0$0$0.45$0.09$1$Some, called micrometeorites, are so tiny and their rate of fall so slow that they drift to Earth continually as space dust.
+4618$62$62$0$1.12$0.08$0.0$0$0$0.46$0.08$1$This plume of volcanic gases and debris is rising more than 100 kilometers (60 miles) above Io’s surface.
+4618$63$63$0$1.05$0.1$0.0$0$0$0.4$0.1$1$However, Neptune’s storms appear to have comparatively short life spans—usually only a few years.
+4618$64$64$0$1.0$0.0$0.0$0$0$0.5$0.0$0$This disc-shaped structure is thought to contain about a billion objects over 1 kilometer (0.62 mile) in size.
+4618$65$65$0$0.94$0.0$0.0$0$0$0.45$0.09$0$However, only a tiny fraction of Oort cloud comets have orbits that bring them into the inner solar system.
+4618$66$66$0$0.87$0.0$0.0$0$0$0.37$0.26$0$Although the bands of clouds are fainter and wider near the equator, rotating “storms” similar to Jupiter’s Great Red Spot occur in Saturn’s atmosphere, as does intense lightning.
+4618$67$67$0$0.7$0.0$0.1$0$0$0.2$0.4$0$This image shows Comet Wild 2, as seen by NASA’s Stardust spacecraft.
+4618$68$68$0$0.0$0.0$0.0$0$0$0.6$0.1$0$This enhanced color image is used to detect differences in the composition and texture of Pluto’s surface
+4618$69$69$0$0.0$0.0$0.0$0$1$1.0$0.0$0$More than 250 others may be of impact origin.
+4618$70$70$0$0.0$0.0$0.0$0$1$0.4$0.0$0$(3) the rocky and/or metallic remains of comets that once ejected by a violent asteroid impact.
+4618$71$71$0$0.0$0.0$0.0$0$1$0.56$0.0$0$during formation of the solar system, (2) material that is continually being ejected from the asteroid belt, or
+4618$72$72$0$0.0$0.0$0.0$0$1$0.17$0.67$0$Halley’s Comet originated in the Kuiper belt.
+4618$73$73$0$0.0$0.0$0.0$1$1$0.57$0.29$0$Most comets originate in one of two regions: the Kuiper belt or the Oort cloud.
+4618$74$74$0$0.0$0.0$0.0$0$1$0.0$1.0$0$Belt and Oort Cloud
+4618$75$75$0$0.0$0.0$0.0$0$1$0.0$0.67$0$Comet Wild 2
+4618$76$76$0$0.0$0.09$0.0$0$1$0.55$0.0$1$that the coma contained a wide range of organic compounds and substantial amounts of silicate crystals.
+4618$77$77$0$0.0$0.06$0.0$0$1$0.44$0.12$1$number of short-period comets (those having orbital periods of less than 200 years), such as the famous Halley’s Comet, make regular encounters with the inner solar system .
+4618$78$78$0$0.0$0.0$0.0$0$1$0.8$0.0$0$The nucleus of the comet is within the bright spot in the center.
+4618$79$79$0$0.0$0.0$0.0$0$1$0.0$1.0$0$Holmes
+4618$80$80$0$0.0$0.0$0.0$0$1$0.17$0.17$0$Hayabusa 2, launched in 2014, July 2018.
+4618$81$81$0$0.0$0.0$0.0$0$1$0.43$0.0$0$Also shown in red are the orbits of a few known nearEarth asteroids.
+4618$82$82$0$0.0$0.0$0.0$1$1$0.67$0.33$0$The asteroid belt The orbits of most asteroids lie between Mars and Jupiter.
+4618$83$83$0$0.0$0.0$0.0$0$1$0.43$0.0$0$Name three bodies in the solar system that exhibit active volcanism.
+4618$84$84$0$0.0$0.0$0.0$0$1$0.0$0.0$0$6.
+4618$85$85$0$0.0$0.0$0.0$0$1$0.29$0.57$0$How are Saturn’s satellite Titan and Neptune’s satellite Triton similar to one another?
+4618$86$86$0$0.0$0.0$0.0$0$1$0.0$0.0$0$5.
+4618$87$87$0$0.0$0.0$0.0$0$1$0.86$0.0$0$What two roles do ring moons play in the nature of planetary ring systems?
+4618$88$88$0$0.0$0.0$0.0$0$1$0.0$0.5$0$How are Jupiter and Saturn similar to one 4.
+4618$89$89$0$0.0$0.0$0.0$0$1$0.0$0.0$0$3.
+4618$90$90$0$0.0$0.0$0.0$0$1$0.2$0.4$0$What is distinctive about Jupiter’s satellite Io?
+4618$91$91$0$0.0$0.0$0.0$0$1$0.0$0.0$0$2.
+4618$92$92$0$0.0$0.0$0.0$0$1$0.17$0.67$0$What is the nature of Jupiter’s Great Red Spot?
+4618$93$93$0$0.0$0.0$0.0$0$1$0.0$0.0$0$1.
+4618$94$94$0$0.0$0.0$0.0$1$1$0.2$0.4$0$Triton, Neptune’s largest moon
+4618$95$95$0$0.0$0.0$0.0$0$1$0.38$0.0$0$above the surface and were blown downwind for more than 100 kilometers (60 miles).
+4618$96$96$0$0.0$0.0$0.0$0$1$0.33$0.17$0$Neptune has a dynamic atmosphere, much like that of the other Jovian planets .
+4618$97$97$0$0.0$0.0$0.0$0$1$0.4$0.0$0$, astronomers knew very little about this planet until 1989.
+4618$98$98$0$0.0$0.14$0.0$0$0$0.14$0.57$1$The Windy Planet Because of Neptune’s great distance from Earth
+4618$99$99$0$0.0$0.0$0.0$0$1$0.0$1.0$0$Neptune:
+4618$100$100$0$0.0$0.0$0.0$0$1$0.43$0.0$0$Interspersed among these distinct structures are broad sheets of dust.
+4618$101$101$0$0.0$0.0$0.0$0$1$0.67$0.33$0$Uranus has a ring system.
+4618$102$102$0$0.0$0.0$0.0$0$1$0.57$0.0$0$whereas others possess large, smooth areas on otherwise crater-riddled surfaces.
+4618$103$103$0$0.0$0.0$0.0$0$1$0.43$0.14$0$Enceladus is another unique satellite of Saturn—one of the few where active eruptions have been observed .
+4618$104$104$0$0.0$0.0$0.0$0$1$0.57$0.0$0$In addition, the northern latitudes appear to have lakes of liquid methane.
+4618$105$105$0$0.0$0.0$0.0$0$1$0.17$0.33$0$Titan was visited and photographed by the CassiniHuygens probe in 2005.
+4618$106$106$0$0.0$0.0$0.0$0$1$0.5$0.17$0$Others, like Hyperion, are so porous that impacts punch into their surfaces .
+4618$107$107$0$0.0$0.0$0.0$0$1$0.17$0.5$0$Saturn’s atmosphere, like Jupiter’s, is dynamic.
+4618$108$108$0$0.0$0.0$0.0$0$1$0.43$0.14$0$More recently, the ring system was thoroughly investigated by the Galileo mission.
+4618$109$109$0$0.0$0.0$0.0$0$1$1.0$0.0$0$system.
+4618$1$1$1$2.68$0.17$0.0$0$1$0.67$0.0$2$Included were trillions of tiny marine organisms, such as foraminifera, whose shells were deposited on the seafloor at the end of their life cycle.
+4618$2$2$0$2.38$0.0$0.0$0$1$0.69$0.0$0$The products released by chemical weathering included atoms and molecules of various substances—including sodium, calcium, potassium, and silica—that were carried into the newly formed oceans.
+4618$3$3$0$2.16$0.0$0.0$0$1$0.54$0.15$0$The level of acidity was even greater than in the acid rain that damaged lakes and streams in eastern North America during the latter part of the twentieth century.
+4618$4$4$0$2.12$0.08$0.0$0$1$0.46$0.08$1$The most common compound generated by precipitation is calcium carbonate (CaCO3), which makes up limestone, the most abundant chemical sedimentary rock.
+4618$5$5$0$2.12$0.0$0.0$0$1$0.54$0.08$0$Earth’s oceans also serve as a repository for tremendous volumes of carbon dioxide, a major constituent of the primitive atmosphere.
+4618$6$6$0$2.0$0.0$0.0$0$1$0.5$0.0$0$About 542 million years ago, marine organisms began to extract calcium carbonate from seawater to make their shells and other hard parts.
+4618$7$7$0$1.96$0.08$0.0$0$1$0.38$0.08$1$When Earth cooled sufficiently to allow water vapor to condense, rainwater fell and collected in low-lying areas.
+4618$8$8$0$1.94$0.0$0.0$0$1$0.47$0.0$0$By 4 billion years ago, scientists estimate that as much as 90 percent of the current volume of seawater was contained in the developing ocean basins.
+4618$9$9$0$1.93$0.0$0.0$0$1$0.43$0.14$0$Venus, once thought to be very similar to Earth, has an atmosphere composed of 97 percent carbon dioxide that produced an extreme greenhouse effect.
+4618$10$10$0$1.58$0.0$0.0$0$1$0.29$0.0$0$Research suggests that the salinity of the oceans initially increased rapidly but has remained relatively constant over the past 2 billion years.
+4618$11$11$0$1.56$0.0$0.0$0$1$0.25$0.12$0$Consequently, Earth’s rocky surface weathered at an accelerated rate.
+4618$12$12$0$1.38$0.0$0.0$1$0$0.44$0.0$0$Because volcanic eruptions released into the atmosphere large quantities of sulfur dioxide, which readily combines with water to form hydrochloric acid, the earliest rainwater was highly acidic.
+4618$13$13$0$1.34$0.0$0.0$0$0$0.67$0.0$0$This is significant because carbon dioxide is a greenhouse gas that strongly influences the heating of the atmosphere.
+4618$14$14$0$1.2$0.0$0.0$0$0$0.58$0.08$0$As a result, its Carbon dioxide is readily soluble in seawater, where it often joins other atoms or molecules to produce various chemical precipitates.
+4618$15$15$0$1.14$0.0$0.0$0$0$0.52$0.19$0$Some of these deposits can be observed today in the chalk beds exposed along the White Cliffs of Dover, England, shown in By “locking up” carbon dioxide, these limestone deposits store this greenhouse gas so it cannot easily reenter the atmosphere.
+4618$16$16$0$1.0$0.0$0.0$0$0$0.5$0.0$0$Some of these dissolved substances precipitated to become chemical sediment that mantled the ocean floor.
+4618$17$17$0$0.0$0.0$0.0$0$1$0.57$0.0$0$Other substances formed soluble salts, which increased the salinity of seawater.
+4618$1$1$0$2.56$0.14$0.0$0$1$0.64$0.0$2$The large crystals in porphyritic rocks are referred to as phenocrysts (pheno 5 show, cryst 5 crystal), whereas the matrix of smaller crystals is called termed a porphyry.
+4618$2$2$0$2.5$0.15$0.0$0$1$0.54$0.23$2$Vesicular Texture Common features of many extrusive rocks are the voids left by gas bubbles that escape as lava solidifies.
+4618$3$3$0$2.4$0.2$0.0$0$1$0.5$0.0$2$The resulting rock, which has large crystals embedded in a matrix of smaller crystals, is said to have a porphyritic texture .
+4618$4$4$1$2.34$0.2$0.0$0$1$0.47$0.0$3$By contrast, basaltic magma, which is low in silica, forms very fluid lavas that, upon cooling, usually generate fine-grained crystalline rocks.
+4618$5$5$1$2.34$0.17$0.0$0$1$0.5$0.0$2$Magmas with high silica content tend to form long, chainlike structures (polymers) before crystallization is complete.
+4618$6$6$0$2.34$0.0$0.0$0$1$0.67$0.0$0$Vesicles are small holes left by require thousands or even millions of years to solidify.
+4618$7$7$0$2.24$0.12$0.0$0$1$0.5$0.0$1$Rapid cooling of this type may generate rocks having a glassy texture.
+4618$8$8$0$2.24$0.0$0.0$0$1$0.62$0.0$0$The inset photo is a close-up showing the vesicular texture of hardened lava.
+4618$9$9$0$2.22$0.11$0.0$0$1$0.5$0.0$2$Rocks that exhibit a vesicular texture often form in the upper zone of a lava flow, where cooling occurs rapidly enough to preserve the openings produced by the expanding gas bubbles .
+4618$10$10$0$2.06$0.12$0.0$0$1$0.41$0.0$2$If molten rock containing some large crystals moves to a different environment—for example, by erupting at the surface—the remaining liquid portion of the lava cools more quickly.
+4618$11$11$0$1.99$0.0$0.0$0$1$0.44$0.22$0$The larger image shows a lava flow on Hawaii’s Kilauea volcano.
+4618$12$12$0$1.8$0.1$0.0$0$1$0.3$0.0$1$During some volcanic eruptions, molten rock is ejected into the atmosphere, where it is quenched (very quickly cooled) to become a solid.
+4618$13$13$0$1.5$0.17$0.0$0$0$0.58$0.0$2$Because different minerals crystallize under different environmental conditions (temperatures and pressure), it is possible for crystals of one mineral to become quite large before others even begin to form.
+4618$14$14$0$1.34$0.11$0.0$0$0$0.56$0.0$1$These structures, in turn, impede ionic transport and increase the magma’s viscosity.
+4618$15$15$0$1.0$0.1$0.0$0$0$0.4$0.0$1$These nearly spherical openings are called vesicles, and the rocks that contain them are said to have a vesicular texture.
+4618$16$16$0$1.0$0.0$0.0$0$0$0.47$0.11$0$Because of its excellent conchoidal fracture and ability to hold a sharp, hard edge, obsidian was a prized material from which Native AmeriObsidian arrowhead Native cans chipped arrowheads and cutting Americans made tools .
+4618$17$17$0$0.84$0.0$0.0$0$0$0.42$0.0$0$However, when a basaltic lava flow enters the ocean, its surface is quenched rapidly enough to form a thin, glassy skin.
+4618$18$18$0$0.5$0.0$0.0$0$0$0.25$0.0$0$So, granitic magma, which is rich in silica, may be extruded as an extremely viscous mass that eventually solidifies to form obsidian.
+4618$19$19$0$0.0$0.0$0.0$0$1$0.67$0.0$0$(Viscosity is a measure of a fluid’s resistance to flow.)
+4618$20$20$0$0.0$0.0$0.0$0$1$0.43$0.29$0$(Photo by the only mechanism that produces Jeffrey Scovil) a glassy texture.
+4618$21$21$0$0.0$0.0$0.0$0$1$0.5$0.0$0$arrowheads and Obsidian flows, typically a cutting tools from few hundred feet thick, provide obsidian, a natuevidence that rapid cooling is not ral glass.
+4618$22$22$0$0.0$0.07$0.0$0$1$0.43$0.07$1$” before they are able to unite into an orderly crystalline Obsidian, a common type of natural glass, is similar in appearance to dark chunks of manufactured glass.
+4618$23$23$0$0.0$0.17$0.0$0$1$0.5$0.0$1$Glass results when unordered ions are “frozen in place
+4618$24$24$0$0.0$0.12$0.0$0$1$0.25$0.25$1$Another common vesicular rock, called pumice, forms Glassy Texture
+4618$25$25$0$0.0$0.0$0.0$0$1$0.5$0.0$0$Vesicular texture
+4618$1$1$0$3.72$0.44$0.0$0$1$0.89$0.11$4$Describe slate, phyllite, schist, and gneiss in terms of texture and grain size.
+4618$2$2$0$2.96$0.09$0.0$1$1$0.64$0.0$1$The parent rock of most hornfels is shale or another clay-rich rock, which has been “baked” by a hot intruding magma body.
+4618$3$3$0$2.74$0.0$0.0$1$1$0.62$0.0$0$Most of these environments occur in the vicinity of plate margins, and several are associated with igneous activity.
+4618$4$4$0$2.64$0.0$0.0$0$1$0.82$0.0$0$Write a description for each of these metamorphic environments: contact metamorphism, hydrothermal metamorphism, subduction zone metamorphism, and regional metamorphism.
+4618$5$5$0$2.46$0.05$0.0$0$1$0.68$0.0$1$We will consider the basic metamorphic environments—contact or thermal metamorphism, hydrothermal metamorphism, burial and subduction zone metamorphism, and regional metamorphism—as well as a few types of metamorphism that generate relatively small quantities of metamorphic rock.
+4618$6$6$0$2.32$0.25$0.0$0$1$0.38$0.12$2$Briefly describe the appearance of the metamorphic rock gneiss and explain how it 4.
+4618$7$7$0$1.8$0.1$0.0$0$1$0.3$0.0$1$Hornfels tends to be gray to black in color and quite hard, and it may display conchoidal fracture.
+4618$8$8$0$1.0$0.0$0.0$0$0$0.5$0.0$0$This graph illustrates the temperatures and pressures typically associated with the major types of metamorphic environments.
+4618$9$9$0$0.0$0.0$0.0$0$1$0.5$0.0$0$Metamorphism occurs in many different environments.
+4618$10$10$0$0.0$0.0$0.0$0$1$0.4$0.0$0$Compare and contrast marble and quartzite.
+4618$11$11$0$0.0$0.0$0.0$0$1$0.0$0.0$0$5.
+4618$12$12$0$0.0$0.0$0.0$0$1$0.0$0.0$0$3.
+4618$13$13$0$0.0$0.25$0.0$0$1$0.5$0.0$1$In the rock mica schist, what does mica indicate, and what does schist indicate?
+4618$14$14$0$0.0$0.0$0.0$0$1$0.0$0.0$0$2.
+4618$15$15$0$0.0$0.0$0.0$0$0$0.5$0.0$0$Although slate and phyllite resemble each other, how can they be differentiated?
+4618$16$16$0$0.0$0.0$0.0$0$1$0.0$0.0$0$1.
+4618$17$17$0$0.0$0.2$0.0$0$1$0.6$0.0$1$Increase in and pressure variable mineral composition.
+4618$1$1$0$2.6$0.1$0.0$0$1$0.7$0.0$1$As the ice sheets waned, the climate again grew more arid, and the lake levels lowered in response.
+4618$2$2$0$2.47$0.09$0.0$0$1$0.63$0.06$3$While the formation and growth of ice sheets was an obvious response to significant changes in climate, the existence of the glaciers themselves triggered imporThe towering mass of rushing water from each megaflood stripped away layers of sediment tant climatic changes in the and soil and cut deep canyons (coulees) into the underlying layers of basalt to create the regions beyond their marChanneled Scablands.
+4618$3$3$0$2.3$0.0$0.0$1$1$0.29$0.43$0$The sediments North America the greatest concentration of pluvial lakes occurred in the vast Basin and Range region of Nevada and Utah .
+4618$4$4$0$2.16$0.0$0.0$0$1$0.53$0.21$0$Several modern river valleys, including areas on all the continents, temperatures were lower and the Red River and the Minnesota River, were originally cut thus evaporation rates were lower, but at the same time, by water entering or leaving the lake.
+4618$5$5$0$1.96$0.0$0.0$0$1$0.39$0.35$0$With maximum depths The Great Salt Lake exceeding 300 meters (1000 feet) and an area of 50,000 is a remnant of Lake square kilometers (20,000 square miles), Lake Bonneville was nearly the same size as present-day Lake Michigan.
+4618$6$6$0$1.83$0.0$0.0$0$1$0.33$0.33$0$Compare the two parts of and identify three major changes to the flow of rivers in the central United States during the Ice Age.
+4618$7$7$0$1.79$0.0$0.0$0$1$0.36$0.14$0$List and briefly describe five effects of Ice Age glaciers aside from the formation of major erosional and depositional features.
+4618$8$8$0$1.15$0.0$0.0$0$0$0.46$0.46$0$This cooler, wetter of Lake Agassiz include Lake Winnipeg, Lake Manitoba, climate formed many pluvial lakes (pluvia = rain).
+4618$9$9$0$0.99$0.0$0.0$1$0$0.15$0.38$0$Although most of the lakes completely disappeared, a few small remnants of Lake Bonneville remain, the Great Salt Lake being the largest and best known.
+4618$10$10$0$0.0$0.0$0.0$0$1$1.0$0.0$0$Give an example of each.
+4618$11$11$0$0.0$0.0$0.0$0$1$0.5$0.0$0$Contrast proglacial lakes and pluvial lakes.
+4618$12$12$0$0.0$0.0$0.0$0$1$0.0$0.0$0$4.
+4618$13$13$0$0.0$0.0$0.0$0$1$0.0$0.0$0$3.
+4618$14$14$0$0.0$0.0$0.0$0$1$0.29$0.29$0$Examine and determine how much sea level has changed since the Last Glacial Maximum.
+4618$15$15$0$0.0$0.0$0.0$0$1$0.0$0.0$0$2.
+4618$16$16$0$0.0$0.0$0.0$0$1$0.0$0.0$0$1.
+4618$17$17$0$0.0$0.0$0.0$1$1$0.4$0.4$0$By far the largest of the lakes in this region was Lake Bonneville.
+4618$18$18$0$0.0$0.0$0.0$0$1$0.0$1.33$0$In Lake Winnipegosis, and Lake of the Woods.
+4618$19$19$0$0.0$0.0$0.0$0$1$0.67$0.0$0$Present-day remnants precipitation totals were moderate.
+4618$20$20$0$0.0$0.0$0.0$0$1$0.67$0.0$0$In arid and semiarid former shorelines.
+4618$21$21$0$0.0$0.0$0.0$0$1$1.0$0.0$0$gins.
+4618$1$1$0$2.35$0.27$0.0$0$1$0.36$0.18$3$Rhyolite Rhyolite is the fine-grained equivalent of granite and, like granite, is composed essentially of the light-colored silicates .
+4618$2$2$0$2.2$0.0$0.0$0$1$0.54$0.23$0$The thick rhyolite lava flows and extensive ash deposits in and around Yellowstone National Park are well-known exceptions to this generalization.
+4618$3$3$0$2.18$0.17$0.0$0$1$0.42$0.0$2$In contrast to granite, which is widely distributed as large intrusive masses, rhyolite deposits are less common and generally less voluminous.
+4618$4$4$0$2.18$0.14$0.0$0$1$0.43$0.07$2$Rhyolite is fine-grained and frequently contains glass fragments and voids, indicating that it cooled rapidly in a surface, or near-surface, environment.
+4618$5$5$0$1.84$0.25$0.0$0$0$0.67$0.0$3$These specimens contain elongated feldspar crystals a few centimeters in length that are scattered among smaller crystals of quartz and amphibole .
+4618$6$6$0$1.76$0.18$0.0$1$0$0.45$0.0$2$Although the dark components generally make up less than 10 percent of most granites, dark minerals appear to be more prominent than their percentage indicates.
+4618$7$7$0$1.54$0.33$0.0$0$0$0.44$0.0$3$However, when composed of dark pink feldspar grains, granite can exhibit a reddish color.
+4618$8$8$0$0.66$0.0$0.0$0$0$0.33$0.0$0$This fact accounts for its color, which is usually buff to pink or occasionally light gray.
+4618$9$9$0$0.0$0.5$0.0$0$1$0.75$0.0$2$In addition, some granites have a porphyritic texture.
+4618$10$10$0$0.0$0.17$0.0$1$1$0.5$0.0$1$At a distance, most granitic rocks appear gray in color .
+4618$11$11$0$0.0$0.25$0.0$0$1$0.38$0.0$2$small amounts of dark silicates, particularly biotite and amphibole, and sometimes muscovite.
+4618$1$1$1$0.0$0.29$0.0$0$1$0.57$0.0$2$Vesicles are small holes left by escaping gas bubbles.
+4618$2$2$0$0.0$0.43$0.0$0$1$0.43$0.14$3$Scoria and pumice are volcanic rocks that exhibit a vesicular texture.
+4618$3$3$0$0.0$0.33$0.0$0$1$0.33$0.0$1$Common vesicular rocks
+4623$1$1$0$2.51$0.12$0.0$0$1$0.59$0.18$2$Porphyroblastic textures develop in a Dennis Tasa wide range of rock types and Gneissic texture metamorphic environments when minerals in the parent rock recrystallize to form new minerals.
+4623$2$2$0$2.42$0.12$0.0$0$1$0.59$0.0$2$In addition to containing platy minerals, schist often contains deformed quartz and feldspar crystals that appear flattened or lens-shaped and are embedded among the mica grains.
+4623$3$3$0$2.26$0.18$0.0$0$1$0.45$0.0$2$During recrystallization, certain metamorphic minerals, such as garnet, tend to develop a small number of very large crystals.
+4623$4$4$0$2.2$0.1$0.0$0$1$0.5$0.0$1$By contrast, minerals such as muscovite and biotite typically form a large number of smaller grains.
+4623$5$5$0$2.16$0.08$0.0$0$1$0.5$0.0$1$When these platy minerals are large enough to be discernible with the unaided eye, they exhibit planar or layered structures called schistosity.
+4623$6$6$0$2.06$0.06$0.0$0$1$0.47$0.0$1$The dark red garnet crystals (porphyroblasts) are embedded in a matrix of fine-grained large, intergrown calcite crystals, similar in appearance to those in coarse-grained igneous rocks.
+4623$7$7$0$2.04$0.07$0.0$0$1$0.43$0.07$1$Development of gneissic banding Gneissic banding develops through the migration of ions that cause felsic and mafic minerals to grow in separate layers.
+4623$8$8$0$2.0$0.08$0.0$0$1$0.42$0.0$1$Metamorphic rocks may also contain some unusually large grains, called porphyroblasts, that are surrounded by a fine-grained matrix of other minerals.
+4623$9$9$0$2.0$0.07$0.0$0$1$0.43$0.0$1$At higher temperatures and pressures, the minute mica and chlorite flakes in slate begin to recrystallize into larger muscovite and biotite crystals.
+4623$10$10$0$1.8$0.12$0.0$0$1$0.25$0.12$1$Ion migration causes light and dark minerals to separate.
+4623$11$11$0$1.06$0.06$0.0$0$0$0.47$0.0$1$As a result, metamorphic rocks that contain large crystals (porphyroblasts) of, for example, garnet embedded in a finer-grained matrix of biotite and muscovite, are relatively common .
+4623$12$12$0$0.0$0.0$0.0$0$1$0.33$0.67$0$Garnet–mica schist
+4623$13$13$0$0.0$0.14$0.0$0$1$0.57$0.0$1$Parent rock with randomly oriented mineral grains.
+4623$14$14$0$0.0$0.0$0.0$0$1$0.8$0.0$0$Rocks that have this type of foliation are referred to as schist.
+4623$15$15$0$0.0$0.0$0.0$0$1$1.0$0.0$0$Schistosity
+4623$1$1$0$2.42$0.23$0.0$0$1$0.46$0.08$3$Silica impedes the flow of magma because silicate structures begin to link together into long chains early in the crystallization process.
+4623$2$2$0$2.32$0.13$0.0$0$1$0.53$0.0$2$The source material for volcanic eruptions is magma, molten rock that usually contains some solid crystalline material and varying amounts of dissolved gas.
+4623$3$3$0$2.32$0.08$0.0$0$1$0.58$0.0$1$The primary factors that affect the behavior of magma are its temperature and composition and, to a lesser extent, the amount of dissolved gases it contains.
+4623$4$4$0$2.2$0.2$0.0$0$1$0.4$0.0$3$By contrast, mafic (basaltic) lavas, which contain less silica, are relatively fluid and have been known to travel 300 kilometers (180 miles) or more before congealing.
+4623$5$5$0$2.1$0.0$0.0$0$1$0.55$0.0$0$To varying degrees, these factors determine a magma’s mobility, or viscosity (viscos = sticky).
+4623$6$6$0$1.72$0.18$0.0$0$1$0.18$0.0$2$Consequently, felsic (rhyolitic) lavas are very viscous and tend to form comparatively short, thick flows.
+4623$7$7$0$0.0$0.25$0.0$0$1$0.5$0.0$1$The more silica in magma, the greater its viscosity.
+4623$8$8$0$0.0$0.11$0.0$0$1$0.44$0.0$1$Intermediate rock types—andesite and diorite—contain about 60 percent content:
+4623$9$9$0$0.0$0.15$0.0$0$1$0.69$0.0$2$50 percent silica, whereas magmas that produce felsic rocks (granite and its extrusive equivalent, rhyolite) contain more than 70 percent silica.
+4623$10$10$0$0.0$0.14$0.0$0$0$0.43$0.0$1$For example, syrup is more viscous, and thus more resistant to flow, than water.
+4623$11$11$0$0.0$0.2$0.0$0$1$0.4$0.0$1$The more viscous the material, the greater its resistance to flow.
+4623$12$12$0$0.0$0.25$0.0$0$1$0.25$0.0$1$Erupted magma is called lava.
+4623$1$1$0$2.88$0.0$0.0$1$1$0.69$0.0$0$As with slate, the parent rock of most schists is shale that has undergone mediumto high-grade metamorphism during a major mountainbuilding episode.
+4623$2$2$0$2.74$0.12$0.0$0$1$0.75$0.0$1$In addition, schists contain smaller amounts of other minerals, often quartz and feldspar.
+4623$3$3$0$2.1$0.1$0.0$0$1$0.4$0.2$1$Schist Medium- to coarse-grained metamorphic rocks in which platy minerals are dominant are called schists.
+4623$4$4$0$2.1$0.11$0.0$0$1$0.44$0.0$1$Its constituent platy minerals are larger than those in slate but not large enough to be readily identifiable with the unaided eye.
+4623$5$5$0$1.72$0.09$0.0$0$1$0.27$0.0$1$Phyllite exhibits rock cleavage and is composed mainly of very fine crystals of mainly muscovite, chlorite, or both.
+4623$6$6$0$1.0$0.08$0.0$0$0$0.42$0.0$1$These flat components commonly include muscovite and biotite that display parallel alignments that give the rock its foliated texture .
+4623$7$7$0$0.8$0.0$0.0$0$0$0.4$0.0$0$Although phyllite appears similar to slate, it can be easily distinguished from slate by its glossy sheen and wavy surface .
+4623$8$8$0$0.0$0.2$0.0$0$0$0.6$0.0$1$Some schists are composed mostly of dark minerals (such as amphiboles).
+4623$9$9$0$0.0$0.0$0.0$0$1$0.67$0.33$0$Phyllite Phyllite represents a degree of metamorphism between slate and schist.
+4623$1$1$1$3.16$0.5$0.0$0$1$0.58$0.0$6$By contrast, rocks high in silica contain very little iron, magnesium, or calcium but are enriched with sodium and potassium.
+4623$2$2$0$2.4$0.1$0.0$0$1$0.6$0.0$1$The percentage of silica in igneous rocks varies in a systematic manner that parallels the abundance of other elements.
+4623$3$3$0$2.1$0.13$0.0$0$1$0.4$0.07$2$Granitic magma, which has a high silica content, is quite viscous (“thick”) and may erupt at temperatures as hand, basaltic magmas are low in Pyroxene silica and are generally more fluid.
+4623$4$4$0$2.06$0.06$0.0$0$1$0.47$0.0$1$Basaltic magmas also erupt at higher temperatures than granitic igneous rock containing substantial magmas—usually at temperatures amounts of dark colored silicates and plagioclase feldspar.
+4623$5$5$0$2.05$0.1$0.0$0$1$0.4$0.1$1$Consequently, the chemical makeup of an igneous rock can be inferred directly from its Feldspar silica content.
+4623$6$6$1$2.0$0.36$0.0$0$0$0.64$0.0$4$For example, rocks that are relatively low in silica contain large amounts of iron, magnesium, and calcium.
+4623$7$7$0$0.0$0.17$0.0$0$1$0.67$0.0$1$Further, the amount of silica present in magma strongly influences its behavior.
+4623$8$8$0$0.0$0.23$0.0$0$1$0.54$0.0$3$igneous rock composed of lightcolored silicates—quartz and potassium feldspar.than 70 percent in felsic rocks (see 4.5).
+4623$1$1$1$3.6$0.6$0.0$0$1$0.7$0.0$6$As you can see in rocks with a composition between granitic and basaltic rocks are said to have an andesitic composition, or intermediate composition, after the common volcanic rock andesite.
+4623$2$2$0$2.8$0.25$0.0$0$1$0.62$0.12$2$Inset images are photomicrographs that show the interlocking crystals that make up granite and basalt, respectively.
+4623$3$3$0$2.48$0.12$0.0$0$1$0.62$0.0$2$Intermediate rocks contain at least 25 percent dark silicate minerals, mainly amphibole, pyroxene, and biotite mica, with the other dominant mineral being plagioclase feldspar.
+4623$4$4$0$1.06$0.0$0.0$0$0$0.53$0.0$0$This important category of igneous rocks is often associated with volcanic activity that is typically confined to the seaward margins of the continents and on volcanic island arcs such as the Aleutian chain.
+4623$5$5$0$0.0$0.83$0.0$0$1$0.33$0.17$5$Granitic (felsic) versus basaltic (mafic) compositions
+4623$1$1$0$3.14$0.0$0.0$1$1$0.82$0.0$0$Therefore, gneiss represents the highest-grade metamorphic rock in the sequence of shale, slate, phyllite, schist, and gneiss.
+4623$2$2$0$2.34$0.0$0.0$0$1$0.67$0.0$0$Like schists, gneisses may also include large crystals of accessory minerals such as garnet.
+4623$3$3$0$1.74$0.0$0.0$1$0$0.62$0.0$0$Some gneisses will split along the layers of platy minerals, but most break in an irregular fashion.
+4623$4$4$0$1.72$0.0$0.0$0$1$0.36$0.0$0$Recall that during high-grade metamorphism, the light and dark components separate, giving gneisses their characteristic banded or layered appearance.
+4623$5$5$0$1.6$0.0$0.0$0$1$0.27$0.13$0$Gneiss Gneiss is the term applied to medium- to coarse-grained banded metamorphic rocks in which granular and elongated (as opposed to platy) minerals predominate.
+4623$6$6$0$1.58$0.08$0.0$1$0$0.46$0.0$1$Thus, most gneisses consist of alternating bands of white or reddish feldspar-rich zones and layers of dark ferromagnesian minerals .
+4623$7$7$0$1.56$0.11$0.0$0$0$0.67$0.0$1$For example, an amphibole-rich rock that exhibits a gneissic texture is called amphibolite.
+4623$8$8$0$1.12$0.0$0.0$0$0$0.56$0.0$0$These banded gneisses often exhibit evidence of deformation, including folds and sometimes Gneisses having a felsic composition may be derived from granite or its fine-grained equivalent, rhyolite.
+4623$9$9$0$0.0$0.0$0.0$0$1$0.4$0.0$0$Gneisses made up primarily of dark minerals also occur.
+4623$10$10$0$0.0$0.0$0.0$1$0$0.8$0.0$0$However, most gneisses are generated through highgrade metamorphism of shale.
+4623$11$11$0$0.0$0.29$0.0$1$1$0.57$0.0$2$Most gneisses also contain lesser amounts of biotite, muscovite, and amphibole.
+4623$12$12$0$0.0$0.57$0.0$0$1$1.0$0.0$4$The most common minerals in gneiss are quartz, potassium feldspar, and plagioclase feldspar.
+4623$1$1$0$2.82$0.09$0.0$1$1$0.55$0.09$1$Most of the dense minerals, olivine and pyroxene, sank, while less-dense silicate minerals floated to form the Moon’s crust.
+4623$2$2$0$2.44$0.27$0.0$0$1$0.45$0.0$3$The most common highland rock type is anorthosite, which is composed mainly of calcium-rich plagioclase feldspar.
+4623$3$3$0$2.36$0.0$0.0$0$1$0.67$0.04$0$Other lunar surface features related to this period of volcanism include small shield volcanoes (8–12 kilometers [5–7.5 miles] in diameter), evidence of pyroclastic eruptions, rilles (narrow winding valleys thought to be lava channels), and grabens (down-faulted valleys).
+4623$4$4$0$2.32$0.22$0.0$0$1$0.44$0.0$2$The highlands are made of these igneous rocks, which rose buoyantly like “scum” from the crystallizing magma.
+4623$5$5$0$2.3$0.0$0.0$1$1$0.38$0.08$0$The Moon’s next major event was the filling of the large impact basins, which had been created at least 300 million years earlier .
+4623$6$6$0$2.18$0.14$0.0$0$1$0.43$0.07$2$Partial melting probably occurred in several isolated pockets, as indicated by the diverse chemical makeup of the rocks retrieved during the Apollo missions.
+4623$7$7$0$1.9$0.0$0.0$0$1$0.45$0.0$0$The maria basalts are thought to have originated at depths between 200 and 400 kilometers (125 and 250 miles).
+4623$8$8$0$1.89$0.0$0.0$0$1$0.43$0.07$0$Then, about 3.8 billion years ago, the Moon, as well as the rest of the solar system, experienced a sudden drop in the rate of meteoritic bombardment.
+4623$9$9$0$1.88$0.0$0.0$0$1$0.44$0.0$0$They were likely generated by a slow rise in temperature attributed to the decay of radioactive elements.
+4623$10$10$0$1.8$0.0$0.0$0$1$0.4$0.0$0$Radiometric dating of the maria basalts puts their age between 3.0 billion and 3.5 billion years, considerably younger than the initial lunar crust.
+4623$11$11$0$1.72$0.0$0.0$0$1$0.33$0.11$0$The last prominent features to form were rayed craters, as exemplified by the 93-kilometer-wide (56-milewide) Copernicus crater shown in Material ejected from these craters blankets the maria surfaces and many older, rayless craters.
+4623$12$12$0$1.54$0.0$0.0$0$1$0.27$0.0$0$Recent evidence suggests that some mareforming eruptions may have occurred as recently as 1 billion years ago.
+4623$13$13$0$1.5$0.0$0.0$0$1$0.22$0.11$0$The relatively young Copernicus crater is thought to be about 1 billion years old.
+4623$14$14$0$1.45$0.0$0.0$0$1$0.2$0.1$0$Once formed, the lunar crust was continually impacted as the Moon swept up debris from the solar nebula.
+4623$15$15$0$0.92$0.08$0.0$0$0$0.38$0.0$1$Then, about 4.4 billion years ago, the magma ocean began to cool and underwent magmatic differentiation (see Chapter 4).
+4623$16$16$0$0.0$0.0$0.0$0$1$0.33$0.17$0$Had it formed on Earth, weathering and erosion would have long since obliterated it.
+4623$17$17$0$0.0$0.0$0.0$0$1$0.6$0.0$0$During this time, several large impact basins were created.
+4623$18$18$0$0.0$0.04$0.0$0$1$0.48$0.04$1$crust, (2) excavation of the large impact basins, (3) filling of maria basins, and (4) formation of rayed During the late stages of its accretion, the Moon’s outer shell was most likely completely melted—literally a magma ocean.
+4623$1$1$1$3.4$0.4$0.0$0$1$0.8$0.0$4$An important factor affecting the peridotite, the temperature at which peridotite melts is melting temperature of rock is its water content.
+4623$2$2$0$2.74$0.2$0.0$0$1$0.67$0.0$3$Below the ridge crest, hot mantle rock rises and melts, generating a magma that replaces the material that shifted horizontally away from the ridge axis.
+4623$3$3$0$2.66$0.25$0.0$0$1$0.58$0.0$3$Decompression melting occurs wherever hot, solid mantle rock ascends, thereby moving into regions of lower pressure.
+4623$4$4$0$2.5$0.25$0.0$0$1$0.5$0.0$2$Decompression melting also occurs when ascending mantle plumes reach the uppermost mantle.
+4623$5$5$0$2.18$0.42$0.0$0$0$0.67$0.0$5$However, tectonic processes trigger melting though various means, including reducing the melting point (temperature) of mantle rock.
+4623$6$6$0$1.94$0.09$0.0$0$1$0.36$0.09$1$Workers in underground mines know that temperatures increase as they descend deeper below Earth’s surface.
+4623$7$7$0$1.8$0.0$0.0$0$1$0.4$0.0$0$If this rising magma reaches the surface, it will trigger an episode of hot-spot volcanism.
+4623$8$8$0$0.9$0.0$0.0$0$0$0.45$0.0$0$This process is responsible for generating magma along oceanic ridges (divergent plate boundaries) where plates are rifting apart .
+4623$9$9$0$0.72$0.0$0.0$0$0$0.36$0.0$0$Recall from Chapter 2 that tensional forces along spreading centers promote upwelling where plates diverge.
+4623$10$10$0$0.0$0.67$0.0$0$0$0.67$0.0$2$That is, conditions, the mantle is solid.
+4623$11$11$0$0.0$0.17$0.0$0$0$0.5$0.0$1$Thus, under normal and other volatiles act as salt does to melt ice.
+4623$12$12$$0.0$0.5$0.0$0$1$0.5$0.0$2$Water higher than the geothermal gradient.
+4623$13$13$1$0.0$0.5$0.0$0$1$0.5$0.17$6$As shown in when a typical geothermal gradient is compared to the melting point curve for the mantle rock Addition of Water
+4623$14$14$0$0.0$0.67$0.0$0$0$0.67$0.0$4$This increase in temperature with depth is known as the geothermal gradient.
+4623$15$15$0$0.0$0.0$0.0$0$1$0.67$0.0$0$kilometer in the upper crust.
+4623$16$16$0$0.0$0.14$0.0$0$1$0.43$0.0$1$When confining pressure drops sufficiently, decompression melting is triggered.
+4623$17$17$0$0.0$1.0$0.0$0$1$0.5$0.0$2$melting temperature.
+4623$1$1$1$4.01$0.65$0.0$1$1$0.59$0.06$11$Recall from Bowen’s reaction series that rocks with a granitic composition are composed of minerals with the lowest melting (crystallization) temperatures—namely, quartz and potassium feldspar .
+4623$2$2$1$3.54$0.43$0.0$1$1$0.57$0.07$6$Also note that as we move up Bowen’s reaction series, the minerals have progressively higher melting temperatures and that olivine, which is found at the top, has the highest melting point.
+4623$3$3$0$3.24$0.27$0.0$1$1$0.6$0.0$4$When a rock undergoes partial melting, it will form a melt that is enriched in ions from minerals with the lowest melting temperatures, while the unmelted portion is composed of minerals with higher melting temperatures .
+4623$4$4$1$3.1$0.4$0.0$1$1$0.4$0.0$4$Recall that igneous rocks are composed of a mixture of minerals and, therefore, tend to melt over the lowest melting temperatures are the first to melt.
+4623$5$5$0$2.88$0.25$0.0$0$1$0.69$0.0$4$In general, partial melting of ultramafic rocks tends to yield mafic (basaltic) magmas, partial melting of mafic rocks generally yields intermediate (andesitic) magmas, and partial melting of intermediate rocks can generate felsic (granitic) magmas.
+4623$6$6$0$2.86$0.31$0.0$0$1$0.62$0.0$4$If melting continues, minerals with higher melting points begin to melt, and the composition of the melt steadily approaches the overall composition of the rock from which it was derived.
+4623$7$7$0$2.74$0.27$0.0$0$1$0.6$0.0$4$Separation of these two fractions yields a melt with a chemical composition that is richer in silica and nearer the felsic (granitic) end of the spectrum than the rock from which it formed.
+4623$8$8$0$2.5$0.25$0.0$0$1$0.5$0.0$2$The incomplete melting of rocks is known as partial melting, a process that produces most magma.
+4623$9$9$0$0.0$0.0$0.0$0$1$0.0$0.0$0$Most often, however, melting is not complete.
+4623$1$1$0$3.5$0.33$0.0$0$1$0.92$0.0$4$Compare this figure to the mineral composition of the rock groups in Note that each rock group consists of minerals that crystallize in the same temperature range.
+4623$2$2$1$2.67$0.38$0.0$0$1$0.44$0.06$6$In particular, scientists know that minerals that form in the same general temperature regime depicted in Bowen’s reaction series are found together in the same igneous rocks.
+4623$3$3$0$2.56$0.11$0.0$0$1$0.67$0.0$1$During this crystallization process, the composition of the remaining liquid portion of the magma also continually changes.
+4623$4$4$0$2.56$0.22$0.0$0$1$0.56$0.0$2$Further cooling generates calcium-rich plagioclase feldspar as well as pyroxene, and so forth down the diagram.
+4623$5$5$0$2.44$0.12$0.0$0$1$0.58$0.08$3$Crystal settling results in a change in the composition magma evolves as the earliest-formed minerals (those richer in iron, magnesium, and calcium) crystallize and settle to the bottom of the magma chamber, leaving the remaining melt richer in sodium, potassium, and silica (SiO2).
+4623$6$6$0$2.06$0.13$0.0$0$1$0.4$0.0$2$Recall that ice freezes at a specific temperature, whereas basaltic magma cools, minerals tend to crystallize in a systematic fashion, based on their melting temperatures.
+4623$7$7$1$1.92$0.4$0.0$0$0$0.55$0.05$8$For example, notice in that the minerals quartz, potassium feldspar, and muscovite, which are located in the same region of Bowen’s diagram, are typically found together as major constituents of the intrusive igneous rock granite.
+4623$8$8$0$1.8$0.05$0.0$1$0$0.6$0.0$1$For example, at the stage when about one-third of the magma has solidified, the remaining molten material will be nearly depleted in iron, magnesium, and calcium because these elements are major constituents of the minerals that form earliest in the process.
+4623$9$9$0$0.0$0.09$0.0$0$1$0.5$0.0$2$body causes crystals of olivine, pyroxene, and calcium-rich plagioclase to form and settle out, or crystallize along the magma body’s cool model approximates what can happen in nature comes from analysis of igneous rocks.
+4623$10$10$0$0.0$0.43$0.0$0$0$0.57$0.0$3$This diagram shows the sequence in which minerals crystallize from a mafic magma.
+4623$11$11$0$0.0$0.2$0.0$0$1$0.6$0.0$1$As shown in the first mineral to crystallize is the ferromagnesian mineral olivine.

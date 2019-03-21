@@ -1,7 +1,7 @@
 Question: In ______________ the carbon atoms are bonded into sheets that are joined together by very weak electrical forces.
-a) tungsten
-b) charcoal
-c) aluminum
-d) graphite
+a) aluminum
+b) tungsten
+c) graphite
+d) charcoal
 Answer: graphite
 

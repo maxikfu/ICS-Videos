@@ -1,7 +1,7 @@
 Question: Edward Jenner established the practice of vaccination, inoculation with cowpox to prevent ______________.
-a) typhoid
+a) smallpox
 b) polio
-c) cholera
-d) smallpox
+c) typhoid
+d) measles
 Answer: smallpox
 

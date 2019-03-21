@@ -1,7 +1,7 @@
 Question: Moreover, minerals containing the elements lithium, cesium, uranium, and ______________* are occasionally found .
-a) the copper ores
-b) the rare earths
-c) the slightly larger terrestrial planets
+a) our planet
+b) the most common silicate minerals
+c) the rare earths
 d) earth
 Answer: the rare earths
 

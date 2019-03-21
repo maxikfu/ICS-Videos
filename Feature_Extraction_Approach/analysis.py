@@ -1,6 +1,7 @@
 import os
 import json
 from Feature_Extraction_Approach.GFQG import min_max_normalize
+from collections import defaultdict
 
 
 def relevance_analysis():
@@ -17,16 +18,17 @@ def relevance_analysis():
         for d in sorted(dir):
             with open(os.path.join(video_directory, d + '/stage1_imp_sent.json')) as f:
                 raw = f.readlines()
-            i += 1
+            seg_id = int(''.join([x for x in d if x.isdigit()]))
+            print(seg_id)
             for line in raw:
                 dd = json.loads(line)
                 dd['video_id'] = str(video_id)
-                dd['seg_id'] = str(i)
+                dd['seg_id'] = seg_id
                 all_sent.append(dd)
-        with open(root + 'relevance.csv', 'w') as f:
+        with open(root + 'relevance_new.json', 'w') as f:
             for l in all_sent:
-                row = [l['video_id'], l['seg_id'], l['relevant'], str(l['score']), str(l['common_words']), str(l['features'][0])]
-                f.write(','.join(row) + '\n')
+
+                f.write(json.dumps(l) + '\n')
 
 
 def sentence_analysis():
@@ -58,5 +60,19 @@ def sentence_analysis():
                 f.write(json.dumps(d) + '\n')
 
 
+def data_prep():
+    with open('../data/GEOL1330Fall18_Jinny/relevance_new.json', 'r') as f:
+        raw = f.readlines()
+    data = {}
+    csv_out = [['video_id', 'video_seg_id', 'sent_id', 'relevant', 'score', 'f1', 'f2', 'f3', 'f4', 'f5', 'f6', 'common words', 'text']]
+    for line in raw:
+        j = json.loads(line)
+        csv_out.append([j['video_id'], j['seg_id'], j['id'], j['relevant'], j['score'], j['features'][0], j['features'][1], j['features'][2], j['features'][3], j['features'][4], j['features'][5], j['common_words'], j['text'].strip()])
+    with open('../data/GEOL1330Fall18_Jinny/relevance_new_data.csv', 'w') as f:
+        for l in csv_out:
+            f.write('$'.join([str(x) for x in l[:-1]]) + '$' + l[-1].strip().replace('\n', '') + '\n')
+
+
 if __name__ == '__main__':
-    sentence_analysis()
+    data_prep()
+
