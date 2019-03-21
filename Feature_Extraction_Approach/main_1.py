@@ -30,6 +30,7 @@ if __name__ == '__main__':
         exit()
 
     potential_distr = distr_extraction(raw_book_segs)
+    total_number_of_segments = 0
     for video_id in video_index:
         print(video_id)
         if DEBUG:
@@ -62,6 +63,7 @@ if __name__ == '__main__':
             video_OCR[int(l_j["id"])] = set(l_j["text"].split(','))
         # iterating over video segments
         for v_seg_id, book_seg_id in video_book_link.items():
+            total_number_of_segments += 1
             # print(v_seg_id)
             book_seg_json = json.loads(raw_book_segs[book_seg_id - 1])
             video_seg_text = video_OCR[v_seg_id]
@@ -117,3 +119,4 @@ if __name__ == '__main__':
                 f.write(json.dumps(q) + '\n')
                 print('Video:', q['video_id'], 'Segment:', q['seg_id'])
                 print(q['text'] + '\n')
+    print(total_number_of_segments)
