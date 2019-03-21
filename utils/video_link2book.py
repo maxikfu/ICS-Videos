@@ -33,9 +33,9 @@ def video_2book(video_id, path_to_book):
             for token in text:
                 book_words.add(token.lemma_)
             common_words = len(book_words.intersection(video_words))
-            if common_words != 0:
-                seg_score_list.append(common_words)
-                seg_id_list.append(id)
+            # if common_words != 0:
+            seg_score_list.append(common_words)
+            seg_id_list.append(id)
         # at this moment we will choose 3 max score, can adapt it later
         seg_scores.append([(x, y, video_seg_id) for y, x in sorted(zip(seg_score_list, seg_id_list), reverse=True)][:4])
         # print(str(video_seg_id), seg_scores[-1])
@@ -60,8 +60,8 @@ def video_2book(video_id, path_to_book):
 
 
 if __name__ == '__main__':
-    videos_id = [4853, 4887, 4916, 4954, 4984, 4998, 5019, 5030, 5039, 5056, 5063, 5072, 5088]
-    videos_id = [5030]
+    #videos_id = [4853, 4887, 4916, 4954, 4984, 4998, 5019, 5030, 5039, 5056, 5063, 5072, 5088]
+    videos_id = [4608]
     for v in videos_id:
         print(v)
-        video_2book(v, '../data/Evaluation/tt_Microbiology_full_cleaned.json')
+        video_2book(v, '../data/GEOL1330Fall18_Jinny/tt_Earth_cleaned.json')
