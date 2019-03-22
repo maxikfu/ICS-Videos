@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: Overall, the thick, waxy envelope excludes many antibiotics and offers exceptional protection from host defenses, enabling the pathogens of tuberculosis and ______________ to colonize their hosts over long Mycolic acids periods.
+a) tuberculosis
+b) syphilis
+c) leprosy
+d) smallpox
+Answer: leprosy
+

@@ -1,5 +1,5 @@
 {"id": 1, "score": 2.6, "relevant": "No", "text": "Virion buds out and neuraminidase cleaves sialic acid receptor, releasing virion.", "common_words": 2, "features": [0.2, 0.0, 0, 1, 0.6, 0.0]}
-{"id": 2, "score": 2.54, "relevant": "No", "text": "Within the cell membrane, the envelope complexed with their matrix and packaging proteins, completing the virion particle (step 15).", "common_words": 4, "features": [0.24, 0.0, 0, 1, 0.53, 0.0]}
+{"id": 2, "score": 2.54, "relevant": "Yes", "text": "Within the cell membrane, the envelope complexed with their matrix and packaging proteins, completing the virion particle (step 15).", "common_words": 4, "features": [0.24, 0.0, 0, 1, 0.53, 0.0]}
 {"id": 3, "score": 2.42, "relevant": "No", "text": "Viral exit requires a final step of host release: link of the host glycoproteins (step 17), releasing the virion out into the bloodstream.", "common_words": 2, "features": [0.12, 0.0, 0, 1, 0.59, 0.0]}
 {"id": 4, "score": 2.32, "relevant": "No", "text": "To exit the cell, the virion buds out (Fig.", "common_words": 2, "features": [0.25, 0.0, 0, 1, 0.38, 0.12]}
 {"id": 5, "score": 1.8, "relevant": "No", "text": "How do researchers figure out all and labeled nucleic acid probes reveal the presence of viral within a cell, even tracking their motion over 14.", "common_words": 3, "features": [0.12, 0.0, 0, 1, 0.28, 0.0]}

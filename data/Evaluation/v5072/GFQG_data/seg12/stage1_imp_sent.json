@@ -6,7 +6,7 @@
 {"id": 6, "score": 1.76, "relevant": "No", "text": "Eukaryotic microbes also have highly complex life cycles.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.38, 0.0]}
 {"id": 7, "score": 1.65, "relevant": "No", "text": "For example, Dictyostelium discoideum is a seemingly unremarkable ameba that grows as separate, independent cells. \n\n", "common_words": 1, "features": [0.06, 0.0, 0, 1, 0.25, 0.06]}
 {"id": 8, "score": 1.22, "relevant": "No", "text": "Some species, structure, such as the formation of smaller cells or thicker cell surfaces.", "common_words": 2, "features": [0.15, 0.0, 0, 0, 0.46, 0.0]}
-{"id": 9, "score": 1.08, "relevant": "No", "text": "The cells are blue, whereas the spores are stain in which spores appear blue-green is shown in of Connecticut figured out how proteins regulate the stages of endospore formation. \n\nextends into an axial filament.", "common_words": 6, "features": [0.21, 0.0, 0, 0, 0.32, 0.04]}
-{"id": 10, "score": 0.0, "relevant": "No", "text": "spore. \n\nseparates forespore pumped through septum until each compartment gets a chromosome.", "common_words": 4, "features": [0.31, 0.0, 0, 1, 0.38, 0.0]}
+{"id": 9, "score": 1.08, "relevant": "Yes", "text": "The cells are blue, whereas the spores are stain in which spores appear blue-green is shown in of Connecticut figured out how proteins regulate the stages of endospore formation. \n\nextends into an axial filament.", "common_words": 6, "features": [0.21, 0.0, 0, 0, 0.32, 0.04]}
+{"id": 10, "score": 0.0, "relevant": "Yes", "text": "spore. \n\nseparates forespore pumped through septum until each compartment gets a chromosome.", "common_words": 4, "features": [0.31, 0.0, 0, 1, 0.38, 0.0]}
 {"id": 11, "score": 0.0, "relevant": "No", "text": "cell releases", "common_words": 2, "features": [1.0, 0.0, 0, 1, 1.0, 0.0]}
 {"id": 12, "score": 0.0, "relevant": "No", "text": "Can bacteria change shape?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.5, 0.0]}

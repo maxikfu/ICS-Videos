@@ -7,7 +7,7 @@ from utils.noun_chunk_extraction import distr_extraction
 
 
 if __name__ == '__main__':
-    DEBUG = True
+    DEBUG = False
     if DEBUG:
         video_index = [4588, 4608, 4609, 4618, 4623]
     else:

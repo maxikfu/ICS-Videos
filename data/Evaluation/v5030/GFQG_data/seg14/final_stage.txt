@@ -1,7 +1,7 @@
 Question: ______________ is called proton motive force.
-a) the optical density
-b) the inwardly directed proton gradient
-c) the standard curve
-d) steep temperature gradients
+a) the inwardly directed proton gradient
+b) the electron
+c) their concentration gradients
+d) the slope
 Answer: The inwardly directed proton gradient
 

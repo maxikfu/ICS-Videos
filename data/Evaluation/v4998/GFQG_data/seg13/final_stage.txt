@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: The nearly all expression of phage genes dangerPR Lytic-cycle mRNA ous to ______________ and prevents superinfection by other phage lambda particles.
+a) cell proliferation
+b) cells
+c) the cell
+d) the cells
+Answer: the cell
+

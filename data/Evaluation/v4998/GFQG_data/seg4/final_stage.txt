@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: Each viral species has a limited host range and requires a critical population density to sustain the chain of ______________.
+a) disease
+b) genitourinary tract infections
+c) chronic hepatitis
+d) infection
+Answer: infection
+

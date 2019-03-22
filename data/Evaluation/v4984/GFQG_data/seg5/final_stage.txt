@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: Between the inner and outer membranes lies ______________, a fortress-like structure composed of sugar chains linked covalently by peptides (peptidoglycan).
+a) chitinous cell walls
+b) the cell wall
+c) the ocean floor
+d) the stone
+Answer: the cell wall
+

@@ -114,7 +114,7 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
                                                                         'The following', 'So', 'Above',
                                                                         'Figure', 'like this one', 'fig.', 'These',
                                                                         'This', 'That', 'Thus', 'Although',
-                                                                        'Since', 'As a result', 'shown in']):
+                                                                        'Since', 'As a result', 'shown in', 'chapter']):
                 f4 = 0
             else:
                 f4 = 1
@@ -143,7 +143,7 @@ def sentence_selection(video_seg_id, video_seg_text, book_segment_json):
             id += 1
             dic = {"id": id, "score": round(res[0], 2), "relevant": "No", "text": res[1].text, "common_words": res[2][-1], "features": res[2][:-1]}
             dic_1 = {"id": id, "score": round(res[0], 2), "text": res[1], "relevant": "No"}
-            if res[2][-1] >= 4 and res[2][0] >= 0.36:  # relevant criteria
+            if res[2][-1] >= 4 and res[2][0] >= 0.21:  # relevant criteria
                 dic['relevant'] = 'Yes'
                 dic_1['relevant'] = 'Yes'
             output.append(dic_1)

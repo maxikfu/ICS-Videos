@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: We thus introduce various cells and organs of the immune system as a whole before focusing on ______________.
+a) the immune
+b) innate immunity
+c) immune regulation
+d) adaptive immune mechanisms
+Answer: innate immunity
+

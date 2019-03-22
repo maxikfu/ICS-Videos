@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: Within ______________, the envelope complexed with their matrix and packaging proteins, completing the virion particle (step 15).
+a) the cells
+b) the outer membrane vesicle
+c) archaeal membranes
+d) the cell membrane
+Answer: the cell membrane
+

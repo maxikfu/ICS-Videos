@@ -1,5 +1,5 @@
 {"id": 1, "score": 2.72, "relevant": "Yes", "text": "In the slow-release replication cycle, a filamentous phage produces phage particles without lysing the cell.", "common_words": 5, "features": [0.36, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 2, "score": 2.3, "relevant": "No", "text": "Progeny phages must exit the host cell, and then reach new host cells to infect. \n\n", "common_words": 4, "features": [0.29, 0.0, 0, 1, 0.36, 0.0]}
+{"id": 2, "score": 2.3, "relevant": "Yes", "text": "Progeny phages must exit the host cell, and then reach new host cells to infect. \n\n", "common_words": 4, "features": [0.29, 0.0, 0, 1, 0.36, 0.0]}
 {"id": 3, "score": 2.07, "relevant": "No", "text": "Various kinds of host molecules can membrane proteins and complexes (OmpF and TolC), and flagellar proteins. \n\n", "common_words": 1, "features": [0.07, 0.0, 0, 1, 0.43, 0.14]}
 {"id": 4, "score": 1.84, "relevant": "No", "text": "Phage recombines by re-joining the ends of its genome and enters the lytic cycle. \n\n", "common_words": 2, "features": [0.13, 0.0, 0, 1, 0.27, 0.07]}
 {"id": 5, "score": 1.72, "relevant": "No", "text": "The host continues to reproduce itself, but more slowly than uninfected cells do because many of its resources are being used to make phages. \n\n", "common_words": 4, "features": [0.18, 0.0, 0, 1, 0.18, 0.0]}

@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: No swim High levels of ______________ in stationary phase exponential phase cells, which synthesis, thereby favoring biofilm formation.
+a) c-diproteins
+b) groel-groes-atp
+c) c-di-gmp nella
+d) c-di-gmp
+Answer: c-di-GMP
+

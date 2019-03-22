@@ -1,6 +1,6 @@
 Question: In the slow-release replication cycle, a filamentous phage produces phage particles without lysing ______________.
 a) the cell
-b) dead cells
+b) the cells
 c) cell proliferation
 d) cells
 Answer: the cell

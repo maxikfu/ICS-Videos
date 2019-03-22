@@ -1,7 +1,7 @@
 {"id": 1, "score": 2.78, "relevant": "No", "text": "The integrated genome can transform host cells into cancer cells.", "common_words": 3, "features": [0.33, 0.0, 0, 1, 0.56, 0.0]}
 {"id": 2, "score": 2.68, "relevant": "Yes", "text": "Viral replication is largely inhibited until the basal cells transcription by host polymerases.", "common_words": 6, "features": [0.46, 0.0, 0, 1, 0.38, 0.0]}
 {"id": 3, "score": 2.52, "relevant": "No", "text": "The viral and transcription by host polymerases. \n\n", "common_words": 3, "features": [0.38, 0.0, 0, 1, 0.38, 0.0]}
-{"id": 4, "score": 2.5, "relevant": "No", "text": "The translated capsid proteins, however, return to the nucleus for assembly of the virion.", "common_words": 4, "features": [0.33, 0.0, 0, 1, 0.42, 0.0]}
+{"id": 4, "score": 2.5, "relevant": "Yes", "text": "The translated capsid proteins, however, return to the nucleus for assembly of the virion.", "common_words": 4, "features": [0.33, 0.0, 0, 1, 0.42, 0.0]}
 {"id": 5, "score": 2.42, "relevant": "No", "text": "Capsid proteins are synthesized by host ribosomes, and the capsids self-assemble in the cytoplasm.", "common_words": 3, "features": [0.23, 0.0, 0, 1, 0.46, 0.08]}
 {"id": 6, "score": 2.4, "relevant": "No", "text": "The oncogenes inhibit the expression of host tumor suppressor than others.", "common_words": 1, "features": [0.1, 0.0, 0, 1, 0.6, 0.0]}
 {"id": 7, "score": 2.2, "relevant": "No", "text": "The mRNA transcripts then exit the nuclear pores, as do host mRNAs, for translation in the cytoplasm.", "common_words": 3, "features": [0.2, 0.0, 0, 1, 0.4, 0.0]}

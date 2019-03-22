@@ -1,1 +1,9 @@
-No relevant to video sentences were found. :(
+Question: It turns out that haloarchaea have transferred genes encoding light-absorbing proton pumps into ______________.
+a) ftsy. 
+
+microorganisms
+b) most microorganisms
+c) many marine bacteria
+d) the microbes
+Answer: many marine bacteria
+

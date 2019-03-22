@@ -1,4 +1,4 @@
-{"id": 1, "score": 2.44, "relevant": "No", "text": "Usually an oncogene encodes an abnormal form of a host protein that controls cell proliferation.", "common_words": 4, "features": [0.29, 0.0, 0, 1, 0.43, 0.0]}
+{"id": 1, "score": 2.44, "relevant": "Yes", "text": "Usually an oncogene encodes an abnormal form of a host protein that controls cell proliferation.", "common_words": 4, "features": [0.29, 0.0, 0, 1, 0.43, 0.0]}
 {"id": 2, "score": 2.34, "relevant": "No", "text": "Insects and nematodes transmit many kinds of plant viruses.", "common_words": 1, "features": [0.11, 0.0, 0, 1, 0.56, 0.0]}
 {"id": 3, "score": 2.22, "relevant": "No", "text": "The CaMV genome moves from the cytoplasm to the cell nucleus through a nuclear pore.", "common_words": 2, "features": [0.15, 0.0, 0, 1, 0.46, 0.0]}
 {"id": 4, "score": 2.2, "relevant": "No", "text": "After virions are assembled in the cytoplasm, virus-encoded proteins, called movement proteins, help transfer the virions through plasmodesmata into an adjacent cell.", "common_words": 3, "features": [0.15, 0.0, 0, 1, 0.45, 0.0]}

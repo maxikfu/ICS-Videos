@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: The Gram-positive cell envelope has multiple layers of ______________, threaded by teichoic acids.
+a) chitin
+b) biosynthesis
+c) peptidoglycan
+d) ergosterol
+Answer: peptidoglycan
+

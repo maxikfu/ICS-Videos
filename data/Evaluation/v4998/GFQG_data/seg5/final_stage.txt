@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: Like bacteriophages, animal viruses evolve by the fitness advantage of binding specific receptor proteins on their The host receptors play a key role in determining the host range, the group of host species permitting ______________.
+a) genitourinary tract infections
+b) chronic hepatitis
+c) disease
+d) infection
+Answer: infection
+

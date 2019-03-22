@@ -1,7 +1,8 @@
 import os
 import json
-from Feature_Extraction_Approach.GFQG import min_max_normalize
+# from Feature_Extraction_Approach.GFQG import min_max_normalize
 from collections import defaultdict
+import numpy as np
 
 
 def relevance_analysis():
@@ -51,7 +52,7 @@ def sentence_analysis():
                 if dd['text'] not in all_sent:
                     all_sent.append(dd['text'])
                     all_scores.append(dd['score'])
-    min_max_normalize(all_scores)
+    # min_max_normalize(all_scores)
     data = set(sorted([(x, y) for x, y in zip(all_scores, all_sent)], reverse=True))
     with open(root + 'all_sent.json', 'w') as f:
         for l in data:
@@ -68,11 +69,25 @@ def data_prep():
     for line in raw:
         j = json.loads(line)
         csv_out.append([j['video_id'], j['seg_id'], j['id'], j['relevant'], j['score'], j['features'][0], j['features'][1], j['features'][2], j['features'][3], j['features'][4], j['features'][5], j['common_words'], j['text'].strip()])
-    with open('../data/GEOL1330Fall18_Jinny/relevance_new_data.csv', 'w') as f:
-        for l in csv_out:
-            f.write('$'.join([str(x) for x in l[:-1]]) + '$' + l[-1].strip().replace('\n', '') + '\n')
+    d = defaultdict(int)
+    for c in csv_out:
+        d[c[1]] += 1
+    print(np.mean([v for k,v in d.items()]))
+    print(np.std([v for k, v in d.items()]))
+    # with open('../data/GEOL1330Fall18_Jinny/relevance_new_data.csv', 'w') as f:
+    #     for l in csv_out:
+    #         f.write('$'.join([str(x) for x in l[:-1]]) + '$' + l[-1].strip().replace('\n', '') + '\n')
 
 
 if __name__ == '__main__':
-    data_prep()
+    with open('../data/Evaluation/results.json', 'r') as f:
+        raw = f.readlines()
+    with open('../data/Evaluation/results.txt', 'w') as f:
+        for line in raw:
+            res = ""
+            j = json.loads(line)
+            f.write('Video No.: ' + str(j['video_id']) + '\n')
+            f.write('Seg No.: ' + str(j['seg_id']) + '\n')
+            f.write(j['text'])
+
 

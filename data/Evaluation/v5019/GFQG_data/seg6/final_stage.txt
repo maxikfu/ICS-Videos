@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: Usually an oncogene encodes an abnormal form of a host protein that controls ______________.
+a) cells
+b) the cells
+c) differentiation
+d) cell proliferation
+Answer: cell proliferation
+

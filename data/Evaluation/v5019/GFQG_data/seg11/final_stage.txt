@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: The viral mRNA reenters the cytoplasm for translation to produce coat proteins, reverse transcriptase, and ______________.
+a) the branch peptides
+b) some molecules
+c) protein
+d) envelope proteins
+Answer: envelope proteins
+
