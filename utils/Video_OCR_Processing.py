@@ -25,15 +25,14 @@ def video_lecture_preproc(video_id, path_to_video_folder):
                 segment_text = segment_text + region_text[0]
         doc = nlp(' '.join(segment_text))
         video_words = set()
-        print(len(doc))
-    #     for token in doc:
-    #         if not is_stop(token.text) and not token.is_punct and token.tag_ in ['NN', 'NNS', 'NNP', 'NNPS']:
-    #             video_words.add(token.lemma_.lower())
-    #     dic = {"id": int(seg), "text": ','.join(video_words)}
-    #     list_dic.append(json.dumps(dic))
-    # with open(folder + f_name, 'w') as f:
-    #     for l in list_dic:
-    #         f.write(l+'\n')
+        for token in doc:
+            if not is_stop(token.text) and not token.is_punct and token.tag_ in ['NN', 'NNS', 'NNP', 'NNPS']:
+                video_words.add(token.lemma_.lower())
+        dic = {"id": int(seg), "text": ','.join(video_words)}
+        list_dic.append(json.dumps(dic))
+    with open(folder + f_name, 'w') as f:
+        for l in list_dic:
+            f.write(l+'\n')
 
 
 if __name__ == '__main__':
