@@ -1,7 +1,7 @@
 Question: Chapter 14 explores electron transfer through pathways of organic respiration (______________ of organic nutrients), lithotrophy (______________ of inorganic nutrients), and photosynthesis.
-a) hydrogenation
+a) cyclic corrosion
 b) oxidation
-c) hydrolysis
-d) amino acid decomposition
+c) hydrogenation
+d) hydrolysis
 Answer: oxidation
 

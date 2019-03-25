@@ -1,0 +1,12 @@
+{"sent_id": 1, "key_list": [[2.0, "the death rate", [3, 0, 0.5]], [2.0, "the growth rate", [1, 1, 0.5]], [0.75, "the rate", [1, 0, 0.25]]]}
+{"sent_id": 2, "key_list": [[1.833, "multiple carbon and energy sources", [1, 1, 0.3333333333333333]], [1.7, "complex laboratory media", [1, 1, 0.2]], [1.0, "natural environments", [1, 0, 0.5]]]}
+{"sent_id": 3, "key_list": [[2.0, "cells", [2, 0, 1.0]], [1.2, "the number", [2, 0, 0.2]], [1.143, "the number", [2, 0, 0.14285714285714285]], [1.0, "the time period", [1, 0, 0.5]], [1.0, "a given time period", [1, 0, 0.5]], [1.0, "death phase", [1, 0, 0.5]], [0.75, "the beginning", [1, 0, 0.25]]]}
+{"sent_id": 4, "key_list": [[2.0, "cells", [2, 0, 1.0]], [1.5, "the death phase", [2, 0, 0.5]], [1.0, "the culture", [1, 0, 0.5]]]}
+{"sent_id": 5, "key_list": [[1.5, "fact", [1, 0, 1.0]], [1.0, "even decades", [1, 0, 0.5]], [1.0, "the cells", [1, 0, 0.5]], [0.833, "years", [1, 0, 0.3333333333333333]], [0.75, "months", [1, 0, 0.25]], [0.75, "a portion", [1, 0, 0.25]]]}
+{"sent_id": 6, "key_list": [[2.0, "the death rate", [3, 0, 0.5]], [1.5, "half", [1, 0, 1.0]], [1.0, "a population", [1, 0, 0.5]], [0.75, "the time", [1, 0, 0.25]], [0.7, "a half-life", [1, 0, 0.2]]]}
+{"sent_id": 7, "key_list": [[2.0, "one carbon source", [1, 1, 0.5]], [2.0, "complex media", [1, 1, 0.5]], [2.0, "some bacterial species", [1, 1, 0.5]], [1.75, "odd-looking growth curves", [1, 1, 0.25]], [1.5, "it", [1, 0, 1.0]], [1.5, "physiology", [1, 0, 1.0]], [1.0, "metabolic states", [1, 0, 0.5]], [1.0, "the population", [1, 0, 0.5]], [0.75, "a series", [1, 0, 0.25]]]}
+{"sent_id": 8, "key_list": [[1.5, "antibiotics", [1, 0, 1.0]], [1.0, "chapters", [1, 0, 0.5]], [1.0, "food preservation", [1, 0, 0.5]], [1.0, "determining microbial death rates", [1, 0, 0.5]], [0.833, "the development", [1, 0, 0.3333333333333333]], [0.75, "the study", [1, 0, 0.25]]]}
+{"sent_id": 9, "key_list": [[1.5, "others", [1, 0, 1.0]], [1.5, "survival", [1, 0, 1.0]], [1.0, "some cells", [1, 0, 0.5]], [1.0, "exact death rates", [1, 0, 0.5]], [1.0, "death curves", [1, 0, 0.5]], [0.833, "mutations", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 10, "key_list": [[2.0, "the death rate", [3, 0, 0.5]], [1.0, "a negative exponential function", [1, 0, 0.5]]]}
+{"sent_id": 11, "key_list": [[1.5, "the death phase", [2, 0, 0.5]]]}
+{"sent_id": 12, "key_list": [[1.0, "the environment", [1, 0, 0.5]], [0.7, "toxic chemicals", [1, 0, 0.2]]]}

@@ -1,7 +1,7 @@
 Question: Note that the nice, smooth exponential growth microbes growing in natural environments or in complex laboratory media containing ______________.
-a) source
-b) even lower water content
-c) chemical energy
+a) such high biochemical oxygen demand
+b) a carbon source
+c) this energy
 d) multiple carbon and energy sources
 Answer: multiple carbon and energy sources
 

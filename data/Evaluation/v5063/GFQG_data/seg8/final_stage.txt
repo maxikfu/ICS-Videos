@@ -1,7 +1,7 @@
 Question: The unlimited growth of any population obeys a simple law: The growth rate, or rate of increase in cell numbers or biomass, is proportional to the population size at ______________.
-a) the chance
-b) a moment
-c) a given time
-d) the start
+a) one
+b) the moment
+c) a way
+d) a given time
 Answer: a given time
 

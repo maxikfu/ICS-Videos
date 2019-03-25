@@ -1,7 +1,7 @@
 Question: Biofilm development involves the adherence of ______________ to a substrate, the formation of microcolonies, and, ultimately, the formation of complex channeled communities that generate new planktonic ______________.
-a) cells
-b) different tissues
-c) the cell
-d) cell proliferation
+a) tissue
+b) mother cell
+c) small autoinducer signaling molecules
+d) cells
 Answer: cells
 

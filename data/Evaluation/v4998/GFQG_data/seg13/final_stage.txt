@@ -1,7 +1,9 @@
-Question: The nearly all expression of phage genes dangerPR Lytic-cycle mRNA ous to ______________ and prevents superinfection by other phage lambda particles.
-a) cell proliferation
-b) cells
-c) the cell
-d) the cells
+Question: Lysis by holin and endolysin. 
+
+suppose multiple phage particles coinfect ______________ at the same time.
+a) the cell mass
+b) the cell
+c) cells
+d) cells
 Answer: the cell
 

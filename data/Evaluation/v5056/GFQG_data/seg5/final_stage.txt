@@ -2,8 +2,8 @@ Question: It turns out that haloarchaea have transferred genes encoding light-ab
 a) ftsy. 
 
 microorganisms
-b) most microorganisms
-c) many marine bacteria
-d) the microbes
+b) microbes
+c) microbes
+d) many marine bacteria
 Answer: many marine bacteria
 

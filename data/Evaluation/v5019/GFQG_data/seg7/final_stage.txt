@@ -1,7 +1,7 @@
 Question: ______________: • Promotes virion assembly and release from cell-surface tetherins.
-a) membrane protein
-b) attach amino acids
-c) amino
-d) the pump proteins
+a) external proteins
+b) membrane lipids
+c) the amino
+d) membrane protein
 Answer: Membrane protein
 

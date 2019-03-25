@@ -1,9 +1,9 @@
 Question: Nutritional upshift causes ______________ to reenter log phase, but with a shorter generation time. 
 
 
-a) different tissues
-b) cells
-c) cell proliferation
-d) the cell
+a) small autoinducer signaling molecules
+b) tissue
+c) cells
+d) mother cell
 Answer: cells
 

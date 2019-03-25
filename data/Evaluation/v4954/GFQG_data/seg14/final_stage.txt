@@ -1,7 +1,7 @@
 Question: The cellular target of teixobactin is ______________ in Gram-positive bacteria (the peptide cannot penetrate the Gram-negative outer membrane).
 a) peptidoglycan synthesis
-b) peptidoglycan
-c) biosynthesis
+b) arabinogalactan biosynthesis
+c) peptidoglycan
 d) hydrolysis
 Answer: peptidoglycan synthesis
 

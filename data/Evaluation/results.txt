@@ -1,54 +1,56 @@
 Video No.: 4887
 Seg No.: 9
 Question: Edward Jenner established the practice of vaccination, inoculation with cowpox to prevent ______________.
-a) polio
-b) typhoid
-c) the smallpox vaccination
-d) smallpox
+a) typhoid
+b) the smallpox vaccination
+c) smallpox
+d) measles
 Answer: smallpox
 
 Video No.: 4887
 Seg No.: 11
-Question: ______________ and archaea fix Green sulfur ered that species of the bacterium Beggiatoa oxidize hydrogen sulfide by plants.
-a) bacteria
-b) most microorganisms
-c) microbes
-d) ftsy. microorganisms
-Answer: Bacteria
+Question: These findings suggested the existence of ______________ that “eat” hydrogen gas or ammonia instead of beef or potatoes, but no one could isolate these ______________ in culture.
+a) and bacteria
+b) pathogens
+c) ftsy. 
+
+microorganisms
+d) microbes
+Answer: microbes
 
 Video No.: 4887
 Seg No.: 14
 Question: Chapter 14 explores electron transfer through pathways of organic respiration (______________ of organic nutrients), lithotrophy (______________ of inorganic nutrients), and photosynthesis.
-a) hydrogenation
+a) cyclic corrosion
 b) oxidation
-c) hydrolysis
-d) amino acid decomposition
+c) hydrogenation
+d) hydrolysis
 Answer: oxidation
 
 Video No.: 4954
 Seg No.: 7
 Question: ______________, cell wall, and outer membrane constitute the Gramnegative cell envelope.
-a) the other hydrophobic
-b) archaeal membranes
-c) the inner membrane
-d) the outer membrane vesicle
+a) the inner membrane
+b) the cell surface
+c) the other hydrophobic
+d) the cell membranes
 Answer: The inner membrane
 
 Video No.: 4954
 Seg No.: 9
 Question: ______________ then condense with glycerol to form the phospholipids of cell membranes and the lipid components of envelope proteins.
-a) fats
-b) amino
-c) malic acid
-d) fatty acids
+a) lipids
+b) fatty acids
+c) the amino
+d) stomach acid
 Answer: Fatty acids
 
 Video No.: 4954
 Seg No.: 13
 Question: The Gram-positive cell envelope has multiple layers of ______________, threaded by teichoic acids.
-a) chitin
-b) biosynthesis
-c) peptidoglycan
+a) arabinogalactan biosynthesis
+b) peptidoglycan
+c) chitin
 d) ergosterol
 Answer: peptidoglycan
 
@@ -56,8 +58,8 @@ Video No.: 4954
 Seg No.: 14
 Question: The cellular target of teixobactin is ______________ in Gram-positive bacteria (the peptide cannot penetrate the Gram-negative outer membrane).
 a) peptidoglycan synthesis
-b) peptidoglycan
-c) biosynthesis
+b) arabinogalactan biosynthesis
+c) peptidoglycan
 d) hydrolysis
 Answer: peptidoglycan synthesis
 
@@ -65,71 +67,73 @@ Video No.: 4954
 Seg No.: 16
 Question: Overall, the thick, waxy envelope excludes many antibiotics and offers exceptional protection from host defenses, enabling the pathogens of tuberculosis and ______________ to colonize their hosts over long Mycolic acids periods.
 a) tuberculosis
-b) syphilis
-c) leprosy
+b) leprosy
+c) syphilis
 d) smallpox
 Answer: leprosy
 
 Video No.: 4984
 Seg No.: 5
 Question: Between the inner and outer membranes lies ______________, a fortress-like structure composed of sugar chains linked covalently by peptides (peptidoglycan).
-a) chitinous cell walls
+a) the cell surface
 b) the cell wall
-c) the ocean floor
-d) the stone
+c) the cell’s interior
+d) rigid cell walls
 Answer: the cell wall
 
 Video No.: 4984
 Seg No.: 13
 Question: Within ______________, the envelope complexed with their matrix and packaging proteins, completing the virion particle (step 15).
-a) the cells
-b) the outer membrane vesicle
-c) archaeal membranes
-d) the cell membrane
+a) the cell membranes
+b) cells
+c) the cell membrane
+d) the cell surface
 Answer: the cell membrane
 
 Video No.: 4998
 Seg No.: 4
 Question: Each viral species has a limited host range and requires a critical population density to sustain the chain of ______________.
-a) disease
-b) genitourinary tract infections
-c) chronic hepatitis
-d) infection
+a) kidney infections
+b) infection
+c) bacterial meningitis
+d) acute pneumonia
 Answer: infection
 
 Video No.: 4998
 Seg No.: 5
-Question: Like bacteriophages, animal viruses evolve by the fitness advantage of binding specific receptor proteins on their The host receptors play a key role in determining the host range, the group of host species permitting ______________.
-a) genitourinary tract infections
-b) chronic hepatitis
-c) disease
-d) infection
+Question: The host receptors play a key role in determining the host range, the group of host species permitting ______________.
+a) kidney infections
+b) infection
+c) bacterial meningitis
+d) acute pneumonia
 Answer: infection
 
 Video No.: 4998
 Seg No.: 6
 Question: ______________ associated with human brain disease are thought to be aberrantly folded forms of a normal brain protein (PrPC).
 a) scrapie
-b) infectivity
-c) a prion
-d) prions
+b) prions
+c) phage infectivity
+d) a prion
 Answer: Prions
 
 Video No.: 4998
 Seg No.: 13
-Question: The nearly all expression of phage genes dangerPR Lytic-cycle mRNA ous to ______________ and prevents superinfection by other phage lambda particles.
-a) cell proliferation
-b) cells
-c) the cell
-d) the cells
+Question: Lysis by holin and endolysin. 
+
+suppose multiple phage particles coinfect ______________ at the same time.
+a) the cell mass
+b) the cell
+c) cells
+d) cells
 Answer: the cell
 
 Video No.: 4998
 Seg No.: 14
 Question: In the slow-release replication cycle, a filamentous phage produces phage particles without lysing ______________.
-a) the cell
-b) the cells
-c) cell proliferation
+a) the cell mass
+b) cells
+c) the cell
 d) cells
 Answer: the cell
 
@@ -137,45 +141,45 @@ Video No.: 5019
 Seg No.: 5
 Question: Tissue-specific receptors determine ______________ requires a receptor protein with a sialic acid sugar chain the lower respiratory tract.
 a) the host tropism
-b) the greater its immunogenicity
-c) infectivity
-d) bacterial virulence
+b) the key retroviral
+c) the greater its immunogenicity
+d) virulence
 Answer: the host tropism
 
 Video No.: 5019
 Seg No.: 6
 Question: Usually an oncogene encodes an abnormal form of a host protein that controls ______________.
-a) cells
-b) the cells
-c) differentiation
-d) cell proliferation
+a) apoptosis
+b) differentiation
+c) cell proliferation
+d) cells
 Answer: cell proliferation
 
 Video No.: 5019
 Seg No.: 7
 Question: ______________: • Promotes virion assembly and release from cell-surface tetherins.
-a) membrane protein
-b) attach amino acids
-c) amino
-d) the pump proteins
+a) external proteins
+b) membrane lipids
+c) the amino
+d) membrane protein
 Answer: Membrane protein
 
 Video No.: 5019
 Seg No.: 8
 Question: Viral replication is largely inhibited until the basal cells transcription by ______________.
-a) polymerase
-b) the 3′-to-5′ exonuclease
-c) restriction endonucleases
-d) host polymerases
+a) bacterial clp proteases
+b) restriction endonucleases
+c) host polymerases
+d) polymerase
 Answer: host polymerases
 
 Video No.: 5019
 Seg No.: 11
 Question: The viral mRNA reenters the cytoplasm for translation to produce coat proteins, reverse transcriptase, and ______________.
-a) the branch peptides
-b) some molecules
-c) protein
-d) envelope proteins
+a) the fusion peptides
+b) envelope proteins
+c) small autoinducer signaling molecules
+d) crescentin protein
 Answer: envelope proteins
 
 Video No.: 5019
@@ -183,44 +187,35 @@ Seg No.: 13
 Question: We thus introduce various cells and organs of the immune system as a whole before focusing on ______________.
 a) the immune
 b) innate immunity
-c) immune regulation
-d) adaptive immune mechanisms
+c) normal immune mechanisms
+d) immune avoidance
 Answer: innate immunity
 
 Video No.: 5030
 Seg No.: 14
 Question: ______________ is called proton motive force.
 a) the inwardly directed proton gradient
-b) the electron
-c) their concentration gradients
-d) the slope
+b) the slope
+c) opposite one lesser amplitude
+d) gradients
 Answer: The inwardly directed proton gradient
-
-Video No.: 5039
-Seg No.: 2
-Question: In ______________ 5 we explore the limits of microbial growth and show how this knowledge helps us control the microbial world.
-a) chapter
-b) chapters
-c) this book
-d) chapters
-Answer: Chapter
 
 Video No.: 5039
 Seg No.: 6
 Question: Some of the electron acceptors are inorganic, such as environmental conditions, such as the concentrations of ______________ and terminal electron acceptor.
-a) substrate
-b) the needed substrates
-c) a metal electrode
-d) the matrix layer
+a) the cell surface
+b) the catabolic substrates
+c) an electrode
+d) substrate
 Answer: substrate
 
 Video No.: 5039
 Seg No.: 10
 Question: Interconversion of most of these states conducting anaerobic ammonium oxidation by nitrite (the requires ______________ or archaea.
-a) most microorganisms
-b) ftsy. 
+a) ftsy. 
 
 microorganisms
+b) microbes
 c) bacteria
 d) microbes
 Answer: bacteria
@@ -231,27 +226,27 @@ Question: It turns out that haloarchaea have transferred genes encoding light-ab
 a) ftsy. 
 
 microorganisms
-b) most microorganisms
-c) many marine bacteria
-d) the microbes
+b) microbes
+c) microbes
+d) many marine bacteria
 Answer: many marine bacteria
 
 Video No.: 5063
 Seg No.: 2
 Question: Note that the nice, smooth exponential growth microbes growing in natural environments or in complex laboratory media containing ______________.
-a) source
-b) even lower water content
-c) chemical energy
+a) such high biochemical oxygen demand
+b) a carbon source
+c) this energy
 d) multiple carbon and energy sources
 Answer: multiple carbon and energy sources
 
 Video No.: 5063
 Seg No.: 8
 Question: The unlimited growth of any population obeys a simple law: The growth rate, or rate of increase in cell numbers or biomass, is proportional to the population size at ______________.
-a) the chance
-b) a moment
-c) a given time
-d) the start
+a) one
+b) the moment
+c) a way
+d) a given time
 Answer: a given time
 
 Video No.: 5063
@@ -259,37 +254,19 @@ Seg No.: 12
 Question: Nutritional upshift causes ______________ to reenter log phase, but with a shorter generation time. 
 
 
-a) different tissues
-b) cells
-c) cell proliferation
-d) the cell
+a) small autoinducer signaling molecules
+b) tissue
+c) cells
+d) mother cell
 Answer: cells
-
-Video No.: 5063
-Seg No.: 15
-Question: No swim High levels of ______________ in stationary phase exponential phase cells, which synthesis, thereby favoring biofilm formation.
-a) c-di-gmp nella
-b) c-di-gmp
-c) groel-groes-atp
-d) c-diproteins
-Answer: c-di-GMP
-
-Video No.: 5072
-Seg No.: 3
-Question: No swim High levels of ______________ in stationary phase exponential phase cells, which synthesis, thereby favoring biofilm formation.
-a) c-diproteins
-b) groel-groes-atp
-c) c-di-gmp nella
-d) c-di-gmp
-Answer: c-di-GMP
 
 Video No.: 5072
 Seg No.: 7
 Question: Biofilm development involves the adherence of ______________ to a substrate, the formation of microcolonies, and, ultimately, the formation of complex channeled communities that generate new planktonic ______________.
-a) cells
-b) different tissues
-c) the cell
-d) cell proliferation
+a) tissue
+b) mother cell
+c) small autoinducer signaling molecules
+d) cells
 Answer: cells
 
 Video No.: 5072
@@ -297,27 +274,27 @@ Seg No.: 12
 Question: ______________ are blue, whereas the spores are stain in which spores appear blue-green is shown in of Connecticut figured out how proteins regulate the stages of endospore formation. 
 
 extends into an axial filament.
-a) a cell membrane
+a) mother cell
 b) the cells
-c) different tissues
-d) the cell
+c) a tumor
+d) the immune
 Answer: The cells
 
 Video No.: 5072
 Seg No.: 14
 Question: Nutrition is one factor, but niche-specific physical parameters such as temperature, pH, and ______________ are equally important.
 a) mannitol
-b) albumin
+b) bicarbonate
 c) osmolarity
-d) bicarbonate
+d) albumin
 Answer: osmolarity
 
 Video No.: 5088
 Seg No.: 2
 Question: Nutrition is one factor, but niche-specific physical parameters such as temperature, pH, and ______________ are equally important.
-a) albumin
-b) osmolarity
-c) bicarbonate
-d) mannitol
+a) bicarbonate
+b) mannitol
+c) albumin
+d) osmolarity
 Answer: osmolarity
 

@@ -1,7 +1,7 @@
 Question: Some of the electron acceptors are inorganic, such as environmental conditions, such as the concentrations of ______________ and terminal electron acceptor.
-a) substrate
-b) the needed substrates
-c) a metal electrode
-d) the matrix layer
+a) the cell surface
+b) the catabolic substrates
+c) an electrode
+d) substrate
 Answer: substrate
 

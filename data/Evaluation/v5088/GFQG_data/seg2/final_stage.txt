@@ -1,7 +1,7 @@
 Question: Nutrition is one factor, but niche-specific physical parameters such as temperature, pH, and ______________ are equally important.
-a) albumin
-b) osmolarity
-c) bicarbonate
-d) mannitol
+a) bicarbonate
+b) mannitol
+c) albumin
+d) osmolarity
 Answer: osmolarity
 

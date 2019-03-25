@@ -1,8 +1,9 @@
 import spacy
 import json
 import os
+import numpy as np
 from collections import defaultdict
-nlp = spacy.load('en_core_web_sm')
+nlp = spacy.load('en_core_web_lg')
 # to speed up process I need only lemmas of the word count task, so i disable other parts of pipeline
 nlp_light = spacy.load('en', disable=['tagger', 'ner'])
 
@@ -60,6 +61,19 @@ def video_2book(video_id, path_to_book):
 
 
 if __name__ == '__main__':
+    with open('../data/Evaluation/tt_Microbiology_full_cleaned.json', 'r') as f:
+        raw = f.readlines()
+    num_sent = []
+    num_tokens = []
+    for line in raw:
+        j = json.loads(line)
+        print(j['id'])
+        doc = nlp(j['text'])
+        num_sent.append(len([s for s in doc.sents]))
+        num_tokens.append(len([t for t in doc if t.is_alpha]))
+    print('sent mean, std:', np.mean(num_sent), np.std(num_sent))
+    print('token mean, std:', np.mean(num_tokens), np.std(num_tokens))
+    exit()
     #videos_id = [4853, 4887, 4916, 4954, 4984, 4998, 5019, 5030, 5039, 5056, 5063, 5072, 5088]
     videos_id = [4588]
     for v in videos_id:

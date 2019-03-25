@@ -1,7 +1,7 @@
 Question: Tissue-specific receptors determine ______________ requires a receptor protein with a sialic acid sugar chain the lower respiratory tract.
 a) the host tropism
-b) the greater its immunogenicity
-c) infectivity
-d) bacterial virulence
+b) the key retroviral
+c) the greater its immunogenicity
+d) virulence
 Answer: the host tropism
 

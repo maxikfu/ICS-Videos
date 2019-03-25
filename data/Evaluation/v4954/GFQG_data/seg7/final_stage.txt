@@ -1,7 +1,7 @@
 Question: ______________, cell wall, and outer membrane constitute the Gramnegative cell envelope.
-a) the other hydrophobic
-b) archaeal membranes
-c) the inner membrane
-d) the outer membrane vesicle
+a) the inner membrane
+b) the cell surface
+c) the other hydrophobic
+d) the cell membranes
 Answer: The inner membrane
 

@@ -25,20 +25,22 @@ def video_lecture_preproc(video_id, path_to_video_folder):
                 segment_text = segment_text + region_text[0]
         doc = nlp(' '.join(segment_text))
         video_words = set()
-        for token in doc:
-            if not is_stop(token.text) and not token.is_punct and token.tag_ in ['NN', 'NNS', 'NNP', 'NNPS']:
-                video_words.add(token.lemma_.lower())
-        dic = {"id": int(seg), "text": ','.join(video_words)}
-        list_dic.append(json.dumps(dic))
-    with open(folder + f_name, 'w') as f:
-        for l in list_dic:
-            f.write(l+'\n')
+        print(len(doc))
+    #     for token in doc:
+    #         if not is_stop(token.text) and not token.is_punct and token.tag_ in ['NN', 'NNS', 'NNP', 'NNPS']:
+    #             video_words.add(token.lemma_.lower())
+    #     dic = {"id": int(seg), "text": ','.join(video_words)}
+    #     list_dic.append(json.dumps(dic))
+    # with open(folder + f_name, 'w') as f:
+    #     for l in list_dic:
+    #         f.write(l+'\n')
 
 
 if __name__ == '__main__':
     path_to_video_f = '../data/Evaluation'
+    # path_to_video_f = '../data/GEOL1330Fall18_Jinny'
     videos = [4853, 4887, 4916, 4954, 4984, 4998, 5019, 5030, 5039, 5056, 5063, 5072, 5088]
-    # videos = [4984]
+    # videos = [4588, 4608, 4609, 4618, 4623]
     for v in videos:
         print(v)
         video_lecture_preproc(v, path_to_video_f)

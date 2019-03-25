@@ -7,9 +7,8 @@
 {"id": 7, "score": 1.45, "relevant": "No", "text": "Microbiome composition could be radically changed by such interactions. \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.2, 0.1]}
 {"id": 8, "score": 1.44, "relevant": "No", "text": "Bacteria, as simple as they seem, perform incredibly complex and highly orchestrated processes to achieve growth.", "common_words": 1, "features": [0.07, 0.0, 0, 1, 0.13, 0.07]}
 {"id": 9, "score": 0.76, "relevant": "No", "text": "Some hot-springs bacteria can double in as little as 10 minutes, whereas deep-sea-sediment microbes may take as long as 100 years.", "common_words": 1, "features": [0.05, 0.0, 0, 0, 0.33, 0.0]}
-{"id": 10, "score": 0.68, "relevant": "No", "text": "In Chapter 5 we explore the limits of microbial growth and show how this knowledge helps us control the microbial world.", "common_words": 1, "features": [0.06, 0.0, 0, 0, 0.28, 0.0]}
-{"id": 11, "score": 0.68, "relevant": "No", "text": "In Chapter 5 we build on these concepts and explore the remarkable ways that microbes respond to environmental stress and change. \n\n", "common_words": 1, "features": [0.05, 0.0, 0, 0, 0.29, 0.0]}
-{"id": 12, "score": 0.0, "relevant": "No", "text": "What determines these differences in growth rate?", "common_words": 1, "features": [0.14, 0.0, 0, 1, 0.43, 0.0]}
-{"id": 13, "score": 0.0, "relevant": "No", "text": "Can one bacterial species manipulate differentiation of another?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.25, 0.0]}
-{"id": 14, "score": 0.0, "relevant": "No", "text": "Manipulating your neighbor.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
-{"id": 15, "score": 0.0, "relevant": "No", "text": "4.16 How might Streptomyces and Actinomyces species avoid \u201ccommitting suicide\u201d when they make their antibiotics? \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.27, 0.13]}
+{"id": 10, "score": 0.68, "relevant": "No", "text": "In Chapter 5 we build on these concepts and explore the remarkable ways that microbes respond to environmental stress and change. \n\n", "common_words": 1, "features": [0.05, 0.0, 0, 0, 0.29, 0.0]}
+{"id": 11, "score": 0.0, "relevant": "No", "text": "What determines these differences in growth rate?", "common_words": 1, "features": [0.14, 0.0, 0, 1, 0.43, 0.0]}
+{"id": 12, "score": 0.0, "relevant": "No", "text": "Can one bacterial species manipulate differentiation of another?", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.25, 0.0]}
+{"id": 13, "score": 0.0, "relevant": "No", "text": "Manipulating your neighbor.", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.33, 0.0]}
+{"id": 14, "score": 0.0, "relevant": "No", "text": "4.16 How might Streptomyces and Actinomyces species avoid \u201ccommitting suicide\u201d when they make their antibiotics? \n\n", "common_words": 0, "features": [0.0, 0.0, 0, 1, 0.27, 0.13]}

@@ -1,8 +1,8 @@
-{"id": 1, "score": 2.34, "relevant": "No", "text": "The remainder of this chapter presents key pathways in detail: glycolysis and the catechol pathway of benzoate catabolism.", "common_words": 1, "features": [0.07, 0.0, 0, 1, 0.6, 0.0]}
-{"id": 2, "score": 2.24, "relevant": "No", "text": "Halting lac transcription enables preferential catabolism of glucose.", "common_words": 1, "features": [0.12, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 3, "score": 2.16, "relevant": "No", "text": "Organisms select substrates on the basis of their availability and energy efficiency.", "common_words": 1, "features": [0.08, 0.0, 0, 1, 0.5, 0.0]}
-{"id": 4, "score": 2.0, "relevant": "No", "text": "But in the presence of glucose, a preferred carbon source, lac transcription is halted.", "common_words": 1, "features": [0.07, 0.0, 0, 1, 0.43, 0.0]}
-{"id": 5, "score": 1.62, "relevant": "No", "text": "As we saw in the products of catabolism of many diverse substrates ultimately funnel into a few common pathways of metabolism.", "common_words": 1, "features": [0.05, 0.0, 0, 1, 0.26, 0.0]}
+{"id": 1, "score": 2.24, "relevant": "No", "text": "Halting lac transcription enables preferential catabolism of glucose.", "common_words": 1, "features": [0.12, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 2, "score": 2.16, "relevant": "No", "text": "Organisms select substrates on the basis of their availability and energy efficiency.", "common_words": 1, "features": [0.08, 0.0, 0, 1, 0.5, 0.0]}
+{"id": 3, "score": 2.0, "relevant": "No", "text": "But in the presence of glucose, a preferred carbon source, lac transcription is halted.", "common_words": 1, "features": [0.07, 0.0, 0, 1, 0.43, 0.0]}
+{"id": 4, "score": 1.62, "relevant": "No", "text": "As we saw in the products of catabolism of many diverse substrates ultimately funnel into a few common pathways of metabolism.", "common_words": 1, "features": [0.05, 0.0, 0, 1, 0.26, 0.0]}
+{"id": 5, "score": 1.34, "relevant": "No", "text": "The remainder of this chapter presents key pathways in detail: glycolysis and the catechol pathway of benzoate catabolism.", "common_words": 1, "features": [0.07, 0.0, 0, 0, 0.6, 0.0]}
 {"id": 6, "score": 1.05, "relevant": "No", "text": "Substrate selection involves gene regulation, as discussed in Chapter 10.", "common_words": 1, "features": [0.1, 0.0, 0, 0, 0.4, 0.1]}
 {"id": 7, "score": 0.86, "relevant": "No", "text": "These pathways play key roles in medical microbiology and in industrial fields such as bioremediation.", "common_words": 1, "features": [0.07, 0.0, 0, 0, 0.36, 0.0]}
 {"id": 8, "score": 0.8, "relevant": "No", "text": "The process of prioritized consumption of substrates is known as catabolite repression (presented in Chapter 10).", "common_words": 1, "features": [0.07, 0.0, 0, 0, 0.33, 0.0]}

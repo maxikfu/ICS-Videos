@@ -1,0 +1,12 @@
+{"sent_id": 1, "key_list": [[2.0, "cell division", [1, 1, 0.5]], [2.0, "the swimming form", [1, 1, 0.5]], [2.0, "caulobacter cells", [1, 1, 0.5]], [1.75, "the holdfast form", [1, 1, 0.25]], [1.0, "section", [1, 0, 0.5]]]}
+{"sent_id": 2, "key_list": [[1.833, "elaborate cell differentiation processes", [1, 1, 0.3333333333333333]], [1.0, "caulobacter crescentus", [1, 0, 0.5]], [0.75, "select species", [1, 0, 0.25]]]}
+{"sent_id": 3, "key_list": [[2.25, "the cells", [2, 1, 0.25]], [1.0, "crystal violet", [1, 0, 0.5]], [0.833, "(approx", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 4, "key_list": [[2.0, "cell structure", [1, 1, 0.5]], [1.0, "environmental stress", [1, 0, 0.5]], [0.75, "changes", [1, 0, 0.25]], [0.7, "many bacteria", [1, 0, 0.2]], [0.667, "complex molecular reprogramming", [1, 0, 0.16666666666666666]]]}
+{"sent_id": 5, "key_list": [[2.0, "its sister cell", [1, 1, 0.5]], [2.0, "each cell cycle", [1, 1, 0.5]], [1.7, "one sessile cell", [1, 1, 0.2]], [1.0, "another habitat", [1, 0, 0.5]], [1.0, "a holdfast", [1, 0, 0.5]], [1.0, "its substrate", [1, 0, 0.5]], [0.75, "search", [1, 0, 0.25]]]}
+{"sent_id": 6, "key_list": [[1.0, "eukaryotic microbes", [1, 0, 0.5]], [0.833, "highly complex life cycles", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 7, "key_list": [[2.0, "separate, independent cells", [1, 1, 0.5]], [1.5, "example", [1, 0, 1.0]], [1.0, "dictyostelium discoideum", [1, 0, 0.5]], [0.7, "a seemingly unremarkable ameba", [1, 0, 0.2]]]}
+{"sent_id": 8, "key_list": [[2.0, "thicker cell surfaces", [1, 1, 0.5]], [1.833, "smaller cells", [1, 1, 0.3333333333333333]], [1.7, "the formation", [1, 1, 0.2]], [1.5, "structure", [1, 0, 1.0]], [0.643, "some species", [1, 0, 0.14285714285714285]]]}
+{"sent_id": 9, "key_list": [[2.5, "the cells", [2, 1, 0.5]], [2.0, "an axial filament", [1, 1, 0.5]], [2.0, "endospore formation", [1, 1, 0.5]], [2.0, "the spores", [1, 1, 0.5]], [1.833, "in which spores", [1, 1, 0.3333333333333333]], [1.75, "the stages", [1, 1, 0.25]], [1.5, "proteins", [1, 0, 1.0]], [1.5, "connecticut", [1, 0, 1.0]], [0.667, "stain", [1, 0, 0.16666666666666666]]]}
+{"sent_id": 10, "key_list": [[2.5, "septum", [1, 1, 1.0]], [2.0, "a chromosome", [1, 1, 0.5]], [1.75, "spore. \n\nseparates forespore", [1, 1, 0.25]], [1.0, "each compartment", [1, 0, 0.5]]]}
+{"sent_id": 11, "key_list": [[2.0, "cell releases", [1, 1, 0.5]]]}
+{"sent_id": 12, "key_list": [[1.5, "shape", [1, 0, 1.0]], [1.5, "bacteria", [1, 0, 1.0]]]}

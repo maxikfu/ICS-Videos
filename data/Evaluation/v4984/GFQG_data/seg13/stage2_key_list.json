@@ -1,0 +1,15 @@
+{"sent_id": 1, "key_list": [[2.5, "virion", [1, 1, 1.0]], [2.0, "sialic acid receptor", [1, 1, 0.5]], [2.0, "neuraminidase", [2, 0, 1.0]], [2.0, "virion buds", [1, 1, 0.5]]]}
+{"sent_id": 2, "key_list": [[2.5, "the cell membrane", [2, 1, 0.5]], [2.0, "(step", [3, 0, 0.5]], [2.0, "the virion particle", [1, 1, 0.5]], [1.833, "their matrix and packaging proteins", [1, 1, 0.3333333333333333]], [1.0, "the envelope", [1, 0, 0.5]]]}
+{"sent_id": 3, "key_list": [[2.0, "the virion", [1, 1, 0.5]], [2.0, "(step", [3, 0, 0.5]], [2.0, "the host glycoproteins", [1, 1, 0.5]], [2.0, "host release", [1, 1, 0.5]], [1.0, "the bloodstream", [1, 0, 0.5]], [1.0, "viral exit", [1, 0, 0.5]], [0.7, "link", [1, 0, 0.2]], [0.667, "a final step", [1, 0, 0.16666666666666666]]]}
+{"sent_id": 4, "key_list": [[2.0, "the cell", [1, 1, 0.5]], [1.5, "fig", [1, 0, 1.0]]]}
+{"sent_id": 5, "key_list": [[2.0, "a cell", [1, 1, 0.5]], [1.833, "all and labeled nucleic acid probes", [1, 1, 0.3333333333333333]], [1.5, "viral", [1, 0, 1.0]], [1.5, "researchers", [1, 0, 1.0]], [1.0, "their motion", [1, 0, 0.5]], [0.75, "the presence", [1, 0, 0.25]]]}
+{"sent_id": 6, "key_list": [[2.0, "tamiflu", [2, 0, 1.0]], [1.0, "the 2009 experimental evidence", [1, 0, 0.5]], [0.75, "resistant strains", [1, 0, 0.25]]]}
+{"sent_id": 7, "key_list": [[2.0, "tamiflu", [2, 0, 1.0]], [2.0, "neuraminidase", [2, 0, 1.0]], [2.0, "this host", [1, 1, 0.5]], [1.5, "influenza", [1, 0, 1.0]], [1.0, "oseltamivir", [1, 0, 0.5]], [0.75, "the main antiviral agent", [1, 0, 0.25]]]}
+{"sent_id": 8, "key_list": [[2.0, "envelope proteins", [1, 1, 0.5]], [0.75, "golgi", [1, 0, 0.25]]]}
+{"sent_id": 9, "key_list": []}
+{"sent_id": 10, "key_list": []}
+{"sent_id": 11, "key_list": []}
+{"sent_id": 12, "key_list": [[2.0, "cell membrane", [1, 1, 0.5]]]}
+{"sent_id": 13, "key_list": [[1.5, "11.18, step", [2, 0, 0.5]]]}
+{"sent_id": 14, "key_list": [[2.5, "the cell membrane", [2, 1, 0.5]], [2.0, "(step", [3, 0, 0.5]], [1.167, "11.18, step", [2, 0, 0.16666666666666666]], [0.75, "export", [1, 0, 0.25]]]}
+{"sent_id": 15, "key_list": [[2.0, "host enzymes", [1, 1, 0.5]], [1.0, "(fig", [1, 0, 0.5]], [0.833, "the golgi", [1, 0, 0.3333333333333333]]]}
