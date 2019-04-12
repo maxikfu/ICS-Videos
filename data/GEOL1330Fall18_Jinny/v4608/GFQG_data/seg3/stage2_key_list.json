@@ -1,14 +1,12 @@
-{"sent_id": 1, "key_list": [[3.0, "quartz", [2, 1, 1.0]], [2.667, "minerals", [3, 1, 0.16666666666666666]], [0.833, "twice the specific gravity", [1, 0, 0.3333333333333333]]]}
-{"sent_id": 2, "key_list": [[2.833, "minerals", [3, 1, 0.3333333333333333]], [2.5, "talc", [1, 1, 1.0]], [2.0, "a mineral", [1, 1, 0.5]], [2.0, "gypsum", [1, 1, 0.5]], [1.5, "addition", [1, 0, 1.0]], [1.0, "your hand", [1, 0, 0.5]], [1.0, "the specific", [1, 0, 0.5]], [1.0, "a little practice", [1, 0, 0.5]], [0.75, "thin shavings", [1, 0, 0.25]]]}
-{"sent_id": 3, "key_list": [[2.0, "all directions", [1, 1, 0.5]], [1.667, "muscovite chemical bonds", [1, 1, 0.16666666666666666]], [1.143, "example", [2, 0, 0.14285714285714285]], [0.833, "a property", [1, 0, 0.3333333333333333]]]}
-{"sent_id": 4, "key_list": [[2.0, "exhibit cleavage", [1, 1, 0.5]], [2.0, "native copper", [1, 1, 0.5]], [2.0, "contrast", [2, 0, 1.0]], [1.7, "quartz and halite minerals", [1, 1, 0.2]], [1.643, "nonmetallic minerals", [1, 1, 0.14285714285714285]], [1.5, "magnetite", [1, 0, 1.0]]]}
-{"sent_id": 5, "key_list": [[2.0, "fibrous fracture", [1, 1, 0.5]], [1.5, "fibers", [1, 0, 1.0]], [1.0, "splinters", [1, 0, 0.5]], [1.0, "such breaks", [1, 0, 0.5]]]}
-{"sent_id": 6, "key_list": [[3.5, "minerals", [3, 1, 1.0]], [3.0, "quartz", [2, 1, 1.0]], [2.5, "fracture", [1, 1, 1.0]], [2.0, "broken glass", [1, 1, 0.5]], [1.75, "irregular fracture", [1, 1, 0.25]], [0.833, "erals", [1, 0, 0.3333333333333333]], [0.833, "not uneven surfaces", [1, 0, 0.3333333333333333]], [0.75, "curved sur1 faces", [1, 0, 0.25]]]}
-{"sent_id": 7, "key_list": [[2.0, "copper", [1, 1, 0.5]], [2.0, "contrast", [2, 0, 1.0]], [1.5, "gold", [1, 0, 1.0]], [1.5, "a specific gravity", [2, 0, 0.5]], [1.0, "24-karat gold", [1, 0, 0.5]], [0.75, "native metals", [1, 0, 0.25]]]}
-{"sent_id": 8, "key_list": [[1.5, "stress", [1, 0, 1.0]], [1.0, "their original shape", [1, 0, 0.5]], [0.833, "still others", [1, 0, 0.3333333333333333]]]}
-{"sent_id": 9, "key_list": [[1.2, "a specific gravity", [2, 0, 0.2]], [0.833, "small pieces", [1, 0, 0.3333333333333333]], [0.833, "an ore", [1, 0, 0.3333333333333333]], [0.75, "galena", [1, 0, 0.25]]]}
-{"sent_id": 10, "key_list": []}
-{"sent_id": 11, "key_list": []}
+{"sent_id": 1, "key_list": [[3.5, "quartz", [3, 1, 1.0]], [2.833, "minerals", [3, 1, 0.3333333333333333]], [2.5, "fluorite", [1, 1, 1.0]]]}
+{"sent_id": 2, "key_list": [[3.5, "quartz", [3, 1, 1.0]], [3.5, "minerals", [3, 1, 1.0]], [2.0, "broken glass", [1, 1, 0.5]], [2.0, "irregular fracture", [1, 1, 0.5]], [1.833, "fracture not uneven surfaces", [1, 1, 0.3333333333333333]], [0.833, "erals", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 3, "key_list": [[2.0, "all directions", [1, 1, 0.5]], [1.643, "muscovite chemical bonds", [1, 1, 0.14285714285714285]], [1.125, "example", [2, 0, 0.125]], [0.833, "a property", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 4, "key_list": [[2.7, "quartz", [3, 1, 0.2]], [2.0, "native copper", [1, 1, 0.5]], [2.0, "halite minerals", [1, 1, 0.5]], [2.0, "contrast", [2, 0, 1.0]], [1.643, "nonmetallic minerals", [1, 1, 0.14285714285714285]], [1.5, "magnetite", [1, 0, 1.0]], [0.833, "pyrite", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 5, "key_list": [[1.625, "fluorite resistance", [1, 1, 0.125]], [1.5, "deformation", [1, 0, 1.0]], [1.111, "example", [2, 0, 0.1111111111111111]], [0.833, "other forms", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 6, "key_list": [[2.0, "fibrous fracture", [1, 1, 0.5]], [2.0, "other minerals", [1, 1, 0.5]], [1.833, "splintery fracture", [1, 1, 0.3333333333333333]], [1.75, "fractures", [1, 1, 0.25]], [1.5, "fibers", [1, 0, 1.0]], [1.0, "splinters", [1, 0, 0.5]], [1.0, "such breaks", [1, 0, 0.5]]]}
+{"sent_id": 7, "key_list": [[2.625, "minerals", [3, 1, 0.125]], [2.5, "talc", [1, 1, 1.0]], [2.0, "a mineral", [1, 1, 0.5]], [2.0, "gypsum", [1, 1, 0.5]], [1.5, "it", [1, 0, 1.0]], [1.5, "you", [1, 0, 1.0]], [1.5, "addition", [1, 0, 1.0]], [1.0, "your hand", [1, 0, 0.5]], [1.0, "a little practice", [1, 0, 0.5]], [0.75, "thin shavings", [1, 0, 0.25]]]}
+{"sent_id": 8, "key_list": [[2.0, "copper", [1, 1, 0.5]], [2.0, "contrast", [2, 0, 1.0]], [1.5, "they", [1, 0, 1.0]], [1.5, "gold", [1, 0, 1.0]], [1.5, "a specific gravity", [2, 0, 0.5]], [1.0, "24-karat gold", [1, 0, 0.5]], [0.75, "native metals", [1, 0, 0.25]]]}
+{"sent_id": 9, "key_list": [[2.5, "halite", [1, 1, 1.0]], [1.2, "a specific gravity", [2, 0, 0.2]], [0.833, "an ore", [1, 0, 0.3333333333333333]], [0.75, "small pieces", [1, 0, 0.25]], [0.75, "galena", [1, 0, 0.25]]]}
+{"sent_id": 10, "key_list": [[1.5, "stress", [1, 0, 1.0]], [1.0, "their original shape", [1, 0, 0.5]], [1.0, "notably the micas", [1, 0, 0.5]], [0.833, "still others", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 11, "key_list": [[1.5, "sectile", [1, 0, 1.0]]]}
 {"sent_id": 12, "key_list": [[0.833, "specific gravity", [1, 0, 0.3333333333333333]]]}
-{"sent_id": 13, "key_list": [[1.625, "fluorite resistance", [1, 1, 0.125]], [1.5, "deformation", [1, 0, 1.0]], [0.833, "other forms", [1, 0, 0.3333333333333333]]]}
-{"sent_id": 14, "key_list": [[1.5, "example", [2, 0, 0.5]]]}

@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: By contrast, rocks high in ______________ contain very little iron, magnesium, or calcium but are enriched with sodium and potassium.
+a) silicon
+b) calcium carbonate
+c) silica
+d) inorganic
+Answer: silica
+

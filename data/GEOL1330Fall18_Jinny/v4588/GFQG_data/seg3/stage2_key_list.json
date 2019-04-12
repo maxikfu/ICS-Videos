@@ -1,7 +1,7 @@
 {"sent_id": 1, "key_list": [[2.0, "the mineral calcite", [1, 1, 0.5]], [1.667, "the sedimentary rock limestone", [1, 1, 0.16666666666666666]], [1.0, "some rocks example", [1, 0, 0.5]], [0.75, "an impure mass", [1, 0, 0.25]]]}
-{"sent_id": 2, "key_list": [[3.0, "minerals", [2, 1, 1.0]], [3.0, "minerals", [2, 1, 1.0]], [1.833, "aggregates", [1, 1, 0.3333333333333333]], [1.5, "mind", [1, 0, 1.0]], [1.0, "most rocks", [1, 0, 0.5]], [1.0, "this chapter", [1, 0, 0.5]], [0.833, "the nature", [1, 0, 0.3333333333333333]]]}
-{"sent_id": 3, "key_list": [[2.0, "crystalline structure", [1, 1, 0.5]], [1.75, "the minerals", [1, 1, 0.25]], [1.667, "the chemical composition", [1, 1, 0.16666666666666666]], [1.5, "rocks", [1, 0, 1.0]], [1.0, "these earth materials", [1, 0, 0.5]], [0.833, "the properties", [1, 0, 0.3333333333333333]]]}
-{"sent_id": 4, "key_list": [[2.0, "solid organic debris", [1, 1, 0.5]], [1.5, "coal", [1, 0, 1.0]], [1.5, "pumice", [1, 0, 1.0]], [0.833, "noncrystalline glassy substances", [1, 0, 0.3333333333333333]]]}
-{"sent_id": 5, "key_list": [[1.5, "addition", [1, 0, 1.0]], [1.0, "nonmineral matter", [1, 0, 0.5]], [1.0, "some rocks", [1, 0, 0.5]]]}
-{"sent_id": 6, "key_list": [[1.833, "the different minerals", [1, 1, 0.3333333333333333]], [1.5, "granite", [1, 0, 1.0]]]}
-{"sent_id": 7, "key_list": [[1.0, "their individual properties", [1, 0, 0.5]], [0.75, "such a way", [1, 0, 0.25]]]}
+{"sent_id": 2, "key_list": [[1.5, "addition", [1, 0, 1.0]], [1.0, "nonmineral matter", [1, 0, 0.5]], [1.0, "some rocks", [1, 0, 0.5]]]}
+{"sent_id": 3, "key_list": [[1.833, "the different minerals", [1, 1, 0.3333333333333333]], [1.5, "granite", [1, 0, 1.0]]]}
+{"sent_id": 4, "key_list": [[3.0, "minerals", [2, 1, 1.0]], [3.0, "minerals", [2, 1, 1.0]], [1.833, "aggregates", [1, 1, 0.3333333333333333]], [1.5, "mind", [1, 0, 1.0]], [1.0, "most rocks", [1, 0, 0.5]], [1.0, "this chapter", [1, 0, 0.5]], [0.833, "the nature", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 5, "key_list": [[1.75, "the minerals", [1, 1, 0.25]], [1.667, "the chemical composition and crystalline structure", [1, 1, 0.16666666666666666]], [1.5, "we", [1, 0, 1.0]], [1.5, "them", [1, 0, 1.0]], [1.5, "rocks", [1, 0, 1.0]], [1.0, "these earth materials", [1, 0, 0.5]], [0.833, "the properties", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 6, "key_list": [[2.0, "solid organic debris", [1, 1, 0.5]], [1.5, "coal", [1, 0, 1.0]], [1.5, "pumice", [1, 0, 1.0]], [1.0, "noncrystalline glassy substances", [1, 0, 0.5]]]}
+{"sent_id": 7, "key_list": [[1.0, "their individual properties", [1, 0, 0.5]], [1.0, "such a way", [1, 0, 0.5]]]}

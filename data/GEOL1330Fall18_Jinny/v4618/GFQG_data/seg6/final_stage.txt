@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: Describe slate, phyllite, schist, and gneiss in terms of texture and ______________.
+a) their particle sizes
+b) the width
+c) length
+d) grain size
+Answer: grain size
+

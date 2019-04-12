@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: As you can see in rocks with a composition between granitic and basaltic rocks are said to have an andesitic composition, or intermediate composition, after ______________.
+a) the maria basalts
+b) the common volcanic rock andesite
+c) the rock peridotite
+d) rhyolite
+Answer: the common volcanic rock andesite
+

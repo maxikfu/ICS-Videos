@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: For example, notice in that the minerals quartz, potassium feldspar, and muscovite, which are located in the same region of Bowen’s diagram, are typically found together as major constituents of ______________.
+a) marble
+b) this sandstone
+c) the intrusive igneous rock granite
+d) oolitic limestone oolitic limestone
+Answer: the intrusive igneous rock granite
+

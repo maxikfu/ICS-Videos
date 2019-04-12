@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: However, tectonic processes trigger melting though various means, including reducing the melting point (______________) of mantle rock.
+a) humidity
+b) temperature
+c) heat
+d) water temperatures
+Answer: temperature
+

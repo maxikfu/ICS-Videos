@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: The most common minerals in ______________ are quartz, potassium feldspar, and plagioclase feldspar.
+a) quartzite
+b) schist
+c) gneisses
+d) gneiss
+Answer: gneiss
+

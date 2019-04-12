@@ -1,17 +1,17 @@
-{"sent_id": 1, "key_list": [[1.833, "texture and grain size", [1, 1, 0.3333333333333333]], [1.6, "describe slate", [1, 1, 0.1]], [1.111, "phyllite", [2, 0, 0.1111111111111111]], [0.7, "terms", [1, 0, 0.2]], [0.643, "gneiss", [1, 0, 0.14285714285714285]], [0.625, "schist", [1, 0, 0.125]]]}
-{"sent_id": 2, "key_list": [[1.833, "another clay-rich rock", [1, 1, 0.3333333333333333]], [1.75, "the parent rock", [1, 1, 0.25]], [1.0, "most hornfels", [1, 0, 0.5]], [0.833, "a hot intruding magma body", [1, 0, 0.3333333333333333]]]}
-{"sent_id": 3, "key_list": [[1.5, "regional metamorphism", [2, 0, 0.5]], [1.25, "hydrothermal metamorphism", [2, 0, 0.25]], [1.0, "these metamorphic environments", [1, 0, 0.5]], [0.833, "subduction zone metamorphism", [1, 0, 0.3333333333333333]], [0.7, "contact metamorphism", [1, 0, 0.2]], [0.625, "a description", [1, 0, 0.125]]]}
-{"sent_id": 4, "key_list": [[2.5, "metamorphism", [3, 0, 1.0]], [2.0, "metamorphic rock", [1, 1, 0.5]], [1.833, "metamorphism", [3, 0, 0.3333333333333333]], [1.5, "regional metamorphism", [2, 0, 0.5]], [1.2, "hydrothermal metamorphism", [2, 0, 0.2]], [1.0, "subduction zone", [1, 0, 0.5]], [1.0, "thermal metamorphism", [1, 0, 0.5]], [0.75, "relatively small quantities", [1, 0, 0.25]], [0.75, "burial", [1, 0, 0.25]], [0.667, "a few types", [1, 0, 0.16666666666666666]], [0.667, "contact", [1, 0, 0.16666666666666666]], [0.643, "the basic metamorphic environments", [1, 0, 0.14285714285714285]]]}
+{"sent_id": 1, "key_list": [[2.0, "grain size", [1, 1, 0.5]], [1.833, "texture", [1, 1, 0.3333333333333333]], [1.5, "gneiss", [1, 0, 1.0]], [1.5, "schist", [2, 0, 0.5]], [1.333, "phyllite", [2, 0, 0.3333333333333333]], [1.25, "slate", [2, 0, 0.25]], [0.7, "terms", [1, 0, 0.2]]]}
+{"sent_id": 2, "key_list": [[1.833, "another clay-rich rock", [1, 1, 0.3333333333333333]], [1.75, "the parent rock", [1, 1, 0.25]], [1.0, "a hot intruding magma body", [1, 0, 0.5]], [1.0, "most hornfels", [1, 0, 0.5]], [0.75, "\u201cbaked\u201d", [1, 0, 0.25]], [0.667, "shale", [1, 0, 0.16666666666666666]]]}
+{"sent_id": 3, "key_list": [[1.0, "regional metamorphism", [1, 0, 0.5]], [1.0, "these metamorphic environments", [1, 0, 0.5]], [0.833, "subduction zone metamorphism", [1, 0, 0.3333333333333333]], [0.75, "hydrothermal metamorphism", [1, 0, 0.25]], [0.7, "contact metamorphism", [1, 0, 0.2]], [0.625, "a description", [1, 0, 0.125]]]}
+{"sent_id": 4, "key_list": [[2.0, "metamorphic rock", [1, 1, 0.5]], [2.0, "metamorphism", [2, 0, 1.0]], [1.5, "we", [1, 0, 1.0]], [1.0, "the basic metamorphic environments", [1, 0, 0.5]], [0.75, "relatively small quantities", [1, 0, 0.25]], [0.667, "a few types", [1, 0, 0.16666666666666666]]]}
 {"sent_id": 5, "key_list": [[1.0, "igneous activity", [1, 0, 0.5]], [1.0, "plate margins", [1, 0, 0.5]], [1.0, "these environments", [1, 0, 0.5]], [0.75, "the vicinity", [1, 0, 0.25]]]}
-{"sent_id": 6, "key_list": [[2.0, "the metamorphic rock", [1, 1, 0.5]], [0.667, "the appearance", [1, 0, 0.16666666666666666]]]}
-{"sent_id": 7, "key_list": [[2.5, "color", [1, 1, 1.0]], [1.5, "hornfels", [1, 0, 1.0]], [1.0, "conchoidal fracture", [1, 0, 0.5]]]}
+{"sent_id": 6, "key_list": [[2.0, "it", [2, 0, 1.0]], [2.0, "the metamorphic rock gneiss", [1, 1, 0.5]], [0.75, "the appearance", [1, 0, 0.25]]]}
+{"sent_id": 7, "key_list": [[2.5, "color", [1, 1, 1.0]], [2.0, "it", [2, 0, 1.0]], [1.5, "hornfels", [1, 0, 1.0]], [1.0, "conchoidal fracture", [1, 0, 0.5]]]}
 {"sent_id": 8, "key_list": [[1.5, "pressures", [1, 0, 1.0]], [1.0, "metamorphic environments", [1, 0, 0.5]], [1.0, "this graph", [1, 0, 0.5]], [0.75, "the major types", [1, 0, 0.25]], [0.643, "the temperatures", [1, 0, 0.14285714285714285]]]}
-{"sent_id": 9, "key_list": [[2.5, "metamorphism", [3, 0, 1.0]], [1.0, "many different environments", [1, 0, 0.5]]]}
-{"sent_id": 10, "key_list": [[1.0, "contrast marble", [1, 0, 0.5]]]}
+{"sent_id": 9, "key_list": [[2.0, "metamorphism", [2, 0, 1.0]], [1.0, "many different environments", [1, 0, 0.5]]]}
+{"sent_id": 10, "key_list": [[1.5, "quartzite", [1, 0, 1.0]], [1.0, "marble", [1, 0, 0.5]], [0.833, "contrast", [1, 0, 0.3333333333333333]]]}
 {"sent_id": 11, "key_list": []}
 {"sent_id": 12, "key_list": []}
-{"sent_id": 13, "key_list": [[1.833, "the rock mica schist", [1, 1, 0.3333333333333333]]]}
+{"sent_id": 13, "key_list": [[2.0, "schist", [2, 0, 1.0]], [2.0, "what", [2, 0, 1.0]], [2.0, "what", [2, 0, 1.0]], [2.0, "the rock mica schist", [1, 1, 0.5]], [1.5, "mica", [1, 0, 1.0]]]}
 {"sent_id": 14, "key_list": []}
-{"sent_id": 15, "key_list": [[2.0, "phyllite", [2, 0, 1.0]], [1.0, "slate", [1, 0, 0.5]]]}
+{"sent_id": 15, "key_list": [[2.0, "phyllite", [2, 0, 1.0]], [1.5, "they", [1, 0, 1.0]], [1.5, "slate", [2, 0, 0.5]]]}
 {"sent_id": 16, "key_list": []}
-{"sent_id": 17, "key_list": [[2.0, "variable mineral composition", [1, 1, 0.5]], [0.833, "pressure", [1, 0, 0.3333333333333333]]]}
+{"sent_id": 17, "key_list": [[1.833, "increase in and pressure variable mineral composition", [1, 1, 0.3333333333333333]]]}

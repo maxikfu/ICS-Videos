@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: For example, magnetite crystals sometimes occur as octahedrons, ______________ often form dodecahedrons, and halite and fluorite crystals tend to grow as cubes or near-cubes.
+a) amethyst
+b) garnets
+c) citrine
+d) garnet
+Answer: garnets
+

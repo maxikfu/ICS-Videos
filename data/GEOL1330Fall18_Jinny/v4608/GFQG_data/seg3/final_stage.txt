@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: Minerals that are ionically bonded, such as fluorite twice the specific gravity of ______________.
+a) amethyst
+b) quartz
+c) fine-grained large, intergrown calcite crystals
+d) topaz
+Answer: quartz
+

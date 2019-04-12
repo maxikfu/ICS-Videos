@@ -1,7 +1,7 @@
 Question: Recall from Bowen’s reaction series that rocks with a granitic composition are composed of ______________ with the lowest melting (crystallization) temperatures—namely, quartz and potassium feldspar .
-a) calcium
-b) minerals
-c) the nutrients
-d) the same mineral
+a) minerals
+b) a common clay mineral
+c) most plant nutrients
+d) calcium
 Answer: minerals
 

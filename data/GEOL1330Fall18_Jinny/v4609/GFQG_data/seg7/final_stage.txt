@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: The most common varieties of ______________ are milky (white), smoky (gray), rose (pink), amethyst (purple), citrine (yellow to brown), and rock crystal (clear) .
+a) amethyst
+b) fine-grained large, intergrown calcite crystals
+c) quartz
+d) topaz
+Answer: quartz
+

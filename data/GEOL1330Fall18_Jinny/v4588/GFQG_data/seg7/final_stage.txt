@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: Minerals can also precipitate from slowly moving ______________ filling in fractures and voids in rocks and sediments.
+a) the aquifer
+b) this wastewater
+c) contamination
+d) groundwater
+Answer: groundwater
+

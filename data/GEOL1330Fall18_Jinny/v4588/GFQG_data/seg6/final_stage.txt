@@ -1,1 +1,7 @@
-No relevant to video sentences were found. :(
+Question: The atom that loses ______________ becomes a positive ion, and the atom that gains ______________ becomes a negative ion.
+a) two hydrogen atoms
+b) protons
+c) electrons
+d) one electron
+Answer: electrons
+
