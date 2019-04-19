@@ -12,6 +12,13 @@ Video lectures are great learning resources that provide students with the abili
 First, the system creates textbook-video segment pairs based on the semantic similarity score. Next, the system finds the most informative and relevant sentence from the textbook segment and the most appropriate keys from it. The keys are noun phrases, which will serve as an answer to the question. Finally, the system generates gap-fill questions by first blanking out keys from the sentence and then determining the distractors for these keys. For the performance evaluation, we asked students, currently enrolled in a course, to evaluate questions created by our system. 
 Analysis of the evaluation results showed that our system successfully generates good questions, which are testing the knowledge of the course. However, the system failed to generate meaningful and relevant distractors for the questions. Hence, our system needs significant improvements in the distractors selection stage. As the future directions, we propose combining the concept embeddings with information retrieval approaches for distractors selection and the graph-based ranking model for the sentence and key phrase selection.
 
+### Example of how to use the system
+* Clean textbook data _book_preprocessing.py_
+* Run textbook segmentation process _texttiling.py_
+* Video data pre-processing _Video_OCR_Processing.py_
+* Extract words by segments _ocr2dict.py_
+* Concept Linking module _video_link2book.py_
+* Run the main file to generate questions _main_1.py_
 ### Authors
 * **Maksim Egorov** - [Maxikfu](https://github.com/Maxikfu)
 
